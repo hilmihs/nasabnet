@@ -1,0 +1,3065 @@
+[
+  {
+    "id": "is527",
+    "skip": false,
+    "subject": {
+      "ar": "عبد الله بن سهيل بن عمرو بن عبد شمس",
+      "lat": "Abdullah bin Suhail bin Amr",
+      "g": "m"
+    },
+    "father": {
+      "ar": "سهيل بن عمرو بن عبد شمس بن عبد ود",
+      "lat": "Suhail bin Amr bin Abdu Syams"
+    },
+    "mother": {
+      "ar": "فاختة بنت عامر بن نوفل بن عبد مناف",
+      "lat": "Fakhitah binti Amir bin Naufal"
+    },
+    "spouses": [],
+    "children": [],
+    "siblings": [],
+    "muakhah": [],
+    "patron": null,
+    "clients": [],
+    "other": [],
+    "flags": {
+      "badr": true,
+      "uhud": false,
+      "habasyah": true,
+      "muhajir": false,
+      "anshar": false,
+      "aqabah": false,
+      "fath_convert": false,
+      "slave_concubine_mother": false
+    },
+    "kunya": "أبو سهيل",
+    "tribe_hint": "بنو عامر بن لؤي (قريش)"
+  },
+  {
+    "id": "is528",
+    "skip": false,
+    "subject": {
+      "ar": "عمير بن عوف",
+      "lat": "Umair bin Auf",
+      "g": "m"
+    },
+    "father": {
+      "ar": "عوف",
+      "lat": "'Auf"
+    },
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "siblings": [],
+    "muakhah": [],
+    "patron": {
+      "ar": "سهيل بن عمرو",
+      "lat": "Suhail bin Amr"
+    },
+    "clients": [],
+    "other": [],
+    "flags": {
+      "badr": true,
+      "uhud": false,
+      "habasyah": false,
+      "muhajir": false,
+      "anshar": false,
+      "aqabah": false,
+      "fath_convert": false,
+      "slave_concubine_mother": false
+    },
+    "kunya": "أبو عمرو",
+    "tribe_hint": "موالي قريش"
+  },
+  {
+    "id": "is529",
+    "skip": false,
+    "subject": {
+      "ar": "وهب بن سعد بن أبي سرح",
+      "lat": "Wahb bin Sa'd bin Abi Sarh",
+      "g": "m"
+    },
+    "father": null,
+    "mother": {
+      "ar": "مهانة بنت جابر (من الأشعريين)",
+      "lat": "Mahanah binti Jabir"
+    },
+    "spouses": [],
+    "children": [],
+    "siblings": [
+      {
+        "ar": "عبد الله بن سعد بن أبي سرح",
+        "lat": "Abdullah bin Sa'd bin Abi Sarh",
+        "g": "m"
+      }
+    ],
+    "muakhah": [
+      {
+        "ar": "سويد بن عمرو",
+        "lat": "Suwaid bin Amr"
+      }
+    ],
+    "patron": null,
+    "clients": [],
+    "other": [],
+    "flags": {
+      "badr": true,
+      "uhud": false,
+      "habasyah": false,
+      "muhajir": false,
+      "anshar": false,
+      "aqabah": false,
+      "fath_convert": false,
+      "slave_concubine_mother": false
+    },
+    "kunya": "",
+    "tribe_hint": "بنو عامر بن لؤي (قريش)"
+  },
+  {
+    "id": "is531",
+    "skip": false,
+    "subject": {
+      "ar": "سعد بن خولة",
+      "lat": "Sa'd bin Khaulah",
+      "g": "m"
+    },
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "siblings": [],
+    "muakhah": [],
+    "patron": null,
+    "clients": [],
+    "other": [
+      {
+        "rel": "halif",
+        "ar": "بني عامر بن لؤي",
+        "lat": "Bani 'Amir bin Lu'ay"
+      }
+    ],
+    "flags": {
+      "badr": true,
+      "uhud": false,
+      "habasyah": false,
+      "muhajir": false,
+      "anshar": false,
+      "aqabah": false,
+      "fath_convert": false,
+      "slave_concubine_mother": false
+    },
+    "kunya": "أبو سعيد",
+    "tribe_hint": "حلفاء بني عامر بن لؤي (أهل اليمن)"
+  },
+  {
+    "id": "is533",
+    "skip": false,
+    "subject": {
+      "ar": "عامر بن عبد الله بن الجراح بن هلال",
+      "lat": "Amir bin Abdullah bin al-Jarrah",
+      "g": "m"
+    },
+    "father": null,
+    "mother": {
+      "ar": "أميمة بنت غنم بن جابر بن عبد العزى",
+      "lat": "Umaimah binti Ghanm bin Jabir"
+    },
+    "spouses": [],
+    "children": [
+      {
+        "ar": "يزيد بن أبي عبيدة",
+        "lat": "Yazid bin Abi 'Ubaidah",
+        "g": "m",
+        "mother": "هند بنت جابر بن وهب بن ضباب"
+      },
+      {
+        "ar": "عمير بن أبي عبيدة",
+        "lat": "Umair bin Abi 'Ubaidah",
+        "g": "m",
+        "mother": "هند بنت جابر بن وهب بن ضباب"
+      }
+    ],
+    "siblings": [],
+    "muakhah": [
+      {
+        "ar": "محمد بن مسلمة",
+        "lat": "Muhammad bin Maslamah"
+      }
+    ],
+    "patron": null,
+    "clients": [],
+    "other": [],
+    "flags": {
+      "badr": true,
+      "uhud": true,
+      "habasyah": false,
+      "muhajir": false,
+      "anshar": false,
+      "aqabah": false,
+      "fath_convert": false,
+      "slave_concubine_mother": false
+    },
+    "kunya": "أبو عبيدة",
+    "tribe_hint": "بنو فهر بن مالك (قريش)"
+  },
+  {
+    "id": "is534",
+    "skip": false,
+    "subject": {
+      "ar": "سهيل بن وهب بن ربيعة بن هلال",
+      "lat": "Suhail bin Wahb bin Rabi'ah",
+      "g": "m"
+    },
+    "father": {
+      "ar": "وهب بن ربيعة بن هلال بن مالك",
+      "lat": "Wahb bin Rabi'ah bin Hilal"
+    },
+    "mother": {
+      "ar": "دعد بنت جحدم بن عمرو بن عائش (al-Baidha')",
+      "lat": "Da'd binti Jahdam bin Amr"
+    },
+    "spouses": [],
+    "children": [],
+    "siblings": [],
+    "muakhah": [],
+    "patron": null,
+    "clients": [],
+    "other": [],
+    "flags": {
+      "badr": true,
+      "uhud": false,
+      "habasyah": true,
+      "muhajir": false,
+      "anshar": false,
+      "aqabah": false,
+      "fath_convert": false,
+      "slave_concubine_mother": false
+    },
+    "kunya": "أبو موسى",
+    "tribe_hint": "بنو الحارث بن فهر (قريش)"
+  },
+  {
+    "id": "is535",
+    "skip": false,
+    "subject": {
+      "ar": "صفوان بن وهب بن ربيعة بن هلال",
+      "lat": "Shafwan bin Wahb bin Rabi'ah",
+      "g": "m"
+    },
+    "father": {
+      "ar": "وهب بن ربيعة بن هلال بن مالك",
+      "lat": "Wahb bin Rabi'ah bin Hilal"
+    },
+    "mother": {
+      "ar": "دعد بنت جحدم بن عمرو بن عائش (al-Baidha')",
+      "lat": "Da'd binti Jahdam bin Amr"
+    },
+    "spouses": [],
+    "children": [],
+    "siblings": [],
+    "muakhah": [
+      {
+        "ar": "رافع بن المعلى",
+        "lat": "Rafi' bin al-Mu'alla"
+      }
+    ],
+    "patron": null,
+    "clients": [],
+    "other": [],
+    "flags": {
+      "badr": true,
+      "uhud": false,
+      "habasyah": false,
+      "muhajir": false,
+      "anshar": false,
+      "aqabah": false,
+      "fath_convert": false,
+      "slave_concubine_mother": false
+    },
+    "kunya": "أبو عمرو",
+    "tribe_hint": "بنو الحارث بن فهر (قريش)"
+  },
+  {
+    "id": "is536",
+    "skip": false,
+    "subject": {
+      "ar": "معمر بن أبي سرح بن ربيعة بن هلال",
+      "lat": "Ma'mar bin Abi Sarh bin Rabi'ah",
+      "g": "m"
+    },
+    "father": null,
+    "mother": {
+      "ar": "زينب بنت ربيعة بن وهب بن ضباب",
+      "lat": "Zainab binti Rabi'ah bin Wahb"
+    },
+    "spouses": [
+      {
+        "ar": "أمامة بنت عامر بن ربيعة بن هلال",
+        "lat": "Umamah binti Amir bin Rabi'ah",
+        "note": ""
+      }
+    ],
+    "children": [
+      {
+        "ar": "عبد الله بن معمر بن أبي سرح",
+        "lat": "Abdullah bin Ma'mar",
+        "g": "m",
+        "mother": "أمامة بنت عامر بن ربيعة"
+      },
+      {
+        "ar": "عمير بن معمر بن أبي سرح",
+        "lat": "Umair bin Ma'mar",
+        "g": "m",
+        "mother": "ابنة عبد الله بن الجراح (أخت أبي عبيدة)",
+        "note": "nama ibu tidak disebutkan, ia saudari Abu 'Ubaidah bin al-Jarrah"
+      }
+    ],
+    "siblings": [],
+    "muakhah": [],
+    "patron": null,
+    "clients": [],
+    "other": [],
+    "flags": {
+      "badr": true,
+      "uhud": false,
+      "habasyah": true,
+      "muhajir": false,
+      "anshar": false,
+      "aqabah": false,
+      "fath_convert": false,
+      "slave_concubine_mother": false
+    },
+    "kunya": "أبو سعد",
+    "tribe_hint": "بنو الحارث بن فهر (قريش)"
+  },
+  {
+    "id": "is537",
+    "skip": false,
+    "subject": {
+      "ar": "عياض بن زهير بن أبي شداد بن ربيعة",
+      "lat": "Iyadh bin Zuhair bin Abi Syaddad",
+      "g": "m"
+    },
+    "father": null,
+    "mother": {
+      "ar": "سلمى بنت عامر بن ربيعة بن هلال",
+      "lat": "Salma binti Amir bin Rabi'ah"
+    },
+    "spouses": [],
+    "children": [],
+    "siblings": [],
+    "muakhah": [],
+    "patron": null,
+    "clients": [],
+    "other": [],
+    "flags": {
+      "badr": true,
+      "uhud": false,
+      "habasyah": true,
+      "muhajir": false,
+      "anshar": false,
+      "aqabah": false,
+      "fath_convert": false,
+      "slave_concubine_mother": false
+    },
+    "kunya": "أبو سعد",
+    "tribe_hint": "بنو الحارث بن فهر (قريش)"
+  },
+  {
+    "id": "is538",
+    "skip": false,
+    "subject": {
+      "ar": "عمرو بن أبي عمرو بن ضبة بن فهر",
+      "lat": "Amr bin Abi Amr bin Dhabbah",
+      "g": "m"
+    },
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "siblings": [],
+    "muakhah": [],
+    "patron": null,
+    "clients": [],
+    "other": [],
+    "flags": {
+      "badr": true,
+      "uhud": false,
+      "habasyah": false,
+      "muhajir": false,
+      "anshar": false,
+      "aqabah": false,
+      "fath_convert": false,
+      "slave_concubine_mother": false
+    },
+    "kunya": "أبو شداد",
+    "tribe_hint": "بنو محارب بن فهر (قريش)"
+  },
+  {
+    "id": "is539",
+    "skip": true,
+    "subject": null,
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "siblings": [],
+    "muakhah": [],
+    "patron": null,
+    "clients": [],
+    "other": [],
+    "flags": {
+      "badr": false,
+      "uhud": false,
+      "habasyah": false,
+      "muhajir": false,
+      "anshar": false,
+      "aqabah": false,
+      "fath_convert": false,
+      "slave_concubine_mother": false
+    },
+    "kunya": "",
+    "tribe_hint": ""
+  },
+  {
+    "id": "is541",
+    "skip": false,
+    "subject": {
+      "ar": "سعد بن معاذ بن النعمان بن امرئ القيس",
+      "lat": "Sa'd bin Mu'adz bin an-Nu'man",
+      "g": "m"
+    },
+    "father": null,
+    "mother": {
+      "ar": "كبشة بنت رافع بن معاوية بن عبيد",
+      "lat": "Kabsyah binti Rafi' bin Mu'awiyah"
+    },
+    "spouses": [
+      {
+        "ar": "هند بنت سماك بن عتيك بن امرئ القيس",
+        "lat": "Hindun binti Simak bin 'Atik",
+        "note": "sebelumnya istri Aus bin Mu'adz, saudara Sa'd"
+      }
+    ],
+    "children": [
+      {
+        "ar": "عمرو بن سعد بن معاذ",
+        "lat": "Amr bin Sa'd bin Mu'adz",
+        "g": "m",
+        "mother": "هند بنت سماك بن عتيك"
+      },
+      {
+        "ar": "عبد الله بن سعد بن معاذ",
+        "lat": "Abdullah bin Sa'd bin Mu'adz",
+        "g": "m",
+        "mother": "هند بنت سماك بن عتيك"
+      }
+    ],
+    "siblings": [],
+    "muakhah": [],
+    "patron": null,
+    "clients": [],
+    "other": [],
+    "flags": {
+      "badr": true,
+      "uhud": false,
+      "habasyah": false,
+      "muhajir": false,
+      "anshar": true,
+      "aqabah": false,
+      "fath_convert": false,
+      "slave_concubine_mother": false
+    },
+    "kunya": "أبو عمرو",
+    "tribe_hint": "بنو عبد الأشهل (الأنصار - الأوس)"
+  },
+  {
+    "id": "is542",
+    "skip": false,
+    "subject": {
+      "ar": "عمرو بن معاذ بن النعمان بن امرئ القيس",
+      "lat": "Amr bin Mu'adz bin an-Nu'man",
+      "g": "m"
+    },
+    "father": null,
+    "mother": {
+      "ar": "كبشة بنت رافع بن معاوية بن عبيد",
+      "lat": "Kabsyah binti Rafi' bin Mu'awiyah"
+    },
+    "spouses": [],
+    "children": [],
+    "siblings": [
+      {
+        "ar": "سعد بن معاذ بن النعمان",
+        "lat": "Sa'd bin Mu'adz",
+        "g": "m"
+      }
+    ],
+    "muakhah": [
+      {
+        "ar": "عمير بن أبي وقاص",
+        "lat": "Umair bin Abi Waqqash"
+      }
+    ],
+    "patron": null,
+    "clients": [],
+    "other": [],
+    "flags": {
+      "badr": true,
+      "uhud": true,
+      "habasyah": false,
+      "muhajir": false,
+      "anshar": true,
+      "aqabah": false,
+      "fath_convert": false,
+      "slave_concubine_mother": false
+    },
+    "kunya": "أبو عثمان",
+    "tribe_hint": "بنو عبد الأشهل (الأنصار - الأوس)"
+  },
+  {
+    "id": "is543",
+    "skip": false,
+    "subject": {
+      "ar": "الحارث بن أوس بن معاذ بن النعمان",
+      "lat": "al-Harits bin Aus bin Mu'adz",
+      "g": "m"
+    },
+    "father": null,
+    "mother": {
+      "ar": "هند بنت سماك بن عتيك بن امرئ القيس",
+      "lat": "Hindun binti Simak bin 'Atik"
+    },
+    "spouses": [],
+    "children": [],
+    "siblings": [],
+    "muakhah": [
+      {
+        "ar": "عامر بن فهيرة",
+        "lat": "Amir bin Fuhairah"
+      }
+    ],
+    "patron": null,
+    "clients": [],
+    "other": [],
+    "flags": {
+      "badr": true,
+      "uhud": false,
+      "habasyah": false,
+      "muhajir": false,
+      "anshar": true,
+      "aqabah": false,
+      "fath_convert": false,
+      "slave_concubine_mother": false
+    },
+    "kunya": "أبو أوس",
+    "tribe_hint": "بنو عبد الأشهل (الأنصار - الأوس)"
+  },
+  {
+    "id": "is544",
+    "skip": false,
+    "subject": {
+      "ar": "الحارث بن أنس بن رافع بن امرئ القيس",
+      "lat": "al-Harits bin Anas bin Rafi'",
+      "g": "m"
+    },
+    "father": {
+      "ar": "أنس بن رافع بن امرئ القيس بن زيد",
+      "lat": "Anas bin Rafi' bin Imru'ilqais"
+    },
+    "mother": {
+      "ar": "أم شريك بنت خالد بن خنيس بن لوذان",
+      "lat": "Ummu Syarik binti Khalid bin Khunais"
+    },
+    "spouses": [],
+    "children": [],
+    "siblings": [],
+    "muakhah": [],
+    "patron": null,
+    "clients": [],
+    "other": [],
+    "flags": {
+      "badr": true,
+      "uhud": true,
+      "habasyah": false,
+      "muhajir": false,
+      "anshar": true,
+      "aqabah": false,
+      "fath_convert": false,
+      "slave_concubine_mother": false
+    },
+    "kunya": "",
+    "tribe_hint": "بنو عبد الأشهل (الأنصار - الأوس)"
+  },
+  {
+    "id": "is545",
+    "skip": false,
+    "subject": {
+      "ar": "سعد بن زيد بن مالك بن عبد",
+      "lat": "Sa'd bin Zaid bin Malik",
+      "g": "m"
+    },
+    "father": null,
+    "mother": {
+      "ar": "عمرة بنت مسعود بن قيس بن عمرو",
+      "lat": "Amrah binti Mas'ud bin Qais"
+    },
+    "spouses": [],
+    "children": [],
+    "siblings": [],
+    "muakhah": [],
+    "patron": null,
+    "clients": [],
+    "other": [],
+    "flags": {
+      "badr": true,
+      "uhud": true,
+      "habasyah": false,
+      "muhajir": false,
+      "anshar": true,
+      "aqabah": true,
+      "fath_convert": false,
+      "slave_concubine_mother": false
+    },
+    "kunya": "أبو عبد الله",
+    "tribe_hint": "بنو عبد الأشهل (الأنصار - الأوس)"
+  },
+  {
+    "id": "is546",
+    "skip": false,
+    "subject": {
+      "ar": "سلمة بن سلامة بن وقش بن زغبة",
+      "lat": "Salamah bin Salamah bin Waqsy",
+      "g": "m"
+    },
+    "father": null,
+    "mother": {
+      "ar": "سلمى بنت سلمة بن سلامة بن خالد",
+      "lat": "Salma binti Salamah bin Salamah"
+    },
+    "spouses": [],
+    "children": [
+      {
+        "ar": "عوف بن سلمة بن سلامة",
+        "lat": "Auf bin Salamah",
+        "g": "m",
+        "mother": "أم ولد"
+      },
+      {
+        "ar": "ميمونة بنت سلمة بن سلامة",
+        "lat": "Maimunah binti Salamah",
+        "g": "f",
+        "mother": "أم علي بنت خالد بن زيد بن تيم"
+      }
+    ],
+    "siblings": [],
+    "muakhah": [
+      {
+        "ar": "أبو سبرة بن أبي رهم",
+        "lat": "Abu Sabrah bin Abi Ruhm"
+      },
+      {
+        "ar": "الزبير بن العوام",
+        "lat": "az-Zubair bin al-'Awwam",
+        "note": "riwayat lain (Ibnu Ishaq)"
+      }
+    ],
+    "patron": null,
+    "clients": [],
+    "other": [],
+    "flags": {
+      "badr": true,
+      "uhud": false,
+      "habasyah": false,
+      "muhajir": false,
+      "anshar": true,
+      "aqabah": true,
+      "fath_convert": false,
+      "slave_concubine_mother": false
+    },
+    "kunya": "أبو عوف",
+    "tribe_hint": "بنو عبد الأشهل (الأنصار - الأوس)"
+  },
+  {
+    "id": "is547",
+    "skip": false,
+    "subject": {
+      "ar": "عباد بن بشر بن وقش بن زغبة",
+      "lat": "Abbad bin Bisyr bin Waqsy",
+      "g": "m"
+    },
+    "father": null,
+    "mother": {
+      "ar": "فاطمة بنت بشر بن عدي بن أبي",
+      "lat": "Fathimah binti Bisyr bin Adi"
+    },
+    "spouses": [],
+    "children": [
+      {
+        "ar": "ابنة عباد بن بشر (غير مسماة)",
+        "lat": "putri 'Abbad bin Bisyr (tidak disebutkan namanya)",
+        "g": "f",
+        "mother": "",
+        "note": "satu-satunya anak, tidak memiliki keturunan"
+      }
+    ],
+    "siblings": [],
+    "muakhah": [
+      {
+        "ar": "أبو حذيفة بن عتبة بن ربيعة",
+        "lat": "Abu Hudzaifah bin Utbah bin Rabi'ah"
+      }
+    ],
+    "patron": null,
+    "clients": [],
+    "other": [],
+    "flags": {
+      "badr": true,
+      "uhud": true,
+      "habasyah": false,
+      "muhajir": false,
+      "anshar": true,
+      "aqabah": false,
+      "fath_convert": false,
+      "slave_concubine_mother": false
+    },
+    "kunya": "أبو بشر",
+    "tribe_hint": "بنو عبد الأشهل (الأنصار - الأوس)"
+  },
+  {
+    "id": "is548",
+    "skip": false,
+    "subject": {
+      "ar": "سلمة بن ثابت بن وقش بن زغبة",
+      "lat": "Salamah bin Tsabit bin Waqsy",
+      "g": "m"
+    },
+    "father": null,
+    "mother": {
+      "ar": "ليلى بنت حسيل بن جابر (al-Yaman)",
+      "lat": "Laila binti Husail bin Jabir"
+    },
+    "spouses": [],
+    "children": [],
+    "siblings": [],
+    "muakhah": [],
+    "patron": null,
+    "clients": [],
+    "other": [
+      {
+        "rel": "paman (khal)",
+        "ar": "حذيفة بن اليمان",
+        "lat": "Hudzaifah bin al-Yaman"
+      }
+    ],
+    "flags": {
+      "badr": true,
+      "uhud": true,
+      "habasyah": false,
+      "muhajir": false,
+      "anshar": true,
+      "aqabah": false,
+      "fath_convert": false,
+      "slave_concubine_mother": false
+    },
+    "kunya": "",
+    "tribe_hint": "بنو عبد الأشهل (الأنصار - الأوس)"
+  },
+  {
+    "id": "is549",
+    "skip": false,
+    "subject": {
+      "ar": "رافع بن يزيد بن كرز بن سكن",
+      "lat": "Rafi' bin Yazid bin Karz",
+      "g": "m"
+    },
+    "father": null,
+    "mother": {
+      "ar": "عقرب بنت معاذ بن النعمان بن امرئ القيس",
+      "lat": "Aqrab binti Mu'adz bin an-Nu'man"
+    },
+    "spouses": [
+      {
+        "ar": "عقرب بنت سلامة بن وقش بن زغبة",
+        "lat": "Aqrab binti Salamah bin Waqsy",
+        "note": ""
+      }
+    ],
+    "children": [
+      {
+        "ar": "أسيد بن رافع بن يزيد",
+        "lat": "Usaid bin Rafi'",
+        "g": "m",
+        "mother": "عقرب بنت سلامة بن وقش"
+      },
+      {
+        "ar": "عبد الرحمن بن رافع بن يزيد",
+        "lat": "Abdurrahman bin Rafi'",
+        "g": "m",
+        "mother": "عقرب بنت سلامة بن وقش"
+      }
+    ],
+    "siblings": [],
+    "muakhah": [],
+    "patron": null,
+    "clients": [],
+    "other": [
+      {
+        "rel": "paman (khal)",
+        "ar": "سعد بن معاذ",
+        "lat": "Sa'd bin Mu'adz"
+      }
+    ],
+    "flags": {
+      "badr": true,
+      "uhud": true,
+      "habasyah": false,
+      "muhajir": false,
+      "anshar": true,
+      "aqabah": false,
+      "fath_convert": false,
+      "slave_concubine_mother": false
+    },
+    "kunya": "",
+    "tribe_hint": "بنو عبد الأشهل (الأنصار - الأوس)"
+  },
+  {
+    "id": "is551",
+    "skip": false,
+    "subject": {
+      "ar": "محمد بن مسلمة بن سلمة بن خالد",
+      "lat": "Muhammad bin Maslamah bin Salamah",
+      "g": "m"
+    },
+    "father": null,
+    "mother": {
+      "ar": "خليدة بنت أبي عبيد بن وهب بن لوذان (Ummu Sahm)",
+      "lat": "Khulaidah binti Abi Ubaid bin Wahb"
+    },
+    "spouses": [
+      {
+        "ar": "أم عمرو بنت سلامة بن وقش بن زغبة",
+        "lat": "Umm 'Amr binti Salamah bin Waqsy",
+        "note": ""
+      },
+      {
+        "ar": "عمرة بنت مسعود بن أوس بن مالك",
+        "lat": "Amrah binti Mas'ud bin Aus",
+        "note": ""
+      },
+      {
+        "ar": "قتيلة بنت الحصين بن ضمضم",
+        "lat": "Qatilah binti al-Hushain bin Dhamdham",
+        "note": ""
+      },
+      {
+        "ar": "زهراء بنت عمار بن معمر",
+        "lat": "Zahra' binti Ammar bin Ma'mar",
+        "note": ""
+      },
+      {
+        "ar": "امرأة من الأطبا (بطن من كلب)",
+        "lat": "wanita dari Bani Athba' (Kalb)",
+        "note": "nama tidak disebutkan"
+      }
+    ],
+    "children": [
+      {
+        "ar": "عبد الرحمن بن محمد بن مسلمة",
+        "lat": "Abdurrahman bin Muhammad",
+        "g": "m",
+        "mother": "أم عمرو بنت سلامة بن وقش"
+      },
+      {
+        "ar": "أم عيسى بنت محمد بن مسلمة",
+        "lat": "Umm 'Isa binti Muhammad",
+        "g": "f",
+        "mother": "أم عمرو بنت سلامة بن وقش"
+      },
+      {
+        "ar": "أم الحارث بنت محمد بن مسلمة",
+        "lat": "Umm al-Harits binti Muhammad",
+        "g": "f",
+        "mother": "أم عمرو بنت سلامة بن وقش"
+      },
+      {
+        "ar": "عبد الله بن محمد بن مسلمة",
+        "lat": "Abdullah bin Muhammad",
+        "g": "m",
+        "mother": "عمرة بنت مسعود بن أوس"
+      },
+      {
+        "ar": "أم أحمد بنت محمد بن مسلمة",
+        "lat": "Umm Ahmad binti Muhammad",
+        "g": "f",
+        "mother": "عمرة بنت مسعود بن أوس"
+      },
+      {
+        "ar": "سعد بن محمد بن مسلمة",
+        "lat": "Sa'd bin Muhammad",
+        "g": "m",
+        "mother": "قتيلة بنت الحصين بن ضمضم"
+      },
+      {
+        "ar": "جعفر بن محمد بن مسلمة",
+        "lat": "Ja'far bin Muhammad",
+        "g": "m",
+        "mother": "قتيلة بنت الحصين بن ضمضم"
+      },
+      {
+        "ar": "أم زيد بنت محمد بن مسلمة",
+        "lat": "Umm Zaid binti Muhammad",
+        "g": "f",
+        "mother": "قتيلة بنت الحصين بن ضمضم"
+      },
+      {
+        "ar": "عمر بن محمد بن مسلمة",
+        "lat": "Umar bin Muhammad",
+        "g": "m",
+        "mother": "زهراء بنت عمار بن معمر"
+      },
+      {
+        "ar": "أنس بن محمد بن مسلمة",
+        "lat": "Anas bin Muhammad",
+        "g": "m",
+        "mother": "امرأة من الأطبا (بطن من كلب)"
+      },
+      {
+        "ar": "عمرة بنت محمد بن مسلمة",
+        "lat": "Amrah binti Muhammad",
+        "g": "f",
+        "mother": "امرأة من الأطبا (بطن من كلب)"
+      },
+      {
+        "ar": "قيس بن محمد بن مسلمة",
+        "lat": "Qais bin Muhammad",
+        "g": "m",
+        "mother": "أم ولد"
+      },
+      {
+        "ar": "زيد بن محمد بن مسلمة",
+        "lat": "Zaid bin Muhammad",
+        "g": "m",
+        "mother": "أم ولد"
+      },
+      {
+        "ar": "محمد بن محمد بن مسلمة",
+        "lat": "Muhammad bin Muhammad",
+        "g": "m",
+        "mother": "أم ولد"
+      },
+      {
+        "ar": "محمود بن محمد بن مسلمة",
+        "lat": "Mahmud bin Muhammad",
+        "g": "m",
+        "mother": "أم ولد",
+        "note": "tidak memiliki keturunan"
+      },
+      {
+        "ar": "حفصة بنت محمد بن مسلمة",
+        "lat": "Hafshah binti Muhammad",
+        "g": "f",
+        "mother": "أم ولد"
+      }
+    ],
+    "siblings": [],
+    "muakhah": [
+      {
+        "ar": "أبو عبيدة بن الجراح",
+        "lat": "Abu 'Ubaidah bin al-Jarrah"
+      }
+    ],
+    "patron": null,
+    "clients": [],
+    "other": [],
+    "flags": {
+      "badr": true,
+      "uhud": true,
+      "habasyah": false,
+      "muhajir": false,
+      "anshar": true,
+      "aqabah": false,
+      "fath_convert": false,
+      "slave_concubine_mother": false
+    },
+    "kunya": "أبو عبد الرحمن",
+    "tribe_hint": "حلفاء بني عبد الأشهل (الأنصار - الأوس)"
+  },
+  {
+    "id": "is552",
+    "skip": false,
+    "subject": {
+      "ar": "سلمة بن أسلم بن حريس بن عدي",
+      "lat": "Salamah bin Aslam bin Huraits",
+      "g": "m"
+    },
+    "father": null,
+    "mother": {
+      "ar": "سعاد بنت رافع بن أبي عمرو بن عائذ",
+      "lat": "Su'ad binti Rafi' bin Abi Amr"
+    },
+    "spouses": [],
+    "children": [],
+    "siblings": [],
+    "muakhah": [],
+    "patron": null,
+    "clients": [],
+    "other": [],
+    "flags": {
+      "badr": true,
+      "uhud": true,
+      "habasyah": false,
+      "muhajir": false,
+      "anshar": true,
+      "aqabah": false,
+      "fath_convert": false,
+      "slave_concubine_mother": false
+    },
+    "kunya": "أبو سعد",
+    "tribe_hint": "بنو حريس بن عدي (حلفاء بني عبد الأشهل، الأنصار)"
+  },
+  {
+    "id": "is553",
+    "skip": false,
+    "subject": {
+      "ar": "عبد الله بن سهل بن زيد بن عامر",
+      "lat": "Abdullah bin Sahl bin Zaid",
+      "g": "m"
+    },
+    "father": null,
+    "mother": {
+      "ar": "الصعبة بنت التيهان بن مالك",
+      "lat": "ash-Sha'bah binti at-Tayyihan"
+    },
+    "spouses": [],
+    "children": [],
+    "siblings": [
+      {
+        "ar": "رافع بن سهل بن زيد",
+        "lat": "Rafi' bin Sahl",
+        "g": "m"
+      }
+    ],
+    "muakhah": [],
+    "patron": null,
+    "clients": [],
+    "other": [
+      {
+        "rel": "paman (khal)",
+        "ar": "أبو الهيثم بن التيهان",
+        "lat": "Abu al-Haitsam bin at-Tayyihan"
+      }
+    ],
+    "flags": {
+      "badr": true,
+      "uhud": true,
+      "habasyah": false,
+      "muhajir": false,
+      "anshar": true,
+      "aqabah": false,
+      "fath_convert": false,
+      "slave_concubine_mother": false
+    },
+    "kunya": "",
+    "tribe_hint": "بنو الحارث بن الخزرج (الأنصار - الأوس)"
+  },
+  {
+    "id": "is554",
+    "skip": false,
+    "subject": {
+      "ar": "الحارث بن خزمة بن عدي بن أبي",
+      "lat": "al-Harits bin Khuzamah bin Adi",
+      "g": "m"
+    },
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "siblings": [],
+    "muakhah": [
+      {
+        "ar": "إياس بن أبي البكير",
+        "lat": "Iyas bin Abi al-Bukair"
+      }
+    ],
+    "patron": null,
+    "clients": [],
+    "other": [
+      {
+        "rel": "halif",
+        "ar": "بني عبد الأشهل",
+        "lat": "Bani Abdul Asyhal"
+      }
+    ],
+    "flags": {
+      "badr": true,
+      "uhud": true,
+      "habasyah": false,
+      "muhajir": false,
+      "anshar": true,
+      "aqabah": false,
+      "fath_convert": false,
+      "slave_concubine_mother": false
+    },
+    "kunya": "أبو بشير",
+    "tribe_hint": "القواقلة من بني عوف بن الخزرج، حلفاء بني عبد الأشهل (الأنصار)"
+  },
+  {
+    "id": "is555",
+    "skip": false,
+    "subject": {
+      "ar": "مالك بن التيهان بن مالك بن عمرو",
+      "lat": "Malik bin at-Tayyihan bin Malik",
+      "g": "m"
+    },
+    "father": null,
+    "mother": {
+      "ar": "ليلى بنت عتيك بن عمرو بن عبد الأعلم",
+      "lat": "Laila binti 'Atik bin Amr"
+    },
+    "spouses": [],
+    "children": [
+      {
+        "ar": "أميمة بنت أبي الهيثم بن التيهان",
+        "lat": "Umaimah binti Abi al-Haitsam",
+        "g": "f",
+        "mother": ""
+      }
+    ],
+    "siblings": [],
+    "muakhah": [
+      {
+        "ar": "عثمان بن مظعون",
+        "lat": "Utsman bin Madh'un"
+      }
+    ],
+    "patron": null,
+    "clients": [],
+    "other": [
+      {
+        "rel": "halif",
+        "ar": "بني عبد الأشهل",
+        "lat": "Bani Abdul Asyhal"
+      }
+    ],
+    "flags": {
+      "badr": true,
+      "uhud": true,
+      "habasyah": false,
+      "muhajir": false,
+      "anshar": true,
+      "aqabah": true,
+      "fath_convert": false,
+      "slave_concubine_mother": false
+    },
+    "kunya": "أبو الهيثم",
+    "tribe_hint": "حليف بني عبد الأشهل (الأنصار)"
+  },
+  {
+    "id": "is556",
+    "skip": false,
+    "subject": {
+      "ar": "عبيد بن التيهان بن مالك",
+      "lat": "Ubaid bin at-Tayyihan bin Malik",
+      "g": "m"
+    },
+    "father": null,
+    "mother": {
+      "ar": "ليلى بنت عتيك بن عمرو",
+      "lat": "Laila binti 'Atik bin Amr"
+    },
+    "spouses": [
+      {
+        "ar": "الصعبة بنت رافع بن عدي بن زيد",
+        "lat": "ash-Sha'bah binti Rafi' bin Adi",
+        "note": ""
+      }
+    ],
+    "children": [
+      {
+        "ar": "عبيد الله بن عبيد بن التيهان",
+        "lat": "Ubaidullah bin Ubaid",
+        "g": "m",
+        "mother": "الصعبة بنت رافع بن عدي بن زيد",
+        "note": "terbunuh pada hari al-Yamamah"
+      },
+      {
+        "ar": "عباد بن عبيد بن التيهان",
+        "lat": "Abbad bin Ubaid",
+        "g": "m",
+        "mother": "الصعبة بنت رافع بن عدي بن زيد"
+      }
+    ],
+    "siblings": [
+      {
+        "ar": "أبو الهيثم بن التيهان",
+        "lat": "Abu al-Haitsam bin at-Tayyihan",
+        "g": "m"
+      }
+    ],
+    "muakhah": [
+      {
+        "ar": "مسعود بن الربيع القاري",
+        "lat": "Mas'ud bin ar-Rabi' al-Qari"
+      }
+    ],
+    "patron": null,
+    "clients": [],
+    "other": [],
+    "flags": {
+      "badr": true,
+      "uhud": true,
+      "habasyah": false,
+      "muhajir": false,
+      "anshar": true,
+      "aqabah": true,
+      "fath_convert": false,
+      "slave_concubine_mother": false
+    },
+    "kunya": "",
+    "tribe_hint": "حليف بني عبد الأشهل (الأنصار)"
+  },
+  {
+    "id": "is558",
+    "skip": false,
+    "subject": {
+      "ar": "عبد الرحمن بن جبر بن عمرو بن زيد",
+      "lat": "Abdurrahman bin Jabr bin Amr",
+      "g": "m"
+    },
+    "father": null,
+    "mother": {
+      "ar": "ليلى بنت رافع بن عمرو بن عدي",
+      "lat": "Laila binti Rafi' bin Amr"
+    },
+    "spouses": [
+      {
+        "ar": "أم عيسى بنت مسلمة بن سلمة بن خالد",
+        "lat": "Umm 'Isa binti Maslamah bin Salamah",
+        "note": ""
+      },
+      {
+        "ar": "أم حارث بنت محمد بن مسلمة",
+        "lat": "Umm al-Harits binti Muhammad bin Maslamah",
+        "note": ""
+      }
+    ],
+    "children": [
+      {
+        "ar": "محمد بن أبي عبس",
+        "lat": "Muhammad bin Abi 'Abs",
+        "g": "m",
+        "mother": "أم عيسى بنت مسلمة"
+      },
+      {
+        "ar": "محمود بن أبي عبس",
+        "lat": "Mahmud bin Abi 'Abs",
+        "g": "m",
+        "mother": "أم عيسى بنت مسلمة"
+      },
+      {
+        "ar": "عبيد الله بن أبي عبس",
+        "lat": "Ubaidullah bin Abi 'Abs",
+        "g": "m",
+        "mother": "أم حارث بنت محمد بن مسلمة"
+      },
+      {
+        "ar": "زيد بن أبي عبس",
+        "lat": "Zaid bin Abi 'Abs",
+        "g": "m",
+        "mother": ""
+      },
+      {
+        "ar": "حميد بن أبي عبس",
+        "lat": "Humaid bin Abi 'Abs",
+        "g": "m",
+        "mother": ""
+      }
+    ],
+    "siblings": [],
+    "muakhah": [
+      {
+        "ar": "خنيس بن حذافة السهمي",
+        "lat": "Khunais bin Hudzafah as-Sahmi"
+      }
+    ],
+    "patron": null,
+    "clients": [],
+    "other": [],
+    "flags": {
+      "badr": true,
+      "uhud": true,
+      "habasyah": false,
+      "muhajir": false,
+      "anshar": true,
+      "aqabah": false,
+      "fath_convert": false,
+      "slave_concubine_mother": false
+    },
+    "kunya": "أبو عبس",
+    "tribe_hint": "بنو حارثة بن الحارث (الأنصار - الأوس)"
+  },
+  {
+    "id": "is559",
+    "skip": false,
+    "subject": {
+      "ar": "مسعود بن عبد سعد بن عامر بن عدي",
+      "lat": "Mas'ud bin Abdi Sa'd bin Amir",
+      "g": "m"
+    },
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "siblings": [],
+    "muakhah": [],
+    "patron": null,
+    "clients": [],
+    "other": [
+      {
+        "rel": "halif",
+        "ar": "بني حارثة",
+        "lat": "Bani Haritsah"
+      }
+    ],
+    "flags": {
+      "badr": true,
+      "uhud": true,
+      "habasyah": false,
+      "muhajir": false,
+      "anshar": true,
+      "aqabah": false,
+      "fath_convert": false,
+      "slave_concubine_mother": false
+    },
+    "kunya": "",
+    "tribe_hint": "حلفاء بني حارثة (الأنصار)"
+  },
+  {
+    "id": "is561",
+    "skip": false,
+    "subject": {
+      "ar": "هانئ بن نيار بن عمرو بن عبيد",
+      "lat": "Hani' bin Nayyar bin Amr",
+      "g": "m"
+    },
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "siblings": [],
+    "muakhah": [],
+    "patron": null,
+    "clients": [],
+    "other": [
+      {
+        "rel": "halif",
+        "ar": "بني حارثة",
+        "lat": "Bani Haritsah"
+      },
+      {
+        "rel": "keponakan",
+        "ar": "البراء بن عازب",
+        "lat": "al-Bara' bin Azib"
+      }
+    ],
+    "flags": {
+      "badr": true,
+      "uhud": false,
+      "habasyah": false,
+      "muhajir": false,
+      "anshar": true,
+      "aqabah": true,
+      "fath_convert": false,
+      "slave_concubine_mother": false
+    },
+    "kunya": "أبو بردة",
+    "tribe_hint": "حلفاء بني حارثة (الأنصار)"
+  },
+  {
+    "id": "is563",
+    "skip": false,
+    "subject": {
+      "ar": "قتادة بن النعمان بن زيد بن عامر",
+      "lat": "Qatadah bin an-Nu'man bin Zaid",
+      "g": "m"
+    },
+    "father": null,
+    "mother": {
+      "ar": "أنيسة بنت قيس بن عمرو بن عبيد",
+      "lat": "Unaisah binti Qais bin Amr"
+    },
+    "spouses": [
+      {
+        "ar": "هند بنت أوس بن خزمة بن عدي",
+        "lat": "Hindun binti Aus bin Khuzamah",
+        "note": ""
+      },
+      {
+        "ar": "الخنساء بنت خنيس الغساني",
+        "lat": "al-Khansa' binti Khunais al-Ghassani",
+        "note": "ada riwayat lain menyebut nama istri ini Aisyah binti Jurayy bin Amr"
+      }
+    ],
+    "children": [
+      {
+        "ar": "عبد الله بن قتادة بن النعمان",
+        "lat": "Abdullah bin Qatadah",
+        "g": "m",
+        "mother": "هند بنت أوس بن خزمة"
+      },
+      {
+        "ar": "أم عمرو بنت قتادة بن النعمان",
+        "lat": "Umm Amr binti Qatadah",
+        "g": "f",
+        "mother": "هند بنت أوس بن خزمة"
+      },
+      {
+        "ar": "عمرو بن قتادة بن النعمان",
+        "lat": "Amr bin Qatadah",
+        "g": "m",
+        "mother": "الخنساء بنت خنيس الغساني"
+      },
+      {
+        "ar": "حفصة بنت قتادة بن النعمان",
+        "lat": "Hafshah binti Qatadah",
+        "g": "f",
+        "mother": "الخنساء بنت خنيس الغساني"
+      }
+    ],
+    "siblings": [],
+    "muakhah": [],
+    "patron": null,
+    "clients": [],
+    "other": [],
+    "flags": {
+      "badr": true,
+      "uhud": false,
+      "habasyah": false,
+      "muhajir": false,
+      "anshar": true,
+      "aqabah": false,
+      "fath_convert": false,
+      "slave_concubine_mother": false
+    },
+    "kunya": "أبو عمر",
+    "tribe_hint": "بنو ظفر (الأنصار - الأوس)"
+  },
+  {
+    "id": "is564",
+    "skip": false,
+    "subject": {
+      "ar": "عبيد بن أوس بن مالك بن سواد",
+      "lat": "Ubaid bin Aus bin Malik",
+      "g": "m"
+    },
+    "father": null,
+    "mother": {
+      "ar": "لميس بنت قيس بن القريم بن أمية",
+      "lat": "Lamis binti Qais bin al-Quraim"
+    },
+    "spouses": [],
+    "children": [],
+    "siblings": [],
+    "muakhah": [],
+    "patron": null,
+    "clients": [],
+    "other": [],
+    "flags": {
+      "badr": true,
+      "uhud": false,
+      "habasyah": false,
+      "muhajir": false,
+      "anshar": true,
+      "aqabah": false,
+      "fath_convert": false,
+      "slave_concubine_mother": false
+    },
+    "kunya": "أبو النعمان",
+    "tribe_hint": "بنو ظفر (الأنصار - الأوس)"
+  },
+  {
+    "id": "is565",
+    "skip": false,
+    "subject": {
+      "ar": "نصر بن الحارث بن عبد رزاح بن ظفر",
+      "lat": "Nashr bin al-Harits bin Abdi Rizah",
+      "g": "m"
+    },
+    "father": null,
+    "mother": {
+      "ar": "سودة بنت سواد بن الهيثم بن ظفر",
+      "lat": "Saudah binti Sawad bin al-Haitsam"
+    },
+    "spouses": [],
+    "children": [],
+    "siblings": [],
+    "muakhah": [],
+    "patron": null,
+    "clients": [],
+    "other": [
+      {
+        "rel": "halif",
+        "ar": "بني ظفر",
+        "lat": "Bani Zhafar"
+      }
+    ],
+    "flags": {
+      "badr": true,
+      "uhud": false,
+      "habasyah": false,
+      "muhajir": false,
+      "anshar": true,
+      "aqabah": false,
+      "fath_convert": false,
+      "slave_concubine_mother": false
+    },
+    "kunya": "أبو الحارث",
+    "tribe_hint": "حلفاء بني ظفر (الأنصار)"
+  },
+  {
+    "id": "is567",
+    "skip": false,
+    "subject": {
+      "ar": "عبد الله بن طارق بن عمرو بن مالك",
+      "lat": "Abdullah bin Thariq bin Amr",
+      "g": "m"
+    },
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "siblings": [
+      {
+        "ar": "معتب بن عبيد",
+        "lat": "Mu'attib bin Ubaid",
+        "g": "m",
+        "note": "saudara seibu"
+      }
+    ],
+    "muakhah": [],
+    "patron": null,
+    "clients": [],
+    "other": [
+      {
+        "rel": "halif",
+        "ar": "بني ظفر",
+        "lat": "Bani Zhafar"
+      }
+    ],
+    "flags": {
+      "badr": true,
+      "uhud": false,
+      "habasyah": false,
+      "muhajir": false,
+      "anshar": true,
+      "aqabah": false,
+      "fath_convert": false,
+      "slave_concubine_mother": false
+    },
+    "kunya": "",
+    "tribe_hint": "حلفاء بني ظفر (الأنصار)"
+  },
+  {
+    "id": "is568",
+    "skip": false,
+    "subject": {
+      "ar": "معتب بن عبيد بن إياس بن تيم",
+      "lat": "Mu'attib bin Ubaid bin Iyas",
+      "g": "m"
+    },
+    "father": null,
+    "mother": {
+      "ar": "امرأة من بني عذرة (كاهل)",
+      "lat": "wanita dari Bani 'Udzrah (Kahil)"
+    },
+    "spouses": [],
+    "children": [],
+    "siblings": [
+      {
+        "ar": "عبد الله بن طارق بن عمرو",
+        "lat": "Abdullah bin Thariq",
+        "g": "m",
+        "note": "saudara seibu"
+      }
+    ],
+    "muakhah": [],
+    "patron": null,
+    "clients": [],
+    "other": [
+      {
+        "rel": "sepupu",
+        "ar": "أسير بن عروة بن سواد بن الهيثم",
+        "lat": "Usair bin Urwah bin Sawad"
+      }
+    ],
+    "flags": {
+      "badr": true,
+      "uhud": true,
+      "habasyah": false,
+      "muhajir": false,
+      "anshar": true,
+      "aqabah": false,
+      "fath_convert": false,
+      "slave_concubine_mother": false
+    },
+    "kunya": "",
+    "tribe_hint": "حلفاء بني ظفر (الأنصار)"
+  },
+  {
+    "id": "is570",
+    "skip": false,
+    "subject": {
+      "ar": "مبشر بن عبد المنذر بن رفاعة بن زنبر",
+      "lat": "Mubasysyir bin Abdul Mundzir",
+      "g": "m"
+    },
+    "father": null,
+    "mother": {
+      "ar": "نسيبة بنت زيد بن ضبيعة بن زيد",
+      "lat": "Nusaibah binti Zaid bin Dhubai'ah"
+    },
+    "spouses": [],
+    "children": [],
+    "siblings": [
+      {
+        "ar": "رفاعة بن عبد المنذر",
+        "lat": "Rifa'ah bin Abdul Mundzir",
+        "g": "m"
+      },
+      {
+        "ar": "أبو لبابة بن عبد المنذر (بشير)",
+        "lat": "Basyir bin Abdul Mundzir (Abu Lubabah)",
+        "g": "m"
+      }
+    ],
+    "muakhah": [
+      {
+        "ar": "عاقل بن أبي البكير",
+        "lat": "'Aqil bin Abi al-Bukair",
+        "note": "ada riwayat yang menyebut muakhah ini sebenarnya antara 'Aqil bin Abi al-Bukair dan Mujaththir bin Ziyad"
+      }
+    ],
+    "patron": null,
+    "clients": [],
+    "other": [],
+    "flags": {
+      "badr": true,
+      "uhud": false,
+      "habasyah": false,
+      "muhajir": false,
+      "anshar": true,
+      "aqabah": false,
+      "fath_convert": false,
+      "slave_concubine_mother": false
+    },
+    "kunya": "",
+    "tribe_hint": "بنو عمرو بن عوف (الأنصار - الأوس)"
+  },
+  {
+    "id": "is571",
+    "skip": false,
+    "subject": {
+      "ar": "رفاعة بن عبد المنذر بن رفاعة بن زنبر",
+      "lat": "Rifa'ah bin Abdul Mundzir",
+      "g": "m"
+    },
+    "father": null,
+    "mother": {
+      "ar": "نسيبة بنت زيد بن ضبيعة بن زيد",
+      "lat": "Nusaibah binti Zaid bin Dhubai'ah"
+    },
+    "spouses": [
+      {
+        "ar": "ظبية بنت النعمان بن عامر بن مجمع",
+        "lat": "Zhabyah binti an-Nu'man bin Amir",
+        "note": ""
+      }
+    ],
+    "children": [
+      {
+        "ar": "مليكة بنت رفاعة بن عبد المنذر",
+        "lat": "Mulaikah binti Rifa'ah",
+        "g": "f",
+        "mother": "ظبية بنت النعمان بن عامر",
+        "note": "menikah dengan Umar bin Abi Salamah al-Makhzumi"
+      }
+    ],
+    "siblings": [
+      {
+        "ar": "مبشر بن عبد المنذر",
+        "lat": "Mubasysyir bin Abdul Mundzir",
+        "g": "m"
+      },
+      {
+        "ar": "أبو لبابة بن عبد المنذر (بشير)",
+        "lat": "Basyir bin Abdul Mundzir (Abu Lubabah)",
+        "g": "m"
+      }
+    ],
+    "muakhah": [],
+    "patron": null,
+    "clients": [],
+    "other": [],
+    "flags": {
+      "badr": true,
+      "uhud": true,
+      "habasyah": false,
+      "muhajir": false,
+      "anshar": true,
+      "aqabah": true,
+      "fath_convert": false,
+      "slave_concubine_mother": false
+    },
+    "kunya": "",
+    "tribe_hint": "بنو عمرو بن عوف (الأنصار - الأوس)"
+  },
+  {
+    "id": "is572",
+    "skip": false,
+    "subject": {
+      "ar": "بشير بن عبد المنذر بن رفاعة بن زنبر",
+      "lat": "Basyir bin Abdul Mundzir",
+      "g": "m"
+    },
+    "father": null,
+    "mother": {
+      "ar": "نسيبة بنت زيد بن ضبيعة بن زيد",
+      "lat": "Nusaibah binti Zaid bin Dhubai'ah"
+    },
+    "spouses": [
+      {
+        "ar": "زينب بنت خذام بن خالد بن ثعلبة",
+        "lat": "Zainab binti Khuzam bin Khalid",
+        "note": ""
+      },
+      {
+        "ar": "نسيبة بنت فضالة بن النعمان بن قيس",
+        "lat": "Nusaibah binti Fudhalah bin an-Nu'man",
+        "note": ""
+      }
+    ],
+    "children": [
+      {
+        "ar": "السائب بن أبي لبابة",
+        "lat": "as-Sa'ib bin Abi Lubabah",
+        "g": "m",
+        "mother": "زينب بنت خذام بن خالد"
+      },
+      {
+        "ar": "لبابة بنت أبي لبابة",
+        "lat": "Lubabah binti Abi Lubabah",
+        "g": "f",
+        "mother": "نسيبة بنت فضالة بن النعمان",
+        "note": "menikah dengan Zaid bin al-Khaththab dan memiliki anak darinya"
+      }
+    ],
+    "siblings": [
+      {
+        "ar": "مبشر بن عبد المنذر",
+        "lat": "Mubasysyir bin Abdul Mundzir",
+        "g": "m"
+      },
+      {
+        "ar": "رفاعة بن عبد المنذر",
+        "lat": "Rifa'ah bin Abdul Mundzir",
+        "g": "m"
+      }
+    ],
+    "muakhah": [],
+    "patron": null,
+    "clients": [],
+    "other": [],
+    "flags": {
+      "badr": true,
+      "uhud": false,
+      "habasyah": false,
+      "muhajir": false,
+      "anshar": true,
+      "aqabah": false,
+      "fath_convert": false,
+      "slave_concubine_mother": false
+    },
+    "kunya": "أبو لبابة",
+    "tribe_hint": "بنو عمرو بن عوف (الأنصار - الأوس)"
+  },
+  {
+    "id": "is573",
+    "skip": false,
+    "subject": {
+      "ar": "سعد بن عبيد بن النعمان بن قيس",
+      "lat": "Sa'd bin Ubaid bin an-Nu'man",
+      "g": "m"
+    },
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [
+      {
+        "ar": "عمير بن سعد بن عبيد",
+        "lat": "Umair bin Sa'd",
+        "g": "m",
+        "mother": ""
+      }
+    ],
+    "siblings": [],
+    "muakhah": [],
+    "patron": null,
+    "clients": [],
+    "other": [],
+    "flags": {
+      "badr": true,
+      "uhud": true,
+      "habasyah": false,
+      "muhajir": false,
+      "anshar": true,
+      "aqabah": false,
+      "fath_convert": false,
+      "slave_concubine_mother": false
+    },
+    "kunya": "أبو زيد",
+    "tribe_hint": "بنو عمرو بن عوف (الأنصار - الأوس)"
+  },
+  {
+    "id": "is574",
+    "skip": false,
+    "subject": {
+      "ar": "عويم بن ساعدة بن عائش بن قيس",
+      "lat": "Uwaim bin Sa'idah bin A'isy",
+      "g": "m"
+    },
+    "father": null,
+    "mother": {
+      "ar": "عميرة بنت سالم بن سلمة بن أمية",
+      "lat": "Umairah binti Salim bin Salamah"
+    },
+    "spouses": [
+      {
+        "ar": "أمامة بنت بكير بن ثعلبة",
+        "lat": "Umamah binti Bukair bin Tsa'labah",
+        "note": ""
+      }
+    ],
+    "children": [
+      {
+        "ar": "عتبة بن عويم بن ساعدة",
+        "lat": "Utbah bin Uwaim",
+        "g": "m",
+        "mother": "أمامة بنت بكير بن ثعلبة"
+      },
+      {
+        "ar": "سويد بن عويم بن ساعدة",
+        "lat": "Suwaid bin Uwaim",
+        "g": "m",
+        "mother": "أمامة بنت بكير بن ثعلبة",
+        "note": "terbunuh pada hari al-Harrah"
+      },
+      {
+        "ar": "قرظة بن عويم بن ساعدة",
+        "lat": "Qarazhah bin Uwaim",
+        "g": "m",
+        "mother": "أمامة بنت بكير بن ثعلبة"
+      }
+    ],
+    "siblings": [],
+    "muakhah": [
+      {
+        "ar": "عمر بن الخطاب",
+        "lat": "Umar bin al-Khaththab"
+      },
+      {
+        "ar": "حاطب بن أبي بلتعة",
+        "lat": "Hathib bin Abi Balta'ah",
+        "note": "riwayat lain (Ibnu Ishaq)"
+      }
+    ],
+    "patron": null,
+    "clients": [],
+    "other": [],
+    "flags": {
+      "badr": true,
+      "uhud": false,
+      "habasyah": false,
+      "muhajir": false,
+      "anshar": true,
+      "aqabah": true,
+      "fath_convert": false,
+      "slave_concubine_mother": false
+    },
+    "kunya": "أبو عبد الرحمن",
+    "tribe_hint": "بنو عمرو بن عوف (الأنصار - الأوس)"
+  },
+  {
+    "id": "is575",
+    "skip": false,
+    "subject": {
+      "ar": "ثعلبة بن حاطب بن عمرو بن عبيد",
+      "lat": "Tsa'labah bin Hathib bin Amr",
+      "g": "m"
+    },
+    "father": null,
+    "mother": {
+      "ar": "أمامة بنت صامت بن خالد بن عطية",
+      "lat": "Umamah binti Shamit bin Khalid"
+    },
+    "spouses": [
+      {
+        "ar": "امرأة من بني واقف",
+        "lat": "wanita dari Bani Waqif",
+        "note": "nama tidak disebutkan"
+      },
+      {
+        "ar": "لبابة بنت عقبة بن بشير (من غطفان)",
+        "lat": "Lubabah binti Uqbah bin Bisyr",
+        "note": ""
+      }
+    ],
+    "children": [
+      {
+        "ar": "عبيد الله بن ثعلبة بن حاطب",
+        "lat": "Ubaidullah bin Tsa'labah",
+        "g": "m",
+        "mother": "امرأة من بني واقف"
+      },
+      {
+        "ar": "عبد الله بن ثعلبة بن حاطب",
+        "lat": "Abdullah bin Tsa'labah",
+        "g": "m",
+        "mother": "امرأة من بني واقف"
+      },
+      {
+        "ar": "عمير بن ثعلبة بن حاطب",
+        "lat": "Umair bin Tsa'labah",
+        "g": "m",
+        "mother": "امرأة من بني واقف"
+      },
+      {
+        "ar": "رفاعة بن ثعلبة بن حاطب",
+        "lat": "Rifa'ah bin Tsa'labah",
+        "g": "m",
+        "mother": "لبابة بنت عقبة بن بشير"
+      },
+      {
+        "ar": "عبد الرحمن بن ثعلبة بن حاطب",
+        "lat": "Abdurrahman bin Tsa'labah",
+        "g": "m",
+        "mother": "لبابة بنت عقبة بن بشير"
+      },
+      {
+        "ar": "عياض بن ثعلبة بن حاطب",
+        "lat": "Iyadh bin Tsa'labah",
+        "g": "m",
+        "mother": "لبابة بنت عقبة بن بشير"
+      },
+      {
+        "ar": "عميرة بنت ثعلبة بن حاطب",
+        "lat": "Umairah binti Tsa'labah",
+        "g": "f",
+        "mother": "لبابة بنت عقبة بن بشير"
+      }
+    ],
+    "siblings": [
+      {
+        "ar": "الحارث بن حاطب بن عمرو",
+        "lat": "al-Harits bin Hathib bin Amr",
+        "g": "m"
+      }
+    ],
+    "muakhah": [
+      {
+        "ar": "معتب بن الحمراء",
+        "lat": "Mu'attib bin al-Hamra'"
+      }
+    ],
+    "patron": null,
+    "clients": [],
+    "other": [],
+    "flags": {
+      "badr": true,
+      "uhud": true,
+      "habasyah": false,
+      "muhajir": false,
+      "anshar": true,
+      "aqabah": false,
+      "fath_convert": false,
+      "slave_concubine_mother": false
+    },
+    "kunya": "",
+    "tribe_hint": "بنو عمرو بن عوف (الأنصار - الأوس)"
+  },
+  {
+    "id": "is576",
+    "skip": false,
+    "subject": {
+      "ar": "الحارث بن حاطب بن عمرو بن عبيد",
+      "lat": "al-Harits bin Hathib bin Amr",
+      "g": "m"
+    },
+    "father": null,
+    "mother": {
+      "ar": "أمامة بنت صامت بن خالد بن عطية",
+      "lat": "Umamah binti Shamit bin Khalid"
+    },
+    "spouses": [
+      {
+        "ar": "أم عبد الله بنت أوس بن حارثة",
+        "lat": "Umm Abdullah binti Aus bin Haritsah",
+        "note": ""
+      }
+    ],
+    "children": [
+      {
+        "ar": "عبد الله بن الحارث بن حاطب",
+        "lat": "Abdullah bin al-Harits",
+        "g": "m",
+        "mother": "أم عبد الله بنت أوس بن حارثة"
+      }
+    ],
+    "siblings": [
+      {
+        "ar": "ثعلبة بن حاطب بن عمرو",
+        "lat": "Tsa'labah bin Hathib bin Amr",
+        "g": "m"
+      }
+    ],
+    "muakhah": [],
+    "patron": null,
+    "clients": [],
+    "other": [],
+    "flags": {
+      "badr": true,
+      "uhud": false,
+      "habasyah": false,
+      "muhajir": false,
+      "anshar": true,
+      "aqabah": false,
+      "fath_convert": false,
+      "slave_concubine_mother": false
+    },
+    "kunya": "أبو عبد الله",
+    "tribe_hint": "بنو عمرو بن عوف (الأنصار - الأوس)"
+  },
+  {
+    "id": "is577",
+    "skip": false,
+    "subject": {
+      "ar": "رافع بن عبد الحارث",
+      "lat": "Rafi' bin Abdul Harits",
+      "g": "m"
+    },
+    "father": {
+      "ar": "عبد الحارث",
+      "lat": "Abdul Harits"
+    },
+    "mother": {
+      "ar": "عنجدة",
+      "lat": "Anjadah"
+    },
+    "spouses": [],
+    "children": [],
+    "siblings": [],
+    "muakhah": [
+      {
+        "ar": "الحصين بن الحارث بن المطلب",
+        "lat": "al-Hushain bin al-Harits bin al-Muththalib"
+      }
+    ],
+    "patron": null,
+    "clients": [],
+    "other": [
+      {
+        "rel": "halif",
+        "ar": "بلي (قضاعة)",
+        "lat": "Bali (Qudha'ah)"
+      }
+    ],
+    "flags": {
+      "badr": true,
+      "uhud": true,
+      "habasyah": false,
+      "muhajir": false,
+      "anshar": true,
+      "aqabah": false,
+      "fath_convert": false,
+      "slave_concubine_mother": false
+    },
+    "kunya": "",
+    "tribe_hint": "حلفاء من بلي (الأنصار)"
+  },
+  {
+    "id": "is578",
+    "skip": false,
+    "subject": {
+      "ar": "عبيد بن أبي عبيد",
+      "lat": "Ubaid bin Abi Ubaid",
+      "g": "m"
+    },
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "siblings": [],
+    "muakhah": [],
+    "patron": null,
+    "clients": [],
+    "other": [],
+    "flags": {
+      "badr": true,
+      "uhud": true,
+      "habasyah": false,
+      "muhajir": false,
+      "anshar": true,
+      "aqabah": false,
+      "fath_convert": false,
+      "slave_concubine_mother": false
+    },
+    "kunya": "",
+    "tribe_hint": "بنو ضبيعة بن زيد (الأنصار - الأوس)"
+  },
+  {
+    "id": "is580",
+    "skip": false,
+    "subject": {
+      "ar": "عاصم بن ثابت بن قيس (أبي الأقلح)",
+      "lat": "Ashim bin Tsabit bin Qais",
+      "g": "m"
+    },
+    "father": null,
+    "mother": {
+      "ar": "الشموس بنت أبي عامر بن صيفي بن النعمان",
+      "lat": "asy-Syamus binti Abi Amir bin Shaifi"
+    },
+    "spouses": [],
+    "children": [
+      {
+        "ar": "محمد بن عاصم بن ثابت",
+        "lat": "Muhammad bin Ashim",
+        "g": "m",
+        "mother": "هند بنت مالك بن عامر بن حذيفة"
+      }
+    ],
+    "siblings": [],
+    "muakhah": [
+      {
+        "ar": "عبد الله بن جحش",
+        "lat": "Abdullah bin Jahsy"
+      }
+    ],
+    "patron": null,
+    "clients": [],
+    "other": [],
+    "flags": {
+      "badr": true,
+      "uhud": true,
+      "habasyah": false,
+      "muhajir": false,
+      "anshar": true,
+      "aqabah": false,
+      "fath_convert": false,
+      "slave_concubine_mother": false
+    },
+    "kunya": "أبو سليمان",
+    "tribe_hint": "بنو ضبيعة بن زيد (الأنصار - الأوس)"
+  },
+  {
+    "id": "is581",
+    "skip": false,
+    "subject": {
+      "ar": "معتب بن قشير بن مليل بن زيد",
+      "lat": "Mu'attib bin Qusyair bin Mulail",
+      "g": "m"
+    },
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "siblings": [],
+    "muakhah": [],
+    "patron": null,
+    "clients": [],
+    "other": [],
+    "flags": {
+      "badr": true,
+      "uhud": true,
+      "habasyah": false,
+      "muhajir": false,
+      "anshar": true,
+      "aqabah": false,
+      "fath_convert": false,
+      "slave_concubine_mother": false
+    },
+    "kunya": "",
+    "tribe_hint": "بنو ضبيعة بن زيد (الأنصار - الأوس)"
+  },
+  {
+    "id": "is582",
+    "skip": false,
+    "subject": {
+      "ar": "أبو مليل بن الأزعر بن زيد بن العطاف",
+      "lat": "Abu Mulail bin al-Az'ar",
+      "g": "m"
+    },
+    "father": null,
+    "mother": {
+      "ar": "أم عمرو بنت الأشرف بن العطاف بن ضبيعة",
+      "lat": "Umm Amr binti al-Asyraf bin al-Atthaf"
+    },
+    "spouses": [],
+    "children": [],
+    "siblings": [
+      {
+        "ar": "عمير بن معبد بن الأزعر",
+        "lat": "Umair bin Ma'bad bin al-Az'ar",
+        "g": "m"
+      }
+    ],
+    "muakhah": [],
+    "patron": null,
+    "clients": [],
+    "other": [],
+    "flags": {
+      "badr": true,
+      "uhud": true,
+      "habasyah": false,
+      "muhajir": false,
+      "anshar": true,
+      "aqabah": false,
+      "fath_convert": false,
+      "slave_concubine_mother": false
+    },
+    "kunya": "",
+    "tribe_hint": "بنو عبيد بن زيد (الأنصار - الأوس)"
+  },
+  {
+    "id": "is583",
+    "skip": false,
+    "subject": {
+      "ar": "عمير بن معبد بن الأزعر بن زيد",
+      "lat": "Umair bin Ma'bad bin al-Az'ar",
+      "g": "m"
+    },
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "siblings": [
+      {
+        "ar": "أبو مليل بن الأزعر",
+        "lat": "Abu Mulail bin al-Az'ar",
+        "g": "m"
+      }
+    ],
+    "muakhah": [],
+    "patron": null,
+    "clients": [],
+    "other": [],
+    "flags": {
+      "badr": true,
+      "uhud": true,
+      "habasyah": false,
+      "muhajir": false,
+      "anshar": true,
+      "aqabah": false,
+      "fath_convert": false,
+      "slave_concubine_mother": false
+    },
+    "kunya": "",
+    "tribe_hint": "بنو عبيد بن زيد (الأنصار - الأوس)"
+  },
+  {
+    "id": "is585",
+    "skip": false,
+    "subject": {
+      "ar": "أنيس بن قتادة بن ربيعة بن خالد",
+      "lat": "Unais bin Qatadah bin Rabi'ah",
+      "g": "m"
+    },
+    "father": null,
+    "mother": null,
+    "spouses": [
+      {
+        "ar": "خنساء بنت خذام الأسدية",
+        "lat": "al-Khansa' binti Khuzam al-Asadiyyah",
+        "note": ""
+      }
+    ],
+    "children": [],
+    "siblings": [],
+    "muakhah": [],
+    "patron": null,
+    "clients": [],
+    "other": [],
+    "flags": {
+      "badr": true,
+      "uhud": true,
+      "habasyah": false,
+      "muhajir": false,
+      "anshar": true,
+      "aqabah": false,
+      "fath_convert": false,
+      "slave_concubine_mother": false
+    },
+    "kunya": "",
+    "tribe_hint": "بنو عبيد بن زيد (الأنصار - الأوس)"
+  },
+  {
+    "id": "is587",
+    "skip": false,
+    "subject": {
+      "ar": "معن بن عدي بن الجد بن العجلان",
+      "lat": "Ma'n bin Adi bin al-Jadd",
+      "g": "m"
+    },
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "siblings": [],
+    "muakhah": [
+      {
+        "ar": "زيد بن الخطاب بن نفيل",
+        "lat": "Zaid bin al-Khaththab bin Nufail"
+      }
+    ],
+    "patron": null,
+    "clients": [],
+    "other": [],
+    "flags": {
+      "badr": true,
+      "uhud": true,
+      "habasyah": false,
+      "muhajir": false,
+      "anshar": true,
+      "aqabah": true,
+      "fath_convert": false,
+      "slave_concubine_mother": false
+    },
+    "kunya": "",
+    "tribe_hint": "بنو العجلان بن حارثة (الأنصار، حلفاء قضاعة)"
+  },
+  {
+    "id": "is588",
+    "skip": false,
+    "subject": {
+      "ar": "عاصم بن عدي بن الجد بن العجلان",
+      "lat": "Ashim bin Adi bin al-Jadd",
+      "g": "m"
+    },
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "siblings": [],
+    "muakhah": [],
+    "patron": null,
+    "clients": [],
+    "other": [],
+    "flags": {
+      "badr": true,
+      "uhud": false,
+      "habasyah": false,
+      "muhajir": false,
+      "anshar": true,
+      "aqabah": false,
+      "fath_convert": false,
+      "slave_concubine_mother": false
+    },
+    "kunya": "أبو بكر",
+    "tribe_hint": "بنو العجلان بن حارثة (الأنصار، حلفاء قضاعة)"
+  },
+  {
+    "id": "is589",
+    "skip": false,
+    "subject": {
+      "ar": "ثابت بن أقرم بن ثعلبة بن عدي",
+      "lat": "Tsabit bin Aqram bin Tsa'labah",
+      "g": "m"
+    },
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "siblings": [],
+    "muakhah": [],
+    "patron": null,
+    "clients": [],
+    "other": [],
+    "flags": {
+      "badr": true,
+      "uhud": true,
+      "habasyah": false,
+      "muhajir": false,
+      "anshar": true,
+      "aqabah": false,
+      "fath_convert": false,
+      "slave_concubine_mother": false
+    },
+    "kunya": "",
+    "tribe_hint": "بنو العجلان بن حارثة (الأنصار، حلفاء قضاعة)"
+  },
+  {
+    "id": "is590",
+    "skip": false,
+    "subject": {
+      "ar": "زيد بن أسلم بن ثعلبة بن عدي",
+      "lat": "Zaid bin Aslam bin Tsa'labah",
+      "g": "m"
+    },
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "siblings": [],
+    "muakhah": [],
+    "patron": null,
+    "clients": [],
+    "other": [],
+    "flags": {
+      "badr": true,
+      "uhud": true,
+      "habasyah": false,
+      "muhajir": false,
+      "anshar": true,
+      "aqabah": false,
+      "fath_convert": false,
+      "slave_concubine_mother": false
+    },
+    "kunya": "",
+    "tribe_hint": "بنو العجلان بن حارثة (الأنصار، حلفاء قضاعة)"
+  },
+  {
+    "id": "is591",
+    "skip": false,
+    "subject": {
+      "ar": "عبد الله بن سلمة بن مالك بن الحارث",
+      "lat": "Abdullah bin Salamah bin Malik",
+      "g": "m"
+    },
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "siblings": [],
+    "muakhah": [],
+    "patron": null,
+    "clients": [],
+    "other": [],
+    "flags": {
+      "badr": true,
+      "uhud": true,
+      "habasyah": false,
+      "muhajir": false,
+      "anshar": true,
+      "aqabah": false,
+      "fath_convert": false,
+      "slave_concubine_mother": false
+    },
+    "kunya": "أبو الحارث",
+    "tribe_hint": "بنو العجلان بن حارثة (الأنصار، حلفاء قضاعة)"
+  },
+  {
+    "id": "is592",
+    "skip": false,
+    "subject": {
+      "ar": "ربعي بن رافع بن الحارث بن زيد",
+      "lat": "Rib'i bin Rafi' bin al-Harits",
+      "g": "m"
+    },
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "siblings": [],
+    "muakhah": [],
+    "patron": null,
+    "clients": [],
+    "other": [],
+    "flags": {
+      "badr": true,
+      "uhud": true,
+      "habasyah": false,
+      "muhajir": false,
+      "anshar": true,
+      "aqabah": false,
+      "fath_convert": false,
+      "slave_concubine_mother": false
+    },
+    "kunya": "",
+    "tribe_hint": "بنو العجلان بن حارثة (الأنصار، حلفاء قضاعة)"
+  },
+  {
+    "id": "is594",
+    "skip": false,
+    "subject": {
+      "ar": "جبر بن عتيك بن قيس بن هيشة",
+      "lat": "Jabr bin Atik bin Qais",
+      "g": "m"
+    },
+    "father": null,
+    "mother": {
+      "ar": "جميلة بنت زيد بن صيفي بن عمرو",
+      "lat": "Jamilah binti Zaid bin Shaifi"
+    },
+    "spouses": [
+      {
+        "ar": "هضبة بنت عمرو بن مالك بن سبيع",
+        "lat": "Hadhbah binti Amr bin Malik",
+        "note": ""
+      }
+    ],
+    "children": [
+      {
+        "ar": "عتيك بن جبر بن عتيك",
+        "lat": "Atik bin Jabr",
+        "g": "m",
+        "mother": "هضبة بنت عمرو بن مالك"
+      },
+      {
+        "ar": "عبد الله بن جبر بن عتيك",
+        "lat": "Abdullah bin Jabr",
+        "g": "m",
+        "mother": "هضبة بنت عمرو بن مالك"
+      },
+      {
+        "ar": "أم ثابت بنت جبر بن عتيك",
+        "lat": "Umm Tsabit binti Jabr",
+        "g": "f",
+        "mother": "هضبة بنت عمرو بن مالك"
+      }
+    ],
+    "siblings": [],
+    "muakhah": [
+      {
+        "ar": "خباب بن الأرت",
+        "lat": "Khabbab bin al-Arat"
+      }
+    ],
+    "patron": null,
+    "clients": [],
+    "other": [],
+    "flags": {
+      "badr": true,
+      "uhud": true,
+      "habasyah": false,
+      "muhajir": false,
+      "anshar": true,
+      "aqabah": false,
+      "fath_convert": false,
+      "slave_concubine_mother": false
+    },
+    "kunya": "أبو عبد الله",
+    "tribe_hint": "بنو معاوية بن مالك (الأنصار - الأوس)"
+  },
+  {
+    "id": "is595",
+    "skip": false,
+    "subject": {
+      "ar": "الحارث بن قيس بن هيشة بن الحارث",
+      "lat": "al-Harits bin Qais bin Haisyah",
+      "g": "m"
+    },
+    "father": null,
+    "mother": {
+      "ar": "زينب بنت الصيفي بن عمرو بن زيد",
+      "lat": "Zainab binti ash-Shaifi bin Amr"
+    },
+    "spouses": [],
+    "children": [],
+    "siblings": [],
+    "muakhah": [],
+    "patron": null,
+    "clients": [],
+    "other": [],
+    "flags": {
+      "badr": true,
+      "uhud": false,
+      "habasyah": false,
+      "muhajir": false,
+      "anshar": true,
+      "aqabah": false,
+      "fath_convert": false,
+      "slave_concubine_mother": false
+    },
+    "kunya": "",
+    "tribe_hint": "بنو معاوية بن مالك (الأنصار - الأوس)"
+  },
+  {
+    "id": "is597",
+    "skip": false,
+    "subject": {
+      "ar": "مالك بن ثابت (من مزينة)",
+      "lat": "Malik bin Tsabit",
+      "g": "m"
+    },
+    "father": null,
+    "mother": {
+      "ar": "نميلة",
+      "lat": "Numailah"
+    },
+    "spouses": [],
+    "children": [],
+    "siblings": [],
+    "muakhah": [],
+    "patron": null,
+    "clients": [],
+    "other": [
+      {
+        "rel": "halif",
+        "ar": "بني معاوية بن مالك",
+        "lat": "Bani Mu'awiyah bin Malik"
+      }
+    ],
+    "flags": {
+      "badr": true,
+      "uhud": true,
+      "habasyah": false,
+      "muhajir": false,
+      "anshar": true,
+      "aqabah": false,
+      "fath_convert": false,
+      "slave_concubine_mother": false
+    },
+    "kunya": "",
+    "tribe_hint": "حلفاء بني معاوية بن مالك (من مزينة)"
+  },
+  {
+    "id": "is598",
+    "skip": false,
+    "subject": {
+      "ar": "نعمان بن عصر بن عبيد بن وائلة",
+      "lat": "an-Nu'man bin 'Ashr bin Ubaid",
+      "g": "m"
+    },
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "siblings": [],
+    "muakhah": [],
+    "patron": null,
+    "clients": [],
+    "other": [
+      {
+        "rel": "halif",
+        "ar": "بني معاوية بن مالك",
+        "lat": "Bani Mu'awiyah bin Malik"
+      }
+    ],
+    "flags": {
+      "badr": true,
+      "uhud": true,
+      "habasyah": false,
+      "muhajir": false,
+      "anshar": true,
+      "aqabah": false,
+      "fath_convert": false,
+      "slave_concubine_mother": false
+    },
+    "kunya": "",
+    "tribe_hint": "حلفاء بني معاوية بن مالك (من بلي قضاعة)"
+  },
+  {
+    "id": "is600",
+    "skip": false,
+    "subject": {
+      "ar": "سهل بن حنيف بن واهب بن العكيم",
+      "lat": "Sahl bin Hunaif bin Wahib",
+      "g": "m"
+    },
+    "father": null,
+    "mother": {
+      "ar": "هند بنت رافع بن عميس بن معاوية",
+      "lat": "Hindun binti Rafi' bin Umais"
+    },
+    "spouses": [
+      {
+        "ar": "حبيبة بنت أبي أمامة أسعد بن زرارة",
+        "lat": "Habibah binti Abi Umamah As'ad bin Zurarah",
+        "note": ""
+      },
+      {
+        "ar": "أم كلثوم بنت عتبة بن أبي وقاص",
+        "lat": "Ummu Kultsum binti Utbah bin Abi Waqqash",
+        "note": ""
+      }
+    ],
+    "children": [
+      {
+        "ar": "أسعد بن سهل بن حنيف",
+        "lat": "As'ad bin Sahl",
+        "g": "m",
+        "mother": "حبيبة بنت أبي أمامة",
+        "note": "dikenal dengan kunyah Abu Umamah, dinamai seperti kakek dari ibunya"
+      },
+      {
+        "ar": "عثمان بن سهل بن حنيف",
+        "lat": "Utsman bin Sahl",
+        "g": "m",
+        "mother": "حبيبة بنت أبي أمامة"
+      },
+      {
+        "ar": "سعد بن سهل بن حنيف",
+        "lat": "Sa'd bin Sahl",
+        "g": "m",
+        "mother": "أم كلثوم بنت عتبة بن أبي وقاص"
+      }
+    ],
+    "siblings": [
+      {
+        "ar": "عبد الله بن أبي حبيبة",
+        "lat": "Abdullah bin Abi Habibah",
+        "g": "m",
+        "note": "saudara seibu"
+      },
+      {
+        "ar": "النعمان بن أبي حبيبة",
+        "lat": "an-Nu'man bin Abi Habibah",
+        "g": "m",
+        "note": "saudara seibu"
+      }
+    ],
+    "muakhah": [
+      {
+        "ar": "علي بن أبي طالب",
+        "lat": "Ali bin Abi Thalib"
+      }
+    ],
+    "patron": null,
+    "clients": [],
+    "other": [],
+    "flags": {
+      "badr": true,
+      "uhud": true,
+      "habasyah": false,
+      "muhajir": false,
+      "anshar": true,
+      "aqabah": false,
+      "fath_convert": false,
+      "slave_concubine_mother": false
+    },
+    "kunya": "أبو سعد",
+    "tribe_hint": "بنو حنش بن عوف (الأنصار - الأوس)"
+  },
+  {
+    "id": "is602",
+    "skip": false,
+    "subject": {
+      "ar": "المنذر بن محمد بن عقبة بن أحيحة",
+      "lat": "al-Mundzir bin Muhammad bin Uqbah",
+      "g": "m"
+    },
+    "father": null,
+    "mother": {
+      "ar": "امرأة من آل أبي قردة (هذيل)",
+      "lat": "wanita dari Al Abi Qurdah (Hudzail)"
+    },
+    "spouses": [],
+    "children": [],
+    "siblings": [],
+    "muakhah": [
+      {
+        "ar": "الطفيل بن الحارث بن المطلب",
+        "lat": "ath-Thufail bin al-Harits bin al-Muththalib"
+      }
+    ],
+    "patron": null,
+    "clients": [],
+    "other": [],
+    "flags": {
+      "badr": true,
+      "uhud": true,
+      "habasyah": false,
+      "muhajir": false,
+      "anshar": true,
+      "aqabah": false,
+      "fath_convert": false,
+      "slave_concubine_mother": false
+    },
+    "kunya": "أبو عبدة",
+    "tribe_hint": "بنو جحجبا بن كلفة (الأنصار - الأوس)"
+  },
+  {
+    "id": "is604",
+    "skip": false,
+    "subject": {
+      "ar": "عبد الرحمن بن عبد الله بن ثعلبة",
+      "lat": "Abdurrahman bin Abdullah bin Tsa'labah",
+      "g": "m"
+    },
+    "father": {
+      "ar": "عبد الله بن ثعلبة بن بيحان",
+      "lat": "Abdullah bin Tsa'labah bin Baihan"
+    },
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "siblings": [],
+    "muakhah": [],
+    "patron": null,
+    "clients": [],
+    "other": [
+      {
+        "rel": "halif",
+        "ar": "بني جحجبا بن كلفة",
+        "lat": "Bani Jahjaba"
+      }
+    ],
+    "flags": {
+      "badr": true,
+      "uhud": false,
+      "habasyah": false,
+      "muhajir": false,
+      "anshar": true,
+      "aqabah": false,
+      "fath_convert": false,
+      "slave_concubine_mother": false
+    },
+    "kunya": "أبو عقيل",
+    "tribe_hint": "بنو أنيف بن جشم (من بلي)، حلفاء بني جحجبا (الأنصار)"
+  },
+  {
+    "id": "is606",
+    "skip": false,
+    "subject": {
+      "ar": "عبد الله بن جبير بن النعمان بن أمية",
+      "lat": "Abdullah bin Jubair bin an-Nu'man",
+      "g": "m"
+    },
+    "father": null,
+    "mother": {
+      "ar": "امرأة من بني عبد الله بن غطفان",
+      "lat": "wanita dari Bani Abdullah bin Ghathafan"
+    },
+    "spouses": [],
+    "children": [],
+    "siblings": [
+      {
+        "ar": "خوات بن جبير بن النعمان",
+        "lat": "Khawwat bin Jubair bin an-Nu'man",
+        "g": "m"
+      }
+    ],
+    "muakhah": [],
+    "patron": null,
+    "clients": [],
+    "other": [],
+    "flags": {
+      "badr": true,
+      "uhud": true,
+      "habasyah": false,
+      "muhajir": false,
+      "anshar": true,
+      "aqabah": true,
+      "fath_convert": false,
+      "slave_concubine_mother": false
+    },
+    "kunya": "",
+    "tribe_hint": "بنو ثعلبة بن عمرو بن عوف (الأنصار - الأوس)"
+  },
+  {
+    "id": "is607",
+    "skip": false,
+    "subject": {
+      "ar": "خوات بن جبير بن النعمان بن أمية",
+      "lat": "Khawwat bin Jubair bin an-Nu'man",
+      "g": "m"
+    },
+    "father": null,
+    "mother": {
+      "ar": "امرأة من بني عبد الله بن غطفان",
+      "lat": "wanita dari Bani Abdullah bin Ghathafan"
+    },
+    "spouses": [
+      {
+        "ar": "امرأة من بني ثعلبة بن فقيم",
+        "lat": "wanita dari Bani Tsa'labah bin Fuqaim",
+        "note": "nama tidak disebutkan"
+      },
+      {
+        "ar": "عميرة بنت حنظلة بن حبيب بن أحمر",
+        "lat": "Umairah binti Hanzhalah bin Habib",
+        "note": ""
+      }
+    ],
+    "children": [
+      {
+        "ar": "صالح بن خوات بن جبير",
+        "lat": "Shalih bin Khawwat",
+        "g": "m",
+        "mother": "امرأة من بني ثعلبة بن فقيم"
+      },
+      {
+        "ar": "حبيب بن خوات بن جبير",
+        "lat": "Habib bin Khawwat",
+        "g": "m",
+        "mother": "امرأة من بني ثعلبة بن فقيم",
+        "note": "terbunuh pada hari al-Harrah"
+      },
+      {
+        "ar": "سالم بن خوات بن جبير",
+        "lat": "Salim bin Khawwat",
+        "g": "m",
+        "mother": "عميرة بنت حنظلة بن حبيب"
+      },
+      {
+        "ar": "أم سالم بنت خوات بن جبير",
+        "lat": "Umm Salim binti Khawwat",
+        "g": "f",
+        "mother": "عميرة بنت حنظلة بن حبيب"
+      },
+      {
+        "ar": "أم القاسم بنت خوات بن جبير",
+        "lat": "Umm al-Qasim binti Khawwat",
+        "g": "f",
+        "mother": "عميرة بنت حنظلة بن حبيب"
+      },
+      {
+        "ar": "داود بن خوات بن جبير",
+        "lat": "Dawud bin Khawwat",
+        "g": "m",
+        "mother": ""
+      },
+      {
+        "ar": "عبد الله بن خوات بن جبير",
+        "lat": "Abdullah bin Khawwat",
+        "g": "m",
+        "mother": ""
+      }
+    ],
+    "siblings": [
+      {
+        "ar": "عبد الله بن جبير بن النعمان",
+        "lat": "Abdullah bin Jubair bin an-Nu'man",
+        "g": "m"
+      }
+    ],
+    "muakhah": [],
+    "patron": null,
+    "clients": [],
+    "other": [],
+    "flags": {
+      "badr": true,
+      "uhud": false,
+      "habasyah": false,
+      "muhajir": false,
+      "anshar": true,
+      "aqabah": false,
+      "fath_convert": false,
+      "slave_concubine_mother": false
+    },
+    "kunya": "أبو صالح",
+    "tribe_hint": "بنو ثعلبة بن عمرو بن عوف (الأنصار - الأوس)"
+  },
+  {
+    "id": "is608",
+    "skip": false,
+    "subject": {
+      "ar": "الحارث بن النعمان بن أمية بن البرك",
+      "lat": "al-Harits bin an-Nu'man bin Umayyah",
+      "g": "m"
+    },
+    "father": null,
+    "mother": {
+      "ar": "هند بنت أوس بن عدي بن أمية بن عامر",
+      "lat": "Hindun binti Aus bin Adi"
+    },
+    "spouses": [],
+    "children": [],
+    "siblings": [],
+    "muakhah": [],
+    "patron": null,
+    "clients": [],
+    "other": [
+      {
+        "rel": "keponakan",
+        "ar": "خوات بن جبير",
+        "lat": "Khawwat bin Jubair"
+      },
+      {
+        "rel": "keponakan",
+        "ar": "عبد الله بن جبير",
+        "lat": "Abdullah bin Jubair"
+      },
+      {
+        "rel": "keponakan",
+        "ar": "أبو ضياح",
+        "lat": "Abu Dhiyah"
+      }
+    ],
+    "flags": {
+      "badr": true,
+      "uhud": true,
+      "habasyah": false,
+      "muhajir": false,
+      "anshar": true,
+      "aqabah": false,
+      "fath_convert": false,
+      "slave_concubine_mother": false
+    },
+    "kunya": "",
+    "tribe_hint": "بنو ثعلبة بن عمرو بن عوف (الأنصار - الأوس)"
+  },
+  {
+    "id": "is609",
+    "skip": false,
+    "subject": {
+      "ar": "النعمان بن ثابت بن النعمان بن أمية",
+      "lat": "an-Nu'man bin Tsabit bin an-Nu'man",
+      "g": "m"
+    },
+    "father": null,
+    "mother": {
+      "ar": "هند بنت أوس بن عدي بن أمية بن عدي",
+      "lat": "Hindun binti Aus bin Adi"
+    },
+    "spouses": [],
+    "children": [],
+    "siblings": [],
+    "muakhah": [],
+    "patron": null,
+    "clients": [],
+    "other": [],
+    "flags": {
+      "badr": true,
+      "uhud": true,
+      "habasyah": false,
+      "muhajir": false,
+      "anshar": true,
+      "aqabah": false,
+      "fath_convert": false,
+      "slave_concubine_mother": false
+    },
+    "kunya": "أبو ضياح",
+    "tribe_hint": "بنو ثعلبة بن عمرو بن عوف (الأنصار - الأوس)"
+  },
+  {
+    "id": "is610",
+    "skip": false,
+    "subject": {
+      "ar": "النعمان بن أبي خذمة بن النعمان بن أبي حذيفة",
+      "lat": "an-Nu'man bin Abi Khudzamah bin an-Nu'man",
+      "g": "m"
+    },
+    "father": null,
+    "mother": null,
+    "spouses": [],
+    "children": [],
+    "siblings": [],
+    "muakhah": [],
+    "patron": null,
+    "clients": [],
+    "other": [],
+    "flags": {
+      "badr": true,
+      "uhud": true,
+      "habasyah": false,
+      "muhajir": false,
+      "anshar": true,
+      "aqabah": false,
+      "fath_convert": false,
+      "slave_concubine_mother": false
+    },
+    "kunya": "",
+    "tribe_hint": "بنو ثعلبة بن عمرو بن عوف (الأنصار - الأوس)"
+  }
+]

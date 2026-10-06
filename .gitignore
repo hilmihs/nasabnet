@@ -1,0 +1,18 @@
+# dependencies & builds
+node_modules/
+web/dist/
+.vercel/
+__pycache__/
+*.pyc
+
+# raw Turath downloads (book dumps, narrator crawl) — rebuild with scripts/crawl_turath.py
+data/raw/
+
+# intermediate text cuts of the source edition — rebuild with scripts/extract_ibnsad.py
+data/work/batches/
+data/work/ibnsad_entries.json
+data/work/ibnsad_sections.json
+
+# local
+.DS_Store
+*.log

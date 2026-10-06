@@ -1,0 +1,108 @@
+@import 'tailwindcss';
+
+@theme {
+  --color-hijau-950: #071f18;
+  --color-hijau-900: #0b2e23;
+  --color-hijau-800: #0f3b2e;
+  --color-hijau-700: #155040;
+  --color-hijau-600: #1d6a54;
+  --color-hijau-500: #2b8569;
+  --color-hijau-100: #dcebe4;
+  --color-hijau-50: #eef6f2;
+  --color-emas-700: #8a6a12;
+  --color-emas-600: #a8841b;
+  --color-emas-500: #c49b2a;
+  --color-emas-400: #d4af37;
+  --color-emas-300: #e3c76a;
+  --color-emas-100: #f6ecc8;
+  --color-krem-50: #fcfaf4;
+  --color-krem-100: #f7f2e7;
+  --color-krem-200: #efe6d2;
+  --color-krem-300: #e2d5b8;
+  --color-tinta: #1f2a25;
+  --color-tinta-soft: #55615b;
+  --font-sans: 'Plus Jakarta Sans', ui-sans-serif, system-ui, sans-serif;
+  --font-display: 'Cormorant Garamond', ui-serif, Georgia, serif;
+  --font-arab: 'Amiri', 'Noto Naskh Arabic', serif;
+}
+
+:root {
+  color-scheme: light;
+}
+
+html,
+body,
+#root {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  background: var(--color-krem-100);
+  color: var(--color-tinta);
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+}
+
+.ar {
+  font-family: var(--font-arab);
+  direction: rtl;
+  unicode-bidi: isolate;
+}
+
+.pattern-bg {
+  background-color: var(--color-hijau-900);
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='56' height='56' viewBox='0 0 56 56'%3E%3Cg fill='none' stroke='%23d4af37' stroke-opacity='0.13' stroke-width='1'%3E%3Cpath d='M28 4l6 10 11-3-3 11 10 6-10 6 3 11-11-3-6 10-6-10-11 3 3-11-10-6 10-6-3-11 11 3z'/%3E%3Ccircle cx='28' cy='28' r='7'/%3E%3C/g%3E%3C/svg%3E");
+}
+
+.card {
+  background: var(--color-krem-50);
+  border: 1px solid var(--color-krem-300);
+  border-radius: 1rem;
+  box-shadow: 0 1px 2px rgb(15 59 46 / 0.04), 0 4px 16px rgb(15 59 46 / 0.04);
+}
+
+.gold-rule {
+  height: 1px;
+  background: linear-gradient(90deg, transparent, var(--color-emas-400), transparent);
+}
+
+.scroll-thin::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+.scroll-thin::-webkit-scrollbar-thumb {
+  background: var(--color-krem-300);
+  border-radius: 8px;
+}
+
+@keyframes pop {
+  from {
+    opacity: 0;
+    transform: translateY(8px) scale(0.98);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+.animate-pop {
+  animation: pop 0.18s ease-out;
+}
+
+@keyframes dash {
+  to {
+    stroke-dashoffset: -16;
+  }
+}
+.flow-line {
+  stroke-dasharray: 6 4;
+  animation: dash 0.9s linear infinite;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .animate-pop,
+  .flow-line {
+    animation: none;
+  }
+}

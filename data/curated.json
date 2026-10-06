@@ -1,0 +1,763 @@
+{
+ "persons": [
+  {
+   "id": "nabi",
+   "ar": "محمد رسول الله ﷺ",
+   "full": "محمد بن عبد الله بن عبد المطلب بن هاشم بن عبد مناف بن قصي بن كلاب بن مرة بن كعب بن لؤي بن غالب بن فهر بن مالك بن النضر بن كنانة بن خزيمة بن مدركة بن إلياس بن مضر بن نزار بن معد بن عدنان",
+   "lat": "Nabi Muhammad ﷺ",
+   "g": "m",
+   "tribe": "hasyim",
+   "kunya": "أبو القاسم",
+   "death": "11 H",
+   "aliases": [
+    "رسول الله",
+    "النبي",
+    "محمد رسول الله",
+    "محمد بن عبد الله بن عبد المطلب"
+   ],
+   "src": [
+    {
+     "t": "Ibnu Sa'd, ath-Thabaqat al-Kubra 1/100",
+     "url": "https://app.turath.io/book/9351?print_page=1,100"
+    },
+    {
+     "t": "Ibnu Sa'd, ath-Thabaqat al-Kubra 1/133",
+     "url": "https://app.turath.io/book/9351?print_page=1,133"
+    }
+   ],
+   "note": "Rasulullah ﷺ — poros seluruh jejaring: kerabat, mertua, menantu, dan ipar para sahabat."
+  },
+  {
+   "id": "c-abdullah",
+   "ar": "عبد الله بن عبد المطلب",
+   "full": "عبد الله بن عبد المطلب بن هاشم بن عبد مناف بن قصي",
+   "lat": "Abdullah bin Abdil Muththalib",
+   "g": "m",
+   "tribe": "hasyim",
+   "src": [
+    {
+     "t": "Ibnu Sa'd, ath-Thabaqat al-Kubra 1/94",
+     "url": "https://app.turath.io/book/9351?print_page=1,94"
+    },
+    {
+     "t": "Ibnu Sa'd, ath-Thabaqat al-Kubra 1/99",
+     "url": "https://app.turath.io/book/9351?print_page=1,99"
+    }
+   ],
+   "note": "Ayahanda Nabi ﷺ; wafat sebelum beliau lahir."
+  },
+  {
+   "id": "c-aminah",
+   "ar": "آمنة بنت وهب",
+   "full": "آمنة بنت وهب بن عبد مناف بن زهرة بن كلاب",
+   "lat": "Aminah binti Wahb",
+   "g": "f",
+   "tribe": "zuhrah",
+   "src": [
+    {
+     "t": "Ibnu Sa'd, ath-Thabaqat al-Kubra 1/94",
+     "url": "https://app.turath.io/book/9351?print_page=1,94"
+    },
+    {
+     "t": "Ibnu Sa'd, ath-Thabaqat al-Kubra 1/116",
+     "url": "https://app.turath.io/book/9351?print_page=1,116"
+    }
+   ],
+   "note": "Ibunda Nabi ﷺ dari Bani Zuhrah."
+  },
+  {
+   "id": "c-abdulmuttalib",
+   "ar": "عبد المطلب بن هاشم",
+   "full": "عبد المطلب بن هاشم بن عبد مناف بن قصي بن كلاب",
+   "lat": "Abdul Muththalib bin Hasyim",
+   "g": "m",
+   "tribe": "hasyim",
+   "aliases": [
+    "شيبة بن هاشم"
+   ],
+   "src": [
+    {
+     "t": "Ibnu Sa'd, ath-Thabaqat al-Kubra 1/81",
+     "url": "https://app.turath.io/book/9351?print_page=1,81"
+    },
+    {
+     "t": "Ibnu Sa'd, ath-Thabaqat al-Kubra 1/94",
+     "url": "https://app.turath.io/book/9351?print_page=1,94"
+    }
+   ],
+   "note": "Kakek Nabi ﷺ; nama aslinya Syaibah. Ibnu Sa'd: keturunan (al-'aqib) Abdul Muththalib berlanjut melalui al-'Abbas, Abu Thalib, al-Harits, dan Abu Lahab."
+  },
+  {
+   "id": "c-abutalib",
+   "ar": "أبو طالب بن عبد المطلب",
+   "full": "عبد مناف بن عبد المطلب بن هاشم بن عبد مناف",
+   "lat": "Abu Thalib bin Abdil Muththalib",
+   "g": "m",
+   "tribe": "hasyim",
+   "aliases": [
+    "أبو طالب",
+    "أبو طالب بن عبد المطلب بن هاشم",
+    "أبي طالب بن عبد المطلب"
+   ],
+   "src": [
+    {
+     "t": "Ibnu Sa'd, ath-Thabaqat al-Kubra 1/94",
+     "url": "https://app.turath.io/book/9351?print_page=1,94"
+    },
+    {
+     "t": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/222",
+     "url": "https://app.turath.io/book/9351?print_page=8,222"
+    }
+   ],
+   "note": "Paman dan pelindung Nabi ﷺ; ayah Ali, Ja'far, 'Aqil, dan Ummu Hani'."
+  },
+  {
+   "id": "c-abulahab",
+   "ar": "أبو لهب بن عبد المطلب",
+   "full": "عبد العزى بن عبد المطلب بن هاشم",
+   "lat": "Abu Lahab bin Abdil Muththalib",
+   "g": "m",
+   "tribe": "hasyim",
+   "aliases": [
+    "أبو لهب"
+   ],
+   "src": [
+    {
+     "t": "Ibnu Sa'd, ath-Thabaqat al-Kubra 1/94",
+     "url": "https://app.turath.io/book/9351?print_page=1,94"
+    }
+   ]
+  },
+  {
+   "id": "c-harith",
+   "ar": "الحارث بن عبد المطلب",
+   "full": "الحارث بن عبد المطلب بن هاشم بن عبد مناف",
+   "lat": "al-Harits bin Abdil Muththalib",
+   "g": "m",
+   "tribe": "hasyim",
+   "src": [
+    {
+     "t": "Ibnu Sa'd, ath-Thabaqat al-Kubra 1/94",
+     "url": "https://app.turath.io/book/9351?print_page=1,94"
+    }
+   ],
+   "note": "Putra sulung Abdul Muththalib; ayah Abu Sufyan, Naufal, dan Rabi'ah."
+  },
+  {
+   "id": "c-qasim",
+   "ar": "القاسم بن رسول الله ﷺ",
+   "full": "القاسم بن محمد بن عبد الله بن عبد المطلب",
+   "lat": "al-Qasim bin Muhammad ﷺ",
+   "g": "m",
+   "tribe": "hasyim",
+   "src": [
+    {
+     "t": "Ibnu Sa'd, ath-Thabaqat al-Kubra 1/133",
+     "url": "https://app.turath.io/book/9351?print_page=1,133"
+    }
+   ],
+   "note": "Putra sulung Nabi ﷺ (darinya kunyah Abul Qasim); wafat kecil di Makkah."
+  },
+  {
+   "id": "c-abdullah-nabi",
+   "ar": "عبد الله بن رسول الله ﷺ",
+   "full": "عبد الله بن محمد بن عبد الله بن عبد المطلب",
+   "lat": "Abdullah bin Muhammad ﷺ (ath-Thayyib ath-Thahir)",
+   "g": "m",
+   "tribe": "hasyim",
+   "src": [
+    {
+     "t": "Ibnu Sa'd, ath-Thabaqat al-Kubra 1/133",
+     "url": "https://app.turath.io/book/9351?print_page=1,133"
+    }
+   ],
+   "note": "Lahir setelah kenabian, digelari ath-Thayyib dan ath-Thahir; wafat kecil di Makkah."
+  },
+  {
+   "id": "c-ibrahim",
+   "ar": "إبراهيم بن رسول الله ﷺ",
+   "full": "إبراهيم بن محمد بن عبد الله بن عبد المطلب",
+   "lat": "Ibrahim bin Muhammad ﷺ",
+   "g": "m",
+   "tribe": "hasyim",
+   "src": [
+    {
+     "t": "Ibnu Sa'd, ath-Thabaqat al-Kubra 1/134",
+     "url": "https://app.turath.io/book/9351?print_page=1,134"
+    },
+    {
+     "t": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/212",
+     "url": "https://app.turath.io/book/9351?print_page=8,212"
+    }
+   ],
+   "note": "Putra Nabi ﷺ dari Mariyah; wafat kecil di Madinah."
+  },
+  {
+   "id": "c-mariyah",
+   "ar": "مارية القبطية",
+   "full": "مارية بنت شمعون",
+   "lat": "Mariyah al-Qibthiyyah",
+   "g": "f",
+   "tribe": "rum",
+   "comp": true,
+   "aliases": [
+    "مارية أم إبراهيم",
+    "مارية"
+   ],
+   "src": [
+    {
+     "t": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/212",
+     "url": "https://app.turath.io/book/9351?print_page=8,212"
+    }
+   ],
+   "note": "Hadiah al-Muqauqis penguasa Mesir; ibu Ibrahim bin Rasulillah ﷺ (ummu walad)."
+  }
+ ],
+ "edges": [
+  {
+   "s": "c-abdulmuttalib",
+   "t": "c-abdullah",
+   "k": "parent",
+   "src": {
+    "t": "Ibnu Sa'd, ath-Thabaqat al-Kubra 1/94",
+    "url": "https://app.turath.io/book/9351?print_page=1,94"
+   }
+  },
+  {
+   "s": "c-abdulmuttalib",
+   "t": "c-abutalib",
+   "k": "parent",
+   "src": {
+    "t": "Ibnu Sa'd, ath-Thabaqat al-Kubra 1/94",
+    "url": "https://app.turath.io/book/9351?print_page=1,94"
+   }
+  },
+  {
+   "s": "c-abdulmuttalib",
+   "t": "c-abulahab",
+   "k": "parent",
+   "src": {
+    "t": "Ibnu Sa'd, ath-Thabaqat al-Kubra 1/94",
+    "url": "https://app.turath.io/book/9351?print_page=1,94"
+   }
+  },
+  {
+   "s": "c-abdulmuttalib",
+   "t": "c-harith",
+   "k": "parent",
+   "src": {
+    "t": "Ibnu Sa'd, ath-Thabaqat al-Kubra 1/94",
+    "url": "https://app.turath.io/book/9351?print_page=1,94"
+   }
+  },
+  {
+   "s": "c-abdulmuttalib",
+   "t": "n15330",
+   "k": "parent",
+   "src": {
+    "t": "Ibnu Sa'd, ath-Thabaqat al-Kubra 1/94",
+    "url": "https://app.turath.io/book/9351?print_page=1,94"
+   }
+  },
+  {
+   "s": "c-abdulmuttalib",
+   "t": "n3138",
+   "k": "parent",
+   "src": {
+    "t": "Ibnu Sa'd, ath-Thabaqat al-Kubra 1/94",
+    "url": "https://app.turath.io/book/9351?print_page=1,94"
+   }
+  },
+  {
+   "s": "c-abdullah",
+   "t": "nabi",
+   "k": "parent",
+   "src": {
+    "t": "Ibnu Sa'd, ath-Thabaqat al-Kubra 1/94",
+    "url": "https://app.turath.io/book/9351?print_page=1,94"
+   }
+  },
+  {
+   "s": "c-aminah",
+   "t": "nabi",
+   "k": "parent",
+   "src": {
+    "t": "Ibnu Sa'd, ath-Thabaqat al-Kubra 1/94",
+    "url": "https://app.turath.io/book/9351?print_page=1,94"
+   }
+  },
+  {
+   "s": "c-abdullah",
+   "t": "c-aminah",
+   "k": "spouse",
+   "src": {
+    "t": "Ibnu Sa'd, ath-Thabaqat al-Kubra 1/94",
+    "url": "https://app.turath.io/book/9351?print_page=1,94"
+   }
+  },
+  {
+   "s": "nabi",
+   "t": "c-qasim",
+   "k": "parent",
+   "src": {
+    "t": "Ibnu Sa'd, ath-Thabaqat al-Kubra 1/133",
+    "url": "https://app.turath.io/book/9351?print_page=1,133"
+   }
+  },
+  {
+   "s": "n15205",
+   "t": "c-qasim",
+   "k": "parent",
+   "src": {
+    "t": "Ibnu Sa'd, ath-Thabaqat al-Kubra 1/133",
+    "url": "https://app.turath.io/book/9351?print_page=1,133"
+   }
+  },
+  {
+   "s": "nabi",
+   "t": "n15204",
+   "k": "parent",
+   "src": {
+    "t": "Ibnu Sa'd, ath-Thabaqat al-Kubra 1/133",
+    "url": "https://app.turath.io/book/9351?print_page=1,133"
+   }
+  },
+  {
+   "s": "n15205",
+   "t": "n15204",
+   "k": "parent",
+   "src": {
+    "t": "Ibnu Sa'd, ath-Thabaqat al-Kubra 1/133",
+    "url": "https://app.turath.io/book/9351?print_page=1,133"
+   }
+  },
+  {
+   "s": "nabi",
+   "t": "n15244",
+   "k": "parent",
+   "src": {
+    "t": "Ibnu Sa'd, ath-Thabaqat al-Kubra 1/133",
+    "url": "https://app.turath.io/book/9351?print_page=1,133"
+   }
+  },
+  {
+   "s": "n15205",
+   "t": "n15244",
+   "k": "parent",
+   "src": {
+    "t": "Ibnu Sa'd, ath-Thabaqat al-Kubra 1/133",
+    "url": "https://app.turath.io/book/9351?print_page=1,133"
+   }
+  },
+  {
+   "s": "nabi",
+   "t": "n5066",
+   "k": "parent",
+   "src": {
+    "t": "Ibnu Sa'd, ath-Thabaqat al-Kubra 1/133",
+    "url": "https://app.turath.io/book/9351?print_page=1,133"
+   }
+  },
+  {
+   "s": "n15205",
+   "t": "n5066",
+   "k": "parent",
+   "src": {
+    "t": "Ibnu Sa'd, ath-Thabaqat al-Kubra 1/133",
+    "url": "https://app.turath.io/book/9351?print_page=1,133"
+   }
+  },
+  {
+   "s": "nabi",
+   "t": "n15139",
+   "k": "parent",
+   "src": {
+    "t": "Ibnu Sa'd, ath-Thabaqat al-Kubra 1/133",
+    "url": "https://app.turath.io/book/9351?print_page=1,133"
+   }
+  },
+  {
+   "s": "n15205",
+   "t": "n15139",
+   "k": "parent",
+   "src": {
+    "t": "Ibnu Sa'd, ath-Thabaqat al-Kubra 1/133",
+    "url": "https://app.turath.io/book/9351?print_page=1,133"
+   }
+  },
+  {
+   "s": "nabi",
+   "t": "c-abdullah-nabi",
+   "k": "parent",
+   "src": {
+    "t": "Ibnu Sa'd, ath-Thabaqat al-Kubra 1/133",
+    "url": "https://app.turath.io/book/9351?print_page=1,133"
+   }
+  },
+  {
+   "s": "n15205",
+   "t": "c-abdullah-nabi",
+   "k": "parent",
+   "src": {
+    "t": "Ibnu Sa'd, ath-Thabaqat al-Kubra 1/133",
+    "url": "https://app.turath.io/book/9351?print_page=1,133"
+   }
+  },
+  {
+   "s": "nabi",
+   "t": "c-ibrahim",
+   "k": "parent",
+   "src": {
+    "t": "Ibnu Sa'd, ath-Thabaqat al-Kubra 1/134",
+    "url": "https://app.turath.io/book/9351?print_page=1,134"
+   }
+  },
+  {
+   "s": "c-mariyah",
+   "t": "c-ibrahim",
+   "k": "parent",
+   "src": {
+    "t": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/212",
+    "url": "https://app.turath.io/book/9351?print_page=8,212"
+   }
+  },
+  {
+   "s": "nabi",
+   "t": "c-mariyah",
+   "k": "spouse",
+   "src": {
+    "t": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/212",
+    "url": "https://app.turath.io/book/9351?print_page=8,212"
+   },
+   "n": "sariyyah, ummu walad"
+  },
+  {
+   "s": "nabi",
+   "t": "n15205",
+   "k": "spouse",
+   "src": {
+    "t": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/14",
+    "url": "https://app.turath.io/book/9351?print_page=8,14"
+   }
+  },
+  {
+   "s": "nabi",
+   "t": "n2700",
+   "k": "spouse",
+   "src": {
+    "t": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/52",
+    "url": "https://app.turath.io/book/9351?print_page=8,52"
+   }
+  },
+  {
+   "s": "nabi",
+   "t": "n3026",
+   "k": "spouse",
+   "src": {
+    "t": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/58",
+    "url": "https://app.turath.io/book/9351?print_page=8,58"
+   }
+  },
+  {
+   "s": "nabi",
+   "t": "n1565",
+   "k": "spouse",
+   "src": {
+    "t": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/81",
+    "url": "https://app.turath.io/book/9351?print_page=8,81"
+   }
+  },
+  {
+   "s": "nabi",
+   "t": "n6741",
+   "k": "spouse",
+   "src": {
+    "t": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/86",
+    "url": "https://app.turath.io/book/9351?print_page=8,86"
+   }
+  },
+  {
+   "s": "nabi",
+   "t": "n2020",
+   "k": "spouse",
+   "src": {
+    "t": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/96",
+    "url": "https://app.turath.io/book/9351?print_page=8,96"
+   }
+  },
+  {
+   "s": "nabi",
+   "t": "n2214",
+   "k": "spouse",
+   "src": {
+    "t": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/101",
+    "url": "https://app.turath.io/book/9351?print_page=8,101"
+   }
+  },
+  {
+   "s": "nabi",
+   "t": "n15947",
+   "k": "spouse",
+   "src": {
+    "t": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/115",
+    "url": "https://app.turath.io/book/9351?print_page=8,115"
+   }
+  },
+  {
+   "s": "nabi",
+   "t": "n1193",
+   "k": "spouse",
+   "src": {
+    "t": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/116",
+    "url": "https://app.turath.io/book/9351?print_page=8,116"
+   }
+  },
+  {
+   "s": "nabi",
+   "t": "n2917",
+   "k": "spouse",
+   "src": {
+    "t": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/120",
+    "url": "https://app.turath.io/book/9351?print_page=8,120"
+   }
+  },
+  {
+   "s": "nabi",
+   "t": "n6480",
+   "k": "spouse",
+   "src": {
+    "t": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/132",
+    "url": "https://app.turath.io/book/9351?print_page=8,132"
+   }
+  },
+  {
+   "s": "nabi",
+   "t": "n15330",
+   "k": "milk",
+   "src": {
+    "t": "Ibnu Sa'd, ath-Thabaqat al-Kubra 1/108",
+    "url": "https://app.turath.io/book/9351?print_page=1,108"
+   }
+  },
+  {
+   "s": "nabi",
+   "t": "عبد الله بن عبد الأسد بن هلال",
+   "k": "milk",
+   "src": {
+    "t": "Ibnu Sa'd, ath-Thabaqat al-Kubra 1/108",
+    "url": "https://app.turath.io/book/9351?print_page=1,108"
+   }
+  },
+  {
+   "s": "c-abutalib",
+   "t": "n4500",
+   "k": "parent",
+   "src": {
+    "t": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/222",
+    "url": "https://app.turath.io/book/9351?print_page=8,222"
+   }
+  }
+ ],
+ "ummahat": [
+  "n15205",
+  "n2700",
+  "n3026",
+  "n1565",
+  "n15947",
+  "n6741",
+  "n2214",
+  "n1193",
+  "n2020",
+  "n2917",
+  "n6480"
+ ],
+ "khulafa": [
+  "n3783",
+  "n4677",
+  "n4307",
+  "n4500"
+ ],
+ "asyarah": [
+  "n3000",
+  "n2065",
+  "n3378",
+  "n2289",
+  "n2369",
+  "n3078"
+ ],
+ "ahlulbait": [
+  "n4500",
+  "n1428",
+  "n1479",
+  "n5066"
+ ],
+ "muhajirin": [
+  "n3783",
+  "n4677",
+  "n4307",
+  "n4500",
+  "n3000",
+  "n2065",
+  "n3378",
+  "n2289",
+  "n2369",
+  "n3078"
+ ],
+ "display": [
+  [
+   "n3783",
+   "Abu Bakar ash-Shiddiq",
+   "أبو بكر الصديق"
+  ],
+  [
+   "n4677",
+   "Umar bin al-Khaththab",
+   "عمر بن الخطاب"
+  ],
+  [
+   "n4307",
+   "Utsman bin 'Affan",
+   "عثمان بن عفان"
+  ],
+  [
+   "n4500",
+   "Ali bin Abi Thalib",
+   "علي بن أبي طالب"
+  ],
+  [
+   "n3000",
+   "Thalhah bin 'Ubaidillah",
+   "طلحة بن عبيد الله"
+  ],
+  [
+   "n2065",
+   "az-Zubair bin al-'Awwam",
+   "الزبير بن العوام"
+  ],
+  [
+   "n3378",
+   "Abdurrahman bin 'Auf",
+   "عبد الرحمن بن عوف"
+  ],
+  [
+   "n2289",
+   "Sa'd bin Abi Waqqash",
+   "سعد بن أبي وقاص"
+  ],
+  [
+   "n2369",
+   "Sa'id bin Zaid",
+   "سعيد بن زيد"
+  ],
+  [
+   "n3078",
+   "Abu 'Ubaidah bin al-Jarrah",
+   "أبو عبيدة بن الجراح"
+  ],
+  [
+   "n3320",
+   "Abu Hurairah",
+   "أبو هريرة"
+  ],
+  [
+   "n3026",
+   "Aisyah binti Abi Bakar",
+   "عائشة بنت أبي بكر"
+  ],
+  [
+   "n1565",
+   "Hafshah binti Umar",
+   "حفصة بنت عمر"
+  ],
+  [
+   "n6741",
+   "Ummu Salamah (Hindun binti Abi Umayyah)",
+   "أم سلمة هند بنت أبي أمية"
+  ],
+  [
+   "n2020",
+   "Ummu Habibah (Ramlah binti Abi Sufyan)",
+   "أم حبيبة رملة بنت أبي سفيان"
+  ],
+  [
+   "n15205",
+   "Khadijah binti Khuwailid",
+   "خديجة بنت خويلد"
+  ],
+  [
+   "n2700",
+   "Saudah binti Zam'ah",
+   "سودة بنت زمعة"
+  ],
+  [
+   "n2214",
+   "Zainab binti Jahsy",
+   "زينب بنت جحش"
+  ],
+  [
+   "n15947",
+   "Zainab binti Khuzaimah",
+   "زينب بنت خزيمة"
+  ],
+  [
+   "n1193",
+   "Juwairiyah binti al-Harits",
+   "جويرية بنت الحارث"
+  ],
+  [
+   "n2917",
+   "Shafiyyah binti Huyay",
+   "صفية بنت حيي"
+  ],
+  [
+   "n6480",
+   "Maimunah binti al-Harits",
+   "ميمونة بنت الحارث"
+  ],
+  [
+   "n5066",
+   "Fathimah az-Zahra' binti Rasulillah ﷺ",
+   "فاطمة الزهراء بنت رسول الله ﷺ"
+  ],
+  [
+   "n15204",
+   "Zainab binti Rasulillah ﷺ",
+   "زينب بنت رسول الله ﷺ"
+  ],
+  [
+   "n15244",
+   "Ruqayyah binti Rasulillah ﷺ",
+   "رقية بنت رسول الله ﷺ"
+  ],
+  [
+   "n15139",
+   "Ummu Kultsum binti Rasulillah ﷺ",
+   "أم كلثوم بنت رسول الله ﷺ"
+  ],
+  [
+   "n1428",
+   "al-Hasan bin Ali",
+   "الحسن بن علي"
+  ],
+  [
+   "n1479",
+   "al-Husain bin Ali",
+   "الحسين بن علي"
+  ],
+  [
+   "n15330",
+   "Hamzah bin Abdil Muththalib",
+   "حمزة بن عبد المطلب"
+  ],
+  [
+   "n3138",
+   "al-'Abbas bin Abdil Muththalib",
+   "العباس بن عبد المطلب"
+  ],
+  [
+   "n622",
+   "Asma' binti Abi Bakar",
+   "أسماء بنت أبي بكر"
+  ]
+ ]
+}
