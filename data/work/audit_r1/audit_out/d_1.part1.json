@@ -1,0 +1,12 @@
+[
+{"fid":"F1","verdict":"fix","why":"Teks ibnsad ttg Ziyad bin Labid menyebut Amrah sbg ibunya (Ziyad), bukan ibu Labid sendiri; edge parent Amrah->Labid salah resolusi generasi.","ops":[{"op":"drop_edge","s":"s4592","t":"xc4e47902","k":"parent"}]},
+{"fid":"F2","verdict":"unsure","why":"Teks saling bertentangan: bio Amr bin Tsa'labah bilang Ummu Hakim ibunya, bio Ummu Hakim bilang dia istrinya yg melahirkan anak baginya; tak bisa ditentukan mana yg benar.","ops":[]},
+{"fid":"F3","verdict":"unsure","why":"Sumber sendiri hedging simetris 'yuqal...wa yuqal' (putrinya/istrinya) tanpa preferensi; tak bisa dipastikan edge mana yg keliru.","ops":[]},
+{"fid":"F4","verdict":"fix","why":"Nasab lengkap Uqbah identik dgn ayahnya sampai 'Asad bin Suhaib...Asad bin Khuzaimah', jadi sukunya asad-k bukan umayyah.","ops":[{"op":"set_tribe","id":"s431","tribe":"asad-k"}]},
+{"fid":"F5","verdict":"ok","why":"'Mawla Hatib bin Abi Balta'ah' adalah status klien bukan nama ayah; nasab eksplisit ayah = Khauli bin Sabrah, sesuai edge.","ops":[]},
+{"fid":"F6","verdict":"fix","why":"'Abu Waqqas' (dikenal sbg Malik bin Wuhaib) adalah ayah kandung Umair, bukan Wuhaib sendiri; nasab melompat ke kakek yg tak ada dlm temuan ini.","ops":[{"op":"drop_edge","s":"x0eba941d","t":"s471","k":"parent"}]},
+{"fid":"F7","verdict":"ok","why":"Teks eksplisit: ism Abu al-Arqam adalah Abdu Manaf — kunya=ism orang yg sama, sesuai edge.","ops":[]},
+{"fid":"F8","verdict":"ok","why":"Teks eksplisit: nama asli Syammas adalah Utsman (laqab, bukan generasi terpisah); ayah tetap asy-Syarid bin Harmiy.","ops":[]},
+{"fid":"F9","verdict":"fix","why":"Teks: 'bani Malik bin Adad dari Madzhij'; Yasir hanya halif Bani Makhzum via Abu Hudzaifah, nasab aslinya Madzhij sesuai kaidah halif.","ops":[{"op":"set_tribe","id":"s917","tribe":"madzhij"}]},
+{"fid":"F10","verdict":"fix","why":"Nasab Ummu Tsabit identik dgn ayahnya sampai 'Umayyah bin Mu'awiyah' (leluhur Khazraj, bukan suku Quraisy Umayyah); seharusnya khazraj.","ops":[{"op":"set_tribe","id":"s4598","tribe":"khazraj"}]}
+]

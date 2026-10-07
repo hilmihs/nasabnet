@@ -1,0 +1,12 @@
+[
+  {"fid": "F256", "verdict": "ok", "why": "Dua Shafiyyah berbeda: bint Abi al-'Ash adalah ibu Ummu Habibah, bint Abi Amr adalah ibu Hind - dua istri Abu Sufyan dengan anak dan nasab ayah berbeda, bukan duplikat.", "ops": []},
+  {"fid": "F257", "verdict": "fix", "why": "xd57c4561 tanpa teks pendukung, namanya hanya varian nisbah (Dzu asy-Syafar vs al-Mushthaliqi) dari x58b85147 yang jelas suami Juwairiyah binti al-Harits.", "ops": [{"op":"merge","keep":"x58b85147","drop":"xd57c4561"}]},
+  {"fid": "F258", "verdict": "fix", "why": "x339edb7b tanpa teks, nama lebih singkat (hilang 'bin ar-Rabi'') dari xe6e5de07 yang jelas suami Shafiyyah binti Huyay.", "ops": [{"op":"merge","keep":"xe6e5de07","drop":"x339edb7b"}]},
+  {"fid": "F259", "verdict": "fix", "why": "Kedua catatan sama-sama suami Laila binti al-Khathim yang wafat lalu ia masuk Islam; silsilah x4663feda lebih lengkap (bin Malik bin Sawad) dibanding x82aa17e8 (bin Sawad langsung) - orang yang sama.", "ops": [{"op":"merge","keep":"x4663feda","drop":"x82aa17e8"}]},
+  {"fid": "F260", "verdict": "ok", "why": "Dua Ummu Kultsum berbeda secara nasab (Uqbah bin Abi Mu'aith vs Utbah bin Rabi'ah, dua tokoh terkenal berbeda) yang kebetulan sama-sama pernah jadi istri Abdurrahman bin Auf - bukan duplikat.", "ops": []},
+  {"fid": "F261", "verdict": "fix", "why": "Nama dan konteks (suami Barirah) identik; x7b81c2c62 record kosong tanpa info berbeda - kemungkinan besar duplikat entri.", "ops": [{"op":"merge","keep":"x7b81c2c6","drop":"x7b81c2c62"}]},
+  {"fid": "F262", "verdict": "fix", "why": "n3068 menyebut nisbah al-'Anazi dan catatan al-Khattab tabanna 'Amir serta istri Laila bint Abi Hathmah - cocok persis dengan xf5a6945a.", "ops": [{"op":"merge","keep":"n3068","drop":"xf5a6945a"}]},
+  {"fid": "F263", "verdict": "fix", "why": "x275d7fd3 kosong, namanya hanya varian kunya (Wahb vs Abi Wahb) dari x45ec5b70 yang jelas ibu asy-Syifa'.", "ops": [{"op":"merge","keep":"x45ec5b70","drop":"x275d7fd3"}]},
+  {"fid": "F264", "verdict": "fix", "why": "x06c527e8 kosong, namanya bentuk penuh/varian (Abdullah vs Abd, tambahan bin Abdi Wadd) dari x52232d19 yang jelas ayah Fathimah/Ummu Jamil dalam teks.", "ops": [{"op":"merge","keep":"x52232d19","drop":"x06c527e8"}]},
+  {"fid": "F265", "verdict": "fix", "why": "Kedua catatan punya silsilah turun identik (bin al-Harits bin Ka'ab bin Malik bin Qahafah...) dan ibu sama (Hind/Khaulah bint Auf); anak-anaknya (Asma' & Salma) disebut bersaudara - Taim vs Tamim varian tulisan.", "ops": [{"op":"merge","keep":"xa118f26e","drop":"x74639542"}]}
+]

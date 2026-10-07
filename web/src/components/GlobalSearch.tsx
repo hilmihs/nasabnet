@@ -39,8 +39,8 @@ export function GlobalSearch() {
     if (!h) return
     if (h.kind === 'tribe') {
       pushHistory({ kind: 'tribe', ref: h.id, label: tribes.get(h.id)?.name ?? h.id })
-      go('kabilah', { t: h.id })
-    } else openProfile(h.id)
+      go('kabilah', { t: h.id, tab: 'profil' })
+    } else openProfile(h.id, 'bio')
     setQ('')
     setOpen(false)
     input.current?.blur()

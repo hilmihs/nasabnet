@@ -4,7 +4,7 @@ import { Icon } from './components/Icon'
 import { ProfileCard } from './components/ProfileCard'
 import { loadStore, StoreContext, type Store } from './lib/data'
 import type { Category } from './lib/types'
-import { parseHash, toHash, UIContext, type UI, type View } from './lib/ui'
+import { parseHash, toHash, UIContext, type ProfileTab, type UI, type View } from './lib/ui'
 import { GlossaryView } from './views/GlossaryView'
 import { LineageView } from './views/LineageView'
 import { LookupView } from './views/LookupView'
@@ -25,7 +25,7 @@ export default function App() {
   const [store, setStore] = useState<Store | null>(null)
   const [error, setError] = useState<string | null>(null)
   const [route, setRoute] = useState(() => parseHash(window.location.hash))
-  const [profile, setProfile] = useState<string | null>(null)
+  const [profile, setProfile] = useState<{ id: string; tab: ProfileTab } | null>(null)
   const [filters, setFilters] = useState<Category[]>([])
 
   useEffect(() => {
@@ -34,6 +34,7 @@ export default function App() {
 
   useEffect(() => {
     const onHash = () => {
+      setProfile(null)
       setRoute(parseHash(window.location.hash))
       window.scrollTo({ top: 0 })
     }
@@ -47,7 +48,8 @@ export default function App() {
   }, [])
   const closeProfile = useCallback(() => setProfile(null), [])
 
-  const ui: UI = useMemo(() => ({ route, go, openProfile: setProfile, filters, setFilters }), [route, go, filters])
+  const openProfile = useCallback((id: string, tab: ProfileTab = 'keluarga') => setProfile({ id, tab }), [])
+  const ui: UI = useMemo(() => ({ route, go, openProfile, filters, setFilters }), [route, go, openProfile, filters])
 
   if (error)
     return (
@@ -137,7 +139,7 @@ export default function App() {
             ))}
           </nav>
         </div>
-        {profile && <ProfileCard id={profile} onClose={closeProfile} />}
+        {profile && <ProfileCard key={`${profile.id}-${profile.tab}`} id={profile.id} initialTab={profile.tab} onClose={closeProfile} />}
       </UIContext.Provider>
     </StoreContext.Provider>
   )

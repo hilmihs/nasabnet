@@ -2,6 +2,7 @@ import { useMemo, useState } from 'react'
 import { Empty, PersonChip, SectionTitle, SmartFilter } from '../components/bits'
 import { GraphCanvas, Legend, type GEdge, type GNode } from '../components/GraphCanvas'
 import { Icon } from '../components/Icon'
+import { TribeProfileCard } from '../components/TribeProfileCard'
 import { useStore } from '../lib/data'
 import { pushHistory, toggleBookmark, useSaved } from '../lib/store'
 import { CATEGORY_LABEL, type Category, type Person, type Tribe } from '../lib/types'
@@ -69,7 +70,16 @@ export function TribesView() {
         </div>
       </div>
 
-      {selected && <TribeDetail tribe={selected} members={selectedMembers} onClose={() => go('kabilah')} onOpen={openProfile} />}
+      {selected && (
+        <TribeDetail
+          tribe={selected}
+          members={selectedMembers}
+          tab={route.params.tab === 'profil' ? 'profil' : 'jejaring'}
+          onTab={(tab) => go('kabilah', { t: selected.id, tab })}
+          onClose={() => go('kabilah')}
+          onOpen={openProfile}
+        />
+      )}
 
       {mode === 'peta' ? (
         <TribeNetwork onSelect={select} />
@@ -163,7 +173,21 @@ function QuraisyTree({ onSelect, counts }: { onSelect: (id: string) => void; cou
   )
 }
 
-function TribeDetail({ tribe, members, onClose, onOpen }: { tribe: Tribe; members: Person[]; onClose: () => void; onOpen: (id: string) => void }) {
+function TribeDetail({
+  tribe,
+  members,
+  tab,
+  onTab,
+  onClose,
+  onOpen,
+}: {
+  tribe: Tribe
+  members: Person[]
+  tab: 'jejaring' | 'profil'
+  onTab: (t: 'jejaring' | 'profil') => void
+  onClose: () => void
+  onOpen: (id: string) => void
+}) {
   const { g, weight } = useStore()
   const { isBookmarked } = useSaved()
   const [q, setQ] = useState('')
@@ -206,6 +230,30 @@ function TribeDetail({ tribe, members, onClose, onOpen }: { tribe: Tribe; member
           </button>
         </div>
       </div>
+      <div className="flex gap-1 border-b border-krem-200 px-5 pt-3 text-sm font-semibold" role="tablist">
+        {(
+          [
+            ['jejaring', 'Anggota & Jejaring'],
+            ['profil', 'Profil Kabilah 10 Poin'],
+          ] as const
+        ).map(([k, label]) => (
+          <button
+            key={k}
+            type="button"
+            role="tab"
+            aria-selected={tab === k}
+            onClick={() => onTab(k)}
+            className={`-mb-px border-b-2 px-3 py-2 ${tab === k ? 'border-emas-500 text-hijau-900' : 'border-transparent text-tinta-soft hover:text-hijau-800'}`}
+          >
+            {label}
+          </button>
+        ))}
+      </div>
+      {tab === 'profil' ? (
+        <div className="p-5">
+          <TribeProfileCard tribe={tribe} />
+        </div>
+      ) : (
       <div className="grid grid-cols-1 gap-5 p-5 lg:grid-cols-[minmax(0,1.4fr)_minmax(0,1fr)]">
         <div>
           {edges.length > 0 ? (
@@ -238,6 +286,7 @@ function TribeDetail({ tribe, members, onClose, onOpen }: { tribe: Tribe; member
           </div>
         </div>
       </div>
+      )}
     </div>
   )
 }

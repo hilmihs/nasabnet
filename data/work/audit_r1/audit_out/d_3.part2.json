@@ -1,0 +1,12 @@
+[
+  {"fid": "F109", "verdict": "fix", "why": "Relasi ayah (Mahmud bin ar-Rabi') eksplisit menyebut anaknya Ibrahim; tribe anak seharusnya ikut ayah (khazraj), bukan adi.", "ops": [{"op": "set_tribe", "id": "x4d7a3650", "tribe": "khazraj"}]},
+  {"fid": "F110", "verdict": "fix", "why": "Relasi ayah (Mahmud bin ar-Rabi') eksplisit menyebut anaknya Muhammad; tribe anak seharusnya khazraj seperti ayah, bukan adi.", "ops": [{"op": "set_tribe", "id": "x9f33cfdf", "tribe": "khazraj"}]},
+  {"fid": "F111", "verdict": "unsure", "why": "Nama ayah Suwaid bin Qais untuk Marhab hanya disebut dengan 'yuqal' (riwayat lemah) dan nisbah Marhab sendiri al-Anshari bertentangan dengan tribe abdulqais milik Suwaid; tidak bisa diputuskan dari teks yang ada.", "ops": []},
+  {"fid": "F112", "verdict": "unsure", "why": "Sama seperti F111 (edge yang sama): identifikasi ayah Marhab hanya riwayat hedge 'yuqal', tidak cukup kuat untuk memastikan kecocokan nama.", "ops": []},
+  {"fid": "F113", "verdict": "fix", "why": "Relasi ayah (Mu'adz bin Jabal) eksplisit menyebut dua putra termasuk Abdurrahman; tribe anak seharusnya khazraj, bukan adi.", "ops": [{"op": "set_tribe", "id": "xbafbb499", "tribe": "khazraj"}]},
+  {"fid": "F114", "verdict": "unsure", "why": "Teks sendiri menyajikan beberapa teori nama berbeda untuk tokoh ini (Mu'adz bin Rabah, Ammar bin Humaid, Umarah bin Ruwaibah) dan silsilah dua vs tiga generasi; tidak jelas mana yang benar.", "ops": []},
+  {"fid": "F115", "verdict": "fix", "why": "Yazid bin Mu'awiyah di sini bernisbah al-Bakka'i, al-Amiri (Hawazin), jelas berbeda dari Yazid bin Mu'awiyah bin Abi Sufyan (Umayyah); homonim yang salah ditautkan.", "ops": [{"op": "drop_edge", "s": "n6225", "t": "n11182", "k": "parent"}]},
+  {"fid": "F116", "verdict": "fix", "why": "Abu Ayyash adalah keturunan Mu'awiyah bin ash-Shamit bin Zaid dari Bani Zuraiq (Khazraj), bukan Mu'awiyah bin Abi Sufyan; homonim yang salah ditautkan.", "ops": [{"op": "drop_edge", "s": "n6225", "t": "n2192", "k": "parent"}]},
+  {"fid": "F117", "verdict": "fix", "why": "Sama seperti F116: nama ayah pada nasab adalah Mu'awiyah bin ash-Shamit, bukan Mu'awiyah bin Abi Sufyan.", "ops": [{"op": "drop_edge", "s": "n6225", "t": "n2192", "k": "parent"}]},
+  {"fid": "F118", "verdict": "ok", "why": "Nama ayah Auf bin Abi Hayyah pada nasab cocok persis dengan record ayah yang ditautkan.", "ops": []}
+]

@@ -1,0 +1,12 @@
+[
+{"fid":"F168","verdict":"fix","why":"n771 sendiri menyimpan hedge \"يقال إنها بنت زيد بن ثابت... ويقال امرأة زيد بن ثابت\"; x hanya salah satu pembacaan tanpa teks tambahan, jadi entitas yang sama.","ops":[{"op":"merge","keep":"n771","drop":"xa533af5c"}]},
+{"fid":"F169","verdict":"fix","why":"Kunyah sama (Abu Sa'id) dan ayah sama Aus bin al-Mu'alla; n283 sendiri mencatat variasi nama (Rafi'/al-Harits) untuk tokoh yang sama.","ops":[{"op":"merge","keep":"n283","drop":"x7cf09494"}]},
+{"fid":"F170","verdict":"ok","why":"Nama ayah berbeda total (Ghaziyyah bin Amr vs Zaid), dan teks n9840 tidak menyebut ibu Nusaibah/Umm Ammarah; bukan bukti orang yang sama.","ops":[]},
+{"fid":"F171","verdict":"ok","why":"Ibnu Sa'd sendiri membedakan \"Amrah al-ula/al-tsalitsah/al-rabi'ah/al-khamisah\" sebagai saudari berbeda dengan suami dan anak masing-masing berbeda walau nama dan ibu sama; bukan duplikat.","ops":[]},
+{"fid":"F172","verdict":"ok","why":"Dua tokoh berbeda total: Abu Ubaidah bin al-Jarrah (fihr, wafat 17/18H, sahabat) vs Abu Ubaidah bin Abdullah bin Zam'ah (asad, wafat 111-120H, bukan sahabat); hanya kunyah sama.","ops":[]},
+{"fid":"F173","verdict":"fix","why":"n3592 sendiri mencatat varian nama \"يقال: ثعلبة بن عبد الله بن صعير\" yang mendekati nama x (tukar posisi ayah-anak); suku sama (qudhaah), x tanpa teks lain sehingga kemungkinan besar varian nama yang sama.","ops":[{"op":"merge","keep":"n3592","drop":"x29dd306d"}]},
+{"fid":"F174","verdict":"fix","why":"Nama x \"Mursid bin Kannaz\" cocok persis dengan nama asli Marthad bin Abi Marthad: Kannaz bin al-Hushain pada n10959; suku sama (ghani).","ops":[{"op":"merge","keep":"n10959","drop":"xe4b026d9"}]},
+{"fid":"F175","verdict":"ok","why":"Dua istri Nabi yang jelas berbeda: Zainab bint Jahsy (ayah Jahsy, suku asad-k) vs Zainab bint Khuzaimah (ayah Khuzaimah, suku hawazin); bukan duplikat.","ops":[]},
+{"fid":"F176","verdict":"fix","why":"Kedua teks menyebut Halah sebagai ibu Hamzah dan Safiyyah (saudara seibu), nama ayah Uhaib/Wuhaib adalah varian ejaan yang sama; satu orang.","ops":[{"op":"merge","keep":"xacec0a29","drop":"xc6fb73c2"}]},
+{"fid":"F177","verdict":"fix","why":"Teks ibnsad x menyebut \"خولة بنت قيس بن قهد الأنصارية\" persis cocok dengan nasab lengkap n1834 (istri Hamzah); satu orang.","ops":[{"op":"merge","keep":"n1834","drop":"x8d3a322a"}]}
+]

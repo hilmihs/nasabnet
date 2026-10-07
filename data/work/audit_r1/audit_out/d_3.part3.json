@@ -1,0 +1,12 @@
+[
+  {"fid": "F119", "verdict": "unsure", "why": "Nisbah anak sendiri menyebut banyak kemungkinan (Laitsi, Kinani, Anshari, Qurasyi, Amiri, bahkan Khuza'i); tidak bisa dipastikan tribe mana yang benar dari teks ini.", "ops": []},
+  {"fid": "F120", "verdict": "ok", "why": "Nasab anak sendiri menyebut varian 'wa yuqal: ibn Umayyah bin Asid' yang cocok dengan ayah yang ditautkan.", "ops": []},
+  {"fid": "F121", "verdict": "ok", "why": "Relasi ayah (Hushain bin Aws) eksplisit menyebut 'walad Ziyad bin al-Hushain'; nama ayah pada nasab cocok persis.", "ops": []},
+  {"fid": "F122", "verdict": "ok", "why": "Relasi ayah (Dzul Jawshan/Utsman bin Naufal) eksplisit menyebut 'walad Syamir'; nama Utsman cocok dengan salah satu nama ayah yang ditautkan.", "ops": []},
+  {"fid": "F123", "verdict": "ok", "why": "Relasi ayah (Abu Amrah) eksplisit menyebut 'walad Abdurrahman' dan hedge 'qila ismuhu Rasyid' cocok dengan nasab anak.", "ops": []},
+  {"fid": "F124", "verdict": "fix", "why": "Nisbah Rumaitsah sendiri al-Anshariyyah dan relasinya adalah nenek Ashim bin Umar bin Qatadah (Anshari); link ke Amr bin Hasyim bin al-Muthallib (Quraisy) dengan ibnsad yang tidak relevan adalah resolusi salah.", "ops": [{"op": "drop_edge", "s": "x15396071", "t": "n2022", "k": "parent"}]},
+  {"fid": "F125", "verdict": "ok", "why": "Relasi ayah (az-Zari' bin Amir) eksplisit menyebut putranya al-Majnun Mathar.", "ops": []},
+  {"fid": "F126", "verdict": "ok", "why": "Relasi ayah (az-Zari' bin Amir) eksplisit menyebut putranya al-Wazi'.", "ops": []},
+  {"fid": "F127", "verdict": "fix", "why": "Relasi ayah (Abu Ayyash) eksplisit menyebut putranya an-Nu'man; tribe an-Nu'man seharusnya khazraj seperti ayah, bukan umayyah.", "ops": [{"op": "set_tribe", "id": "xb06a1646", "tribe": "khazraj"}]},
+  {"fid": "F128", "verdict": "fix", "why": "Ayah (Abdullah bin Khubaib) adalah halif Anshar bertribe asli juhainah; anak keturunan langsungnya seharusnya tetap juhainah, bukan khazraj (tribe sekutu).", "ops": [{"op": "set_tribe", "id": "x7f95a2be", "tribe": "juhainah"}]}
+]

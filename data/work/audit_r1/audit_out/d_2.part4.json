@@ -1,0 +1,12 @@
+[
+{"fid": "F80", "verdict": "ok", "why": "Relations al-Jarud menyebut langsung 'wa ibnuhu al-Mundzir bin al-Jarud' - al-Mundzir memang anaknya.", "ops": []},
+{"fid": "F81", "verdict": "fix", "why": "Relations Jurhud bin Rizah menyebut langsung 'ibnahu: Abdullah wa Abdurrahman'; ia Aslam, 'Adi' di sini sub-klan Aslam bukan kabilah terpisah.", "ops": [{"op":"set_tribe","id":"x863e6212","tribe":"aslam"}]},
+{"fid": "F82", "verdict": "fix", "why": "Sama seperti F81, Abdurrahman anak Jurhud bin Rizah (Aslam); tribe adi pada anak salah, seharusnya aslam.", "ops": [{"op":"set_tribe","id":"x3eedd4b0","tribe":"aslam"}]},
+{"fid": "F83", "verdict": "ok", "why": "Hedge nasab Jundab al-Khair cocok persis relasi ayah 'Ka'ab bin Abdullah bin Hurr bin Amir'.", "ops": []},
+{"fid": "F84", "verdict": "fix", "why": "Ibnsad s915 seluruhnya tentang keluarga Makhzum Quraisy, tidak terkait Jundab al-Bajali (bajilah); homonim 'Abdullah bin Sufyan' tertukar.", "ops": [{"op":"drop_edge","s":"s915","t":"n1182","k":"parent"}]},
+{"fid": "F85", "verdict": "ok", "why": "Hedge 'Habis bin Rabi'ah bin al-Mundzir bin Sa'd' cocok persis relasi ayah.", "ops": []},
+{"fid": "F86", "verdict": "fix", "why": "Relations Zainab menyebut 'akhiha Abdullah' (saudara, bukan ayah); edge sibling sudah ada dan kontradiksi dengan edge parent yang sama-sama menghubungkan n3927-n2219.", "ops": [{"op":"drop_edge","s":"n3927","t":"n2219","k":"parent"}]},
+{"fid": "F87", "verdict": "ok", "why": "Sa'd bin 'Aidz dan anaknya Ammar adalah mawali keluarga Ammar bin Yasir yang juga mawla Makhzum; variasi tribe mawla ini sudah dihedge dalam relations, bukan error.", "ops": []},
+{"fid": "F88", "verdict": "ok", "why": "Sama seperti F87 untuk Umar bin Sa'd bin 'Aidz, variasi tribe mawla sudah dihedge dalam relations.", "ops": []},
+{"fid": "F89", "verdict": "fix", "why": "Hedge 'Sufyan bin Abdullah bin Hutait' (Thaqif) dan ibnsad xc5429e00 yang seluruhnya tentang keluarga Hasyim Rabi'ah bin al-Harits tidak menyebut Sufyan; homonim 'Abdullah bin Rabi'ah' tertukar.", "ops": [{"op":"drop_edge","s":"xc5429e00","t":"n2475","k":"parent"}]}
+]

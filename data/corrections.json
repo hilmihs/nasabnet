@@ -1,0 +1,2366 @@
+[
+ {
+  "op": "drop_edge",
+  "s": "s4592",
+  "t": "xc4e47902",
+  "k": "parent",
+  "fid": "F1",
+  "rule": "R2",
+  "why": "Teks ibnsad ttg Ziyad bin Labid menyebut Amrah sbg ibunya (Ziyad), bukan ibu Labid sendiri; edge parent Amrah->Labid salah resolusi generasi."
+ },
+ {
+  "op": "set_tribe",
+  "id": "s431",
+  "tribe": "asad-k",
+  "fid": "F4",
+  "rule": "R5",
+  "why": "Nasab lengkap Uqbah identik dgn ayahnya sampai 'Asad bin Suhaib...Asad bin Khuzaimah', jadi sukunya asad-k bukan umayyah."
+ },
+ {
+  "op": "drop_edge",
+  "s": "x0eba941d",
+  "t": "s471",
+  "k": "parent",
+  "fid": "F6",
+  "rule": "R6",
+  "why": "'Abu Waqqas' (dikenal sbg Malik bin Wuhaib) adalah ayah kandung Umair, bukan Wuhaib sendiri; nasab melompat ke kakek yg tak ada dlm temuan ini."
+ },
+ {
+  "op": "set_tribe",
+  "id": "s917",
+  "tribe": "madzhij",
+  "fid": "F9",
+  "rule": "R5",
+  "why": "Teks: 'bani Malik bin Adad dari Madzhij'; Yasir hanya halif Bani Makhzum via Abu Hudzaifah, nasab aslinya Madzhij sesuai kaidah halif."
+ },
+ {
+  "op": "set_tribe",
+  "id": "s4598",
+  "tribe": "khazraj",
+  "fid": "F10",
+  "rule": "R5",
+  "why": "Nasab Ummu Tsabit identik dgn ayahnya sampai 'Umayyah bin Mu'awiyah' (leluhur Khazraj, bukan suku Quraisy Umayyah); seharusnya khazraj."
+ },
+ {
+  "op": "set_tribe",
+  "id": "n3681",
+  "tribe": "aus",
+  "fid": "F11",
+  "rule": "R5",
+  "why": "Teks ibnsad Abdullah bin Sa'd menyebut nasab penuh via Sa'd bin Khaitsamah dari Aus; tag 'fihr' tampak dari data rawi campuran homonim."
+ },
+ {
+  "op": "drop_edge",
+  "s": "n6204",
+  "t": "s648",
+  "k": "parent",
+  "fid": "F12",
+  "rule": "R5",
+  "why": "Mu'adz bin Anas al-Juhani (sekutu Ansar, ayah Sahl) adalah orang lain; bio Anas bin Mu'adz sendiri tak menyebut ayah ini, kemungkinan salah resolusi nama kembar."
+ },
+ {
+  "op": "set_tribe",
+  "id": "n8274",
+  "tribe": "khazraj",
+  "fid": "F17",
+  "rule": "R5",
+  "why": "Bio Khubaib bin Yasaf sendiri menyebut anaknya 'Abdurrahman li umm walad' — relasi didukung teks; tag 'muzainah' pd anak keliru, seharusnya khazraj mengikuti ayah."
+ },
+ {
+  "op": "set_tribe",
+  "id": "s732",
+  "tribe": "khazraj",
+  "fid": "F18",
+  "rule": "R5",
+  "why": "Teks menyebut keturunan Iyas bin Amr bin Ghanm 'min al-Khazraj'; tag 'qudhaah' pd Wadzafah keliru, seharusnya khazraj spt ayahnya."
+ },
+ {
+  "op": "drop_edge",
+  "s": "n5309",
+  "t": "s747",
+  "k": "parent",
+  "fid": "F27",
+  "rule": "R5",
+  "why": "Ka'b bin Amr n5309 bernasab Yami/Hamdan (nisba al-Yami), beda total dari nasab Juhainah ayah Ziyad; kemungkinan salah resolusi nama kembar."
+ },
+ {
+  "op": "drop_edge",
+  "s": "n3685",
+  "t": "n1091",
+  "k": "parent",
+  "fid": "F28",
+  "rule": "R5",
+  "why": "Teks ibnsad yg terlampir pd node ini justru ttg Abdullah bin Amr bin Haram (Ansari, ayah Jabir sebenarnya), bukan Abdullah as-Sa'di yg Quraisy 'Amiri — beda orang."
+ },
+ {
+  "op": "set_tribe",
+  "id": "s4775",
+  "tribe": "khazraj",
+  "fid": "F29",
+  "rule": "R5",
+  "why": "Relasi ayah-anak didukung teks jelas (anak 'Umm Abdullah' disebut langsung di bio Mu'adz); tag 'adi' pd anak keliru, seharusnya khazraj spt ayah — 'adi' di nasabnya cuma nama leluhur."
+ },
+ {
+  "op": "set_tribe",
+  "id": "n7271",
+  "tribe": "hasyim",
+  "fid": "F30",
+  "rule": "R5",
+  "why": "Teks ibnsad eksplisit Hasyimi (bin Abdul Muththalib bin Hasyim bin Abdu Manaf), cocok dgn ayah; tag 'bahilah' tampak tercampur dari data rawi orang lain."
+ },
+ {
+  "op": "drop_edge",
+  "s": "n1969",
+  "t": "n3650",
+  "k": "parent",
+  "fid": "F33",
+  "rule": "R5",
+  "why": "Rabi'ah bin Farqad (Sulami) orang lain dari Rabi'ah bin al-Harits bin Abdul Muththalib (Hasyimi); hanya nama 'Abdullah bin Rabi'ah' yg mirip, salah resolusi."
+ },
+ {
+  "op": "drop_edge",
+  "s": "n1930",
+  "t": "s4548",
+  "k": "parent",
+  "fid": "F45",
+  "rule": "R5",
+  "why": "Nasab lengkap Laila berlanjut 'bin Adi bin Mujda'ah bin Haritsah' (Ansari Aus), beda dari Rafi' bin Amr al-Muzani al-Bashri (n1930) yg jelas tokoh/zaman lain."
+ },
+ {
+  "op": "set_tribe",
+  "id": "xf0cff828",
+  "tribe": "khazraj",
+  "fid": "F48",
+  "rule": "R5",
+  "why": "Nasab Amr bin Haram bin Tsa'labah (leluhur jalur Jabir bin Abdullah, Bani Salamah) jelas Khazraj Ansari; tag 'amir' keliru."
+ },
+ {
+  "op": "set_tribe",
+  "id": "xf0cff828",
+  "tribe": "khazraj",
+  "fid": "F49",
+  "rule": "R5",
+  "why": "Sama dgn F48: Amr bin Haram bin Tsa'labah adalah Khazraj Ansari (Bani Salamah), tag 'amir' keliru."
+ },
+ {
+  "op": "set_tribe",
+  "id": "xf0cff828",
+  "tribe": "khazraj",
+  "fid": "F50",
+  "rule": "R5",
+  "why": "Nasab anak Amr bin Haram (...bin Tsa'labah bin Hiram bin Ka'ab bin Ghanm bin Ka'ab bin Salamah) menunjukkan ia Khazraj/Bani Salamah, bukan amir; tribe ayah salah."
+ },
+ {
+  "op": "set_tribe",
+  "id": "xf0cff828",
+  "tribe": "khazraj",
+  "fid": "F51",
+  "rule": "R5",
+  "why": "Sama seperti F50, nasab keluarga Amr bin Haram adalah Khazraj/Bani Salamah; tribe ayah xf0cff828 salah."
+ },
+ {
+  "op": "drop_edge",
+  "s": "n3685",
+  "t": "s4726",
+  "k": "parent",
+  "fid": "F52",
+  "rule": "R5",
+  "why": "n3685 (Abdullah bin as-Sa'di) bernasab Quraisy/Amiri (bin Waqdan bin Abdu Syams), berbeda dari ayah Ummu Mu'adz yang menurut ibnsad adalah Abdullah bin Amr bin Haram (Khazraj); resolusi homonim salah."
+ },
+ {
+  "op": "set_tribe",
+  "id": "x5de2da36",
+  "tribe": "khazraj",
+  "fid": "F53",
+  "rule": "R5",
+  "why": "Ibnsad Uqbah bin Amir bin Nabi' (saudara Ummu Habban) menunjukkan keluarga ini Bani Salamah/Khazraj, bukan juhainah."
+ },
+ {
+  "op": "drop_edge",
+  "s": "n11304",
+  "t": "x934f8b97",
+  "k": "parent",
+  "fid": "F55",
+  "rule": "R6",
+  "why": "Nama x934f8b97 sendiri menyebut ayah 'Mas'ud bin Tsa'labah bin Asirah...Jadarah', berbeda dari n11304 'Mas'ud bin Zaid bin Sabi'...Salamah'; dua Mas'ud berbeda (homonim)."
+ },
+ {
+  "op": "set_tribe",
+  "id": "s4774",
+  "tribe": "khazraj",
+  "fid": "F57",
+  "rule": "R5",
+  "why": "Ibnsad Mu'adz bin Jabal menunjukkan 'Adi bin Sa'd' adalah sub-klan Khazraj (Sa'd bin Ali), bukan kabilah Quraisy 'adi'."
+ },
+ {
+  "op": "set_tribe",
+  "id": "xe5343546",
+  "tribe": "khazraj",
+  "fid": "F59",
+  "rule": "R5",
+  "why": "Ibnsad menyebut Abdullah sebagai anak Amr bin Qais bin Zaid bin Sawad (Khazraj) dari Ummu Hiram; tribe hudzail pada anak salah."
+ },
+ {
+  "op": "drop_edge",
+  "s": "xea7b44e3",
+  "t": "n1059",
+  "k": "parent",
+  "fid": "F60",
+  "rule": "R6",
+  "why": "Ibnsad menyebut 'Thabit' anak Zaid bin Malik bin Abdu Wudd (Bani Abdul Asyhal/Aus) adalah orang lain; n1059 nasabnya sendiri menyebut ayah Wadi'ah (Khazraj), homonim berbeda."
+ },
+ {
+  "op": "drop_edge",
+  "s": "n7271",
+  "t": "n800",
+  "k": "parent",
+  "fid": "F61",
+  "rule": "R5",
+  "why": "Ibnsad n7271 meresolusi ke Abdullah bin al-Harits bin Abdul Muttalib (Hasyim)/ayah Mujibah al-Bahili, bukan ayah Ummu Waraqah yang nasabnya 'bin Uwaimir bin Naufal' (Anshar); homonim salah."
+ },
+ {
+  "op": "set_tribe",
+  "id": "n21113",
+  "tribe": "ghathafan",
+  "fid": "F63",
+  "rule": "R5",
+  "why": "Hudzaifah adalah Absi/Ghathafan yang berhalif dengan Bani Abdul Asyhal; sesuai aturan halif tetap pakai tribe nasab sendiri, anak seharusnya ghathafan bukan aus."
+ },
+ {
+  "op": "set_tribe",
+  "id": "n2217",
+  "tribe": "qudhaah",
+  "fid": "F64",
+  "rule": "R5",
+  "why": "Ka'ab bin Ujrah adalah Qudha'ah/Bali yang berhalif dengan Anshar; anak seharusnya tetap qudhaah sesuai aturan halif, bukan anshar."
+ },
+ {
+  "op": "drop_edge",
+  "s": "xcdd0a853",
+  "t": "n154",
+  "k": "parent",
+  "fid": "F65",
+  "rule": "R5",
+  "why": "Ibnsad xcdd0a853 meresolusi ke Harits bin 'Amir bin Malik (saudara Yasir, Yaman/Madzhij), bukan 'al-Harits bin Amir bin Naufal' ayah perempuan Naufali ini; homonim salah."
+ },
+ {
+  "op": "drop_edge",
+  "s": "n822",
+  "t": "n5361",
+  "k": "parent",
+  "fid": "F71",
+  "rule": "R5",
+  "why": "Malik bin Anas (Imam Malik) bernasab Himyar/Asbahi Yaman, berbeda total dari Anas bin Malik bin an-Nadhr (Khazraj, pelayan Nabi); homonim 'Anas bin Malik' tertukar."
+ },
+ {
+  "op": "set_tribe",
+  "id": "x654a621a",
+  "tribe": "khazraj",
+  "fid": "F78",
+  "rule": "R5",
+  "why": "Relations Jabir bin 'Atik menyebut langsung 'wa ibnuhu Abdullah bin Jabir' dan ia Khazraj/Salamah; tribe bajilah pada anak salah."
+ },
+ {
+  "op": "set_tribe",
+  "id": "x863e6212",
+  "tribe": "aslam",
+  "fid": "F81",
+  "rule": "R5",
+  "why": "Relations Jurhud bin Rizah menyebut langsung 'ibnahu: Abdullah wa Abdurrahman'; ia Aslam, 'Adi' di sini sub-klan Aslam bukan kabilah terpisah."
+ },
+ {
+  "op": "set_tribe",
+  "id": "x3eedd4b0",
+  "tribe": "aslam",
+  "fid": "F82",
+  "rule": "R5",
+  "why": "Sama seperti F81, Abdurrahman anak Jurhud bin Rizah (Aslam); tribe adi pada anak salah, seharusnya aslam."
+ },
+ {
+  "op": "drop_edge",
+  "s": "s915",
+  "t": "n1182",
+  "k": "parent",
+  "fid": "F84",
+  "rule": "R5",
+  "why": "Ibnsad s915 seluruhnya tentang keluarga Makhzum Quraisy, tidak terkait Jundab al-Bajali (bajilah); homonim 'Abdullah bin Sufyan' tertukar."
+ },
+ {
+  "op": "drop_edge",
+  "s": "n3927",
+  "t": "n2219",
+  "k": "parent",
+  "fid": "F86",
+  "rule": "R6",
+  "why": "Relations Zainab menyebut 'akhiha Abdullah' (saudara, bukan ayah); edge sibling sudah ada dan kontradiksi dengan edge parent yang sama-sama menghubungkan n3927-n2219."
+ },
+ {
+  "op": "drop_edge",
+  "s": "xc5429e00",
+  "t": "n2475",
+  "k": "parent",
+  "fid": "F89",
+  "rule": "R5",
+  "why": "Hedge 'Sufyan bin Abdullah bin Hutait' (Thaqif) dan ibnsad xc5429e00 yang seluruhnya tentang keluarga Hasyim Rabi'ah bin al-Harits tidak menyebut Sufyan; homonim 'Abdullah bin Rabi'ah' tertukar."
+ },
+ {
+  "op": "set_tribe",
+  "id": "n15852",
+  "tribe": "tsaqif",
+  "fid": "F90",
+  "rule": "R5",
+  "why": "Relations Sufyan bin Abdullah menyebut langsung 'banuhu:...wa Alqamah'; keluarga ini Thaqif bukan hasyim."
+ },
+ {
+  "op": "set_tribe",
+  "id": "xb3962a1d",
+  "tribe": "tsaqif",
+  "fid": "F91",
+  "rule": "R5",
+  "why": "Relations Sufyan bin Abdullah menyebut langsung 'banuhu:...wa Abu al-Hakam'; keluarga ini Thaqif bukan hasyim."
+ },
+ {
+  "op": "set_tribe",
+  "id": "n1637",
+  "tribe": "rum",
+  "fid": "F95",
+  "rule": "R5",
+  "why": "Suhaib adalah halif/mawla Abdullah bin Jud'an at-Taimi namun nasabnya sendiri rum; sesuai aturan halif, anak (Hamzah, disebut langsung di relations) seharusnya tetap rum bukan taim."
+ },
+ {
+  "op": "drop_edge",
+  "s": "n1980",
+  "t": "n3068",
+  "k": "parent",
+  "fid": "F97",
+  "rule": "R5",
+  "why": "Nasab lengkap 'Amir bin Rabi'ah bin Ka'ab bin Malik bin Rabi'ah...bin Anz bin Wa'il bin Qasit' adalah garis Anz/Rabi'ah, berbeda dari n1980 'Rabi'ah bin Ka'ab al-Aslami' (Ahlus Suffah); homonim 'Rabi'ah bin Ka'ab' tertukar."
+ },
+ {
+  "op": "set_tribe",
+  "id": "n18491",
+  "tribe": "aus",
+  "fid": "F98",
+  "rule": "R5",
+  "why": "Relations n3256 menyebut langsung 'walad: Abdullah, wa Abdurrahman bin Abdurrahman'; keluarga ini Aus/Abdul Asyhal, 'Adi' di sini sub-klan bukan kabilah terpisah."
+ },
+ {
+  "op": "drop_edge",
+  "s": "n4003",
+  "t": "n3761",
+  "k": "parent",
+  "fid": "F100",
+  "rule": "R6",
+  "why": "Nasab anak menyebut ayah bernama Abdullah bin al-Harits bin Naufal, bukan Abdul Muthalib bin Rabi'ah; link ke n4003 adalah resolusi ke orang yang berbeda."
+ },
+ {
+  "op": "drop_edge",
+  "s": "xcdd0a853",
+  "t": "n4422",
+  "k": "parent",
+  "fid": "F103",
+  "rule": "R5",
+  "why": "Nasab anak menyebut ayah al-Harits bin Amir bin Naufal (Quraisy), sedangkan record ayah yang ditautkan bertribe tamim dengan ibnsad tentang Yasir/Ammar yang tidak terkait; resolusi salah ke homonim."
+ },
+ {
+  "op": "drop_edge",
+  "s": "n5887",
+  "t": "n6997",
+  "k": "parent",
+  "fid": "F108",
+  "rule": "R5",
+  "why": "Anak bernisbah al-Muharibi dan berprofesi guru di Bashrah hingga akhir abad ke-2 H, sangat berbeda dari profil keluarga Quraisy-Muthalib milik Muhammad bin Qais bin Mukhramah; kemungkinan homonim yang salah ditautkan."
+ },
+ {
+  "op": "set_tribe",
+  "id": "x4d7a3650",
+  "tribe": "khazraj",
+  "fid": "F109",
+  "rule": "R5",
+  "why": "Relasi ayah (Mahmud bin ar-Rabi') eksplisit menyebut anaknya Ibrahim; tribe anak seharusnya ikut ayah (khazraj), bukan adi."
+ },
+ {
+  "op": "set_tribe",
+  "id": "x9f33cfdf",
+  "tribe": "khazraj",
+  "fid": "F110",
+  "rule": "R5",
+  "why": "Relasi ayah (Mahmud bin ar-Rabi') eksplisit menyebut anaknya Muhammad; tribe anak seharusnya khazraj seperti ayah, bukan adi."
+ },
+ {
+  "op": "set_tribe",
+  "id": "xbafbb499",
+  "tribe": "khazraj",
+  "fid": "F113",
+  "rule": "R5",
+  "why": "Relasi ayah (Mu'adz bin Jabal) eksplisit menyebut dua putra termasuk Abdurrahman; tribe anak seharusnya khazraj, bukan adi."
+ },
+ {
+  "op": "drop_edge",
+  "s": "n6225",
+  "t": "n11182",
+  "k": "parent",
+  "fid": "F115",
+  "rule": "R5",
+  "why": "Yazid bin Mu'awiyah di sini bernisbah al-Bakka'i, al-Amiri (Hawazin), jelas berbeda dari Yazid bin Mu'awiyah bin Abi Sufyan (Umayyah); homonim yang salah ditautkan."
+ },
+ {
+  "op": "drop_edge",
+  "s": "n6225",
+  "t": "n2192",
+  "k": "parent",
+  "fid": "F116",
+  "rule": "R5",
+  "why": "Abu Ayyash adalah keturunan Mu'awiyah bin ash-Shamit bin Zaid dari Bani Zuraiq (Khazraj), bukan Mu'awiyah bin Abi Sufyan; homonim yang salah ditautkan."
+ },
+ {
+  "op": "drop_edge",
+  "s": "n6225",
+  "t": "n2192",
+  "k": "parent",
+  "fid": "F117",
+  "rule": "R6",
+  "why": "Sama seperti F116: nama ayah pada nasab adalah Mu'awiyah bin ash-Shamit, bukan Mu'awiyah bin Abi Sufyan."
+ },
+ {
+  "op": "drop_edge",
+  "s": "x15396071",
+  "t": "n2022",
+  "k": "parent",
+  "fid": "F124",
+  "rule": "R5",
+  "why": "Nisbah Rumaitsah sendiri al-Anshariyyah dan relasinya adalah nenek Ashim bin Umar bin Qatadah (Anshari); link ke Amr bin Hasyim bin al-Muthallib (Quraisy) dengan ibnsad yang tidak relevan adalah resolusi salah."
+ },
+ {
+  "op": "set_tribe",
+  "id": "xb06a1646",
+  "tribe": "khazraj",
+  "fid": "F127",
+  "rule": "R5",
+  "why": "Relasi ayah (Abu Ayyash) eksplisit menyebut putranya an-Nu'man; tribe an-Nu'man seharusnya khazraj seperti ayah, bukan umayyah."
+ },
+ {
+  "op": "set_tribe",
+  "id": "x7f95a2be",
+  "tribe": "juhainah",
+  "fid": "F128",
+  "rule": "R5",
+  "why": "Ayah (Abdullah bin Khubaib) adalah halif Anshar bertribe asli juhainah; anak keturunan langsungnya seharusnya tetap juhainah, bukan khazraj (tribe sekutu)."
+ },
+ {
+  "op": "set_tribe",
+  "id": "x53314e89",
+  "tribe": "bahilah",
+  "fid": "F129",
+  "rule": "R5",
+  "why": "Relasi ayah eksplisit menyebut 'walad Mujibah al-Bahili atau al-Bahiliyyah'; tribe Mujibah seharusnya bahilah, bukan hasyim yang tercampur dari ibnsad tokoh Hasyimi lain yang tidak relevan."
+ },
+ {
+  "op": "set_tribe",
+  "id": "s448",
+  "tribe": "lakhm",
+  "fid": "F131",
+  "rule": "R5",
+  "why": "Hathib adalah Lakhmi menurut ibnsad, yang menjadi halif Bani Asad bin Abdul Uzza; tribe aslinya seharusnya lakhm, bukan asad (tribe sekutu)."
+ },
+ {
+  "op": "drop_edge",
+  "s": "n2414",
+  "t": "n11234",
+  "k": "parent",
+  "fid": "F132",
+  "rule": "R5",
+  "why": "Nasab lengkap al-Mundzir/Abu Humaid murni silsilah Khazraj (berakhir 'bin al-Khazraj') tanpa menyebut Abu Kabsyah; link ke Abu Kabsyah (Anmari/Madzhiji, Syami) adalah resolusi yang salah."
+ },
+ {
+  "op": "drop_edge",
+  "s": "n2414",
+  "t": "n11234",
+  "k": "parent",
+  "fid": "F133",
+  "rule": "R6",
+  "why": "Sama seperti F132: nasab menyebut ayah Sa'd bin Amr dari silsilah Khazraj, bukan Abu Kabsyah."
+ },
+ {
+  "op": "merge",
+  "keep": "n8653",
+  "drop": "x4f71ceba",
+  "fid": "F134",
+  "rule": "R9",
+  "why": "Kedua record sama-sama putri Ali dan Fathimah bernama Ummu Kultsum; kemungkinan besar orang yang sama, hanya satu versi memakai gelar al-Kubra."
+ },
+ {
+  "op": "merge",
+  "keep": "n2214",
+  "drop": "s4319",
+  "fid": "F135",
+  "rule": "R9",
+  "why": "Nasab kedua record identik (bin Jahsy bin Riab...bin Khuzaimah) dengan ibu yang sama Umaimah bint Abdul Muththalib; jelas orang yang sama (istri Nabi)."
+ },
+ {
+  "op": "merge",
+  "keep": "n2990",
+  "drop": "x6ae0e8de",
+  "fid": "F136",
+  "rule": "R9",
+  "why": "Nama x6ae0e8de disebutkan sendiri sebagai salah satu varian nama (hedge) pada record n2990; keduanya orang yang sama. n15565 (putra al-Harits bin al-Muthallib) adalah orang berbeda, tidak terkait Ummu Ruman."
+ },
+ {
+  "op": "merge",
+  "keep": "s4514",
+  "drop": "x1634c25e",
+  "fid": "F141",
+  "rule": "R9",
+  "why": "s4514 disebut sendiri sebagai 'akht Rafi' bin Yazid', cocok persis dengan Hawwa' saudara Rafi' bin Yazid bin Karz pada bio Aqrab; nama ayah Zaid bin Sakan bin Karz vs Yazid bin Karz hanya varian penulisan."
+ },
+ {
+  "op": "merge",
+  "keep": "x0deb471b",
+  "drop": "x624bd363",
+  "fid": "F142",
+  "rule": "R9",
+  "why": "Kedua record merujuk putra tunggal Muhammad bin Maslamah dari istri yang sama, Amrah bint Mas'ud bin Aws, bernama Abdullah; jelas orang yang sama dilihat dari dua sisi (bio ayah dan bio ibu)."
+ },
+ {
+  "op": "merge",
+  "keep": "s639",
+  "drop": "x5e6e70f0",
+  "fid": "F144",
+  "rule": "R9",
+  "why": "Bio Ummu Haram eksplisit menyebut ia menikah dengan Amr bin Qais bin Zaid dan melahirkan Qais dan Abdullah; cocok persis dengan s639 (Qais bin Amr bin Qais bin Zaid, ibu Ummu Haram)."
+ },
+ {
+  "op": "merge",
+  "keep": "n822",
+  "drop": "xe2ca3f69",
+  "fid": "F145",
+  "rule": "R9",
+  "why": "Bio Ummu Sulaim eksplisit menyebut ia melahirkan Anas bin Malik dari Malik bin an-Nadhr; ini adalah Anas bin Malik yang sama, pelayan Nabi."
+ },
+ {
+  "op": "merge",
+  "keep": "s653",
+  "drop": "x862ffda9",
+  "fid": "F146",
+  "rule": "R9",
+  "why": "Bio Kabsyah bint Tsabit eksplisit menyebut ia melahirkan Tsa'labah dari Amr bin Mihshan; cocok dengan s653 (Tsa'labah bin Amr bin Mihshan)."
+ },
+ {
+  "op": "merge",
+  "keep": "n3610",
+  "drop": "xa5245dbc",
+  "fid": "F147",
+  "rule": "R9",
+  "why": "n3610 adalah Abu Jahim bin al-Harits bin ash-Shammah dengan ism Abdullah, persis sama dengan xa5245dbc yang hanya stub dari bio ayahnya."
+ },
+ {
+  "op": "merge",
+  "keep": "s4810",
+  "drop": "xf37d3e74",
+  "fid": "F149",
+  "rule": "R9",
+  "why": "Ibnsad kedua id identik persis (sama tiga kutipan tentang Hazilah/Sumaira/Ummu al-Harits), jelas satu orang; s4810 lebih lengkap."
+ },
+ {
+  "op": "merge",
+  "keep": "n2185",
+  "drop": "x62e16c1b",
+  "fid": "F150",
+  "rule": "R9",
+  "why": "Teks ibnsad x menyebut ayahnya \"ابن أبي زهير بن مالك\" bukan \"بن زيد\", cocok dengan nasab n2185; satu orang (muakhah dgn Abu Bakar, syahid Uhud)."
+ },
+ {
+  "op": "merge",
+  "keep": "s4673",
+  "drop": "xaa3ba9a4",
+  "fid": "F152",
+  "rule": "R9",
+  "why": "Teks ibnsad sama-sama menyebut ibu Qurratul Ain dan ayah ash-Shamit bin Qais bin Ashram untuk Khaulah; satu orang yang sama."
+ },
+ {
+  "op": "merge",
+  "keep": "s4708",
+  "drop": "xaf071d74",
+  "fid": "F153",
+  "rule": "R9",
+  "why": "Ibu sama (Khaulah bint al-Fakih bin Qais bin Mukhallad); teks sendiri menyebut \"Qais bin Mahsan\" juga disebut \"Qais bin Hisn\" oleh perawi lain, jadi satu orang."
+ },
+ {
+  "op": "merge",
+  "keep": "s4702",
+  "drop": "x44a1be7e",
+  "fid": "F154",
+  "rule": "R9",
+  "why": "Suami sama (Tsabit bin al-Jad'/Tsa'labah) dan ayah sama Utsman bin Khalidah/Khuldah bin Mukhallad; satu orang."
+ },
+ {
+  "op": "merge",
+  "keep": "s4705",
+  "drop": "x62953de1",
+  "fid": "F155",
+  "rule": "R9",
+  "why": "Ibu sama (al-Fari'ah bint al-Hubab) dan ayah sama Mas'ud bin Khalidah/Khaldah; satu orang."
+ },
+ {
+  "op": "merge",
+  "keep": "n712",
+  "drop": "s829",
+  "fid": "F157",
+  "rule": "R9",
+  "why": "Ibnsad identik (sama ayah/kakek, sama anak Yahya, sama muakhah dgn Zaid bin Haritsah); satu orang, hanya variasi ejaan nama."
+ },
+ {
+  "op": "merge",
+  "keep": "n3732",
+  "drop": "x4fd87583",
+  "fid": "F158",
+  "rule": "R9",
+  "why": "Jelas Ibnu Abbas yang sama (anak al-Abbas bin Abdul Muththalib), hanya beda ejaan \"al-Abbas/Abbas\" dan \"Muthallib/Muthalib\"."
+ },
+ {
+  "op": "merge",
+  "keep": "n1214",
+  "drop": "x311634a5",
+  "fid": "F161",
+  "rule": "R9",
+  "why": "Teks ibnsad x menyebut anak Hathib bin al-Harits bin Ma'mar bernama \"al-Harits\" (dan Muhammad), cocok persis dengan n1214."
+ },
+ {
+  "op": "merge",
+  "keep": "n15209",
+  "drop": "s4311",
+  "fid": "F162",
+  "rule": "R9",
+  "why": "Ibu sama (Halah bint Kaldah) dan suami-anak sama (Nawfal bin Uhaib, anak Makhramah); \"Shaifi\" vs \"Abi Shaifi\" varian nama yang sama."
+ },
+ {
+  "op": "merge",
+  "keep": "n816",
+  "drop": "s4409",
+  "fid": "F163",
+  "rule": "R9",
+  "why": "Teks identik: ibu Ruqaiqah bint Khuwailid, bibi Khadijah, suami Habib bin Ka'b, anak an-Nahdiyah/Umm Ubays/Zunairah; n816 sendiri menyebut varian nama \"Abd\" vs \"Abdullah bin Bajad\"."
+ },
+ {
+  "op": "merge",
+  "keep": "s4557",
+  "drop": "x6e82028a",
+  "fid": "F165",
+  "rule": "R9",
+  "why": "Ibu sama (Laila bint al-Khathim) dan ayah sama (Mas'ud bin Aus bin Malik); satu orang."
+ },
+ {
+  "op": "merge",
+  "keep": "s4558",
+  "drop": "xbf271524",
+  "fid": "F166",
+  "rule": "R9",
+  "why": "Ibu sama (Laila bint al-Khathim) dan ayah sama (Mas'ud bin Aus bin Malik) untuk Umairah; satu orang."
+ },
+ {
+  "op": "merge",
+  "keep": "n771",
+  "drop": "xa533af5c",
+  "fid": "F168",
+  "rule": "R9",
+  "why": "n771 sendiri menyimpan hedge \"يقال إنها بنت زيد بن ثابت... ويقال امرأة زيد بن ثابت\"; x hanya salah satu pembacaan tanpa teks tambahan, jadi entitas yang sama."
+ },
+ {
+  "op": "merge",
+  "keep": "n283",
+  "drop": "x7cf09494",
+  "fid": "F169",
+  "rule": "R9",
+  "why": "Kunyah sama (Abu Sa'id) dan ayah sama Aus bin al-Mu'alla; n283 sendiri mencatat variasi nama (Rafi'/al-Harits) untuk tokoh yang sama."
+ },
+ {
+  "op": "merge",
+  "keep": "n3592",
+  "drop": "x29dd306d",
+  "fid": "F173",
+  "rule": "R9",
+  "why": "n3592 sendiri mencatat varian nama \"يقال: ثعلبة بن عبد الله بن صعير\" yang mendekati nama x (tukar posisi ayah-anak); suku sama (qudhaah), x tanpa teks lain sehingga kemungkinan besar varian nama yang sama."
+ },
+ {
+  "op": "merge",
+  "keep": "n10959",
+  "drop": "xe4b026d9",
+  "fid": "F174",
+  "rule": "R9",
+  "why": "Nama x \"Mursid bin Kannaz\" cocok persis dengan nama asli Marthad bin Abi Marthad: Kannaz bin al-Hushain pada n10959; suku sama (ghani)."
+ },
+ {
+  "op": "merge",
+  "keep": "xacec0a29",
+  "drop": "xc6fb73c2",
+  "fid": "F176",
+  "rule": "R9",
+  "why": "Kedua teks menyebut Halah sebagai ibu Hamzah dan Safiyyah (saudara seibu), nama ayah Uhaib/Wuhaib adalah varian ejaan yang sama; satu orang."
+ },
+ {
+  "op": "merge",
+  "keep": "n1834",
+  "drop": "x8d3a322a",
+  "fid": "F177",
+  "rule": "R9",
+  "why": "Teks ibnsad x menyebut \"خولة بنت قيس بن قهد الأنصارية\" persis cocok dengan nasab lengkap n1834 (istri Hamzah); satu orang."
+ },
+ {
+  "op": "merge",
+  "keep": "n5066",
+  "drop": "xeaacf00c",
+  "fid": "F178",
+  "rule": "R9",
+  "why": "Jelas Fathimah binti Rasulillah yang sama, x hanya record kosong tanpa data lain."
+ },
+ {
+  "op": "merge",
+  "keep": "x59323711",
+  "drop": "x62237f3e",
+  "fid": "F180",
+  "rule": "R9",
+  "why": "Kedua id merujuk suami yang sama dari Umaimah bint Abdul Muththalib (ayah Jahsy/anak Abdullah, Zainab, Hamnah, Ubaidullah); \"Ri'ab/Rabab\" varian ejaan yang sama."
+ },
+ {
+  "op": "merge",
+  "keep": "s4387",
+  "drop": "x8c0ee290",
+  "fid": "F181",
+  "rule": "R9",
+  "why": "Sama-sama istri Mus'ab bin Umair yang melahirkan satu putri, ayah Jahsy bin Ri'ab/Rabab; satu orang."
+ },
+ {
+  "op": "merge",
+  "keep": "x2c229c71",
+  "drop": "xaf948a89",
+  "fid": "F182",
+  "rule": "R9",
+  "why": "Kedua teks sepakat anaknya adalah Thalib dan ibunya Arwa bint Abdul Muththalib; nama kakek \"Katsir bin Abd\" vs \"Abdu Manaf\" hanya varian, orangnya sama."
+ },
+ {
+  "op": "merge",
+  "keep": "x2a15da79",
+  "drop": "x9b758927",
+  "fid": "F183",
+  "rule": "R9",
+  "why": "Jelas Abu Waqqash ayah Sa'd bin Abi Waqqash, \"Wuhaib/Uhaib\" varian ejaan nama yang sama; x9b758927 tanpa teks lain."
+ },
+ {
+  "op": "merge",
+  "keep": "x365bf76f",
+  "drop": "xe59dd3dd",
+  "fid": "F184",
+  "rule": "R9",
+  "why": "Ibnsad kedua id identik persis (sama kutipan ttg anak Sa'd bin Abi Waqqash \"Abdullah bin Sa'd, ibunya Salma dari Bani Taghlib\"), jelas satu orang."
+ },
+ {
+  "op": "merge",
+  "keep": "s4448",
+  "drop": "x45148011",
+  "fid": "F185",
+  "rule": "R9",
+  "why": "Teks sama persis (ibu Abdullah bin Mas'ud), varian ejaan Sawa'/Suwa; satu orang."
+ },
+ {
+  "op": "merge",
+  "keep": "n3783",
+  "drop": "xb796061b",
+  "fid": "F187",
+  "rule": "R9",
+  "why": "Jelas Abu Bakar ash-Shiddiq yang sama (khalifah), x hanya variasi penulisan nama tanpa data baru yang kontradiktif."
+ },
+ {
+  "op": "merge",
+  "keep": "xc0276e14",
+  "drop": "x51d45e12",
+  "fid": "F188",
+  "rule": "R9",
+  "why": "Teks x lengkap menyebut ash-Sha'bah bint Abdullah bin Imad al-Hadhrami sebagai ibu Thalhah bin Ubaidillah; nama singkat \"al-Hadhrami\" pada id lain merujuk orang yang sama tanpa teks kontradiktif."
+ },
+ {
+  "op": "merge",
+  "keep": "s4291",
+  "drop": "xc6bcc34f",
+  "fid": "F189",
+  "rule": "R9",
+  "why": "Kedua teks sama-sama menyebut Barrah/Burrah sebagai ibu Abu Salamah bin Abdul Asad; satu orang, s4291 lebih lengkap."
+ },
+ {
+  "op": "merge",
+  "keep": "n6741",
+  "drop": "x8cec8b86",
+  "fid": "F190",
+  "rule": "R9",
+  "why": "Jelas Ummu Salamah Hindun bint Abi Umayyah, istri Abu Salamah lalu Nabi, yang sama; satu orang."
+ },
+ {
+  "op": "merge",
+  "keep": "x3809523c",
+  "drop": "xd5fbafb6",
+  "fid": "F191",
+  "rule": "R9",
+  "why": "Enam record ini semua merujuk Ummu Salamah bint Abi Umayyah yang sama (empat stub identik plus dua varian label kosong/parsial); digabung ke satu record yang paling informatif."
+ },
+ {
+  "op": "merge",
+  "keep": "x3809523c",
+  "drop": "xd5fbafb62",
+  "fid": "F191",
+  "rule": "R9",
+  "why": "Enam record ini semua merujuk Ummu Salamah bint Abi Umayyah yang sama (empat stub identik plus dua varian label kosong/parsial); digabung ke satu record yang paling informatif."
+ },
+ {
+  "op": "merge",
+  "keep": "x3809523c",
+  "drop": "xd5fbafb63",
+  "fid": "F191",
+  "rule": "R9",
+  "why": "Enam record ini semua merujuk Ummu Salamah bint Abi Umayyah yang sama (empat stub identik plus dua varian label kosong/parsial); digabung ke satu record yang paling informatif."
+ },
+ {
+  "op": "merge",
+  "keep": "x3809523c",
+  "drop": "xd5fbafb64",
+  "fid": "F191",
+  "rule": "R9",
+  "why": "Enam record ini semua merujuk Ummu Salamah bint Abi Umayyah yang sama (empat stub identik plus dua varian label kosong/parsial); digabung ke satu record yang paling informatif."
+ },
+ {
+  "op": "merge",
+  "keep": "x3809523c",
+  "drop": "xd5fbafb66",
+  "fid": "F191",
+  "rule": "R9",
+  "why": "Enam record ini semua merujuk Ummu Salamah bint Abi Umayyah yang sama (empat stub identik plus dua varian label kosong/parsial); digabung ke satu record yang paling informatif."
+ },
+ {
+  "op": "merge",
+  "keep": "x4f3a0aeb",
+  "drop": "x171c330d",
+  "fid": "F192",
+  "rule": "R9",
+  "why": "Jelas Sumayyah ibu Ammar bin Yasir, budak Abu Hudzaifah, yang sama; id lain hanya stub kosong."
+ },
+ {
+  "op": "merge",
+  "keep": "xd336429e",
+  "drop": "xc8128251",
+  "fid": "F194",
+  "rule": "R9",
+  "why": "Teks x menyebut Fathimah bint Ba'jah sebagai ibu Sa'id bin Zaid, nasabnya berujung ke Ghanm bin Mulaih dari Khuza'ah sehingga \"bin Mulaih\" merujuk orang yang sama."
+ },
+ {
+  "op": "merge",
+  "keep": "x9a4bc04f",
+  "drop": "x66c324a3",
+  "fid": "F195",
+  "rule": "R9",
+  "why": "Ibnsad identik persis (ibu Abdurrahman al-Akbar bin Sa'id bin Zaid); satu orang, hanya varian ejaan singkat."
+ },
+ {
+  "op": "merge",
+  "keep": "x10ea903a",
+  "drop": "xd546382d",
+  "fid": "F196",
+  "rule": "R9",
+  "why": "Tiga record dengan ibnsad identik persis (kutipan Sa'id bin Zaid yang sama); digabung ke satu record yang paling informatif (ada label Bani Taghlib)."
+ },
+ {
+  "op": "merge",
+  "keep": "x10ea903a",
+  "drop": "xd546382d2",
+  "fid": "F196",
+  "rule": "R9",
+  "why": "Tiga record dengan ibnsad identik persis (kutipan Sa'id bin Zaid yang sama); digabung ke satu record yang paling informatif (ada label Bani Taghlib)."
+ },
+ {
+  "op": "merge",
+  "keep": "x7ad45808",
+  "drop": "x1783ff32",
+  "fid": "F197",
+  "rule": "R9",
+  "why": "Teks ibnsad identik (Sa'id bin Zaid 3/379) untuk kedua catatan, nama sama hanya beda transliterasi — orang yang sama."
+ },
+ {
+  "op": "merge",
+  "keep": "xb3d76304",
+  "drop": "x39076ea3",
+  "fid": "F198",
+  "rule": "R9",
+  "why": "Nasab keduanya sama-sama berujung ke al-Harits bin Umayyah bin al-Fadl bin Munqif ... min Khuza'ah; 'Abi Sufyan' di sini kunya untuk Sufyan — orang yang sama."
+ },
+ {
+  "op": "merge",
+  "keep": "x7f128de1",
+  "drop": "x53c0eea1",
+  "fid": "F199",
+  "rule": "R9",
+  "why": "Ibnsad Tsa'labah bin Hathib (3/460) sama persis untuk kedua catatan, hanya beda transliterasi nama."
+ },
+ {
+  "op": "merge",
+  "keep": "n954",
+  "drop": "x3187c05b",
+  "fid": "F200",
+  "rule": "R9",
+  "why": "n954 sendiri menyebut nama alternatif Abu Lubabah termasuk Rifa'ah bin Abdul Mundzir bin Zanbar bin Zaid — sama dengan 'Abi Lubabah bin Abdul Mundzir'."
+ },
+ {
+  "op": "merge",
+  "keep": "s4814",
+  "drop": "x06f9a99c",
+  "fid": "F201",
+  "rule": "R9",
+  "why": "Ketiganya istri Sahl bin Hunaif; s4814 (8/439) menyebut ia menikah dengan Sahl bin Hunaif dan 'Abu Umamah' adalah kunya As'ad bin Zurarah."
+ },
+ {
+  "op": "merge",
+  "keep": "s4814",
+  "drop": "x38db1109",
+  "fid": "F201",
+  "rule": "R9",
+  "why": "Ketiganya istri Sahl bin Hunaif; s4814 (8/439) menyebut ia menikah dengan Sahl bin Hunaif dan 'Abu Umamah' adalah kunya As'ad bin Zurarah."
+ },
+ {
+  "op": "merge",
+  "keep": "x842ce92a",
+  "drop": "xecf9f21e",
+  "fid": "F202",
+  "rule": "R9",
+  "why": "Teks 4/382 menyamakan 'Abu Amir ar-Rahib' dengan 'Abdu Amr bin Shaifi' — jadi 'Jamilah binti Abi Amir bin Shaifi' = 'Jamilah binti Abi Amir ar-Rahib', orang yang sama."
+ },
+ {
+  "op": "merge",
+  "keep": "x1b6c5b5a",
+  "drop": "x46d2c306",
+  "fid": "F203",
+  "rule": "R9",
+  "why": "Keduanya menyebut putri bernama Dubayyah/Umm Simak, menikah Yazid bin Tsabit bin ad-Dahhak dan beranak 'Umarah — ibu yang sama, 'Idam/Adam' varian eja."
+ },
+ {
+  "op": "merge",
+  "keep": "n1775",
+  "drop": "x0b83e632",
+  "fid": "F204",
+  "rule": "R9",
+  "why": "turath_rawi n1775 menyebut ia 'Umm Bani Hazm', cocok dengan ibu 'Umarah bin Hazm pada ibnsad x0b83e632; 'Abi Anas' kunya untuk Anas."
+ },
+ {
+  "op": "merge",
+  "keep": "s4822",
+  "drop": "x230302af",
+  "fid": "F205",
+  "rule": "R9",
+  "why": "s4822 cocok dengan suami al-Harits bin Rifa'ah (ayah Mu'adz & Mu'awwidz); x230302af hanya stub nama sama tanpa data lain yang bertentangan."
+ },
+ {
+  "op": "merge",
+  "keep": "s4829",
+  "drop": "xbc9158b5",
+  "fid": "F206",
+  "rule": "R9",
+  "why": "s4829 (8/446) menyebut ia menikah dengan Mu'adz bin al-Harits bin Rifa'ah, sama persis dengan konteks pasangan pada xbc9158b5."
+ },
+ {
+  "op": "merge",
+  "keep": "s4800",
+  "drop": "x85a153742",
+  "fid": "F207",
+  "rule": "R9",
+  "why": "Ummu Sulaim binti Milhan adalah nama unik terkenal (ibu Anas bin Malik); x85a153742 stub kosong tanpa info berbeda."
+ },
+ {
+  "op": "merge",
+  "keep": "s4791",
+  "drop": "x82282228",
+  "fid": "F208",
+  "rule": "R9",
+  "why": "Teks s4791 sendiri menyamakan 'Amr' dengan 'Abu Kharijah bin Qais' dan menyebut menikah Muhriz bin 'Amir — sama dengan x82282228."
+ },
+ {
+  "op": "merge",
+  "keep": "x528d305e",
+  "drop": "x46b50c54",
+  "fid": "F209",
+  "rule": "R9",
+  "why": "Teks x528d305e menyebut nama asli Milhan adalah Malik bin Khalid bin Zaid — sama dengan x46b50c54 'Milhan bin Khalid bin Zaid'."
+ },
+ {
+  "op": "merge",
+  "keep": "x7aa0835b",
+  "drop": "x3f105768",
+  "fid": "F210",
+  "rule": "R9",
+  "why": "Ibnsad kedua catatan identik persis (3/520); tribe yang benar aus (Bani Abdul Asyhal) seperti pada x7aa0835b."
+ },
+ {
+  "op": "merge",
+  "keep": "s4637",
+  "drop": "x159e8a34",
+  "fid": "F211",
+  "rule": "R9",
+  "why": "Keduanya ibu Sa'd bin ar-Rabi' dengan nasab sama, 'Anabah/Utbah' varian eja huruf."
+ },
+ {
+  "op": "merge",
+  "keep": "x443ecf9b",
+  "drop": "x792f3dd8",
+  "fid": "F212",
+  "rule": "R9",
+  "why": "x443ecf9b cocok dengan ayah Bisyir bin Sa'd & istri Anisah binti Khalifah; x792f3dd8 varian eja nama ayah (Khallas/Jallas) tanpa data yang bertentangan."
+ },
+ {
+  "op": "merge",
+  "keep": "s698",
+  "drop": "xa8397ae1",
+  "fid": "F213",
+  "rule": "R9",
+  "why": "s698 sendiri (3/534) menyebut anaknya dari Jamilah binti Abdullah bin Ubay; xa8397ae1 varian eja ('Utbah' vs 'Anabah') dari orang yang sama (lihat juga F215)."
+ },
+ {
+  "op": "merge",
+  "keep": "s725",
+  "drop": "xee326f80",
+  "fid": "F214",
+  "rule": "R9",
+  "why": "s725 (3/549) menyebut menikah Jamilah binti Abdullah bin Ubay sama seperti konteks xee326f80, hanya beda level pengulangan nama kakek Malik ad-Dukhsyum."
+ },
+ {
+  "op": "merge",
+  "keep": "s698",
+  "drop": "xb39d8294",
+  "fid": "F215",
+  "rule": "R9",
+  "why": "xb39d8294 dan xa8397ae1 (8/360, 8/364) sama-sama menyebut anak Anisah dari istri Zainab binti Qais — sama dengan s698, hanya varian 'Asaf/Yasaf' dan 'Utbah/Anabah'."
+ },
+ {
+  "op": "merge",
+  "keep": "s698",
+  "drop": "xa8397ae1",
+  "fid": "F215",
+  "rule": "R9",
+  "why": "xb39d8294 dan xa8397ae1 (8/360, 8/364) sama-sama menyebut anak Anisah dari istri Zainab binti Qais — sama dengan s698, hanya varian 'Asaf/Yasaf' dan 'Utbah/Anabah'."
+ },
+ {
+  "op": "merge",
+  "keep": "x2b08622a",
+  "drop": "x2b08622a2",
+  "fid": "F216",
+  "rule": "R9",
+  "why": "Nama dan seluruh teks ibnsad identik persis — duplikat data (id hanya beda sufiks)."
+ },
+ {
+  "op": "merge",
+  "keep": "s4765",
+  "drop": "xb751a767",
+  "fid": "F218",
+  "rule": "R9",
+  "why": "xb751a767 dan s4765 sama-sama ibu Jabir bin Abdullah bin 'Amr bin Haram ('Anamah/Ghunmah' varian eja); x79c27721 ('Uqbah) tidak cukup bukti jadi tidak digabung."
+ },
+ {
+  "op": "merge",
+  "keep": "x0591ea34",
+  "drop": "x76bef8aa",
+  "fid": "F219",
+  "rule": "R9",
+  "why": "Keduanya ibu al-Hubab & Hind, anak al-Mundzir bin al-Jamuh, 'Umah/Umayyah' varian eja nama kakek."
+ },
+ {
+  "op": "merge",
+  "keep": "s4736",
+  "drop": "x58e4f934",
+  "fid": "F220",
+  "rule": "R9",
+  "why": "Keduanya istri Amir bin Nabi' bin Zaid dan ibu Uqbah bin Amir, 'Sakan/as-Sakan' hanya beda artikel."
+ },
+ {
+  "op": "merge",
+  "keep": "s4752",
+  "drop": "xd3ba1114",
+  "fid": "F222",
+  "rule": "R9",
+  "why": "Keduanya disebut 'bibi Jabir bin Abdullah' dan menikah an-Nu'man bin Khansa' setelah suami pertama — 'Riab/Rabab' varian eja."
+ },
+ {
+  "op": "merge",
+  "keep": "x389e75f2",
+  "drop": "xf4396cb3",
+  "fid": "F224",
+  "rule": "R9",
+  "why": "Keduanya suami Nailah binti Salamah bin Waqsy dengan nasab sama, 'Abi Ka'b/Ka'b' varian kunya-ism."
+ },
+ {
+  "op": "merge",
+  "keep": "x6a92870c",
+  "drop": "xe31c7c84",
+  "fid": "F226",
+  "rule": "R9",
+  "why": "Keduanya ibu Umm Abdullah binti Mu'adz bin Jabal, 'Khalid/Khallad' varian eja."
+ },
+ {
+  "op": "merge",
+  "keep": "s802",
+  "drop": "xd5c7f5f2",
+  "fid": "F227",
+  "rule": "R9",
+  "why": "Teks s802 sendiri menyebut nama alternatif 'Qais bin Hisn' untuk Qais bin Mihsan — sama dengan xd5c7f5f2, keduanya ayah Umm Sa'd dari Khaulah binti al-Fakih."
+ },
+ {
+  "op": "merge",
+  "keep": "xd2af6323",
+  "drop": "x94e6e77e",
+  "fid": "F228",
+  "rule": "R9",
+  "why": "Keduanya suami Umm Jamil binti Quthbah bin Amir, 'Khaldah/Khalidah' varian eja."
+ },
+ {
+  "op": "merge",
+  "keep": "s808",
+  "drop": "xc8360c7f",
+  "fid": "F229",
+  "rule": "R9",
+  "why": "Keduanya suami al-Fari'ah binti al-Hubab bin ar-Rabi' dan ayah Habibah, 'Khaldah/Khalidah' varian eja."
+ },
+ {
+  "op": "merge",
+  "keep": "x38d8b7a92",
+  "drop": "x38d8b7a93",
+  "fid": "F230",
+  "rule": "R9",
+  "why": "Nama dan teks ibnsad identik persis — duplikat data (id hanya beda sufiks)."
+ },
+ {
+  "op": "merge",
+  "keep": "s4681",
+  "drop": "xc211176a",
+  "fid": "F231",
+  "rule": "R9",
+  "why": "Teks s4681 menyebut ia saudari Abdullah bin Ubay bin Salul dan menikah Rafi' bin Malik; 'Salul' pada xc211176a adalah nama klan ibu saudaranya, bukan ayah berbeda."
+ },
+ {
+  "op": "merge",
+  "keep": "s4703",
+  "drop": "x0a044ccf",
+  "fid": "F232",
+  "rule": "R9",
+  "why": "Keduanya istri Khallad bin Rafi' dan ibu Yahya, 'Khaldah/Khalidah' varian eja."
+ },
+ {
+  "op": "merge",
+  "keep": "x5c0fe673",
+  "drop": "x452828de",
+  "fid": "F234",
+  "rule": "R9",
+  "why": "Kalimat identik 'Hind binti Amr min bani Udzrah' muncul di kedua catatan sebagai istri Sa'd bin Malik."
+ },
+ {
+  "op": "merge",
+  "keep": "s4435",
+  "drop": "xa7c1328e",
+  "fid": "F235",
+  "rule": "R9",
+  "why": "Teks 4/198 menyebut Mahmiyyah sebagai saudara seibu Umm al-Fadl Lubabah binti al-Harits, ibu anak-anak al-Abbas — sama dengan s4435."
+ },
+ {
+  "op": "merge",
+  "keep": "x7bef0fb6",
+  "drop": "x7bef0fb62",
+  "fid": "F236",
+  "rule": "R9",
+  "why": "x7bef0fb6 dan x7bef0fb62 nama & id identik (duplikat data); xf663bec73 tanpa data pendukung sehingga tidak ikut digabung."
+ },
+ {
+  "op": "merge",
+  "keep": "n625",
+  "drop": "xe7ce002b",
+  "fid": "F237",
+  "rule": "R9",
+  "why": "n625 adalah Asma' binti Umais yang terkenal, istri Ja'far bin Abi Thalib sesuai ibnsad xe7ce002b — orang yang sama."
+ },
+ {
+  "op": "merge",
+  "keep": "x63edf758",
+  "drop": "xa2c382fe",
+  "fid": "F238",
+  "rule": "R9",
+  "why": "Keduanya ibu Nawfal & Arwa anak al-Harits bin Abdul Muththalib dengan nasab sama, 'Tharif/Thariq' varian eja."
+ },
+ {
+  "op": "merge",
+  "keep": "n900",
+  "drop": "xc3d2c801",
+  "fid": "F239",
+  "rule": "R9",
+  "why": "Ketiganya merujuk Ummu Aiman/Barakah, ibu Usamah bin Zaid, tokoh unik terkenal sesuai turath_rawi n900 dan ibnsad xc3d2c801."
+ },
+ {
+  "op": "merge",
+  "keep": "n900",
+  "drop": "x45a0260f",
+  "fid": "F239",
+  "rule": "R9",
+  "why": "Ketiganya merujuk Ummu Aiman/Barakah, ibu Usamah bin Zaid, tokoh unik terkenal sesuai turath_rawi n900 dan ibnsad xc3d2c801."
+ },
+ {
+  "op": "merge",
+  "keep": "s880",
+  "drop": "x37e5a5a7",
+  "fid": "F240",
+  "rule": "R9",
+  "why": "Keduanya istri Barakah binti Yasar dan bernisbah al-Asadi (Bani Asad bin Khuzaimah) sesuai teks 4/104 & 8/246; tribe s880 salah tercatat umayyah, seharusnya asad-k."
+ },
+ {
+  "op": "set_tribe",
+  "id": "s880",
+  "tribe": "asad-k",
+  "fid": "F240",
+  "rule": "R9",
+  "why": "Keduanya istri Barakah binti Yasar dan bernisbah al-Asadi (Bani Asad bin Khuzaimah) sesuai teks 4/104 & 8/246; tribe s880 salah tercatat umayyah, seharusnya asad-k."
+ },
+ {
+  "op": "merge",
+  "keep": "s4423",
+  "drop": "xdb5bdd07",
+  "fid": "F241",
+  "rule": "R9",
+  "why": "Keduanya istri al-Muththalib bin Azhar yang hijrah ke Habasyah bersama, 'Dhubairah/Shubairah' varian eja."
+ },
+ {
+  "op": "merge",
+  "keep": "x82cf340f",
+  "drop": "x3c7a5a6f",
+  "fid": "F242",
+  "rule": "R9",
+  "why": "Keduanya terkait Umm Abd binti Abdi Wudd, istri ayah Abdullah bin Mas'ud yang terkenal (Mas'ud bin Ghafil); x3c7a5a6f stub tanpa info bertentangan."
+ },
+ {
+  "op": "merge",
+  "keep": "s4469",
+  "drop": "xd919bf08",
+  "fid": "F243",
+  "rule": "R9",
+  "why": "Nama dan nasab penuh identik; s4469 adalah versi lengkap dari xd919bf08, keduanya istri Ayyasy bin Abi Rabi'ah."
+ },
+ {
+  "op": "merge",
+  "keep": "x5f535951",
+  "drop": "x5f5359512",
+  "fid": "F244",
+  "rule": "R9",
+  "why": "Nama dan teks ibnsad identik persis — duplikat data (id hanya beda sufiks)."
+ },
+ {
+  "op": "merge",
+  "keep": "xe922a11c",
+  "drop": "xe922a11c2",
+  "fid": "F245",
+  "rule": "R9",
+  "why": "Ketiganya menyebut ibu yang sama 'Umm al-Hajjaj min Bani Syanuq' bagi anak-anak al-Harits bin Qais bin Adi; dua di antaranya teksnya identik persis."
+ },
+ {
+  "op": "merge",
+  "keep": "xe922a11c",
+  "drop": "xe922a11c3",
+  "fid": "F245",
+  "rule": "R9",
+  "why": "Ketiganya menyebut ibu yang sama 'Umm al-Hajjaj min Bani Syanuq' bagi anak-anak al-Harits bin Qais bin Adi; dua di antaranya teksnya identik persis."
+ },
+ {
+  "op": "merge",
+  "keep": "s4429",
+  "drop": "xbee23575",
+  "fid": "F246",
+  "rule": "R9",
+  "why": "Teks ibnsad s4429 (fatimah/umm jamil binti al-mujallil bin abd, suami hathib bin al-harits bin ma'mar, anak Muhammad & al-Harits) cocok persis dengan xbee23575; al-Muhallil/al-Mujallil hanya varian tulisan."
+ },
+ {
+  "op": "merge",
+  "keep": "s4430",
+  "drop": "xfebc6f25",
+  "fid": "F247",
+  "rule": "R9",
+  "why": "Entri ketiga ibnsad s4430 (umm qahtham binti alqamah, istri sulait bin amr, ibu sulait bin sulait) identik dengan xfebc6f25."
+ },
+ {
+  "op": "merge",
+  "keep": "x9bda8836",
+  "drop": "x4e1686a7",
+  "fid": "F248",
+  "rule": "R9",
+  "why": "x9bda8836 punya teks ibnsad (ibu al-Mughirah bin Syu'bah), x4e1686a7 tanpa sumber hanya varian nama ayah (Abi Amr bin Zhuwailim vs Amr); kemungkinan besar sama."
+ },
+ {
+  "op": "merge",
+  "keep": "s4540",
+  "drop": "xdac72188",
+  "fid": "F249",
+  "rule": "R9",
+  "why": "s4540 (istri Labid bin Uqbah, ibu Mahmud, Manzhur, Maimunah) cocok dengan xdac72188 (istri Labid bin Uqbah, ibu Mahmud & Manzhur); hanya hilang generasi 'bin Maslamah'."
+ },
+ {
+  "op": "merge",
+  "keep": "s4608",
+  "drop": "x200a7b6a",
+  "fid": "F251",
+  "rule": "R9",
+  "why": "Ibnsad s4608 sendiri memuat varian 'Uwais' dan 'Aus' untuk ibu yang sama dari anak-anak Tsabit bin al-Fakih; jelas typo salin, orang yang sama."
+ },
+ {
+  "op": "merge",
+  "keep": "n6326",
+  "drop": "x510f994c",
+  "fid": "F253",
+  "rule": "R9",
+  "why": "Ibnsad n6326 eksplisit: 'كان يقال له المقداد بن الأسود ... قيل المقداد بن عمرو' - nama alternatif akibat tabanni, sama dengan x510f994c."
+ },
+ {
+  "op": "merge",
+  "keep": "x5ffd2a77",
+  "drop": "xaa3051c2",
+  "fid": "F254",
+  "rule": "R9",
+  "why": "Kedua catatan sama-sama suami Ummu Hani/Fakhitah binti Abi Thalib dengan anak Ja'dah bin Hubairah; orang yang sama dengan rincian nasab berbeda."
+ },
+ {
+  "op": "merge",
+  "keep": "x8681f758",
+  "drop": "x864f31b2",
+  "fid": "F255",
+  "rule": "R9",
+  "why": "Kedua catatan sama-sama ibu Fathimah binti Asad (istri Abu Thalib) dengan anak-anak identik (Thalib, Aqil, Ja'far, Ali, Ummu Hani, Jumanah, Raithah); silsilah sedikit berbeda (Haram vs Qais bin Harm) tapi orang yang sama."
+ },
+ {
+  "op": "merge",
+  "keep": "x58b85147",
+  "drop": "xd57c4561",
+  "fid": "F257",
+  "rule": "R9",
+  "why": "xd57c4561 tanpa teks pendukung, namanya hanya varian nisbah (Dzu asy-Syafar vs al-Mushthaliqi) dari x58b85147 yang jelas suami Juwairiyah binti al-Harits."
+ },
+ {
+  "op": "merge",
+  "keep": "xe6e5de07",
+  "drop": "x339edb7b",
+  "fid": "F258",
+  "rule": "R9",
+  "why": "x339edb7b tanpa teks, nama lebih singkat (hilang 'bin ar-Rabi'') dari xe6e5de07 yang jelas suami Shafiyyah binti Huyay."
+ },
+ {
+  "op": "merge",
+  "keep": "x4663feda",
+  "drop": "x82aa17e8",
+  "fid": "F259",
+  "rule": "R9",
+  "why": "Kedua catatan sama-sama suami Laila binti al-Khathim yang wafat lalu ia masuk Islam; silsilah x4663feda lebih lengkap (bin Malik bin Sawad) dibanding x82aa17e8 (bin Sawad langsung) - orang yang sama."
+ },
+ {
+  "op": "merge",
+  "keep": "x7b81c2c6",
+  "drop": "x7b81c2c62",
+  "fid": "F261",
+  "rule": "R9",
+  "why": "Nama dan konteks (suami Barirah) identik; x7b81c2c62 record kosong tanpa info berbeda - kemungkinan besar duplikat entri."
+ },
+ {
+  "op": "merge",
+  "keep": "n3068",
+  "drop": "xf5a6945a",
+  "fid": "F262",
+  "rule": "R9",
+  "why": "n3068 menyebut nisbah al-'Anazi dan catatan al-Khattab tabanna 'Amir serta istri Laila bint Abi Hathmah - cocok persis dengan xf5a6945a."
+ },
+ {
+  "op": "merge",
+  "keep": "x45ec5b70",
+  "drop": "x275d7fd3",
+  "fid": "F263",
+  "rule": "R9",
+  "why": "x275d7fd3 kosong, namanya hanya varian kunya (Wahb vs Abi Wahb) dari x45ec5b70 yang jelas ibu asy-Syifa'."
+ },
+ {
+  "op": "merge",
+  "keep": "x52232d19",
+  "drop": "x06c527e8",
+  "fid": "F264",
+  "rule": "R9",
+  "why": "x06c527e8 kosong, namanya bentuk penuh/varian (Abdullah vs Abd, tambahan bin Abdi Wadd) dari x52232d19 yang jelas ayah Fathimah/Ummu Jamil dalam teks."
+ },
+ {
+  "op": "merge",
+  "keep": "xa118f26e",
+  "drop": "x74639542",
+  "fid": "F265",
+  "rule": "R9",
+  "why": "Kedua catatan punya silsilah turun identik (bin al-Harits bin Ka'ab bin Malik bin Qahafah...) dan ibu sama (Hind/Khaulah bint Auf); anak-anaknya (Asma' & Salma) disebut bersaudara - Taim vs Tamim varian tulisan."
+ },
+ {
+  "op": "merge",
+  "keep": "s4444",
+  "drop": "xee22d82b4",
+  "fid": "F266",
+  "rule": "R9",
+  "why": "Nama dan konteks (ibu Syurahbil bin Hasanah) identik; xee22d82b4 kosong tanpa info berbeda."
+ },
+ {
+  "op": "merge",
+  "keep": "n2219",
+  "drop": "s4450",
+  "fid": "F267",
+  "rule": "R9",
+  "why": "Teks n2219 eksplisit menyebut hedge 'waqila bint Abi Mu'awiyah' yang cocok dengan nama s4450, sama-sama istri Abdullah bin Mas'ud; Zainab (n11390) dibiarkan karena hedge-nya justru mengarah ke Zainab binti Jahsy, tidak pasti istri Ibn Mas'ud."
+ },
+ {
+  "op": "merge",
+  "keep": "xceed57c3",
+  "drop": "x0eb83065",
+  "fid": "F268",
+  "rule": "R9",
+  "why": "x0eb83065 kosong, nama hanya varian (Uqbah vs Utaibah) dari xceed57c3 yang jelas ibu Ummu Muhammad bint Qais bin Mukhramah."
+ },
+ {
+  "op": "merge",
+  "keep": "xc1e2d216",
+  "drop": "x7b567a1e",
+  "fid": "F269",
+  "rule": "R9",
+  "why": "x7b567a1e kosong dan kehilangan satu generasi (bint 'Adi vs bint Bisyr bin 'Adi) dari xc1e2d216 yang jelas ibu 'Abbad bin Bisyr."
+ },
+ {
+  "op": "merge",
+  "keep": "s4549",
+  "drop": "x6dfd7040",
+  "fid": "F271",
+  "rule": "R9",
+  "why": "x6dfd7040 hanya nama generik tanpa info, cocok dengan s4549 yang jelas istri adh-Dhahhak bin Khalifah."
+ },
+ {
+  "op": "merge",
+  "keep": "xc8d6a4c9",
+  "drop": "x78232cc2",
+  "fid": "F272",
+  "rule": "R9",
+  "why": "x78232cc2 kosong, nisbah an-Najjariyyah cocok dengan 'min bani an-Najjar' pada nasab panjang xc8d6a4c9 yang jelas ibu Qatadah bin an-Nu'man."
+ },
+ {
+  "op": "merge",
+  "keep": "s4573",
+  "drop": "xead19973",
+  "fid": "F273",
+  "rule": "R9",
+  "why": "Entri kedua s4573 sendiri (syamilah binti al-harits/abairiq, suami tsabit bin an-nu'man, anak khalid & bashirah) cocok persis dengan xead19973 (ibu Bashirah bint Tsabit)."
+ },
+ {
+  "op": "merge",
+  "keep": "n772",
+  "drop": "n771",
+  "fid": "F274",
+  "rule": "R9",
+  "why": "Ibnsad n772 eksplisit: jamilah binti sa'd bin ar-rabi' menikah zaid bin tsabit dan 'kanat jamilah tuda'a umm sa'd' - cocok dengan hipotesis n771 (bint/istri Zaid bin Tsabit)."
+ },
+ {
+  "op": "merge",
+  "keep": "s4692",
+  "drop": "xf346785e",
+  "fid": "F277",
+  "rule": "R9",
+  "why": "xf346785e kosong dan kehilangan generasi (bint Mas'ud bin Sinan vs bint Urwah bin Mas'ud bin Sinan) dari s4692 yang jelas ibu Rafi' & Rifa'ah ibnay Khudaij."
+ },
+ {
+  "op": "merge",
+  "keep": "x1f4ca8e5",
+  "drop": "xec1e774c",
+  "fid": "F278",
+  "rule": "R9",
+  "why": "x1f4ca8e5 sendiri menyebut 'tsabit bin al-jadz' wa huwa tsa'labah bin zaid ... wa ummuha amamah bintu utsman bin khalidah' - cocok persis dengan xec1e774c (suami Amamah bint Utsman)."
+ },
+ {
+  "op": "merge",
+  "keep": "x01eb2043",
+  "drop": "x459c23c3",
+  "fid": "F279",
+  "rule": "R9",
+  "why": "x01eb2043 sendiri menyebut ibu Buhaisah adalah Umm al-Hakam/Fukaihah bint al-Muthallib - cocok dengan x459c23c3 (suami kedua Fukaihah), hanya beda satu generasi (Amir bin Mukhallad vs Mukhallad langsung)."
+ },
+ {
+  "op": "merge",
+  "keep": "s4767",
+  "drop": "x6f343524",
+  "fid": "F280",
+  "rule": "R9",
+  "why": "s4767 sendiri menyebut suami Ma'ish bin Qais bin Khalidah, sama dengan pasangan pada x6f343524; nama ayah Aus vs al-Aswad varian tulisan."
+ },
+ {
+  "op": "merge",
+  "keep": "n6515",
+  "drop": "xeaffd5e2",
+  "fid": "F283",
+  "rule": "R9",
+  "why": "n6515 eksplisit menyebut 'waqila huwa nubaith bin jabir' dan relasi pernikahan dengan al-Furai'ah bint As'ad bin Zurarah sama dengan xeaffd5e2 - hedge nama yang jelas."
+ },
+ {
+  "op": "merge",
+  "keep": "s4816",
+  "drop": "x090170d7",
+  "fid": "F284",
+  "rule": "R9",
+  "why": "Entri kedua x090170d7 sendiri menyebut anak Zainab binti Nubaith bin Jabir dengan ibu al-Furai'ah bint Sa'd bin Zurarah - suami sama (Nubaith bin Jabir) dengan s4816; Sa'd varian dari As'ad."
+ },
+ {
+  "op": "merge",
+  "keep": "n1054",
+  "drop": "x0bfc816f2",
+  "fid": "F286",
+  "rule": "R9",
+  "why": "x0bfc816f2 hanya nama pendek tanpa info, cocok dengan n1054 (Tsabit bin Qais bin Syammas, khatib Nabi yang terkenal dan biasa disebut singkat)."
+ },
+ {
+  "op": "drop_edge",
+  "s": "xf0cff828",
+  "t": "n3685",
+  "k": "parent",
+  "fid": "R2-F1",
+  "rule": "R5",
+  "why": "Nasab n3685 sendiri menyebut ayah Waqdan bin Abd Syams (Qurasyi 'Amiri); ibnsad yang terpasang keliru milik Abdullah bin Amr bin Haram Ansar yang lain."
+ },
+ {
+  "op": "drop_edge",
+  "s": "x5de2da36",
+  "t": "n2167",
+  "k": "parent",
+  "fid": "R2-F2",
+  "rule": "R5",
+  "why": "n2167 (nisba Juhani, dikenal sbg Uqbah bin Amir al-Juhani) berbeda dari Uqbah bin Amir bin Nabi' bin Zaid yang Ansar Khazraj; ibnsad tertukar homonim."
+ },
+ {
+  "op": "drop_edge",
+  "s": "xbfe3510f",
+  "t": "s4514",
+  "k": "parent",
+  "fid": "R2-F4",
+  "rule": "R6",
+  "why": "Nasab Hawwa' sendiri menyebut ayahnya Zaid bin Sakan bin Karz, bukan Yazid bin Karz; menurut ibnsad, Yazid bin Karz adalah suami ibunya ('Aqrab), bukan ayahnya."
+ },
+ {
+  "op": "drop_edge",
+  "s": "n6515",
+  "t": "s4891",
+  "k": "parent",
+  "fid": "R2-F6",
+  "rule": "R5",
+  "why": "Nasab Zainab sendiri menyebut ayah Nubait bin Jabir bin Malik bin Adi (Khazraj/Najjar), berbeda total dari nasab n6515 'Nubait bin Syuraith bin Anas bin Malik bin Hilal' (Asyja'i); hanya sama nama depan."
+ },
+ {
+  "op": "drop_edge",
+  "s": "x654a621a",
+  "t": "n1133",
+  "k": "parent",
+  "fid": "R2-F7",
+  "rule": "R5",
+  "why": "Jarir bin Abdullah al-Bajali nasabnya sendiri garis Bajilah (as-Sulail bin Malik...), bukan Abdullah bin Jabir bin 'Atik yang Khazraji Ansar; nama ayah 'Abdullah bin Jabir' tertukar homonim."
+ },
+ {
+  "op": "drop_edge",
+  "s": "xe5343546",
+  "t": "n6514",
+  "k": "parent",
+  "fid": "R2-F9",
+  "rule": "R5",
+  "why": "Nasab Nubaisyah sendiri garis Hudzail (bin Attab bin al-Harits bin Nashir...), beda total dari 'Abdullah bin Amr' Khazraj yang ibnsadnya pun berisi riwayat tak terkait (Umm Haram)."
+ },
+ {
+  "op": "set_tribe",
+  "id": "n7271",
+  "tribe": "bahilah",
+  "fid": "R2-F11",
+  "rule": "R5",
+  "why": "Nisba n7271 sendiri 'الباهلي' dan rawi.relations menyebutnya 'والد مجيبة الباهلي', cocok dengan anak; field tribe=hasyim salah karena tertukar ibnsad Hasyimi lain."
+ },
+ {
+  "op": "merge",
+  "keep": "s4407",
+  "drop": "x84bf0333",
+  "fid": "R2-F14",
+  "rule": "R9",
+  "why": "Keduanya putri Abu Bakar bernama Asma'; 'Dzatun Nithaqain' adalah julukan Asma' bint Abu Bakar yang sama, tak ada indikasi dua Asma' berbeda."
+ },
+ {
+  "op": "merge",
+  "keep": "xd860199b",
+  "drop": "x5bfc2f20",
+  "fid": "R2-F16",
+  "rule": "R9",
+  "why": "Nama dan nasab identik (Yahya bin Usaid/Asid bin al-Hudhair), hanya varian ejaan; catatan pertama lebih lengkap (punya ibnsad)."
+ },
+ {
+  "op": "merge",
+  "keep": "xca2966e5",
+  "drop": "xa785daad",
+  "fid": "R2-F17",
+  "rule": "R9",
+  "why": "Ibnsad mengonfirmasi al-Abbas adalah anak Rabi'ah bin al-Harits; 'Abbas bin Rabi'ah' nama dan ayah sama, ibnsad keduanya hanya tertukar riwayat Dhuba'ah."
+ },
+ {
+  "op": "merge",
+  "keep": "n2762",
+  "drop": "x7fb66e1a",
+  "fid": "R2-F18",
+  "rule": "R9",
+  "why": "Teks n2762 sendiri menyatakan 'وهو شرحبيل ابن حسنة' - eksplisit orang yang sama dengan Syurahbil bin Hasanah."
+ },
+ {
+  "op": "merge",
+  "keep": "xd5e47bea",
+  "drop": "xbe809611",
+  "fid": "R2-F19",
+  "rule": "R9",
+  "why": "Nama dan nasab identik (Husain/al-Husain bin Abdullah bin Ja'far), hanya beda partikel 'al-', tanpa data pembeda apapun."
+ },
+ {
+  "op": "merge",
+  "keep": "xbcd308ab",
+  "drop": "xe7be781f",
+  "fid": "R2-F20",
+  "rule": "R9",
+  "why": "Qutailah istri Abu Bakar hanya dikenal satu orang; selisih kata 'Abdu' pada nasab adalah varian penulisan nama ayah yang sama."
+ },
+ {
+  "op": "merge",
+  "keep": "n2216",
+  "drop": "xf5eb695c",
+  "fid": "R2-F21",
+  "rule": "R9",
+  "why": "Nasab n2216 sendiri sudah mencantumkan varian 'بنت عمير بن عبد مناف...' sesuai nama record kedua - sama persis Ummu Ruman istri Abu Bakar."
+ },
+ {
+  "op": "merge",
+  "keep": "x0b022a4d",
+  "drop": "xd3d8f8de",
+  "fid": "R2-F22",
+  "rule": "R9",
+  "why": "Nasab identik (hanya beda partikel 'ar-'), kedua ibnsad merujuk garis nasab Khazraj yang sama (bint Abdullah bin Habib bin Zaid...)."
+ },
+ {
+  "op": "merge",
+  "keep": "x881cc13f",
+  "drop": "xb455dc98",
+  "fid": "R2-F23",
+  "rule": "R9",
+  "why": "Nama dan nasab sama (as-Samit bin Qais bin Ashram bin Fahr), ibnsad pertama mengonfirmasi ia suami Qurratul Ain bint Ubadah."
+ },
+ {
+  "op": "merge",
+  "keep": "s761",
+  "drop": "x1f4ca8e5",
+  "fid": "R2-F25",
+  "rule": "R9",
+  "why": "Teks s761 sendiri menyatakan 'يقال له ثابت بن الجذع' - eksplisit orang yang sama dengan Tsabit bin al-Jadz'."
+ },
+ {
+  "op": "merge",
+  "keep": "x217aecd1",
+  "drop": "xfb4d1ada",
+  "fid": "R2-F26",
+  "rule": "R9",
+  "why": "Nasab identik (al-Hudhair bin Simak bin Atik bin Imri'il Qais), ibnsad mengonfirmasi dia ayah Usaid bin al-Hudhair."
+ },
+ {
+  "op": "merge",
+  "keep": "x62e5b9ad",
+  "drop": "xc0769470",
+  "fid": "R2-F28",
+  "rule": "R9",
+  "why": "Nasab 'Habib bin Ka'b bin Utair ats-Tsaqafi' cocok persis dengan rawi.relations Umaimah (suaminya); 'Ku'aib' hanya varian ejaan nama yang sama."
+ },
+ {
+  "op": "drop_edge",
+  "s": "n2289",
+  "t": "n3681",
+  "k": "parent",
+  "why": "Ibnu Sa'd 3/137 menyebut Abdullah bin Sa'd bin Abi Waqqash, bukan rawi Anshari Abdullah bin Sa'd",
+  "rule": "M",
+  "fid": "manual-1"
+ },
+ {
+  "op": "drop_edge",
+  "s": "s576",
+  "t": "n7271",
+  "k": "parent",
+  "why": "putra al-Harits bin Hathib (Aus) bukan Abdullah bin al-Harits al-Bahili",
+  "rule": "M",
+  "fid": "manual-2"
+ },
+ {
+  "op": "merge",
+  "keep": "n1884",
+  "drop": "s972",
+  "why": "Dihyah bin Khalifah al-Kalbi tercatat dua kali (Ibnu Sa'd 4/249 & data rawi)",
+  "rule": "M",
+  "fid": "manual-3"
+ },
+ {
+  "op": "set_tribe",
+  "id": "x314753b5",
+  "tribe": "kalb",
+  "why": "Khalifah bin Farwah, ayah Dihyah al-Kalbi; 'al-Khazraj' dalam nasabnya adalah al-Khazraj dari Kalb",
+  "rule": "M",
+  "fid": "manual-4"
+ },
+ {
+  "op": "drop_edge",
+  "s": "n2216",
+  "t": "n7271",
+  "k": "spouse",
+  "why": "suami Ummu Ruman adalah Abdullah bin al-Harits bin Sakhbarah al-Azdi, bukan rawi al-Bahili",
+  "rule": "M",
+  "fid": "manual-5"
+ },
+ {
+  "op": "drop_edge",
+  "s": "n7271",
+  "t": "n2990",
+  "k": "parent",
+  "why": "ayah ath-Thufail adalah Abdullah bin al-Harits bin Sakhbarah al-Azdi",
+  "rule": "M",
+  "fid": "manual-6"
+ },
+ {
+  "op": "add_edge",
+  "s": "x7f7827ff",
+  "t": "n2990",
+  "k": "parent",
+  "src": {
+   "t": "Turath · data rawi: أم رومان",
+   "url": "https://app.turath.io/narrator/2216"
+  },
+  "why": "ath-Thufail bin Abdullah bin al-Harits bin Sakhbarah, putra Ummu Ruman",
+  "rule": "M",
+  "fid": "manual-7"
+ },
+ {
+  "op": "drop_edge",
+  "s": "n3685",
+  "t": "s4642",
+  "k": "parent",
+  "why": "ayah Mu'adzah adalah Abdullah bin Amr bin Bazin (Khazraj), bukan Abdullah as-Sa'di al-Amiri",
+  "rule": "M",
+  "fid": "manual-8"
+ },
+ {
+  "op": "drop_edge",
+  "s": "n3685",
+  "t": "s4700",
+  "k": "parent",
+  "why": "ayah Unaisah adalah Abdullah bin Amr bin Malik (Bani Bayadhah), bukan Abdullah as-Sa'di",
+  "rule": "M",
+  "fid": "manual-9"
+ },
+ {
+  "op": "drop_edge",
+  "s": "n3685",
+  "t": "n6514",
+  "k": "parent",
+  "why": "ayah Nubaisyah al-Hudzali adalah Abdullah bin Amr bin 'Attab, bukan Abdullah as-Sa'di",
+  "rule": "M",
+  "fid": "manual-10"
+ },
+ {
+  "op": "merge",
+  "keep": "n622",
+  "drop": "x84bf0333",
+  "why": "Asma' binti Abi Bakar (Dzatun Nithaqain) tercatat dua kali",
+  "rule": "M",
+  "fid": "manual-11"
+ },
+ {
+  "op": "drop_edge",
+  "s": "n2369",
+  "t": "s4436",
+  "k": "spouse",
+  "rule": "EV",
+  "fid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/379",
+  "why": "teks hanya menyebut 'أم ولد' (ibu budak tanpa nama) untuk ibu Aisyah/Zainab/Umm Abdil Hawla/Umm Shalih, tidak menyebut nama Lubabah bint al-Harits"
+ },
+ {
+  "op": "drop_edge",
+  "s": "n4307",
+  "t": "s4412",
+  "k": "spouse",
+  "rule": "EV",
+  "fid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/53",
+  "why": "teks hanya menyebut satu istri bernama Fathimah binti al-Walid bin Abdu Syams bin al-Mughirah (cocok dgn node n15652); tidak ada istri lain 'Fathimah binti al-Walid bin al-Mughirah' (tanpa 'bin Abdu Syams') yang disebut terpisah di teks ini"
+ },
+ {
+  "op": "drop_edge",
+  "s": "s4516",
+  "t": "n6205",
+  "k": "parent",
+  "rule": "EV",
+  "fid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/583",
+  "why": "teks: ibu Mu'adz adalah Hind binti Sahl dari Juhainah (bani Rab'ah); node yang diresolve bernasab 'Hind binti Sahl bin Zaid bin Amir... ahli Ratij' (garis Jusyam) — kemungkinan individu berbeda, bukan dari Juhainah"
+ },
+ {
+  "op": "drop_edge",
+  "s": "n9286",
+  "t": "n6205",
+  "k": "muakhah",
+  "rule": "EV",
+  "fid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/583",
+  "why": "hanya riwayat Ibnu Ishaq sendirian, dan Muhammad bin Umar membantahnya langsung sebagai mustahil secara kronologis (Ja'far masih di Habasyah saat muakhah terjadi); mayoritas sepakat muakhah Mu'adz dengan Abdullah bin Mas'ud"
+ },
+ {
+  "op": "drop_edge",
+  "s": "s4837",
+  "t": "n2305",
+  "k": "parent",
+  "rule": "EV",
+  "fid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/613",
+  "why": "teks eksplisit: ibu Sa'd adalah 'Amrah yang KETIGA' (وهي الثالثة); node yang diresolve adalah 'Amrah yang pertama (al-Ula)' — namanya sama tapi individu berbeda"
+ },
+ {
+  "op": "drop_edge",
+  "s": "s4837",
+  "t": "x556e32b5",
+  "k": "spouse",
+  "rule": "EV",
+  "fid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/613",
+  "why": "turunan dari kesalahan resolusi yang sama: Amrah yang dimaksud teks adalah 'Amrah ketiga', bukan node 'Amrah pertama' ini"
+ },
+ {
+  "op": "drop_edge",
+  "s": "s425",
+  "t": "s4603",
+  "k": "spouse",
+  "rule": "EV",
+  "fid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/352",
+  "why": "teks: suaminya adalah Abu Ahmad bin Jahsy, bukan Abdullah bin Jahsy (saudaranya sendiri)"
+ },
+ {
+  "op": "drop_edge",
+  "s": "s425",
+  "t": "x36ae0fe1",
+  "k": "parent",
+  "rule": "EV",
+  "fid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/352",
+  "why": "teks: ayah Abdullah bin Abi Ahmad adalah Abu Ahmad bin Jahsy, bukan Abdullah bin Jahsy"
+ },
+ {
+  "op": "drop_edge",
+  "s": "n2177",
+  "t": "s545",
+  "k": "parent",
+  "rule": "EV",
+  "fid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/359",
+  "why": "node s545 (Sa'd bin Zaid bin Malik bin Abdul Asyhal, dari Aus) adalah namesake berbeda, bukan anak Zaid bin Tsabit al-Anshari (dari Najjar/Khazraj) yang disebut teks"
+ },
+ {
+  "op": "drop_edge",
+  "s": "n5309",
+  "t": "n6528",
+  "k": "parent",
+  "rule": "EV",
+  "fid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/412",
+  "why": "teks: ayah Nusaibah adalah Ka'b bin Amr bin Mabdzul (Bani Mazin an-Najjar); node yang diresolve bernasab Ka'b bin Amr bin Hujair dari suku Yam, orang lain"
+ },
+ {
+  "op": "drop_edge",
+  "s": "s4837",
+  "t": "n1059",
+  "k": "parent",
+  "rule": "EV",
+  "fid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/450",
+  "why": "teks: anak bernama Tsabit bin Zaid bin Malik bin Abdu Wudd (Aus, Bani Abdul Asyhal); node yang diresolve 'Tsabit bin Wadi'ah' bernasab suku Hubla/Khazraj, orang lain"
+ },
+ {
+  "op": "drop_edge",
+  "s": "s4837",
+  "t": "x227af13b",
+  "k": "parent",
+  "rule": "EV",
+  "fid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/450",
+  "why": "Abu Muhammad Mas'ud bin Aus adalah anak Amrah ATS-TSANIYAH (dari suami Aus bin Zaid bin Asram) menurut teks ini, bukan anak Amrah al-Ula (s4837)"
+ },
+ {
+  "op": "drop_edge",
+  "s": "s4837",
+  "t": "x1b114b16",
+  "k": "parent",
+  "rule": "EV",
+  "fid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/450",
+  "why": "Amr bin Sahl bin Ma'bad adalah anak Amrah ATS-TSANIYAH (dari suami Sahl bin Tsa'labah) menurut teks ini, bukan anak Amrah al-Ula (s4837)"
+ },
+ {
+  "op": "drop_edge",
+  "s": "s4295",
+  "t": "n3650",
+  "k": "parent",
+  "rule": "EV",
+  "fid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/46",
+  "why": "teks: anak Umm al-Hakam adalah Abdullah bin Rabi'ah BIN AL-HARITS bin Abdul Muttalib; node diresolve ke Abdullah bin Rabi'ah bin Farqad, orang lain"
+ },
+ {
+  "op": "drop_edge",
+  "s": "n3659",
+  "t": "n3078",
+  "k": "parent",
+  "rule": "EV",
+  "fid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/461",
+  "why": "'Abu Ubaidah' di teks hanya kunyah anak Abdullah bin Zam'ah; diresolve keliru jadi sahabat terkenal Abu Ubaidah bin al-Jarrah (Amir bin Abdullah), tokoh beda generasi"
+ },
+ {
+  "op": "drop_edge",
+  "s": "n3659",
+  "t": "xd003d280",
+  "k": "parent",
+  "rule": "EV",
+  "fid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/461",
+  "why": "Umm Salamah di teks adalah putri Abdullah bin Zam'ah; node diresolve ke Umm Salamah binti Abdullah BIN ABI MA'QIL, nasab beda"
+ },
+ {
+  "op": "drop_edge",
+  "s": "n3138",
+  "t": "s4869",
+  "k": "parent",
+  "rule": "EV",
+  "fid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/466",
+  "why": "teks sendiri menyatakan tidak ditemukan putri al-Abbas bernama Umm Qutsam ('wa lam najid lil-Abbas... ibnatan tusamma Umm Qutsam')"
+ },
+ {
+  "op": "drop_edge",
+  "s": "n5066",
+  "t": "x9dde794c",
+  "k": "spouse",
+  "rule": "EV",
+  "fid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/496",
+  "why": "teks: 'Fatimah binti Muhammad' adalah perawi biasa, bukan Fatimah az-Zahra putri Nabi; beda orang (namesake)"
+ },
+ {
+  "op": "drop_edge",
+  "s": "n4677",
+  "t": "xb909f055",
+  "k": "mawla",
+  "rule": "EV",
+  "fid": "Turath · data rawi: أبو حفص عمر بن الخطاب",
+  "why": "teks: 'مؤذنه' (muazzinnya Aqra'), bukan mawla/budak yang dimerdekakan"
+ },
+ {
+  "op": "drop_edge",
+  "s": "n4677",
+  "t": "x53a41065",
+  "k": "mawla",
+  "rule": "EV",
+  "fid": "Turath · data rawi: أبو حفص عمر بن الخطاب",
+  "why": "teks: 'مؤذنه' (muazzinnya Masruh), bukan mawla"
+ },
+ {
+  "op": "drop_edge",
+  "s": "n779",
+  "t": "n2825",
+  "k": "parent",
+  "rule": "EV",
+  "fid": "Turath · data rawi: أم عثمان بنت سفيان",
+  "why": "teks 'أم ولد شيبة' = ia gundik/budak Syaibah yang melahirkan anak untuknya, bukan ibu Syaibah"
+ },
+ {
+  "op": "drop_edge",
+  "s": "n822",
+  "t": "x5c7d63d5",
+  "k": "mawla",
+  "rule": "EV",
+  "fid": "Turath · data rawi: أنس بن مالك",
+  "why": "teks sebut 'نصير خادمه' (pelayannya), bukan mawla seperti Ra'ithah/Dinar yang jelas disebut 'مولى'"
+ },
+ {
+  "op": "drop_edge",
+  "s": "n1786",
+  "t": "n3256",
+  "k": "sibling",
+  "rule": "EV",
+  "fid": "Turath · data rawi: خزيمة بن ثابت بن الفاكه بن ثعلبة بن ساعدة",
+  "why": "teks: saudaranya adalah anak Tsabit bin al-Fakih bin Tsa'labah bin Sa'adah (nasab subjek sendiri), bukan anak Tsabit bin ash-Shamit — orang lain yang beda nasab"
+ },
+ {
+  "op": "drop_edge",
+  "s": "n13117",
+  "t": "n2825",
+  "k": "sibling",
+  "rule": "EV",
+  "fid": "Turath · data rawi: شيبة بن عثمان بن أبي طلحة",
+  "why": "teks: Mush'ab bin Umair adalah saudara ibunya (Ummu Jamil), yaitu paman (khal) Syaibah — bukan saudara (sibling) Syaibah sendiri"
+ },
+ {
+  "op": "drop_edge",
+  "s": "n3670",
+  "t": "x722aad88",
+  "k": "sibling",
+  "rule": "EV",
+  "fid": "Turath · data rawi: عبد الله بن السائب بن أبي السائب",
+  "why": "teks sebut saudara 'عبد الرحمن بن السائب', tapi orang yang diresolve berayah 'السائب bin خباب' - beda dengan ayah subjek ('السائب bin أبي السائب') - kemungkinan namesake lain"
+ },
+ {
+  "op": "drop_edge",
+  "s": "n3670",
+  "t": "x8cc2d1f2",
+  "k": "mawla",
+  "rule": "EV",
+  "fid": "Turath · data rawi: عبد الله بن السائب بن أبي السائب",
+  "why": "teks: subjek 'مولى مجاهد' (budak/klien dari Mujahid) - jadi subjek adalah klien, bukan patron; arah di dataset terbalik"
+ },
+ {
+  "op": "merge",
+  "keep": "n1193",
+  "drop": "x12533898",
+  "why": "Juwairiyah binti al-Harits (Ummul Mukminin) tercatat dua kali; saudari 'Amr bin al-Harits ipar Rasulullah",
+  "rule": "M",
+  "fid": "manual-12"
+ },
+ {
+  "op": "merge",
+  "keep": "n6480",
+  "drop": "s4324",
+  "why": "Maimunah binti al-Harits (Ummul Mukminin) tercatat dua kali; entri Ibnu Sa'd 8/132, suami sebelumnya Mas'ud ats-Tsaqafi & Abu Ruhm",
+  "rule": "M",
+  "fid": "manual-13"
+ },
+ {
+  "op": "merge",
+  "keep": "n15947",
+  "drop": "s4320",
+  "why": "Zainab binti Khuzaimah (Ummul Mukminin) tercatat dua kali; entri Ibnu Sa'd 8/115, sebelumnya istri 'Ubaidah bin al-Harits",
+  "rule": "M",
+  "fid": "manual-14"
+ },
+ {
+  "op": "merge",
+  "keep": "n2700",
+  "drop": "x52f606dc",
+  "why": "Saudah binti Zam'ah (Ummul Mukminin) tercatat dua kali; sebelumnya istri as-Sakran bin 'Amr (Ibnu Sa'd 4/204)",
+  "rule": "M",
+  "fid": "manual-15"
+ },
+ {
+  "op": "merge",
+  "keep": "c-mariyah",
+  "drop": "x0e2874f5",
+  "why": "Mariyah al-Qibthiyyah, ibunda Ibrahim putra Rasulullah, tercatat dua kali (Ibnu Sa'd 3/7)",
+  "rule": "M",
+  "fid": "manual-16"
+ },
+ {
+  "op": "merge",
+  "keep": "n3026",
+  "drop": "x4f611799",
+  "why": "Aisyah binti Abi Bakr (Ummul Mukminin) tercatat dua kali; putri Abu Bakr & Ummu Ruman (Ibnu Sa'd 3/169), majikan Barirah",
+  "rule": "M",
+  "fid": "manual-17"
+ },
+ {
+  "op": "drop_edge",
+  "s": "x5c344fff",
+  "t": "n1054",
+  "k": "parent",
+  "why": "Qais bin al-Khathim ayah Tsabit bin Qais bin al-Khathim, bukan Tsabit bin Qais bin Syammas (Ibnu Sa'd 8/323)",
+  "rule": "M",
+  "fid": "manual-18"
+ },
+ {
+  "op": "drop_edge",
+  "s": "s4514",
+  "t": "n1054",
+  "k": "parent",
+  "why": "Hawwa' binti Yazid melahirkan Tsabit untuk Qais bin al-Khathim, bukan Tsabit bin Qais bin Syammas (Ibnu Sa'd 8/323)",
+  "rule": "M",
+  "fid": "manual-19"
+ },
+ {
+  "op": "add_edge",
+  "s": "s4514",
+  "t": "x602f351f",
+  "k": "parent",
+  "src": {
+   "t": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/323",
+   "url": "https://app.turath.io/book/9351?print_page=8,323"
+  },
+  "why": "Ibnu Sa'd 8/323: Hawwa' dinikahi Qais bin al-Khathim lalu melahirkan Tsabit",
+  "rule": "M",
+  "fid": "manual-20"
+ },
+ {
+  "op": "drop_edge",
+  "s": "n3599",
+  "t": "n8913",
+  "k": "parent",
+  "why": "perawi Muhammad bin Abdullah bin Ja'far yang wafat 265 H adalah orang lain yang bernama sama, bukan putra Abdullah bin Ja'far (w. 80 H)",
+  "rule": "M",
+  "fid": "manual-21"
+ },
+ {
+  "op": "drop_edge",
+  "s": "s4839",
+  "t": "x556e32b5",
+  "k": "spouse",
+  "why": "Ibnu Sa'd memberi 'Amrah istri 'Ubadah bin Dulaim nomor 'ketiga' (3/613, 8/373) dan 'keempat' (8/451); orangnya satu",
+  "rule": "M",
+  "fid": "manual-22"
+ },
+ {
+  "op": "drop_edge",
+  "s": "s4839",
+  "t": "s4659",
+  "k": "parent",
+  "why": "Ibnu Sa'd memberi 'Amrah istri 'Ubadah bin Dulaim nomor 'ketiga' (3/613, 8/373) dan 'keempat' (8/451); orangnya satu",
+  "rule": "M",
+  "fid": "manual-23"
+ },
+ {
+  "op": "drop_edge",
+  "s": "s4839",
+  "t": "s4660",
+  "k": "parent",
+  "why": "Ibnu Sa'd memberi 'Amrah istri 'Ubadah bin Dulaim nomor 'ketiga' (3/613, 8/373) dan 'keempat' (8/451); orangnya satu",
+  "rule": "M",
+  "fid": "manual-24"
+ },
+ {
+  "op": "add_edge",
+  "s": "s4840",
+  "t": "s4659",
+  "k": "parent",
+  "src": {
+   "t": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/373",
+   "url": "https://app.turath.io/book/9351?print_page=8,373"
+  },
+  "why": "Ibnu Sa'd memberi 'Amrah istri 'Ubadah bin Dulaim nomor 'ketiga' (3/613, 8/373) dan 'keempat' (8/451); orangnya satu",
+  "rule": "M",
+  "fid": "manual-25"
+ },
+ {
+  "op": "add_edge",
+  "s": "s4840",
+  "t": "s4660",
+  "k": "parent",
+  "src": {
+   "t": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/373",
+   "url": "https://app.turath.io/book/9351?print_page=8,373"
+  },
+  "why": "Ibnu Sa'd memberi 'Amrah istri 'Ubadah bin Dulaim nomor 'ketiga' (3/613, 8/373) dan 'keempat' (8/451); orangnya satu",
+  "rule": "M",
+  "fid": "manual-26"
+ },
+ {
+  "op": "merge",
+  "keep": "x6e82028a5",
+  "drop": "x6e82028a6",
+  "why": "'Amrah al-Tsaniyah dinikahi Aus bin Zaid bin Ashram lalu Sahl bin Tsa'labah (Ibnu Sa'd 8/450), bukan al-Ula",
+  "rule": "M",
+  "fid": "manual-27"
+ },
+ {
+  "op": "merge",
+  "keep": "x6e82028a5",
+  "drop": "x6e82028a11",
+  "why": "'Amrah al-Tsaniyah dinikahi Aus bin Zaid bin Ashram lalu Sahl bin Tsa'labah (Ibnu Sa'd 8/450), bukan al-Ula",
+  "rule": "M",
+  "fid": "manual-28"
+ },
+ {
+  "op": "merge",
+  "keep": "s629",
+  "drop": "x227af13b",
+  "why": "Abu Muhammad Mas'ud bin Aus bin Zaid bin Ashram tercatat dua kali (Ibnu Sa'd 3/490 & 8/450)",
+  "rule": "M",
+  "fid": "manual-29"
+ },
+ {
+  "op": "drop_edge",
+  "s": "s4837",
+  "t": "s629",
+  "k": "parent",
+  "why": "'Amrah al-Tsaniyah dinikahi Aus bin Zaid bin Ashram lalu Sahl bin Tsa'labah (Ibnu Sa'd 8/450), bukan al-Ula",
+  "rule": "M",
+  "fid": "manual-30"
+ },
+ {
+  "op": "drop_edge",
+  "s": "s4837",
+  "t": "s630",
+  "k": "parent",
+  "why": "'Amrah al-Tsaniyah dinikahi Aus bin Zaid bin Ashram lalu Sahl bin Tsa'labah (Ibnu Sa'd 8/450), bukan al-Ula",
+  "rule": "M",
+  "fid": "manual-31"
+ },
+ {
+  "op": "drop_edge",
+  "s": "s4837",
+  "t": "x2ba272f6",
+  "k": "spouse",
+  "why": "'Amrah al-Tsaniyah dinikahi Aus bin Zaid bin Ashram lalu Sahl bin Tsa'labah (Ibnu Sa'd 8/450), bukan al-Ula",
+  "rule": "M",
+  "fid": "manual-32"
+ },
+ {
+  "op": "drop_edge",
+  "s": "s4837",
+  "t": "x243c8e98",
+  "k": "spouse",
+  "why": "'Amrah al-Tsaniyah dinikahi Aus bin Zaid bin Ashram lalu Sahl bin Tsa'labah (Ibnu Sa'd 8/450), bukan al-Ula",
+  "rule": "M",
+  "fid": "manual-33"
+ },
+ {
+  "op": "drop_edge",
+  "s": "s4837",
+  "t": "s4825",
+  "k": "parent",
+  "why": "'Amrah al-Tsaniyah dinikahi Aus bin Zaid bin Ashram lalu Sahl bin Tsa'labah (Ibnu Sa'd 8/450), bukan al-Ula",
+  "rule": "M",
+  "fid": "manual-34"
+ },
+ {
+  "op": "drop_edge",
+  "s": "s4837",
+  "t": "n1299",
+  "k": "parent",
+  "why": "'Amrah al-Tsaniyah dinikahi Aus bin Zaid bin Ashram lalu Sahl bin Tsa'labah (Ibnu Sa'd 8/450), bukan al-Ula",
+  "rule": "M",
+  "fid": "manual-35"
+ },
+ {
+  "op": "add_edge",
+  "s": "x6e82028a5",
+  "t": "s630",
+  "k": "parent",
+  "src": {
+   "t": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/490",
+   "url": "https://app.turath.io/book/9351?print_page=3,490"
+  },
+  "why": "'Amrah al-Tsaniyah dinikahi Aus bin Zaid bin Ashram lalu Sahl bin Tsa'labah (Ibnu Sa'd 8/450), bukan al-Ula",
+  "rule": "M",
+  "fid": "manual-36"
+ },
+ {
+  "op": "add_edge",
+  "s": "x6e82028a5",
+  "t": "x2ba272f6",
+  "k": "spouse",
+  "src": {
+   "t": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/450",
+   "url": "https://app.turath.io/book/9351?print_page=8,450"
+  },
+  "why": "'Amrah al-Tsaniyah dinikahi Aus bin Zaid bin Ashram lalu Sahl bin Tsa'labah (Ibnu Sa'd 8/450), bukan al-Ula",
+  "rule": "M",
+  "fid": "manual-37"
+ },
+ {
+  "op": "add_edge",
+  "s": "x6e82028a5",
+  "t": "s4825",
+  "k": "parent",
+  "src": {
+   "t": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/444",
+   "url": "https://app.turath.io/book/9351?print_page=8,444"
+  },
+  "why": "'Amrah al-Tsaniyah dinikahi Aus bin Zaid bin Ashram lalu Sahl bin Tsa'labah (Ibnu Sa'd 8/450), bukan al-Ula",
+  "rule": "M",
+  "fid": "manual-38"
+ },
+ {
+  "op": "add_edge",
+  "s": "x6e82028a5",
+  "t": "n1299",
+  "k": "parent",
+  "src": {
+   "t": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/445",
+   "url": "https://app.turath.io/book/9351?print_page=8,445"
+  },
+  "why": "'Amrah al-Tsaniyah dinikahi Aus bin Zaid bin Ashram lalu Sahl bin Tsa'labah (Ibnu Sa'd 8/450), bukan al-Ula",
+  "rule": "M",
+  "fid": "manual-39"
+ },
+ {
+  "op": "add_edge",
+  "s": "xdada6194",
+  "t": "x6e82028a5",
+  "k": "parent",
+  "src": {
+   "t": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/450",
+   "url": "https://app.turath.io/book/9351?print_page=8,450"
+  },
+  "why": "'Amrah al-Tsaniyah dinikahi Aus bin Zaid bin Ashram lalu Sahl bin Tsa'labah (Ibnu Sa'd 8/450), bukan al-Ula",
+  "rule": "M",
+  "fid": "manual-40"
+ },
+ {
+  "op": "add_edge",
+  "s": "x5c625365",
+  "t": "x6e82028a5",
+  "k": "parent",
+  "src": {
+   "t": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/450",
+   "url": "https://app.turath.io/book/9351?print_page=8,450"
+  },
+  "why": "'Amrah al-Tsaniyah dinikahi Aus bin Zaid bin Ashram lalu Sahl bin Tsa'labah (Ibnu Sa'd 8/450), bukan al-Ula",
+  "rule": "M",
+  "fid": "manual-41"
+ },
+ {
+  "op": "drop_edge",
+  "s": "x6e82028a4",
+  "t": "n1059",
+  "k": "parent",
+  "why": "Ibnu Sa'd 8/450: 'Amrah al-Ula melahirkan Sa'd dan Tsabit putra Zaid bin Malik, bukan Tsabit bin Wadi'ah",
+  "rule": "M",
+  "fid": "manual-42"
+ },
+ {
+  "op": "merge",
+  "keep": "x6e82028a5",
+  "drop": "x6e82028a7",
+  "why": "'Amrah ats-Tsaniyah binti Mas'ud, ibunda Raghibah binti Sahl, tercatat dua kali (Ibnu Sa'd 8/444, 8/450)",
+  "rule": "M",
+  "fid": "manual-43"
+ },
+ {
+  "op": "drop_edge",
+  "s": "x6e82028a5",
+  "t": "x1b114b16",
+  "k": "parent",
+  "why": "Ibnu Sa'd 8/450: Sahl bin Tsa'labah & 'Amrah ats-Tsaniyah berputra 'Amr bin Sahl bin Tsa'labah, bukan 'Amr bin Sahl bin Ma'bad",
+  "rule": "M",
+  "fid": "manual-44"
+ },
+ {
+  "op": "drop_edge",
+  "s": "x243c8e98",
+  "t": "x1b114b16",
+  "k": "parent",
+  "why": "Ibnu Sa'd 8/450: Sahl bin Tsa'labah & 'Amrah ats-Tsaniyah berputra 'Amr bin Sahl bin Tsa'labah, bukan 'Amr bin Sahl bin Ma'bad",
+  "rule": "M",
+  "fid": "manual-45"
+ },
+ {
+  "op": "add_edge",
+  "s": "x6e82028a5",
+  "t": "x02afd7b3",
+  "k": "parent",
+  "src": {
+   "t": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/450",
+   "url": "https://app.turath.io/book/9351?print_page=8,450"
+  },
+  "why": "Ibnu Sa'd 8/450: Sahl bin Tsa'labah & 'Amrah ats-Tsaniyah berputra 'Amr bin Sahl bin Tsa'labah, bukan 'Amr bin Sahl bin Ma'bad",
+  "rule": "M",
+  "fid": "manual-46"
+ },
+ {
+  "op": "add_edge",
+  "s": "x243c8e98",
+  "t": "x02afd7b3",
+  "k": "parent",
+  "src": {
+   "t": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/450",
+   "url": "https://app.turath.io/book/9351?print_page=8,450"
+  },
+  "why": "Ibnu Sa'd 8/450: Sahl bin Tsa'labah & 'Amrah ats-Tsaniyah berputra 'Amr bin Sahl bin Tsa'labah, bukan 'Amr bin Sahl bin Ma'bad",
+  "rule": "M",
+  "fid": "manual-47"
+ }
+]

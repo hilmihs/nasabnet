@@ -1,0 +1,12 @@
+[
+  {"fid": "F266", "verdict": "fix", "why": "Nama dan konteks (ibu Syurahbil bin Hasanah) identik; xee22d82b4 kosong tanpa info berbeda.", "ops": [{"op":"merge","keep":"s4444","drop":"xee22d82b4"}]},
+  {"fid": "F267", "verdict": "fix", "why": "Teks n2219 eksplisit menyebut hedge 'waqila bint Abi Mu'awiyah' yang cocok dengan nama s4450, sama-sama istri Abdullah bin Mas'ud; Zainab (n11390) dibiarkan karena hedge-nya justru mengarah ke Zainab binti Jahsy, tidak pasti istri Ibn Mas'ud.", "ops": [{"op":"merge","keep":"n2219","drop":"s4450"}]},
+  {"fid": "F268", "verdict": "fix", "why": "x0eb83065 kosong, nama hanya varian (Uqbah vs Utaibah) dari xceed57c3 yang jelas ibu Ummu Muhammad bint Qais bin Mukhramah.", "ops": [{"op":"merge","keep":"xceed57c3","drop":"x0eb83065"}]},
+  {"fid": "F269", "verdict": "fix", "why": "x7b567a1e kosong dan kehilangan satu generasi (bint 'Adi vs bint Bisyr bin 'Adi) dari xc1e2d216 yang jelas ibu 'Abbad bin Bisyr.", "ops": [{"op":"merge","keep":"xc1e2d216","drop":"x7b567a1e"}]},
+  {"fid": "F270", "verdict": "unsure", "why": "Teks ibnsad yang identik pada kedua id hanya menyebut suami 'Usaid bin Sa'idah', bukan 'Burdza' bin Zaid'; tidak ada bukti tekstual yang mengaitkan nama Yazid bin Burdza' dengan entri yang sama.", "ops": []},
+  {"fid": "F271", "verdict": "fix", "why": "x6dfd7040 hanya nama generik tanpa info, cocok dengan s4549 yang jelas istri adh-Dhahhak bin Khalifah.", "ops": [{"op":"merge","keep":"s4549","drop":"x6dfd7040"}]},
+  {"fid": "F272", "verdict": "fix", "why": "x78232cc2 kosong, nisbah an-Najjariyyah cocok dengan 'min bani an-Najjar' pada nasab panjang xc8d6a4c9 yang jelas ibu Qatadah bin an-Nu'man.", "ops": [{"op":"merge","keep":"xc8d6a4c9","drop":"x78232cc2"}]},
+  {"fid": "F273", "verdict": "fix", "why": "Entri kedua s4573 sendiri (syamilah binti al-harits/abairiq, suami tsabit bin an-nu'man, anak khalid & bashirah) cocok persis dengan xead19973 (ibu Bashirah bint Tsabit).", "ops": [{"op":"merge","keep":"s4573","drop":"xead19973"}]},
+  {"fid": "F274", "verdict": "fix", "why": "Ibnsad n772 eksplisit: jamilah binti sa'd bin ar-rabi' menikah zaid bin tsabit dan 'kanat jamilah tuda'a umm sa'd' - cocok dengan hipotesis n771 (bint/istri Zaid bin Tsabit).", "ops": [{"op":"merge","keep":"n772","drop":"n771"}]},
+  {"fid": "F275", "verdict": "ok", "why": "Tiga Ummu Jamil berbeda nasab ayah (Quthbah bin Amir, al-Mujallil, al-Mukhawwal) tanpa teks yang menyatukan mereka - kemungkinan tiga istri Zaid bin Tsabit yang poligami, bukan duplikat.", "ops": []}
+]

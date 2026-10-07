@@ -1,0 +1,67 @@
+[
+  {
+    "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/100",
+    "ok": 36,
+    "issues": []
+  },
+  {
+    "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/116",
+    "ok": 4,
+    "issues": []
+  },
+  {
+    "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/123",
+    "ok": 2,
+    "issues": []
+  },
+  {
+    "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/124",
+    "ok": 3,
+    "issues": []
+  },
+  {
+    "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/137",
+    "ok": 29,
+    "issues": [
+      {
+        "s": "n2289",
+        "t": "s4290",
+        "k": "spouse",
+        "verdict": "unsure",
+        "why": "teks terputus di 'وأمها أم حكيم ب...' sehingga identitas ibu Hamnah tidak bisa dipastikan sama dengan al-Baidha bint Abdul Muththalib"
+      },
+      {
+        "s": "s4290",
+        "t": "x9e159beb",
+        "k": "parent",
+        "verdict": "unsure",
+        "why": "teks terputus di 'وأمها أم حكيم ب...' sehingga identitas ibu Hamnah tidak bisa dipastikan sama dengan al-Baidha bint Abdul Muththalib"
+      }
+    ]
+  },
+  {
+    "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/150",
+    "ok": 3,
+    "issues": []
+  },
+  {
+    "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/164",
+    "ok": 1,
+    "issues": []
+  },
+  {
+    "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/169",
+    "ok": 14,
+    "issues": []
+  },
+  {
+    "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/19",
+    "ok": 31,
+    "issues": []
+  },
+  {
+    "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/214",
+    "ok": 19,
+    "issues": []
+  }
+]

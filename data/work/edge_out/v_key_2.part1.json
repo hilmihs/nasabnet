@@ -1,0 +1,14 @@
+[
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/490", "ok": 3, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/491", "ok": 16, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/492", "ok": 6, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/493", "ok": 12, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/498", "ok": 7, "issues": [
+  {"s": "n2369", "t": "n398", "k": "muakhah", "verdict": "unsure", "why": "teks: mayoritas riwayat (Ishaq bin Yahya, Isa, Musa bin Muhammad, Abdullah bin Ja'far) sepakat Nabi mempersaudarakan Ubay dengan Thalhah; hanya Ibnu Ishaq sendiri meriwayatkan versi Ubay-Sa'id bin Zaid, versi minoritas ini kurang didukung"}
+]},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/50", "ok": 12, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/511", "ok": 4, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/520", "ok": 3, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/521", "ok": 2, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/522", "ok": 1, "issues": []}
+]

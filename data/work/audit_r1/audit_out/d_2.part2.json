@@ -1,0 +1,12 @@
+[
+{"fid": "F60", "verdict": "fix", "why": "Ibnsad menyebut 'Thabit' anak Zaid bin Malik bin Abdu Wudd (Bani Abdul Asyhal/Aus) adalah orang lain; n1059 nasabnya sendiri menyebut ayah Wadi'ah (Khazraj), homonim berbeda.", "ops": [{"op":"drop_edge","s":"xea7b44e3","t":"n1059","k":"parent"}]},
+{"fid": "F61", "verdict": "fix", "why": "Ibnsad n7271 meresolusi ke Abdullah bin al-Harits bin Abdul Muttalib (Hasyim)/ayah Mujibah al-Bahili, bukan ayah Ummu Waraqah yang nasabnya 'bin Uwaimir bin Naufal' (Anshar); homonim salah.", "ops": [{"op":"drop_edge","s":"n7271","t":"n800","k":"parent"}]},
+{"fid": "F62", "verdict": "ok", "why": "'Umair asy-Syaibani' dan 'Umair asy-Syaibaniyyah' merujuk satu sumber ibnsad yang sama, hanya beda bentuk gender nisbah.", "ops": []},
+{"fid": "F63", "verdict": "fix", "why": "Hudzaifah adalah Absi/Ghathafan yang berhalif dengan Bani Abdul Asyhal; sesuai aturan halif tetap pakai tribe nasab sendiri, anak seharusnya ghathafan bukan aus.", "ops": [{"op":"set_tribe","id":"n21113","tribe":"ghathafan"}]},
+{"fid": "F64", "verdict": "fix", "why": "Ka'ab bin Ujrah adalah Qudha'ah/Bali yang berhalif dengan Anshar; anak seharusnya tetap qudhaah sesuai aturan halif, bukan anshar.", "ops": [{"op":"set_tribe","id":"n2217","tribe":"qudhaah"}]},
+{"fid": "F65", "verdict": "fix", "why": "Ibnsad xcdd0a853 meresolusi ke Harits bin 'Amir bin Malik (saudara Yasir, Yaman/Madzhij), bukan 'al-Harits bin Amir bin Naufal' ayah perempuan Naufali ini; homonim salah.", "ops": [{"op":"drop_edge","s":"xcdd0a853","t":"n154","k":"parent"}]},
+{"fid": "F66", "verdict": "ok", "why": "Teks sendiri menghedge 'qila ismuhu Zaid bin al-Mu'alla' yang cocok dengan relasi ayah al-Mu'alla bin Ludzan; hanya pilihan di antara riwayat yang sudah dihedge.", "ops": []},
+{"fid": "F67", "verdict": "ok", "why": "Nasab lengkap 'Rafi' bin Aus bin al-Mu'alla' dan ibnsad ('tazawwajaha Aus bin al-Mu'alla...fawaladat lahu Aba Sa'id') cocok persis dengan relasi ayah.", "ops": []},
+{"fid": "F68", "verdict": "ok", "why": "Identifikasi 'Bulail bin Uhaihah' adalah salah satu hedge yang disebut langsung dalam teks ('wa yuqalu Bulail...bin Uhaihah'), konsisten dengan relasi ayah.", "ops": []},
+{"fid": "F69", "verdict": "ok", "why": "Hedge 'Abdullah bin Amr bin Qais bin Zaid bin Sawad' cocok relasi ayah, diperkuat ibnsad s638 yang menyebut 'Abu Ubay' sebagai Abdullah bin Amr bin Qais.", "ops": []}
+]

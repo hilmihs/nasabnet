@@ -1,0 +1,17 @@
+[
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/51", "ok": 7, "issues": [
+  {"s": "x8681f758", "t": "s4310", "k": "parent", "verdict": "unsure", "why": "teks: ibunya 'Fatimah binti Harm bin Rawahah...', dataset meresolusi ke 'Fatimah binti Qais bin Harm' - beda satu generasi, tidak jelas orang yang sama"}
+]},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/52", "ok": 3, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/58", "ok": 2, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/81", "ok": 2, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/86", "ok": 4, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/96", "ok": 5, "issues": []},
+{"rid": "Turath · data rawi: أبو اليسر السلمي كعب بن عمرو", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: أبو حفص عمر بن الخطاب", "ok": 1, "issues": [
+  {"s": "n4677", "t": "xb909f055", "k": "mawla", "verdict": "wrong", "why": "teks: 'مؤذنه' (muazzinnya Aqra'), bukan mawla/budak yang dimerdekakan"},
+  {"s": "n4677", "t": "x53a41065", "k": "mawla", "verdict": "wrong", "why": "teks: 'مؤذنه' (muazzinnya Masruh), bukan mawla"}
+]},
+{"rid": "Turath · data rawi: أبو عبد الرحمن معاذ بن جبل", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: أبو عبس بن جبر", "ok": 1, "issues": []}
+]

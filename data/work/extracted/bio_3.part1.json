@@ -1,0 +1,112 @@
+[
+  {
+    "id": "s575",
+    "identitas": {"lahir": null, "umur": null, "wafat": null, "makam": null, "src": []},
+    "kabilah_tabaqat": {"t": "Anshar; ikut Perang Badar dan Uhud.", "src": ["Ibnu Sa'd 3/460"]},
+    "nisbah_rihlah": {"t": "Keturunannya menetap di Madinah dan Baghdad.", "src": ["Ibnu Sa'd 3/460"]},
+    "laqab_profesi": null,
+    "peran": {"t": "Ikut Perang Badar dan Uhud; dipersaudarakan (diikat ukhuwwah) oleh Nabi ﷺ dengan Mu'tab bin al-Hamra' dari Khuza'ah, sekutu Bani Makhzum.", "src": ["Ibnu Sa'd 3/460"]},
+    "hilf": null,
+    "syaraf": {"t": "Disebutkan adanya perbedaan pendapat mengenai identitasnya: Ibnu Hajar meragukan apakah kisah seorang 'Tsa'labah bin Hathib' yang dikaitkan dengan tuduhan nifak dalam riwayat tafsir adalah orang yang sama dengan Tsa'labah bin Hathib peserta Badar ini; beliau menganggap keduanya kemungkinan berbeda.", "src": ["al-Ishabah 1/516"]},
+    "catatan": null
+  },
+  {
+    "id": "s4292",
+    "identitas": {"lahir": null, "umur": null, "wafat": null, "makam": null, "src": []},
+    "kabilah_tabaqat": {"t": "Bani Hasyim dari Quraisy; putri Abdul Muththalib, bibi Nabi ﷺ.", "src": ["al-Ishabah 8/33", "Ibnu Sa'd 8/45"]},
+    "nisbah_rihlah": null,
+    "laqab_profesi": null,
+    "peran": {"t": "Keislamannya diperselisihkan: Muhammad bin Ishaq menafikan bahwa ia masuk Islam, dan hanya Ibnu Sa'd yang menyebutnya dalam golongan ini. Nabi ﷺ pernah memberinya empat puluh wasq kurma dari Khaibar.", "src": ["al-Ishabah 8/33", "Ibnu Sa'd 8/45"]},
+    "hilf": {"t": "Menikah di masa jahiliah dengan Hujair/Jahsy bin Ri'ab al-Asadi, sekutu (halif) Harb bin Umayyah.", "src": ["al-Ishabah 8/33", "Ibnu Sa'd 8/45"]},
+    "syaraf": {"t": "Nasabnya sebagai putri Abdul Muththalib tidak diperselisihkan; namun status keislamannya diperselisihkan ulama.", "src": ["al-Ishabah 8/33"]},
+    "catatan": {"t": "Dari pernikahannya lahir Zainab dan Hamnah binti Jahsy; Zainab kemudian menjadi istri Nabi ﷺ, dan Ibnu Hajar mencatat bahwa Umaimah masih hidup ketika pernikahan itu terjadi.", "src": ["al-Ishabah 8/33"]}
+  },
+  {
+    "id": "n715",
+    "identitas": {"lahir": null, "umur": null, "wafat": "Pada masa kekhalifahan Marwan bin al-Hakam; ada yang mengatakan pada masa Abdul Malik bin Marwan (Ibnu Abdul Barr), dan ada yang mengatakan 65 H (adz-Dzahabi).", "makam": null, "src": ["Turath rawi"]},
+    "kabilah_tabaqat": null,
+    "nisbah_rihlah": null,
+    "laqab_profesi": null,
+    "peran": null,
+    "hilf": null,
+    "syaraf": {"t": "Ia dan ayahnya sama-sama disebutkan memiliki persahabatan (shuhbah) dengan Nabi ﷺ.", "src": ["Turath rawi"]},
+    "catatan": null
+  },
+  {
+    "id": "n3857",
+    "identitas": {"lahir": null, "umur": null, "wafat": "76 H (basis data rawi); dalam al-Ishabah disebutkan perbedaan riwayat: Ibnu 'Umarah menyebut ia gugur syahid di Uhud, namun al-Waqidi menolak itu dan menyatakan ia hidup hingga wafat pada masa kekhalifahan Utsman.", "makam": null, "src": ["Turath rawi", "al-Ishabah 4/180"]},
+    "kabilah_tabaqat": {"t": "Disebutkan oleh Musa bin Uqbah, Ibnu Ishaq, dan lainnya termasuk yang ikut dalam Perang Badar.", "src": ["al-Ishabah 4/180"]},
+    "nisbah_rihlah": {"t": "Tinggal/menetap di Madinah, kemudian Kufah dan Bashrah.", "src": ["Turath rawi"]},
+    "laqab_profesi": null,
+    "peran": {"t": "Disebutkan ikut Badar; ada riwayat (Ibnu 'Umarah) bahwa ia gugur syahid di Uhud, namun al-Waqidi menolaknya dan menyatakan ia tetap hidup hingga wafat pada masa Utsman. Termasuk kalangan tabi'in senior, dikatakan pernah melihat Nabi ﷺ (ru'yah).", "src": ["al-Ishabah 4/180", "Turath rawi"]},
+    "hilf": null,
+    "syaraf": {"t": "Nasabnya jelas sebagai Quraisy dari jalur Abdu Manaf; termasuk tokoh besar tabi'in.", "src": ["Turath rawi"]},
+    "catatan": null
+  },
+  {
+    "id": "s4306",
+    "identitas": {"lahir": null, "umur": null, "wafat": null, "makam": null, "src": []},
+    "kabilah_tabaqat": {"t": "Bani Hasyim dari Quraisy; putri al-Harits bin Abdul Muththalib, disebutkan Ibnu Sa'd dalam golongan Sahabiyyat, bab putri-putri paman Nabi ﷺ.", "src": ["al-Ishabah 8/7"]},
+    "nisbah_rihlah": null,
+    "laqab_profesi": null,
+    "peran": null,
+    "hilf": null,
+    "syaraf": {"t": "Nasabnya sebagai cucu Abdul Muththalib dari jalur al-Harits disebutkan tanpa perselisihan dalam al-Ishabah.", "src": ["al-Ishabah 8/7"]},
+    "catatan": {"t": "Menikah dengan Abu Wada'ah, melahirkan al-Muththalib, Abu Sufyan, Umm Jamil, Umm Hakim, dan ar-Rab'ah.", "src": ["al-Ishabah 8/7"]}
+  },
+  {
+    "id": "n10053",
+    "identitas": {"lahir": null, "umur": "74 tahun", "wafat": "40 H; ada riwayat lain 42 H (al-Marzubani).", "makam": "Madinah", "src": ["Turath rawi", "al-Ishabah 2/291", "Ibnu Sa'd 3/477"]},
+    "kabilah_tabaqat": {"t": "Dari Bani 'Amr bin 'Auf, kabilah Aus (jalur Imri'ul Qais bin Tsa'labah); ikut Perang Uhud dan seluruh peperangan sesudahnya bersama Nabi ﷺ.", "src": ["al-Ishabah 2/291", "Ibnu Sa'd 3/477"]},
+    "nisbah_rihlah": {"t": "Menetap dan wafat di Madinah.", "src": ["Ibnu Sa'd 3/477"]},
+    "laqab_profesi": {"t": "Dikenal sebagai 'Shahib Dzat an-Nahyain' (pemilik kisah dua kantong samin) di masa jahiliah karena sebuah tipu muslihat terhadap seorang wanita penjual samin; setelah masuk Islam keislamannya baik. Ia juga dikenal pandai bersyair (pernah melantunkan syair di hadapan Umar bin al-Khattab).", "src": ["al-Ishabah 2/291", "Ibnu Sa'd 3/477"]},
+    "peran": {"t": "Berangkat bersama Nabi ﷺ ke Badar namun terluka di ar-Rawha sehingga dikembalikan ke Madinah; Nabi ﷺ tetap memberinya bagian (sahm) dan pahala seolah ia turut serta. Ikut Perang Uhud, Khandaq, dan seluruh peperangan bersama Nabi ﷺ.", "src": ["Ibnu Sa'd 3/477"]},
+    "hilf": {"t": "Hanzalah bin Habib, kakek dari jalur salah satu istrinya, adalah sekutu (halif) Bani Tsa'labah bin Amr bin Auf.", "src": ["Ibnu Sa'd 3/477"]},
+    "syaraf": {"t": "Nasabnya disepakati; ia termasuk sahabat yang dikenal baik keislamannya setelah sebelumnya terkenal dengan satu kisah muslihat di masa jahiliah.", "src": ["Ibnu Sa'd 3/477"]},
+    "catatan": {"t": "Terdapat perbedaan riwayat mengenai kunyahnya: Abu Abdullah atau Abu Shalih.", "src": ["al-Ishabah 2/291", "Ibnu Sa'd 3/477"]}
+  },
+  {
+    "id": "n2935",
+    "identitas": {"lahir": null, "umur": "70 tahun", "wafat": "38 H (Ibnu Sa'd); ada yang mengatakan 39 H (Ibnul Atsir).", "makam": null, "src": ["Turath rawi", "al-Ishabah 3/364"]},
+    "kabilah_tabaqat": {"t": "Dari an-Namr bin Qasith; termasuk golongan yang disiksa (mustad'afin) karena mempertahankan Islam, dan ikut Perang Badar serta peperangan sesudahnya.", "src": ["al-Ishabah 3/364"]},
+    "nisbah_rihlah": {"t": "Berasal dari wilayah Rum (ditawan sejak kecil dan dibesarkan di sana sehingga lisannya menjadi fasih logat asing/'alkan'); keluarganya semula bermukim di tepi sungai Dajlah dekat Mosul di bawah kekuasaan Kisra; kemudian dibeli dan dibawa ke Makkah, lalu hijrah ke Madinah bersama Ali bin Abi Thalib sebagai salah satu yang terakhir berhijrah pada tahun itu.", "src": ["al-Ishabah 3/364"]},
+    "laqab_profesi": {"t": "Dijuluki 'Shuhaib ar-Rumi'/'Sabiq ar-Rum' karena dibesarkan di kalangan Romawi; nama aslinya disebut Umairah sebelum dinamai Shuhaib oleh orang Rum.", "src": ["al-Ishabah 3/364"]},
+    "peran": {"t": "Masuk Islam bersama Ammar bin Yasir di Dar al-Arqam pada masa awal dakwah di Makkah; termasuk golongan yang disiksa karena Islam. Hijrah ke Madinah, ikut Badar dan seluruh peperangan bersama Nabi ﷺ. Saat hijrah, ia menyerahkan hartanya kepada orang-orang Quraisy yang mengejarnya sebagai tebusan keselamatan, sehingga Nabi ﷺ bersabda 'untung perniagaanmu' dan turun ayat al-Baqarah 207 berkenaan dengannya. Umar bin al-Khattab mewasiatkan agar ia memimpin shalat jenazahnya dan mengimami kaum muslimin sampai disepakati seorang khalifah.", "src": ["al-Ishabah 3/364"]},
+    "hilf": {"t": "Setelah dibeli dan dibebaskan oleh Abdullah bin Jad'an at-Taimi, ia menjadi sekutu/pengikut dekatnya di Makkah.", "src": ["al-Ishabah 3/364"]},
+    "syaraf": {"t": "Dikenal sangat dekat dan setia kepada Nabi ﷺ; ia mengaku tidak pernah absen dari satu pun peristiwa, baiat, atau peperangan bersama Nabi ﷺ.", "src": ["al-Ishabah 3/364"]},
+    "catatan": null
+  },
+  {
+    "id": "n4338",
+    "identitas": {"lahir": null, "umur": null, "wafat": null, "makam": null, "src": []},
+    "kabilah_tabaqat": null,
+    "nisbah_rihlah": null,
+    "laqab_profesi": null,
+    "peran": null,
+    "hilf": null,
+    "syaraf": {"t": "Statusnya sebagai sahabat Nabi ﷺ tercatat dalam basis data rawi.", "src": ["Turath rawi"]},
+    "catatan": null
+  },
+  {
+    "id": "s4435",
+    "identitas": {"lahir": null, "umur": null, "wafat": null, "makam": null, "src": []},
+    "kabilah_tabaqat": {"t": "Dari Bani Hawazin (Qais 'Aylan), bukan dari Quraisy; termasuk wanita pertama yang masuk Islam di Makkah setelah Khadijah binti Khuwailid.", "src": ["Ibnu Sa'd 8/277"]},
+    "nisbah_rihlah": {"t": "Berhijrah ke Madinah setelah suaminya, al-Abbas bin Abdul Muththalib, masuk Islam.", "src": ["Ibnu Sa'd 8/277"]},
+    "laqab_profesi": null,
+    "peran": {"t": "Termasuk wanita pertama yang masuk Islam di Makkah (setelah Khadijah); Nabi ﷺ sering mengunjungi dan beristirahat (qailah) di rumahnya. Ia mengasuh/menyusui al-Husain bin Ali.", "src": ["Ibnu Sa'd 8/277"]},
+    "hilf": null,
+    "syaraf": {"t": "Nasabnya dari Bani Hawazin disebutkan rinci; saudara-saudaranya antara lain Maimunah binti al-Harits (istri Nabi ﷺ) dan al-Asma' (Lubabah ash-Shughra, ibu Khalid bin al-Walid); Nabi ﷺ menyebut para saudari ini sebagai saudari-saudari yang beriman.", "src": ["Ibnu Sa'd 8/277"]},
+    "catatan": {"t": "Istri al-Abbas bin Abdul Muththalib; dikenal sangat dekat dengan Nabi ﷺ.", "src": ["Ibnu Sa'd 8/277"]}
+  },
+  {
+    "id": "n5098",
+    "identitas": {"lahir": null, "umur": null, "wafat": "Terdapat banyak versi: 11 H atau 12 H, 15 H, 18 H (dalam wabah Amwas pada masa kekhalifahan Umar - riwayat yang dianggap paling kuat oleh Ibnu Hajar dan sejalan dengan Ibnu Sa'd); ada pula yang menyebut terbunuh di Ajnadain atau Yarmuk pada masa Abu Bakar.", "makam": "Wilayah Yordania (al-Ardun)", "src": ["Turath rawi", "al-Ishabah 5/287", "Ibnu Sa'd 4/54"]},
+    "kabilah_tabaqat": {"t": "Bani Hasyim dari Quraisy; putra tertua al-Abbas bin Abdul Muththalib, sepupu Nabi ﷺ.", "src": ["al-Ishabah 5/287", "Ibnu Sa'd 4/54"]},
+    "nisbah_rihlah": {"t": "Dari Makkah, kemudian berjihad ke wilayah Syam dan wafat di daerah Yordania.", "src": ["Ibnu Sa'd 4/54"]},
+    "laqab_profesi": null,
+    "peran": {"t": "Ikut bersama Nabi ﷺ dalam penaklukan Makkah dan Perang Hunain, tetap bertahan ketika pasukan lain kocar-kacir; ikut Haji Wada' dan diboncengkan (diardafkan) oleh Nabi ﷺ. Nabi ﷺ menikahkannya dan membayar maharnya dari harta beliau sendiri. Termasuk yang memandikan dan menguburkan jenazah Nabi ﷺ, kemudian pergi berjihad ke Syam hingga wafat di sana.", "src": ["al-Ishabah 5/287", "Ibnu Sa'd 4/54"]},
+    "hilf": null,
+    "syaraf": {"t": "Nasabnya sebagai putra tertua al-Abbas disepakati; ia dikenal dekat dengan Nabi ﷺ, sering diboncengkan beliau dan menjadi tempat beliau menegur adab memandang.", "src": ["al-Ishabah 5/287", "Ibnu Sa'd 4/54"]},
+    "catatan": {"t": "Hanya memiliki satu anak, Umm Kulthum, dari istrinya Shafiyyah binti Mihmiyah.", "src": ["Ibnu Sa'd 4/54"]}
+  }
+]

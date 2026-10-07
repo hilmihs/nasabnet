@@ -1,0 +1,16 @@
+[
+{"rid": "Turath · data rawi: سعد بن عائذ", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: سعيد بن زيد بن عمرو بن نفيل", "ok": 2, "issues": []},
+{"rid": "Turath · data rawi: سعيد بن سعد بن عبادة", "ok": 11, "issues": []},
+{"rid": "Turath · data rawi: سعيد بن يربوع بن عنكثة بن عامر بن مخزوم", "ok": 15, "issues": []},
+{"rid": "Turath · data rawi: سهل بن حنيف", "ok": 4, "issues": []},
+{"rid": "Turath · data rawi: سهل بن سعد", "ok": 2, "issues": []},
+{"rid": "Turath · data rawi: شيبة بن عثمان بن أبي طلحة", "ok": 10, "issues": [
+  {"s": "n13117", "t": "n2825", "k": "sibling", "verdict": "wrong", "why": "teks: Mush'ab bin Umair adalah saudara ibunya (Ummu Jamil), yaitu paman (khal) Syaibah — bukan saudara (sibling) Syaibah sendiri"}
+]},
+{"rid": "Turath · data rawi: صفوان بن أمية بن خلف", "ok": 11, "issues": []},
+{"rid": "Turath · data rawi: صفية", "ok": 3, "issues": [
+  {"s": "n2940", "t": "n8734", "k": "sibling", "verdict": "unsure", "why": "teks: Dhuba'ah juga disebut sebagai salah satu nama lain subjek sendiri (Shafiyyah/Atikah/Dhuba'ah), sehingga tak jelas apakah ini saudara beda orang atau nama alternatif subjek"}
+]},
+{"rid": "Turath · data rawi: صفية بنت حيي بن أخطب بن سعنة بن ثعلبة", "ok": 2, "issues": []}
+]

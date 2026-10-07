@@ -1,0 +1,11 @@
+[
+{"fid":"F41","verdict":"ok","why":"'Juhaniyyah' hanya nisbah feminin milik Khaulah sendiri, cocok dgn ayah Qais al-Juhani.","ops":[]},
+{"fid":"F42","verdict":"ok","why":"'Juhaniyyah' hanya nisbah feminin milik Saudah sendiri; teks menegaskan ayahnya memiliki shuhbah, sesuai edge.","ops":[]},
+{"fid":"F43","verdict":"ok","why":"Teks eksplisit 'al-Mu'adzdzal wa huwa Khalid bin Amr...' — laqab=ism orang yg sama, sesuai edge.","ops":[]},
+{"fid":"F44","verdict":"ok","why":"'Kinaniyyah' hanya nisbah feminin milik Ummu Hakim sendiri, cocok dgn ayah Thariq al-Kinani.","ops":[]},
+{"fid":"F45","verdict":"fix","why":"Nasab lengkap Laila berlanjut 'bin Adi bin Mujda'ah bin Haritsah' (Ansari Aus), beda dari Rafi' bin Amr al-Muzani al-Bashri (n1930) yg jelas tokoh/zaman lain.","ops":[{"op":"drop_edge","s":"n1930","t":"s4548","k":"parent"}]},
+{"fid":"F46","verdict":"ok","why":"'Haritsiyyah' hanya nisbah feminin milik Ummu adh-Dhahhak sendiri, cocok dgn ayah Mas'ud al-Haritsi.","ops":[]},
+{"fid":"F47","verdict":"ok","why":"Teks: 'Abu Ahmad bin Jahsy bin Ri'ab, ismnya Abdullah' — kunya Abu Ahmad = s425 (Abdullah bin Jahsy) sendiri, edge parent ke anaknya konsisten.","ops":[]},
+{"fid":"F48","verdict":"fix","why":"Nasab Amr bin Haram bin Tsa'labah (leluhur jalur Jabir bin Abdullah, Bani Salamah) jelas Khazraj Ansari; tag 'amir' keliru.","ops":[{"op":"set_tribe","id":"xf0cff828","tribe":"khazraj"}]},
+{"fid":"F49","verdict":"fix","why":"Sama dgn F48: Amr bin Haram bin Tsa'labah adalah Khazraj Ansari (Bani Salamah), tag 'amir' keliru.","ops":[{"op":"set_tribe","id":"xf0cff828","tribe":"khazraj"}]}
+]

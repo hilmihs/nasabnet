@@ -1,0 +1,14 @@
+[
+{"rid": "Turath · data rawi: حذيفة بن اليمان", "ok": 6, "issues": []},
+{"rid": "Turath · data rawi: حفصة بنت عمر بن الخطاب", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: حنين", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: خالد بن الوليد بن المغيرة", "ok": 9, "issues": []},
+{"rid": "Turath · data rawi: خباب", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: خزيمة بن ثابت بن الفاكه بن ثعلبة بن ساعدة", "ok": 2, "issues": [
+  {"s": "n1786", "t": "n3256", "k": "sibling", "verdict": "wrong", "why": "teks: saudaranya adalah anak Tsabit bin al-Fakih bin Tsa'labah bin Sa'adah (nasab subjek sendiri), bukan anak Tsabit bin ash-Shamit — orang lain yang beda nasab"}
+]},
+{"rid": "Turath · data rawi: خوات بن جبير بن النعمان بن أمية بن البرك", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: خيرة", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: رافع بن خديج", "ok": 11, "issues": []},
+{"rid": "Turath · data rawi: رافع بن مالك الزرقي", "ok": 1, "issues": []}
+]

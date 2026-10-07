@@ -1,0 +1,11 @@
+[
+{"fid": "F90", "verdict": "fix", "why": "Relations Sufyan bin Abdullah menyebut langsung 'banuhu:...wa Alqamah'; keluarga ini Thaqif bukan hasyim.", "ops": [{"op":"set_tribe","id":"n15852","tribe":"tsaqif"}]},
+{"fid": "F91", "verdict": "fix", "why": "Relations Sufyan bin Abdullah menyebut langsung 'banuhu:...wa Abu al-Hakam'; keluarga ini Thaqif bukan hasyim.", "ops": [{"op":"set_tribe","id":"xb3962a1d","tribe":"tsaqif"}]},
+{"fid": "F92", "verdict": "ok", "why": "Hedge 'al-Muhabbaq: Shakhr bin Ubaid' cocok persis relasi ayah.", "ops": []},
+{"fid": "F93", "verdict": "ok", "why": "Hedge nasab Khalifah bin Khayyath tentang al-Had cocok persis relasi ayah.", "ops": []},
+{"fid": "F94", "verdict": "ok", "why": "Teks menegaskan 'wa ismu Jutsamah Wahb' - cocok persis relasi ayah 'Wahb bin Qais bin Abdullah'.", "ops": []},
+{"fid": "F95", "verdict": "fix", "why": "Suhaib adalah halif/mawla Abdullah bin Jud'an at-Taimi namun nasabnya sendiri rum; sesuai aturan halif, anak (Hamzah, disebut langsung di relations) seharusnya tetap rum bukan taim.", "ops": [{"op":"set_tribe","id":"n1637","tribe":"rum"}]},
+{"fid": "F96", "verdict": "ok", "why": "Hedge 'ath-Thufail bin Abdullah bin Sakhbarah' cocok persis relasi ayah.", "ops": []},
+{"fid": "F97", "verdict": "fix", "why": "Nasab lengkap 'Amir bin Rabi'ah bin Ka'ab bin Malik bin Rabi'ah...bin Anz bin Wa'il bin Qasit' adalah garis Anz/Rabi'ah, berbeda dari n1980 'Rabi'ah bin Ka'ab al-Aslami' (Ahlus Suffah); homonim 'Rabi'ah bin Ka'ab' tertukar.", "ops": [{"op":"drop_edge","s":"n1980","t":"n3068","k":"parent"}]},
+{"fid": "F98", "verdict": "fix", "why": "Relations n3256 menyebut langsung 'walad: Abdullah, wa Abdurrahman bin Abdurrahman'; keluarga ini Aus/Abdul Asyhal, 'Adi' di sini sub-klan bukan kabilah terpisah.", "ops": [{"op":"set_tribe","id":"n18491","tribe":"aus"}]}
+]

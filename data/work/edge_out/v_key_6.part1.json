@@ -1,0 +1,14 @@
+[
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/475", "ok": 2, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/476", "ok": 2, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/477", "ok": 4, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/478", "ok": 2, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/479", "ok": 1, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/48", "ok": 3, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/482", "ok": 1, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/49", "ok": 17, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/496", "ok": 1, "issues": [
+  {"s": "n5066", "t": "x9dde794c", "k": "spouse", "verdict": "wrong", "why": "teks: 'Fatimah binti Muhammad' adalah perawi biasa, bukan Fatimah az-Zahra putri Nabi; beda orang (namesake)"}
+]},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/50", "ok": 21, "issues": []}
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "id": "n6157",
+    "identitas": {"lahir": null, "umur": null, "wafat": "Pada masa kekhalifahan Utsman bin Affan", "makam": null, "src": ["Turath rawi"]},
+    "kabilah_tabaqat": {"t": "Dari Bani Makhzum (Quraisy); ia dan ayahnya (Hazn bin Abi Wahb) sama-sama tercatat sebagai sahabat.", "src": ["Turath rawi"]},
+    "nisbah_rihlah": null,
+    "laqab_profesi": null,
+    "peran": null,
+    "hilf": null,
+    "syaraf": null,
+    "catatan": null
+  },
+  {
+    "id": "s771",
+    "identitas": {"lahir": null, "umur": null, "wafat": null, "makam": null, "src": []},
+    "kabilah_tabaqat": {"t": "Dari Anshar, Bani Salamah; termasuk peserta Baiat Aqabah dan Ahlu Badar.", "src": ["Ibnu Sa'd 3/572"]},
+    "nisbah_rihlah": null,
+    "laqab_profesi": null,
+    "peran": {"t": "Ikut Baiat Aqabah (disepakati semua riwayat), serta ikut Perang Badar dan Uhud.", "src": ["Ibnu Sa'd 3/572"]},
+    "hilf": null,
+    "syaraf": null,
+    "catatan": {"t": "Memiliki keturunan, namun telah terputus (punah).", "src": ["Ibnu Sa'd 3/572"]}
+  },
+  {
+    "id": "n12095",
+    "identitas": {"lahir": null, "umur": null, "wafat": "12 H, syahid dalam Perang Jiwatha (perang Riddah) di Yamamah, pada masa kekhalifahan Abu Bakar", "makam": null, "src": ["Turath rawi", "al-Ishabah 4/133", "Ibnu Sa'd 3/540"]},
+    "kabilah_tabaqat": {"t": "Dari Anshar, Khazraj, Bani 'Auf; putra Abdullah bin Ubay bin Salul, pemimpin kaum munafik di akhir masa jahiliah.", "src": ["Ibnu Sa'd 3/540", "al-Ishabah 4/133"]},
+    "nisbah_rihlah": null,
+    "laqab_profesi": {"t": "Nama aslinya al-Hubab, diganti oleh Nabi ﷺ menjadi Abdullah karena 'Hubab' adalah nama setan.", "src": ["Ibnu Sa'd 3/540"]},
+    "peran": {"t": "Masuk Islam dengan baik; ikut Badar (diperselisihkan oleh Ibnu Hibban), Uhud, Khandaq, dan seluruh peperangan Nabi ﷺ. Meminta izin membunuh ayahnya sendiri (tokoh munafik) karena sikapnya, namun Nabi ﷺ melarang dan memerintahkan berbuat baik kepadanya. Saat ayahnya wafat, ia meminta baju Nabi ﷺ untuk mengkafaninya, dan Nabi ﷺ turut menshalatkan serta berdiri di kuburnya menghiburnya. Disebut sebagai salah seorang juru tulis Nabi ﷺ menurut Ibnu Abdul Barr. Gugur syahid dalam Perang Jiwatha di Yamamah tahun 12 H pada masa Abu Bakar.", "src": ["al-Ishabah 4/133", "Ibnu Sa'd 3/540"]},
+    "hilf": null,
+    "syaraf": {"t": "Nasabnya tsabit meski dikenal dengan sebutan 'Ibn Abay Ibn Salul' yang dinisbahkan kepada neneknya Salul (perempuan dari Khuza'ah); status keikutsertaannya di Badar diperselisihkan (Ibnu Syihab dan Urwah memasukkannya, Ibnu Hibban menolaknya).", "src": ["al-Ishabah 4/133"]},
+    "catatan": {"t": "Ia memiliki keturunan (aqib) yang bersambung setelahnya.", "src": ["Ibnu Sa'd 3/540"]}
+  },
+  {
+    "id": "n3544",
+    "identitas": {"lahir": null, "umur": null, "wafat": "Pada malam-malam terjadinya pembunuhan Utsman bin Affan", "makam": null, "src": ["Turath rawi"]},
+    "kabilah_tabaqat": {"t": "Dari Bani Makhzum (Quraisy).", "src": ["Turath rawi"]},
+    "nisbah_rihlah": {"t": "Yaman, ada yang mengatakan Madinah.", "src": ["Turath rawi"]},
+    "laqab_profesi": {"t": "Namanya pada masa jahiliah adalah Buhaira; setelah masuk Islam, Rasulullah ﷺ menamainya Abdullah.", "src": ["Turath rawi"]},
+    "peran": null,
+    "hilf": null,
+    "syaraf": {"t": "Nama ayahnya diperselisihkan: ada yang menyebut Amr, ada yang menyebut Hudzaifah, bin al-Mughirah.", "src": ["Turath rawi"]},
+    "catatan": {"t": "Kutipan al-Ishabah yang tersedia untuk entri ini ternyata membahas 'Abdullah bin Abi Rabi'ah ats-Tsaqafi', tokoh lain yang berbeda nasab (Tsaqafi, bukan Makhzumi), sehingga tidak digunakan sebagai sumber.", "src": []}
+  },
+  {
+    "id": "s425",
+    "identitas": {"lahir": null, "umur": "Di atas 40 tahun saat wafat", "wafat": "Syahid pada Perang Uhud", "makam": "Satu liang kubur dengan pamannya, Hamzah bin Abdul Muththalib", "src": ["al-Ishabah 4/31", "Ibnu Sa'd 3/89"]},
+    "kabilah_tabaqat": {"t": "Dari Bani Asad bin Khuzaimah, hilf (sekutu) Bani Abdu Syams; ibunya Umaimah binti Abdul Muththalib (sepupu Nabi ﷺ dari pihak ibu). Termasuk as-sabiqun al-awwalun dan Ahlu Badar.", "src": ["al-Ishabah 4/31", "Ibnu Sa'd 3/89"]},
+    "nisbah_rihlah": {"t": "Masuk Islam sebelum Nabi ﷺ masuk ke rumah al-Arqam di Makkah; hijrah ke Habasyah pada rombongan kedua bersama saudaranya Ubaidullah, lalu kembali ke Makkah setelah Ubaidullah berpindah ke Nasrani dan wafat di sana; kemudian hijrah ke Madinah.", "src": ["Ibnu Sa'd 3/89"]},
+    "laqab_profesi": {"t": "Dijuluki 'al-Mujadda' fi Allah' (yang terpotong anggota tubuhnya di jalan Allah) dan 'al-'Urjun' karena pedangnya yang patah diganti Nabi ﷺ dengan pelepah kurma yang berubah menjadi pedang di tangannya pada Perang Uhud.", "src": ["al-Ishabah 4/31"]},
+    "peran": {"t": "Hijrah ke Habasyah, ikut Badar, menjadi amir pertama dalam Islam saat memimpin sebuah sariyyah (dipilih Nabi ﷺ sebagai 'orang paling sabar menahan lapar dan haus'), kemudian memimpin ekspedisi ke Nakhlah pada bulan Rajab, 17 bulan setelah Hijrah. Dipersaudarakan (mu'akhah) Nabi ﷺ dengan Ashim bin Tsabit. Berdoa memohon syahid sebelum Perang Uhud dan terbunuh sesuai doanya.", "src": ["al-Ishabah 4/31", "Ibnu Sa'd 3/89"]},
+    "hilf": {"t": "Hilf (sekutu) Bani Abdu Syams.", "src": ["al-Ishabah 4/31"]},
+    "syaraf": null,
+    "catatan": {"t": "Nabi ﷺ mengurus warisannya dan membelikan tanah di Khaibar untuk putranya.", "src": ["Ibnu Sa'd 3/89"]}
+  },
+  {
+    "id": "n3670",
+    "identitas": {"lahir": null, "umur": null, "wafat": "60-an Hijriah, pada masa pemerintahan Ibnu az-Zubair di Makkah", "makam": "Makkah", "src": ["al-Ishabah 4/89", "Turath rawi"]},
+    "kabilah_tabaqat": {"t": "Dari Bani Makhzum (Quraisy); ia dan ayahnya (as-Sa'ib) sama-sama tercatat sebagai sahabat.", "src": ["Turath rawi"]},
+    "nisbah_rihlah": {"t": "Tinggal dan menetap di Makkah.", "src": ["al-Ishabah 4/89"]},
+    "laqab_profesi": {"t": "Qari' (ahli baca Al-Qur'an) penduduk Makkah; Mujahid belajar bacaan Al-Qur'an darinya.", "src": ["al-Ishabah 4/89"]},
+    "peran": {"t": "Menyaksikan Nabi ﷺ membaca Surah al-Mu'minun dalam shalat Subuh pada masa Fathu Makkah, dan menyaksikan shalat Id bersama Nabi ﷺ.", "src": ["al-Ishabah 4/89"]},
+    "hilf": null,
+    "syaraf": {"t": "Ibnu Mandah keliru menyebutnya 'al-Qari dari suku al-Qarah'; yang benar ia dijuluki Qari' (pembaca Al-Qur'an) penduduk Makkah. Sebuah riwayat tentang baiat kepada Nabi ﷺ di Makkah yang disandarkan padanya sesungguhnya lebih tepat milik ayahnya, as-Sa'ib.", "src": ["al-Ishabah 4/89"]},
+    "catatan": {"t": "Wafat di Makkah pada masa pemerintahan Ibnu az-Zubair, dan dishalatkan oleh Ibnu Abbas.", "src": ["al-Ishabah 4/89"]}
+  },
+  {
+    "id": "n15296",
+    "identitas": {"lahir": null, "umur": "90 tahun", "wafat": "Pada masa kekhalifahan Utsman bin Affan", "makam": "Baqi' (Madinah)", "src": ["al-Ishabah 8/9", "Ibnu Sa'd 8/229", "Turath rawi"]},
+    "kabilah_tabaqat": {"t": "Dari Bani Abdu Syams (Quraisy); ibunya Ummu Hakim al-Baidha binti Abdul Muththalib (bibi Nabi ﷺ). Ibu dari Khalifah Utsman bin Affan.", "src": ["Ibnu Sa'd 8/229"]},
+    "nisbah_rihlah": {"t": "Hijrah ke Madinah setelah putrinya Umm Kultsum, dan menetap di Madinah hingga wafat.", "src": ["al-Ishabah 8/9", "Ibnu Sa'd 8/229"]},
+    "laqab_profesi": null,
+    "peran": {"t": "Menikah dengan Affan bin Abi al-'Ash, melahirkan Utsman bin Affan dan Aminah; kemudian menikah dengan Uqbah bin Abi Mu'ayth, melahirkan al-Walid, Umarah, Khalid, Umm Kultsum, Umm Hakim, dan Hind. Masuk Islam, berhijrah, dan berbaiat kepada Rasulullah ﷺ; disebut termasuk wanita yang masuk Islam lebih dahulu bersama Umm Thalhah, Umm 'Ammar, Umm Abi Bakar, Umm az-Zubair, dan Umm Abdurrahman bin Auf.", "src": ["al-Ishabah 8/9", "Ibnu Sa'd 8/229"]},
+    "hilf": null,
+    "syaraf": null,
+    "catatan": {"t": "Saat wafat, putranya Khalifah Utsman sendiri memikul jenazahnya dan menshalatkannya sendirian di masjid setelah orang-orang selesai shalat, lalu berdoa untuknya di kuburnya.", "src": ["al-Ishabah 8/9", "Ibnu Sa'd 8/229"]}
+  },
+  {
+    "id": "s4304",
+    "identitas": {"lahir": null, "umur": null, "wafat": null, "makam": null, "src": []},
+    "kabilah_tabaqat": {"t": "Dari Bani Hasyim (Quraisy), putri al-Muqawwim bin Abdul Muththalib.", "src": ["al-Ishabah 8/10"]},
+    "nisbah_rihlah": null,
+    "laqab_profesi": null,
+    "peran": {"t": "Az-Zubair menyebutkan bahwa ia adalah istri sepupunya, Abu Sufyan bin al-Harits, dan melahirkan beberapa putri darinya. Riwayat lain yang dikutip dari Ibnu Sa'd dalam al-Ishabah menyebut ia menikah dengan Abu Masruh al-Harits bin Ya'mar—sekutu (halif) al-Abbas bin Abdul Muththalib—dan melahirkan Abdullah bin Abi Masruh.", "src": ["al-Ishabah 8/10"]},
+    "hilf": null,
+    "syaraf": {"t": "Riwayat tentang suaminya berbeda-beda: az-Zubair menyebut suaminya Abu Sufyan bin al-Harits, sementara kutipan dari Ibnu Sa'd dalam al-Ishabah menyebut Abu Masruh al-Harits bin Ya'mar.", "src": ["al-Ishabah 8/10"]},
+    "catatan": {"t": "Kutipan Ibnu Sa'd yang tersedia untuk entri ini ternyata memuat teks tentang Ummu Amr binti al-Muqawwim (tokoh lain), bukan Arwa, sehingga tidak digunakan sebagai sumber.", "src": []}
+  },
+  {
+    "id": "n7746",
+    "identitas": {"lahir": null, "umur": null, "wafat": "Terjadi perbedaan riwayat: al-Waqidi menyebut sekitar 9 bulan setelah Hijrah, Ibnu Ishaq menyebut saat Nabi ﷺ sedang membangun masjid, ahli sejarah dan maghazi sepakat ia wafat pada masa hidup Nabi ﷺ sebelum Badar, sementara Ibnu Hajar dalam at-Ta'jil menyebut tahun 1 H sebelum Badar; menurut Ibnu Sa'd ia wafat bulan Syawal, sembilan bulan setelah Hijrah.", "makam": "Madinah", "src": ["Turath rawi", "Ibnu Sa'd 3/608"]},
+    "kabilah_tabaqat": {"t": "Dari Anshar, Bani an-Najjar (Khazraj); salah seorang Naqib dari dua belas Naqib malam Aqabah, termasuk yang pertama masuk Islam dari kalangan Anshar.", "src": ["Ibnu Sa'd 3/608"]},
+    "nisbah_rihlah": null,
+    "laqab_profesi": null,
+    "peran": {"t": "Disebut orang pertama masuk Islam dari Anshar, termasuk dalam enam orang pertama, kemudian dalam dua belas orang Baiat Aqabah pertama, dan salah seorang Naqib dari tujuh puluh orang pada Baiat Aqabah kedua. Memegang tangan Rasulullah ﷺ pada malam Aqabah dan menyampaikan syarat-syarat baiat kepada kaumnya. Sebelum Nabi ﷺ hijrah, ia membangun sebuah masjid dan mengimami shalat lima waktu serta Jumat bagi kaumnya di sana, dan bersama kaumnya menghancurkan berhala-berhala Bani Malik bin an-Najjar setelah masuk Islam.", "src": ["Ibnu Sa'd 3/608"]},
+    "hilf": null,
+    "syaraf": {"t": "Ia adalah Naqib (pemimpin terpilih) Anshar pada malam Aqabah; tidak memiliki anak laki-laki, keturunannya hanya melalui tiga putrinya (Habibah, Kabsyah, al-Furai'ah), sementara 'aqib' (penerus garis) justru melalui saudaranya, Sa'd bin Zurarah.", "src": ["Ibnu Sa'd 3/608"]},
+    "catatan": {"t": "Ia mengidap sakit tenggorokan (adh-dhibhah) dan dikauter (dikobong) oleh Rasulullah ﷺ untuk mengobatinya.", "src": ["Ibnu Sa'd 3/608"]}
+  },
+  {
+    "id": "n625",
+    "identitas": {"lahir": null, "umur": null, "wafat": "Setelah wafatnya Ali bin Abi Thalib", "makam": null, "src": ["Turath rawi"]},
+    "kabilah_tabaqat": {"t": "Dari suku Khats'am; termasuk sahabat wanita yang masuk Islam sejak awal sebelum Nabi ﷺ masuk ke rumah al-Arqam di Makkah.", "src": ["Ibnu Sa'd 8/280"]},
+    "nisbah_rihlah": {"t": "Hijrah ke Habasyah bersama suaminya Ja'far bin Abi Thalib, lalu kembali dan menetap di Madinah sekitar masa Perang Khaibar.", "src": ["Ibnu Sa'd 8/280", "Turath rawi"]},
+    "laqab_profesi": null,
+    "peran": {"t": "Hijrah ke Habasyah bersama Ja'far bin Abi Thalib, melahirkan Abdullah, Muhammad, dan 'Aun di sana. Setelah Ja'far syahid di Perang Mu'tah (Jumadil Awal 8 H), Nabi ﷺ menyatakan ia memiliki dua hijrah. Setelah itu menikah dengan Abu Bakar ash-Shiddiq dan melahirkan Muhammad bin Abi Bakar, lalu Abu Bakar wafat meninggalkannya.", "src": ["Ibnu Sa'd 8/280"]},
+    "hilf": null,
+    "syaraf": null,
+    "catatan": {"t": "Ia yang memandikan jenazah Abu Bakar ash-Shiddiq saat wafat.", "src": ["Ibnu Sa'd 8/280"]}
+  }
+]

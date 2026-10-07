@@ -16,3 +16,6 @@ data/work/ibnsad_sections.json
 # local
 .DS_Store
 *.log
+
+# local browser-test artefacts
+.playwright-mcp/

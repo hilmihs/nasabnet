@@ -1,0 +1,16 @@
+[
+  {"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/43", "ok": 5, "issues": []},
+  {"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/437", "ok": 1, "issues": []},
+  {"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/438", "ok": 6, "issues": []},
+  {"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/439", "ok": 1, "issues": []},
+  {"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/444", "ok": 2, "issues": []},
+  {"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/445", "ok": 2, "issues": []},
+  {"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/448", "ok": 1, "issues": []},
+  {"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/449", "ok": 1, "issues": []},
+  {"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/45", "ok": 19, "issues": []},
+  {"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/450", "ok": 3, "issues": [
+    {"s": "s4837", "t": "n1059", "k": "parent", "verdict": "wrong", "why": "teks: anak bernama Tsabit bin Zaid bin Malik bin Abdu Wudd (Aus, Bani Abdul Asyhal); node yang diresolve 'Tsabit bin Wadi'ah' bernasab suku Hubla/Khazraj, orang lain"},
+    {"s": "s4837", "t": "x227af13b", "k": "parent", "verdict": "wrong", "why": "Abu Muhammad Mas'ud bin Aus adalah anak Amrah ATS-TSANIYAH (dari suami Aus bin Zaid bin Asram) menurut teks ini, bukan anak Amrah al-Ula (s4837)"},
+    {"s": "s4837", "t": "x1b114b16", "k": "parent", "verdict": "wrong", "why": "Amr bin Sahl bin Ma'bad adalah anak Amrah ATS-TSANIYAH (dari suami Sahl bin Tsa'labah) menurut teks ini, bukan anak Amrah al-Ula (s4837)"}
+  ]}
+]

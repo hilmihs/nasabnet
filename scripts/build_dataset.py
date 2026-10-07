@@ -13,10 +13,11 @@ Pipeline
   3. derive tribe, categories, patrilineal line; validate; write JSON
 """
 import glob
+import hashlib
 import itertools
 import json
 import re
-from collections import defaultdict
+from collections import Counter, defaultdict
 from datetime import date
 from pathlib import Path
 
@@ -28,7 +29,7 @@ WORK = ROOT / "data" / "work"
 OUT = ROOT / "web" / "public" / "data" / "nasabnet.json"
 
 IBNSAD_BOOK = 9351
-COMPANION_RANK = re.compile(r"(?:^|[\s،,(])(?:صحابي|صحابية)|له صحبة|له رؤية|صحبته|أم المؤمنين|أحد العشرة|احد العشرة")
+COMPANION_RANK = re.compile(r"(?:^|[\s،,(])(?:صحابي|صحابية)|من الصحابة|كبار الصحابة|صغار الصحابة|له صحبة|له رؤية|صحبته|أم المؤمنين|أحد العشرة|احد العشرة")
 FEMALE_RANK = {"صحابية", "مقبولة", "مستورة", "لا تعرف", "مجهولة", "لا يعرف حالها", "ثقة فقيهة"}
 
 
@@ -182,6 +183,9 @@ class Registry:
             # a 3-link mention may only merge into a 2-link record (never two diverging 3-link chains)
             if len(line) >= 2:
                 c2 = {x for x in c2 if all(len(l) <= 1 for _, l in self.p[x]["chains"])}
+            # the Prophet's household is only matched on a full chain (k3) or an explicit "رسول الله",
+            # never on a short namesake like "فاطمة بنت محمد" (wife of 'Abdullah bin Abi Bakr)
+            c2 -= getattr(self, "protected", set())
             hit = self._pick(c2, g) if c2 else None
             if hit:
                 return hit
@@ -194,8 +198,13 @@ class Registry:
                 return self.register_narrator(self.pool_rows[nid], comp=False)
         if not create:
             return None
+        # stable id from the normalised name, so corrections (data/corrections.json) survive rebuilds
         self.stub_n += 1
-        pid = f"x{self.stub_n}"
+        h = hashlib.sha1(norm(t).encode()).hexdigest()[:8]
+        pid, k = f"x{h}", 1
+        while pid in self.p:
+            k += 1
+            pid = f"x{h}{k}"
         self.add(pid, ar=re.sub(r"\s+", " ", t)[:80], lat=lat or translit(t), g=g or guess_gender(t))
         self.index(pid, t, ism, line)
         if src:
@@ -299,18 +308,33 @@ HINT_WORDS = [
 ]
 
 
+QURAYSH_CLANS = {"hasyim", "muthalib", "umayyah", "naufal", "asad", "abduddar", "zuhrah", "taim", "makhzum", "adi", "sahm", "jumah", "amir", "fihr"}
+QURAYSH_MARKERS = {norm(x) for x in ("لؤي", "غالب", "فهر", "قصي", "كلاب", "مرة", "عبد مناف", "هاشم", "عبد المطلب", "النضر", "كنانة")}
+
+
 def tribe_from_chain(names):
     n = [norm(x) for x in names]
     for i in range(len(n)):
         if i + 1 < len(n) and (n[i], n[i + 1]) in CLAN_PAIRS:
-            return CLAN_PAIRS[(n[i], n[i + 1])]
+            t = CLAN_PAIRS[(n[i], n[i + 1])]
+            # "عدي بن كعب" also exists in Khazraj, "سعد بن تيم" elsewhere: a Quraysh clan pair only counts
+            # when the chain itself continues into Quraysh (Lu'ay, Ghalib, Fihr, Qushay…)
+            if t in QURAYSH_CLANS and not (set(n[i + 1 :]) & QURAYSH_MARKERS):
+                continue
+            return t
         if n[i] in CLAN_SINGLE:
+            # al-Khazraj / al-Aus of the Ansar are sons of Haritha; Kalb and Aus also have an "al-Khazraj"
+            if n[i] in ("الخزرج", "الاوس") and i + 1 < len(n) and n[i + 1] != "حارثه":
+                continue
             return CLAN_SINGLE[n[i]]
     return None
 
 
 def tribe_from_hint(text):
     if not text:
+        return None
+    # "ومن حلفاء بني زهرة" / "ومن موالي …": allies and clients are not of that clan by descent
+    if re.search(r"حلفاء|حليف|موالي|مولى", text):
         return None
     # pair detection first ("بني عدي بن كعب")
     names = [x for x in re.split(r"\s+(?:بن|ابن)\s+", re.sub(r"^.*?(?:بني|بنو)\s+", "", text)) if x]
@@ -409,6 +433,10 @@ def main():
             if re.fullmatch(r"n\d+", ref):
                 cur_ref(ref)
 
+    R.protected = {x for x in cur["ummahat"] + ["nabi", "c-mariyah"]} | {
+        e["t"] for e in cur["edges"] if e["s"] == "nabi" and e["k"] == "parent"
+    }
+
     # curated persons that are also narrators: fold the narrator into the curated node
     for c in cur["persons"]:
         nid = c.get("narrator")
@@ -444,10 +472,17 @@ def main():
             continue
         sub = x["subject"]
         g = sub.get("g") if sub.get("g") in ("m", "f") else None
-        pid = R.resolve(sub["ar"], g=g, create=False)
         full = ibnsad_full_chain(e)
-        if not pid and full:
-            pid = R.resolve(full, g=g, create=False)
+        # the longer nasab first; the short subject name only as a fallback
+        pid = (R.resolve(full, g=g, create=False) if full else None) or R.resolve(sub["ar"], g=g, create=False)
+        if pid and R.p[pid].get("nisba"):
+            # never fold an Ibn Sa'd biography into a namesake narrator of another tribal group
+            # (عبد الله بن الحارث الهاشمي ≠ عبد الله بن الحارث الباهلي)
+            group = {t[0]: t[3] for t in TRIBES}
+            t_ib = tribe_from_hint(e.get("ctx", "")) or tribe_from_hint(x.get("tribe_hint")) or (tribe_from_chain([l["ar"] for l in chain_of(full)[1]]) if full else None)
+            t_nr = classify_tribe(R.p[pid]["nisba"])[0]
+            if t_ib and t_nr and group.get(t_ib) != group.get(t_nr) and "anshar" not in (t_ib, t_nr):
+                pid = None
         if not pid:
             pid = f"s{e['i']}"
             R.add(pid, ar=re.sub(r"\s+", " ", sub["ar"]), lat=sub.get("lat") or translit(sub["ar"]), g=g or guess_gender(sub["ar"]), full=full)
@@ -545,7 +580,60 @@ def main():
             continue
         R.edge(s, t, e["k"], e.get("src"), e.get("n"))
 
+    R.alias_ids = {f"s{rid[2:]}": pid for rid, pid in ib_pid.items() if pid != f"s{rid[2:]}"}
+    apply_corrections(R)
     finalize(R, cur)
+
+
+def apply_corrections(R):
+    """Apply reviewed audit decisions from data/corrections.json (merge / drop_edge / add_edge / set_tribe / set_gender)."""
+    f = ROOT / "data" / "corrections.json"
+    if not f.exists():
+        return
+    ops = json.loads(f.read_text())
+    applied = Counter()
+    note = {"t": "Koreksi audit NasabNet (lihat data/corrections.json)"}
+    redirect = {}
+
+    def rid(x):
+        # follow merge chains (A→B, B→C) so later ops still find the surviving record
+        seen = set()
+        while x in redirect and x not in seen:
+            seen.add(x)
+            x = redirect[x]
+        return x
+
+    for op in ops:
+        op = {k: (rid(v) if k in ("keep", "drop", "s", "t", "id") and isinstance(v, str) else v) for k, v in op.items()}
+        kind = op.get("op")
+        if kind == "merge" and op.get("keep") in R.p and op.get("drop") in R.p and op["keep"] != op["drop"]:
+            keep, drop = op["keep"], op["drop"]
+            redirect[drop] = keep
+            R.alias_ids = {**getattr(R, "alias_ids", {}), drop: keep}
+            edges = list(R.edges.values())
+            R.edges = {}
+            merge(R, drop, keep)
+            for e in edges:
+                s2 = keep if e["s"] == drop else e["s"]
+                t2 = keep if e["t"] == drop else e["t"]
+                R.edge(s2, t2, e["k"], e.get("src"), e.get("n"))
+            applied[kind] += 1
+        elif kind == "drop_edge":
+            s2, t2, k = op.get("s"), op.get("t"), op.get("k")
+            hit = [x for x in [(s2, t2, k), (t2, s2, k)] if x in R.edges]
+            for x in hit:
+                del R.edges[x]
+            applied[kind] += bool(hit)
+        elif kind == "add_edge" and op.get("s") in R.p and op.get("t") in R.p:
+            R.edge(op["s"], op["t"], op["k"], op.get("src") or note, op.get("n"))
+            applied[kind] += 1
+        elif kind == "set_tribe" and op.get("id") in R.p:
+            R.p[op["id"]]["tribe"] = op.get("tribe") or None
+            applied[kind] += 1
+        elif kind == "set_gender" and op.get("id") in R.p and op.get("g") in ("m", "f"):
+            R.p[op["id"]]["g"] = op["g"]
+            applied[kind] += 1
+    print("corrections applied:", dict(applied), "of", len(ops))
 
 
 def merge(R, src_pid, dst_pid):
@@ -646,8 +734,8 @@ def finalize(R, cur):
                 own = cand
             elif own:
                 own[0]["id"] = f
-        else:
-            own = extend_chain(own)
+        # complete the upper chain from the canonical spine (Quraysh → 'Adnan, Aus/Khazraj → al-Azd)
+        own = extend_chain(own)
         memo[pid] = own
         return own
 
@@ -792,6 +880,16 @@ def finalize(R, cur):
     }
     OUT.parent.mkdir(parents=True, exist_ok=True)
     OUT.write_text(json.dumps(data, ensure_ascii=False, separators=(",", ":")))
+    # old/merged ids → surviving ids (bio.json and saved bookmarks are keyed by id)
+    alias = getattr(R, "alias_ids", {})
+    resolved = {}
+    for k in alias:
+        x, seen = k, set()
+        while x in alias and x not in seen:
+            seen.add(x)
+            x = alias[x]
+        resolved[k] = x
+    (WORK / "id_alias.json").write_text(json.dumps(resolved, ensure_ascii=False))
     print(json.dumps(counts, ensure_ascii=False))
     print("tribes:", {t: sum(1 for p in persons if p.get("tribe") == t) for t in sorted({p.get('tribe') for p in persons if p.get('tribe')})})
     print("no tribe:", sum(1 for p in persons if not p.get("tribe")), "stubs:", sum(1 for p in persons if p["id"].startswith("x")))

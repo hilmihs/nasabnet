@@ -1,0 +1,16 @@
+[
+{"rid": "Turath · data rawi: أم كلثوم بنت عقبة بن أبي معيط", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: أم مبشر", "ok": 2, "issues": []},
+{"rid": "Turath · data rawi: أم هنيدة بن خالد", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: أنس بن مالك", "ok": 10, "issues": [
+  {"s": "n822", "t": "x5c7d63d5", "k": "mawla", "verdict": "wrong", "why": "teks sebut 'نصير خادمه' (pelayannya), bukan mawla seperti Ra'ithah/Dinar yang jelas disebut 'مولى'"}
+]},
+{"rid": "Turath · data rawi: الحارث بن نوفل", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: الحسن بن علي بن أبي طالب", "ok": 3, "issues": []},
+{"rid": "Turath · data rawi: الزبير بن العوام", "ok": 15, "issues": [
+  {"s": "n2065", "t": "s658", "k": "mawla", "verdict": "unsure", "why": "teks sebut mawlanya bernama 'Abu Hakim', dataset meresolusi ke 'Amr bin Tsa'labah bin Wahb' - tidak jelas nama yang sama"}
+]},
+{"rid": "Turath · data rawi: السائب بن خباب", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: الطفيل بن سخبرة", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: المسور بن مخرمة بن نوفل الزهري", "ok": 12, "issues": []}
+]

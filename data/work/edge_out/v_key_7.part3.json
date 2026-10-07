@@ -1,0 +1,15 @@
+[
+{"rid": "Turath · data rawi: ربيعة بن الحارث بن عبد المطلب بن هاشم", "ok": 6, "issues": []},
+{"rid": "Turath · data rawi: رفاعة بن رافع بن مالك الزرقي", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: رملة بنت أبي سفيان", "ok": 6, "issues": []},
+{"rid": "Turath · data rawi: زيد بن ثابت الأنصاري", "ok": 3, "issues": []},
+{"rid": "Turath · data rawi: زيد بن حارثة بن شراحيل", "ok": 3, "issues": []},
+{"rid": "Turath · data rawi: زينب", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: زينب بنت جحش", "ok": 3, "issues": []},
+{"rid": "Turath · data rawi: زينب بنت معاوية", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: سعد", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: سعد بن أبي وقاص", "ok": 11, "issues": [
+  {"s": "n10121", "t": "n2289", "k": "muakhah", "verdict": "unsure", "why": "teks: hanya disebut 'وقيل' sebagai versi alternatif muakhah; versi utama (tanpa hedge) adalah dengan Mush'ab bin Umair"},
+  {"s": "n2289", "t": "n4621", "k": "muakhah", "verdict": "unsure", "why": "teks: hanya disebut 'وقيل' sebagai versi alternatif muakhah; versi utama (tanpa hedge) adalah dengan Mush'ab bin Umair"}
+]}
+]

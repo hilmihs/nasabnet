@@ -1,0 +1,17 @@
+[
+  {"rid": "Turath · data rawi: عبد الله بن السائب بن أبي السائب", "ok": 10, "issues": [
+    {"s": "n3670", "t": "x722aad88", "k": "sibling", "verdict": "wrong", "why": "teks sebut saudara 'عبد الرحمن بن السائب', tapi orang yang diresolve berayah 'السائب bin خباب' - beda dengan ayah subjek ('السائب bin أبي السائب') - kemungkinan namesake lain"},
+    {"s": "n3670", "t": "x8cc2d1f2", "k": "mawla", "verdict": "wrong", "why": "teks: subjek 'مولى مجاهد' (budak/klien dari Mujahid) - jadi subjek adalah klien, bukan patron; arah di dataset terbalik"}
+  ]},
+  {"rid": "Turath · data rawi: عبد الله بن جعفر ذي الجناحين", "ok": 18, "issues": []},
+  {"rid": "Turath · data rawi: عبد الله بن حنظلة بن أبي عامر الراهب", "ok": 19, "issues": []},
+  {"rid": "Turath · data rawi: عبد الله بن زمعة بن الأسود بن المطلب", "ok": 6, "issues": []},
+  {"rid": "Turath · data rawi: عبد الله بن عباس بن عبد المطلب", "ok": 6, "issues": []},
+  {"rid": "Turath · data rawi: عبد الله بن عبد الله بن عمرو", "ok": 4, "issues": []},
+  {"rid": "Turath · data rawi: عبد الله بن عمر بن الخطاب", "ok": 3, "issues": []},
+  {"rid": "Turath · data rawi: عبد الله بن قيس بن مخرمة", "ok": 10, "issues": []},
+  {"rid": "Turath · data rawi: عبد الله بن مسعود", "ok": 7, "issues": []},
+  {"rid": "Turath · data rawi: عبيد الله بن العباس بن عبد المطلب بن هاشم", "ok": 14, "issues": [
+    {"s": "n4174", "t": "xdfdaf0c7", "k": "spouse", "verdict": "unsure", "why": "teks hanya sebut 'عائشة بنت عبد الله' tanpa nasab lengkap, tak jelas apakah puteri Abdullah bin Umar yang dimaksud"}
+  ]}
+]

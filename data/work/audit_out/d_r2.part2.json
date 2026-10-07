@@ -1,0 +1,12 @@
+[
+ {"fid": "R2-F11", "verdict": "fix", "why": "Nisba n7271 sendiri 'الباهلي' dan rawi.relations menyebutnya 'والد مجيبة الباهلي', cocok dengan anak; field tribe=hasyim salah karena tertukar ibnsad Hasyimi lain.", "ops": [{"op":"set_tribe","id":"n7271","tribe":"bahilah"}]},
+ {"fid": "R2-F12", "verdict": "ok", "why": "Aun bin Ali dan Aun bin Ja'far adalah dua putra Asma' bint Umais dari ayah berbeda (saudara seibu lazim); tidak ada teks yang menyatakan mereka orang yang sama.", "ops": []},
+ {"fid": "R2-F13", "verdict": "ok", "why": "Muhammad bin Abi Bakar (wali Mesir) dan Muhammad bin Ja'far (wafat tanpa keturunan) adalah saudara seibu (Asma' bint Umais) dengan ayah berbeda, bukan duplikat.", "ops": []},
+ {"fid": "R2-F14", "verdict": "fix", "why": "Keduanya putri Abu Bakar bernama Asma'; 'Dzatun Nithaqain' adalah julukan Asma' bint Abu Bakar yang sama, tak ada indikasi dua Asma' berbeda.", "ops": [{"op":"merge","keep":"s4407","drop":"x84bf0333"}]},
+ {"fid": "R2-F15", "verdict": "ok", "why": "Teks n15565 sendiri menyebut ibunya Sakhilah bint Khuza'i, bukan Ummu Ruman, dan nasab keduanya (Muthalib vs Azd/Asad) sama sekali berbeda.", "ops": []},
+ {"fid": "R2-F16", "verdict": "fix", "why": "Nama dan nasab identik (Yahya bin Usaid/Asid bin al-Hudhair), hanya varian ejaan; catatan pertama lebih lengkap (punya ibnsad).", "ops": [{"op":"merge","keep":"xd860199b","drop":"x5bfc2f20"}]},
+ {"fid": "R2-F17", "verdict": "fix", "why": "Ibnsad mengonfirmasi al-Abbas adalah anak Rabi'ah bin al-Harits; 'Abbas bin Rabi'ah' nama dan ayah sama, ibnsad keduanya hanya tertukar riwayat Dhuba'ah.", "ops": [{"op":"merge","keep":"xca2966e5","drop":"xa785daad"}]},
+ {"fid": "R2-F18", "verdict": "fix", "why": "Teks n2762 sendiri menyatakan 'وهو شرحبيل ابن حسنة' - eksplisit orang yang sama dengan Syurahbil bin Hasanah.", "ops": [{"op":"merge","keep":"n2762","drop":"x7fb66e1a"}]},
+ {"fid": "R2-F19", "verdict": "fix", "why": "Nama dan nasab identik (Husain/al-Husain bin Abdullah bin Ja'far), hanya beda partikel 'al-', tanpa data pembeda apapun.", "ops": [{"op":"merge","keep":"xd5e47bea","drop":"xbe809611"}]},
+ {"fid": "R2-F20", "verdict": "fix", "why": "Qutailah istri Abu Bakar hanya dikenal satu orang; selisih kata 'Abdu' pada nasab adalah varian penulisan nama ayah yang sama.", "ops": [{"op":"merge","keep":"xbcd308ab","drop":"xe7be781f"}]}
+]

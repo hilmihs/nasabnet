@@ -1,0 +1,112 @@
+[
+  {
+    "id": "s805",
+    "identitas": {"lahir": null, "umur": "Dikatakan wafat pada usia 80 tahun, rambutnya tidak pernah beruban.", "wafat": null, "makam": null, "src": ["al-Ishabah 3/57"]},
+    "kabilah_tabaqat": {"t": "Ansar dari Bani Zuraiq (Khazraj); termasuk Ahlu Badar dan Ahlu Uhud.", "src": ["Ibnu Sa'd 3/592"]},
+    "nisbah_rihlah": null,
+    "laqab_profesi": {"t": "Kunyah Abu Abadah.", "src": ["Ibnu Sa'd 3/592"]},
+    "peran": {"t": "Ikut Perang Badar dan Uhud bersama Nabi ﷺ.", "src": ["Ibnu Sa'd 3/592"]},
+    "hilf": null,
+    "syaraf": null,
+    "catatan": {"t": "Wafat dengan meninggalkan keturunan di Madinah.", "src": ["Ibnu Sa'd 3/592"]}
+  },
+  {
+    "id": "s4303",
+    "identitas": {"lahir": null, "umur": null, "wafat": null, "makam": null, "src": []},
+    "kabilah_tabaqat": {"t": "Bani Hasyim bin Abdul Muththalib dari Quraisy.", "src": ["Ibnu Sa'd 8/49"]},
+    "nisbah_rihlah": null,
+    "laqab_profesi": null,
+    "peran": null,
+    "hilf": null,
+    "syaraf": null,
+    "catatan": {"t": "Menikah dengan Abu Amrah al-Anshari (Bashir bin Amr), melahirkan Abdullah dan Abdul Rahman.", "src": ["Ibnu Sa'd 8/49", "al-Ishabah 8/348"]}
+  },
+  {
+    "id": "n5310",
+    "identitas": {"lahir": null, "umur": "sekitar 20 tahun saat Perang Badar", "wafat": "55 H di Madinah, pada masa kekhalifahan Mu'awiyah bin Abi Sufyan.", "makam": null, "src": ["Ibnu Sa'd 3/581"]},
+    "kabilah_tabaqat": {"t": "Ansar dari Bani Salamah (Khazraj); termasuk Ahlu Aqabah dan Ahlu Badar.", "src": ["Ibnu Sa'd 3/581"]},
+    "nisbah_rihlah": null,
+    "laqab_profesi": {"t": "Masyhur dengan kunyah Abu al-Yasar.", "src": ["al-Ishabah 5/453", "Ibnu Sa'd 3/581"]},
+    "peran": {"t": "Ikut Bai'at Aqabah, Perang Badar (saat berusia sekitar dua puluh tahun), Uhud, Khandaq, dan seluruh peperangan bersama Nabi ﷺ.", "src": ["Ibnu Sa'd 3/581"]},
+    "hilf": null,
+    "syaraf": null,
+    "catatan": {"t": "Disebutkan bertubuh pendek dan gemuk (berperut buncit).", "src": ["Ibnu Sa'd 3/581"]}
+  },
+  {
+    "id": "n8734",
+    "identitas": {"lahir": null, "umur": null, "wafat": null, "makam": null, "src": []},
+    "kabilah_tabaqat": {"t": "Bani Hasyim bin Abdul Muththalib dari Quraisy; putri paman Nabi ﷺ.", "src": ["Ibnu Sa'd 8/47"]},
+    "nisbah_rihlah": null,
+    "laqab_profesi": {"t": "Kunyah Ummul Hakam, ada yang mengatakan Ummu Hakim.", "src": ["Turath rawi"]},
+    "peran": {"t": "Diberi bagian hasil Khaibar oleh Nabi ﷺ sebanyak empat puluh wasq.", "src": ["Ibnu Sa'd 8/47"]},
+    "hilf": null,
+    "syaraf": {"t": "Namanya diperselisihkan dalam riwayat: disebut Shafiyyah, ada yang mengatakan Atikah, dan ada pula yang mengatakan Dhuba'ah.", "src": ["Turath rawi"]},
+    "catatan": null
+  },
+  {
+    "id": "s4809",
+    "identitas": {"lahir": null, "umur": null, "wafat": null, "makam": null, "src": []},
+    "kabilah_tabaqat": {"t": "Ansar dari Bani Abdul Asyhal (Aus).", "src": ["Ibnu Sa'd 8/438"]},
+    "nisbah_rihlah": null,
+    "laqab_profesi": null,
+    "peran": {"t": "Masuk Islam dan berbai'at kepada Nabi ﷺ.", "src": ["Ibnu Sa'd 8/438"]},
+    "hilf": null,
+    "syaraf": null,
+    "catatan": {"t": "Menikah dua kali: dengan Abdu Amr bin Mas'ud (anaknya an-Nu'man dan ad-Dahhak ikut Badar, Quthbah syahid di Bi'r Ma'unah) dan dengan al-Harits bin Tsa'labah (anaknya Salamah ikut Badar dan syahid di Uhud).", "src": ["Ibnu Sa'd 8/438"]}
+  },
+  {
+    "id": "s4370",
+    "identitas": {"lahir": null, "umur": null, "wafat": null, "makam": null, "src": []},
+    "kabilah_tabaqat": {"t": "Bani al-Muththalib bin Abdu Manaf dari Quraisy.", "src": ["Ibnu Sa'd 8/228"]},
+    "nisbah_rihlah": null,
+    "laqab_profesi": {"t": "Dikenal dengan nama Bahainah; nama aslinya Abdah.", "src": ["Ibnu Sa'd 8/228"]},
+    "peran": {"t": "Masuk Islam dan berbai'at kepada Nabi ﷺ; diberi bagian tiga puluh wasq oleh Nabi ﷺ.", "src": ["Ibnu Sa'd 8/228"]},
+    "hilf": {"t": "Suaminya, Malik dari suku al-Azd, berstatus sekutu (halif) bagi kaumnya (Bani al-Muththalib).", "src": ["Ibnu Sa'd 8/228"]},
+    "syaraf": null,
+    "catatan": {"t": "Melahirkan Abdullah bin Bahainah dan Jubair bin Bahainah.", "src": ["Ibnu Sa'd 8/228"]}
+  },
+  {
+    "id": "s658",
+    "identitas": {"lahir": null, "umur": null, "wafat": null, "makam": null, "src": []},
+    "kabilah_tabaqat": {"t": "Ansar dari Bani an-Najjar (Khazraj); termasuk Ahlu Badar.", "src": ["al-Ishabah 4/502", "Ibnu Sa'd 3/511"]},
+    "nisbah_rihlah": null,
+    "laqab_profesi": {"t": "Kunyah Abu Hakim; ada yang mengatakan Abu Hakimah.", "src": ["Ibnu Sa'd 3/511", "al-Ishabah 4/502"]},
+    "peran": {"t": "Ikut Perang Badar bersama Nabi ﷺ.", "src": ["al-Ishabah 4/502"]},
+    "hilf": null,
+    "syaraf": {"t": "Pamannya (dari pihak ayah) adalah Anas bin Malik, dan ia sepupu dari pihak ibu (ibn khalah) bagi Haritsah bin Suraqah.", "src": ["Ibnu Sa'd 3/511"]},
+    "catatan": {"t": "Kedua anaknya, Hakim dan Abdul Rahman, meninggal muda tanpa keturunan.", "src": ["Ibnu Sa'd 3/511"]}
+  },
+  {
+    "id": "s4291",
+    "identitas": {"lahir": null, "umur": null, "wafat": null, "makam": null, "src": []},
+    "kabilah_tabaqat": {"t": "Bani Hasyim bin Abdul Muththalib dari Quraisy.", "src": ["Ibnu Sa'd 8/45"]},
+    "nisbah_rihlah": null,
+    "laqab_profesi": null,
+    "peran": null,
+    "hilf": null,
+    "syaraf": null,
+    "catatan": {"t": "Menikah dengan Abdul Asad bin Hilal (ayah Abu Salamah, suami pertama Ummu Salamah sebelum menikah dengan Nabi ﷺ), lalu dengan Abu Ruhm bin Abdul Uzza (ayah Abu Sabrah); kedua anaknya, Abu Salamah dan Abu Sabrah, ikut Perang Badar.", "src": ["Ibnu Sa'd 8/45"]}
+  },
+  {
+    "id": "s4371",
+    "identitas": {"lahir": null, "umur": null, "wafat": null, "makam": null, "src": []},
+    "kabilah_tabaqat": {"t": "Bani al-Muththalib bin Abdu Manaf dari Quraisy; saudari Misthah bin Atsasah.", "src": ["Ibnu Sa'd 8/228"]},
+    "nisbah_rihlah": null,
+    "laqab_profesi": null,
+    "peran": {"t": "Masuk Islam di Makkah dan berbai'at kepada Nabi ﷺ; diberi bagian hasil Khaibar bersama saudaranya Misthah sebanyak tiga puluh wasq.", "src": ["al-Ishabah 8/341", "Ibnu Sa'd 8/228"]},
+    "hilf": null,
+    "syaraf": null,
+    "catatan": {"t": "Menikah dengan Abu Jundub, melahirkan putrinya Raithah.", "src": ["Ibnu Sa'd 8/228", "al-Ishabah 8/341"]}
+  },
+  {
+    "id": "n1110",
+    "identitas": {"lahir": null, "umur": "71 tahun", "wafat": "61 H pada masa kekhalifahan Yazid bin Mu'awiyah; ada yang mengatakan 71 H.", "makam": null, "src": ["Ibnu Sa'd 3/469", "Turath rawi"]},
+    "kabilah_tabaqat": {"t": "Ansar dari Bani Mu'awiyah bin Malik (Aus); termasuk Ahlu Badar dan Ahlu Uhud.", "src": ["Ibnu Sa'd 3/469"]},
+    "nisbah_rihlah": null,
+    "laqab_profesi": {"t": "Kunyah Abu Abdullah.", "src": ["Ibnu Sa'd 3/469"]},
+    "peran": {"t": "Dipersaudarakan (diakhi) oleh Nabi ﷺ dengan Khabbab bin al-Arat; ikut Perang Badar, Uhud, Khandaq, dan seluruh peperangan bersama Nabi ﷺ, serta membawa panji Bani Mu'awiyah bin Malik pada Fathu Makkah.", "src": ["Ibnu Sa'd 3/469"]},
+    "hilf": null,
+    "syaraf": {"t": "Keturunan Bani Mu'awiyah bin Malik yang masih ada hanya berasal dari anak-anaknya.", "src": ["Ibnu Sa'd 3/469"]},
+    "catatan": null
+  }
+]

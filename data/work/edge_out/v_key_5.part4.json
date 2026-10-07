@@ -1,0 +1,19 @@
+[
+  {"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/458", "ok": 1, "issues": []},
+  {"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/46", "ok": 11, "issues": [
+    {"s": "s4295", "t": "n3650", "k": "parent", "verdict": "wrong", "why": "teks: anak Umm al-Hakam adalah Abdullah bin Rabi'ah BIN AL-HARITS bin Abdul Muttalib; node diresolve ke Abdullah bin Rabi'ah bin Farqad, orang lain"}
+  ]},
+  {"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/461", "ok": 6, "issues": [
+    {"s": "n3659", "t": "n3078", "k": "parent", "verdict": "wrong", "why": "'Abu Ubaidah' di teks hanya kunyah anak Abdullah bin Zam'ah; diresolve keliru jadi sahabat terkenal Abu Ubaidah bin al-Jarrah (Amir bin Abdullah), tokoh beda generasi"},
+    {"s": "n3659", "t": "xd003d280", "k": "parent", "verdict": "wrong", "why": "Umm Salamah di teks adalah putri Abdullah bin Zam'ah; node diresolve ke Umm Salamah binti Abdullah BIN ABI MA'QIL, nasab beda"}
+  ]},
+  {"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/462", "ok": 1, "issues": []},
+  {"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/463", "ok": 1, "issues": []},
+  {"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/465", "ok": 7, "issues": []},
+  {"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/466", "ok": 0, "issues": [
+    {"s": "n3138", "t": "s4869", "k": "parent", "verdict": "wrong", "why": "teks sendiri menyatakan tidak ditemukan putri al-Abbas bernama Umm Qutsam ('wa lam najid lil-Abbas... ibnatan tusamma Umm Qutsam')"}
+  ]},
+  {"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/469", "ok": 2, "issues": []},
+  {"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/47", "ok": 7, "issues": []},
+  {"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/472", "ok": 1, "issues": []}
+]

@@ -1,0 +1,93 @@
+[
+  {
+    "id": "dhabbah",
+    "nama_arti": {"t": "Nama Dhabbah diambil dari kata 'dhabb' (sejenis kadal gurun), mengikuti tradisi penamaan kabilah Arab kuno dengan nama hewan.", "basis": "umum", "src": []},
+    "leluhur": {"t": "Dhabbah bin Udd.", "basis": "sumber", "src": ["Jamharat Ansab al-'Arab, hlm. 203"]},
+    "titik_temu": {"t": "Dhabbah termasuk rumpun Mudhar (dikenal pula sebagai bagian dari ar-Rabab bersama Taim, 'Adi, 'Ukl, dan Qais bin Tsa'labah); bertemu dengan Quraisy dan Kinanah pada Mudhar bin Nizar.", "basis": "umum", "src": []},
+    "struktur": {"t": "Dari Dhabbah lahir Sa'd, yang memiliki keturunan luas termasuk marga Bani Dharar dan jalur hakim Kufah Ibnu Syubrumah, serta Basil.", "basis": "sumber", "src": ["Jamharat Ansab al-'Arab, hlm. 203"]},
+    "wilayah": {"t": "Mendiami wilayah Najd tengah; bergabung dengan kabilah-kabilah lain membentuk konfederasi ar-Rabab.", "basis": "umum", "src": []},
+    "peran_sosial": {"t": "Tokohnya, Dharar bin 'Amr, dikenal sebagai pemimpin Bani Dhabbah yang gagah pada masa jahiliah; keturunan Dhabbah kemudian berperan dalam Perang Jamal di pihak Aisyah.", "basis": "umum", "src": []},
+    "hilf": null,
+    "tokoh": ["Salman bin 'Amir bin Aus"],
+    "dinamika": {"t": "Sejumlah anggota Bani Dhabbah gugur di Perang Jamal membela Ummul Mukminin Aisyah.", "basis": "umum", "src": []},
+    "rujukan": ["Jamharat Ansab al-'Arab (Ibnu Hazm)", "Jamharat an-Nasab (Ibnu al-Kalbi)", "al-Ishabah (Ibnu Hajar)"]
+  },
+  {
+    "id": "bahilah",
+    "nama_arti": {"t": "Nama Bahilah diambil dari nama ibu kabilah ini, Bahilah binti Sha'b.", "basis": "umum", "src": []},
+    "leluhur": {"t": "Bahilah, yaitu Malik bin A'shur bin Sa'd bin Qais 'Ailan (dinamai dari ibunya, Bahilah binti Sha'b).", "basis": "sumber", "src": ["Jamharat Ansab al-'Arab, hlm. 244", "Jamharat Ansab al-'Arab, hlm. 245"]},
+    "titik_temu": {"t": "Bersaudara dengan Ghani, sama-sama anak A'shur bin Sa'd bin Qais 'Ailan; termasuk rumpun Qais 'Ailan (Mudhar/Adnan).", "basis": "sumber", "src": ["Jamharat Ansab al-'Arab, hlm. 244"]},
+    "struktur": {"t": "Dari Malik (Bahilah) lahir Sa'd Manat dan Ma'n; dari Ma'n lahir banyak bathn termasuk Bani Qutaibah, leluhur Qutaibah bin Muslim, penakluk Khurasan terkenal pada masa Umayyah.", "basis": "sumber", "src": ["Jamharat Ansab al-'Arab, hlm. 245"]},
+    "wilayah": {"t": "Mendiami wilayah Najd; nama Bahilah kemudian menjadi idiom dalam sastra Arab klasik yang sering dikaitkan dengan kabilah berstatus sosial rendah, meski melahirkan tokoh besar seperti Qutaibah bin Muslim.", "basis": "umum", "src": []},
+    "peran_sosial": {"t": "Dikenal lewat Qutaibah bin Muslim al-Bahili, panglima yang memimpin penaklukan Asia Tengah (Transoxiana) pada masa Umayyah.", "basis": "umum", "src": []},
+    "hilf": null,
+    "tokoh": ["Abdullah bin al-Harits", "Salman bin Rabi'ah bin Yazid", "Shuday bin 'Ajlan bin Wahb", "al-Harmas bin Ziyad bin Malik bin Abdil 'Uzza"],
+    "dinamika": {"t": "Keturunan Qutaibah bin Muslim tetap berpengaruh di Bashrah dan Khurasan hingga masa Abbasiyah awal.", "basis": "umum", "src": []},
+    "rujukan": ["Jamharat Ansab al-'Arab (Ibnu Hazm)", "Jamharat an-Nasab (Ibnu al-Kalbi)", "al-Ishabah (Ibnu Hajar)"]
+  },
+  {
+    "id": "ghani",
+    "nama_arti": {"t": "Nama Ghani berarti 'kaya' dalam bahasa Arab, diambil dari nama leluhur mereka, 'Amr.", "basis": "umum", "src": []},
+    "leluhur": {"t": "Ghani, yaitu Amr bin A'shur bin Sa'd bin Qais 'Ailan.", "basis": "sumber", "src": ["Jamharat Ansab al-'Arab, hlm. 244", "Jamharat Ansab al-'Arab, hlm. 247"]},
+    "titik_temu": {"t": "Bersaudara dengan Bahilah, sama-sama anak A'shur bin Sa'd bin Qais 'Ailan; termasuk rumpun Qais 'Ailan.", "basis": "sumber", "src": ["Jamharat Ansab al-'Arab, hlm. 244"]},
+    "struktur": {"t": "Dari Amr (Ghani) lahir Jullan, dengan tokoh Martsad bin Abi Martsad al-Ghanawi, salah satu Muhajirin awal.", "basis": "sumber", "src": ["Jamharat Ansab al-'Arab, hlm. 247"]},
+    "wilayah": {"t": "Mendiami wilayah Najd, berdekatan dengan wilayah Bahilah.", "basis": "umum", "src": []},
+    "peran_sosial": {"t": "Dikenal lewat Martsad bin Abi Martsad, Muhajirin awal yang gugur syahid pada peristiwa ar-Raji'.", "basis": "umum", "src": []},
+    "hilf": {"t": "Martsad bin Abi Martsad dan ayahnya tercatat sebagai sekutu (halif) Hamzah bin Abdul Muththalib.", "basis": "sumber", "src": ["Jamharat Ansab al-'Arab, hlm. 247"]},
+    "tokoh": ["Kannaz bin al-Hushain", "Martsad bin Abi Martsad", "Sara' binti Nabhan"],
+    "dinamika": {"t": "Ghani tidak banyak tercatat dalam sejarah politik besar pasca-Islam dibanding kabilah Qais lainnya.", "basis": "umum", "src": []},
+    "rujukan": ["Jamharat Ansab al-'Arab (Ibnu Hazm)", "Jamharat an-Nasab (Ibnu al-Kalbi)", "al-Ishabah (Ibnu Hajar)"]
+  },
+  {
+    "id": "muharib",
+    "nama_arti": {"t": "Nama Muharib berarti 'pejuang/yang berperang' dalam bahasa Arab, diambil dari nama leluhur mereka.", "basis": "umum", "src": []},
+    "leluhur": {"t": "Muharib bin Khashafah bin Qais 'Ailan.", "basis": "sumber", "src": ["Jamharat Ansab al-'Arab, hlm. 259"]},
+    "titik_temu": {"t": "Bersaudara dekat dengan Sulaim dan Hawazin (sama-sama keturunan Khashafah bin Qais 'Ailan); termasuk rumpun Qais 'Ailan.", "basis": "umum", "src": []},
+    "struktur": {"t": "Keturunan Muharib mencakup Bani Fazarah bin Dzuhl bin Tharif bin Khalaf bin Muharib dan Bani Ali bin Jisr, dengan tokoh dikenal seperti Amir bin Wahb yang terlibat konflik dengan Bahilah pada peristiwa yang disebut 'Hari Kiyyat al-'Ajab'.", "basis": "sumber", "src": ["Jamharat Ansab al-'Arab, hlm. 259"]},
+    "wilayah": {"t": "Mendiami wilayah Najd; sebagian keturunannya kemudian menetap di Andalusia.", "basis": "umum", "src": []},
+    "peran_sosial": {"t": "Dikenal lewat riwayat bahwa salah satu anggotanya pernah mengucapkan perkataan kasar kepada Nabi ﷺ saat diminta untanya, menggambarkan sikap sebagian kabilah ini sebelum Islam meluas.", "basis": "umum", "src": []},
+    "hilf": null,
+    "tokoh": ["'Amir", "'Amr bin Shulai' bin Muharib bin Khashafah", "'Ubaid bin Khalid", "Thariq bin Abdullah"],
+    "dinamika": {"t": "Keturunan Muharib tercatat pula berperan dalam gerakan-gerakan Arab di Andalusia pada masa kekuasaan Umayyah di sana.", "basis": "umum", "src": []},
+    "rujukan": ["Jamharat Ansab al-'Arab (Ibnu Hazm)", "Jamharat an-Nasab (Ibnu al-Kalbi)", "al-Ishabah (Ibnu Hajar)"]
+  },
+  {
+    "id": "persia",
+    "nama_arti": {"t": "'Persia' (Faris) merujuk pada asal etnis dari wilayah Kekaisaran Persia (Sasaniyah), bukan nama kabilah Arab; kelompok ini terdiri atas sahabat-sahabat keturunan Persia.", "basis": "umum", "src": []},
+    "leluhur": null,
+    "titik_temu": null,
+    "struktur": null,
+    "wilayah": {"t": "Berasal dari wilayah Persia (Kekaisaran Sasaniyah); sebagian menetap di Madinah sebagai mawali setelah masuk Islam.", "basis": "umum", "src": []},
+    "peran_sosial": {"t": "Tokoh paling terkenal, Salman al-Farisi, berperan penting dalam Perang Khandaq dengan mengusulkan strategi parit; kelompok sahabat keturunan Persia umumnya berstatus mawali (klien) dari kabilah Arab tertentu.", "basis": "umum", "src": []},
+    "hilf": {"t": "Salman al-Farisi dan sejumlah mawla Persia terikat hubungan wala' (perwalian) dengan tuan/sekutu Arab mereka sebelum dan setelah memeluk Islam, karena sebelumnya berstatus budak.", "basis": "umum", "src": []},
+    "tokoh": ["Azdad bin Fasa'ah", "Rasyid", "Safinah", "Salman"],
+    "dinamika": {"t": "Kehadiran mawali keturunan Persia seperti Salman al-Farisi menandai keterbukaan awal komunitas Muslim terhadap latar belakang etnis non-Arab.", "basis": "umum", "src": []},
+    "rujukan": ["al-Ishabah (Ibnu Hajar)", "ath-Thabaqat al-Kubra (Ibnu Sa'd)"]
+  },
+  {
+    "id": "habasyah",
+    "nama_arti": {"t": "'Habasyah' merujuk pada Abyssinia/Ethiopia dan Nubia, bukan nama kabilah Arab; kelompok ini terdiri atas sahabat-sahabat keturunan Habasyah atau Nubia.", "basis": "umum", "src": []},
+    "leluhur": null,
+    "titik_temu": null,
+    "struktur": null,
+    "wilayah": {"t": "Berasal dari wilayah Tanduk Afrika (Habasyah/Ethiopia) dan Nubia; banyak di antaranya tiba di Jazirah Arab sebagai budak sebelum memeluk Islam dan dimerdekakan.", "basis": "umum", "src": []},
+    "peran_sosial": {"t": "Tokoh paling terkenal, Bilal bin Rabah, menjadi muazin pertama dalam Islam setelah dimerdekakan oleh Abu Bakar; kelompok ini umumnya berstatus mawali atau budak yang dimerdekakan.", "basis": "umum", "src": []},
+    "hilf": {"t": "Banyak dari kelompok ini sebelumnya adalah budak yang kemudian dimerdekakan dan menjadi mawla bagi tuan Arab mereka.", "basis": "umum", "src": []},
+    "tokoh": ["Aiman", "Dzu Mikhbar", "Ummu Zafar", "Wahsyi bin Harb"],
+    "dinamika": {"t": "Pembebasan dan pengangkatan derajat mantan budak seperti Bilal bin Rabah menjadi simbol kesetaraan dalam ajaran Islam awal.", "basis": "umum", "src": []},
+    "rujukan": ["al-Ishabah (Ibnu Hajar)", "ath-Thabaqat al-Kubra (Ibnu Sa'd)"]
+  },
+  {
+    "id": "rum",
+    "nama_arti": {"t": "'Rum' merujuk pada Kekaisaran Romawi/Bizantium, sedangkan 'Qibthi' merujuk pada penduduk asli Mesir (Koptik); keduanya bukan nama kabilah Arab melainkan latar etnis sahabat yang bersangkutan.", "basis": "umum", "src": []},
+    "leluhur": null,
+    "titik_temu": null,
+    "struktur": null,
+    "wilayah": {"t": "Berasal dari wilayah kekuasaan Romawi/Bizantium (Syam dan sekitarnya) serta Mesir (Qibthi); sebagian tiba di Jazirah Arab sebagai budak sebelum masuk Islam.", "basis": "umum", "src": []},
+    "peran_sosial": {"t": "Tokoh paling terkenal, Shuhaib ar-Rumi, adalah salah satu Muhajirin awal yang dermawan; Mariyah al-Qibthiyyah adalah hadiah dari penguasa Mesir (Muqauqis) kepada Nabi ﷺ dan menjadi ibu dari putra Nabi, Ibrahim.", "basis": "umum", "src": []},
+    "hilf": {"t": "Shuhaib ar-Rumi sempat berstatus mawla/sekutu sebelum dikenal sebagai sahabat mandiri; Mariyah al-Qibthiyyah dimerdekakan setelah melahirkan Ibrahim.", "basis": "umum", "src": []},
+    "tokoh": ["Shuhaib bin Sinan bin Khalid", "Ibrahim", "Mariyah al-Qibthiyyah"],
+    "dinamika": {"t": "Hubungan diplomatik Nabi ﷺ dengan Muqauqis, penguasa Mesir yang mengirim Mariyah al-Qibthiyyah, menjadi salah satu episode penting hubungan luar Islam awal dengan kekuasaan Romawi-Mesir.", "basis": "umum", "src": []},
+    "rujukan": ["al-Ishabah (Ibnu Hajar)", "ath-Thabaqat al-Kubra (Ibnu Sa'd)"]
+  }
+]

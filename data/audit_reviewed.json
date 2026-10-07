@@ -1,0 +1,1115 @@
+[
+ {
+  "rule": "R2",
+  "ids": [
+   "s4799",
+   "s658"
+  ],
+  "verdict": "unsure",
+  "why": "Teks saling bertentangan: bio Amr bin Tsa'labah bilang Ummu Hakim ibunya, bio Ummu Hakim bilang dia istrinya yg melahirkan anak baginya; tak bisa ditentukan mana yg benar."
+ },
+ {
+  "rule": "R2",
+  "ids": [
+   "n2177",
+   "n771"
+  ],
+  "verdict": "unsure",
+  "why": "Sumber sendiri hedging simetris 'yuqal...wa yuqal' (putrinya/istrinya) tanpa preferensi; tak bisa dipastikan edge mana yg keliru."
+ },
+ {
+  "rule": "R6",
+  "ids": [
+   "s449",
+   "x74cc405a"
+  ],
+  "verdict": "ok",
+  "why": "'Mawla Hatib bin Abi Balta'ah' adalah status klien bukan nama ayah; nasab eksplisit ayah = Khauli bin Sabrah, sesuai edge."
+ },
+ {
+  "rule": "R6",
+  "ids": [
+   "s494",
+   "x78568d4b"
+  ],
+  "verdict": "ok",
+  "why": "Teks eksplisit: ism Abu al-Arqam adalah Abdu Manaf — kunya=ism orang yg sama, sesuai edge."
+ },
+ {
+  "rule": "R6",
+  "ids": [
+   "s495",
+   "xa43453de"
+  ],
+  "verdict": "ok",
+  "why": "Teks eksplisit: nama asli Syammas adalah Utsman (laqab, bukan generasi terpisah); ayah tetap asy-Syarid bin Harmiy."
+ },
+ {
+  "rule": "R6",
+  "ids": [
+   "n8834",
+   "x345429d0"
+  ],
+  "verdict": "ok",
+  "why": "'Abu Dawud' adalah kunya Umair/Amr bin Amir bin Malik bin Khansa'; teks eksplisit menyebut anak2nya Dawud, Sa'd, Hamzah, Ja'far — sesuai edge."
+ },
+ {
+  "rule": "R6",
+  "ids": [
+   "n8834",
+   "x2b9c339d"
+  ],
+  "verdict": "ok",
+  "why": "'Abu Dawud' adalah kunya Umair/Amr bin Amir bin Malik bin Khansa'; teks eksplisit menyebut anak2nya Dawud, Sa'd, Hamzah, Ja'far — sesuai edge."
+ },
+ {
+  "rule": "R6",
+  "ids": [
+   "n8834",
+   "xb50ec5cc"
+  ],
+  "verdict": "ok",
+  "why": "'Abu Dawud' adalah kunya Umair/Amr bin Amir bin Malik bin Khansa'; teks eksplisit menyebut anak2nya Dawud, Sa'd, Hamzah, Ja'far — sesuai edge."
+ },
+ {
+  "rule": "R6",
+  "ids": [
+   "n8834",
+   "xbada92a6"
+  ],
+  "verdict": "ok",
+  "why": "'Abu Dawud' adalah kunya Umair/Amr bin Amir bin Malik bin Khansa'; teks eksplisit menyebut anak2nya Dawud, Sa'd, Hamzah, Ja'far — sesuai edge."
+ },
+ {
+  "rule": "R6",
+  "ids": [
+   "n5370",
+   "x18a29fe4"
+  ],
+  "verdict": "ok",
+  "why": "Teks eksplisit: ism Abu Usaid adalah Malik bin Rabi'ah — kunya=ism orang yg sama, sesuai edge."
+ },
+ {
+  "rule": "R6",
+  "ids": [
+   "n5370",
+   "xe03f57ec"
+  ],
+  "verdict": "ok",
+  "why": "Teks eksplisit: ism Abu Usaid adalah Malik bin Rabi'ah — kunya=ism orang yg sama, sesuai edge."
+ },
+ {
+  "rule": "R6",
+  "ids": [
+   "n5370",
+   "x30c1e493"
+  ],
+  "verdict": "ok",
+  "why": "Teks eksplisit: ism Abu Usaid adalah Malik bin Rabi'ah — kunya=ism orang yg sama, sesuai edge."
+ },
+ {
+  "rule": "R6",
+  "ids": [
+   "n5370",
+   "x4f2e532b"
+  ],
+  "verdict": "ok",
+  "why": "Teks eksplisit: ism Abu Usaid adalah Malik bin Rabi'ah — kunya=ism orang yg sama, sesuai edge."
+ },
+ {
+  "rule": "R6",
+  "ids": [
+   "n5370",
+   "x01d48103"
+  ],
+  "verdict": "ok",
+  "why": "Teks eksplisit: ism Abu Usaid adalah Malik bin Rabi'ah — kunya=ism orang yg sama, sesuai edge."
+ },
+ {
+  "rule": "R6",
+  "ids": [
+   "n5370",
+   "x47c44603"
+  ],
+  "verdict": "ok",
+  "why": "Teks eksplisit: ism Abu Usaid adalah Malik bin Rabi'ah — kunya=ism orang yg sama, sesuai edge."
+ },
+ {
+  "rule": "R6",
+  "ids": [
+   "n5370",
+   "x23df403c"
+  ],
+  "verdict": "ok",
+  "why": "Teks eksplisit: ism Abu Usaid adalah Malik bin Rabi'ah — kunya=ism orang yg sama, sesuai edge."
+ },
+ {
+  "rule": "R6",
+  "ids": [
+   "n5370",
+   "x214b858f"
+  ],
+  "verdict": "ok",
+  "why": "Teks eksplisit: ism Abu Usaid adalah Malik bin Rabi'ah — kunya=ism orang yg sama, sesuai edge."
+ },
+ {
+  "rule": "R6",
+  "ids": [
+   "s956",
+   "x4890937e"
+  ],
+  "verdict": "ok",
+  "why": "Teks eksplisit: 'Baidha' adalah ibunya, ayahnya Wahb bin Rabi'ah bin Hilal' — sesuai edge, bukan kontradiksi."
+ },
+ {
+  "rule": "R6",
+  "ids": [
+   "s966",
+   "x2e8c5869"
+  ],
+  "verdict": "ok",
+  "why": "Nasab 'Malik wa Nu'man ibna Khalaf bin Auf' berarti ayah=Khalaf, Auf=kakek; sesuai edge, salah parsing pd pesan audit."
+ },
+ {
+  "rule": "R6",
+  "ids": [
+   "s4398",
+   "x0a8836fe"
+  ],
+  "verdict": "ok",
+  "why": "Teks eksplisit: Yasar dijuluki Abu Fukaihah dari nama putrinya sendiri — sesuai edge."
+ },
+ {
+  "rule": "R6",
+  "ids": [
+   "s4409",
+   "x7a82dd0e"
+  ],
+  "verdict": "ok",
+  "why": "'Bint Raqiqah' memakai nama ibu, teks lanjut menjelaskan nasab penuh via ayah Abdullah bin Bajad bin Umair — sesuai edge."
+ },
+ {
+  "rule": "R6",
+  "ids": [
+   "s4446",
+   "x41cf6f93"
+  ],
+  "verdict": "ok",
+  "why": "'Aslamiyyah' hanya nisbah feminin milik Subai'ah sendiri, bukan nama ayah berbeda; tak ada klaim ayah lain dlm teks."
+ },
+ {
+  "rule": "R6",
+  "ids": [
+   "s4448",
+   "x80954f56"
+  ],
+  "verdict": "ok",
+  "why": "'Ibn Mas'ud' merujuk putranya (Abdullah bin Mas'ud yg terkenal), bukan nama ayahnya; ayah tetap Abdu Wudd bin Suwa — sesuai edge."
+ },
+ {
+  "rule": "R6",
+  "ids": [
+   "s4450",
+   "xf40543cb"
+  ],
+  "verdict": "ok",
+  "why": "'Imra'ah Abdullah' adalah keterangan bahwa dia istri Abdullah bin Mas'ud, bukan bagian nama ayah; ayah tetap Abu Mu'awiyah ats-Tsaqafi."
+ },
+ {
+  "rule": "R6",
+  "ids": [
+   "s4452",
+   "xaa9f0af7"
+  ],
+  "verdict": "ok",
+  "why": "'Aslamiyyah' hanya nisbah feminin milik Ku'aibah sendiri, bukan nama ayah lain."
+ },
+ {
+  "rule": "R6",
+  "ids": [
+   "s4455",
+   "x3fc78a3a"
+  ],
+  "verdict": "ok",
+  "why": "'Ghifariyyah' hanya nisbah feminin milik Umayyah sendiri; ayah tetap Qais Abu ash-Shalt al-Ghifari."
+ },
+ {
+  "rule": "R6",
+  "ids": [
+   "s4460",
+   "xc892f5c9"
+  ],
+  "verdict": "ok",
+  "why": "'Juhaniyyah' hanya nisbah feminin milik Khaulah sendiri, cocok dgn ayah Qais al-Juhani."
+ },
+ {
+  "rule": "R6",
+  "ids": [
+   "s4461",
+   "x93d78ea1"
+  ],
+  "verdict": "ok",
+  "why": "'Juhaniyyah' hanya nisbah feminin milik Saudah sendiri; teks menegaskan ayahnya memiliki shuhbah, sesuai edge."
+ },
+ {
+  "rule": "R6",
+  "ids": [
+   "s4464",
+   "x37468c29"
+  ],
+  "verdict": "ok",
+  "why": "Teks eksplisit 'al-Mu'adzdzal wa huwa Khalid bin Amr...' — laqab=ism orang yg sama, sesuai edge."
+ },
+ {
+  "rule": "R6",
+  "ids": [
+   "s4465",
+   "x0e260a0c"
+  ],
+  "verdict": "ok",
+  "why": "'Kinaniyyah' hanya nisbah feminin milik Ummu Hakim sendiri, cocok dgn ayah Thariq al-Kinani."
+ },
+ {
+  "rule": "R6",
+  "ids": [
+   "s4551",
+   "x61d01247"
+  ],
+  "verdict": "ok",
+  "why": "'Haritsiyyah' hanya nisbah feminin milik Ummu adh-Dhahhak sendiri, cocok dgn ayah Mas'ud al-Haritsi."
+ },
+ {
+  "rule": "R6",
+  "ids": [
+   "s425",
+   "x36ae0fe1"
+  ],
+  "verdict": "ok",
+  "why": "Teks: 'Abu Ahmad bin Jahsy bin Ri'ab, ismnya Abdullah' — kunya Abu Ahmad = s425 (Abdullah bin Jahsy) sendiri, edge parent ke anaknya konsisten."
+ },
+ {
+  "rule": "R6",
+  "ids": [
+   "n11304",
+   "x8995130f"
+  ],
+  "verdict": "ok",
+  "why": "Ibnsad memastikan Mulaikah menikah dengan Mas'ud bin Zaid bin Sabi' dan melahirkan Abu Jihad; nasab singkat 'Mas'ud' konsisten dengan relasi ayah."
+ },
+ {
+  "rule": "R6",
+  "ids": [
+   "n11304",
+   "s4762"
+  ],
+  "verdict": "ok",
+  "why": "Full nasab Huzailah persis cocok dengan 'Zaid bin Sabi' bin Khansa'...Salamah' milik n11304, didukung ibnsad."
+ },
+ {
+  "rule": "R6",
+  "ids": [
+   "s4780",
+   "xe0cfc8d1"
+  ],
+  "verdict": "ok",
+  "why": "Ibnsad menyatakan langsung 'Jamilah binti Abi Sha'sha'ah, wa-ismuhu Amr bin Zaid bin Auf bin Mabdzul' - hanya beda kunya/ism, bukan error."
+ },
+ {
+  "rule": "R6",
+  "ids": [
+   "s4878",
+   "x175bfb25"
+  ],
+  "verdict": "ok",
+  "why": "'Umair asy-Syaibani' dan 'Umair asy-Syaibaniyyah' merujuk satu sumber ibnsad yang sama, hanya beda bentuk gender nisbah."
+ },
+ {
+  "rule": "R6",
+  "ids": [
+   "n200",
+   "xbe97a759"
+  ],
+  "verdict": "ok",
+  "why": "Teks sendiri menghedge 'qila ismuhu Zaid bin al-Mu'alla' yang cocok dengan relasi ayah al-Mu'alla bin Ludzan; hanya pilihan di antara riwayat yang sudah dihedge."
+ },
+ {
+  "rule": "R6",
+  "ids": [
+   "n283",
+   "xadac9dc4"
+  ],
+  "verdict": "ok",
+  "why": "Nasab lengkap 'Rafi' bin Aus bin al-Mu'alla' dan ibnsad ('tazawwajaha Aus bin al-Mu'alla...fawaladat lahu Aba Sa'id') cocok persis dengan relasi ayah."
+ },
+ {
+  "rule": "R6",
+  "ids": [
+   "n352",
+   "x8f822340"
+  ],
+  "verdict": "ok",
+  "why": "Identifikasi 'Bulail bin Uhaihah' adalah salah satu hedge yang disebut langsung dalam teks ('wa yuqalu Bulail...bin Uhaihah'), konsisten dengan relasi ayah."
+ },
+ {
+  "rule": "R6",
+  "ids": [
+   "n3814",
+   "s638"
+  ],
+  "verdict": "ok",
+  "why": "Hedge 'Abdullah bin Amr bin Qais bin Zaid bin Sawad' cocok relasi ayah, diperkuat ibnsad s638 yang menyebut 'Abu Ubay' sebagai Abdullah bin Amr bin Qais."
+ },
+ {
+  "rule": "R6",
+  "ids": [
+   "n816",
+   "x8a8cd561"
+  ],
+  "verdict": "ok",
+  "why": "Teks menjelaskan sendiri 'wa Raqiqah ummuha' - Umaimah dikenal dengan nama ibunya, ayahnya tetap 'Abd bin Bajad' sesuai relasi."
+ },
+ {
+  "rule": "R6",
+  "ids": [
+   "n834",
+   "xb492c0e9"
+  ],
+  "verdict": "ok",
+  "why": "'Mu'ayyar' adalah salah satu hedge nasab langsung yang disebut teks ('ibn Mu'ayyir'), cocok relasi ayah."
+ },
+ {
+  "rule": "R6",
+  "ids": [
+   "n954",
+   "x5aaa1440"
+  ],
+  "verdict": "ok",
+  "why": "Relations n954 menyebut langsung 'waladahu: as-Sa'ib wa Abdurrahman' - as-Sa'ib memang anaknya."
+ },
+ {
+  "rule": "R6",
+  "ids": [
+   "n954",
+   "xca61784c"
+  ],
+  "verdict": "ok",
+  "why": "Relations n954 menyebut langsung 'waladahu: as-Sa'ib wa Abdurrahman' - Abdurrahman memang anaknya."
+ },
+ {
+  "rule": "R6",
+  "ids": [
+   "n959",
+   "xbecdebdf"
+  ],
+  "verdict": "ok",
+  "why": "Hedge 'ibn Zaid bin Ma'bad bin Dhabbab bin Sabi' pada nasab Busyair cocok persis dengan relasi ayah."
+ },
+ {
+  "rule": "R6",
+  "ids": [
+   "n1028",
+   "xedeaa3fb"
+  ],
+  "verdict": "ok",
+  "why": "Hedge Khalifah bin Khayyath 'Abdullah bin al-Harits bin Abdul Harits bin Asad bin Adi' cocok persis relasi ayah."
+ },
+ {
+  "rule": "R6",
+  "ids": [
+   "n1065",
+   "x77e55e86"
+  ],
+  "verdict": "ok",
+  "why": "Hedge 'ibn Abdullah bin Shu'air' pada nasab Tsa'labah cocok persis relasi ayah."
+ },
+ {
+  "rule": "R6",
+  "ids": [
+   "n1100",
+   "x4dd29af7"
+  ],
+  "verdict": "ok",
+  "why": "Hedge 'Bisyr bin Amr bin Hanasy bin al-Mu'alla' pada nasab al-Jarud cocok persis relasi ayah."
+ },
+ {
+  "rule": "R6",
+  "ids": [
+   "n1100",
+   "xff673d26"
+  ],
+  "verdict": "ok",
+  "why": "Relations al-Jarud menyebut langsung 'wa ibnuhu al-Mundzir bin al-Jarud' - al-Mundzir memang anaknya."
+ },
+ {
+  "rule": "R6",
+  "ids": [
+   "n1180",
+   "xe77ceb62"
+  ],
+  "verdict": "ok",
+  "why": "Hedge nasab Jundab al-Khair cocok persis relasi ayah 'Ka'ab bin Abdullah bin Hurr bin Amir'."
+ },
+ {
+  "rule": "R6",
+  "ids": [
+   "n1196",
+   "x90a7f5c2"
+  ],
+  "verdict": "ok",
+  "why": "Hedge 'Habis bin Rabi'ah bin al-Mundzir bin Sa'd' cocok persis relasi ayah."
+ },
+ {
+  "rule": "R5",
+  "ids": [
+   "n2304",
+   "n4613"
+  ],
+  "verdict": "ok",
+  "why": "Sa'd bin 'Aidz dan anaknya Ammar adalah mawali keluarga Ammar bin Yasir yang juga mawla Makhzum; variasi tribe mawla ini sudah dihedge dalam relations, bukan error."
+ },
+ {
+  "rule": "R5",
+  "ids": [
+   "n2304",
+   "n4688"
+  ],
+  "verdict": "ok",
+  "why": "Sama seperti F87 untuk Umar bin Sa'd bin 'Aidz, variasi tribe mawla sudah dihedge dalam relations."
+ },
+ {
+  "rule": "R6",
+  "ids": [
+   "n2541",
+   "x684d193e"
+  ],
+  "verdict": "ok",
+  "why": "Hedge 'al-Muhabbaq: Shakhr bin Ubaid' cocok persis relasi ayah."
+ },
+ {
+  "rule": "R6",
+  "ids": [
+   "n2754",
+   "xc03298ac"
+  ],
+  "verdict": "ok",
+  "why": "Hedge nasab Khalifah bin Khayyath tentang al-Had cocok persis relasi ayah."
+ },
+ {
+  "rule": "R6",
+  "ids": [
+   "n2897",
+   "x3d13ec83"
+  ],
+  "verdict": "ok",
+  "why": "Teks menegaskan 'wa ismu Jutsamah Wahb' - cocok persis relasi ayah 'Wahb bin Qais bin Abdullah'."
+ },
+ {
+  "rule": "R6",
+  "ids": [
+   "n2990",
+   "x7f7827ff"
+  ],
+  "verdict": "ok",
+  "why": "Hedge 'ath-Thufail bin Abdullah bin Sakhbarah' cocok persis relasi ayah."
+ },
+ {
+  "rule": "R6",
+  "ids": [
+   "n3138",
+   "n3732"
+  ],
+  "verdict": "ok",
+  "why": "Nasab menyebut ayah 'Abbas' yang cocok dengan al-Abbas bin Abdul Muthalib; relasi ayah pada record al-Abbas juga menyebut anak bernama Abdullah."
+ },
+ {
+  "rule": "R6",
+  "ids": [
+   "n4350",
+   "n762"
+  ],
+  "verdict": "ok",
+  "why": "Nasab menyebut ayah al-Irbadh yang sama dengan n4350 al-Irbadh bin Sariyah; relasi ayah menyebut putrinya Ummu Habibah."
+ },
+ {
+  "rule": "R6",
+  "ids": [
+   "n4351",
+   "xe7f76667"
+  ],
+  "verdict": "ok",
+  "why": "Nama ayah pada nasab (Qais bin Sa'id bin al-Arqam) cocok dengan record ayah yang ditautkan; varian Ibnu Qani' hanya urutan nama berbeda, bukan ayah lain."
+ },
+ {
+  "rule": "R6",
+  "ids": [
+   "n4923",
+   "x06adfbda"
+  ],
+  "verdict": "ok",
+  "why": "Teks ayah (Abu Buhaisah, disebut Umair oleh Ibnu Abdul Barr) cocok dengan nama ayah Umair pada nasab anak, dan relasi ayah menyebut putrinya Buhaisah."
+ },
+ {
+  "rule": "R6",
+  "ids": [
+   "n5081",
+   "n7016"
+  ],
+  "verdict": "ok",
+  "why": "Teks ayah sendiri menyatakan 'ala khilaf fih' (ada perselisihan) soal siapa ayah Yahya bin Hani'; ini perbedaan riwayat yang diakui sumber, bukan kesalahan data."
+ },
+ {
+  "rule": "R6",
+  "ids": [
+   "n5320",
+   "xd37a4fda"
+  ],
+  "verdict": "ok",
+  "why": "Al-Musthaliq adalah sebutan singkat untuk rantai Alqamah bin Najiyah bin al-Musthaliq sesuai nama lengkap anak sendiri."
+ },
+ {
+  "rule": "R6",
+  "ids": [
+   "n5344",
+   "x768f3ee4"
+  ],
+  "verdict": "ok",
+  "why": "Shubrah adalah sebutan singkat untuk Amir bin Shubrah bin Abdullah sesuai nama lengkap anak sendiri."
+ },
+ {
+  "rule": "R5",
+  "ids": [
+   "n2708",
+   "n6050"
+  ],
+  "verdict": "unsure",
+  "why": "Nama ayah Suwaid bin Qais untuk Marhab hanya disebut dengan 'yuqal' (riwayat lemah) dan nisbah Marhab sendiri al-Anshari bertentangan dengan tribe abdulqais milik Suwaid; tidak bisa diputuskan dari teks yang ada."
+ },
+ {
+  "rule": "R6",
+  "ids": [
+   "n2708",
+   "n6050"
+  ],
+  "verdict": "unsure",
+  "why": "Sama seperti F111 (edge yang sama): identifikasi ayah Marhab hanya riwayat hedge 'yuqal', tidak cukup kuat untuk memastikan kecocokan nama."
+ },
+ {
+  "rule": "R6",
+  "ids": [
+   "n6208",
+   "x7c55cae12"
+  ],
+  "verdict": "unsure",
+  "why": "Teks sendiri menyajikan beberapa teori nama berbeda untuk tokoh ini (Mu'adz bin Rabah, Ammar bin Humaid, Umarah bin Ruwaibah) dan silsilah dua vs tiga generasi; tidak jelas mana yang benar."
+ },
+ {
+  "rule": "R6",
+  "ids": [
+   "n8550",
+   "x7d923305"
+  ],
+  "verdict": "ok",
+  "why": "Nama ayah Auf bin Abi Hayyah pada nasab cocok persis dengan record ayah yang ditautkan."
+ },
+ {
+  "rule": "R5",
+  "ids": [
+   "n1240",
+   "n5379"
+  ],
+  "verdict": "unsure",
+  "why": "Nisbah anak sendiri menyebut banyak kemungkinan (Laitsi, Kinani, Anshari, Qurasyi, Amiri, bahkan Khuza'i); tidak bisa dipastikan tribe mana yang benar dari teks ini."
+ },
+ {
+  "rule": "R6",
+  "ids": [
+   "n1338",
+   "xdc399e0a"
+  ],
+  "verdict": "ok",
+  "why": "Nasab anak sendiri menyebut varian 'wa yuqal: ibn Umayyah bin Asid' yang cocok dengan ayah yang ditautkan."
+ },
+ {
+  "rule": "R6",
+  "ids": [
+   "n1510",
+   "n2133"
+  ],
+  "verdict": "ok",
+  "why": "Relasi ayah (Hushain bin Aws) eksplisit menyebut 'walad Ziyad bin al-Hushain'; nama ayah pada nasab cocok persis."
+ },
+ {
+  "rule": "R6",
+  "ids": [
+   "n1909",
+   "x941ad25e"
+  ],
+  "verdict": "ok",
+  "why": "Relasi ayah (Dzul Jawshan/Utsman bin Naufal) eksplisit menyebut 'walad Syamir'; nama Utsman cocok dengan salah satu nama ayah yang ditautkan."
+ },
+ {
+  "rule": "R6",
+  "ids": [
+   "n2003",
+   "x90a143f9"
+  ],
+  "verdict": "ok",
+  "why": "Relasi ayah (Abu Amrah) eksplisit menyebut 'walad Abdurrahman' dan hedge 'qila ismuhu Rasyid' cocok dengan nasab anak."
+ },
+ {
+  "rule": "R6",
+  "ids": [
+   "n2045",
+   "x6ee095dd"
+  ],
+  "verdict": "ok",
+  "why": "Relasi ayah (az-Zari' bin Amir) eksplisit menyebut putranya al-Majnun Mathar."
+ },
+ {
+  "rule": "R6",
+  "ids": [
+   "n2045",
+   "xaadd9c13"
+  ],
+  "verdict": "ok",
+  "why": "Relasi ayah (az-Zari' bin Amir) eksplisit menyebut putranya al-Wazi'."
+ },
+ {
+  "rule": "R6",
+  "ids": [
+   "n7344",
+   "x349cacd8"
+  ],
+  "verdict": "ok",
+  "why": "Relasi ayah menyebut anaknya bernama Khalaf (al-Huwayrith); nama Abdullah pada nasab anak cocok dengan ism utama ayah yang ditautkan."
+ },
+ {
+  "rule": "R9",
+  "ids": [
+   "x32f79532",
+   "xc62f12b0"
+  ],
+  "verdict": "ok",
+  "why": "Teks Ibnu Sa'd menyebut 'Ummul Hasan' dan 'Ummul Hasan ash-Shughra' sebagai dua anak terpisah dalam daftar anak Sa'id bin Zaid; gelar Sughra menandakan orang berbeda."
+ },
+ {
+  "rule": "R9",
+  "ids": [
+   "x6fb3dbf5",
+   "x99d91f8a"
+  ],
+  "verdict": "ok",
+  "why": "Teks menyebut 'Ummu Zaid al-Kubra' dan 'Ummu Zaid' dengan ibu yang berbeda (Umamah vs Hazmah bint Qais); ibu berbeda berarti orang berbeda."
+ },
+ {
+  "rule": "R9",
+  "ids": [
+   "n1764",
+   "x8ba0611a"
+  ],
+  "verdict": "ok",
+  "why": "Khalid bin Sa'id bin Zaid dan Khalid bin al-Walid bin al-Mughirah punya ayah berbeda; meski ibu sama (Lubabah ash-Shughra), mereka saudara seibu yang berbeda orang, bukan duplikat."
+ },
+ {
+  "rule": "R9",
+  "ids": [
+   "n2305",
+   "s545"
+  ],
+  "verdict": "ok",
+  "why": "Teks ibnsad eksplisit menyebut Sa'd bin Ubadah sebagai 'ibn khalah Sa'd bin Zaid al-Ashhali' (sepupu, bukan orang yang sama)."
+ },
+ {
+  "rule": "R9",
+  "ids": [
+   "n10989",
+   "n6206"
+  ],
+  "verdict": "ok",
+  "why": "Mu'adz bin al-Harits bin Rifa'ah (Badri, ibu Afra', anak Ubaidullah/Harits/Auf/Ibrahim) dan Mu'adz bin al-Harits al-Qari' (ibu ummu walad, anak berbeda, sahabat Ibnu Mas'ud) punya nisbah, ibu, dan daftar anak berbeda; dua orang berbeda."
+ },
+ {
+  "rule": "R9",
+  "ids": [
+   "n3229",
+   "xc310fdda"
+  ],
+  "verdict": "ok",
+  "why": "Teks Ibnu Sa'd: Abdurrahman bin Amr bin Tsa'labah \"درجا لا عقب لهما\" (meninggal muda, tanpa keturunan), sedangkan Abdurrahman bin Abi 'Amrah punya anak Abdullah dan wafat 101-110H serta nasab ayahnya beda (Wahb bin Adi vs Mahsan/Mabdzul); bukan orang yang sama."
+ },
+ {
+  "rule": "R9",
+  "ids": [
+   "n3630",
+   "n3637"
+  ],
+  "verdict": "ok",
+  "why": "Suku dan ayah berbeda total (Khubaib/juhainah vs Hanzhalah/aus); teks n3637 tidak menyebut ibu Jamilah sama sekali, bukan duplikat."
+ },
+ {
+  "rule": "R9",
+  "ids": [
+   "x702e8976",
+   "xefb896d2"
+  ],
+  "verdict": "ok",
+  "why": "Teks rawi menyebut ibu berbeda: Ummu Sa'd dari Ummu Abdullah bint al-Fakih, sedangkan Ummu Sa'd ash-Shughra dari umm walad; ibu berbeda berarti orang berbeda."
+ },
+ {
+  "rule": "R9",
+  "ids": [
+   "n3650",
+   "xc5429e00"
+  ],
+  "verdict": "ok",
+  "why": "Ayah dan suku berbeda total (al-Harits bin Abdul Muththalib/hasyim vs Farqad/sulaim), bukan duplikat."
+ },
+ {
+  "rule": "R9",
+  "ids": [
+   "n3659",
+   "xefa3f661"
+  ],
+  "verdict": "ok",
+  "why": "Dua anak laki-laki berbeda dari ibu yang sama Quraibah tetapi ayah berbeda (Abdurrahman bin Abi Bakar vs Zam'ah bin al-Aswad); hanya saudara seibu, bukan duplikat."
+ },
+ {
+  "rule": "R9",
+  "ids": [
+   "x0bfc816f",
+   "x602f351f"
+  ],
+  "verdict": "ok",
+  "why": "Dua Tsabit bin Qais bin al-Khathim dengan ibu berbeda yang disebutkan jelas: satu dari Aqrab bint Mu'adz, satu dari Hawwa bint Zaid bin Sakan; jadi dua saudara seayah berbeda ibu, bukan duplikat."
+ },
+ {
+  "rule": "R9",
+  "ids": [
+   "s545",
+   "x6eb70756"
+  ],
+  "verdict": "ok",
+  "why": "s545 adalah anak Zaid bin Malik bin Abd bin Ka'b bin Abdul Ashhal (ibu Amrah bint Mas'ud bin Qais), tidak ada hubungan dengan Zaid bin Tsabit bin adh-Dhahhak; x6eb70756 adalah anak Zaid bin Tsabit yang berbeda, bukan duplikat."
+ },
+ {
+  "rule": "R9",
+  "ids": [
+   "n9840",
+   "x9b1bb8f1"
+  ],
+  "verdict": "ok",
+  "why": "Nama ayah berbeda total (Ghaziyyah bin Amr vs Zaid), dan teks n9840 tidak menyebut ibu Nusaibah/Umm Ammarah; bukan bukti orang yang sama."
+ },
+ {
+  "rule": "R9",
+  "ids": [
+   "s4837",
+   "s4839",
+   "s4840",
+   "s4841"
+  ],
+  "verdict": "ok",
+  "why": "Ibnu Sa'd sendiri membedakan \"Amrah al-ula/al-tsalitsah/al-rabi'ah/al-khamisah\" sebagai saudari berbeda dengan suami dan anak masing-masing berbeda walau nama dan ibu sama; bukan duplikat."
+ },
+ {
+  "rule": "R9",
+  "ids": [
+   "n3078",
+   "n320"
+  ],
+  "verdict": "ok",
+  "why": "Dua tokoh berbeda total: Abu Ubaidah bin al-Jarrah (fihr, wafat 17/18H, sahabat) vs Abu Ubaidah bin Abdullah bin Zam'ah (asad, wafat 111-120H, bukan sahabat); hanya kunyah sama."
+ },
+ {
+  "rule": "R9",
+  "ids": [
+   "n15947",
+   "n2214"
+  ],
+  "verdict": "ok",
+  "why": "Dua istri Nabi yang jelas berbeda: Zainab bint Jahsy (ayah Jahsy, suku asad-k) vs Zainab bint Khuzaimah (ayah Khuzaimah, suku hawazin); bukan duplikat."
+ },
+ {
+  "rule": "R9",
+  "ids": [
+   "n15652",
+   "s4412"
+  ],
+  "verdict": "ok",
+  "why": "Nasab berbeda generasi: n15652 anak al-Walid bin Abd Syams bin al-Walid bin al-Mughirah (cicit), sedangkan s4412 anak langsung al-Walid bin al-Mughirah; bukan orang yang sama."
+ },
+ {
+  "rule": "R9",
+  "ids": [
+   "x642d171c",
+   "x7f7827ff"
+  ],
+  "verdict": "unsure",
+  "why": "Tidak ada teks ibnsad sama sekali untuk kedua id sehingga tidak dapat dipastikan dari teks apakah \"ibn al-Harits bin Sakhbarah\" dan \"ibn Sakhbarah\" orang yang sama atau beda generasi."
+ },
+ {
+  "rule": "R9",
+  "ids": [
+   "n8653",
+   "x7a9f73cd"
+  ],
+  "verdict": "ok",
+  "why": "Teks sendiri membedakan dua istri Umar bernama Ummu Kultsum: satu bint Ali bin Abi Thalib (ibu Zaid/Ruqayyah), satu bint Jarwal dari Khuza'ah (ibu Zaid al-Ashghar/Ubaidullah) yang berpisah dari Umar karena Islam; bukan duplikat."
+ },
+ {
+  "rule": "R9",
+  "ids": [
+   "x8d2daa44",
+   "xa3924cdd",
+   "xdc2e5a8e"
+  ],
+  "verdict": "ok",
+  "why": "Teks 3/557 eksplisit menyebut tiga istri Abu Usaid yang berbeda untuk tiga anak berbeda (Usaid&Mundzir / Ghaliz / Hamzah) — ibu berbeda berarti orang berbeda."
+ },
+ {
+  "rule": "R9",
+  "ids": [
+   "x52b0d784",
+   "xb5163734"
+  ],
+  "verdict": "ok",
+  "why": "xb5163734 (ibu Umair bin al-Harits) nasabnya 'Nabi' bin Zaid', berbeda dari x52b0d784 (ibu Ramlah, dari Tsabit bin an-Nu'man) — tidak ada teks yang menghubungkan ke suami yang sama."
+ },
+ {
+  "rule": "R9",
+  "ids": [
+   "s4768",
+   "x8ec28a29"
+  ],
+  "verdict": "unsure",
+  "why": "Keduanya istri Quthbah bin Amir dengan ujung nasab sama ('bin Amr bin Sawad') tapi nama ayah 'Khulaid' vs 'Hudaidah' cukup berbeda; tidak jelas dari teks apakah satu orang atau dua istri."
+ },
+ {
+  "rule": "R9",
+  "ids": [
+   "s4516",
+   "xb15583df"
+  ],
+  "verdict": "ok",
+  "why": "s4516 wanita Aus dari Ratij, sedangkan xb15583df eksplisit 'dari Juhainah' dan menjadi ibu ash-Sha'bah binti Jabal — suku dan konteks berbeda."
+ },
+ {
+  "rule": "R9",
+  "ids": [
+   "s4837",
+   "s4839",
+   "s4840"
+  ],
+  "verdict": "ok",
+  "why": "Teks 8/450-451 eksplisit menyebut al-Ula, ats-Tsalitsah, ar-Rabi'ah sebagai saudari berbeda putri Mas'ud bin Qais dengan suami dan anak masing-masing berbeda."
+ },
+ {
+  "rule": "R9",
+  "ids": [
+   "s4522",
+   "s4523"
+  ],
+  "verdict": "ok",
+  "why": "Dua entri Ibnu Sa'd 8/327 terpisah: 'Amamah binti Khadij bin Rafi'' (cucu Rafi') dan 'Amamah binti Rafi'' (anak Rafi' langsung) beda generasi ayah; tidak ada bukti mereka orang yang sama."
+ },
+ {
+  "rule": "R9",
+  "ids": [
+   "n15051",
+   "x51726e7e",
+   "x6f38041b"
+  ],
+  "verdict": "ok",
+  "why": "Tiga Atikah berbeda: bint Abdul Muththalib dan bint Utbah bin Rabi'ah sama-sama istri Abu Umayyah tapi anaknya beda (Qaribah vs Qaribah ash-Shughra, ibu beda); bint Amir bin Rabi'ah justru ibu Ummu Salamah istri Abu Salamah, tidak terkait Abu Umayyah."
+ },
+ {
+  "rule": "R9",
+  "ids": [
+   "x101747d9",
+   "x73b2e2aa"
+  ],
+  "verdict": "ok",
+  "why": "Dua Shafiyyah berbeda: bint Abi al-'Ash adalah ibu Ummu Habibah, bint Abi Amr adalah ibu Hind - dua istri Abu Sufyan dengan anak dan nasab ayah berbeda, bukan duplikat."
+ },
+ {
+  "rule": "R9",
+  "ids": [
+   "n787",
+   "s4378"
+  ],
+  "verdict": "ok",
+  "why": "Dua Ummu Kultsum berbeda secara nasab (Uqbah bin Abi Mu'aith vs Utbah bin Rabi'ah, dua tokoh terkenal berbeda) yang kebetulan sama-sama pernah jadi istri Abdurrahman bin Auf - bukan duplikat."
+ },
+ {
+  "rule": "R9",
+  "ids": [
+   "xbfc9bace",
+   "xfc691bfc"
+  ],
+  "verdict": "unsure",
+  "why": "Teks ibnsad yang identik pada kedua id hanya menyebut suami 'Usaid bin Sa'idah', bukan 'Burdza' bin Zaid'; tidak ada bukti tekstual yang mengaitkan nama Yazid bin Burdza' dengan entri yang sama."
+ },
+ {
+  "rule": "R9",
+  "ids": [
+   "n1194",
+   "s4769",
+   "xf8346336"
+  ],
+  "verdict": "ok",
+  "why": "Tiga Ummu Jamil berbeda nasab ayah (Quthbah bin Amir, al-Mujallil, al-Mukhawwal) tanpa teks yang menyatukan mereka - kemungkinan tiga istri Zaid bin Tsabit yang poligami, bukan duplikat."
+ },
+ {
+  "rule": "R9",
+  "ids": [
+   "xe2f48524",
+   "xeba16f63"
+  ],
+  "verdict": "ok",
+  "why": "Teks sendiri menyebut dua suami al-Furai'ah berurutan: sahl bin rafi' bin bashir, 'tsumma khalafa alaiha' sahl bin bashir bin anbasah - jelas suami pertama dan kedua yang berbeda, bukan duplikat."
+ },
+ {
+  "rule": "R9",
+  "ids": [
+   "s4788",
+   "xb6edf5e9"
+  ],
+  "verdict": "unsure",
+  "why": "Nama ayah berbeda signifikan (Shurmah vs Mu'awiyah) dan xb6edf5e9 tanpa teks pendukung sama sekali - tidak cukup bukti untuk menyatukan."
+ },
+ {
+  "rule": "R9",
+  "ids": [
+   "x403de543",
+   "x92205cb8"
+  ],
+  "verdict": "ok",
+  "why": "Teks x92205cb8 menyebut tiga suami berurutan Mandus: 'Umarah bin al-Hubab, lalu Abdullah bin Ka'b bin Zaid, lalu Abdullah bin Abi Sulait - jelas dua Abdullah berbeda yang menikahinya berurutan, bukan duplikat."
+ },
+ {
+  "rule": "R9",
+  "ids": [
+   "s4837",
+   "x6e82028a11"
+  ],
+  "verdict": "unsure",
+  "why": "Teks sendiri membedakan tiga saudari bernama 'Amrah (al-Ula/al-Tsaniyah/al-Tsalitsah); yang menikah Sahl bin Tsa'labah adalah al-Tsaniyah bukan al-Ula (s4837) - tidak jelas identitas x6e82028a11 cocok dengan siapa."
+ },
+ {
+  "rule": "R9",
+  "ids": [
+   "x07b4982b",
+   "x7fbdad40"
+  ],
+  "verdict": "unsure",
+  "why": "Kedua id (Abu Ma'qal/Abi Mi'qal) sama sekali tanpa teks ibnsad pendukung; tidak bisa diputuskan hanya dari kesamaan nama kunyah."
+ },
+ {
+  "rule": "R9",
+  "ids": [
+   "x5128bab2",
+   "x7ab1d465"
+  ],
+  "verdict": "unsure",
+  "why": "Kedua id tanpa teks ibnsad, nama ayah berbeda (Jad'a' vs Tsa'labah bin Abdi 'Amir) - tidak cukup bukti untuk memutuskan."
+ },
+ {
+  "rule": "R9",
+  "ids": [
+   "x1f419fc6",
+   "xfd6b19d6"
+  ],
+  "verdict": "unsure",
+  "why": "Kedua id tanpa teks ibnsad; meski nama dan ayah (Amir) sama, tidak ada teks yang memastikan keduanya orang yang sama."
+ },
+ {
+  "rule": "R6",
+  "ids": [
+   "n816",
+   "x7a82dd0e"
+  ],
+  "verdict": "ok",
+  "why": "Teks lengkap Umaimah sendiri menyebut 'ويقال: بنت عبد الله بن بجاد بن عمير بن الحارث' sesuai ayah yang ditautkan; 'Ruqayqah' hanyalah nama ibu yang jadi nama populer."
+ },
+ {
+  "rule": "R6",
+  "ids": [
+   "n1059",
+   "s714"
+  ],
+  "verdict": "ok",
+  "why": "Salah satu varian nasab Tsabit sendiri ('ثابت بن زيد بن وديعة بن عمرو بن قيس بن جزي...') sama persis dengan data ayah (s714) yang ditautkan."
+ },
+ {
+  "rule": "R6",
+  "ids": [
+   "n2990",
+   "x642d171c"
+  ],
+  "verdict": "ok",
+  "why": "Varian nasab ath-Thufail sendiri menyebut 'ويقال: الطفيل بن عبد الله بن الحارث بن سخبرة' sama persis dengan ayah yang ditautkan."
+ },
+ {
+  "rule": "R6",
+  "ids": [
+   "n2192",
+   "xfedd6514"
+  ],
+  "verdict": "ok",
+  "why": "Varian nasab Abu 'Iyasy sendiri menyebut 'عبد الرحمن بن معاوية بن الصامت بن زيد بن خلدة بن مخلد بن عامر بن زريق' identik dengan ayah yang ditautkan."
+ },
+ {
+  "rule": "R9",
+  "ids": [
+   "xc71cf3ef",
+   "xccced9ed"
+  ],
+  "verdict": "ok",
+  "why": "Aun bin Ali dan Aun bin Ja'far adalah dua putra Asma' bint Umais dari ayah berbeda (saudara seibu lazim); tidak ada teks yang menyatakan mereka orang yang sama."
+ },
+ {
+  "rule": "R9",
+  "ids": [
+   "n5458",
+   "x584a15e0"
+  ],
+  "verdict": "ok",
+  "why": "Muhammad bin Abi Bakar (wali Mesir) dan Muhammad bin Ja'far (wafat tanpa keturunan) adalah saudara seibu (Asma' bint Umais) dengan ayah berbeda, bukan duplikat."
+ },
+ {
+  "rule": "R9",
+  "ids": [
+   "n15565",
+   "n2990"
+  ],
+  "verdict": "ok",
+  "why": "Teks n15565 sendiri menyebut ibunya Sakhilah bint Khuza'i, bukan Ummu Ruman, dan nasab keduanya (Muthalib vs Azd/Asad) sama sekali berbeda."
+ },
+ {
+  "rule": "R9",
+  "ids": [
+   "s4765",
+   "x79c27721"
+  ],
+  "verdict": "unsure",
+  "why": "Nama ayah berbeda (Ghunmah vs Uqbah) dan record kedua tanpa teks pendukung sama sekali, tak bisa dipastikan identitasnya."
+ },
+ {
+  "rule": "R9",
+  "ids": [
+   "x7bef0fb6",
+   "xf663bec73"
+  ],
+  "verdict": "unsure",
+  "why": "Tidak ada teks (full/nisba/ibnsad) untuk kedua record guna memastikan sama atau justru dua saudari (pola Kubra/Sughra) yang berbeda."
+ },
+ {
+  "rule": "R9",
+  "ids": [
+   "n11390",
+   "n2219"
+  ],
+  "verdict": "unsure",
+  "why": "Teks n11390 sendiri meragukan ('يقال: هي بنت جحش، ويقال: امرأة ابن مسعود'), tak bisa dipastikan sama dengan n2219 atau justru Zainab bint Jahsy yang berbeda."
+ }
+]

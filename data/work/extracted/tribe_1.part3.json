@@ -1,0 +1,93 @@
+[
+  {
+    "id": "hudzail",
+    "nama_arti": {"t": "Nama diambil dari leluhur eponim, Hudzail bin Mudrikah.", "basis": "umum", "src": []},
+    "leluhur": {"t": "Hudzail bin Mudrikah bin Ilyas bin Mudhar.", "basis": "sumber", "src": ["Jamharat Ansab al-'Arab, hlm. 196"]},
+    "titik_temu": {"t": "Bersaudara dengan Kinanah, keduanya dari Mudrikah bin Ilyas; bertemu dengan Quraisy pada Ilyas bin Mudhar.", "basis": "umum", "src": []},
+    "struktur": {"t": "Dua anak Hudzail: Sa'd dan Lihyan; dari Sa'd lewat Tamim-Mu'awiyah lahir Abdullah bin Mas'ud dan saudara-saudaranya, 'Utbah dan 'Umais.", "basis": "sumber", "src": ["Jamharat Ansab al-'Arab, hlm. 196"]},
+    "wilayah": {"t": "Pegunungan di sekitar Makkah.", "basis": "umum", "src": []},
+    "peran_sosial": {"t": "Klan Abdullah bin Mas'ud, sahabat ahli Al-Qur'an dan qari terkemuka; kabilah ini juga dikenal luas dalam sejarah sastra Arab pra-Islam, memiliki banyak penyair ternama.", "basis": "umum", "src": []},
+    "hilf": null,
+    "tokoh": ["Abdullah bin Mas'ud bin Ghafil", "Utbah bin Mas'ud bin Ghafil bin Habib", "Abdullah bin Utbah bin Mas'ud", "Nubaisyah bin Abdullah bin 'Amr bin 'Attab", "Salamah bin al-Muhabbaq", "Sinan bin Salamah bin al-Muhabbaq", "Usamah bin 'Umair bin 'Amir al-Aqisyar", "Hamal bin Malik bin an-Nabighah"],
+    "dinamika": {"t": "Abdullah bin Mas'ud dikenal sebagai salah satu sahabat paling menguasai bacaan Al-Qur'an sesuai pengakuan Nabi ﷺ, dan menjadi rujukan utama qira'at serta fiqih di Kufah.", "basis": "umum", "src": []},
+    "rujukan": ["Jamharat Ansab al-'Arab (Ibnu Hazm)", "Jamharat an-Nasab (Ibnu al-Kalbi)", "al-Ishabah (Ibnu Hajar)"]
+  },
+  {
+    "id": "ghifar",
+    "nama_arti": {"t": "Nama diambil dari leluhur eponim Ghifar, dikaitkan secara tradisional dengan kata \"ghafr\" (pengampunan/penutup), meski asal-usul maknanya tidak disepakati secara pasti.", "basis": "umum", "src": []},
+    "leluhur": null,
+    "titik_temu": null,
+    "struktur": null,
+    "wilayah": {"t": "Mendiami kawasan di jalur antara Makkah dan Madinah, dekat wilayah Kinanah.", "basis": "umum", "src": []},
+    "peran_sosial": {"t": "Kabilah Abu Dzar al-Ghifari, sahabat yang dikenal karena kezuhudannya dan keislamannya yang awal, meski kaumnya dikenal sebagai perampok jalur kafilah sebelum Islam.", "basis": "umum", "src": []},
+    "hilf": null,
+    "tokoh": ["Jundub bin Junadah bin Ku'aib bin Shu'air", "Hudzaifah bin Umayyah bin Asid", "Rafi' bin 'Amr bin Majda'", "Khifaf bin Ima' bin Rahdhah", "Bushrah bin Aktsam", "Wahb bin Hudzaifah bin 'Abbad bin Khallad", "al-Hakam bin 'Amr bin Mujadda' bin Hudzaim", "Ahban bin Shaifi"],
+    "dinamika": {"t": "Meski tidak ada kutipan nasab Jamharah yang tersedia untuk kabilah ini dalam data, Ghifar dikenal luas lewat sahabat Jundub bin Junadah (Abu Dzar al-Ghifari), yang disebut Nabi ﷺ sebagai sosok yang zuhud dan jujur.", "basis": "umum", "src": []},
+    "rujukan": ["al-Ishabah (Ibnu Hajar)", "ath-Thabaqat al-Kubra (Ibnu Sa'd)"]
+  },
+  {
+    "id": "aslam",
+    "nama_arti": {"t": "Nama diambil dari leluhur eponim, Aslam bin Afsha.", "basis": "umum", "src": []},
+    "leluhur": {"t": "Aslam bin Afsha bin 'Amir bin Qam'ah bin Ilyas bin Mudhar.", "basis": "sumber", "src": ["Jamharat Ansab al-'Arab, hlm. 240"]},
+    "titik_temu": {"t": "Satu rumpun dengan Khuza'ah lewat jalur 'Amir bin Qam'ah/Afsha; sebagian riwayat memasukkan Aslam ke dalam Khuza'ah.", "basis": "umum", "src": []},
+    "struktur": {"t": "Dua anak Aslam: Salaman dan Hawazin; dari Salaman lahir cabang yang melahirkan Buraidah bin al-Hushaib; dari Hawazin lahir cabang yang melahirkan Salamah dan 'Amir, bani al-Akwa'.", "basis": "sumber", "src": ["Jamharat Ansab al-'Arab, hlm. 240"]},
+    "wilayah": {"t": "Sekitar Madinah.", "basis": "umum", "src": []},
+    "peran_sosial": {"t": "Kabilah pendukung awal yang banyak menyumbang sahabat Nabi ﷺ; terkenal lewat doa Nabi ﷺ untuk keselamatan mereka.", "basis": "umum", "src": []},
+    "hilf": null,
+    "tokoh": ["Buraidah bin al-Hushaib bin Abdullah bin al-Harits", "Amir bin al-Akwa'", "Jurhud bin Rizah bin 'Adi", "Hamzah bin 'Amr bin 'Uwaimir bin al-Harits", "Ma'iz bin Malik al-Aslami", "Hajjaj bin Malik bin 'Uwaimir bin Abi Usaid", "Abdullah bin Abi Awfa", "Rabi'ah bin Ka'ab bin Malik"],
+    "dinamika": {"t": "Kabilah Aslam dikenal lewat doa Nabi ﷺ \"Aslam, salamahaLlahu\" (semoga Allah menyelamatkan Aslam), serta kisah Ma'iz bin Malik yang mengakui dosanya di hadapan Nabi ﷺ sebagai teladan taubat.", "basis": "umum", "src": []},
+    "rujukan": ["Jamharat Ansab al-'Arab (Ibnu Hazm)", "ath-Thabaqat al-Kubra (Ibnu Sa'd)", "al-Ishabah (Ibnu Hajar)"]
+  },
+  {
+    "id": "juhainah",
+    "nama_arti": {"t": "Nama diambil dari leluhur eponim, Juhainah bin Zaid.", "basis": "umum", "src": []},
+    "leluhur": {"t": "Juhainah bin Zaid bin Laits bin Sud bin Aslam bin al-Hafi bin Qudha'ah.", "basis": "sumber", "src": ["Jamharat Ansab al-'Arab, hlm. 444"]},
+    "titik_temu": {"t": "Termasuk rumpun Qudha'ah; bertemu dengan kabilah Qudha'ah lain seperti Bali dan Kalb pada Qudha'ah.", "basis": "umum", "src": []},
+    "struktur": {"t": "Dua anak Juhainah: Qais dan Maudu'ah; dari Qais lahir cabang Ghathafan (bani Rasydan) dan Ghayyan.", "basis": "sumber", "src": ["Jamharat Ansab al-'Arab, hlm. 444"]},
+    "wilayah": {"t": "Sebelah barat Madinah, di jalur antara Madinah dan Laut Merah.", "basis": "umum", "src": []},
+    "peran_sosial": {"t": "Kabilah yang banyak bersekutu dengan kaum Anshar dan ikut dalam ekspedisi-ekspedisi awal Islam.", "basis": "umum", "src": []},
+    "hilf": {"t": "Sebagian anggota Juhainah, seperti Rabi'ah bin 'Amr, tercatat sebagai sekutu (hilf) Bani an-Najjar dari Anshar dan ikut Perang Badar.", "basis": "sumber", "src": ["Jamharat Ansab al-'Arab, hlm. 444"]},
+    "tokoh": ["Abdullah bin Unais", "Abdullah bin Khubaib", "Basbas bin Amr bin Tsa'labah bin Kharsyah", "Jundab bin Mukits bin 'Amr bin Jarrad", "Ausajah bin Harmalah bin Judzaimah bin Sabrah", "Ma'bad bin Khalid al-Juhani", "Khalid bin Adi al-Juhani", "Wadi'ah bin Amr bin Jarrad"],
+    "dinamika": {"t": "Juhainah dikenal lewat tokoh Ausajah bin Harmalah yang diberi wewenang oleh Nabi ﷺ memimpin seribu orang dari kaumnya; mereka juga terkait peristiwa tewasnya seorang muallaf oleh pasukan Usamah bin Zaid yang kemudian ditegur Nabi ﷺ.", "basis": "umum", "src": []},
+    "rujukan": ["Jamharat Ansab al-'Arab (Ibnu Hazm)", "al-Ishabah (Ibnu Hajar)"]
+  },
+  {
+    "id": "muzainah",
+    "nama_arti": {"t": "Nama diambil dari nama ibu kabilah, Muzainah binti Kalb bin Wabrah; anak-anaknya dinisbahkan kepadanya.", "basis": "sumber", "src": ["Jamharat Ansab al-'Arab, hlm. 201"]},
+    "leluhur": {"t": "'Amr bin Udd, ayah Utsman dan Aus, dua putra yang ibunya bernama Muzainah binti Kalb bin Wabrah.", "basis": "sumber", "src": ["Jamharat Ansab al-'Arab, hlm. 201"]},
+    "titik_temu": {"t": "Melalui jalur ayah ('Amr bin Udd) bertemu dengan Bani Tamim pada Udd; melalui jalur ibu (Muzainah binti Kalb bin Wabrah) berkerabat dengan kabilah-kabilah Qudha'ah.", "basis": "sumber", "src": ["Jamharat Ansab al-'Arab, hlm. 201"]},
+    "struktur": {"t": "Dua anak Muzainah: Utsman dan Aus; dari garis ini lahir an-Nu'man bin Muqarrin dan saudara-saudaranya—tujuh bersaudara yang semuanya sahabat Nabi ﷺ—serta penyair Zuhair bin Abi Sulma.", "basis": "sumber", "src": ["Jamharat Ansab al-'Arab, hlm. 201"]},
+    "wilayah": {"t": "Sekitar Madinah, ke arah utara menuju Syam.", "basis": "umum", "src": []},
+    "peran_sosial": {"t": "Dikenal lewat tujuh bersaudara bani Muqarrin yang semuanya sahabat Nabi ﷺ dan ikut hijrah; an-Nu'man bin Muqarrin memimpin Perang Nahawand.", "basis": "umum", "src": []},
+    "hilf": null,
+    "tokoh": ["an-Nu'man bin Muqarrin bin 'Aidz", "Suwaid bin Muqarrin bin 'Aidz", "Uqail bin Muqarrin", "Abdullah bin Mughaffal bin Abdu Nahm", "Mi'qal bin Yasar bin Abdullah bin Ma'bar", "Abdullah bin Sarjis", "Qurrah bin Iyas bin Hilal", "Malik bin Tsabit"],
+    "dinamika": {"t": "an-Nu'man bin Muqarrin memimpin pasukan Muslim pada Perang Nahawand (21 H) dan gugur syahid dalam kemenangan besar atas Persia.", "basis": "umum", "src": []},
+    "rujukan": ["Jamharat Ansab al-'Arab (Ibnu Hazm)", "al-Ishabah (Ibnu Hajar)"]
+  },
+  {
+    "id": "asyja",
+    "nama_arti": {"t": "Nama diambil dari leluhur eponim, Asyja' bin Raits.", "basis": "umum", "src": []},
+    "leluhur": {"t": "Asyja' bin Raits bin Ghathafan bin Sa'd bin Qais 'Ailan.", "basis": "sumber", "src": ["Jamharat Ansab al-'Arab, hlm. 249"]},
+    "titik_temu": {"t": "Cabang dari Ghathafan; bertemu dengan Fazarah, 'Abs, dan Dzubyan pada Ghathafan bin Sa'd.", "basis": "umum", "src": []},
+    "struktur": null,
+    "wilayah": {"t": "Sekitar Madinah, berdekatan dengan wilayah Ghathafan lainnya.", "basis": "umum", "src": []},
+    "peran_sosial": {"t": "Kabilah sekutu dekat Anshar Madinah; sejumlah anggotanya masuk Islam lebih awal dibanding kabilah Ghathafan lain.", "basis": "umum", "src": []},
+    "hilf": null,
+    "tokoh": ["Mas'ud bin Rukhailah bin Aidz bin Malik", "Nu'aim bin Abi Hind", "Nubaith bin Syuraith bin Anas bin Malik", "Auf bin Malik bin Abi Auf", "Abdullah bin al-Humair", "Hamzah bin al-Humair", "Farwah bin Naufal", "'Urfujah bin Syuraih"],
+    "dinamika": {"t": "Mi'qal bin Sinan, tokoh Asyja' yang memimpin kaum Muhajirin pada Perang Harrah, gugur syahid di tangan pasukan Muslim bin 'Uqbah.", "basis": "umum", "src": []},
+    "rujukan": ["Jamharat Ansab al-'Arab (Ibnu Hazm)", "al-Ishabah (Ibnu Hajar)"]
+  },
+  {
+    "id": "ghathafan",
+    "nama_arti": {"t": "Nama diambil dari leluhur eponim, Ghathafan bin Sa'd.", "basis": "umum", "src": []},
+    "leluhur": {"t": "Ghathafan bin Sa'd bin Qais 'Ailan bin Mudhar.", "basis": "sumber", "src": ["Jamharat Ansab al-'Arab, hlm. 248"]},
+    "titik_temu": {"t": "Bertemu dengan Hawazin dan Tsaqif pada Qais 'Ailan; mencakup beberapa kabilah besar seperti Fazarah, 'Abs, dan Dzubyan.", "basis": "sumber", "src": ["Jamharat Ansab al-'Arab, hlm. 248", "Jamharat Ansab al-'Arab, hlm. 249"]},
+    "struktur": {"t": "Dua anak Ghathafan: Raits dan Abdul 'Uzza, yang diganti nama oleh Nabi ﷺ menjadi Abdullah; dari Raits lahir cabang Ahwan, Mazin, Asyja', dan Bughaidh, leluhur Fazarah, 'Abs, dan Dzubyan.", "basis": "sumber", "src": ["Jamharat Ansab al-'Arab, hlm. 248", "Jamharat Ansab al-'Arab, hlm. 249"]},
+    "wilayah": {"t": "Najd, di wilayah antara Madinah dan Syam.", "basis": "umum", "src": []},
+    "peran_sosial": {"t": "Kabilah besar yang beberapa cabangnya ikut dalam koalisi menyerang Madinah pada Perang Khandaq, namun belakangan banyak anggotanya masuk Islam.", "basis": "umum", "src": []},
+    "hilf": {"t": "Sebagian Ghathafan bersekutu dengan Quraisy dan Yahudi Madinah dalam koalisi al-Ahzab menyerang Madinah pada Perang Khandaq (5 H).", "basis": "umum", "src": []},
+    "tokoh": ["Hudzaifah bin al-Yaman", "Nu'aim bin Mas'ud bin 'Amir bin Anif", "Samurah bin Jundub bin Hilal", "Fathimah binti al-Yaman", "Nu'aim bin Hammar", "Usamah bin Syarik", "Kharasyah bin al-Hurr bin Qais bin Hishn", "Syakal bin Humaid"],
+    "dinamika": {"t": "Nu'aim bin Mas'ud, tokoh Ghathafan yang masuk Islam, berperan memecah belah koalisi al-Ahzab dari dalam atas perintah Nabi ﷺ saat Perang Khandaq.", "basis": "umum", "src": []},
+    "rujukan": ["Jamharat Ansab al-'Arab (Ibnu Hazm)", "al-Ishabah (Ibnu Hajar)", "ath-Thabaqat al-Kubra (Ibnu Sa'd)"]
+  }
+]

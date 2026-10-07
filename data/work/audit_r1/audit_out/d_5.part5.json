@@ -1,0 +1,11 @@
+[
+{"fid": "F237", "verdict": "fix", "why": "n625 adalah Asma' binti Umais yang terkenal, istri Ja'far bin Abi Thalib sesuai ibnsad xe7ce002b — orang yang sama.", "ops": [{"op":"merge","keep":"n625","drop":"xe7ce002b"}]},
+{"fid": "F238", "verdict": "fix", "why": "Keduanya ibu Nawfal & Arwa anak al-Harits bin Abdul Muththalib dengan nasab sama, 'Tharif/Thariq' varian eja.", "ops": [{"op":"merge","keep":"x63edf758","drop":"xa2c382fe"}]},
+{"fid": "F239", "verdict": "fix", "why": "Ketiganya merujuk Ummu Aiman/Barakah, ibu Usamah bin Zaid, tokoh unik terkenal sesuai turath_rawi n900 dan ibnsad xc3d2c801.", "ops": [{"op":"merge","keep":"n900","drop":"xc3d2c801"},{"op":"merge","keep":"n900","drop":"x45a0260f"}]},
+{"fid": "F240", "verdict": "fix", "why": "Keduanya istri Barakah binti Yasar dan bernisbah al-Asadi (Bani Asad bin Khuzaimah) sesuai teks 4/104 & 8/246; tribe s880 salah tercatat umayyah, seharusnya asad-k.", "ops": [{"op":"merge","keep":"s880","drop":"x37e5a5a7"},{"op":"set_tribe","id":"s880","tribe":"asad-k"}]},
+{"fid": "F241", "verdict": "fix", "why": "Keduanya istri al-Muththalib bin Azhar yang hijrah ke Habasyah bersama, 'Dhubairah/Shubairah' varian eja.", "ops": [{"op":"merge","keep":"s4423","drop":"xdb5bdd07"}]},
+{"fid": "F242", "verdict": "fix", "why": "Keduanya terkait Umm Abd binti Abdi Wudd, istri ayah Abdullah bin Mas'ud yang terkenal (Mas'ud bin Ghafil); x3c7a5a6f stub tanpa info bertentangan.", "ops": [{"op":"merge","keep":"x82cf340f","drop":"x3c7a5a6f"}]},
+{"fid": "F243", "verdict": "fix", "why": "Nama dan nasab penuh identik; s4469 adalah versi lengkap dari xd919bf08, keduanya istri Ayyasy bin Abi Rabi'ah.", "ops": [{"op":"merge","keep":"s4469","drop":"xd919bf08"}]},
+{"fid": "F244", "verdict": "fix", "why": "Nama dan teks ibnsad identik persis — duplikat data (id hanya beda sufiks).", "ops": [{"op":"merge","keep":"x5f535951","drop":"x5f5359512"}]},
+{"fid": "F245", "verdict": "fix", "why": "Ketiganya menyebut ibu yang sama 'Umm al-Hajjaj min Bani Syanuq' bagi anak-anak al-Harits bin Qais bin Adi; dua di antaranya teksnya identik persis.", "ops": [{"op":"merge","keep":"xe922a11c","drop":"xe922a11c2"},{"op":"merge","keep":"xe922a11c","drop":"xe922a11c3"}]}
+]

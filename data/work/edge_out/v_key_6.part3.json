@@ -1,0 +1,16 @@
+[
+{"rid": "Turath · data rawi: أبو هاشم بن عتبة بن ربيعة بن عبد شمس", "ok": 2, "issues": []},
+{"rid": "Turath · data rawi: أبي بن كعب بن قيس", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: أسماء بنت عميس", "ok": 2, "issues": []},
+{"rid": "Turath · data rawi: أسيد بن ظهير بن رافع", "ok": 3, "issues": []},
+{"rid": "Turath · data rawi: أم العلاء بنت الحارث", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: أم جميل بنت المجلل", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: أم عثمان بنت سفيان", "ok": 0, "issues": [
+  {"s": "n779", "t": "n2825", "k": "parent", "verdict": "wrong", "why": "teks 'أم ولد شيبة' = ia gundik/budak Syaibah yang melahirkan anak untuknya, bukan ibu Syaibah"}
+]},
+{"rid": "Turath · data rawi: أم عمارة بنت كعب الأنصارية", "ok": 2, "issues": []},
+{"rid": "Turath · data rawi: أم عياش", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: أم فروة", "ok": 0, "issues": [
+  {"s": "n3783", "t": "n784", "k": "sibling", "verdict": "unsure", "why": "disebut 'riwayat lain' (Ibnu Abdil Barr & Thabarani); identitas utama 'al-Ansariyyah' berbeda dari klaim saudari Abu Bakar yang Qurasyi - kurang didukung"}
+]}
+]

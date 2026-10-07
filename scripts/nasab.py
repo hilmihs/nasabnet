@@ -105,18 +105,41 @@ CANON = [
 CANON = [re.findall(r"عبد \S+|امرئ القيس|\S+", c) for c in CANON]
 
 
-def extend_chain(line):
-    """Append canonical ancestors when a chain ends inside a known spine."""
+def _known_pairs():
+    out = set()
+    for spine in CANON:
+        ns = [norm(x) for x in spine]
+        out |= set(zip(ns, ns[1:]))
+    return out
+
+
+KNOWN_PAIRS = _known_pairs()
+
+
+def _extend_once(line):
     names = [norm(x["ar"]) for x in line]
     if len(names) < 2:
         return line
     a, b = names[-2], names[-1]
     for spine in CANON:
         ns = [norm(x) for x in spine]
-        for i in range(len(spine) - 1):
+        for i in range(len(spine) - 2):
             if ns[i] == a and ns[i + 1] == b:
-                tail = spine[i + 2 :]
-                return line + [{"ar": t, "canon": True} for t in tail]
+                # the link before the pair must agree too when both sides have it (homonymous pairs such as
+                # "عدي بن كعب" exist outside Quraysh)
+                if i > 0 and len(names) >= 3 and names[-3] != ns[i - 1] and (names[-3], a) not in KNOWN_PAIRS:
+                    continue
+                return line + [{"ar": t, "canon": True} for t in spine[i + 2 :]]
+    return line
+
+
+def extend_chain(line):
+    """Append canonical ancestors when a chain ends inside a known spine (repeated: short spines chain on)."""
+    for _ in range(6):
+        longer = _extend_once(line)
+        if len(longer) == len(line):
+            break
+        line = longer
     return line
 
 

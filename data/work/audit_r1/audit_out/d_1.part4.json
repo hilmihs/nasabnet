@@ -1,0 +1,12 @@
+[
+{"fid":"F31","verdict":"ok","why":"Teks eksplisit: 'Baidha' adalah ibunya, ayahnya Wahb bin Rabi'ah bin Hilal' — sesuai edge, bukan kontradiksi.","ops":[]},
+{"fid":"F32","verdict":"ok","why":"Nasab 'Malik wa Nu'man ibna Khalaf bin Auf' berarti ayah=Khalaf, Auf=kakek; sesuai edge, salah parsing pd pesan audit.","ops":[]},
+{"fid":"F33","verdict":"fix","why":"Rabi'ah bin Farqad (Sulami) orang lain dari Rabi'ah bin al-Harits bin Abdul Muththalib (Hasyimi); hanya nama 'Abdullah bin Rabi'ah' yg mirip, salah resolusi.","ops":[{"op":"drop_edge","s":"n1969","t":"n3650","k":"parent"}]},
+{"fid":"F34","verdict":"ok","why":"Teks eksplisit: Yasar dijuluki Abu Fukaihah dari nama putrinya sendiri — sesuai edge.","ops":[]},
+{"fid":"F35","verdict":"ok","why":"'Bint Raqiqah' memakai nama ibu, teks lanjut menjelaskan nasab penuh via ayah Abdullah bin Bajad bin Umair — sesuai edge.","ops":[]},
+{"fid":"F36","verdict":"ok","why":"'Aslamiyyah' hanya nisbah feminin milik Subai'ah sendiri, bukan nama ayah berbeda; tak ada klaim ayah lain dlm teks.","ops":[]},
+{"fid":"F37","verdict":"ok","why":"'Ibn Mas'ud' merujuk putranya (Abdullah bin Mas'ud yg terkenal), bukan nama ayahnya; ayah tetap Abdu Wudd bin Suwa — sesuai edge.","ops":[]},
+{"fid":"F38","verdict":"ok","why":"'Imra'ah Abdullah' adalah keterangan bahwa dia istri Abdullah bin Mas'ud, bukan bagian nama ayah; ayah tetap Abu Mu'awiyah ats-Tsaqafi.","ops":[]},
+{"fid":"F39","verdict":"ok","why":"'Aslamiyyah' hanya nisbah feminin milik Ku'aibah sendiri, bukan nama ayah lain.","ops":[]},
+{"fid":"F40","verdict":"ok","why":"'Ghifariyyah' hanya nisbah feminin milik Umayyah sendiri; ayah tetap Qais Abu ash-Shalt al-Ghifari.","ops":[]}
+]

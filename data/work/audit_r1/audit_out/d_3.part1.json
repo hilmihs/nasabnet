@@ -1,0 +1,12 @@
+[
+  {"fid": "F99", "verdict": "ok", "why": "Nasab menyebut ayah 'Abbas' yang cocok dengan al-Abbas bin Abdul Muthalib; relasi ayah pada record al-Abbas juga menyebut anak bernama Abdullah.", "ops": []},
+  {"fid": "F100", "verdict": "fix", "why": "Nasab anak menyebut ayah bernama Abdullah bin al-Harits bin Naufal, bukan Abdul Muthalib bin Rabi'ah; link ke n4003 adalah resolusi ke orang yang berbeda.", "ops": [{"op": "drop_edge", "s": "n4003", "t": "n3761", "k": "parent"}]},
+  {"fid": "F101", "verdict": "ok", "why": "Nasab menyebut ayah al-Irbadh yang sama dengan n4350 al-Irbadh bin Sariyah; relasi ayah menyebut putrinya Ummu Habibah.", "ops": []},
+  {"fid": "F102", "verdict": "ok", "why": "Nama ayah pada nasab (Qais bin Sa'id bin al-Arqam) cocok dengan record ayah yang ditautkan; varian Ibnu Qani' hanya urutan nama berbeda, bukan ayah lain.", "ops": []},
+  {"fid": "F103", "verdict": "fix", "why": "Nasab anak menyebut ayah al-Harits bin Amir bin Naufal (Quraisy), sedangkan record ayah yang ditautkan bertribe tamim dengan ibnsad tentang Yasir/Ammar yang tidak terkait; resolusi salah ke homonim.", "ops": [{"op": "drop_edge", "s": "xcdd0a853", "t": "n4422", "k": "parent"}]},
+  {"fid": "F104", "verdict": "ok", "why": "Teks ayah (Abu Buhaisah, disebut Umair oleh Ibnu Abdul Barr) cocok dengan nama ayah Umair pada nasab anak, dan relasi ayah menyebut putrinya Buhaisah.", "ops": []},
+  {"fid": "F105", "verdict": "ok", "why": "Teks ayah sendiri menyatakan 'ala khilaf fih' (ada perselisihan) soal siapa ayah Yahya bin Hani'; ini perbedaan riwayat yang diakui sumber, bukan kesalahan data.", "ops": []},
+  {"fid": "F106", "verdict": "ok", "why": "Al-Musthaliq adalah sebutan singkat untuk rantai Alqamah bin Najiyah bin al-Musthaliq sesuai nama lengkap anak sendiri.", "ops": []},
+  {"fid": "F107", "verdict": "ok", "why": "Shubrah adalah sebutan singkat untuk Amir bin Shubrah bin Abdullah sesuai nama lengkap anak sendiri.", "ops": []},
+  {"fid": "F108", "verdict": "fix", "why": "Anak bernisbah al-Muharibi dan berprofesi guru di Bashrah hingga akhir abad ke-2 H, sangat berbeda dari profil keluarga Quraisy-Muthalib milik Muhammad bin Qais bin Mukhramah; kemungkinan homonim yang salah ditautkan.", "ops": [{"op": "drop_edge", "s": "n5887", "t": "n6997", "k": "parent"}]}
+]

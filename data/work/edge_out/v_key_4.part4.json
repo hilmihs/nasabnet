@@ -1,0 +1,17 @@
+[
+  {"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/350", "ok": 1, "issues": []},
+  {"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/352", "ok": 0, "issues": [
+    {"s": "s425", "t": "s4603", "k": "spouse", "verdict": "wrong", "why": "teks: suaminya adalah Abu Ahmad bin Jahsy, bukan Abdullah bin Jahsy (saudaranya sendiri)"},
+    {"s": "s425", "t": "x36ae0fe1", "k": "parent", "verdict": "wrong", "why": "teks: ayah Abdullah bin Abi Ahmad adalah Abu Ahmad bin Jahsy, bukan Abdullah bin Jahsy"}
+  ]},
+  {"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/353", "ok": 1, "issues": []},
+  {"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/355", "ok": 1, "issues": []},
+  {"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/359", "ok": 6, "issues": [
+    {"s": "n2177", "t": "s545", "k": "parent", "verdict": "wrong", "why": "node s545 (Sa'd bin Zaid bin Malik bin Abdul Asyhal, dari Aus) adalah namesake berbeda, bukan anak Zaid bin Tsabit al-Anshari (dari Najjar/Khazraj) yang disebut teks"}
+  ]},
+  {"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/36", "ok": 1, "issues": []},
+  {"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/366", "ok": 1, "issues": []},
+  {"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/37", "ok": 1, "issues": []},
+  {"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/370", "ok": 2, "issues": []},
+  {"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/373", "ok": 2, "issues": []}
+]

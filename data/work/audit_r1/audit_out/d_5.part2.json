@@ -1,0 +1,12 @@
+[
+{"fid": "F207", "verdict": "fix", "why": "Ummu Sulaim binti Milhan adalah nama unik terkenal (ibu Anas bin Malik); x85a153742 stub kosong tanpa info berbeda.", "ops": [{"op":"merge","keep":"s4800","drop":"x85a153742"}]},
+{"fid": "F208", "verdict": "fix", "why": "Teks s4791 sendiri menyamakan 'Amr' dengan 'Abu Kharijah bin Qais' dan menyebut menikah Muhriz bin 'Amir — sama dengan x82282228.", "ops": [{"op":"merge","keep":"s4791","drop":"x82282228"}]},
+{"fid": "F209", "verdict": "fix", "why": "Teks x528d305e menyebut nama asli Milhan adalah Malik bin Khalid bin Zaid — sama dengan x46b50c54 'Milhan bin Khalid bin Zaid'.", "ops": [{"op":"merge","keep":"x528d305e","drop":"x46b50c54"}]},
+{"fid": "F210", "verdict": "fix", "why": "Ibnsad kedua catatan identik persis (3/520); tribe yang benar aus (Bani Abdul Asyhal) seperti pada x7aa0835b.", "ops": [{"op":"merge","keep":"x7aa0835b","drop":"x3f105768"}]},
+{"fid": "F211", "verdict": "fix", "why": "Keduanya ibu Sa'd bin ar-Rabi' dengan nasab sama, 'Anabah/Utbah' varian eja huruf.", "ops": [{"op":"merge","keep":"s4637","drop":"x159e8a34"}]},
+{"fid": "F212", "verdict": "fix", "why": "x443ecf9b cocok dengan ayah Bisyir bin Sa'd & istri Anisah binti Khalifah; x792f3dd8 varian eja nama ayah (Khallas/Jallas) tanpa data yang bertentangan.", "ops": [{"op":"merge","keep":"x443ecf9b","drop":"x792f3dd8"}]},
+{"fid": "F213", "verdict": "fix", "why": "s698 sendiri (3/534) menyebut anaknya dari Jamilah binti Abdullah bin Ubay; xa8397ae1 varian eja ('Utbah' vs 'Anabah') dari orang yang sama (lihat juga F215).", "ops": [{"op":"merge","keep":"s698","drop":"xa8397ae1"}]},
+{"fid": "F214", "verdict": "fix", "why": "s725 (3/549) menyebut menikah Jamilah binti Abdullah bin Ubay sama seperti konteks xee326f80, hanya beda level pengulangan nama kakek Malik ad-Dukhsyum.", "ops": [{"op":"merge","keep":"s725","drop":"xee326f80"}]},
+{"fid": "F215", "verdict": "fix", "why": "xb39d8294 dan xa8397ae1 (8/360, 8/364) sama-sama menyebut anak Anisah dari istri Zainab binti Qais — sama dengan s698, hanya varian 'Asaf/Yasaf' dan 'Utbah/Anabah'.", "ops": [{"op":"merge","keep":"s698","drop":"xb39d8294"},{"op":"merge","keep":"s698","drop":"xa8397ae1"}]},
+{"fid": "F216", "verdict": "fix", "why": "Nama dan seluruh teks ibnsad identik persis — duplikat data (id hanya beda sufiks).", "ops": [{"op":"merge","keep":"x2b08622a","drop":"x2b08622a2"}]}
+]

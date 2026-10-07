@@ -1,0 +1,14 @@
+[
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/122", "ok": 6, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/123", "ok": 1, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/126", "ok": 1, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/131", "ok": 1, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/142", "ok": 18, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/198", "ok": 1, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/204", "ok": 3, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/252", "ok": 1, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/254", "ok": 0, "issues": [
+  {"s": "n4844", "t": "n3823", "k": "parent", "verdict": "unsure", "why": "teks hanya menyebut 'ابناه' (dua anaknya) tanpa nama, tidak ada bukti langsung bahwa dialah Abdullah bin Amr"}
+]},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/261", "ok": 9, "issues": []}
+]

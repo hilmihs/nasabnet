@@ -1,0 +1,15 @@
+[
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/571", "ok": 1, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/572", "ok": 5, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/581", "ok": 9, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/583", "ok": 3, "issues": [
+  {"s": "s4516", "t": "n6205", "k": "parent", "verdict": "wrong", "why": "teks: ibu Mu'adz adalah Hind binti Sahl dari Juhainah (bani Rab'ah); node yang diresolve bernasab 'Hind binti Sahl bin Zaid bin Amir... ahli Ratij' (garis Jusyam) — kemungkinan individu berbeda, bukan dari Juhainah"},
+  {"s": "n9286", "t": "n6205", "k": "muakhah", "verdict": "wrong", "why": "hanya riwayat Ibnu Ishaq sendirian, dan Muhammad bin Umar membantahnya langsung sebagai mustahil secara kronologis (Ja'far masih di Habasyah saat muakhah terjadi); mayoritas sepakat muakhah Mu'adz dengan Abdullah bin Mas'ud"}
+]},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/592", "ok": 11, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/593", "ok": 7, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/596", "ok": 17, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/597", "ok": 1, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/599", "ok": 11, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/603", "ok": 1, "issues": []}
+]

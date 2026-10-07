@@ -1,0 +1,12 @@
+[
+{"fid":"F158","verdict":"fix","why":"Jelas Ibnu Abbas yang sama (anak al-Abbas bin Abdul Muththalib), hanya beda ejaan \"al-Abbas/Abbas\" dan \"Muthallib/Muthalib\".","ops":[{"op":"merge","keep":"n3732","drop":"x4fd87583"}]},
+{"fid":"F159","verdict":"ok","why":"Ayah dan suku berbeda total (al-Harits bin Abdul Muththalib/hasyim vs Farqad/sulaim), bukan duplikat.","ops":[]},
+{"fid":"F160","verdict":"ok","why":"Dua anak laki-laki berbeda dari ibu yang sama Quraibah tetapi ayah berbeda (Abdurrahman bin Abi Bakar vs Zam'ah bin al-Aswad); hanya saudara seibu, bukan duplikat.","ops":[]},
+{"fid":"F161","verdict":"fix","why":"Teks ibnsad x menyebut anak Hathib bin al-Harits bin Ma'mar bernama \"al-Harits\" (dan Muhammad), cocok persis dengan n1214.","ops":[{"op":"merge","keep":"n1214","drop":"x311634a5"}]},
+{"fid":"F162","verdict":"fix","why":"Ibu sama (Halah bint Kaldah) dan suami-anak sama (Nawfal bin Uhaib, anak Makhramah); \"Shaifi\" vs \"Abi Shaifi\" varian nama yang sama.","ops":[{"op":"merge","keep":"n15209","drop":"s4311"}]},
+{"fid":"F163","verdict":"fix","why":"Teks identik: ibu Ruqaiqah bint Khuwailid, bibi Khadijah, suami Habib bin Ka'b, anak an-Nahdiyah/Umm Ubays/Zunairah; n816 sendiri menyebut varian nama \"Abd\" vs \"Abdullah bin Bajad\".","ops":[{"op":"merge","keep":"n816","drop":"s4409"}]},
+{"fid":"F164","verdict":"ok","why":"Dua Tsabit bin Qais bin al-Khathim dengan ibu berbeda yang disebutkan jelas: satu dari Aqrab bint Mu'adz, satu dari Hawwa bint Zaid bin Sakan; jadi dua saudara seayah berbeda ibu, bukan duplikat.","ops":[]},
+{"fid":"F165","verdict":"fix","why":"Ibu sama (Laila bint al-Khathim) dan ayah sama (Mas'ud bin Aus bin Malik); satu orang.","ops":[{"op":"merge","keep":"s4557","drop":"x6e82028a"}]},
+{"fid":"F166","verdict":"fix","why":"Ibu sama (Laila bint al-Khathim) dan ayah sama (Mas'ud bin Aus bin Malik) untuk Umairah; satu orang.","ops":[{"op":"merge","keep":"s4558","drop":"xbf271524"}]},
+{"fid":"F167","verdict":"ok","why":"s545 adalah anak Zaid bin Malik bin Abd bin Ka'b bin Abdul Ashhal (ibu Amrah bint Mas'ud bin Qais), tidak ada hubungan dengan Zaid bin Tsabit bin adh-Dhahhak; x6eb70756 adalah anak Zaid bin Tsabit yang berbeda, bukan duplikat.","ops":[]}
+]

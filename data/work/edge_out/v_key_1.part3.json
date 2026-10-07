@@ -1,0 +1,60 @@
+[
+  {
+    "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/401",
+    "ok": 10,
+    "issues": []
+  },
+  {
+    "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/402",
+    "ok": 1,
+    "issues": []
+  },
+  {
+    "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/404",
+    "ok": 1,
+    "issues": []
+  },
+  {
+    "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/409",
+    "ok": 5,
+    "issues": []
+  },
+  {
+    "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/420",
+    "ok": 4,
+    "issues": []
+  },
+  {
+    "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/436",
+    "ok": 1,
+    "issues": []
+  },
+  {
+    "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/439",
+    "ok": 6,
+    "issues": [
+      {
+        "s": "n2065",
+        "t": "n8181",
+        "k": "muakhah",
+        "verdict": "unsure",
+        "why": "teks menyajikan dua versi bertentangan (dengan Abu Sabrah vs dengan az-Zubair) dan menutup dengan 'والله أعلم أي ذلك كان'; versi az-Zubair adalah versi minoritas dari riwayat Ibnu Ishaq"
+      }
+    ]
+  },
+  {
+    "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/443",
+    "ok": 23,
+    "issues": []
+  },
+  {
+    "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/450",
+    "ok": 8,
+    "issues": []
+  },
+  {
+    "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/452",
+    "ok": 7,
+    "issues": []
+  }
+]

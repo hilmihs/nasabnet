@@ -1,0 +1,68 @@
+[
+  {
+    "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/459",
+    "ok": 1,
+    "issues": []
+  },
+  {
+    "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/460",
+    "ok": 11,
+    "issues": [
+      {
+        "s": "s575",
+        "t": "s576",
+        "k": "sibling",
+        "verdict": "unsure",
+        "why": "teks terputus di 'وأخوه' tanpa menyebut nama saudaranya, sehingga identitas al-Harits bin Hatib tidak dapat dipastikan dari teks yang tersedia"
+      }
+    ]
+  },
+  {
+    "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/462",
+    "ok": 1,
+    "issues": []
+  },
+  {
+    "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/465",
+    "ok": 1,
+    "issues": []
+  },
+  {
+    "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/469",
+    "ok": 5,
+    "issues": []
+  },
+  {
+    "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/471",
+    "ok": 9,
+    "issues": []
+  },
+  {
+    "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/475",
+    "ok": 0,
+    "issues": [
+      {
+        "s": "n10053",
+        "t": "s606",
+        "k": "sibling",
+        "verdict": "wrong",
+        "why": "teks catatan ini (3/475) tidak menyebut Khawat bin Jubair atau hubungan saudara sama sekali"
+      }
+    ]
+  },
+  {
+    "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/477",
+    "ok": 10,
+    "issues": []
+  },
+  {
+    "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/481",
+    "ok": 1,
+    "issues": []
+  },
+  {
+    "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/484",
+    "ok": 1,
+    "issues": []
+  }
+]

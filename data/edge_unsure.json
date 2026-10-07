@@ -1,0 +1,114 @@
+[
+ {
+  "s": "n2289",
+  "t": "s4290",
+  "k": "spouse",
+  "verdict": "unsure",
+  "why": "teks terputus di 'وأمها أم حكيم ب...' sehingga identitas ibu Hamnah tidak bisa dipastikan sama dengan al-Baidha bint Abdul Muththalib",
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/137"
+ },
+ {
+  "s": "s4290",
+  "t": "x9e159beb",
+  "k": "parent",
+  "verdict": "unsure",
+  "why": "teks terputus di 'وأمها أم حكيم ب...' sehingga identitas ibu Hamnah tidak bisa dipastikan sama dengan al-Baidha bint Abdul Muththalib",
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/137"
+ },
+ {
+  "s": "n2065",
+  "t": "n8181",
+  "k": "muakhah",
+  "verdict": "unsure",
+  "why": "teks menyajikan dua versi bertentangan (dengan Abu Sabrah vs dengan az-Zubair) dan menutup dengan 'والله أعلم أي ذلك كان'; versi az-Zubair adalah versi minoritas dari riwayat Ibnu Ishaq",
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/439"
+ },
+ {
+  "s": "s575",
+  "t": "s576",
+  "k": "sibling",
+  "verdict": "unsure",
+  "why": "teks terputus di 'وأخوه' tanpa menyebut nama saudaranya, sehingga identitas al-Harits bin Hatib tidak dapat dipastikan dari teks yang tersedia",
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/460"
+ },
+ {
+  "s": "n2369",
+  "t": "n398",
+  "k": "muakhah",
+  "verdict": "unsure",
+  "why": "teks: mayoritas riwayat (Ishaq bin Yahya, Isa, Musa bin Muhammad, Abdullah bin Ja'far) sepakat Nabi mempersaudarakan Ubay dengan Thalhah; hanya Ibnu Ishaq sendiri meriwayatkan versi Ubay-Sa'id bin Zaid, versi minoritas ini kurang didukung",
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/498"
+ },
+ {
+  "s": "n4844",
+  "t": "n3823",
+  "k": "parent",
+  "verdict": "unsure",
+  "why": "teks hanya menyebut 'ابناه' (dua anaknya) tanpa nama, tidak ada bukti langsung bahwa dialah Abdullah bin Amr",
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/254"
+ },
+ {
+  "s": "s658",
+  "t": "n3229",
+  "k": "parent",
+  "verdict": "unsure",
+  "why": "nasab 'Abdurrahman bin Abi Amrah' yang diresolve (Amr bin Mahsan/Mabdzul) tidak jelas cocok dengan Amr bin Tsa'labah bin Wahb di teks; identitas tokoh ini sendiri diperselisihkan sumber (wa yuqal)",
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/424"
+ },
+ {
+  "s": "x8681f758",
+  "t": "s4310",
+  "k": "parent",
+  "verdict": "unsure",
+  "why": "teks: ibunya 'Fatimah binti Harm bin Rawahah...', dataset meresolusi ke 'Fatimah binti Qais bin Harm' - beda satu generasi, tidak jelas orang yang sama",
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/51"
+ },
+ {
+  "s": "n3783",
+  "t": "n784",
+  "k": "sibling",
+  "verdict": "unsure",
+  "why": "disebut 'riwayat lain' (Ibnu Abdil Barr & Thabarani); identitas utama 'al-Ansariyyah' berbeda dari klaim saudari Abu Bakar yang Qurasyi - kurang didukung",
+  "rid": "Turath · data rawi: أم فروة"
+ },
+ {
+  "s": "n2065",
+  "t": "s658",
+  "k": "mawla",
+  "verdict": "unsure",
+  "why": "teks sebut mawlanya bernama 'Abu Hakim', dataset meresolusi ke 'Amr bin Tsa'labah bin Wahb' - tidak jelas nama yang sama",
+  "rid": "Turath · data rawi: الزبير بن العوام"
+ },
+ {
+  "s": "n10121",
+  "t": "n2289",
+  "k": "muakhah",
+  "verdict": "unsure",
+  "why": "teks: hanya disebut 'وقيل' sebagai versi alternatif muakhah; versi utama (tanpa hedge) adalah dengan Mush'ab bin Umair",
+  "rid": "Turath · data rawi: سعد بن أبي وقاص"
+ },
+ {
+  "s": "n2289",
+  "t": "n4621",
+  "k": "muakhah",
+  "verdict": "unsure",
+  "why": "teks: hanya disebut 'وقيل' sebagai versi alternatif muakhah; versi utama (tanpa hedge) adalah dengan Mush'ab bin Umair",
+  "rid": "Turath · data rawi: سعد بن أبي وقاص"
+ },
+ {
+  "s": "n2940",
+  "t": "n8734",
+  "k": "sibling",
+  "verdict": "unsure",
+  "why": "teks: Dhuba'ah juga disebut sebagai salah satu nama lain subjek sendiri (Shafiyyah/Atikah/Dhuba'ah), sehingga tak jelas apakah ini saudara beda orang atau nama alternatif subjek",
+  "rid": "Turath · data rawi: صفية"
+ },
+ {
+  "s": "n4174",
+  "t": "xdfdaf0c7",
+  "k": "spouse",
+  "verdict": "unsure",
+  "why": "teks hanya sebut 'عائشة بنت عبد الله' tanpa nasab lengkap, tak jelas apakah puteri Abdullah bin Umar yang dimaksud",
+  "rid": "Turath · data rawi: عبيد الله بن العباس بن عبد المطلب بن هاشم"
+ }
+]

@@ -1,0 +1,12 @@
+[
+{"fid":"F148","verdict":"ok","why":"Teks Ibnu Sa'd: Abdurrahman bin Amr bin Tsa'labah \"درجا لا عقب لهما\" (meninggal muda, tanpa keturunan), sedangkan Abdurrahman bin Abi 'Amrah punya anak Abdullah dan wafat 101-110H serta nasab ayahnya beda (Wahb bin Adi vs Mahsan/Mabdzul); bukan orang yang sama.","ops":[]},
+{"fid":"F149","verdict":"fix","why":"Ibnsad kedua id identik persis (sama tiga kutipan tentang Hazilah/Sumaira/Ummu al-Harits), jelas satu orang; s4810 lebih lengkap.","ops":[{"op":"merge","keep":"s4810","drop":"xf37d3e74"}]},
+{"fid":"F150","verdict":"fix","why":"Teks ibnsad x menyebut ayahnya \"ابن أبي زهير بن مالك\" bukan \"بن زيد\", cocok dengan nasab n2185; satu orang (muakhah dgn Abu Bakar, syahid Uhud).","ops":[{"op":"merge","keep":"n2185","drop":"x62e16c1b"}]},
+{"fid":"F151","verdict":"ok","why":"Suku dan ayah berbeda total (Khubaib/juhainah vs Hanzhalah/aus); teks n3637 tidak menyebut ibu Jamilah sama sekali, bukan duplikat.","ops":[]},
+{"fid":"F152","verdict":"fix","why":"Teks ibnsad sama-sama menyebut ibu Qurratul Ain dan ayah ash-Shamit bin Qais bin Ashram untuk Khaulah; satu orang yang sama.","ops":[{"op":"merge","keep":"s4673","drop":"xaa3ba9a4"}]},
+{"fid":"F153","verdict":"fix","why":"Ibu sama (Khaulah bint al-Fakih bin Qais bin Mukhallad); teks sendiri menyebut \"Qais bin Mahsan\" juga disebut \"Qais bin Hisn\" oleh perawi lain, jadi satu orang.","ops":[{"op":"merge","keep":"s4708","drop":"xaf071d74"}]},
+{"fid":"F154","verdict":"fix","why":"Suami sama (Tsabit bin al-Jad'/Tsa'labah) dan ayah sama Utsman bin Khalidah/Khuldah bin Mukhallad; satu orang.","ops":[{"op":"merge","keep":"s4702","drop":"x44a1be7e"}]},
+{"fid":"F155","verdict":"fix","why":"Ibu sama (al-Fari'ah bint al-Hubab) dan ayah sama Mas'ud bin Khalidah/Khaldah; satu orang.","ops":[{"op":"merge","keep":"s4705","drop":"x62953de1"}]},
+{"fid":"F156","verdict":"ok","why":"Teks rawi menyebut ibu berbeda: Ummu Sa'd dari Ummu Abdullah bint al-Fakih, sedangkan Ummu Sa'd ash-Shughra dari umm walad; ibu berbeda berarti orang berbeda.","ops":[]},
+{"fid":"F157","verdict":"fix","why":"Ibnsad identik (sama ayah/kakek, sama anak Yahya, sama muakhah dgn Zaid bin Haritsah); satu orang, hanya variasi ejaan nama.","ops":[{"op":"merge","keep":"n712","drop":"s829"}]}
+]

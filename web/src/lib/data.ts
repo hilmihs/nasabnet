@@ -1,6 +1,7 @@
 import { createContext, useContext } from 'react'
 import { isArabic, normAr, normLat } from './arabic'
 import { buildGraph, type Graph } from './graph'
+import { buildAncestorIndex, type AncestorIndex } from './kin'
 import type { Category, Dataset, Person, Tribe } from './types'
 
 const PALETTE: Record<Tribe['group'], string[]> = {
@@ -26,6 +27,8 @@ export interface Store {
   /** stable colour per tribe (by group palette) */
   colorOf: (p?: Person) => string
   tribeColorById: (tribeId?: string) => string
+  /** patrilineal ancestor → descendants, for nasab-kin lookups */
+  ancestors: AncestorIndex
 }
 
 export async function loadStore(): Promise<Store> {
@@ -108,7 +111,7 @@ export function makeStore(data: Dataset): Store {
   const tribeColorById = (tid?: string) => (tid && tColor.get(tid)) || '#9aa59f'
   const colorOf = (p?: Person) => tribeColorById(p?.tribe)
 
-  return { g, tribes, membersByTribe, search, weight, colorOf, tribeColorById }
+  return { g, tribes, membersByTribe, search, weight, colorOf, tribeColorById, ancestors: buildAncestorIndex(data.persons) }
 }
 
 export const StoreContext = createContext<Store | null>(null)

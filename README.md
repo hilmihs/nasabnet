@@ -4,8 +4,9 @@ Aplikasi web edukasi untuk memahami keterkaitan sosial, garis klan, dan pernikah
 Nabi Muhammad ﷺ. Datanya **dikompilasi dari Turath.io** (basis data rawi + teks kitab klasik), bukan
 diketik manual.
 
-**🌐 Live: [nasabnet.vercel.app](https://nasabnet.vercel.app)** — 5.926 tokoh (1.801 sahabat), 7.111 relasi
-(1.388 pernikahan, 4.883 orang tua–anak, 96 mu'akhah), 54 kabilah/klan.
+**🌐 Live: [nasabnet.vercel.app](https://nasabnet.vercel.app)** — 5.794 tokoh (1.805 sahabat), 6.904 relasi
+(1.271 pernikahan, 4.799 orang tua–anak, 94 mu'akhah), 54 kabilah/klan; biografi 10 poin untuk 150 sahabat
+utama dan profil 10 poin untuk 54 kabilah.
 
 ## Fitur
 
@@ -13,14 +14,15 @@ diketik manual.
 |---|-------|--------------------|
 | 1 | Diagram Garis Hubungan Langsung (Pathfinder) | **Cari Hubungan** → diagram panah beranimasi, label tiap tautan, sumber per tautan |
 | 2 | Peta Suku & Kabilah (Tribe Network View) | **Peta Kabilah** (beranda): kartu kabilah, pohon klan Quraisy, graf jejaring per kabilah, peta pernikahan antarkabilah |
-| 3 | Profil Mini & Kartu Keluarga | Klik nama mana pun → pop-up: ayah/ibu, kabilah, istri/suami, anak (beserta ibunya), saudara, mertua, menantu, ipar, besan, mu'akhah, rujukan |
+| 3 | Profil Mini & Kartu Keluarga | Klik nama mana pun → pop-up: ayah/ibu, kabilah, istri/suami, anak (beserta ibunya), saudara, mertua, menantu, ipar, besan, mu'akhah, rujukan; tab **Biografi 10 Poin** (150 sahabat utama, dari al-Ishabah & Ibnu Sa'd) |
 | 4 | Jejaring Istri & Pernikahan Silang | **Jejaring Pernikahan**: graf pernikahan, “simpul pengikat”, aliansi antarklan, lingkaran mertua–ipar–besan per tokoh |
-| 5 | Mesin Pencari Hubungan Kilat | **Cari Hubungan**: pilih 2 nama bebas → jalur terpendek + istilah kekerabatan (mertua, ipar, besan, sepupu, biras…) + titik temu nasab |
+| 5 | Mesin Pencari Hubungan Kilat | **Cari Hubungan**: pilih 2 nama bebas → jalur terpendek + istilah kekerabatan (mertua, ipar, besan, sepupu, biras…) + titik temu nasab; **Tokoh terkait**: daftar sahabat yang berkaitan nasab, kekerabatan, dan aliansi kabilah dengan tiap tokoh, serta kerabat bersama keduanya |
 | 6 | Filter Kategori Sosial | Chip filter: Muhajirin, Anshar, Ahlulbait, Kerabat Nabi, Ummahatul Mukminin, Khulafaur Rasyidin, Al-'Asyarah, Ahlu Badar |
 | 7 | Pencarian Global Cepat | Kolom di header (Ctrl/⌘ + K), Arab atau Latin, untuk tokoh & kabilah |
 | 8 | Riwayat & Favorit | Tombol “Simpan” pada profil/diagram/silsilah/kabilah; halaman **Riwayat & Favorit** (localStorage) |
 | 9 | Kamus Istilah & Biografi Klasik | **Glosarium & Rujukan**: nasab, nisbah, laqab, kunyah, ‘ashabah, mu’akhah, wala’, halif, dst. + tautan kitab di Turath |
-| 10 | Silsilah Vertikal | **Silsilah Vertikal**: rantai ayah → kakek → … → titik temu klan (Abdu Manaf, Qushay, Ka'b, Fihr, Aus/Khazraj), tanda leluhur yang sama dengan Nabi ﷺ, anak-cucu, mode bandingkan dua tokoh |
+| 10 | Silsilah Vertikal | **Silsilah Vertikal**: rantai ayah → kakek → … → titik temu klan (Abdu Manaf, Qushay, Ka'b, Fihr, Aus/Khazraj), tanda leluhur yang sama dengan Nabi ﷺ, anak-cucu; mode bandingkan dua tokoh → **pohon titik temu** (dari leluhur bersama turun ke kedua tokoh) + jejaring kekerabatan & tokoh bernasab terkait di bawahnya |
+| + | Profil Kabilah 10 Poin | Pencarian kabilah → tab **Profil Kabilah** (asal-usul, cabang, tokoh, peran di masa Nabi ﷺ; dari Jamharah Ibnu Hazm dkk.) |
 
 ## Menjalankan aplikasi (data sudah tersedia)
 
@@ -75,6 +77,23 @@ python3 scripts/extract_ibnsad.py
 # (jalankan ekstraksi relasi sesuai EXTRACTION_SPEC.md)
 python3 scripts/build_dataset.py
 ```
+
+### Pemeriksaan & koreksi data
+
+Agar tidak ada salah nasab, dataset melewati beberapa lapis pemeriksaan:
+
+- `scripts/check_dataset.py` — 18 fakta nasab baku (mis. Fathimah az-Zahra' istri Ali, Ali–Umar bertemu di
+  Ka'b bin Lu'ay) harus terpenuhi.
+- `scripts/audit_dataset.py` — aturan R1–R10 (ibu ganda, siklus, rentang usia mustahil, kemungkinan
+  duplikat, kabilah anak ≠ ayah, dst.). Tiap temuan ditinjau terhadap teks sumber; keputusan disimpan di
+  `data/corrections.json` (merge / drop_edge / add_edge / set_tribe, masing-masing dengan alasan) dan
+  `data/audit_reviewed.json`.
+- **Verifikasi per relasi** (`scripts/build_edge_packets.py` → `scripts/compile_edge_verification.py`):
+  setiap relasi dicocokkan ulang dengan teks Arab sumbernya. Tahap 1 (seluruh relasi 150 sahabat utama,
+  1.797 relasi) selesai: 1.756 sesuai teks, 27 salah dan sudah dihapus, 14 diragukan (dua riwayat
+  bertentangan/teks terpotong) dicatat di `data/edge_unsure.json`. Tahap berikutnya mencakup relasi
+  lainnya.
+- Keluarga inti Nabi ﷺ (istri dan putra-putri) hanya dicocokkan lewat nasab lengkap, bukan nama pendek.
 
 Setiap tautan relasi menyimpan rujukannya (halaman Ibnu Sa'd atau halaman rawi di Turath) dan tampil di
 profil serta diagram.

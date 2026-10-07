@@ -1,0 +1,6 @@
+[
+  {"fid": "F286", "verdict": "fix", "why": "x0bfc816f2 hanya nama pendek tanpa info, cocok dengan n1054 (Tsabit bin Qais bin Syammas, khatib Nabi yang terkenal dan biasa disebut singkat).", "ops": [{"op":"merge","keep":"n1054","drop":"x0bfc816f2"}]},
+  {"fid": "F287", "verdict": "unsure", "why": "Kedua id (Abu Ma'qal/Abi Mi'qal) sama sekali tanpa teks ibnsad pendukung; tidak bisa diputuskan hanya dari kesamaan nama kunyah.", "ops": []},
+  {"fid": "F288", "verdict": "unsure", "why": "Kedua id tanpa teks ibnsad, nama ayah berbeda (Jad'a' vs Tsa'labah bin Abdi 'Amir) - tidak cukup bukti untuk memutuskan.", "ops": []},
+  {"fid": "F289", "verdict": "unsure", "why": "Kedua id tanpa teks ibnsad; meski nama dan ayah (Amir) sama, tidak ada teks yang memastikan keduanya orang yang sama.", "ops": []}
+]

@@ -1,5 +1,7 @@
 import { useEffect, useMemo } from 'react'
 import { Empty, PersonChip, SectionTitle } from '../components/bits'
+import { CompareKin } from '../components/CompareKin'
+import { KinPanel } from '../components/KinPanel'
 import { Icon } from '../components/Icon'
 import { PersonPicker } from '../components/PersonPicker'
 import { normAr } from '../lib/arabic'
@@ -107,6 +109,13 @@ export function LineageView() {
         </Empty>
       )}
 
+      {p && compare && (
+        <div className="mb-6">
+          <CompareKin a={p} b={g.byId.get(compare)!} />
+        </div>
+      )}
+
+      {p && compare && <h2 className="mb-3 font-display text-2xl font-semibold text-hijau-900">Silsilah lengkap masing-masing</h2>}
       {p && (
         <div className={`grid gap-6 ${compare ? 'lg:grid-cols-2' : ''}`}>
           {[p, ...(compare ? [g.byId.get(compare)!] : [])].map((x) => (
@@ -130,6 +139,12 @@ export function LineageView() {
               <Descendants id={x.id} />
             </div>
           ))}
+        </div>
+      )}
+
+      {p && !compare && (
+        <div className="mt-6">
+          <KinPanel p={p} title={`Jejaring kekerabatan & nasab ${p.lat}`} />
         </div>
       )}
     </div>

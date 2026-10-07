@@ -1,0 +1,12 @@
+[
+ {"fid": "R2-F1", "verdict": "fix", "why": "Nasab n3685 sendiri menyebut ayah Waqdan bin Abd Syams (Qurasyi 'Amiri); ibnsad yang terpasang keliru milik Abdullah bin Amr bin Haram Ansar yang lain.", "ops": [{"op":"drop_edge","s":"xf0cff828","t":"n3685","k":"parent"}]},
+ {"fid": "R2-F2", "verdict": "fix", "why": "n2167 (nisba Juhani, dikenal sbg Uqbah bin Amir al-Juhani) berbeda dari Uqbah bin Amir bin Nabi' bin Zaid yang Ansar Khazraj; ibnsad tertukar homonim.", "ops": [{"op":"drop_edge","s":"x5de2da36","t":"n2167","k":"parent"}]},
+ {"fid": "R2-F3", "verdict": "ok", "why": "Teks lengkap Umaimah sendiri menyebut 'ويقال: بنت عبد الله بن بجاد بن عمير بن الحارث' sesuai ayah yang ditautkan; 'Ruqayqah' hanyalah nama ibu yang jadi nama populer.", "ops": []},
+ {"fid": "R2-F4", "verdict": "fix", "why": "Nasab Hawwa' sendiri menyebut ayahnya Zaid bin Sakan bin Karz, bukan Yazid bin Karz; menurut ibnsad, Yazid bin Karz adalah suami ibunya ('Aqrab), bukan ayahnya.", "ops": [{"op":"drop_edge","s":"xbfe3510f","t":"s4514","k":"parent"}]},
+ {"fid": "R2-F5", "verdict": "ok", "why": "Salah satu varian nasab Tsabit sendiri ('ثابت بن زيد بن وديعة بن عمرو بن قيس بن جزي...') sama persis dengan data ayah (s714) yang ditautkan.", "ops": []},
+ {"fid": "R2-F6", "verdict": "fix", "why": "Nasab Zainab sendiri menyebut ayah Nubait bin Jabir bin Malik bin Adi (Khazraj/Najjar), berbeda total dari nasab n6515 'Nubait bin Syuraith bin Anas bin Malik bin Hilal' (Asyja'i); hanya sama nama depan.", "ops": [{"op":"drop_edge","s":"n6515","t":"s4891","k":"parent"}]},
+ {"fid": "R2-F7", "verdict": "fix", "why": "Jarir bin Abdullah al-Bajali nasabnya sendiri garis Bajilah (as-Sulail bin Malik...), bukan Abdullah bin Jabir bin 'Atik yang Khazraji Ansar; nama ayah 'Abdullah bin Jabir' tertukar homonim.", "ops": [{"op":"drop_edge","s":"x654a621a","t":"n1133","k":"parent"}]},
+ {"fid": "R2-F8", "verdict": "ok", "why": "Varian nasab ath-Thufail sendiri menyebut 'ويقال: الطفيل بن عبد الله بن الحارث بن سخبرة' sama persis dengan ayah yang ditautkan.", "ops": []},
+ {"fid": "R2-F9", "verdict": "fix", "why": "Nasab Nubaisyah sendiri garis Hudzail (bin Attab bin al-Harits bin Nashir...), beda total dari 'Abdullah bin Amr' Khazraj yang ibnsadnya pun berisi riwayat tak terkait (Umm Haram).", "ops": [{"op":"drop_edge","s":"xe5343546","t":"n6514","k":"parent"}]},
+ {"fid": "R2-F10", "verdict": "ok", "why": "Varian nasab Abu 'Iyasy sendiri menyebut 'عبد الرحمن بن معاوية بن الصامت بن زيد بن خلدة بن مخلد بن عامر بن زريق' identik dengan ayah yang ditautkan.", "ops": []}
+]

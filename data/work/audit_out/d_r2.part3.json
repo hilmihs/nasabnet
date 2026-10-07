@@ -1,0 +1,11 @@
+[
+ {"fid": "R2-F21", "verdict": "fix", "why": "Nasab n2216 sendiri sudah mencantumkan varian 'بنت عمير بن عبد مناف...' sesuai nama record kedua - sama persis Ummu Ruman istri Abu Bakar.", "ops": [{"op":"merge","keep":"n2216","drop":"xf5eb695c"}]},
+ {"fid": "R2-F22", "verdict": "fix", "why": "Nasab identik (hanya beda partikel 'ar-'), kedua ibnsad merujuk garis nasab Khazraj yang sama (bint Abdullah bin Habib bin Zaid...).", "ops": [{"op":"merge","keep":"x0b022a4d","drop":"xd3d8f8de"}]},
+ {"fid": "R2-F23", "verdict": "fix", "why": "Nama dan nasab sama (as-Samit bin Qais bin Ashram bin Fahr), ibnsad pertama mengonfirmasi ia suami Qurratul Ain bint Ubadah.", "ops": [{"op":"merge","keep":"x881cc13f","drop":"xb455dc98"}]},
+ {"fid": "R2-F24", "verdict": "unsure", "why": "Nama ayah berbeda (Ghunmah vs Uqbah) dan record kedua tanpa teks pendukung sama sekali, tak bisa dipastikan identitasnya.", "ops": []},
+ {"fid": "R2-F25", "verdict": "fix", "why": "Teks s761 sendiri menyatakan 'يقال له ثابت بن الجذع' - eksplisit orang yang sama dengan Tsabit bin al-Jadz'.", "ops": [{"op":"merge","keep":"s761","drop":"x1f4ca8e5"}]},
+ {"fid": "R2-F26", "verdict": "fix", "why": "Nasab identik (al-Hudhair bin Simak bin Atik bin Imri'il Qais), ibnsad mengonfirmasi dia ayah Usaid bin al-Hudhair.", "ops": [{"op":"merge","keep":"x217aecd1","drop":"xfb4d1ada"}]},
+ {"fid": "R2-F27", "verdict": "unsure", "why": "Tidak ada teks (full/nisba/ibnsad) untuk kedua record guna memastikan sama atau justru dua saudari (pola Kubra/Sughra) yang berbeda.", "ops": []},
+ {"fid": "R2-F28", "verdict": "fix", "why": "Nasab 'Habib bin Ka'b bin Utair ats-Tsaqafi' cocok persis dengan rawi.relations Umaimah (suaminya); 'Ku'aib' hanya varian ejaan nama yang sama.", "ops": [{"op":"merge","keep":"x62e5b9ad","drop":"xc0769470"}]},
+ {"fid": "R2-F29", "verdict": "unsure", "why": "Teks n11390 sendiri meragukan ('يقال: هي بنت جحش، ويقال: امرأة ابن مسعود'), tak bisa dipastikan sama dengan n2219 atau justru Zainab bint Jahsy yang berbeda.", "ops": []}
+]

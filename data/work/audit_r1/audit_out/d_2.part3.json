@@ -1,0 +1,12 @@
+[
+{"fid": "F70", "verdict": "ok", "why": "Teks menjelaskan sendiri 'wa Raqiqah ummuha' - Umaimah dikenal dengan nama ibunya, ayahnya tetap 'Abd bin Bajad' sesuai relasi.", "ops": []},
+{"fid": "F71", "verdict": "fix", "why": "Malik bin Anas (Imam Malik) bernasab Himyar/Asbahi Yaman, berbeda total dari Anas bin Malik bin an-Nadhr (Khazraj, pelayan Nabi); homonim 'Anas bin Malik' tertukar.", "ops": [{"op":"drop_edge","s":"n822","t":"n5361","k":"parent"}]},
+{"fid": "F72", "verdict": "ok", "why": "'Mu'ayyar' adalah salah satu hedge nasab langsung yang disebut teks ('ibn Mu'ayyir'), cocok relasi ayah.", "ops": []},
+{"fid": "F73", "verdict": "ok", "why": "Relations n954 menyebut langsung 'waladahu: as-Sa'ib wa Abdurrahman' - as-Sa'ib memang anaknya.", "ops": []},
+{"fid": "F74", "verdict": "ok", "why": "Relations n954 menyebut langsung 'waladahu: as-Sa'ib wa Abdurrahman' - Abdurrahman memang anaknya.", "ops": []},
+{"fid": "F75", "verdict": "ok", "why": "Hedge 'ibn Zaid bin Ma'bad bin Dhabbab bin Sabi' pada nasab Busyair cocok persis dengan relasi ayah.", "ops": []},
+{"fid": "F76", "verdict": "ok", "why": "Hedge Khalifah bin Khayyath 'Abdullah bin al-Harits bin Abdul Harits bin Asad bin Adi' cocok persis relasi ayah.", "ops": []},
+{"fid": "F77", "verdict": "ok", "why": "Hedge 'ibn Abdullah bin Shu'air' pada nasab Tsa'labah cocok persis relasi ayah.", "ops": []},
+{"fid": "F78", "verdict": "fix", "why": "Relations Jabir bin 'Atik menyebut langsung 'wa ibnuhu Abdullah bin Jabir' dan ia Khazraj/Salamah; tribe bajilah pada anak salah.", "ops": [{"op":"set_tribe","id":"x654a621a","tribe":"khazraj"}]},
+{"fid": "F79", "verdict": "ok", "why": "Hedge 'Bisyr bin Amr bin Hanasy bin al-Mu'alla' pada nasab al-Jarud cocok persis relasi ayah.", "ops": []}
+]

@@ -1,0 +1,587 @@
+[
+  {
+    "id": "daus",
+    "nama_arti": {
+      "t": "Nama diambil dari leluhur eponim, Daus bin Udtsan; tidak ada makna khusus yang disepakati secara luas selain sebagai nama diri.",
+      "basis": "umum",
+      "src": []
+    },
+    "leluhur": {
+      "t": "Daus bin Udtsan bin Abdullah bin Zahran bin Ka'b.",
+      "basis": "sumber",
+      "src": [
+        "Jamharat Ansab al-'Arab, hlm. 379"
+      ]
+    },
+    "titik_temu": {
+      "t": "Daus adalah cabang al-Azd (Qahthan) melalui jalur Zahran; bertemu dengan kabilah-kabilah Azd lain pada leluhur bersama al-Azd bin al-Ghauts.",
+      "basis": "umum",
+      "src": []
+    },
+    "struktur": {
+      "t": "Dua anak Daus: Minhab (di as-Sarah) dan Ghanm. Dari Ghanm lahir Fahm, yang berketurunan Malik (banyak di Oman), Sulaim, dan Tharif (di Hijaz); dari Sulaim bin Fahm lahir marga Tsa'labah.",
+      "basis": "sumber",
+      "src": [
+        "Jamharat Ansab al-'Arab, hlm. 379",
+        "Jamharat Ansab al-'Arab, hlm. 381"
+      ]
+    },
+    "wilayah": {
+      "t": "Mendiami pegunungan as-Sarah di Yaman dekat Tihamah; sebagian kemudian menyebar ke Oman dan Bashrah.",
+      "basis": "umum",
+      "src": []
+    },
+    "peran_sosial": {
+      "t": "Dikenal lewat delegasi ath-Thufail bin Amr ad-Dausi yang membawa kaumnya memeluk Islam setelah sempat menolak di awal dakwah; melahirkan sejumlah sahabat.",
+      "basis": "umum",
+      "src": []
+    },
+    "hilf": null,
+    "tokoh": [
+      "Abu ar-Rawa' ad-Dausi",
+      "Iyas bin Abdullah bin Abi Dzubab",
+      "Sa'd bin Abi Dzubab ad-Dausi",
+      "Umair bin Amir bin Abdi Dzi asy-Syara bin Tharif",
+      "ath-Thufail bin Amr bin Tharif bin al-Ash"
+    ],
+    "dinamika": {
+      "t": "Setelah masuk Islam, sebagian keturunan Daus menetap di Bashrah dan berperan dalam periwayatan hadis serta kehidupan ilmiah di sana.",
+      "basis": "umum",
+      "src": []
+    },
+    "rujukan": [
+      "Jamharat Ansab al-'Arab (Ibnu Hazm)",
+      "Jamharat an-Nasab (Ibnu al-Kalbi)",
+      "al-Ishabah (Ibnu Hajar)"
+    ]
+  },
+  {
+    "id": "azd",
+    "nama_arti": {
+      "t": "Nama diambil dari leluhur eponim, al-Azd bin al-Ghauts; tidak ada makna etimologis yang disepakati secara luas.",
+      "basis": "umum",
+      "src": []
+    },
+    "leluhur": {
+      "t": "al-Azd bin al-Ghauts bin Nabt bin Malik bin Zaid bin Kahlan bin Saba'.",
+      "basis": "sumber",
+      "src": [
+        "Jamharat Ansab al-'Arab, hlm. 330"
+      ]
+    },
+    "titik_temu": {
+      "t": "al-Azd termasuk rumpun Qahthan (Yaman); bertemu dengan kabilah Qahthan lain seperti Himyar, Hamdan, dan Kindah pada leluhur bersama Kahlan bin Saba'.",
+      "basis": "umum",
+      "src": []
+    },
+    "struktur": {
+      "t": "Anak-anak al-Azd: Mazin, Nashr, Amr, Abdullah, al-Hunu, dan Qudar; dari Mazin lahir Amr, Adi, Ka'b, dan Tsa'labah.",
+      "basis": "sumber",
+      "src": [
+        "Jamharat Ansab al-'Arab, hlm. 330"
+      ]
+    },
+    "wilayah": {
+      "t": "Awalnya di Yaman (termasuk Oman dan as-Sarah); sebagian besar bermigrasi ke Hijaz, Syam (Ghassan), dan Bashrah/Oman menurut tradisi Arab setelah runtuhnya bendungan Ma'rib.",
+      "basis": "umum",
+      "src": []
+    },
+    "peran_sosial": {
+      "t": "Salah satu induk kabilah Qahthan terbesar, mencakup banyak sub-kabilah seperti Daus, Khuza'ah, al-Aus, al-Khazraj, dan Ghassan; berperan besar dalam sejarah Arab pra- dan pasca-Islam.",
+      "basis": "umum",
+      "src": []
+    },
+    "hilf": null,
+    "tokoh": [
+      "Abdullah bin Hawalah",
+      "Abdullah bin Malik bin Sa'd",
+      "Abdullah bin Qurth",
+      "Amr bin Murrah bin Abs",
+      "Junadah bin Abi Umayyah",
+      "Mikhnaf bin Sulaim bin al-Harits",
+      "Urwah bin al-Ja'd",
+      "Yazid bin Syaiban"
+    ],
+    "dinamika": {
+      "t": "Pasca masa kenabian, berbagai cabang Azd menyebar ke Oman, Bashrah, dan Khurasan, dan sejumlah pemimpinnya berperan penting pada masa Umayyah dan Abbasiyah.",
+      "basis": "umum",
+      "src": []
+    },
+    "rujukan": [
+      "Jamharat Ansab al-'Arab (Ibnu Hazm)",
+      "Jamharat an-Nasab (Ibnu al-Kalbi)",
+      "al-Ishabah (Ibnu Hajar)"
+    ]
+  },
+  {
+    "id": "kalb",
+    "nama_arti": {
+      "t": "Nama Kalb (berarti 'anjing' dalam bahasa Arab) diambil dari leluhur eponim mereka; penamaan dengan nama hewan cukup umum di kalangan kabilah Arab kuno.",
+      "basis": "umum",
+      "src": []
+    },
+    "leluhur": {
+      "t": "Kalb bin Wabrah bin Taghlib bin Hulwan bin Imran bin al-Hafi bin Qudha'ah.",
+      "basis": "sumber",
+      "src": [
+        "Jamharat Ansab al-'Arab, hlm. 455"
+      ]
+    },
+    "titik_temu": {
+      "t": "Kalb termasuk rumpun Qudha'ah; bertemu dengan kabilah-kabilah Qudha'ah lain (seperti Judzam dan Bali) pada leluhur bersama Qudha'ah.",
+      "basis": "umum",
+      "src": []
+    },
+    "struktur": {
+      "t": "Anak-anak Kalb: Tsaur, Kuld, dan Abu Hubahib; dari Tsaur lahir Rufaidah, Urainah, dan Shahb. Dari jalur Rufaidah lahir cabang besar Bani Kinanah bin Bakr, yang di antaranya melahirkan Bani Jinab (dengan sub-cabang 'Adi, Zuhair, dan 'Alim).",
+      "basis": "sumber",
+      "src": [
+        "Jamharat Ansab al-'Arab, hlm. 455"
+      ]
+    },
+    "wilayah": {
+      "t": "Mendiami wilayah padang pasir Syam bagian utara dan sekitar Dumat al-Jandal, berbatasan dengan Jazirah Arab utara.",
+      "basis": "umum",
+      "src": []
+    },
+    "peran_sosial": {
+      "t": "Dikenal lewat keislaman Zaid bin Haritsah—budak yang diangkat anak oleh Nabi ﷺ—dan keturunannya; belakangan menjadi kabilah penting pendukung Bani Umayyah di Syam.",
+      "basis": "umum",
+      "src": []
+    },
+    "hilf": {
+      "t": "Pada masa Umayyah, Kalb menjadi sekutu dekat dinasti Bani Umayyah di Syam, berseberangan dengan Qais 'Ailan dalam persaingan Qais-Yaman.",
+      "basis": "umum",
+      "src": []
+    },
+    "tokoh": [
+      "Usamah bin Zaid bin Haritsah bin Syarahil",
+      "Zaid bin Haritsah bin Syarahil",
+      "Dihyah bin Khalifah bin Farwah bin Fadhalah",
+      "Jabalah bin Haritsah bin Syarahil",
+      "Khawlah binti al-Hudzail bin Hubairah",
+      "Syaraf binti Khalifah bin Farwah"
+    ],
+    "dinamika": {
+      "t": "Persaingan Kalb (Yaman) melawan Qais 'Ailan mewarnai konflik internal Bani Umayyah akhir, dikenal sebagai fitnah Qais-Yaman.",
+      "basis": "umum",
+      "src": []
+    },
+    "rujukan": [
+      "Jamharat Ansab al-'Arab (Ibnu Hazm)",
+      "Jamharat an-Nasab (Ibnu al-Kalbi)",
+      "al-Ishabah (Ibnu Hajar)"
+    ]
+  },
+  {
+    "id": "khuzaah",
+    "nama_arti": {
+      "t": "Nama Khuza'ah dikaitkan secara tradisional dengan kata 'takhazzu'' (berpisah), merujuk pada riwayat bahwa mereka berpisah dari rombongan Azd yang berhijrah dari Yaman menuju Syam dan menetap di Makkah.",
+      "basis": "umum",
+      "src": []
+    },
+    "leluhur": {
+      "t": "Khuza'ah merupakan cabang dari al-Azd, dinisbahkan kepada pemimpin yang memisahkan kaumnya dari rombongan Azd di Marr azh-Zhahran menuju Makkah.",
+      "basis": "umum",
+      "src": []
+    },
+    "titik_temu": {
+      "t": "Bertemu dengan al-Azd pada leluhur bersama al-Azd bin al-Ghauts; dengan Quraisy memiliki hubungan sejarah erat sebagai penguasa Makkah sebelum Quraisy, serta menjadi sekutu Nabi ﷺ lewat Perjanjian Hudaibiyah.",
+      "basis": "umum",
+      "src": []
+    },
+    "struktur": {
+      "t": "Mencakup beberapa sub-marga, antara lain Bani al-Mushthaliq dan Bani Ka'b bin Amr.",
+      "basis": "umum",
+      "src": []
+    },
+    "wilayah": {
+      "t": "Menguasai wilayah Makkah dan sekitarnya (termasuk Marr azh-Zhahran) sebelum kekuasaan beralih ke Quraisy; Bani al-Mushthaliq bermukim dekat pesisir dekat Makkah.",
+      "basis": "umum",
+      "src": []
+    },
+    "peran_sosial": {
+      "t": "Dahulu menjadi penjaga Ka'bah sebelum Quraisy; menjadi sekutu penting Nabi ﷺ di Makkah dan terlibat dalam peristiwa-peristiwa menjelang Hudaibiyah serta Fathu Makkah.",
+      "basis": "umum",
+      "src": []
+    },
+    "hilf": {
+      "t": "Terikat perjanjian/sekutu (hilf) dengan Nabi ﷺ sebelum dan setelah Hudaibiyah; pelanggaran perjanjian ini oleh Quraisy memicu Fathu Makkah.",
+      "basis": "umum",
+      "src": []
+    },
+    "tokoh": [
+      "Juwairiyah binti al-Harits",
+      "Budail bin Warqa' bin Abdil Uzza bin Rabi'ah",
+      "Amr bin al-Humaq bin al-Kahin",
+      "Khuwailid bin 'Amr bin Shakhr",
+      "Abdullah bin Aqram bin Zaid",
+      "Haritsah bin Wahb",
+      "Amr bin al-Faghwa'",
+      "Anas bin Malik"
+    ],
+    "dinamika": {
+      "t": "Setelah Fathu Makkah, Khuza'ah menyatu ke dalam masyarakat Muslim; sejumlah anggotanya berperan sebagai informan dan sekutu dalam peristiwa-peristiwa penting awal Islam.",
+      "basis": "umum",
+      "src": []
+    },
+    "rujukan": [
+      "Jamharat Ansab al-'Arab (Ibnu Hazm)",
+      "Jamharat an-Nasab (Ibnu al-Kalbi)",
+      "al-Ishabah (Ibnu Hajar)"
+    ]
+  },
+  {
+    "id": "kinanah",
+    "nama_arti": {
+      "t": "Nama Kinanah berarti 'tempat/sarung anak panah' dalam bahasa Arab, diambil dari leluhur eponim mereka.",
+      "basis": "umum",
+      "src": []
+    },
+    "leluhur": {
+      "t": "Kinanah bin Khuzaimah bin Mudrikah bin Ilyas bin Mudhar bin Nizar bin Ma'ad bin Adnan.",
+      "basis": "sumber",
+      "src": [
+        "Jamharat Ansab al-'Arab, hlm. 11"
+      ]
+    },
+    "titik_temu": {
+      "t": "Bertemu dengan seluruh Quraisy pada Fihr bin Malik bin an-Nadhr bin Kinanah, yang disebut sebagai leluhur murni Quraisy.",
+      "basis": "sumber",
+      "src": [
+        "Jamharat Ansab al-'Arab, hlm. 11"
+      ]
+    },
+    "struktur": {
+      "t": "Anak-anak Kinanah: an-Nadhr, Malik, Malikan, dan Abdu Manah; dari an-Nadhr lahir Malik bin an-Nadhr lalu Fihr bin Malik, sedangkan jalur ash-Shalt bin Malik masuk ke Bani Malih dari Khuza'ah.",
+      "basis": "sumber",
+      "src": [
+        "Jamharat Ansab al-'Arab, hlm. 11"
+      ]
+    },
+    "wilayah": {
+      "t": "Mendiami wilayah sekitar Makkah dan pesisir Hijaz; termasuk kabilah Bani Laits, Bani Dhamrah, dan ad-Du'il di sekitarnya.",
+      "basis": "umum",
+      "src": []
+    },
+    "peran_sosial": {
+      "t": "Kinanah dianggap induk besar yang melahirkan Quraisy; beberapa sub-kabilahnya ikut terlibat dalam peristiwa-peristiwa penting Makkah pra-Islam, termasuk Perang Fijar.",
+      "basis": "umum",
+      "src": []
+    },
+    "hilf": null,
+    "tokoh": [
+      "Amir bin Abil Bukair bin Abdu Ya'lail",
+      "Aqil bin Abil Bukair bin Abdu Ya'lail",
+      "Iyas bin Abil Bukair bin Abdu Ya'lail",
+      "Khalid bin Abil Bukair bin Abdu Ya'lail",
+      "Ummu Ruman binti 'Amir bin 'Uwaimir",
+      "Suraqah bin Malik bin Ju'tsum",
+      "Malik bin al-Huwairits bin Husyaisy",
+      "Amr bin Umayyah bin Khuwailid"
+    ],
+    "dinamika": {
+      "t": "Kedekatan nasab dengan Quraisy membuat beberapa klan Kinanah ikut ambil bagian dalam peristiwa-peristiwa penting Makkah, termasuk sebagai pihak dalam Perjanjian Hudaibiyah karena bersekutu dengan Quraisy.",
+      "basis": "umum",
+      "src": []
+    },
+    "rujukan": [
+      "Jamharat Ansab al-'Arab (Ibnu Hazm)",
+      "Jamharat an-Nasab (Ibnu al-Kalbi)",
+      "Nasab Quraisy (Mush'ab az-Zubairi)",
+      "al-Ishabah (Ibnu Hajar)"
+    ]
+  },
+  {
+    "id": "bajilah",
+    "nama_arti": {
+      "t": "Nama diambil dari leluhur eponim, Bajilah; makna atau asal-usul nama ini tidak disepakati secara luas dan tidak disebutkan dalam sumber yang tersedia.",
+      "basis": "umum",
+      "src": []
+    },
+    "leluhur": {
+      "t": "Bajilah berasal dari Anmar, melalui dua jalur utama: Abqar bin Anmar (leluhur Bani Qasr) dan al-Ghauts bin Anmar (leluhur Bani Ahmas).",
+      "basis": "sumber",
+      "src": [
+        "Jamharat Ansab al-'Arab, hlm. 387",
+        "Jamharat Ansab al-'Arab, hlm. 474"
+      ]
+    },
+    "titik_temu": {
+      "t": "Bajilah dan Khath'am adalah dua kabilah bersaudara, keduanya dari Anmar; termasuk rumpun Qahthan Yaman.",
+      "basis": "umum",
+      "src": []
+    },
+    "struktur": {
+      "t": "Dua cabang utama: Bani Qasr (dari Malik/Qasr bin Abqar, termasuk marga Jarir bin Abdullah al-Bajali) dan Bani Ahmas (dari al-Ghauts), yang dikenal berjasa pada penghancuran berhala Dzul Khalashah.",
+      "basis": "sumber",
+      "src": [
+        "Jamharat Ansab al-'Arab, hlm. 387"
+      ]
+    },
+    "wilayah": {
+      "t": "Mendiami wilayah pegunungan Sarat dan sekitar Yaman bagian utara menuju Hijaz; sebagian menetap di Kufah pasca-Islam.",
+      "basis": "umum",
+      "src": []
+    },
+    "peran_sosial": {
+      "t": "Dikenal lewat Jarir bin Abdullah al-Bajali yang mempersatukan Bajilah dan memimpin penghancuran berhala Dzul Khalashah; kabilah ini juga berperan dalam penaklukan-penaklukan awal Islam.",
+      "basis": "umum",
+      "src": []
+    },
+    "hilf": null,
+    "tokoh": [
+      "Jundab bin Abdullah bin Sufyan",
+      "Jarir bin Abdullah bin Jabir",
+      "Hushain bin 'Auf",
+      "Jabir bin Thariq",
+      "Qais bin 'Aidz",
+      "Syubail bin 'Auf bin Abi Hayyah",
+      "Shakhr bin al-'Ailah bin Abdullah",
+      "Shunabih bin al-A'sar"
+    ],
+    "dinamika": {
+      "t": "Setelah Islam, Bajilah banyak menetap di Kufah dan berperan dalam penaklukan Persia; keturunan mereka tersebar hingga Andalusia.",
+      "basis": "umum",
+      "src": []
+    },
+    "rujukan": [
+      "Jamharat Ansab al-'Arab (Ibnu Hazm)",
+      "Jamharat an-Nasab (Ibnu al-Kalbi)",
+      "al-Ishabah (Ibnu Hajar)"
+    ]
+  },
+  {
+    "id": "asad-k",
+    "nama_arti": {
+      "t": "Nama Asad berarti 'singa' dalam bahasa Arab, diambil dari leluhur eponim mereka, Asad bin Khuzaimah.",
+      "basis": "umum",
+      "src": []
+    },
+    "leluhur": {
+      "t": "Asad bin Khuzaimah.",
+      "basis": "sumber",
+      "src": [
+        "Jamharat Ansab al-'Arab, hlm. 190"
+      ]
+    },
+    "titik_temu": {
+      "t": "Asad bin Khuzaimah bersaudara dengan Kinanah bin Khuzaimah; bertemu dengan Quraisy dan Kinanah pada Khuzaimah bin Mudrikah (rumpun Mudhar/Adnan).",
+      "basis": "umum",
+      "src": []
+    },
+    "struktur": {
+      "t": "Anak-anak Asad: Dudan, Kahil, Amr, Sha'b, dan Hulmah; dari Dudan lahir marga Bani Jahsy (termasuk Zainab binti Jahsy) serta Bani Muhshin (termasuk 'Ukkasyah bin Mihshan).",
+      "basis": "sumber",
+      "src": [
+        "Jamharat Ansab al-'Arab, hlm. 190"
+      ]
+    },
+    "wilayah": {
+      "t": "Mendiami wilayah Najd bagian utara; sebagian kemudian menyebar ke Kufah dan Andalusia.",
+      "basis": "umum",
+      "src": []
+    },
+    "peran_sosial": {
+      "t": "Melahirkan Ummul Mukminin Zainab binti Jahsy dan sejumlah sahabat Badr seperti 'Ukkasyah bin Mihshan yang dikenal lewat hadis tentang tujuh puluh ribu umat yang masuk surga tanpa hisab.",
+      "basis": "umum",
+      "src": []
+    },
+    "hilf": null,
+    "tokoh": [
+      "Abdullah bin Jahsy bin Ri'ab",
+      "Zainab binti Jahsy",
+      "Ukkasyah bin Mihshan bin Hirtsan",
+      "Abu Sinan bin Mihshan bin Hirtsan",
+      "Sinan bin Abi Sinan bin Mihshan",
+      "Mihraz bin Nadhlah bin Abdullah",
+      "Khuraim bin Fatik",
+      "Hamnah binti Jahsy bin Ri'ab"
+    ],
+    "dinamika": {
+      "t": "Kisah kemurtadan Ubaidillah bin Jahsy di Habasyah dan pernikahan berikutnya Nabi ﷺ dengan Ummu Habibah menjadi bagian penting dinamika keluarga Bani Asad ini.",
+      "basis": "umum",
+      "src": []
+    },
+    "rujukan": [
+      "Jamharat Ansab al-'Arab (Ibnu Hazm)",
+      "Jamharat an-Nasab (Ibnu al-Kalbi)",
+      "al-Ishabah (Ibnu Hajar)",
+      "ath-Thabaqat al-Kubra (Ibnu Sa'd)"
+    ]
+  },
+  {
+    "id": "thayyi",
+    "nama_arti": {
+      "t": "Nama Thayyi' adalah julukan bagi Julhumah bin Udad; makna aslinya diperselisihkan dan tidak ada konsensus pasti.",
+      "basis": "umum",
+      "src": []
+    },
+    "leluhur": {
+      "t": "Thayyi' (Julhumah) bin Udad bin Yasyjub bin Uraib bin Zaid bin Kahlan bin Saba'.",
+      "basis": "sumber",
+      "src": [
+        "Jamharat Ansab al-'Arab, hlm. 398"
+      ]
+    },
+    "titik_temu": {
+      "t": "Bertemu dengan kabilah Qahthan lain seperti Hamdan dan Madzhij pada Zaid bin Kahlan dan seterusnya pada Saba'.",
+      "basis": "sumber",
+      "src": [
+        "Jamharat Ansab al-'Arab, hlm. 398"
+      ]
+    },
+    "struktur": {
+      "t": "Tiga anak Thayyi': Fitrah, al-Ghauts, dan al-Harits; dari Fitrah lahir marga besar termasuk Bani Tsa'labah serta tokoh Aus bin Haritsah dan putranya Jarir bin Aus; dari al-Harits lahir keturunan penyair Abu Tammam.",
+      "basis": "sumber",
+      "src": [
+        "Jamharat Ansab al-'Arab, hlm. 398",
+        "Jamharat Ansab al-'Arab, hlm. 399"
+      ]
+    },
+    "wilayah": {
+      "t": "Mendiami Jabal Thayyi' (Jabal Aja' dan Salma) di Najd utara.",
+      "basis": "umum",
+      "src": []
+    },
+    "peran_sosial": {
+      "t": "Dikenal lewat kisah kedermawanan Hatim ath-Tha'i dan keislaman putranya 'Adi bin Hatim setelah sebelumnya memimpin kaumnya yang Kristen; berperan dalam penaklukan-penaklukan Islam awal.",
+      "basis": "umum",
+      "src": []
+    },
+    "hilf": null,
+    "tokoh": [
+      "Adi bin Hatim bin Abdullah",
+      "Asmar bin Mudhris",
+      "Habis bin Rabi'ah bin al-Mundzir bin Sa'd",
+      "Sa'd bin al-Akhram",
+      "Urwah bin Mudharris bin Aus",
+      "Wahb bin Khunbusy",
+      "Yazid bin 'Adi bin Qunafah bin 'Adi"
+    ],
+    "dinamika": {
+      "t": "Thayyi' kemudian terkenal lewat keturunannya penyair Abu Tammam pada masa Abbasiyah; kabilah ini juga dikenal dengan kedekatan historisnya dengan Mahrah bin Haidan.",
+      "basis": "umum",
+      "src": []
+    },
+    "rujukan": [
+      "Jamharat Ansab al-'Arab (Ibnu Hazm)",
+      "Jamharat an-Nasab (Ibnu al-Kalbi)",
+      "al-Ishabah (Ibnu Hajar)"
+    ]
+  },
+  {
+    "id": "kindah",
+    "nama_arti": {
+      "t": "Nama diambil dari leluhur eponim, Kindah (Tsaur bin 'Ufair); makna pastinya tidak disepakati secara luas.",
+      "basis": "umum",
+      "src": []
+    },
+    "leluhur": {
+      "t": "Kindah, yaitu Tsaur bin 'Ufair bin Adi bin al-Harits.",
+      "basis": "sumber",
+      "src": [
+        "Jamharat Ansab al-'Arab, hlm. 425"
+      ]
+    },
+    "titik_temu": {
+      "t": "Kindah termasuk rumpun Qahthan (Kahlan); dikenal sebagai salah satu kerajaan Arab Yaman yang berpengaruh sebelum Islam.",
+      "basis": "umum",
+      "src": []
+    },
+    "struktur": {
+      "t": "Dua anak utama Kindah: Mu'awiyah dan Asyras; dari Mu'awiyah lahir marga besar termasuk Bani al-Harits (leluhur al-Asy'ats bin Qais), dan dari Asyras lahir as-Sakun dan as-Sakasik.",
+      "basis": "sumber",
+      "src": [
+        "Jamharat Ansab al-'Arab, hlm. 425",
+        "Jamharat Ansab al-'Arab, hlm. 429"
+      ]
+    },
+    "wilayah": {
+      "t": "Pusat kekuasaan historis di Najd dan Hadhramaut; kerajaan Kindah pra-Islam pernah menyatukan sejumlah kabilah Arab di bawah dinasti Akil al-Murar hingga sekitar abad ke-6 M.",
+      "basis": "umum",
+      "src": []
+    },
+    "peran_sosial": {
+      "t": "Dikenal lewat al-Asy'ats bin Qais, pemimpin Kindah yang masuk Islam lalu sempat terlibat kemurtadan pasca wafat Nabi ﷺ sebelum kembali memeluk Islam; keturunannya berperan dalam sejarah politik awal Islam.",
+      "basis": "umum",
+      "src": []
+    },
+    "hilf": null,
+    "tokoh": [
+      "al-Asy'ats bin Qais bin Ma'di Karib",
+      "al-Miqdad bin 'Amr bin Tsa'labah bin Malik",
+      "Adi bin Umairah",
+      "Syurahbil bin as-Simth bin al-Aswad",
+      "al-Miqdam bin Ma'di Karib bin 'Amr bin Yazid",
+      "Mu'awiyah bin Hudaij bin Jafnah",
+      "Ghudhaif bin al-Harits bin Zunaim",
+      "Salamah bin Nufail"
+    ],
+    "dinamika": {
+      "t": "Pasca wafat Nabi ﷺ, sebagian Kindah terlibat kemurtadan di bawah al-Asy'ats sebelum ditundukkan kembali; keturunan Kindah kemudian tersebar di Syam, Irak, dan sebagian ke Andalusia.",
+      "basis": "umum",
+      "src": []
+    },
+    "rujukan": [
+      "Jamharat Ansab al-'Arab (Ibnu Hazm)",
+      "Jamharat an-Nasab (Ibnu al-Kalbi)",
+      "al-Ishabah (Ibnu Hajar)",
+      "ath-Thabaqat al-Kubra (Ibnu Sa'd)"
+    ]
+  },
+  {
+    "id": "hamdan",
+    "nama_arti": {
+      "t": "Nama diambil dari leluhur eponim, Hamdan bin Malik; tidak ada makna khusus yang disepakati secara luas.",
+      "basis": "umum",
+      "src": []
+    },
+    "leluhur": {
+      "t": "Hamdan bin Malik bin Zaid bin Ausalah bin Rabi'ah bin al-Khiyar bin Malik bin Zaid bin Kahlan bin Saba'.",
+      "basis": "sumber",
+      "src": [
+        "Jamharat Ansab al-'Arab, hlm. 392"
+      ]
+    },
+    "titik_temu": {
+      "t": "Bertemu dengan kabilah Qahthan lain pada Zaid bin Kahlan dan Saba'.",
+      "basis": "sumber",
+      "src": [
+        "Jamharat Ansab al-'Arab, hlm. 392"
+      ]
+    },
+    "struktur": {
+      "t": "Keturunan Hamdan terpusat pada dua kabilah besar, Hasyid dan Bakil (anak-anak Jusyam bin Khairan bin Nauf bin Hamdan), yang mencakup banyak bathn seperti Bani Wadi'ah dan Bani Yam.",
+      "basis": "sumber",
+      "src": [
+        "Jamharat Ansab al-'Arab, hlm. 392",
+        "Jamharat Ansab al-'Arab, hlm. 475"
+      ]
+    },
+    "wilayah": {
+      "t": "Salah satu kabilah besar di dataran tinggi Yaman (sekitar Shan'a dan Sha'dah); nama Hasyid dan Bakil tetap dikenal hingga kini sebagai konfederasi suku besar Yaman.",
+      "basis": "umum",
+      "src": []
+    },
+    "peran_sosial": {
+      "t": "Dikenal sebagai salah satu kabilah Yaman paling besar dan berpengaruh sejak masa pra-Islam hingga sekarang, dengan sejumlah ulama dan tokoh yang lahir darinya.",
+      "basis": "umum",
+      "src": []
+    },
+    "hilf": null,
+    "tokoh": [
+      "'amr bin Syhr"
+    ],
+    "dinamika": {
+      "t": "Hamdan melahirkan sejumlah ulama tabi'in yang dikenal luas dalam sejarah periwayatan ilmu di Kufah.",
+      "basis": "umum",
+      "src": []
+    },
+    "rujukan": [
+      "Jamharat Ansab al-'Arab (Ibnu Hazm)",
+      "Jamharat an-Nasab (Ibnu al-Kalbi)",
+      "al-Ishabah (Ibnu Hajar)"
+    ]
+  }
+]

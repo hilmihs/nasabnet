@@ -1,6 +1,7 @@
 import { useEffect, useMemo, useState } from 'react'
 import { Empty, SectionTitle } from '../components/bits'
 import { Icon } from '../components/Icon'
+import { KinPanel, SharedKin } from '../components/KinPanel'
 import { PathDiagram } from '../components/PathDiagram'
 import { PersonPicker } from '../components/PersonPicker'
 import { useStore } from '../lib/data'
@@ -155,6 +156,21 @@ export function LookupView() {
             ) : (
               <p className="mt-2 text-sm text-tinta-soft">Rantai nasab yang tercatat untuk keduanya belum bertemu (rantai terlalu pendek atau berbeda kabilah besar).</p>
             )}
+          </div>
+        </div>
+      )}
+      {result && (
+        <div className="mt-8">
+          <h2 className="mb-1 font-display text-2xl font-semibold text-hijau-900">Tokoh terkait</h2>
+          <p className="mb-3 text-sm text-tinta-soft">
+            Sahabat yang berkaitan dengan kedua tokoh pencarian secara nasab (segaris keturunan ayah), kekerabatan (keluarga & pernikahan), dan aliansi kabilah.
+          </p>
+          <div className="grid grid-cols-1 gap-6 lg:grid-cols-[minmax(0,1fr)_minmax(0,1fr)]">
+            <KinPanel p={result.pa} />
+            <KinPanel p={result.pb} />
+          </div>
+          <div className="mt-6">
+            <SharedKin a={result.pa} b={result.pb} />
           </div>
         </div>
       )}

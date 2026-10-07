@@ -1,0 +1,12 @@
+[
+{"fid": "F217", "verdict": "ok", "why": "Teks 3/557 eksplisit menyebut tiga istri Abu Usaid yang berbeda untuk tiga anak berbeda (Usaid&Mundzir / Ghaliz / Hamzah) — ibu berbeda berarti orang berbeda.", "ops": []},
+{"fid": "F218", "verdict": "fix", "why": "xb751a767 dan s4765 sama-sama ibu Jabir bin Abdullah bin 'Amr bin Haram ('Anamah/Ghunmah' varian eja); x79c27721 ('Uqbah) tidak cukup bukti jadi tidak digabung.", "ops": [{"op":"merge","keep":"s4765","drop":"xb751a767"}]},
+{"fid": "F219", "verdict": "fix", "why": "Keduanya ibu al-Hubab & Hind, anak al-Mundzir bin al-Jamuh, 'Umah/Umayyah' varian eja nama kakek.", "ops": [{"op":"merge","keep":"x0591ea34","drop":"x76bef8aa"}]},
+{"fid": "F220", "verdict": "fix", "why": "Keduanya istri Amir bin Nabi' bin Zaid dan ibu Uqbah bin Amir, 'Sakan/as-Sakan' hanya beda artikel.", "ops": [{"op":"merge","keep":"s4736","drop":"x58e4f934"}]},
+{"fid": "F221", "verdict": "ok", "why": "xb5163734 (ibu Umair bin al-Harits) nasabnya 'Nabi' bin Zaid', berbeda dari x52b0d784 (ibu Ramlah, dari Tsabit bin an-Nu'man) — tidak ada teks yang menghubungkan ke suami yang sama.", "ops": []},
+{"fid": "F222", "verdict": "fix", "why": "Keduanya disebut 'bibi Jabir bin Abdullah' dan menikah an-Nu'man bin Khansa' setelah suami pertama — 'Riab/Rabab' varian eja.", "ops": [{"op":"merge","keep":"s4752","drop":"xd3ba1114"}]},
+{"fid": "F223", "verdict": "unsure", "why": "Keduanya istri Quthbah bin Amir dengan ujung nasab sama ('bin Amr bin Sawad') tapi nama ayah 'Khulaid' vs 'Hudaidah' cukup berbeda; tidak jelas dari teks apakah satu orang atau dua istri.", "ops": []},
+{"fid": "F224", "verdict": "fix", "why": "Keduanya suami Nailah binti Salamah bin Waqsy dengan nasab sama, 'Abi Ka'b/Ka'b' varian kunya-ism.", "ops": [{"op":"merge","keep":"x389e75f2","drop":"xf4396cb3"}]},
+{"fid": "F225", "verdict": "ok", "why": "s4516 wanita Aus dari Ratij, sedangkan xb15583df eksplisit 'dari Juhainah' dan menjadi ibu ash-Sha'bah binti Jabal — suku dan konteks berbeda.", "ops": []},
+{"fid": "F226", "verdict": "fix", "why": "Keduanya ibu Umm Abdullah binti Mu'adz bin Jabal, 'Khalid/Khallad' varian eja.", "ops": [{"op":"merge","keep":"x6a92870c","drop":"xe31c7c84"}]}
+]

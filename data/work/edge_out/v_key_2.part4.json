@@ -1,0 +1,15 @@
+[
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/608", "ok": 7, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/613", "ok": 10, "issues": [
+  {"s": "s4837", "t": "n2305", "k": "parent", "verdict": "wrong", "why": "teks eksplisit: ibu Sa'd adalah 'Amrah yang KETIGA' (وهي الثالثة); node yang diresolve adalah 'Amrah yang pertama (al-Ula)' — namanya sama tapi individu berbeda"},
+  {"s": "s4837", "t": "x556e32b5", "k": "spouse", "verdict": "wrong", "why": "turunan dari kesalahan resolusi yang sama: Amrah yang dimaksud teks adalah 'Amrah ketiga', bukan node 'Amrah pertama' ini"}
+]},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/618", "ok": 7, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/621", "ok": 4, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/624", "ok": 7, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/7", "ok": 11, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/8", "ok": 8, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/84", "ok": 7, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/89", "ok": 3, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/119", "ok": 2, "issues": []}
+]

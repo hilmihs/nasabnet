@@ -1,0 +1,12 @@
+[
+{"fid":"F21","verdict":"ok","why":"Teks eksplisit: ism Abu Usaid adalah Malik bin Rabi'ah — kunya=ism orang yg sama, sesuai edge.","ops":[]},
+{"fid":"F22","verdict":"ok","why":"Teks eksplisit: ism Abu Usaid adalah Malik bin Rabi'ah — kunya=ism orang yg sama, sesuai edge.","ops":[]},
+{"fid":"F23","verdict":"ok","why":"Teks eksplisit: ism Abu Usaid adalah Malik bin Rabi'ah — kunya=ism orang yg sama, sesuai edge.","ops":[]},
+{"fid":"F24","verdict":"ok","why":"Teks eksplisit: ism Abu Usaid adalah Malik bin Rabi'ah — kunya=ism orang yg sama, sesuai edge.","ops":[]},
+{"fid":"F25","verdict":"ok","why":"Teks eksplisit: ism Abu Usaid adalah Malik bin Rabi'ah — kunya=ism orang yg sama, sesuai edge.","ops":[]},
+{"fid":"F26","verdict":"ok","why":"Teks eksplisit: ism Abu Usaid adalah Malik bin Rabi'ah — kunya=ism orang yg sama, sesuai edge.","ops":[]},
+{"fid":"F27","verdict":"fix","why":"Ka'b bin Amr n5309 bernasab Yami/Hamdan (nisba al-Yami), beda total dari nasab Juhainah ayah Ziyad; kemungkinan salah resolusi nama kembar.","ops":[{"op":"drop_edge","s":"n5309","t":"s747","k":"parent"}]},
+{"fid":"F28","verdict":"fix","why":"Teks ibnsad yg terlampir pd node ini justru ttg Abdullah bin Amr bin Haram (Ansari, ayah Jabir sebenarnya), bukan Abdullah as-Sa'di yg Quraisy 'Amiri — beda orang.","ops":[{"op":"drop_edge","s":"n3685","t":"n1091","k":"parent"}]},
+{"fid":"F29","verdict":"fix","why":"Relasi ayah-anak didukung teks jelas (anak 'Umm Abdullah' disebut langsung di bio Mu'adz); tag 'adi' pd anak keliru, seharusnya khazraj spt ayah — 'adi' di nasabnya cuma nama leluhur.","ops":[{"op":"set_tribe","id":"s4775","tribe":"khazraj"}]},
+{"fid":"F30","verdict":"fix","why":"Teks ibnsad eksplisit Hasyimi (bin Abdul Muththalib bin Hasyim bin Abdu Manaf), cocok dgn ayah; tag 'bahilah' tampak tercampur dari data rawi orang lain.","ops":[{"op":"set_tribe","id":"n7271","tribe":"hasyim"}]}
+]

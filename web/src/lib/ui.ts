@@ -1,6 +1,8 @@
 import { createContext, useContext } from 'react'
 import type { Category } from './types'
 
+export type ProfileTab = 'keluarga' | 'bio'
+
 export type View = 'kabilah' | 'nikah' | 'relasi' | 'silsilah' | 'glosarium' | 'tersimpan'
 
 export interface Route {
@@ -11,7 +13,7 @@ export interface Route {
 export interface UI {
   route: Route
   go: (view: View, params?: Record<string, string>) => void
-  openProfile: (id: string) => void
+  openProfile: (id: string, tab?: ProfileTab) => void
   filters: Category[]
   setFilters: (c: Category[]) => void
 }

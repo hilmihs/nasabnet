@@ -1,0 +1,12 @@
+[
+  {"fid": "F129", "verdict": "fix", "why": "Relasi ayah eksplisit menyebut 'walad Mujibah al-Bahili atau al-Bahiliyyah'; tribe Mujibah seharusnya bahilah, bukan hasyim yang tercampur dari ibnsad tokoh Hasyimi lain yang tidak relevan.", "ops": [{"op": "set_tribe", "id": "x53314e89", "tribe": "bahilah"}]},
+  {"fid": "F130", "verdict": "ok", "why": "Relasi ayah menyebut anaknya bernama Khalaf (al-Huwayrith); nama Abdullah pada nasab anak cocok dengan ism utama ayah yang ditautkan.", "ops": []},
+  {"fid": "F131", "verdict": "fix", "why": "Hathib adalah Lakhmi menurut ibnsad, yang menjadi halif Bani Asad bin Abdul Uzza; tribe aslinya seharusnya lakhm, bukan asad (tribe sekutu).", "ops": [{"op": "set_tribe", "id": "s448", "tribe": "lakhm"}]},
+  {"fid": "F132", "verdict": "fix", "why": "Nasab lengkap al-Mundzir/Abu Humaid murni silsilah Khazraj (berakhir 'bin al-Khazraj') tanpa menyebut Abu Kabsyah; link ke Abu Kabsyah (Anmari/Madzhiji, Syami) adalah resolusi yang salah.", "ops": [{"op": "drop_edge", "s": "n2414", "t": "n11234", "k": "parent"}]},
+  {"fid": "F133", "verdict": "fix", "why": "Sama seperti F132: nasab menyebut ayah Sa'd bin Amr dari silsilah Khazraj, bukan Abu Kabsyah.", "ops": [{"op": "drop_edge", "s": "n2414", "t": "n11234", "k": "parent"}]},
+  {"fid": "F134", "verdict": "fix", "why": "Kedua record sama-sama putri Ali dan Fathimah bernama Ummu Kultsum; kemungkinan besar orang yang sama, hanya satu versi memakai gelar al-Kubra.", "ops": [{"op": "merge", "keep": "n8653", "drop": "x4f71ceba"}]},
+  {"fid": "F135", "verdict": "fix", "why": "Nasab kedua record identik (bin Jahsy bin Riab...bin Khuzaimah) dengan ibu yang sama Umaimah bint Abdul Muththalib; jelas orang yang sama (istri Nabi).", "ops": [{"op": "merge", "keep": "n2214", "drop": "s4319"}]},
+  {"fid": "F136", "verdict": "fix", "why": "Nama x6ae0e8de disebutkan sendiri sebagai salah satu varian nama (hedge) pada record n2990; keduanya orang yang sama. n15565 (putra al-Harits bin al-Muthallib) adalah orang berbeda, tidak terkait Ummu Ruman.", "ops": [{"op": "merge", "keep": "n2990", "drop": "x6ae0e8de"}]},
+  {"fid": "F137", "verdict": "ok", "why": "Teks Ibnu Sa'd menyebut 'Ummul Hasan' dan 'Ummul Hasan ash-Shughra' sebagai dua anak terpisah dalam daftar anak Sa'id bin Zaid; gelar Sughra menandakan orang berbeda.", "ops": []},
+  {"fid": "F138", "verdict": "ok", "why": "Teks menyebut 'Ummu Zaid al-Kubra' dan 'Ummu Zaid' dengan ibu yang berbeda (Umamah vs Hazmah bint Qais); ibu berbeda berarti orang berbeda.", "ops": []}
+]

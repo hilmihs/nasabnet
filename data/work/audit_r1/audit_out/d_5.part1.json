@@ -1,0 +1,12 @@
+[
+{"fid": "F197", "verdict": "fix", "why": "Teks ibnsad identik (Sa'id bin Zaid 3/379) untuk kedua catatan, nama sama hanya beda transliterasi — orang yang sama.", "ops": [{"op":"merge","keep":"x7ad45808","drop":"x1783ff32"}]},
+{"fid": "F198", "verdict": "fix", "why": "Nasab keduanya sama-sama berujung ke al-Harits bin Umayyah bin al-Fadl bin Munqif ... min Khuza'ah; 'Abi Sufyan' di sini kunya untuk Sufyan — orang yang sama.", "ops": [{"op":"merge","keep":"xb3d76304","drop":"x39076ea3"}]},
+{"fid": "F199", "verdict": "fix", "why": "Ibnsad Tsa'labah bin Hathib (3/460) sama persis untuk kedua catatan, hanya beda transliterasi nama.", "ops": [{"op":"merge","keep":"x7f128de1","drop":"x53c0eea1"}]},
+{"fid": "F200", "verdict": "fix", "why": "n954 sendiri menyebut nama alternatif Abu Lubabah termasuk Rifa'ah bin Abdul Mundzir bin Zanbar bin Zaid — sama dengan 'Abi Lubabah bin Abdul Mundzir'.", "ops": [{"op":"merge","keep":"n954","drop":"x3187c05b"}]},
+{"fid": "F201", "verdict": "fix", "why": "Ketiganya istri Sahl bin Hunaif; s4814 (8/439) menyebut ia menikah dengan Sahl bin Hunaif dan 'Abu Umamah' adalah kunya As'ad bin Zurarah.", "ops": [{"op":"merge","keep":"s4814","drop":"x06f9a99c"},{"op":"merge","keep":"s4814","drop":"x38db1109"}]},
+{"fid": "F202", "verdict": "fix", "why": "Teks 4/382 menyamakan 'Abu Amir ar-Rahib' dengan 'Abdu Amr bin Shaifi' — jadi 'Jamilah binti Abi Amir bin Shaifi' = 'Jamilah binti Abi Amir ar-Rahib', orang yang sama.", "ops": [{"op":"merge","keep":"x842ce92a","drop":"xecf9f21e"}]},
+{"fid": "F203", "verdict": "fix", "why": "Keduanya menyebut putri bernama Dubayyah/Umm Simak, menikah Yazid bin Tsabit bin ad-Dahhak dan beranak 'Umarah — ibu yang sama, 'Idam/Adam' varian eja.", "ops": [{"op":"merge","keep":"x1b6c5b5a","drop":"x46d2c306"}]},
+{"fid": "F204", "verdict": "fix", "why": "turath_rawi n1775 menyebut ia 'Umm Bani Hazm', cocok dengan ibu 'Umarah bin Hazm pada ibnsad x0b83e632; 'Abi Anas' kunya untuk Anas.", "ops": [{"op":"merge","keep":"n1775","drop":"x0b83e632"}]},
+{"fid": "F205", "verdict": "fix", "why": "s4822 cocok dengan suami al-Harits bin Rifa'ah (ayah Mu'adz & Mu'awwidz); x230302af hanya stub nama sama tanpa data lain yang bertentangan.", "ops": [{"op":"merge","keep":"s4822","drop":"x230302af"}]},
+{"fid": "F206", "verdict": "fix", "why": "s4829 (8/446) menyebut ia menikah dengan Mu'adz bin al-Harits bin Rifa'ah, sama persis dengan konteks pasangan pada xbc9158b5.", "ops": [{"op":"merge","keep":"s4829","drop":"xbc9158b5"}]}
+]

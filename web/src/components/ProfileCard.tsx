@@ -1,8 +1,9 @@
-import { useEffect, useRef, type ReactNode } from 'react'
+import { useEffect, useRef, useState, type ReactNode } from 'react'
 import { useStore } from '../lib/data'
 import { inLaws, relIds, siblings } from '../lib/graph'
 import { pushHistory, toggleBookmark, useSaved } from '../lib/store'
-import { useUI } from '../lib/ui'
+import { useUI, type ProfileTab } from '../lib/ui'
+import { BioCard } from './BioCard'
 import { CategoryBadge, PersonChip } from './bits'
 import { Icon } from './Icon'
 
@@ -23,7 +24,8 @@ function Group({ title, ids, sub }: { title: string; ids: string[]; sub?: (id: s
 }
 
 /** Instant profile card: father, tribe, spouses, children, close relatives. */
-export function ProfileCard({ id, onClose }: { id: string; onClose: () => void }) {
+export function ProfileCard({ id, onClose, initialTab = 'keluarga' }: { id: string; onClose: () => void; initialTab?: ProfileTab }) {
+  const [tab, setTab] = useState<ProfileTab>(initialTab)
   const { g, tribes } = useStore()
   const { go } = useUI()
   const { isBookmarked } = useSaved()
@@ -113,8 +115,30 @@ export function ProfileCard({ id, onClose }: { id: string; onClose: () => void }
             </ActionBtn>
           </div>
 
-          <div className="gold-rule" />
+          <div className="flex gap-1 rounded-full border border-krem-300 bg-white p-1 text-xs font-semibold" role="tablist">
+            {(
+              [
+                ['keluarga', 'Kartu Keluarga'],
+                ['bio', 'Biografi 10 Poin'],
+              ] as const
+            ).map(([k, label]) => (
+              <button
+                key={k}
+                type="button"
+                role="tab"
+                aria-selected={tab === k}
+                onClick={() => setTab(k)}
+                className={`flex-1 rounded-full px-3 py-1.5 transition ${tab === k ? 'bg-hijau-800 text-krem-50' : 'text-hijau-800 hover:bg-krem-100'}`}
+              >
+                {label}
+              </button>
+            ))}
+          </div>
 
+          {tab === 'bio' ? (
+            <BioCard p={p} />
+          ) : (
+          <>
           <Group title="Orang tua" ids={[father, mother].filter(Boolean) as string[]} />
           <Group title={p.g === 'f' ? 'Suami' : 'Istri'} ids={law.spouses} sub={spouseNote} />
           <Group title="Anak" ids={children} sub={motherOf} />
@@ -135,6 +159,9 @@ export function ProfileCard({ id, onClose }: { id: string; onClose: () => void }
             </div>
           )}
           {p.note && <p className="text-sm text-tinta-soft">{p.note}</p>}
+
+          </>
+          )}
 
           <div>
             <h4 className="mb-1 text-[11px] font-semibold tracking-[0.14em] text-emas-700 uppercase">Rujukan</h4>

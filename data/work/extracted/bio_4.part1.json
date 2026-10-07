@@ -1,0 +1,112 @@
+[
+  {
+    "id": "s805",
+    "identitas": {"lahir": null, "umur": "80 tahun, disebutkan belum beruban rambutnya hingga wafat", "wafat": null, "makam": null, "src": ["al-Ishabah 3/57"]},
+    "kabilah_tabaqat": null,
+    "nisbah_rihlah": null,
+    "laqab_profesi": null,
+    "peran": null,
+    "hilf": null,
+    "syaraf": null,
+    "catatan": {"t": "Dalam Ibnu Sa'd disebutkan seorang bernama 'Uqbah bin Utsman bin Khaldah bin Mukhlad bin 'Amir bin Zuraiq' (nasab serupa) yang ikut Badar dan Uhud tanpa keturunan; belum jelas apakah ia orang yang sama dengan Sa'd bin Utsman atau kerabatnya.", "src": ["Ibnu Sa'd 3/592"]}
+  },
+  {
+    "id": "n2452",
+    "identitas": {"lahir": null, "umur": "120 tahun, ada yang menambahkan 4 tahun lagi (124 tahun)", "wafat": "54 H", "makam": null, "src": ["al-Ishabah 3/97", "Turath rawi"]},
+    "kabilah_tabaqat": {"t": "Dari Bani Makhzum, Quraisy (melalui 'Ankatsah bin 'Amir bin Makhzum).", "src": ["Turath rawi"]},
+    "nisbah_rihlah": null,
+    "laqab_profesi": {"t": "Nama lamanya pada masa jahiliah adalah ash-Sharm (atau Ashram), sebelum diubah oleh Nabi ﷺ.", "src": ["al-Ishabah 3/97"]},
+    "peran": {"t": "Masuk Islam pada hari Fath Makkah, ada pula yang mengatakan sebelum itu; ikut Perang Hunain dan mendapat bagian ghanimah; termasuk tokoh Quraisy yang diajak bermusyawarah oleh Umar bin al-Khaththab di Syam saat terjadi wabah Tha'un.", "src": ["al-Ishabah 3/97"]},
+    "hilf": null,
+    "syaraf": {"t": "Namanya semula ash-Sharm (atau Ashram) pada masa jahiliah, lalu diubah oleh Nabi ﷺ menjadi Sa'id.", "src": ["al-Ishabah 3/97"]},
+    "catatan": {"t": "Dikenal dengan beberapa kunyah: Abu Yarbu', Abu Hud, Abu Marrah, dan Abu al-Hakam.", "src": ["Turath rawi"]}
+  },
+  {
+    "id": "n3120",
+    "identitas": {"lahir": null, "umur": "72 tahun (riwayat Ibnu Sa'd)", "wafat": "32 H, atau 34 H (pendapat mayoritas, dipegang Khalifah bin Khayyath), atau 45 H; wafat di ar-Ramlah", "makam": null, "src": ["Ibnu Sa'd 3/546", "al-Ishabah 3/505", "Turath rawi"]},
+    "kabilah_tabaqat": {"t": "Anshar dari al-Khazraj (Bani Salim bin 'Auf); Ahlu Badar dan salah satu dari 12 Naqib pada Bai'at al-'Aqabah.", "src": ["al-Ishabah 3/505", "Ibnu Sa'd 3/546"]},
+    "nisbah_rihlah": {"t": "Dari Madinah; kemudian menetap/wafat di wilayah Syam (ar-Ramlah), dan sempat menjadi amir pasukan bantuan (rub' al-madad) saat penaklukan Mesir.", "src": ["al-Ishabah 3/505", "Turath rawi"]},
+    "laqab_profesi": null,
+    "peran": {"t": "Salah satu Naqib Bai'at al-'Aqabah; dipersaudarakan Nabi ﷺ dengan Abu Marthad al-Ghanawi; ikut Badar, Uhud, Khandaq, dan seluruh peperangan; ikut penaklukan Mesir dan menjadi amir rub' al-madad; melepaskan hilf jahiliahnya dengan Yahudi Bani Qainuqa' karena Allah dan Rasul-Nya, yang melatari turunnya QS. al-Ma'idah: 51; dikenal faqih dalam agama.", "src": ["al-Ishabah 3/505", "Ibnu Sa'd 3/546"]},
+    "hilf": {"t": "Pada masa jahiliah memiliki hilf (perjanjian) dengan Yahudi Bani Qainuqa' setara dengan hilf Abdullah bin Ubay, namun ia melepaskannya (khala'a) dan berlepas diri karena Allah dan Rasul-Nya.", "src": ["al-Ishabah 3/505"]},
+    "syaraf": null,
+    "catatan": null
+  },
+  {
+    "id": "n3823",
+    "identitas": {"lahir": null, "umur": "72 tahun (riwayat Waqidi dan Ibnu Abi 'Ashim)", "wafat": "65 H (riwayat Waqidi, dipegang Ibnu Yunus); ada yang mengatakan 63, 68, 69, 67, 73, atau 77 H; wafat di Syam, ada pula yang menyebut di Makkah, Tha'if, atau Mesir", "makam": "Dikuburkan di rumahnya sendiri (menurut Yahya bin Bukair).", "src": ["al-Ishabah 4/165", "Turath rawi"]},
+    "kabilah_tabaqat": {"t": "Bani Sahm dari Quraisy; termasuk as-sabiqun (masuk Islam lebih dahulu daripada ayahnya sendiri, 'Amr bin al-'Ash) dan salah satu al-'Abadilah al-fuqaha.", "src": ["al-Ishabah 4/165", "Ibnu Sa'd 4/261", "Turath rawi"]},
+    "nisbah_rihlah": {"t": "Dari Makkah, kemudian menetap dan wafat di wilayah Syam (sebagian riwayat menyebut Makkah/Tha'if/Mesir).", "src": ["al-Ishabah 4/165", "Turath rawi"]},
+    "laqab_profesi": {"t": "Juru tulis hadits: meminta izin Nabi ﷺ untuk menulis apa yang ia dengar darinya dan diizinkan, lalu menamai catatannya ash-Shadiqah (yang benar); Abu Hurairah menyebutnya sahabat paling banyak hadits karena kebiasaannya menulis.", "src": ["al-Ishabah 4/165", "Ibnu Sa'd 4/261"]},
+    "peran": {"t": "Masuk Islam sebelum ayahnya 'Amr bin al-'Ash; dikenal rajin berpuasa dan qiyamullail hingga dinasihati Nabi ﷺ untuk mengikuti puasa Nabi Daud (sehari puasa sehari tidak); di masa tua menyesal tidak mengambil keringanan (rukhsah) itu.", "src": ["al-Ishabah 4/165", "Ibnu Sa'd 4/261"]},
+    "hilf": null,
+    "syaraf": {"t": "Nama aslinya al-'Ash, diubah oleh Nabi ﷺ menjadi Abdullah.", "src": ["al-Ishabah 4/165"]},
+    "catatan": {"t": "Disebutkan buta pada akhir hidupnya (riwayat ath-Thabari).", "src": ["al-Ishabah 4/165"]}
+  },
+  {
+    "id": "n3659",
+    "identitas": {"lahir": null, "umur": "5 tahun pada saat Hijrah (riwayat Ibnu Hibban)", "wafat": "35 H, terbunuh pada Yaum ad-Dar (pembunuhan Utsman) menurut Abu Hassan az-Ziyadi; ada yang mengatakan terbunuh pada Yaum al-Harrah (Ibnu Hibban dan al-Kalbi), namun menurut Abu 'Umar yang terbunuh di Harrah adalah anaknya, Yazid, bukan dirinya; ada pula riwayat 63 H", "makam": null, "src": ["al-Ishabah 4/83", "Turath rawi"]},
+    "kabilah_tabaqat": {"t": "Quraisy dari Bani Asad bin Abdul 'Uzza; keponakan (anak saudari) Ummu Salamah, istri Nabi ﷺ.", "src": ["al-Ishabah 4/83"]},
+    "nisbah_rihlah": {"t": "Tinggal di Madinah.", "src": ["al-Ishabah 4/83", "Turath rawi"]},
+    "laqab_profesi": null,
+    "peran": {"t": "Meriwayatkan beberapa hadits termasuk satu hadits yang memuat tiga hukum (kisah unta Tsamud, larangan menertawakan kentut, dan jilid/cambuk wanita); meminta Umar mengimami shalat saat Nabi ﷺ sakit dan Abu Bakar tidak hadir; disebut sebagai penjaga pintu (hajib) yang mengizinkan orang menemui Nabi ﷺ.", "src": ["al-Ishabah 4/83"]},
+    "hilf": null,
+    "syaraf": null,
+    "catatan": {"t": "Ayahnya, Zam'ah, wafat sebelum Hijrah dalam keadaan kafir.", "src": ["al-Ishabah 4/83"]}
+  },
+  {
+    "id": "n15051",
+    "identitas": {"lahir": null, "umur": null, "wafat": null, "makam": null, "src": []},
+    "kabilah_tabaqat": {"t": "Bani Hasyim dari Quraisy; bibi kandung Nabi ﷺ (saudari ayahnya, Abdullah).", "src": ["al-Ishabah 8/229", "Ibnu Sa'd 8/43"]},
+    "nisbah_rihlah": {"t": "Dari Makkah, masuk Islam di Makkah lalu hijrah ke Madinah.", "src": ["al-Ishabah 8/229", "Ibnu Sa'd 8/43"]},
+    "laqab_profesi": null,
+    "peran": {"t": "Dikenal sebagai pemilik ru'ya (mimpi) terkenal sebelum Perang Badar yang meramalkan keberangkatan kafilah dagang Quraisy dan bencana yang akan menimpa mereka; mimpi ini sempat diejek Abu Jahl namun kemudian terbukti benar.", "src": ["al-Ishabah 8/229", "Ibnu Sa'd 8/43"]},
+    "hilf": null,
+    "syaraf": null,
+    "catatan": {"t": "Ibnu Sa'd menyebutkan ia masuk Islam dan hijrah, namun pada akhir kutipan juga menyebutnya sebagai bibi Nabi ﷺ yang tidak sempat mendapati Islam; dua riwayat ini tampak bertentangan dalam teks yang tersedia.", "src": ["Ibnu Sa'd 8/43"]}
+  },
+  {
+    "id": "s4303",
+    "identitas": {"lahir": null, "umur": null, "wafat": null, "makam": null, "src": []},
+    "kabilah_tabaqat": {"t": "Bani Abdul Muththalib dari Bani Hasyim, Quraisy.", "src": ["al-Ishabah 8/348", "Ibnu Sa'd 8/49"]},
+    "nisbah_rihlah": null,
+    "laqab_profesi": null,
+    "peran": {"t": "Menurut al-Ishabah menikah dengan Abu 'Amrah al-Anshari dan melahirkan Abdurrahman dan Abdullah; menurut Ibnu Sa'd (dengan nama 'Ummu 'Amr') menikah dengan Mas'ud bin Mu'attib ats-Tsaqafi (melahirkan Abdullah bin Mas'ud) kemudian dengan Abu Sufyan bin al-Harits bin Abdul Muththalib (melahirkan 'Atikah binti Abi Sufyan).", "src": ["al-Ishabah 8/348", "Ibnu Sa'd 8/49"]},
+    "hilf": null,
+    "syaraf": {"t": "Terdapat perbedaan nama antarsumber: al-Ishabah menyebutnya 'Hind binti al-Muqawwim', sedangkan Ibnu Sa'd menyebutnya 'Ummu 'Amr binti al-Muqawwim' dengan riwayat pernikahan yang berbeda.", "src": ["al-Ishabah 8/348", "Ibnu Sa'd 8/49"]},
+    "catatan": null
+  },
+  {
+    "id": "s4308",
+    "identitas": {"lahir": null, "umur": null, "wafat": null, "makam": null, "src": []},
+    "kabilah_tabaqat": {"t": "Bani Abdul Muththalib dari Bani Hasyim, Quraisy; putri Abu Lahab.", "src": ["al-Ishabah 8/239", "Ibnu Sa'd 8/50"]},
+    "nisbah_rihlah": null,
+    "laqab_profesi": null,
+    "peran": {"t": "Menikah dengan Awfa bin Hakim bin Umayyah bin Haritsah bin al-Awqash as-Sulami, melahirkan Ubaidah, Sa'id, dan Ibrahim.", "src": ["al-Ishabah 8/239", "Ibnu Sa'd 8/50"]},
+    "hilf": null,
+    "syaraf": {"t": "Ad-Daraquthni mencatatnya tanpa ada riwayat (hadits) darinya.", "src": ["al-Ishabah 8/239"]},
+    "catatan": null
+  },
+  {
+    "id": "s894",
+    "identitas": {"lahir": null, "umur": null, "wafat": null, "makam": null, "src": []},
+    "kabilah_tabaqat": {"t": "Bani Abdud Dar dari Quraisy; termasuk Muhajirin ke Habasyah (gelombang kedua), golongan masuk Islam sejak awal (qadim al-Islam) di Makkah.", "src": ["al-Ishabah 1/624", "Ibnu Sa'd 4/122"]},
+    "nisbah_rihlah": {"t": "Dari Makkah, hijrah ke Habasyah pada migrasi kedua bersama istri dan dua anaknya.", "src": ["Ibnu Sa'd 4/122"]},
+    "laqab_profesi": {"t": "Dijuluki Juhaim (bentuk kecil dari Jahm).", "src": ["al-Ishabah 1/624"]},
+    "peran": {"t": "Masuk Islam sejak dini di Makkah dan termasuk Muhajirin ke Habasyah pada migrasi kedua.", "src": ["Ibnu Sa'd 4/122"]},
+    "hilf": null,
+    "syaraf": null,
+    "catatan": {"t": "Disebutkan dalam sebuah surat Nabi ﷺ (riwayat lemah) sebagai salah satu saksi bersama Abbas bin Abdul Muththalib dan Syurahbil bin Hasanah, namun ada kemungkinan saksi yang dimaksud adalah orang lain yang senama.", "src": ["al-Ishabah 1/624"]}
+  },
+  {
+    "id": "n5310",
+    "identitas": {"lahir": null, "umur": null, "wafat": "55 H", "makam": null, "src": ["Turath rawi"]},
+    "kabilah_tabaqat": {"t": "Anshar, dari Bani Sawad bin Ghanam (Bani Salamah), Khazraj.", "src": ["al-Ishabah 5/453"]},
+    "nisbah_rihlah": null,
+    "laqab_profesi": {"t": "Terkenal dengan kunyahnya, Abu al-Yasar.", "src": ["al-Ishabah 5/453"]},
+    "peran": null,
+    "hilf": null,
+    "syaraf": null,
+    "catatan": {"t": "Kutipan Ibnu Sa'd yang tersedia pada data ini ('Sahl bin Qais...') membahas tokoh lain (sepupu Ka'b bin Malik, syahid di Uhud), bukan Ka'b bin 'Amr/Abu al-Yasar, sehingga tidak dijadikan sumber poin-poin di atas.", "src": ["Ibnu Sa'd 3/581"]}
+  }
+]

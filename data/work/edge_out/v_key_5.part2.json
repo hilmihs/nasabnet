@@ -1,0 +1,16 @@
+[
+  {"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/403", "ok": 1, "issues": []},
+  {"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/406", "ok": 7, "issues": []},
+  {"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/41", "ok": 6, "issues": []},
+  {"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/410", "ok": 2, "issues": []},
+  {"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/411", "ok": 1, "issues": []},
+  {"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/412", "ok": 9, "issues": [
+    {"s": "n5309", "t": "n6528", "k": "parent", "verdict": "wrong", "why": "teks: ayah Nusaibah adalah Ka'b bin Amr bin Mabdzul (Bani Mazin an-Najjar); node yang diresolve bernasab Ka'b bin Amr bin Hujair dari suku Yam, orang lain"}
+  ]},
+  {"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/419", "ok": 2, "issues": []},
+  {"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/42", "ok": 4, "issues": []},
+  {"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/421", "ok": 1, "issues": []},
+  {"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/424", "ok": 5, "issues": [
+    {"s": "s658", "t": "n3229", "k": "parent", "verdict": "unsure", "why": "nasab 'Abdurrahman bin Abi Amrah' yang diresolve (Amr bin Mahsan/Mabdzul) tidak jelas cocok dengan Amr bin Tsa'labah bin Wahb di teks; identitas tokoh ini sendiri diperselisihkan sumber (wa yuqal)"}
+  ]}
+]

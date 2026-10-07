@@ -1,0 +1,12 @@
+[
+{"fid": "F50", "verdict": "fix", "why": "Nasab anak Amr bin Haram (...bin Tsa'labah bin Hiram bin Ka'ab bin Ghanm bin Ka'ab bin Salamah) menunjukkan ia Khazraj/Bani Salamah, bukan amir; tribe ayah salah.", "ops": [{"op":"set_tribe","id":"xf0cff828","tribe":"khazraj"}]},
+{"fid": "F51", "verdict": "fix", "why": "Sama seperti F50, nasab keluarga Amr bin Haram adalah Khazraj/Bani Salamah; tribe ayah xf0cff828 salah.", "ops": [{"op":"set_tribe","id":"xf0cff828","tribe":"khazraj"}]},
+{"fid": "F52", "verdict": "fix", "why": "n3685 (Abdullah bin as-Sa'di) bernasab Quraisy/Amiri (bin Waqdan bin Abdu Syams), berbeda dari ayah Ummu Mu'adz yang menurut ibnsad adalah Abdullah bin Amr bin Haram (Khazraj); resolusi homonim salah.", "ops": [{"op":"drop_edge","s":"n3685","t":"s4726","k":"parent"}]},
+{"fid": "F53", "verdict": "fix", "why": "Ibnsad Uqbah bin Amir bin Nabi' (saudara Ummu Habban) menunjukkan keluarga ini Bani Salamah/Khazraj, bukan juhainah.", "ops": [{"op":"set_tribe","id":"x5de2da36","tribe":"khazraj"}]},
+{"fid": "F54", "verdict": "ok", "why": "Ibnsad memastikan Mulaikah menikah dengan Mas'ud bin Zaid bin Sabi' dan melahirkan Abu Jihad; nasab singkat 'Mas'ud' konsisten dengan relasi ayah.", "ops": []},
+{"fid": "F55", "verdict": "fix", "why": "Nama x934f8b97 sendiri menyebut ayah 'Mas'ud bin Tsa'labah bin Asirah...Jadarah', berbeda dari n11304 'Mas'ud bin Zaid bin Sabi'...Salamah'; dua Mas'ud berbeda (homonim).", "ops": [{"op":"drop_edge","s":"n11304","t":"x934f8b97","k":"parent"}]},
+{"fid": "F56", "verdict": "ok", "why": "Full nasab Huzailah persis cocok dengan 'Zaid bin Sabi' bin Khansa'...Salamah' milik n11304, didukung ibnsad.", "ops": []},
+{"fid": "F57", "verdict": "fix", "why": "Ibnsad Mu'adz bin Jabal menunjukkan 'Adi bin Sa'd' adalah sub-klan Khazraj (Sa'd bin Ali), bukan kabilah Quraisy 'adi'.", "ops": [{"op":"set_tribe","id":"s4774","tribe":"khazraj"}]},
+{"fid": "F58", "verdict": "ok", "why": "Ibnsad menyatakan langsung 'Jamilah binti Abi Sha'sha'ah, wa-ismuhu Amr bin Zaid bin Auf bin Mabdzul' - hanya beda kunya/ism, bukan error.", "ops": []},
+{"fid": "F59", "verdict": "fix", "why": "Ibnsad menyebut Abdullah sebagai anak Amr bin Qais bin Zaid bin Sawad (Khazraj) dari Ummu Hiram; tribe hudzail pada anak salah.", "ops": [{"op":"set_tribe","id":"xe5343546","tribe":"khazraj"}]}
+]

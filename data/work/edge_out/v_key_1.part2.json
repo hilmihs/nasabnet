@@ -1,0 +1,60 @@
+[
+  {
+    "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/230",
+    "ok": 1,
+    "issues": []
+  },
+  {
+    "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/232",
+    "ok": 1,
+    "issues": []
+  },
+  {
+    "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/239",
+    "ok": 9,
+    "issues": []
+  },
+  {
+    "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/246",
+    "ok": 5,
+    "issues": []
+  },
+  {
+    "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/264",
+    "ok": 1,
+    "issues": []
+  },
+  {
+    "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/265",
+    "ok": 22,
+    "issues": []
+  },
+  {
+    "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/376",
+    "ok": 8,
+    "issues": []
+  },
+  {
+    "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/379",
+    "ok": 38,
+    "issues": [
+      {
+        "s": "n2369",
+        "t": "s4436",
+        "k": "spouse",
+        "verdict": "wrong",
+        "why": "teks hanya menyebut 'أم ولد' (ibu budak tanpa nama) untuk ibu Aisyah/Zainab/Umm Abdil Hawla/Umm Shalih, tidak menyebut nama Lubabah bint al-Harits"
+      }
+    ]
+  },
+  {
+    "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/391",
+    "ok": 1,
+    "issues": []
+  },
+  {
+    "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/392",
+    "ok": 1,
+    "issues": []
+  }
+]

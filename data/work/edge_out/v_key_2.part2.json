@@ -1,0 +1,14 @@
+[
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/524", "ok": 6, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/53", "ok": 17, "issues": [
+  {"s": "n4307", "t": "s4412", "k": "spouse", "verdict": "wrong", "why": "teks hanya menyebut satu istri bernama Fathimah binti al-Walid bin Abdu Syams bin al-Mughirah (cocok dgn node n15652); tidak ada istri lain 'Fathimah binti al-Walid bin al-Mughirah' (tanpa 'bin Abdu Syams') yang disebut terpisah di teks ini"}
+]},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/534", "ok": 2, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/540", "ok": 7, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/546", "ok": 7, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/549", "ok": 2, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/550", "ok": 1, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/557", "ok": 15, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/565", "ok": 1, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/570", "ok": 2, "issues": []}
+]

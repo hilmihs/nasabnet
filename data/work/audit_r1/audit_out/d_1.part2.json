@@ -1,0 +1,12 @@
+[
+{"fid":"F11","verdict":"fix","why":"Teks ibnsad Abdullah bin Sa'd menyebut nasab penuh via Sa'd bin Khaitsamah dari Aus; tag 'fihr' tampak dari data rawi campuran homonim.","ops":[{"op":"set_tribe","id":"n3681","tribe":"aus"}]},
+{"fid":"F12","verdict":"fix","why":"Mu'adz bin Anas al-Juhani (sekutu Ansar, ayah Sahl) adalah orang lain; bio Anas bin Mu'adz sendiri tak menyebut ayah ini, kemungkinan salah resolusi nama kembar.","ops":[{"op":"drop_edge","s":"n6204","t":"s648","k":"parent"}]},
+{"fid":"F13","verdict":"ok","why":"'Abu Dawud' adalah kunya Umair/Amr bin Amir bin Malik bin Khansa'; teks eksplisit menyebut anak2nya Dawud, Sa'd, Hamzah, Ja'far — sesuai edge.","ops":[]},
+{"fid":"F14","verdict":"ok","why":"'Abu Dawud' adalah kunya Umair/Amr bin Amir bin Malik bin Khansa'; teks eksplisit menyebut anak2nya Dawud, Sa'd, Hamzah, Ja'far — sesuai edge.","ops":[]},
+{"fid":"F15","verdict":"ok","why":"'Abu Dawud' adalah kunya Umair/Amr bin Amir bin Malik bin Khansa'; teks eksplisit menyebut anak2nya Dawud, Sa'd, Hamzah, Ja'far — sesuai edge.","ops":[]},
+{"fid":"F16","verdict":"ok","why":"'Abu Dawud' adalah kunya Umair/Amr bin Amir bin Malik bin Khansa'; teks eksplisit menyebut anak2nya Dawud, Sa'd, Hamzah, Ja'far — sesuai edge.","ops":[]},
+{"fid":"F17","verdict":"fix","why":"Bio Khubaib bin Yasaf sendiri menyebut anaknya 'Abdurrahman li umm walad' — relasi didukung teks; tag 'muzainah' pd anak keliru, seharusnya khazraj mengikuti ayah.","ops":[{"op":"set_tribe","id":"n8274","tribe":"khazraj"}]},
+{"fid":"F18","verdict":"fix","why":"Teks menyebut keturunan Iyas bin Amr bin Ghanm 'min al-Khazraj'; tag 'qudhaah' pd Wadzafah keliru, seharusnya khazraj spt ayahnya.","ops":[{"op":"set_tribe","id":"s732","tribe":"khazraj"}]},
+{"fid":"F19","verdict":"ok","why":"Teks eksplisit: ism Abu Usaid adalah Malik bin Rabi'ah — kunya=ism orang yg sama, sesuai edge.","ops":[]},
+{"fid":"F20","verdict":"ok","why":"Teks eksplisit: ism Abu Usaid adalah Malik bin Rabi'ah — kunya=ism orang yg sama, sesuai edge.","ops":[]}
+]

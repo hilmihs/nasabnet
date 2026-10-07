@@ -1,0 +1,12 @@
+[
+{"fid":"F178","verdict":"fix","why":"Jelas Fathimah binti Rasulillah yang sama, x hanya record kosong tanpa data lain.","ops":[{"op":"merge","keep":"n5066","drop":"xeaacf00c"}]},
+{"fid":"F179","verdict":"ok","why":"Nasab berbeda generasi: n15652 anak al-Walid bin Abd Syams bin al-Walid bin al-Mughirah (cicit), sedangkan s4412 anak langsung al-Walid bin al-Mughirah; bukan orang yang sama.","ops":[]},
+{"fid":"F180","verdict":"fix","why":"Kedua id merujuk suami yang sama dari Umaimah bint Abdul Muththalib (ayah Jahsy/anak Abdullah, Zainab, Hamnah, Ubaidullah); \"Ri'ab/Rabab\" varian ejaan yang sama.","ops":[{"op":"merge","keep":"x59323711","drop":"x62237f3e"}]},
+{"fid":"F181","verdict":"fix","why":"Sama-sama istri Mus'ab bin Umair yang melahirkan satu putri, ayah Jahsy bin Ri'ab/Rabab; satu orang.","ops":[{"op":"merge","keep":"s4387","drop":"x8c0ee290"}]},
+{"fid":"F182","verdict":"fix","why":"Kedua teks sepakat anaknya adalah Thalib dan ibunya Arwa bint Abdul Muththalib; nama kakek \"Katsir bin Abd\" vs \"Abdu Manaf\" hanya varian, orangnya sama.","ops":[{"op":"merge","keep":"x2c229c71","drop":"xaf948a89"}]},
+{"fid":"F183","verdict":"fix","why":"Jelas Abu Waqqash ayah Sa'd bin Abi Waqqash, \"Wuhaib/Uhaib\" varian ejaan nama yang sama; x9b758927 tanpa teks lain.","ops":[{"op":"merge","keep":"x2a15da79","drop":"x9b758927"}]},
+{"fid":"F184","verdict":"fix","why":"Ibnsad kedua id identik persis (sama kutipan ttg anak Sa'd bin Abi Waqqash \"Abdullah bin Sa'd, ibunya Salma dari Bani Taghlib\"), jelas satu orang.","ops":[{"op":"merge","keep":"x365bf76f","drop":"xe59dd3dd"}]},
+{"fid":"F185","verdict":"fix","why":"Teks sama persis (ibu Abdullah bin Mas'ud), varian ejaan Sawa'/Suwa; satu orang.","ops":[{"op":"merge","keep":"s4448","drop":"x45148011"}]},
+{"fid":"F186","verdict":"unsure","why":"Tidak ada teks ibnsad sama sekali untuk kedua id sehingga tidak dapat dipastikan dari teks apakah \"ibn al-Harits bin Sakhbarah\" dan \"ibn Sakhbarah\" orang yang sama atau beda generasi.","ops":[]},
+{"fid":"F187","verdict":"fix","why":"Jelas Abu Bakar ash-Shiddiq yang sama (khalifah), x hanya variasi penulisan nama tanpa data baru yang kontradiktif.","ops":[{"op":"merge","keep":"n3783","drop":"xb796061b"}]}
+]

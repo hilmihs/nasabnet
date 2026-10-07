@@ -1,0 +1,46 @@
+[
+  {
+    "id": "s4302",
+    "identitas": {"lahir": null, "umur": null, "wafat": null, "makam": null, "src": []},
+    "kabilah_tabaqat": {"t": "Bani Hasyim bin Abdul Muththalib dari Quraisy; putri al-Abbas bin Abdul Muththalib, paman Nabi ﷺ.", "src": ["Ibnu Sa'd 8/49"]},
+    "nisbah_rihlah": null,
+    "laqab_profesi": null,
+    "peran": null,
+    "hilf": null,
+    "syaraf": null,
+    "catatan": {"t": "Menikah dengan al-Aswad bin Sufyan dari Bani Makhzum, melahirkan Zarqa' dan Lubabah; keturunannya menetap di Makkah.", "src": ["Ibnu Sa'd 8/49"]}
+  },
+  {
+    "id": "s4304",
+    "identitas": {"lahir": null, "umur": null, "wafat": null, "makam": null, "src": []},
+    "kabilah_tabaqat": {"t": "Bani Hasyim bin Abdul Muththalib dari Quraisy.", "src": ["Ibnu Sa'd 8/49"]},
+    "nisbah_rihlah": null,
+    "laqab_profesi": null,
+    "peran": null,
+    "hilf": {"t": "Suaminya, Abu Masruh al-Harits bin Ya'mar dari Bani Sa'd bin Bakr (Hawazin), adalah sekutu (halif) al-Abbas bin Abdul Muththalib.", "src": ["Ibnu Sa'd 8/49", "al-Ishabah 8/10"]},
+    "syaraf": null,
+    "catatan": {"t": "Disebutkan pula sebagai istri sepupunya Abu Sufyan bin al-Harits yang melahirkan beberapa putri (menurut az-Zubair bin Bakkar); menikah dengan Abu Masruh dan melahirkan Abdullah bin Abi Masruh.", "src": ["al-Ishabah 8/10", "Ibnu Sa'd 8/49"]}
+  },
+  {
+    "id": "s4300",
+    "identitas": {"lahir": null, "umur": null, "wafat": null, "makam": null, "src": []},
+    "kabilah_tabaqat": {"t": "Bani Hasyim bin Abdul Muththalib dari Quraisy; putri Abu Thalib, sepupu Nabi ﷺ.", "src": ["Ibnu Sa'd 8/48"]},
+    "nisbah_rihlah": null,
+    "laqab_profesi": null,
+    "peran": {"t": "Diberi bagian hasil Khaibar oleh Nabi ﷺ sebanyak tiga puluh wasq.", "src": ["Ibnu Sa'd 8/48"]},
+    "hilf": null,
+    "syaraf": null,
+    "catatan": {"t": "Menikah dengan sepupunya Abu Sufyan bin al-Harits bin Abdul Muththalib, melahirkan Ja'far bin Abi Sufyan.", "src": ["Ibnu Sa'd 8/48"]}
+  },
+  {
+    "id": "s633",
+    "identitas": {"lahir": null, "umur": null, "wafat": "Syahid di Perang Badar, terluka parah setelah menebas Abu Jahal, lalu dibunuh balik oleh Abu Jahal.", "makam": null, "src": ["al-Ishabah 6/152", "Ibnu Sa'd 3/492"]},
+    "kabilah_tabaqat": {"t": "Ansar dari Bani an-Najjar (Khazraj); termasuk Ahlu Aqabah (riwayat tunggal Ibnu Ishaq), Ahlu Badar, dan syuhada Badar.", "src": ["Ibnu Sa'd 3/492"]},
+    "nisbah_rihlah": null,
+    "laqab_profesi": null,
+    "peran": {"t": "Ikut Bai'at Aqabah dan Perang Badar; bersama saudaranya Auf bin al-Harits, ia menebas Abu Jahal hingga terluka parah sebelum keduanya dibunuh balik oleh Abu Jahal, yang kemudian dihabisi oleh Abdullah bin Mas'ud.", "src": ["al-Ishabah 6/152", "Ibnu Sa'd 3/492"]},
+    "hilf": null,
+    "syaraf": null,
+    "catatan": {"t": "Tidak memiliki keturunan ('aqib).", "src": ["Ibnu Sa'd 3/492"]}
+  }
+]

@@ -1,0 +1,12 @@
+[
+{"fid": "F227", "verdict": "fix", "why": "Teks s802 sendiri menyebut nama alternatif 'Qais bin Hisn' untuk Qais bin Mihsan — sama dengan xd5c7f5f2, keduanya ayah Umm Sa'd dari Khaulah binti al-Fakih.", "ops": [{"op":"merge","keep":"s802","drop":"xd5c7f5f2"}]},
+{"fid": "F228", "verdict": "fix", "why": "Keduanya suami Umm Jamil binti Quthbah bin Amir, 'Khaldah/Khalidah' varian eja.", "ops": [{"op":"merge","keep":"xd2af6323","drop":"x94e6e77e"}]},
+{"fid": "F229", "verdict": "fix", "why": "Keduanya suami al-Fari'ah binti al-Hubab bin ar-Rabi' dan ayah Habibah, 'Khaldah/Khalidah' varian eja.", "ops": [{"op":"merge","keep":"s808","drop":"xc8360c7f"}]},
+{"fid": "F230", "verdict": "fix", "why": "Nama dan teks ibnsad identik persis — duplikat data (id hanya beda sufiks).", "ops": [{"op":"merge","keep":"x38d8b7a92","drop":"x38d8b7a93"}]},
+{"fid": "F231", "verdict": "fix", "why": "Teks s4681 menyebut ia saudari Abdullah bin Ubay bin Salul dan menikah Rafi' bin Malik; 'Salul' pada xc211176a adalah nama klan ibu saudaranya, bukan ayah berbeda.", "ops": [{"op":"merge","keep":"s4681","drop":"xc211176a"}]},
+{"fid": "F232", "verdict": "fix", "why": "Keduanya istri Khallad bin Rafi' dan ibu Yahya, 'Khaldah/Khalidah' varian eja.", "ops": [{"op":"merge","keep":"s4703","drop":"x0a044ccf"}]},
+{"fid": "F233", "verdict": "ok", "why": "Teks 8/450-451 eksplisit menyebut al-Ula, ats-Tsalitsah, ar-Rabi'ah sebagai saudari berbeda putri Mas'ud bin Qais dengan suami dan anak masing-masing berbeda.", "ops": []},
+{"fid": "F234", "verdict": "fix", "why": "Kalimat identik 'Hind binti Amr min bani Udzrah' muncul di kedua catatan sebagai istri Sa'd bin Malik.", "ops": [{"op":"merge","keep":"x5c0fe673","drop":"x452828de"}]},
+{"fid": "F235", "verdict": "fix", "why": "Teks 4/198 menyebut Mahmiyyah sebagai saudara seibu Umm al-Fadl Lubabah binti al-Harits, ibu anak-anak al-Abbas — sama dengan s4435.", "ops": [{"op":"merge","keep":"s4435","drop":"xa7c1328e"}]},
+{"fid": "F236", "verdict": "fix", "why": "x7bef0fb6 dan x7bef0fb62 nama & id identik (duplikat data); xf663bec73 tanpa data pendukung sehingga tidak ikut digabung.", "ops": [{"op":"merge","keep":"x7bef0fb6","drop":"x7bef0fb62"}]}
+]
