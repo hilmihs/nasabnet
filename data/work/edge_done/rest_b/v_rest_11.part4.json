@@ -1,0 +1,83 @@
+[
+ {
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/421",
+  "ok": 12,
+  "issues": []
+ },
+ {
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/422",
+  "ok": 8,
+  "issues": []
+ },
+ {
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/423",
+  "ok": 11,
+  "issues": []
+ },
+ {
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/424",
+  "ok": 13,
+  "issues": []
+ },
+ {
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/43",
+  "ok": 2,
+  "issues": [
+   {
+    "s": "x89041889",
+    "t": "s4416",
+    "k": "parent",
+    "verdict": "unsure",
+    "why": "benar, disebut di entri lain (8/262); tapi Quraibah putri 'Atikah di teks ini = Quraibah al-Kubra, bukan ash-Shughra (ibunya 'Atikah binti 'Utbah)"
+   }
+  ]
+ },
+ {
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/434",
+  "ok": 4,
+  "issues": []
+ },
+ {
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/436",
+  "ok": 6,
+  "issues": []
+ },
+ {
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/437",
+  "ok": 15,
+  "issues": [
+   {
+    "s": "x403de543",
+    "t": "xa1a9ed0e",
+    "k": "parent",
+    "verdict": "wrong",
+    "why": "teks: Marwan putra 'Abdullah bin Abi Sulaith Usairah, bukan 'Abdullah bin Ka'b bin Zaid"
+   }
+  ]
+ },
+ {
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/438",
+  "ok": 13,
+  "issues": [
+   {
+    "s": "s4810",
+    "t": "n1233",
+    "k": "parent",
+    "verdict": "unsure",
+    "why": "n1233 = al-Harits bin 'Amr Abu Burdah (paman al-Bara'); identik dgn al-Harits bin 'Amr bin Ghaziyyah al-Mazini meragukan"
+   },
+   {
+    "s": "x7fbfaf92",
+    "t": "n1233",
+    "k": "parent",
+    "verdict": "unsure",
+    "why": "n1233 = al-Harits bin 'Amr Abu Burdah (paman al-Bara'); identik dgn al-Harits bin 'Amr bin Ghaziyyah meragukan"
+   }
+  ]
+ },
+ {
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/439",
+  "ok": 6,
+  "issues": []
+ }
+]

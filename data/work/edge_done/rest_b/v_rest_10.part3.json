@@ -1,0 +1,17 @@
+[
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/369", "ok": 6, "issues": [
+  {"s": "n5309", "t": "s4648", "k": "spouse", "verdict": "wrong", "why": "salah orang: teks 'كعب بن عمرو بن الإطنابة' (Khazraj), node n5309 adalah Ka'b bin Amr dari Bani Yam (Hamdan)"}
+]},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/370", "ok": 24, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/371", "ok": 11, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/372", "ok": 8, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/373", "ok": 8, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/374", "ok": 8, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/375", "ok": 9, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/376", "ok": 12, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/377", "ok": 15, "issues": [
+  {"s": "n3685", "t": "s4672", "k": "spouse", "verdict": "wrong", "why": "salah orang: teks 'عبد الله بن عمرو بن سويد بن حرام بن الهيثم بن ظفر' (Aus), node n3685 adalah Abdullah bin as-Sa'di dari Quraisy (Amir bin Lu'ay)"},
+  {"s": "n3685", "t": "xfa9bc606", "k": "parent", "verdict": "wrong", "why": "salah orang: ayah Sa'dah adalah Abdullah bin Amr bin Suwaid az-Zhafari, bukan Abdullah bin as-Sa'di (Quraisy)"}
+]},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/378", "ok": 5, "issues": []}
+]

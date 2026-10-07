@@ -1,0 +1,20 @@
+[
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/347", "ok": 11, "issues": [
+  {"s": "s4583", "t": "xa1276370", "k": "spouse", "verdict": "unsure", "why": "riwayat alternatif (ويقال) bertentangan dengan riwayat utama bahwa suaminya Mu'adz bin Amir"}
+]},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/348", "ok": 14, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/349", "ok": 12, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/350", "ok": 5, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/351", "ok": 9, "issues": [
+  {"s": "xc97e2e15", "t": "s4599", "k": "parent", "verdict": "wrong", "why": "node 'من آل أبي فروة (هذيل)' hanya nama keluarga/kabilah, bukan orang"},
+  {"s": "xc97e2e15", "t": "xf5451c6e", "k": "spouse", "verdict": "wrong", "why": "node 'من آل أبي فروة (هذيل)' hanya nama keluarga/kabilah, bukan orang"}
+]},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/352", "ok": 12, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/353", "ok": 4, "issues": [
+  {"s": "xec1bf978", "t": "s4604", "k": "parent", "verdict": "wrong", "why": "node 'من بني عبد الله بن غطفان' hanya nama kabilah, bukan orang"},
+  {"s": "xc8d03e07", "t": "xec1bf978", "k": "spouse", "verdict": "wrong", "why": "node 'من بني عبد الله بن غطفان' hanya nama kabilah, bukan orang"}
+]},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/354", "ok": 9, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/355", "ok": 12, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/356", "ok": 11, "issues": []}
+]

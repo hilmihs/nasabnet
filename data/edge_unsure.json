@@ -1,19 +1,83 @@
 [
  {
-  "s": "xc676aff0",
-  "t": "xe0e1cd3a",
-  "k": "parent",
+  "s": "n11304",
+  "t": "s4740",
+  "k": "spouse",
   "verdict": "unsure",
-  "why": "teks hanya menyebut Qailah punya anak Hizam; dari Habib disebut hanya anak-anak perempuan, ayah Hizam tidak dinyatakan",
-  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/312"
+  "why": "n11304 = Abu Muhammad al-Anshari an-Najjari, namanya diperselisihkan; identik dgn Mas'ud bin Zaid bin Subai' as-Salami tidak pasti",
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/399"
  },
  {
-  "s": "s4503",
-  "t": "s4504",
-  "k": "sibling",
+  "s": "n11304",
+  "t": "x8995130f",
+  "k": "parent",
   "verdict": "unsure",
-  "why": "benar, disebut di entri lain (8/318): Umairah dan Ummu Amir sama-sama putri Yazid bin as-Sakan dan Ummu Sa'd binti Khuzaim",
-  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/319"
+  "why": "n11304 = Abu Muhammad an-Najjari, identitas dgn Mas'ud bin Zaid bin Subai' tidak pasti",
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/399"
+ },
+ {
+  "s": "n11304",
+  "t": "s4762",
+  "k": "parent",
+  "verdict": "unsure",
+  "why": "n11304 = Abu Muhammad an-Najjari, identitas dgn Mas'ud bin Zaid bin Subai' tidak pasti",
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/399"
+ },
+ {
+  "s": "n5379",
+  "t": "s4783",
+  "k": "parent",
+  "verdict": "unsure",
+  "why": "n5379 = Abu Shirmah al-Mazini (nama diperselisihkan); identik dgn Malik bin Qais bin Muharrits bin al-Harits bin Tsa'labah bin Mazin tidak pasti",
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/418"
+ },
+ {
+  "s": "n5379",
+  "t": "xf2132d99",
+  "k": "spouse",
+  "verdict": "unsure",
+  "why": "n5379 = Abu Shirmah (nama diperselisihkan); identitas dgn Malik bin Qais bin Muharrits tidak pasti",
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/418"
+ },
+ {
+  "s": "n5379",
+  "t": "s4784",
+  "k": "parent",
+  "verdict": "unsure",
+  "why": "n5379 = Abu Shirmah (nama diperselisihkan); identitas dgn Malik bin Qais bin Muharrits tidak pasti",
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/418"
+ },
+ {
+  "s": "n5379",
+  "t": "s4785",
+  "k": "parent",
+  "verdict": "unsure",
+  "why": "n5379 = Abu Shirmah (nama diperselisihkan); identitas dgn Malik bin Qais bin Muharrits tidak pasti",
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/419"
+ },
+ {
+  "s": "x89041889",
+  "t": "s4416",
+  "k": "parent",
+  "verdict": "unsure",
+  "why": "benar, disebut di entri lain (8/262); tapi Quraibah putri 'Atikah di teks ini = Quraibah al-Kubra, bukan ash-Shughra (ibunya 'Atikah binti 'Utbah)",
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/43"
+ },
+ {
+  "s": "s4810",
+  "t": "n1233",
+  "k": "parent",
+  "verdict": "unsure",
+  "why": "n1233 = al-Harits bin 'Amr Abu Burdah (paman al-Bara'); identik dgn al-Harits bin 'Amr bin Ghaziyyah al-Mazini meragukan",
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/438"
+ },
+ {
+  "s": "x7fbfaf92",
+  "t": "n1233",
+  "k": "parent",
+  "verdict": "unsure",
+  "why": "n1233 = al-Harits bin 'Amr Abu Burdah (paman al-Bara'); identik dgn al-Harits bin 'Amr bin Ghaziyyah meragukan",
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/438"
  },
  {
   "s": "n2289",
@@ -248,6 +312,22 @@
   "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/518"
  },
  {
+  "s": "s4583",
+  "t": "xa1276370",
+  "k": "spouse",
+  "verdict": "unsure",
+  "why": "riwayat alternatif (ويقال) bertentangan dengan riwayat utama bahwa suaminya Mu'adz bin Amir",
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/347"
+ },
+ {
+  "s": "n3681",
+  "t": "s4677",
+  "k": "spouse",
+  "verdict": "unsure",
+  "why": "node n3681 hanya 'عبد الله بن سعد' tanpa nasab; teks: Abdullah bin Sa'd bin Zaid ... bin Abdil Asyhal, identitas node tidak bisa dipastikan (banyak senama)",
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/381"
+ },
+ {
   "s": "s698",
   "t": "n3637",
   "k": "parent",
@@ -454,5 +534,21 @@
   "verdict": "unsure",
   "why": "teks: مسعود بن أوس بن سواد بن ظفر, node 'بن أوس بن مالك' (nasab beda, mungkin orang lain); catatan 'menikah masa Jahiliyah' juga bertentangan dengan teks (menikah setelah Nabi melepasnya)",
   "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/150"
+ },
+ {
+  "s": "xc676aff0",
+  "t": "xe0e1cd3a",
+  "k": "parent",
+  "verdict": "unsure",
+  "why": "teks hanya menyebut Qailah punya anak Hizam; dari Habib disebut hanya anak-anak perempuan, ayah Hizam tidak dinyatakan",
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/312"
+ },
+ {
+  "s": "s4503",
+  "t": "s4504",
+  "k": "sibling",
+  "verdict": "unsure",
+  "why": "benar, disebut di entri lain (8/318): Umairah dan Ummu Amir sama-sama putri Yazid bin as-Sakan dan Ummu Sa'd binti Khuzaim",
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/319"
  }
 ]

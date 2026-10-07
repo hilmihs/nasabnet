@@ -1,0 +1,22 @@
+[
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/380", "ok": 1, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/381", "ok": 9, "issues": [
+  {"s": "n3681", "t": "s4677", "k": "spouse", "verdict": "unsure", "why": "node n3681 hanya 'عبد الله بن سعد' tanpa nasab; teks: Abdullah bin Sa'd bin Zaid ... bin Abdil Asyhal, identitas node tidak bisa dipastikan (banyak senama)"}
+]},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/382", "ok": 5, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/383", "ok": 8, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/384", "ok": 9, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/385", "ok": 8, "issues": [
+  {"s": "xd5fcdc9e", "t": "s4691", "k": "parent", "verdict": "wrong", "why": "salah orang: teks 'عروة بن مسعود بن سنان ... بن بياضة' (Anshar), node adalah Urwah bin Mas'ud ats-Tsaqafi"},
+  {"s": "x839dc845", "t": "xd5fcdc9e", "k": "spouse", "verdict": "wrong", "why": "salah orang: suami Raghibah adalah Urwah bin Mas'ud al-Bayadhi, bukan Urwah bin Mas'ud ats-Tsaqafi"},
+  {"s": "xd5fcdc9e", "t": "s4692", "k": "parent", "verdict": "wrong", "why": "salah orang: teks 'عروة بن مسعود بن سنان ... بن بياضة' (Anshar), node adalah Urwah bin Mas'ud ats-Tsaqafi"}
+]},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/386", "ok": 7, "issues": [
+  {"s": "x5dc30615", "t": "s4694", "k": "parent", "verdict": "wrong", "why": "node 'أم ولد' hanya deskripsi generik (budak ibu anak), bukan orang bernama"},
+  {"s": "x56af6790", "t": "x5dc30615", "k": "spouse", "verdict": "wrong", "why": "node 'أم ولد' hanya deskripsi generik, bukan orang; lagi pula ummu walad bukan istri"},
+  {"s": "x5dc306152", "t": "s4695", "k": "parent", "verdict": "wrong", "why": "node 'أم ولد' hanya deskripsi generik (budak ibu anak), bukan orang bernama"}
+]},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/387", "ok": 9, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/388", "ok": 5, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/389", "ok": 9, "issues": []}
+]

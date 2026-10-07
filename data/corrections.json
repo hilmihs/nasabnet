@@ -3526,5 +3526,334 @@
   "why": "Ibnu Sa'd 8/345: putra Sa'd bin Khaitsamah adalah 'Abdullah bin Sa'd bin Khaitsamah (simpul tersendiri), bukan perawi umum 'Abdullah bin Sa'd'",
   "rule": "M",
   "fid": "manual-97"
+ },
+ {
+  "op": "merge",
+  "keep": "xcbd98925",
+  "drop": "x077e8708",
+  "why": "'Abdullah bin Ubay bin Salul tercatat dua kali (Ibnu Sa'd 8/382–384)",
+  "rule": "M",
+  "fid": "manual-98"
+ },
+ {
+  "op": "merge",
+  "keep": "n15136",
+  "drop": "xf585da6f",
+  "why": "Sa'd bin ar-Rabi' tercatat dua kali; saudara seibu Habibah binti Kharijah lewat Huzailah binti 'Utbah (Ibnu Sa'd 8/359–360)",
+  "rule": "M",
+  "fid": "manual-99"
+ },
+ {
+  "op": "drop_edge",
+  "s": "xc97e2e15",
+  "t": "s4599",
+  "k": "parent",
+  "rule": "EV",
+  "fid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/351",
+  "why": "node 'من آل أبي فروة (هذيل)' hanya nama keluarga/kabilah, bukan orang"
+ },
+ {
+  "op": "drop_edge",
+  "s": "xc97e2e15",
+  "t": "xf5451c6e",
+  "k": "spouse",
+  "rule": "EV",
+  "fid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/351",
+  "why": "node 'من آل أبي فروة (هذيل)' hanya nama keluarga/kabilah, bukan orang"
+ },
+ {
+  "op": "drop_edge",
+  "s": "xec1bf978",
+  "t": "s4604",
+  "k": "parent",
+  "rule": "EV",
+  "fid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/353",
+  "why": "node 'من بني عبد الله بن غطفان' hanya nama kabilah, bukan orang"
+ },
+ {
+  "op": "drop_edge",
+  "s": "xc8d03e07",
+  "t": "xec1bf978",
+  "k": "spouse",
+  "rule": "EV",
+  "fid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/353",
+  "why": "node 'من بني عبد الله بن غطفان' hanya nama kabilah, bukan orang"
+ },
+ {
+  "op": "drop_edge",
+  "s": "n3685",
+  "t": "s4672",
+  "k": "spouse",
+  "rule": "EV",
+  "fid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/377",
+  "why": "salah orang: teks 'عبد الله بن عمرو بن سويد بن حرام بن الهيثم بن ظفر' (Aus), node n3685 adalah Abdullah bin as-Sa'di dari Quraisy (Amir bin Lu'ay)"
+ },
+ {
+  "op": "drop_edge",
+  "s": "n3685",
+  "t": "xfa9bc606",
+  "k": "parent",
+  "rule": "EV",
+  "fid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/377",
+  "why": "salah orang: ayah Sa'dah adalah Abdullah bin Amr bin Suwaid az-Zhafari, bukan Abdullah bin as-Sa'di (Quraisy)"
+ },
+ {
+  "op": "drop_edge",
+  "s": "xd5fcdc9e",
+  "t": "s4691",
+  "k": "parent",
+  "rule": "EV",
+  "fid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/385",
+  "why": "salah orang: teks 'عروة بن مسعود بن سنان ... بن بياضة' (Anshar), node adalah Urwah bin Mas'ud ats-Tsaqafi"
+ },
+ {
+  "op": "drop_edge",
+  "s": "x839dc845",
+  "t": "xd5fcdc9e",
+  "k": "spouse",
+  "rule": "EV",
+  "fid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/385",
+  "why": "salah orang: suami Raghibah adalah Urwah bin Mas'ud al-Bayadhi, bukan Urwah bin Mas'ud ats-Tsaqafi"
+ },
+ {
+  "op": "drop_edge",
+  "s": "xd5fcdc9e",
+  "t": "s4692",
+  "k": "parent",
+  "rule": "EV",
+  "fid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/385",
+  "why": "salah orang: teks 'عروة بن مسعود بن سنان ... بن بياضة' (Anshar), node adalah Urwah bin Mas'ud ats-Tsaqafi"
+ },
+ {
+  "op": "drop_edge",
+  "s": "x5dc30615",
+  "t": "s4694",
+  "k": "parent",
+  "rule": "EV",
+  "fid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/386",
+  "why": "node 'أم ولد' hanya deskripsi generik (budak ibu anak), bukan orang bernama"
+ },
+ {
+  "op": "drop_edge",
+  "s": "x56af6790",
+  "t": "x5dc30615",
+  "k": "spouse",
+  "rule": "EV",
+  "fid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/386",
+  "why": "node 'أم ولد' hanya deskripsi generik, bukan orang; lagi pula ummu walad bukan istri"
+ },
+ {
+  "op": "drop_edge",
+  "s": "x5dc306152",
+  "t": "s4695",
+  "k": "parent",
+  "rule": "EV",
+  "fid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/386",
+  "why": "node 'أم ولد' hanya deskripsi generik (budak ibu anak), bukan orang bernama"
+ },
+ {
+  "op": "add_person",
+  "id": "m-quraibah-kubra",
+  "ar": "قريبة الكبرى بنت أبي أمية بن المغيرة",
+  "lat": "Quraibah al-Kubra binti Abi Umayyah",
+  "g": "f",
+  "full": "قريبة الكبرى بنت أبي أمية بن المغيرة بن عبد الله بن عمر بن مخزوم",
+  "src": {
+   "t": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/43",
+   "url": "https://app.turath.io/book/9351?print_page=8,43"
+  },
+  "comp": true,
+  "why": "Quraibah al-Kubra (ibu 'Atikah binti 'Abd al-Muththalib, istri Zam'ah bin al-Aswad) berbeda dari adiknya Quraibah ash-Shughra (ibu 'Atikah binti 'Utbah, istri 'Abdurrahman bin Abi Bakr) — Ibnu Sa'd 8/43 & 8/262",
+  "rule": "M",
+  "fid": "manual-100"
+ },
+ {
+  "op": "drop_edge",
+  "s": "n15051",
+  "t": "s4416",
+  "k": "parent",
+  "why": "Quraibah al-Kubra (ibu 'Atikah binti 'Abd al-Muththalib, istri Zam'ah bin al-Aswad) berbeda dari adiknya Quraibah ash-Shughra (ibu 'Atikah binti 'Utbah, istri 'Abdurrahman bin Abi Bakr) — Ibnu Sa'd 8/43 & 8/262",
+  "rule": "M",
+  "fid": "manual-101"
+ },
+ {
+  "op": "drop_edge",
+  "s": "s4416",
+  "t": "n3659",
+  "k": "parent",
+  "why": "Quraibah al-Kubra (ibu 'Atikah binti 'Abd al-Muththalib, istri Zam'ah bin al-Aswad) berbeda dari adiknya Quraibah ash-Shughra (ibu 'Atikah binti 'Utbah, istri 'Abdurrahman bin Abi Bakr) — Ibnu Sa'd 8/43 & 8/262",
+  "rule": "M",
+  "fid": "manual-102"
+ },
+ {
+  "op": "add_edge",
+  "s": "n15051",
+  "t": "m-quraibah-kubra",
+  "k": "parent",
+  "src": {
+   "t": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/43",
+   "url": "https://app.turath.io/book/9351?print_page=8,43"
+  },
+  "why": "Quraibah al-Kubra (ibu 'Atikah binti 'Abd al-Muththalib, istri Zam'ah bin al-Aswad) berbeda dari adiknya Quraibah ash-Shughra (ibu 'Atikah binti 'Utbah, istri 'Abdurrahman bin Abi Bakr) — Ibnu Sa'd 8/43 & 8/262",
+  "rule": "M",
+  "fid": "manual-103"
+ },
+ {
+  "op": "add_edge",
+  "s": "x89041889",
+  "t": "m-quraibah-kubra",
+  "k": "parent",
+  "src": {
+   "t": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/43",
+   "url": "https://app.turath.io/book/9351?print_page=8,43"
+  },
+  "why": "Quraibah al-Kubra (ibu 'Atikah binti 'Abd al-Muththalib, istri Zam'ah bin al-Aswad) berbeda dari adiknya Quraibah ash-Shughra (ibu 'Atikah binti 'Utbah, istri 'Abdurrahman bin Abi Bakr) — Ibnu Sa'd 8/43 & 8/262",
+  "rule": "M",
+  "fid": "manual-104"
+ },
+ {
+  "op": "add_edge",
+  "s": "m-quraibah-kubra",
+  "t": "n3659",
+  "k": "parent",
+  "src": {
+   "t": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/43",
+   "url": "https://app.turath.io/book/9351?print_page=8,43"
+  },
+  "why": "Quraibah al-Kubra (ibu 'Atikah binti 'Abd al-Muththalib, istri Zam'ah bin al-Aswad) berbeda dari adiknya Quraibah ash-Shughra (ibu 'Atikah binti 'Utbah, istri 'Abdurrahman bin Abi Bakr) — Ibnu Sa'd 8/43 & 8/262",
+  "rule": "M",
+  "fid": "manual-105"
+ },
+ {
+  "op": "add_edge",
+  "s": "xf2f269d4",
+  "t": "m-quraibah-kubra",
+  "k": "spouse",
+  "src": {
+   "t": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/43",
+   "url": "https://app.turath.io/book/9351?print_page=8,43"
+  },
+  "why": "Quraibah al-Kubra (ibu 'Atikah binti 'Abd al-Muththalib, istri Zam'ah bin al-Aswad) berbeda dari adiknya Quraibah ash-Shughra (ibu 'Atikah binti 'Utbah, istri 'Abdurrahman bin Abi Bakr) — Ibnu Sa'd 8/43 & 8/262",
+  "rule": "M",
+  "fid": "manual-106"
+ },
+ {
+  "op": "add_edge",
+  "s": "m-quraibah-kubra",
+  "t": "s4416",
+  "k": "sibling",
+  "src": {
+   "t": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/262",
+   "url": "https://app.turath.io/book/9351?print_page=8,262"
+  },
+  "why": "Quraibah al-Kubra (ibu 'Atikah binti 'Abd al-Muththalib, istri Zam'ah bin al-Aswad) berbeda dari adiknya Quraibah ash-Shughra (ibu 'Atikah binti 'Utbah, istri 'Abdurrahman bin Abi Bakr) — Ibnu Sa'd 8/43 & 8/262",
+  "rule": "M",
+  "fid": "manual-107"
+ },
+ {
+  "op": "merge",
+  "keep": "s4806",
+  "drop": "x21a9230b",
+  "why": "Ummu ar-Riya' Sa'idah binti 'Abd 'Amr tercatat dua kali (Ibnu Sa'd 3/521, 3/581, 8/437–438)",
+  "rule": "M",
+  "fid": "manual-108"
+ },
+ {
+  "op": "merge",
+  "keep": "xe9cc231c",
+  "drop": "x55effa7d",
+  "why": "al-Hubab bin al-Harits (ayah Zainab, suami Kabsyah binti Malik) tercatat dua kali (Ibnu Sa'd 8/417–418)",
+  "rule": "M",
+  "fid": "manual-109"
+ },
+ {
+  "op": "drop_edge",
+  "s": "n15143",
+  "t": "s4713",
+  "k": "spouse",
+  "rule": "EV",
+  "fid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/392",
+  "why": "n15143 = 'Amir bin 'Amr al-Muzani; teks: 'Amir bin 'Amr bin Khalidah az-Zuraqi (orang lain)"
+ },
+ {
+  "op": "drop_edge",
+  "s": "xec1bf978",
+  "t": "s4720",
+  "k": "parent",
+  "rule": "EV",
+  "fid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/393",
+  "why": "node 'من بني عبد الله بن غطفان' hanya nama kabilah, bukan orang"
+ },
+ {
+  "op": "drop_edge",
+  "s": "s825",
+  "t": "xec1bf978",
+  "k": "spouse",
+  "rule": "EV",
+  "fid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/393",
+  "why": "node 'من بني عبد الله بن غطفان' hanya nama kabilah, bukan orang"
+ },
+ {
+  "op": "drop_edge",
+  "s": "n2167",
+  "t": "s4727",
+  "k": "sibling",
+  "rule": "EV",
+  "fid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/395",
+  "why": "n2167 = 'Uqbah bin 'Amir al-Juhani (Mesir); teks: 'Uqbah bin 'Amir bin Nabi' as-Salami, Badri (orang lain)"
+ },
+ {
+  "op": "drop_edge",
+  "s": "s4730",
+  "t": "x04085419",
+  "k": "parent",
+  "rule": "EV",
+  "fid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/396",
+  "why": "teks: Mas'ud putra Sinan bin Qais bin al-Aswad; node = Mas'ud bin Sinan bin Shaifi bin Shakhr (orang lain)"
+ },
+ {
+  "op": "drop_edge",
+  "s": "s4740",
+  "t": "x934f8b97",
+  "k": "parent",
+  "rule": "EV",
+  "fid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/399",
+  "why": "teks: 'Abdurrahman bin Mas'ud bin Zaid bin Subai'; node = 'Abdurrahman bin Mas'ud bin Tsa'labah (8/366, orang lain)"
+ },
+ {
+  "op": "drop_edge",
+  "s": "n10989",
+  "t": "s4743",
+  "k": "spouse",
+  "rule": "EV",
+  "fid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/400",
+  "why": "n10989 = Mu'adz bin al-Harits al-Qari an-Najjari; teks: Mu'adz bin al-Harits bin Suraqah bin Khunas dari Bani Salimah (orang lain)"
+ },
+ {
+  "op": "drop_edge",
+  "s": "s1075",
+  "t": "s4753",
+  "k": "spouse",
+  "rule": "EV",
+  "fid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/404",
+  "why": "s1075 = Khalid bin 'Adi al-Juhani; teks: Khalid bin 'Adi bin 'Amr bin 'Adi bin Sinan bin Nabi' dari Bani Salimah (orang lain)"
+ },
+ {
+  "op": "drop_edge",
+  "s": "x2e082892",
+  "t": "n7271",
+  "k": "parent",
+  "rule": "EV",
+  "fid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/418",
+  "why": "n7271 = 'Abdullah bin al-Harits al-Bahili (Bashrah); teks: 'Abdullah putra al-Harits bin Suraqah an-Najjari (orang lain)"
+ },
+ {
+  "op": "drop_edge",
+  "s": "x403de543",
+  "t": "xa1a9ed0e",
+  "k": "parent",
+  "rule": "EV",
+  "fid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/437",
+  "why": "teks: Marwan putra 'Abdullah bin Abi Sulaith Usairah, bukan 'Abdullah bin Ka'b bin Zaid"
  }
 ]

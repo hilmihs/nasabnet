@@ -652,7 +652,7 @@ def main():
 
 
 def apply_corrections(R):
-    """Apply reviewed audit decisions from data/corrections.json (merge / drop_edge / add_edge / set_tribe / set_gender)."""
+    """Apply reviewed audit decisions from data/corrections.json (merge / drop_edge / add_edge / add_person / set_tribe / set_gender)."""
     f = ROOT / "data" / "corrections.json"
     if not f.exists():
         return
@@ -692,6 +692,13 @@ def apply_corrections(R):
             applied[kind] += bool(hit)
         elif kind == "add_edge" and op.get("s") in R.p and op.get("t") in R.p:
             R.edge(op["s"], op["t"], op["k"], op.get("src") or note, op.get("n"))
+            applied[kind] += 1
+        elif kind == "add_person" and op.get("id") and op["id"] not in R.p:
+            # a person the sources name but no extracted record carries (e.g. قريبة الكبرى, folded into her sister)
+            R.add(op["id"], ar=op["ar"], lat=op.get("lat") or translit(op["ar"]), g=op.get("g") or guess_gender(op["ar"]), full=op.get("full"))
+            R.index(op["id"], op.get("full") or op["ar"])
+            R.add_src(op["id"], op.get("src") or note)
+            R.p[op["id"]]["comp"] = bool(op.get("comp"))
             applied[kind] += 1
         elif kind == "set_tribe" and op.get("id") in R.p:
             R.p[op["id"]]["tribe"] = op.get("tribe") or None

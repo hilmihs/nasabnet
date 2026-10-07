@@ -1,0 +1,68 @@
+[
+ {
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/400",
+  "ok": 6,
+  "issues": [
+   {
+    "s": "n10989",
+    "t": "s4743",
+    "k": "spouse",
+    "verdict": "wrong",
+    "why": "n10989 = Mu'adz bin al-Harits al-Qari an-Najjari; teks: Mu'adz bin al-Harits bin Suraqah bin Khunas dari Bani Salimah (orang lain)"
+   }
+  ]
+ },
+ {
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/401",
+  "ok": 10,
+  "issues": []
+ },
+ {
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/402",
+  "ok": 8,
+  "issues": []
+ },
+ {
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/403",
+  "ok": 11,
+  "issues": []
+ },
+ {
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/404",
+  "ok": 9,
+  "issues": [
+   {
+    "s": "s1075",
+    "t": "s4753",
+    "k": "spouse",
+    "verdict": "wrong",
+    "why": "s1075 = Khalid bin 'Adi al-Juhani; teks: Khalid bin 'Adi bin 'Amr bin 'Adi bin Sinan bin Nabi' dari Bani Salimah (orang lain)"
+   }
+  ]
+ },
+ {
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/405",
+  "ok": 8,
+  "issues": []
+ },
+ {
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/406",
+  "ok": 12,
+  "issues": []
+ },
+ {
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/407",
+  "ok": 10,
+  "issues": []
+ },
+ {
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/408",
+  "ok": 7,
+  "issues": []
+ },
+ {
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/409",
+  "ok": 13,
+  "issues": []
+ }
+]

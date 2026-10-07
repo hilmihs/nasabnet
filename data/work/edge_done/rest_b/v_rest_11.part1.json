@@ -1,0 +1,120 @@
+[
+ {
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/390",
+  "ok": 11,
+  "issues": []
+ },
+ {
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/391",
+  "ok": 12,
+  "issues": []
+ },
+ {
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/392",
+  "ok": 3,
+  "issues": [
+   {
+    "s": "n15143",
+    "t": "s4713",
+    "k": "spouse",
+    "verdict": "wrong",
+    "why": "n15143 = 'Amir bin 'Amr al-Muzani; teks: 'Amir bin 'Amr bin Khalidah az-Zuraqi (orang lain)"
+   }
+  ]
+ },
+ {
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/393",
+  "ok": 8,
+  "issues": [
+   {
+    "s": "xec1bf978",
+    "t": "s4720",
+    "k": "parent",
+    "verdict": "wrong",
+    "why": "node 'من بني عبد الله بن غطفان' hanya nama kabilah, bukan orang"
+   },
+   {
+    "s": "s825",
+    "t": "xec1bf978",
+    "k": "spouse",
+    "verdict": "wrong",
+    "why": "node 'من بني عبد الله بن غطفان' hanya nama kabilah, bukan orang"
+   }
+  ]
+ },
+ {
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/394",
+  "ok": 8,
+  "issues": []
+ },
+ {
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/395",
+  "ok": 6,
+  "issues": [
+   {
+    "s": "n2167",
+    "t": "s4727",
+    "k": "sibling",
+    "verdict": "wrong",
+    "why": "n2167 = 'Uqbah bin 'Amir al-Juhani (Mesir); teks: 'Uqbah bin 'Amir bin Nabi' as-Salami, Badri (orang lain)"
+   }
+  ]
+ },
+ {
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/396",
+  "ok": 13,
+  "issues": [
+   {
+    "s": "s4730",
+    "t": "x04085419",
+    "k": "parent",
+    "verdict": "wrong",
+    "why": "teks: Mas'ud putra Sinan bin Qais bin al-Aswad; node = Mas'ud bin Sinan bin Shaifi bin Shakhr (orang lain)"
+   }
+  ]
+ },
+ {
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/397",
+  "ok": 9,
+  "issues": []
+ },
+ {
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/398",
+  "ok": 15,
+  "issues": []
+ },
+ {
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/399",
+  "ok": 10,
+  "issues": [
+   {
+    "s": "n11304",
+    "t": "s4740",
+    "k": "spouse",
+    "verdict": "unsure",
+    "why": "n11304 = Abu Muhammad al-Anshari an-Najjari, namanya diperselisihkan; identik dgn Mas'ud bin Zaid bin Subai' as-Salami tidak pasti"
+   },
+   {
+    "s": "n11304",
+    "t": "x8995130f",
+    "k": "parent",
+    "verdict": "unsure",
+    "why": "n11304 = Abu Muhammad an-Najjari, identitas dgn Mas'ud bin Zaid bin Subai' tidak pasti"
+   },
+   {
+    "s": "s4740",
+    "t": "x934f8b97",
+    "k": "parent",
+    "verdict": "wrong",
+    "why": "teks: 'Abdurrahman bin Mas'ud bin Zaid bin Subai'; node = 'Abdurrahman bin Mas'ud bin Tsa'labah (8/366, orang lain)"
+   },
+   {
+    "s": "n11304",
+    "t": "s4762",
+    "k": "parent",
+    "verdict": "unsure",
+    "why": "n11304 = Abu Muhammad an-Najjari, identitas dgn Mas'ud bin Zaid bin Subai' tidak pasti"
+   }
+  ]
+ }
+]
