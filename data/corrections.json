@@ -4694,5 +4694,57 @@
   "rule": "EV",
   "fid": "Turath · data rawi: معاذ بن الحارث. [rawi 10989]",
   "why": "Hudzail bin Mudrikah bin Ilyas adalah leluhur kabilah kuno, mustahil saudara seorang sahabat Anshar; frasa teks rusak/berarti nisbah kabilah"
+ },
+ {
+  "op": "drop_edge",
+  "s": "n1180",
+  "t": "n6489",
+  "k": "parent",
+  "rule": "EV",
+  "fid": "Turath · data rawi: ناجية بن جندب بن كعب [rawi 6489]",
+  "why": "orang salah: ayah Najiyah adalah Jundab bin Ka'b al-Khuza'i/al-Aslami, bukan Jundab al-Khair al-Azdi al-Ghamidi"
+ },
+ {
+  "op": "drop_edge",
+  "s": "n2128",
+  "t": "n6594",
+  "k": "sibling",
+  "rule": "EV",
+  "fid": "Turath · data rawi: نفيع بن الحارث بن كلدة [rawi 6594]",
+  "why": "orang salah: saudara seibu Abu Bakrah adalah Ziyad bin Abihi (bin Abi Sufyan), bukan Ziyad bin al-Harits/Haritsah (ash-Shuda'i)"
+ },
+ {
+  "op": "drop_edge",
+  "s": "xeb5d8258",
+  "t": "n6596",
+  "k": "parent",
+  "rule": "EV",
+  "fid": "Turath · data rawi: نقادة بن عبد الله بن خلف [rawi 6596]",
+  "why": "orang salah: ayah Naqadah (al-Asadi/al-Aslami) digabung dengan Abdullah bin Khalaf al-Khuza'i (ayah Thalhah ath-Thalahat); teks tidak menyebut al-Khuza'i"
+ },
+ {
+  "op": "merge",
+  "keep": "n6673",
+  "drop": "n6847",
+  "why": "Wahb bin Khunbusy (disebut juga Harim) tercatat dua kali di data rawi (6673 & 6847)",
+  "rule": "M",
+  "fid": "manual-137"
+ },
+ {
+  "op": "merge",
+  "keep": "x2bb02eb9",
+  "drop": "x2bb02eb92",
+  "why": "Wahb bin Khunbusy (disebut juga Harim) tercatat dua kali di data rawi (6673 & 6847)",
+  "rule": "M",
+  "fid": "manual-138"
+ },
+ {
+  "op": "drop_edge",
+  "s": "n2549",
+  "t": "n7075",
+  "k": "parent",
+  "rule": "EV",
+  "fid": "Turath · data rawi: يزيد بن سلمة الجعفي [rawi 7075]",
+  "why": "teks: 'وقيل: سلمة بن يزيد' = nama lain orang yang sama (nama terbalik), bukan ayahnya"
  }
 ]

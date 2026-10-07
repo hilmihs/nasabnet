@@ -1,0 +1,67 @@
+[
+ {
+  "rid": "Turath · data rawi: واثلة بن الأسقع الليثي [rawi 6764]",
+  "ok": 5,
+  "issues": []
+ },
+ {
+  "rid": "Turath · data rawi: واسع بن حبان [rawi 6765]",
+  "ok": 4,
+  "issues": [
+   {
+    "s": "x4e21d270",
+    "t": "n6765",
+    "k": "parent",
+    "verdict": "unsure",
+    "why": "teks hanya 'أروى بنت ربيعة' tanpa الكبرى/الصغرى (ada dua Arwa); Ibnu Hibban: ibunya Hind"
+   },
+   {
+    "s": "n16037",
+    "t": "x4e21d270",
+    "k": "spouse",
+    "verdict": "unsure",
+    "why": "teks hanya 'أروى بنت ربيعة' tanpa الكبرى/الصغرى (ada dua Arwa); Ibnu Hibban: Hind"
+   }
+  ]
+ },
+ {
+  "rid": "Turath · data rawi: واقد بن أبي واقد [rawi 6772]",
+  "ok": 1,
+  "issues": []
+ },
+ {
+  "rid": "Turath · data rawi: وحشي بن حرب [rawi 6779]",
+  "ok": 3,
+  "issues": []
+ },
+ {
+  "rid": "Turath · data rawi: وهب بن حذيفة بن عباد بن خلاد [rawi 6845]",
+  "ok": 1,
+  "issues": []
+ },
+ {
+  "rid": "Turath · data rawi: وهب بن خنبش [rawi 6673]",
+  "ok": 1,
+  "issues": []
+ },
+ {
+  "rid": "Turath · data rawi: وهب بن خنبش [rawi 6847]",
+  "ok": 1,
+  "issues": []
+ },
+ {
+  "rid": "Turath · data rawi: وهب بن عبد الله [rawi 6851]",
+  "ok": 1,
+  "issues": []
+ },
+ {
+  "rid": "Turath · data rawi: يحيى بن خلاد بن رافع بن مالك [rawi 6915]",
+  "ok": 2,
+  "issues": []
+ },
+ {
+  "rid": "Turath · data rawi: يزيد بن أبي سفيان [rawi 7040]",
+  "ok": 3,
+  "issues": []
+ }
+]

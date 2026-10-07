@@ -1,35 +1,27 @@
 [
  {
-  "s": "x56b3e6a33",
-  "t": "n6035",
+  "s": "x4e21d270",
+  "t": "n6765",
   "k": "parent",
   "verdict": "unsure",
-  "why": "teks bertentangan: 'مخمر بن معاوية' vs 'مخمر بن حيدة' (al-Askari); ia disebut paman Hakim bin Mu'awiyah bin Haidah dan saudara Malik bin Haidah, sehingga ayahnya kemungkinan Haidah, bukan Mu'awiyah",
-  "rid": "Turath · data rawi: مخمر بن معاوية [rawi 6035]"
+  "why": "teks hanya 'أروى بنت ربيعة' tanpa الكبرى/الصغرى (ada dua Arwa); Ibnu Hibban: ibunya Hind",
+  "rid": "Turath · data rawi: واسع بن حبان [rawi 6765]"
  },
  {
-  "s": "n6042",
-  "t": "n7186",
-  "k": "parent",
+  "s": "n16037",
+  "t": "x4e21d270",
+  "k": "spouse",
   "verdict": "unsure",
-  "why": "teks berhati-hati ('إن كان محفوظا'); node n7186 berlabel 'يعلى بن منبه' (Ya'la bin Umayyah/Munyah, Tamimi) padahal nasabnya Ya'la bin Murrah ats-Tsaqafi — kemungkinan dua orang tergabung",
-  "rid": "Turath · data rawi: مرة بن وهب بن جابر بن عتاب [rawi 6042]"
+  "why": "teks hanya 'أروى بنت ربيعة' tanpa الكبرى/الصغرى (ada dua Arwa); Ibnu Hibban: Hind",
+  "rid": "Turath · data rawi: واسع بن حبان [rawi 6765]"
  },
  {
-  "s": "n2708",
-  "t": "n6050",
+  "s": "n7147",
+  "t": "x62a96994",
   "k": "parent",
   "verdict": "unsure",
-  "why": "teks: 'اسم أبي مرحب سويد بن قيس' — bila subjek adalah Abu Marhab, Suwaid bin Qais adalah dirinya sendiri, bukan ayah; hanya ayah menurut versi 'ibn Abi Marhab'",
-  "rid": "Turath · data rawi: مرحب [rawi 6050]"
- },
- {
-  "s": "x7866cf6a",
-  "t": "n6101",
-  "k": "parent",
-  "verdict": "unsure",
-  "why": "teks: ayahnya 'هنيدة' dan itu 'أصح'; Hubairah versi yang kurang kuat",
-  "rid": "Turath · data rawi: مسعود بن هبيرة [rawi 6101]"
+  "why": "teks: 'أم حميضة بنت ياسر', tetapi riwayat masyhur: حميضة عن جدتها يسيرة (nenek); nama target 'بنت يسيرة' keliru, ayahnya ياسر",
+  "rid": "Turath · data rawi: يسيرة [rawi 7147]"
  },
  {
   "s": "n2289",
@@ -846,6 +838,46 @@
   "verdict": "unsure",
   "why": "teks: ayahnya زيد بن سكن بن كرز, tapi juga 'أخت رافع بن يزيد'; node يزيد بن كرز tidak cocok dengan nasab teks",
   "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/323"
+ },
+ {
+  "s": "x56b3e6a33",
+  "t": "n6035",
+  "k": "parent",
+  "verdict": "unsure",
+  "why": "teks bertentangan: 'مخمر بن معاوية' vs 'مخمر بن حيدة' (al-Askari); ia disebut paman Hakim bin Mu'awiyah bin Haidah dan saudara Malik bin Haidah, sehingga ayahnya kemungkinan Haidah, bukan Mu'awiyah",
+  "rid": "Turath · data rawi: مخمر بن معاوية [rawi 6035]"
+ },
+ {
+  "s": "n6042",
+  "t": "n7186",
+  "k": "parent",
+  "verdict": "unsure",
+  "why": "teks berhati-hati ('إن كان محفوظا'); node n7186 berlabel 'يعلى بن منبه' (Ya'la bin Umayyah/Munyah, Tamimi) padahal nasabnya Ya'la bin Murrah ats-Tsaqafi — kemungkinan dua orang tergabung",
+  "rid": "Turath · data rawi: مرة بن وهب بن جابر بن عتاب [rawi 6042]"
+ },
+ {
+  "s": "n2708",
+  "t": "n6050",
+  "k": "parent",
+  "verdict": "unsure",
+  "why": "teks: 'اسم أبي مرحب سويد بن قيس' — bila subjek adalah Abu Marhab, Suwaid bin Qais adalah dirinya sendiri, bukan ayah; hanya ayah menurut versi 'ibn Abi Marhab'",
+  "rid": "Turath · data rawi: مرحب [rawi 6050]"
+ },
+ {
+  "s": "x7866cf6a",
+  "t": "n6101",
+  "k": "parent",
+  "verdict": "unsure",
+  "why": "teks: ayahnya 'هنيدة' dan itu 'أصح'; Hubairah versi yang kurang kuat",
+  "rid": "Turath · data rawi: مسعود بن هبيرة [rawi 6101]"
+ },
+ {
+  "s": "x00fd11dd",
+  "t": "x171c330d2",
+  "k": "spouse",
+  "verdict": "unsure",
+  "why": "teks: Sumayyah adalah budak (أمة) al-Harits bin Kaladah, bukan disebut istri",
+  "rid": "Turath · data rawi: نفيع بن الحارث بن كلدة [rawi 6594]"
  },
  {
   "s": "s4784",

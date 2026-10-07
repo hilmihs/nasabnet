@@ -1,0 +1,14 @@
+[
+{"rid": "Turath · data rawi: معبد بن هوذة [rawi 6256]", "ok": 2, "issues": []},
+{"rid": "Turath · data rawi: معقل بن أبي معقل [rawi 6267]", "ok": 3, "issues": []},
+{"rid": "Turath · data rawi: معقل بن يسار بن عبد الله بن معبر [rawi 6271]", "ok": 3, "issues": []},
+{"rid": "Turath · data rawi: معمر بن عبد الله بن نضلة القرشي [rawi 6282]", "ok": 2, "issues": []},
+{"rid": "Turath · data rawi: ميمونة بنت سعد [rawi 6482]", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: ناجية بن جندب بن عمير بن يعمر [rawi 11054]", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: ناجية بن جندب بن كعب [rawi 6489]", "ok": 0, "issues": [
+  {"s": "n1180", "t": "n6489", "k": "parent", "verdict": "wrong", "why": "orang salah: ayah Najiyah adalah Jundab bin Ka'b al-Khuza'i/al-Aslami, bukan Jundab al-Khair al-Azdi al-Ghamidi"}
+]},
+{"rid": "Turath · data rawi: نافع بن عبد الحارث بن خالد بن عمير بن الحارث [rawi 6501]", "ok": 2, "issues": []},
+{"rid": "Turath · data rawi: نافع بن عتبة بن أبي وقاص [rawi 6503]", "ok": 4, "issues": []},
+{"rid": "Turath · data rawi: نافع بن عجير بن عبد يزيد بن ركانة [rawi 6504]", "ok": 1, "issues": []}
+]

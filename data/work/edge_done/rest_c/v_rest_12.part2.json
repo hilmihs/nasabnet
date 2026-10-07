@@ -1,0 +1,68 @@
+[
+ {
+  "rid": "Turath · data rawi: يزيد بن الأسود [rawi 7049]",
+  "ok": 2,
+  "issues": []
+ },
+ {
+  "rid": "Turath · data rawi: يزيد بن الأصم [rawi 7050]",
+  "ok": 3,
+  "issues": []
+ },
+ {
+  "rid": "Turath · data rawi: يزيد بن سعيد بن ثمامة بن الأسود [rawi 7073]",
+  "ok": 1,
+  "issues": []
+ },
+ {
+  "rid": "Turath · data rawi: يزيد بن سلمة الجعفي [rawi 7075]",
+  "ok": 1,
+  "issues": [
+   {
+    "s": "n2549",
+    "t": "n7075",
+    "k": "parent",
+    "verdict": "wrong",
+    "why": "teks: 'وقيل: سلمة بن يزيد' = nama lain orang yang sama (nama terbalik), bukan ayahnya"
+   }
+  ]
+ },
+ {
+  "rid": "Turath · data rawi: يزيد بن شيبان [rawi 7081]",
+  "ok": 1,
+  "issues": []
+ },
+ {
+  "rid": "Turath · data rawi: يزيد بن عامر السوائي [rawi 7088]",
+  "ok": 1,
+  "issues": []
+ },
+ {
+  "rid": "Turath · data rawi: يزيد بن معاوية [rawi 11182]",
+  "ok": 1,
+  "issues": []
+ },
+ {
+  "rid": "Turath · data rawi: يسار بن عبد [rawi 7142]",
+  "ok": 1,
+  "issues": []
+ },
+ {
+  "rid": "Turath · data rawi: يسير بن عمرو أو ابن جابر [rawi 7145]",
+  "ok": 2,
+  "issues": []
+ },
+ {
+  "rid": "Turath · data rawi: يسيرة [rawi 7147]",
+  "ok": 0,
+  "issues": [
+   {
+    "s": "n7147",
+    "t": "x62a96994",
+    "k": "parent",
+    "verdict": "unsure",
+    "why": "teks: 'أم حميضة بنت ياسر', tetapi riwayat masyhur: حميضة عن جدتها يسيرة (nenek); nama target 'بنت يسيرة' keliru, ayahnya ياسر"
+   }
+  ]
+ }
+]

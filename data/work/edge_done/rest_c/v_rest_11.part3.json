@@ -1,0 +1,14 @@
+[
+{"rid": "Turath · data rawi: نقادة بن عبد الله بن خلف [rawi 6596]", "ok": 1, "issues": [
+  {"s": "xeb5d8258", "t": "n6596", "k": "parent", "verdict": "wrong", "why": "orang salah: ayah Naqadah (al-Asadi/al-Aslami) digabung dengan Abdullah bin Khalaf al-Khuza'i (ayah Thalhah ath-Thalahat); teks tidak menyebut al-Khuza'i"}
+]},
+{"rid": "Turath · data rawi: نمير [rawi 6602]", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: نوفل [rawi 6621]", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: نوفل بن معاوية بن عروة [rawi 6624]", "ok": 2, "issues": []},
+{"rid": "Turath · data rawi: نيار بن مكرم [rawi 6625]", "ok": 2, "issues": []},
+{"rid": "Turath · data rawi: هانئ بن يزيد بن نهيك بن دريد [rawi 6666]", "ok": 2, "issues": []},
+{"rid": "Turath · data rawi: هزال بن يزيد بن ذباب [rawi 6683]", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: هشام بن حكيم بن حزام [rawi 6691]", "ok": 11, "issues": []},
+{"rid": "Turath · data rawi: هشام بن عامر الأنصاري [rawi 6699]", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: هلال بن أبي هلال [rawi 6716]", "ok": 2, "issues": []}
+]

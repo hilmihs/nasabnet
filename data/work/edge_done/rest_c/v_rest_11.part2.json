@@ -1,0 +1,15 @@
+[
+{"rid": "Turath · data rawi: نبيط بن شريط بن أنس بن مالك بن هلال [rawi 6515]", "ok": 2, "issues": []},
+{"rid": "Turath · data rawi: نسيبة بنت كعب [rawi 6527]", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: نصر بن دهر بن الأخرم بن مالك [rawi 6533]", "ok": 2, "issues": []},
+{"rid": "Turath · data rawi: نضلة بن عبيد بن عابد [rawi 6567]", "ok": 2, "issues": []},
+{"rid": "Turath · data rawi: نعيم بن أبي هند [rawi 6579]", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: نعيم بن قعنب الرياحي [rawi 6588]", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: نعيم بن مسعود بن عامر [rawi 6589]", "ok": 2, "issues": []},
+{"rid": "Turath · data rawi: نعيم بن هزال [rawi 6591]", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: نعيم بن همار [rawi 6592]", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: نفيع بن الحارث بن كلدة [rawi 6594]", "ok": 10, "issues": [
+  {"s": "x00fd11dd", "t": "x171c330d2", "k": "spouse", "verdict": "unsure", "why": "teks: Sumayyah adalah budak (أمة) al-Harits bin Kaladah, bukan disebut istri"},
+  {"s": "n2128", "t": "n6594", "k": "sibling", "verdict": "wrong", "why": "orang salah: saudara seibu Abu Bakrah adalah Ziyad bin Abihi (bin Abi Sufyan), bukan Ziyad bin al-Harits/Haritsah (ash-Shuda'i)"}
+]}
+]
