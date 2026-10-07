@@ -4428,5 +4428,45 @@
   "why": "Muhammad bin Iyas bin al-Bukair tercatat dua kali (Ibnu Sa'd 8/447 & data rawi)",
   "rule": "M",
   "fid": "manual-127"
+ },
+ {
+  "op": "add_edge",
+  "s": "n3002",
+  "t": "x8f3d0e3a",
+  "k": "mawla",
+  "src": {
+   "t": "Turath · data rawi: طلحة بن مالك",
+   "url": "https://app.turath.io/narrator/3002"
+  },
+  "why": "'مولى: أم الحزين … من فوق': Thalhah bin Malik adalah tuan (maula dari atas) Ummul Hazin; arah dibalik",
+  "rule": "M",
+  "fid": "manual-128"
+ },
+ {
+  "op": "drop_edge",
+  "s": "x8f3d0e3a",
+  "t": "n3002",
+  "k": "mawla",
+  "rule": "EV",
+  "fid": "Turath · data rawi: طلحة بن مالك [rawi 3002]",
+  "why": "arah terbalik: 'مولى ... من فوق' = Thalhah adalah patron (mawla atas) bagi Ummul Harir/Hazin (mawlatnya), bukan sebaliknya"
+ },
+ {
+  "op": "drop_edge",
+  "s": "n3061",
+  "t": "x78f22821",
+  "k": "sibling",
+  "rule": "EV",
+  "fid": "Turath · data rawi: عامر [rawi 3061]",
+  "why": "'أخو الخضر' = dari kabilah al-Khadir (keturunan Malik bin Tharif bin Muharib), bukan saudara seorang bernama al-Khadhir"
+ },
+ {
+  "op": "drop_edge",
+  "s": "n9886",
+  "t": "n7271",
+  "k": "parent",
+  "rule": "EV",
+  "fid": "Turath · data rawi: عبد الله بن الحارث [rawi 7271]",
+  "why": "orang salah: node generik 'الحارث' n9886 juga dipakai sebagai ayah مسلم بن الحارث التميمي dan غرفة بن الحارث الكندي; ayah عبد الله الباهلي adalah orang lain"
  }
 ]

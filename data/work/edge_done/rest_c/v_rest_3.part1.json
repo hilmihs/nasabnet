@@ -1,0 +1,76 @@
+[
+ {
+  "rid": "Turath · data rawi: طارق بن أشيم بن مسعود [rawi 2969]",
+  "ok": 2,
+  "issues": []
+ },
+ {
+  "rid": "Turath · data rawi: طارق بن سويد [rawi 2970]",
+  "ok": 1,
+  "issues": []
+ },
+ {
+  "rid": "Turath · data rawi: طارق بن عبد الله [rawi 2974]",
+  "ok": 1,
+  "issues": []
+ },
+ {
+  "rid": "Turath · data rawi: طخفة بن قيس [rawi 2981]",
+  "ok": 3,
+  "issues": []
+ },
+ {
+  "rid": "Turath · data rawi: طلحة بن مالك [rawi 3002]",
+  "ok": 1,
+  "issues": [
+   {
+    "s": "x8f3d0e3a",
+    "t": "n3002",
+    "k": "mawla",
+    "verdict": "wrong",
+    "why": "arah terbalik: 'مولى ... من فوق' = Thalhah adalah patron (mawla atas) bagi Ummul Harir/Hazin (mawlatnya), bukan sebaliknya"
+   }
+  ]
+ },
+ {
+  "rid": "Turath · data rawi: طلق بن علي الحنفي [rawi 3010]",
+  "ok": 5,
+  "issues": []
+ },
+ {
+  "rid": "Turath · data rawi: عائذ بن عمرو بن هلال [rawi 3021]",
+  "ok": 2,
+  "issues": [
+   {
+    "s": "x7bf4a36d",
+    "t": "n3021",
+    "k": "parent",
+    "verdict": "unsure",
+    "why": "teks: ayah = عمرو بن هلال (Muzani); node berlabel 'الكناني' — mungkin tertaut ke orang lain bernama sama"
+   }
+  ]
+ },
+ {
+  "rid": "Turath · data rawi: عاتكة بنت خالد بن خليف [rawi 21085]",
+  "ok": 1,
+  "issues": []
+ },
+ {
+  "rid": "Turath · data rawi: عاصم بن عدي [rawi 3043]",
+  "ok": 4,
+  "issues": []
+ },
+ {
+  "rid": "Turath · data rawi: عامر [rawi 3061]",
+  "ok": 0,
+  "issues": [
+   {
+    "s": "n3061",
+    "t": "x78f22821",
+    "k": "sibling",
+    "verdict": "wrong",
+    "why": "'أخو الخضر' = dari kabilah al-Khadir (keturunan Malik bin Tharif bin Muharib), bukan saudara seorang bernama al-Khadhir"
+   }
+  ]
+ }
+]

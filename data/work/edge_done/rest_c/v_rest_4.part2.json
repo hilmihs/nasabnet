@@ -1,0 +1,60 @@
+[
+ {
+  "rid": "Turath · data rawi: عبد الله بن أبي أوفى [rawi 3535]",
+  "ok": 1,
+  "issues": []
+ },
+ {
+  "rid": "Turath · data rawi: عبد الله بن أبي الجدعاء [rawi 3528]",
+  "ok": 1,
+  "issues": []
+ },
+ {
+  "rid": "Turath · data rawi: عبد الله بن أبي الحمساء [rawi 3530]",
+  "ok": 1,
+  "issues": []
+ },
+ {
+  "rid": "Turath · data rawi: عبد الله بن أبي ربيعة [rawi 3544]",
+  "ok": 1,
+  "issues": []
+ },
+ {
+  "rid": "Turath · data rawi: عبد الله بن أبي قحافة [rawi 3783]",
+  "ok": 1,
+  "issues": []
+ },
+ {
+  "rid": "Turath · data rawi: عبد الله بن أقرم بن زيد [rawi 3569]",
+  "ok": 1,
+  "issues": []
+ },
+ {
+  "rid": "Turath · data rawi: عبد الله بن أنيس [rawi 3572]",
+  "ok": 2,
+  "issues": []
+ },
+ {
+  "rid": "Turath · data rawi: عبد الله بن أنيس [rawi 3573]",
+  "ok": 6,
+  "issues": []
+ },
+ {
+  "rid": "Turath · data rawi: عبد الله بن الأرقم بن عبد يغوث [rawi 3565]",
+  "ok": 4,
+  "issues": []
+ },
+ {
+  "rid": "Turath · data rawi: عبد الله بن الحارث [rawi 7271]",
+  "ok": 1,
+  "issues": [
+   {
+    "s": "n9886",
+    "t": "n7271",
+    "k": "parent",
+    "verdict": "wrong",
+    "why": "orang salah: node generik 'الحارث' n9886 juga dipakai sebagai ayah مسلم بن الحارث التميمي dan غرفة بن الحارث الكندي; ayah عبد الله الباهلي adalah orang lain"
+   }
+  ]
+ }
+]

@@ -1,51 +1,19 @@
 [
  {
-  "s": "s4784",
-  "t": "xe9cc231c",
-  "k": "spouse",
-  "verdict": "unsure",
-  "why": "teks: al-Habbab bin al-Harits bin 'Auf bin Mabdzul; node bernama 'al-Harits bin Amr' - mungkin sama, nasab tidak cocok",
-  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/418"
- },
- {
-  "s": "m-quraibah-kubra",
-  "t": "xf2f269d4",
-  "k": "spouse",
-  "verdict": "unsure",
-  "why": "benar, disebut di entri lain (8/461 dst.); teks ini hanya menyebut Quraibah putri Atikah, tanpa Zam'ah",
-  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/43"
- },
- {
-  "s": "x6ac584d2",
-  "t": "n11234",
+  "s": "xb05ef763",
+  "t": "n7263",
   "k": "parent",
   "verdict": "unsure",
-  "why": "riwayat bertentangan: ayahnya Sa'd bin al-Mundzir / bin Malik / bin Amr; nama Abdurrahman juga disebut",
-  "rid": "Turath · data rawi: أبو حميد [rawi 11234]"
+  "why": "dua riwayat bertentangan: Khalifah menyebut ibunya عميرة بنت جدعان, Ibnu Sa'd menyebut هند بنت عمير بن جدعان",
+  "rid": "Turath · data rawi: عبد الرحمن بن عثمان التيمي [rawi 7263]"
  },
  {
-  "s": "x4ed500f3",
-  "t": "x8d429518",
+  "s": "n15325",
+  "t": "xb05ef763",
   "k": "spouse",
   "verdict": "unsure",
-  "why": "Raithah ibunya (=istri Malik), tapi 'وقيل: هي أم أبيه' (ibu Malik) - dua versi bertentangan",
-  "rid": "Turath · data rawi: الحارث بن مالك بن قيس [rawi 1240]"
- },
- {
-  "s": "xf55903ca",
-  "t": "n2884",
-  "k": "parent",
-  "verdict": "unsure",
-  "why": "nasab menjadikan al-'Ailah ayah, tapi teks: 'يقال: إن العيلة أمه' - ayah atau ibu tidak pasti",
-  "rid": "Turath · data rawi: صخر بن العيلة [rawi 2884]"
- },
- {
-  "s": "x15ec257a2",
-  "t": "n2968",
-  "k": "parent",
-  "verdict": "unsure",
-  "why": "teks: 'وقيل: ابن سعد وهو الأشهر' - ayah Rabi'ah adalah versi yang kurang kuat",
-  "rid": "Turath · data rawi: ضمرة بن ربيعة [rawi 2968]"
+  "why": "bergantung pada riwayat ibu yang diperselisihkan (عميرة vs هند بنت عمير بن جدعان)",
+  "rid": "Turath · data rawi: عبد الرحمن بن عثمان التيمي [rawi 7263]"
  },
  {
   "s": "n2289",
@@ -862,5 +830,61 @@
   "verdict": "unsure",
   "why": "teks: ayahnya زيد بن سكن بن كرز, tapi juga 'أخت رافع بن يزيد'; node يزيد بن كرز tidak cocok dengan nasab teks",
   "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/323"
+ },
+ {
+  "s": "s4784",
+  "t": "xe9cc231c",
+  "k": "spouse",
+  "verdict": "unsure",
+  "why": "teks: al-Habbab bin al-Harits bin 'Auf bin Mabdzul; node bernama 'al-Harits bin Amr' - mungkin sama, nasab tidak cocok",
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/418"
+ },
+ {
+  "s": "m-quraibah-kubra",
+  "t": "xf2f269d4",
+  "k": "spouse",
+  "verdict": "unsure",
+  "why": "benar, disebut di entri lain (8/461 dst.); teks ini hanya menyebut Quraibah putri Atikah, tanpa Zam'ah",
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/43"
+ },
+ {
+  "s": "x6ac584d2",
+  "t": "n11234",
+  "k": "parent",
+  "verdict": "unsure",
+  "why": "riwayat bertentangan: ayahnya Sa'd bin al-Mundzir / bin Malik / bin Amr; nama Abdurrahman juga disebut",
+  "rid": "Turath · data rawi: أبو حميد [rawi 11234]"
+ },
+ {
+  "s": "x4ed500f3",
+  "t": "x8d429518",
+  "k": "spouse",
+  "verdict": "unsure",
+  "why": "Raithah ibunya (=istri Malik), tapi 'وقيل: هي أم أبيه' (ibu Malik) - dua versi bertentangan",
+  "rid": "Turath · data rawi: الحارث بن مالك بن قيس [rawi 1240]"
+ },
+ {
+  "s": "xf55903ca",
+  "t": "n2884",
+  "k": "parent",
+  "verdict": "unsure",
+  "why": "nasab menjadikan al-'Ailah ayah, tapi teks: 'يقال: إن العيلة أمه' - ayah atau ibu tidak pasti",
+  "rid": "Turath · data rawi: صخر بن العيلة [rawi 2884]"
+ },
+ {
+  "s": "x15ec257a2",
+  "t": "n2968",
+  "k": "parent",
+  "verdict": "unsure",
+  "why": "teks: 'وقيل: ابن سعد وهو الأشهر' - ayah Rabi'ah adalah versi yang kurang kuat",
+  "rid": "Turath · data rawi: ضمرة بن ربيعة [rawi 2968]"
+ },
+ {
+  "s": "x7bf4a36d",
+  "t": "n3021",
+  "k": "parent",
+  "verdict": "unsure",
+  "why": "teks: ayah = عمرو بن هلال (Muzani); node berlabel 'الكناني' — mungkin tertaut ke orang lain bernama sama",
+  "rid": "Turath · data rawi: عائذ بن عمرو بن هلال [rawi 3021]"
  }
 ]

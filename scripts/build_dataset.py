@@ -153,8 +153,8 @@ class Registry:
             return comp[0]
         return None
 
-    def resolve(self, text, g=None, create=True, lat=None, src=None):
-        hit = self._resolve(text, g, create, lat, src)
+    def resolve(self, text, g=None, create=True, lat=None, src=None, single=True):
+        hit = self._resolve(text, g, create, lat, src, single)
         if hit and lat and hit in self.p and not self.p[hit].get("mlat"):
             self.p[hit]["mlat"] = lat
         return hit
@@ -179,7 +179,7 @@ class Registry:
             return True
         return group.get(t_p) == group.get(t_m)
 
-    def _resolve(self, text, g=None, create=True, lat=None, src=None):
+    def _resolve(self, text, g=None, create=True, lat=None, src=None, single=True):
         if not text:
             return None
         t = expand_prophet(text).strip()
@@ -189,7 +189,9 @@ class Registry:
         # only the full name; a bare "محمد" (فاطمة بنت محمد, wife of Abdullah bin Abi Bakr) is not the Prophet
         if norm(t) == "محمد بن عبد الله بن عبد المطلب":
             return "nabi"
-        al = self.alias.get(norm(t))
+        # a bare single name says too little to pick someone's parent ("الحارث"); people known by one
+        # name (سفينة، بريرة) still match as spouses, children or clients
+        al = self.alias.get(norm(t)) if single or " " in norm(t) else None
         if al:
             hit = self._pick(al, g)
             if hit:
@@ -576,21 +578,21 @@ def main():
         for k, v in fl.items():
             if v is True:
                 P["flags"].add(k)
-        def res(m, gender=None):
+        def res(m, gender=None, single=True):
             if not m or not m.get("ar"):
                 return None
             gg = m.get("g") if m.get("g") in ("m", "f") else gender
-            return R.resolve(m["ar"], g=gg, lat=m.get("lat"), src=src)
+            return R.resolve(m["ar"], g=gg, lat=m.get("lat"), src=src, single=single)
         # father and sons share the patrilineal tribe: a father mention that resolved to a narrator of another
         # tribal group is a namesake (كعب بن عمرو father of Suraqah al-Najjari ≠ كعب بن عمرو اليامي)
         t_self = R.tribe_of(pid)
         def kin(m, gender):
-            hit = res(m, gender)
+            hit = res(m, gender, single=False)
             if hit and t_self and not hit.startswith("x") and not R.compatible_tribe(hit, t_self):
                 return R.stub(expand_prophet(m["ar"]).strip(), g=gender, lat=m.get("lat"), src=src)
             return hit
         fa = kin(x.get("father"), "m")
-        mo = res(x.get("mother"), "f")
+        mo = res(x.get("mother"), "f", single=False)
         R.edge(fa, pid, "parent", src)
         R.edge(mo, pid, "parent", src)
         if fa and mo:

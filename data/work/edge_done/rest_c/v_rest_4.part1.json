@@ -1,0 +1,67 @@
+[
+ {
+  "rid": "Turath · data rawi: عبد الرحمن بن عثمان التيمي [rawi 7263]",
+  "ok": 4,
+  "issues": [
+   {
+    "s": "xb05ef763",
+    "t": "n7263",
+    "k": "parent",
+    "verdict": "unsure",
+    "why": "dua riwayat bertentangan: Khalifah menyebut ibunya عميرة بنت جدعان, Ibnu Sa'd menyebut هند بنت عمير بن جدعان"
+   },
+   {
+    "s": "n15325",
+    "t": "xb05ef763",
+    "k": "spouse",
+    "verdict": "unsure",
+    "why": "bergantung pada riwayat ibu yang diperselisihkan (عميرة vs هند بنت عمير بن جدعان)"
+   }
+  ]
+ },
+ {
+  "rid": "Turath · data rawi: عبد الرحمن بن علقمة [rawi 3369]",
+  "ok": 1,
+  "issues": []
+ },
+ {
+  "rid": "Turath · data rawi: عبد الرحمن بن عوف [rawi 3378]",
+  "ok": 1,
+  "issues": []
+ },
+ {
+  "rid": "Turath · data rawi: عبد الرحمن بن غنم بن سعد [rawi 3381]",
+  "ok": 2,
+  "issues": []
+ },
+ {
+  "rid": "Turath · data rawi: عبد الرحمن بن قرط [rawi 10429]",
+  "ok": 1,
+  "issues": []
+ },
+ {
+  "rid": "Turath · data rawi: عبد الرحمن بن مطيع بن الأسود [rawi 3405]",
+  "ok": 7,
+  "issues": []
+ },
+ {
+  "rid": "Turath · data rawi: عبد الرحمن بن معاذ التيمي [rawi 3406]",
+  "ok": 2,
+  "issues": []
+ },
+ {
+  "rid": "Turath · data rawi: عبد الرحمن بن يعمر [rawi 3437]",
+  "ok": 1,
+  "issues": []
+ },
+ {
+  "rid": "Turath · data rawi: عبد الله [rawi 3522]",
+  "ok": 1,
+  "issues": []
+ },
+ {
+  "rid": "Turath · data rawi: عبد الله [rawi 3878]",
+  "ok": 2,
+  "issues": []
+ }
+]
