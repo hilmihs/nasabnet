@@ -3855,5 +3855,203 @@
   "rule": "EV",
   "fid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/437",
   "why": "teks: Marwan putra 'Abdullah bin Abi Sulaith Usairah, bukan 'Abdullah bin Ka'b bin Zaid"
+ },
+ {
+  "op": "drop_edge",
+  "s": "n6515",
+  "t": "s4816",
+  "k": "spouse",
+  "rule": "EV",
+  "fid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/440",
+  "why": "orang salah: teks menyebut Nubaith bin Jabir bin Malik (Bani Najjar), bukan Nubaith bin Syuraith bin Anas (Asyja')"
+ },
+ {
+  "op": "drop_edge",
+  "s": "n6515",
+  "t": "xe4eb12a2",
+  "k": "parent",
+  "rule": "EV",
+  "fid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/440",
+  "why": "orang salah: ayah Abdul Malik adalah Nubaith bin Jabir an-Najjari, bukan Nubaith bin Syuraith"
+ },
+ {
+  "op": "drop_edge",
+  "s": "x5dc306153",
+  "t": "s4833",
+  "k": "parent",
+  "rule": "EV",
+  "fid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/448",
+  "why": "'أم ولد' hanya status, bukan orang tertentu"
+ },
+ {
+  "op": "drop_edge",
+  "s": "x2c51bdb3",
+  "t": "x5dc306153",
+  "k": "spouse",
+  "rule": "EV",
+  "fid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/448",
+  "why": "'أم ولد' hanya status, bukan orang tertentu"
+ },
+ {
+  "op": "drop_edge",
+  "s": "n2213",
+  "t": "n6851",
+  "k": "parent",
+  "rule": "EV",
+  "fid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/461",
+  "why": "orang salah: node 'وهب بن عبد الله، ويقال: ابن وهب' adalah Abu Juhaifah as-Suwa'i; teks: Wahb bin Abdullah bin Zam'ah"
+ },
+ {
+  "op": "drop_edge",
+  "s": "n2213",
+  "t": "xece01c9e",
+  "k": "parent",
+  "rule": "EV",
+  "fid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/461",
+  "why": "orang salah: node bernama Abu Salamah bin Abdullah bin Umar; teks: Abu Salamah bin Abdullah bin Zam'ah"
+ },
+ {
+  "op": "drop_edge",
+  "s": "n2213",
+  "t": "xd003d280",
+  "k": "parent",
+  "rule": "EV",
+  "fid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/461",
+  "why": "orang salah: node Ummu Salamah binti Abdullah bin Abi Ma'qil; teks: Ummu Salamah binti Abdullah bin Zam'ah"
+ },
+ {
+  "op": "drop_edge",
+  "s": "s4865",
+  "t": "xcf7472a0",
+  "k": "parent",
+  "rule": "EV",
+  "fid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/462",
+  "why": "orang salah: node Musa bin Abdurrahman bin Syibl; teks: Musa bin Abdurrahman bin Abdullah bin Abi Rabi'ah"
+ },
+ {
+  "op": "drop_edge",
+  "s": "x5dc306154",
+  "t": "n5067",
+  "k": "parent",
+  "rule": "EV",
+  "fid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/465",
+  "why": "'أم ولد' hanya status, bukan orang tertentu"
+ },
+ {
+  "op": "drop_edge",
+  "s": "x5dc306155",
+  "t": "n8630",
+  "k": "parent",
+  "rule": "EV",
+  "fid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/469",
+  "why": "'أم ولد' hanya status, bukan orang tertentu"
+ },
+ {
+  "op": "drop_edge",
+  "s": "x5dc306155",
+  "t": "xdd02f864",
+  "k": "spouse",
+  "rule": "EV",
+  "fid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/469",
+  "why": "'أم ولد' hanya status, bukan orang tertentu"
+ },
+ {
+  "op": "drop_edge",
+  "s": "n3685",
+  "t": "n5063",
+  "k": "spouse",
+  "rule": "EV",
+  "fid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/473",
+  "why": "orang salah: suami kedua adalah Abdullah bin Amr bin Utsman bin Affan, bukan Abdullah bin as-Sa'di"
+ },
+ {
+  "op": "drop_edge",
+  "s": "n5063",
+  "t": "n17604",
+  "k": "parent",
+  "rule": "EV",
+  "fid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/473",
+  "why": "orang salah: node al-Qasim bin Abdullah bin Amr bin al-'Ash; teks: al-Qasim bin Abdullah bin Amr bin Utsman"
+ },
+ {
+  "op": "drop_edge",
+  "s": "n3685",
+  "t": "n17604",
+  "k": "parent",
+  "rule": "EV",
+  "fid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/473",
+  "why": "orang salah di kedua sisi: ayahnya Abdullah bin Amr bin Utsman, anaknya bukan cucu Amr bin al-'Ash"
+ },
+ {
+  "op": "drop_edge",
+  "s": "n3685",
+  "t": "x56213b04",
+  "k": "parent",
+  "rule": "EV",
+  "fid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/473",
+  "why": "orang salah: ayah ad-Dibaj adalah Abdullah bin Amr bin Utsman, bukan Abdullah bin as-Sa'di"
+ },
+ {
+  "op": "drop_edge",
+  "s": "n3685",
+  "t": "x694b3801",
+  "k": "parent",
+  "rule": "EV",
+  "fid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/473",
+  "why": "orang salah: ayah Ruqayyah adalah Abdullah bin Amr bin Utsman, bukan Abdullah bin as-Sa'di"
+ },
+ {
+  "op": "drop_edge",
+  "s": "x5dc306156",
+  "t": "n5064",
+  "k": "parent",
+  "rule": "EV",
+  "fid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/477",
+  "why": "'أم ولد' hanya status, bukan orang tertentu"
+ },
+ {
+  "op": "drop_edge",
+  "s": "n8321",
+  "t": "x5dc306156",
+  "k": "spouse",
+  "rule": "EV",
+  "fid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/477",
+  "why": "'أم ولد' hanya status, bukan orang tertentu"
+ },
+ {
+  "op": "drop_edge",
+  "s": "nabi",
+  "t": "s4948",
+  "k": "parent",
+  "rule": "EV",
+  "fid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/496",
+  "why": "orang salah: Fathimah binti Muhammad istri Abdullah bin Abi Bakr (perawi tabi'iyyah), bukan putri Nabi ﷺ"
+ },
+ {
+  "op": "drop_edge",
+  "s": "xcdd0a853",
+  "t": "n6115",
+  "k": "parent",
+  "rule": "EV",
+  "fid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/50",
+  "why": "orang salah: Muslim bin al-Harits bin Amir bin Naufal (Quraisy), bukan n6115 Muslim bin al-Harits/al-Harits bin Muslim (sahabat lain)"
+ },
+ {
+  "op": "drop_edge",
+  "s": "n7390",
+  "t": "n841",
+  "k": "parent",
+  "rule": "EV",
+  "fid": "Turath · data rawi: أبو أمامة ؛ إياس بن ثعلبة",
+  "why": "orang salah: n7390 adalah Tsa'labah kakek al-Hirmas bin Habib, bukan ayah Abu Umamah Iyas bin Tsa'labah al-Balawi"
+ },
+ {
+  "op": "drop_edge",
+  "s": "x5a934ff3",
+  "t": "n7278",
+  "k": "mawla",
+  "rule": "EV",
+  "fid": "Turath · data rawi: أبو حازم",
+  "why": "'Bani Bayadhah' kabilah bukan orang; teks tidak menyebut relasi ini (n7278 Abu Hazim lain)"
  }
 ]

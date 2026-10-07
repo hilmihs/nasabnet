@@ -1,0 +1,16 @@
+[
+{"rid": "Turath · data rawi: آبي اللحم", "ok": 3, "issues": []},
+{"rid": "Turath · data rawi: أبا سعيد الضحاك بن قيس الفهري", "ok": 5, "issues": []},
+{"rid": "Turath · data rawi: أبو أمامة ؛ إياس بن ثعلبة", "ok": 1, "issues": [
+  {"s": "n7390", "t": "n841", "k": "parent", "verdict": "wrong", "why": "orang salah: n7390 adalah Tsa'labah kakek al-Hirmas bin Habib, bukan ayah Abu Umamah Iyas bin Tsa'labah al-Balawi"}
+]},
+{"rid": "Turath · data rawi: أبو الأزهر", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: أبو السمح", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: أبو السنابل بن بعكك", "ok": 4, "issues": []},
+{"rid": "Turath · data rawi: أبو الغوث بن الحصين", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: أبو المعلى بن لوذان", "ok": 0, "issues": [
+  {"s": "xbe97a759", "t": "n200", "k": "parent", "verdict": "unsure", "why": "nama Zaid bin al-Mu'alla hanya 'qila', mayoritas: namanya tak diketahui; ia 'bin Ludzan', nasab ayah (bin Haritsah bin Zaid) tidak ada di teks"}
+]},
+{"rid": "Turath · data rawi: أبو بردة بن نيار الأنصاري", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: أبو بشير", "ok": 1, "issues": []}
+]

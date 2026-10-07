@@ -1,0 +1,14 @@
+[
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/45", "ok": 7, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/450", "ok": 11, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/451", "ok": 10, "issues": [
+  {"s": "s4842", "t": "x862ffda92", "k": "sibling", "verdict": "unsure", "why": "saudara benar, tapi 'sekandung' diragukan: teks menutup dengan 'لأمهم', dan 8/449 menyebut ibu Tsa'labah adalah Kabsyah binti Tsabit (bukan Amrah binti Hazzal)"}
+]},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/452", "ok": 15, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/453", "ok": 15, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/454", "ok": 5, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/455", "ok": 1, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/456", "ok": 2, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/457", "ok": 3, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/46", "ok": 3, "issues": []}
+]

@@ -1,0 +1,18 @@
+[
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/440", "ok": 2, "issues": [
+  {"s": "n6515", "t": "s4816", "k": "spouse", "verdict": "wrong", "why": "orang salah: teks menyebut Nubaith bin Jabir bin Malik (Bani Najjar), bukan Nubaith bin Syuraith bin Anas (Asyja')"},
+  {"s": "n6515", "t": "xe4eb12a2", "k": "parent", "verdict": "wrong", "why": "orang salah: ayah Abdul Malik adalah Nubaith bin Jabir an-Najjari, bukan Nubaith bin Syuraith"}
+]},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/441", "ok": 5, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/442", "ok": 1, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/443", "ok": 15, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/444", "ok": 12, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/445", "ok": 3, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/446", "ok": 7, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/447", "ok": 3, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/448", "ok": 13, "issues": [
+  {"s": "x5dc306153", "t": "s4833", "k": "parent", "verdict": "wrong", "why": "'أم ولد' hanya status, bukan orang tertentu"},
+  {"s": "x2c51bdb3", "t": "x5dc306153", "k": "spouse", "verdict": "wrong", "why": "'أم ولد' hanya status, bukan orang tertentu"}
+]},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/449", "ok": 16, "issues": []}
+]

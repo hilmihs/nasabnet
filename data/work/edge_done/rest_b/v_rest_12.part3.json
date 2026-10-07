@@ -1,0 +1,23 @@
+[
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/461", "ok": 4, "issues": [
+  {"s": "n2213", "t": "n6851", "k": "parent", "verdict": "wrong", "why": "orang salah: node 'وهب بن عبد الله، ويقال: ابن وهب' adalah Abu Juhaifah as-Suwa'i; teks: Wahb bin Abdullah bin Zam'ah"},
+  {"s": "n2213", "t": "xece01c9e", "k": "parent", "verdict": "wrong", "why": "orang salah: node bernama Abu Salamah bin Abdullah bin Umar; teks: Abu Salamah bin Abdullah bin Zam'ah"},
+  {"s": "n2213", "t": "xd003d280", "k": "parent", "verdict": "wrong", "why": "orang salah: node Ummu Salamah binti Abdullah bin Abi Ma'qil; teks: Ummu Salamah binti Abdullah bin Zam'ah"}
+]},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/462", "ok": 8, "issues": [
+  {"s": "s4865", "t": "xcf7472a0", "k": "parent", "verdict": "wrong", "why": "orang salah: node Musa bin Abdurrahman bin Syibl; teks: Musa bin Abdurrahman bin Abdullah bin Abi Rabi'ah"}
+]},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/463", "ok": 2, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/465", "ok": 14, "issues": [
+  {"s": "x5dc306154", "t": "n5067", "k": "parent", "verdict": "wrong", "why": "'أم ولد' hanya status, bukan orang tertentu"}
+]},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/467", "ok": 3, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/468", "ok": 18, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/469", "ok": 12, "issues": [
+  {"s": "x5dc306155", "t": "n8630", "k": "parent", "verdict": "wrong", "why": "'أم ولد' hanya status, bukan orang tertentu"},
+  {"s": "x5dc306155", "t": "xdd02f864", "k": "spouse", "verdict": "wrong", "why": "'أم ولد' hanya status, bukan orang tertentu"}
+]},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/47", "ok": 2, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/470", "ok": 2, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/471", "ok": 6, "issues": []}
+]

@@ -1,0 +1,21 @@
+[
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/472", "ok": 5, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/473", "ok": 18, "issues": [
+  {"s": "n3685", "t": "n5063", "k": "spouse", "verdict": "wrong", "why": "orang salah: suami kedua adalah Abdullah bin Amr bin Utsman bin Affan, bukan Abdullah bin as-Sa'di"},
+  {"s": "n5063", "t": "n17604", "k": "parent", "verdict": "wrong", "why": "orang salah: node al-Qasim bin Abdullah bin Amr bin al-'Ash; teks: al-Qasim bin Abdullah bin Amr bin Utsman"},
+  {"s": "n3685", "t": "n17604", "k": "parent", "verdict": "wrong", "why": "orang salah di kedua sisi: ayahnya Abdullah bin Amr bin Utsman, anaknya bukan cucu Amr bin al-'Ash"},
+  {"s": "n3685", "t": "x56213b04", "k": "parent", "verdict": "wrong", "why": "orang salah: ayah ad-Dibaj adalah Abdullah bin Amr bin Utsman, bukan Abdullah bin as-Sa'di"},
+  {"s": "n3685", "t": "x694b3801", "k": "parent", "verdict": "wrong", "why": "orang salah: ayah Ruqayyah adalah Abdullah bin Amr bin Utsman, bukan Abdullah bin as-Sa'di"}
+]},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/475", "ok": 17, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/476", "ok": 1, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/477", "ok": 10, "issues": [
+  {"s": "x5dc306156", "t": "n5064", "k": "parent", "verdict": "wrong", "why": "'أم ولد' hanya status, bukan orang tertentu"},
+  {"s": "n8321", "t": "x5dc306156", "k": "spouse", "verdict": "wrong", "why": "'أم ولد' hanya status, bukan orang tertentu"}
+]},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/478", "ok": 4, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/479", "ok": 2, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/48", "ok": 1, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/480", "ok": 6, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/481", "ok": 2, "issues": []}
+]

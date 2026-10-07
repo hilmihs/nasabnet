@@ -1,0 +1,18 @@
+[
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/493", "ok": 1, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/494", "ok": 6, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/495", "ok": 2, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/496", "ok": 1, "issues": [
+  {"s": "nabi", "t": "s4948", "k": "parent", "verdict": "wrong", "why": "orang salah: Fathimah binti Muhammad istri Abdullah bin Abi Bakr (perawi tabi'iyyah), bukan putri Nabi ﷺ"}
+]},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/497", "ok": 3, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/50", "ok": 10, "issues": [
+  {"s": "xcdd0a853", "t": "n6115", "k": "parent", "verdict": "wrong", "why": "orang salah: Muslim bin al-Harits bin Amir bin Naufal (Quraisy), bukan n6115 Muslim bin al-Harits/al-Harits bin Muslim (sahabat lain)"}
+]},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/51", "ok": 7, "issues": [
+  {"s": "x8681f758", "t": "xfb78f455", "k": "spouse", "verdict": "unsure", "why": "teks: ibu Fathimah binti Asad = Fathimah binti Harim bin Rawahah; node bernama 'binti Qais bin Harim', nasab tidak cocok"}
+]},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/52", "ok": 1, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/86", "ok": 4, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/96", "ok": 2, "issues": []}
+]

@@ -1,0 +1,15 @@
+[
+{"rid": "Turath · data rawi: أبو بهيسة", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: أبو ثعلبة", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: أبو جبيرة بن الضحاك", "ok": 2, "issues": []},
+{"rid": "Turath · data rawi: أبو جري", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: أبو جمعة", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: أبو حاتم", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: أبو حازم", "ok": 1, "issues": [
+  {"s": "x3af0ea6f4", "t": "n1509", "k": "parent", "verdict": "unsure", "why": "riwayat bertentangan: namanya sendiri 'Auf/Abdu 'Auf menurut versi lain; 'Hushain bin 'Auf' hanya salah satu qila"},
+  {"s": "x5a934ff3", "t": "n7278", "k": "mawla", "verdict": "wrong", "why": "'Bani Bayadhah' kabilah bukan orang; teks tidak menyebut relasi ini (n7278 Abu Hazim lain)"}
+]},
+{"rid": "Turath · data rawi: أبو حدرد", "ok": 3, "issues": []},
+{"rid": "Turath · data rawi: أبو خلاد", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: أبو رافع", "ok": 5, "issues": []}
+]
