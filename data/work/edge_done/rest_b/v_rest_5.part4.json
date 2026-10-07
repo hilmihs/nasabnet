@@ -1,0 +1,20 @@
+[
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/301", "ok": 1, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/302", "ok": 3, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/303", "ok": 0, "issues": [
+  {"s": "s1021", "t": "s1022", "k": "sibling", "verdict": "unsure", "why": "benar, disebut di entri lain (4/302: ابناه عامر وسلمة)"}
+]},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/308", "ok": 1, "issues": [
+  {"s": "s1020", "t": "s1023", "k": "parent", "verdict": "unsure", "why": "teks hanya 'أهبان بن الأكوع'; tidak dinyatakan anak Sinan al-Akwa', dan 4/302 hanya menyebut dua putra (Amir, Salamah)"}
+]},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/309", "ok": 1, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/310", "ok": 1, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/311", "ok": 1, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/312", "ok": 0, "issues": [
+  {"s": "x373612a2", "t": "s1027", "k": "mawla", "verdict": "wrong", "why": "'الأسلميون' adalah kabilah, bukan orang"}
+]},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/313", "ok": 1, "issues": [
+  {"s": "n1980", "t": "x3678ee9f", "k": "parent", "verdict": "wrong", "why": "sanad rusak: 'أبي سلمة بن عبد الرحمن بن ربيعة' seharusnya 'عن ربيعة' (Abu Salamah bin Abdurrahman bin Auf meriwayatkan dari Rabi'ah); Abdurrahman bin Rabi'ah tidak disebut"}
+]},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/314", "ok": 2, "issues": []}
+]

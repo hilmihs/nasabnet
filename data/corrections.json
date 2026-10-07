@@ -3108,5 +3108,40 @@
   "rule": "EV",
   "fid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/196",
   "why": "Abdullah bin al-Harits tidak disebut di teks ini; simpul n7271 tanpa nasab (bukan s933)"
+ },
+ {
+  "op": "merge",
+  "keep": "s1025",
+  "drop": "xbf84a978",
+  "why": "Abu Tamim al-Aslami (Aus bin Hajar), maula Mas'ud bin Hunaidah, tercatat dua kali (Ibnu Sa'd 4/310 & 4/311)",
+  "rule": "M",
+  "fid": "manual-80"
+ },
+ {
+  "op": "drop_edge",
+  "s": "s1013",
+  "t": "n3685",
+  "k": "parent",
+  "rule": "EV",
+  "fid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/296",
+  "why": "teks: putranya عبد الله بن عمرو بن القعواء الخزاعي; node n3685 adalah Abdullah bin as-Sa'di (Quraisy, bani Amir bin Lu'ay), orang lain"
+ },
+ {
+  "op": "drop_edge",
+  "s": "x373612a2",
+  "t": "s1027",
+  "k": "mawla",
+  "rule": "EV",
+  "fid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/312",
+  "why": "'الأسلميون' adalah kabilah, bukan orang"
+ },
+ {
+  "op": "drop_edge",
+  "s": "n1980",
+  "t": "x3678ee9f",
+  "k": "parent",
+  "rule": "EV",
+  "fid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/313",
+  "why": "sanad rusak: 'أبي سلمة بن عبد الرحمن بن ربيعة' seharusnya 'عن ربيعة' (Abu Salamah bin Abdurrahman bin Auf meriwayatkan dari Rabi'ah); Abdurrahman bin Rabi'ah tidak disebut"
  }
 ]

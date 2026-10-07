@@ -1,0 +1,18 @@
+[
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/282", "ok": 2, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/284", "ok": 3, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/287", "ok": 1, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/292", "ok": 2, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/293", "ok": 3, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/294", "ok": 3, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/295", "ok": 3, "issues": [
+  {"s": "s1012", "t": "s1013", "k": "sibling", "verdict": "unsure", "why": "benar, disebut di entri lain (4/296: وأخوه عمرو بن القعواء)"}
+]},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/296", "ok": 2, "issues": [
+  {"s": "s1013", "t": "n3685", "k": "parent", "verdict": "wrong", "why": "teks: putranya عبد الله بن عمرو بن القعواء الخزاعي; node n3685 adalah Abdullah bin as-Sa'di (Quraisy, bani Amir bin Lu'ay), orang lain"}
+]},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/297", "ok": 1, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/298", "ok": 1, "issues": [
+  {"s": "x5b8fbaed", "t": "s1018", "k": "parent", "verdict": "unsure", "why": "dua riwayat bertentangan: nama Abu Barzah عبد الله بن نضلة (Ibnu Umar) vs نضلة بن عبد الله/عبيد الله (al-Kalbi dkk.); node ayah menggabungkan keduanya"}
+]}
+]

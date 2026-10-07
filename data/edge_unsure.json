@@ -1,75 +1,51 @@
 [
  {
-  "s": "s905",
-  "t": "x8601171d",
+  "s": "n3146",
+  "t": "n15047",
+  "k": "parent",
+  "verdict": "unsure",
+  "why": "benar, disebut di entri lain (4/274: جاهمة بن العباس بن مرداس)",
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/271"
+ },
+ {
+  "s": "x0c4cc234",
+  "t": "n2947",
+  "k": "parent",
+  "verdict": "unsure",
+  "why": "teks: الضحاك بن سفيان بن الحارث as-Sulami; node n2947 tanpa nasab, mungkin tertukar dengan senama ad-Dhahhak bin Sufyan al-Kilabi",
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/274"
+ },
+ {
+  "s": "s1012",
+  "t": "s1013",
   "k": "sibling",
   "verdict": "unsure",
-  "why": "Ibnu Ishaq: saudara seibu; al-Waqidi: Khalid anak Sufyan (saudara seibu Syurahbil), jadi keponakan",
-  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/127"
+  "why": "benar, disebut di entri lain (4/296: وأخوه عمرو بن القعواء)",
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/295"
  },
  {
-  "s": "s905",
-  "t": "x9ecdb64f",
+  "s": "x5b8fbaed",
+  "t": "s1018",
+  "k": "parent",
+  "verdict": "unsure",
+  "why": "dua riwayat bertentangan: nama Abu Barzah عبد الله بن نضلة (Ibnu Umar) vs نضلة بن عبد الله/عبيد الله (al-Kalbi dkk.); node ayah menggabungkan keduanya",
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/298"
+ },
+ {
+  "s": "s1021",
+  "t": "s1022",
   "k": "sibling",
   "verdict": "unsure",
-  "why": "Ibnu Ishaq: saudara seibu; al-Waqidi: Junadah anak Sufyan (saudara seibu Syurahbil), jadi keponakan",
-  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/127"
+  "why": "benar, disebut di entri lain (4/302: ابناه عامر وسلمة)",
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/303"
  },
  {
-  "s": "x4f3a0aeb",
-  "t": "x878bb1fd",
+  "s": "s1020",
+  "t": "s1023",
   "k": "parent",
   "verdict": "unsure",
-  "why": "teks hanya menyebut Sumayyah melahirkan Ammar; Abdullah disebut saudara Ammar tanpa ibu",
-  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/136"
- },
- {
-  "s": "n7271",
-  "t": "s934",
-  "k": "sibling",
-  "verdict": "unsure",
-  "why": "simpul 'Abdullah bin al-Harits' tanpa nasab, bisa namesake; orang yang benar adalah s933 (sudah ada sisi sendiri)",
-  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/195"
- },
- {
-  "s": "s4398",
-  "t": "x7b2a4581",
-  "k": "parent",
-  "verdict": "unsure",
-  "why": "teks hanya 'wa kana li Khaththab min al-walad Muhammad' tanpa menyebut ibunya",
-  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/202"
- },
- {
-  "s": "s948",
-  "t": "xee22d82b2",
-  "k": "spouse",
-  "verdict": "unsure",
-  "why": "Ibnu Ishaq: Hasanah istri Sufyan; al-Waqidi: Hasanah ibu Sufyan (riwayat bertentangan)",
-  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/202"
- },
- {
-  "s": "xee22d82b2",
-  "t": "x8601171d",
-  "k": "parent",
-  "verdict": "unsure",
-  "why": "hanya versi Ibnu Ishaq; menurut al-Waqidi Hasanah nenek Khalid",
-  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/202"
- },
- {
-  "s": "xee22d82b2",
-  "t": "x9ecdb64f",
-  "k": "parent",
-  "verdict": "unsure",
-  "why": "hanya versi Ibnu Ishaq; menurut al-Waqidi Hasanah nenek Junadah",
-  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/202"
- },
- {
-  "s": "s4430",
-  "t": "x4ea5c56d",
-  "k": "parent",
-  "verdict": "unsure",
-  "why": "teks: ibu Sulaith bin Sulaith 'Qahtam binti Alqamah', istri yang hijrah 'Fathimah binti Alqamah'; belum pasti orang yang sama",
-  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/203"
+  "why": "teks hanya 'أهبان بن الأكوع'; tidak dinyatakan anak Sinan al-Akwa', dan 4/302 hanya menyebut dua putra (Amir, Salamah)",
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/308"
  },
  {
   "s": "n2289",
@@ -342,5 +318,77 @@
   "verdict": "unsure",
   "why": "teks terpotong di 'وأخوه'; nama saudara (Abdullah bin al-Humair) tidak ada dalam teks ini",
   "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/577"
+ },
+ {
+  "s": "s905",
+  "t": "x8601171d",
+  "k": "sibling",
+  "verdict": "unsure",
+  "why": "Ibnu Ishaq: saudara seibu; al-Waqidi: Khalid anak Sufyan (saudara seibu Syurahbil), jadi keponakan",
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/127"
+ },
+ {
+  "s": "s905",
+  "t": "x9ecdb64f",
+  "k": "sibling",
+  "verdict": "unsure",
+  "why": "Ibnu Ishaq: saudara seibu; al-Waqidi: Junadah anak Sufyan (saudara seibu Syurahbil), jadi keponakan",
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/127"
+ },
+ {
+  "s": "x4f3a0aeb",
+  "t": "x878bb1fd",
+  "k": "parent",
+  "verdict": "unsure",
+  "why": "teks hanya menyebut Sumayyah melahirkan Ammar; Abdullah disebut saudara Ammar tanpa ibu",
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/136"
+ },
+ {
+  "s": "n7271",
+  "t": "s934",
+  "k": "sibling",
+  "verdict": "unsure",
+  "why": "simpul 'Abdullah bin al-Harits' tanpa nasab, bisa namesake; orang yang benar adalah s933 (sudah ada sisi sendiri)",
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/195"
+ },
+ {
+  "s": "s4398",
+  "t": "x7b2a4581",
+  "k": "parent",
+  "verdict": "unsure",
+  "why": "teks hanya 'wa kana li Khaththab min al-walad Muhammad' tanpa menyebut ibunya",
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/202"
+ },
+ {
+  "s": "s948",
+  "t": "xee22d82b2",
+  "k": "spouse",
+  "verdict": "unsure",
+  "why": "Ibnu Ishaq: Hasanah istri Sufyan; al-Waqidi: Hasanah ibu Sufyan (riwayat bertentangan)",
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/202"
+ },
+ {
+  "s": "xee22d82b2",
+  "t": "x8601171d",
+  "k": "parent",
+  "verdict": "unsure",
+  "why": "hanya versi Ibnu Ishaq; menurut al-Waqidi Hasanah nenek Khalid",
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/202"
+ },
+ {
+  "s": "xee22d82b2",
+  "t": "x9ecdb64f",
+  "k": "parent",
+  "verdict": "unsure",
+  "why": "hanya versi Ibnu Ishaq; menurut al-Waqidi Hasanah nenek Junadah",
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/202"
+ },
+ {
+  "s": "s4430",
+  "t": "x4ea5c56d",
+  "k": "parent",
+  "verdict": "unsure",
+  "why": "teks: ibu Sulaith bin Sulaith 'Qahtam binti Alqamah', istri yang hijrah 'Fathimah binti Alqamah'; belum pasti orang yang sama",
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/203"
  }
 ]

@@ -1,0 +1,16 @@
+[
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/254", "ok": 1, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/261", "ok": 7, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/269", "ok": 5, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/271", "ok": 1, "issues": [
+  {"s": "n3146", "t": "n15047", "k": "parent", "verdict": "unsure", "why": "benar, disebut di entri lain (4/274: جاهمة بن العباس بن مرداس)"}
+]},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/274", "ok": 2, "issues": [
+  {"s": "x0c4cc234", "t": "n2947", "k": "parent", "verdict": "unsure", "why": "teks: الضحاك بن سفيان بن الحارث as-Sulami; node n2947 tanpa nasab, mungkin tertukar dengan senama ad-Dhahhak bin Sufyan al-Kilabi"}
+]},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/275", "ok": 5, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/276", "ok": 3, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/277", "ok": 1, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/280", "ok": 5, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/281", "ok": 1, "issues": []}
+]

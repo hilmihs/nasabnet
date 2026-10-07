@@ -184,7 +184,7 @@ class Registry:
             return None
         t = expand_prophet(text).strip()
         # "من بني سهم" / "امرأة من كلب": an unnamed person described only by tribe is not a person node
-        if re.match(r"^(?:من|بنو|بني|امرأة\s+من|رجل\s+من|أم ولد)(?:\s|$)", t):
+        if re.match(r"^(?:من|بنو|بني|امرأة\s+من|رجل\s+من|أم ولد)(?:\s|$)", t) or re.fullmatch(r"ال\S+يون", t):
             return None
         if norm(t) in ("محمد بن عبد الله بن عبد المطلب", "محمد"):
             return "nabi"
@@ -213,6 +213,8 @@ class Registry:
             # the Prophet's household is only matched on a full chain (k3) or an explicit "رسول الله",
             # never on a short namesake like "فاطمة بنت محمد" (wife of 'Abdullah bin Abi Bakr)
             c2 -= getattr(self, "protected", set())
+            # records whose short form is a very common name (عبد الله بن السعدي, alias "عبد الله بن عمرو")
+            c2 -= getattr(self, "strict", set())
             # a mention whose own chain names its tribe never folds into a short-named record of another
             # tribal group (كعب بن عمرو بن عبد العزى … النجار ≠ كعب بن عمرو اليامي of Hamdan)
             if len(line) >= 2:
@@ -471,6 +473,7 @@ def main():
             if re.fullmatch(r"n\d+", ref):
                 cur_ref(ref)
 
+    R.strict = set(cur.get("strict", []))
     R.protected = {x for x in cur["ummahat"] + ["nabi", "c-mariyah"]} | {
         e["t"] for e in cur["edges"] if e["s"] == "nabi" and e["k"] == "parent"
     }
