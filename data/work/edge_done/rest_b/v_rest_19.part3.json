@@ -1,0 +1,16 @@
+[
+{"rid": "Turath · data rawi: خديج بن رافع بن عدي", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: خرشة بن الحر", "ok": 2, "issues": []},
+{"rid": "Turath · data rawi: خريم بن فاتك", "ok": 2, "issues": [
+  {"s": "x83fd1999", "t": "n1785", "k": "parent", "verdict": "wrong", "why": "teks: ayahnya al-Akhram bin Syaddad bin 'Amr bin Fatik; Fatik adalah leluhur, bukan ayah"}
+]},
+{"rid": "Turath · data rawi: خزيمة بن جزء", "ok": 3, "issues": []},
+{"rid": "Turath · data rawi: خفاف بن إيماء بن رحضة", "ok": 2, "issues": []},
+{"rid": "Turath · data rawi: دكين بن سعيد", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: ذؤيب بن حلحلة", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: ذو الجوشن", "ok": 2, "issues": []},
+{"rid": "Turath · data rawi: ذو اللحية", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: رافع", "ok": 1, "issues": [
+  {"s": "xcb49a645", "t": "n1922", "k": "mawla", "verdict": "wrong", "why": "Ghathafan adalah nama kabilah (maula Ghathafan/Asyja'), bukan orang"}
+]}
+]

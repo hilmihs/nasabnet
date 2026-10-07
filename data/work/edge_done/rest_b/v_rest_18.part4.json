@@ -1,0 +1,17 @@
+[
+{"rid": "Turath · data rawi: حبيب بن مسلمة الفهري", "ok": 2, "issues": []},
+{"rid": "Turath · data rawi: حبيبة بنت سهل الأنصاري", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: حبيبة بنت شريق بن أبي حثمة", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: حبيبة بنت عبيد الله بن جحش بن رئاب", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: حجاج بن عمرو بن غزية", "ok": 6, "issues": [
+  {"s": "n1233", "t": "n1318", "k": "sibling", "verdict": "wrong", "why": "orang salah: n1233 adalah Abu Burdah al-Harits bin Amr (paman al-Bara' bin Azib), bukan al-Harits bin Amr bin Ghaziyyah"},
+  {"s": "n1318", "t": "s939", "k": "sibling", "verdict": "wrong", "why": "orang salah: s939 سعيد بن عمرو التميمي, sedangkan saudara Hajjaj adalah Sa'id bin Amr bin Ghaziyyah al-Anshari al-Mazini"}
+]},
+{"rid": "Turath · data rawi: حجاج بن مالك بن عويمر", "ok": 2, "issues": []},
+{"rid": "Turath · data rawi: حدرد بن أبي حدرد", "ok": 4, "issues": []},
+{"rid": "Turath · data rawi: حذيفة بن أسيد", "ok": 0, "issues": [
+  {"s": "xdc399e0a", "t": "n1338", "k": "parent", "verdict": "unsure", "why": "nama utama حذيفة بن أسيد; 'أمية بن أسيد' sebagai ayah hanya versi ويقال yang bertentangan"}
+]},
+{"rid": "Turath · data rawi: حذيم بن عمرو", "ok": 2, "issues": []},
+{"rid": "Turath · data rawi: حرملة بن عبد الله", "ok": 1, "issues": []}
+]

@@ -4135,5 +4135,100 @@
   "rule": "EV",
   "fid": "Turath · data rawi: المهاجر بن قنفذ",
   "why": "orang salah: Zainab putri al-Muhajir bin Qunfudz (Taimi) dipetakan ke Zainab binti al-Muhajir al-Ahmasiyyah (Bajilah), orang lain"
+ },
+ {
+  "op": "drop_edge",
+  "s": "n1233",
+  "t": "n1318",
+  "k": "sibling",
+  "rule": "EV",
+  "fid": "Turath · data rawi: حجاج بن عمرو بن غزية",
+  "why": "orang salah: n1233 adalah Abu Burdah al-Harits bin Amr (paman al-Bara' bin Azib), bukan al-Harits bin Amr bin Ghaziyyah"
+ },
+ {
+  "op": "drop_edge",
+  "s": "n1318",
+  "t": "s939",
+  "k": "sibling",
+  "rule": "EV",
+  "fid": "Turath · data rawi: حجاج بن عمرو بن غزية",
+  "why": "orang salah: s939 سعيد بن عمرو التميمي, sedangkan saudara Hajjaj adalah Sa'id bin Amr bin Ghaziyyah al-Anshari al-Mazini"
+ },
+ {
+  "op": "drop_edge",
+  "s": "n5341",
+  "t": "s4435",
+  "k": "sibling",
+  "why": "catatan perawi Ummul Fadhl adalah dirinya sendiri, bukan saudarinya",
+  "rule": "M",
+  "fid": "manual-110"
+ },
+ {
+  "op": "drop_edge",
+  "s": "n5341",
+  "t": "x858eeae7",
+  "k": "spouse",
+  "why": "istri al-Walid bin al-Mughirah adalah Lubabah ash-Shughra (s4436), bukan Ummul Fadhl",
+  "rule": "M",
+  "fid": "manual-111"
+ },
+ {
+  "op": "merge",
+  "keep": "s4435",
+  "drop": "n5341",
+  "why": "Ummul Fadhl Lubabah al-Kubra binti al-Harits, istri al-'Abbas, tercatat beberapa kali (data rawi & sebutan nama pendek)",
+  "rule": "M",
+  "fid": "manual-112"
+ },
+ {
+  "op": "merge",
+  "keep": "s4435",
+  "drop": "xf663bec73",
+  "why": "Ummul Fadhl Lubabah al-Kubra binti al-Harits, istri al-'Abbas, tercatat beberapa kali (data rawi & sebutan nama pendek)",
+  "rule": "M",
+  "fid": "manual-113"
+ },
+ {
+  "op": "merge",
+  "keep": "s4435",
+  "drop": "x7bef0fb6",
+  "why": "Ummul Fadhl Lubabah al-Kubra binti al-Harits, istri al-'Abbas, tercatat beberapa kali (data rawi & sebutan nama pendek)",
+  "rule": "M",
+  "fid": "manual-114"
+ },
+ {
+  "op": "merge",
+  "keep": "s4435",
+  "drop": "xf663bec7",
+  "why": "Ummul Fadhl Lubabah al-Kubra binti al-Harits, istri al-'Abbas, tercatat beberapa kali (data rawi & sebutan nama pendek)",
+  "rule": "M",
+  "fid": "manual-115"
+ },
+ {
+  "op": "drop_edge",
+  "s": "n1782",
+  "t": "xcf22f082",
+  "k": "parent",
+  "rule": "EV",
+  "fid": "Turath · data rawi: خداش بن سلامة",
+  "why": "teks: 'والد أبي عبد الرحمن' merujuk Habib as-Sulami (ayah Abu Abdirrahman as-Sulami), bukan Khidasy"
+ },
+ {
+  "op": "drop_edge",
+  "s": "x83fd1999",
+  "t": "n1785",
+  "k": "parent",
+  "rule": "EV",
+  "fid": "Turath · data rawi: خريم بن فاتك",
+  "why": "teks: ayahnya al-Akhram bin Syaddad bin 'Amr bin Fatik; Fatik adalah leluhur, bukan ayah"
+ },
+ {
+  "op": "drop_edge",
+  "s": "xcb49a645",
+  "t": "n1922",
+  "k": "mawla",
+  "rule": "EV",
+  "fid": "Turath · data rawi: رافع",
+  "why": "Ghathafan adalah nama kabilah (maula Ghathafan/Asyja'), bukan orang"
  }
 ]

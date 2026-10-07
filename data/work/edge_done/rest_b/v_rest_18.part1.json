@@ -1,0 +1,17 @@
+[
+{"rid": "Turath · data rawi: ثابت بن وديعة", "ok": 2, "issues": [
+  {"s": "s714", "t": "n1059", "k": "parent", "verdict": "unsure", "why": "teks memberi tiga versi ayah yang saling bertentangan (وديعة / يزيد بن وديعة / زيد بن وديعة); nama utama ثابت بن وديعة"},
+  {"s": "s714", "t": "xfdb807d4", "k": "spouse", "verdict": "unsure", "why": "hanya tersirat jika Zaid memang ayahnya, padahal ayah diperselisihkan"}
+]},
+{"rid": "Turath · data rawi: ثعلبة بن أبي مالك", "ok": 3, "issues": []},
+{"rid": "Turath · data rawi: ثعلبة بن الحكم أخو بني ليث", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: ثعلبة بن زهدم", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: ثعلبة بن صعير", "ok": 1, "issues": [
+  {"s": "x77e55e86", "t": "n1065", "k": "parent", "verdict": "unsure", "why": "nama utama ثعلبة بن صعير; 'ابن عبد الله بن صعير' hanya salah satu dari beberapa versi bertentangan"}
+]},
+{"rid": "Turath · data rawi: ثعلبة بن عمرو بن عبيد بن محصن", "ok": 2, "issues": []},
+{"rid": "Turath · data rawi: ثوبان بن بجدد", "ok": 2, "issues": []},
+{"rid": "Turath · data rawi: جابر بن سمرة بن جنادة", "ok": 5, "issues": []},
+{"rid": "Turath · data rawi: جابر بن طارق", "ok": 2, "issues": []},
+{"rid": "Turath · data rawi: جابر بن عبد الله بن عمرو بن حرام", "ok": 4, "issues": []}
+]

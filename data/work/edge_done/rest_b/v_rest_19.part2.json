@@ -1,0 +1,18 @@
+[
+{"rid": "Turath · data rawi: حنين", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: حواء", "ok": 2, "issues": []},
+{"rid": "Turath · data rawi: حويطب بن عبد العزى", "ok": 3, "issues": []},
+{"rid": "Turath · data rawi: خالد بن الوليد بن المغيرة", "ok": 0, "issues": [
+  {"s": "n5341", "t": "x858eeae7", "k": "spouse", "verdict": "wrong", "why": "node n5341 = Umm al-Fadl (Lubabah al-Kubra, istri al-Abbas); teks: ibu Khalid (istri al-Walid) adalah Lubabah ash-Shughra (riwayat utama) — orang berbeda"}
+]},
+{"rid": "Turath · data rawi: خالد بن زيد", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: خالد بن عرفطة بن أبرهة بن سنان بن صفي", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: خالدة بنت أنس", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: خباب", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: خباب بن الأرت", "ok": 2, "issues": [
+  {"s": "n1777", "t": "x18b64cc3", "k": "muakhah", "verdict": "unsure", "why": "dua riwayat: utama dengan Jabr bin 'Atik; Tamim maula Khirash hanya versi al-Isti'ab"}
+]},
+{"rid": "Turath · data rawi: خداش بن سلامة", "ok": 1, "issues": [
+  {"s": "n1782", "t": "xcf22f082", "k": "parent", "verdict": "wrong", "why": "teks: 'والد أبي عبد الرحمن' merujuk Habib as-Sulami (ayah Abu Abdirrahman as-Sulami), bukan Khidasy"}
+]}
+]

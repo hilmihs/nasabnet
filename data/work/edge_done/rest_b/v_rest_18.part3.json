@@ -1,0 +1,17 @@
+[
+{"rid": "Turath · data rawi: جعيل بن زياد", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: جنادة بن أبي أمية", "ok": 2, "issues": []},
+{"rid": "Turath · data rawi: جندب الخير", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: جندرة بن خيشنة", "ok": 2, "issues": []},
+{"rid": "Turath · data rawi: حابس بن ربيعة", "ok": 2, "issues": []},
+{"rid": "Turath · data rawi: حابس بن سعد", "ok": 0, "issues": [
+  {"s": "x90a7f5c2", "t": "n1196", "k": "parent", "verdict": "unsure", "why": "nama utama حابس بن سعد; 'ربيعة بن المنذر بن سعد' sebagai ayah hanya versi ويقال yang bertentangan"}
+]},
+{"rid": "Turath · data rawi: حارثة بن وهب", "ok": 4, "issues": []},
+{"rid": "Turath · data rawi: حازم بن حرملة", "ok": 2, "issues": []},
+{"rid": "Turath · data rawi: حبة بن خالد", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: حبشي بن جنادة بن نصر", "ok": 2, "issues": [
+  {"s": "xba39fda7", "t": "n1274", "k": "parent", "verdict": "unsure", "why": "سلول بنت ذهل بن شيبان adalah ibu leluhur Bani Salul (eponim nisbah السلولي), bukan ibu kandung; 'وأمه' juga bisa merujuk ke Abdurrahman"},
+  {"s": "x16ca0e7a", "t": "xba39fda7", "k": "spouse", "verdict": "unsure", "why": "bergantung pada relasi ibu yang meragukan (Salul = leluhur suku)"}
+]}
+]

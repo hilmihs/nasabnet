@@ -1,27 +1,11 @@
 [
  {
-  "s": "xbecdebdf",
-  "t": "n959",
-  "k": "parent",
+  "s": "n1777",
+  "t": "x18b64cc3",
+  "k": "muakhah",
   "verdict": "unsure",
-  "why": "riwayat utama: Busyair bin Ma'bad; 'bin Zaid bin Ma'bad' dan 'bin Syurahbil' hanya qila, saling bertentangan",
-  "rid": "Turath · data rawi: بشير بن معبد"
- },
- {
-  "s": "xc3ace4dd",
-  "t": "n959",
-  "k": "parent",
-  "verdict": "unsure",
-  "why": "al-Khashashiyyah disebut 'ummu Dhubara' (nenek moyang, bukan ibu langsung); nama Kabsyah vs Mawiyah binti Amr bin al-Harits ambigu",
-  "rid": "Turath · data rawi: بشير بن معبد"
- },
- {
-  "s": "xbecdebdf",
-  "t": "xc3ace4dd",
-  "k": "spouse",
-  "verdict": "unsure",
-  "why": "tidak disebut; turunan dari ayah (qila) + 'ibu' yang sebenarnya ibu Dhubara (leluhur)",
-  "rid": "Turath · data rawi: بشير بن معبد"
+  "why": "dua riwayat: utama dengan Jabr bin 'Atik; Tamim maula Khirash hanya versi al-Isti'ab",
+  "rid": "Turath · data rawi: خباب بن الأرت"
  },
  {
   "s": "n2289",
@@ -462,6 +446,86 @@
   "verdict": "unsure",
   "why": "tergantung identitas ayah (عمرو) yang diperselisihkan; teks hanya menyebut ibunya درمكة",
   "rid": "Turath · data rawi: الجارود"
+ },
+ {
+  "s": "xbecdebdf",
+  "t": "n959",
+  "k": "parent",
+  "verdict": "unsure",
+  "why": "riwayat utama: Busyair bin Ma'bad; 'bin Zaid bin Ma'bad' dan 'bin Syurahbil' hanya qila, saling bertentangan",
+  "rid": "Turath · data rawi: بشير بن معبد"
+ },
+ {
+  "s": "xc3ace4dd",
+  "t": "n959",
+  "k": "parent",
+  "verdict": "unsure",
+  "why": "al-Khashashiyyah disebut 'ummu Dhubara' (nenek moyang, bukan ibu langsung); nama Kabsyah vs Mawiyah binti Amr bin al-Harits ambigu",
+  "rid": "Turath · data rawi: بشير بن معبد"
+ },
+ {
+  "s": "xbecdebdf",
+  "t": "xc3ace4dd",
+  "k": "spouse",
+  "verdict": "unsure",
+  "why": "tidak disebut; turunan dari ayah (qila) + 'ibu' yang sebenarnya ibu Dhubara (leluhur)",
+  "rid": "Turath · data rawi: بشير بن معبد"
+ },
+ {
+  "s": "s714",
+  "t": "n1059",
+  "k": "parent",
+  "verdict": "unsure",
+  "why": "teks memberi tiga versi ayah yang saling bertentangan (وديعة / يزيد بن وديعة / زيد بن وديعة); nama utama ثابت بن وديعة",
+  "rid": "Turath · data rawi: ثابت بن وديعة"
+ },
+ {
+  "s": "s714",
+  "t": "xfdb807d4",
+  "k": "spouse",
+  "verdict": "unsure",
+  "why": "hanya tersirat jika Zaid memang ayahnya, padahal ayah diperselisihkan",
+  "rid": "Turath · data rawi: ثابت بن وديعة"
+ },
+ {
+  "s": "x77e55e86",
+  "t": "n1065",
+  "k": "parent",
+  "verdict": "unsure",
+  "why": "nama utama ثعلبة بن صعير; 'ابن عبد الله بن صعير' hanya salah satu dari beberapa versi bertentangan",
+  "rid": "Turath · data rawi: ثعلبة بن صعير"
+ },
+ {
+  "s": "x90a7f5c2",
+  "t": "n1196",
+  "k": "parent",
+  "verdict": "unsure",
+  "why": "nama utama حابس بن سعد; 'ربيعة بن المنذر بن سعد' sebagai ayah hanya versi ويقال yang bertentangan",
+  "rid": "Turath · data rawi: حابس بن سعد"
+ },
+ {
+  "s": "xba39fda7",
+  "t": "n1274",
+  "k": "parent",
+  "verdict": "unsure",
+  "why": "سلول بنت ذهل بن شيبان adalah ibu leluhur Bani Salul (eponim nisbah السلولي), bukan ibu kandung; 'وأمه' juga bisa merujuk ke Abdurrahman",
+  "rid": "Turath · data rawi: حبشي بن جنادة بن نصر"
+ },
+ {
+  "s": "x16ca0e7a",
+  "t": "xba39fda7",
+  "k": "spouse",
+  "verdict": "unsure",
+  "why": "bergantung pada relasi ibu yang meragukan (Salul = leluhur suku)",
+  "rid": "Turath · data rawi: حبشي بن جنادة بن نصر"
+ },
+ {
+  "s": "xdc399e0a",
+  "t": "n1338",
+  "k": "parent",
+  "verdict": "unsure",
+  "why": "nama utama حذيفة بن أسيد; 'أمية بن أسيد' sebagai ayah hanya versi ويقال yang bertentangan",
+  "rid": "Turath · data rawi: حذيفة بن أسيد"
  },
  {
   "s": "s698",
