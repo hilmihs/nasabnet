@@ -159,10 +159,33 @@ class Registry:
             self.p[hit]["mlat"] = lat
         return hit
 
+    def tribe_of(self, pid):
+        P = self.p[pid]
+        t_p = classify_tribe(P["nisba"])[0] if P.get("nisba") else None
+        if not t_p:
+            for _, l in P["chains"]:
+                t_p = tribe_from_chain([x["ar"] for x in l])
+                if t_p:
+                    break
+        return t_p
+
+    def compatible_tribe(self, pid, t_m):
+        t_p = self.tribe_of(pid)
+        if not t_p or t_p == t_m or "anshar" in (t_p, t_m):
+            return True
+        group = {t[0]: t[3] for t in TRIBES}
+        # non-Arab nisbas (الرومي، الفارسي) say where a man grew up, not his descent
+        if "ajam" in (group.get(t_p), group.get(t_m)):
+            return True
+        return group.get(t_p) == group.get(t_m)
+
     def _resolve(self, text, g=None, create=True, lat=None, src=None):
         if not text:
             return None
         t = expand_prophet(text).strip()
+        # "من بني سهم" / "امرأة من كلب": an unnamed person described only by tribe is not a person node
+        if re.match(r"^(?:من|امرأة\s+من|رجل\s+من|أم ولد)(?:\s|$)", t):
+            return None
         if norm(t) in ("محمد بن عبد الله بن عبد المطلب", "محمد"):
             return "nabi"
         al = self.alias.get(norm(t))
@@ -187,6 +210,12 @@ class Registry:
             # the Prophet's household is only matched on a full chain (k3) or an explicit "رسول الله",
             # never on a short namesake like "فاطمة بنت محمد" (wife of 'Abdullah bin Abi Bakr)
             c2 -= getattr(self, "protected", set())
+            # a mention whose own chain names its tribe never folds into a short-named record of another
+            # tribal group (كعب بن عمرو بن عبد العزى … النجار ≠ كعب بن عمرو اليامي of Hamdan)
+            if len(line) >= 2:
+                t_m = tribe_from_chain([l["ar"] for l in line])
+                if t_m:
+                    c2 = {x for x in c2 if self.compatible_tribe(x, t_m)}
             hit = self._pick(c2, g) if c2 else None
             if hit:
                 return hit
@@ -199,6 +228,11 @@ class Registry:
                 return self.register_narrator(self.pool_rows[nid], comp=False)
         if not create:
             return None
+        return self.stub(t, g, lat, src, ism, line)
+
+    def stub(self, t, g=None, lat=None, src=None, ism=None, line=None):
+        if ism is None:
+            ism, line = chain_of(t)
         # stable id from the normalised name, so corrections (data/corrections.json) survive rebuilds
         self.stub_n += 1
         h = hashlib.sha1(norm(t).encode()).hexdigest()[:8]
@@ -529,7 +563,15 @@ def main():
                 return None
             gg = m.get("g") if m.get("g") in ("m", "f") else gender
             return R.resolve(m["ar"], g=gg, lat=m.get("lat"), src=src)
-        fa = res(x.get("father"), "m")
+        # father and sons share the patrilineal tribe: a father mention that resolved to a narrator of another
+        # tribal group is a namesake (كعب بن عمرو father of Suraqah al-Najjari ≠ كعب بن عمرو اليامي)
+        t_self = R.tribe_of(pid)
+        def kin(m, gender):
+            hit = res(m, gender)
+            if hit and t_self and not hit.startswith("x") and not R.compatible_tribe(hit, t_self):
+                return R.stub(expand_prophet(m["ar"]).strip(), g=gender, lat=m.get("lat"), src=src)
+            return hit
+        fa = kin(x.get("father"), "m")
         mo = res(x.get("mother"), "f")
         R.edge(fa, pid, "parent", src)
         R.edge(mo, pid, "parent", src)

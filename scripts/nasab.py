@@ -182,7 +182,7 @@ TRIBES = [
     ("asad-k", "بنو أسد بن خزيمة", "Bani Asad bin Khuzaimah", "arab", "Kabilah Mudhar; kabilah Zainab binti Jahsy (sekutu Bani Umayyah).", ["الأسدي", "الأسدية"], False),
     ("thayyi", "طيء", "Thayyi'", "arab", "Kabilah Qahthan; kaum 'Adi bin Hatim.", ["الطائي", "الطائية"], False),
     ("kindah", "كندة", "Kindah", "arab", "Kabilah Yaman; kaum al-Asy'ats bin Qais.", ["الكندي", "الكندية", "السكوني"], False),
-    ("hamdan", "همدان", "Hamdan", "arab", "Kabilah besar Yaman.", ["الهمداني", "الهمدانية", "الخارفي"], False),
+    ("hamdan", "همدان", "Hamdan", "arab", "Kabilah besar Yaman.", ["الهمداني", "الهمدانية", "الخارفي", "اليامي", "اليامية"], False),
     ("sulaim", "بنو سليم", "Bani Sulaim", "arab", "Kabilah Qais 'Ailan.", ["السلمي", "السلمية", "البهزي"], False),
     ("hawazin", "هوازن", "Hawazin", "arab", "Kabilah Qais 'Ailan; termasuk Bani 'Amir bin Sha'sha'ah, Hilal, Sa'd bin Bakr (kaum Halimah).", ["الهوازني", "العامري", "العامرية", "الهلالي", "الهلالية", "الكلابي", "القشيري", "الجعدي", "السلولي", "السعدية"], False),
     ("abdulqais", "عبد القيس", "Abdul Qais", "arab", "Kabilah Rabi'ah di Bahrain.", ["العبدي", "العبدية"], False),

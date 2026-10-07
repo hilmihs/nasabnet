@@ -1,5 +1,77 @@
 [
  {
+  "s": "x2f18216d",
+  "t": "s611",
+  "k": "parent",
+  "verdict": "unsure",
+  "why": "ibu (أم أبي ضياح) hanya menurut riwayat Ibn Umarah yang menasabkannya Abu Hannah bin Tsabit bin an-Nu'man, bertentangan dengan nasab node (bin Amr bin Tsabit)",
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/479"
+ },
+ {
+  "s": "s611",
+  "t": "x4fa916df",
+  "k": "sibling",
+  "verdict": "unsure",
+  "why": "saudara Abu Dhiyah hanya menurut riwayat Ibn Umarah (nasab berbeda: bin Tsabit bin an-Nu'man), bertentangan dengan versi al-Waqidi",
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/479"
+ },
+ {
+  "s": "xec1bf978",
+  "t": "x691f5540",
+  "k": "parent",
+  "verdict": "unsure",
+  "why": "teks hanya: ibunya dari Bani Abdullah bin Ghathafan; node adalah nama kabilah, bukan orang",
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/487"
+ },
+ {
+  "s": "xc74ad07d",
+  "t": "xa1d834ef",
+  "k": "parent",
+  "verdict": "unsure",
+  "why": "teks hanya: ibunya dari Bani Jud'; node adalah nama kabilah, bukan orang",
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/487"
+ },
+ {
+  "s": "x857e6b63",
+  "t": "xfe6973d5",
+  "k": "parent",
+  "verdict": "unsure",
+  "why": "teks hanya: ibunya dari Bani Sahm; node adalah nama kabilah, bukan orang",
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/493"
+ },
+ {
+  "s": "x3f636523",
+  "t": "n6699",
+  "k": "parent",
+  "verdict": "unsure",
+  "why": "teks hanya: ibunya dari Bahra'; node adalah nama kabilah, bukan orang",
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/512"
+ },
+ {
+  "s": "s662",
+  "t": "x3f636523",
+  "k": "spouse",
+  "verdict": "unsure",
+  "why": "istri tak bernama (dari Bahra'); node adalah nama kabilah, bukan orang",
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/512"
+ },
+ {
+  "s": "x7a7aa905",
+  "t": "xbada92a6",
+  "k": "parent",
+  "verdict": "unsure",
+  "why": "teks hanya: ibunya dari Kalb; node adalah nama kabilah, bukan orang",
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/518"
+ },
+ {
+  "s": "n8834",
+  "t": "x7a7aa905",
+  "k": "spouse",
+  "verdict": "unsure",
+  "why": "istri tak bernama (dari Kalb); node adalah nama kabilah, bukan orang",
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/518"
+ },
+ {
   "s": "n2289",
   "t": "s4290",
   "k": "spouse",

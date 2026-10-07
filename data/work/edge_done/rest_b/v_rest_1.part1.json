@@ -1,0 +1,20 @@
+[
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/479", "ok": 1, "issues": [
+  {"s": "x2f18216d", "t": "s611", "k": "parent", "verdict": "unsure", "why": "ibu (أم أبي ضياح) hanya menurut riwayat Ibn Umarah yang menasabkannya Abu Hannah bin Tsabit bin an-Nu'man, bertentangan dengan nasab node (bin Amr bin Tsabit)"},
+  {"s": "s611", "t": "x4fa916df", "k": "sibling", "verdict": "unsure", "why": "saudara Abu Dhiyah hanya menurut riwayat Ibn Umarah (nasab berbeda: bin Tsabit bin an-Nu'man), bertentangan dengan versi al-Waqidi"}
+]},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/481", "ok": 8, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/482", "ok": 3, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/483", "ok": 2, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/484", "ok": 6, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/486", "ok": 12, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/487", "ok": 13, "issues": [
+  {"s": "n5309", "t": "s625", "k": "parent", "verdict": "wrong", "why": "orang salah: ayah Suraqah adalah Ka'b bin Amr bin Abdul Uzza dari Bani an-Najjar, node n5309 adalah Ka'b bin Amr dari Yam (Hamdan)"},
+  {"s": "n5309", "t": "x67169be9", "k": "spouse", "verdict": "wrong", "why": "orang salah: suami Umairah adalah Ka'b bin Amr an-Najjari, bukan Ka'b bin Amr dari Yam (n5309)"},
+  {"s": "xec1bf978", "t": "x691f5540", "k": "parent", "verdict": "unsure", "why": "teks hanya: ibunya dari Bani Abdullah bin Ghathafan; node adalah nama kabilah, bukan orang"},
+  {"s": "xc74ad07d", "t": "xa1d834ef", "k": "parent", "verdict": "unsure", "why": "teks hanya: ibunya dari Bani Jud'; node adalah nama kabilah, bukan orang"}
+]},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/489", "ok": 8, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/49", "ok": 1, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/490", "ok": 11, "issues": []}
+]

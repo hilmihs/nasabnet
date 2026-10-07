@@ -2640,5 +2640,77 @@
   "rule": "EV",
   "fid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/479",
   "why": "orang salah: s436 = Malik bin Amr as-Sulami (3/97); persaudaraan dengan Abu Dhiyah hanya versi Ibnu Umarah untuk Abu Hannah bin Tsabit"
+ },
+ {
+  "op": "drop_edge",
+  "s": "n5309",
+  "t": "s625",
+  "k": "parent",
+  "rule": "EV",
+  "fid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/487",
+  "why": "orang salah: ayah Suraqah adalah Ka'b bin Amr bin Abdul Uzza dari Bani an-Najjar, node n5309 adalah Ka'b bin Amr dari Yam (Hamdan)"
+ },
+ {
+  "op": "drop_edge",
+  "s": "n5309",
+  "t": "x67169be9",
+  "k": "spouse",
+  "rule": "EV",
+  "fid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/487",
+  "why": "orang salah: suami Umairah adalah Ka'b bin Amr an-Najjari, bukan Ka'b bin Amr dari Yam (n5309)"
+ },
+ {
+  "op": "drop_edge",
+  "s": "n6204",
+  "t": "x5be8194c",
+  "k": "spouse",
+  "rule": "EV",
+  "fid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/502",
+  "why": "orang salah: suami Ummu Unas adalah Mu'adz bin Anas bin Qais an-Najjari (ayah Anas), node n6204 adalah Mu'adz bin Anas al-Juhani (ayah Sahl)"
+ },
+ {
+  "op": "drop_edge",
+  "s": "n5309",
+  "t": "s672",
+  "k": "parent",
+  "rule": "EV",
+  "fid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/518",
+  "why": "orang salah: ayah Abdullah adalah Ka'b bin Amr bin Auf bin Mabdzul (Bani Mazin), node n5309 adalah Ka'b bin Amr dari Yam (Hamdan)"
+ },
+ {
+  "op": "drop_edge",
+  "s": "n5309",
+  "t": "x0b022a4d",
+  "k": "spouse",
+  "rule": "EV",
+  "fid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/518",
+  "why": "orang salah: suami Rabab adalah Ka'b bin Amr al-Mazini, bukan Ka'b bin Amr dari Yam (n5309)"
+ },
+ {
+  "op": "drop_edge",
+  "s": "n5309",
+  "t": "n5207",
+  "k": "parent",
+  "why": "Ka'b bin 'Amr al-Yami (Hamdan) adalah perawi lain yang bernama sama; ayah Qurazhah bin Ka'b al-Anshari adalah Ka'b bin 'Amr bin Ka'b bin Tsa'labah (Khazraj)",
+  "rule": "M",
+  "fid": "manual-68"
+ },
+ {
+  "op": "drop_edge",
+  "s": "n5309",
+  "t": "s4648",
+  "k": "spouse",
+  "why": "Ka'b bin 'Amr al-Yami (Hamdan) adalah perawi lain yang bernama sama; suami Khulaidah binti Tsabit (Ibnu Sa'd 8/369) orang Anshar",
+  "rule": "M",
+  "fid": "manual-69"
+ },
+ {
+  "op": "drop_edge",
+  "s": "x392ff4d5",
+  "t": "n5309",
+  "k": "parent",
+  "why": "'Amr bin Kab bin Hujair' adalah versi lain nama Ka'b bin 'Amr al-Yami sendiri, bukan ayahnya",
+  "rule": "M",
+  "fid": "manual-70"
  }
 ]

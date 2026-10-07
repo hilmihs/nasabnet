@@ -1,0 +1,16 @@
+[
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/491", "ok": 11, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/492", "ok": 4, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/493", "ok": 1, "issues": [
+  {"s": "x857e6b63", "t": "xfe6973d5", "k": "parent", "verdict": "unsure", "why": "teks hanya: ibunya dari Bani Sahm; node adalah nama kabilah, bukan orang"}
+]},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/494", "ok": 10, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/495", "ok": 5, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/496", "ok": 2, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/497", "ok": 2, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/498", "ok": 3, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/50", "ok": 1, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/502", "ok": 2, "issues": [
+  {"s": "n6204", "t": "x5be8194c", "k": "spouse", "verdict": "wrong", "why": "orang salah: suami Ummu Unas adalah Mu'adz bin Anas bin Qais an-Najjari (ayah Anas), node n6204 adalah Mu'adz bin Anas al-Juhani (ayah Sahl)"}
+]}
+]
