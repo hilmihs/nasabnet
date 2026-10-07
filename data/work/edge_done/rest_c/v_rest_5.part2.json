@@ -1,0 +1,14 @@
+[
+{"rid": "Turath · data rawi: عبد الله بن غنام البياضي [rawi 3841]", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: عبد الله بن فضالة الليثي [rawi 3845]", "ok": 2, "issues": []},
+{"rid": "Turath · data rawi: عبد الله بن قرط [rawi 3852]", "ok": 2, "issues": []},
+{"rid": "Turath · data rawi: عبد الله بن قيس أبو موسى الأشعري [rawi 3856]", "ok": 5, "issues": [
+  {"s": "n3856", "t": "s4545", "k": "spouse", "verdict": "wrong", "why": "teks hanya 'وامرأته أم عبد الله'; tidak menyebut Salma binti Aslam bin Huraisy"}
+]},
+{"rid": "Turath · data rawi: عبد الله بن مالك بن سعد بن القشب [rawi 3874]", "ok": 4, "issues": []},
+{"rid": "Turath · data rawi: عبد الله بن مطيع بن الأسود [rawi 3923]", "ok": 10, "issues": []},
+{"rid": "Turath · data rawi: عبد الله بن معاوية [rawi 3927]", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: عبد الله بن مغفل المزني [rawi 3935]", "ok": 4, "issues": []},
+{"rid": "Turath · data rawi: عبد الله بن هانئ [rawi 4141]", "ok": 2, "issues": []},
+{"rid": "Turath · data rawi: عبد الله بن هشام القرشي التيمي [rawi 3964]", "ok": 3, "issues": []}
+]

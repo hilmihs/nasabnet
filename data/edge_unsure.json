@@ -1,19 +1,11 @@
 [
  {
-  "s": "xb05ef763",
-  "t": "n7263",
+  "s": "n4554",
+  "t": "xce5bd6c1",
   "k": "parent",
   "verdict": "unsure",
-  "why": "dua riwayat bertentangan: Khalifah menyebut ibunya عميرة بنت جدعان, Ibnu Sa'd menyebut هند بنت عمير بن جدعان",
-  "rid": "Turath · data rawi: عبد الرحمن بن عثمان التيمي [rawi 7263]"
- },
- {
-  "s": "n15325",
-  "t": "xb05ef763",
-  "k": "spouse",
-  "verdict": "unsure",
-  "why": "bergantung pada riwayat ibu yang diperselisihkan (عميرة vs هند بنت عمير بن جدعان)",
-  "rid": "Turath · data rawi: عبد الرحمن بن عثمان التيمي [rawi 7263]"
+  "why": "teks hanya dugaan Ibnu Abdil Barr 'أظنه والد طلق بن علي'",
+  "rid": "Turath · data rawi: علي بن طلق الحنفي [rawi 4554]"
  },
  {
   "s": "n2289",
@@ -886,5 +878,21 @@
   "verdict": "unsure",
   "why": "teks: ayah = عمرو بن هلال (Muzani); node berlabel 'الكناني' — mungkin tertaut ke orang lain bernama sama",
   "rid": "Turath · data rawi: عائذ بن عمرو بن هلال [rawi 3021]"
+ },
+ {
+  "s": "xb05ef763",
+  "t": "n7263",
+  "k": "parent",
+  "verdict": "unsure",
+  "why": "dua riwayat bertentangan: Khalifah menyebut ibunya عميرة بنت جدعان, Ibnu Sa'd menyebut هند بنت عمير بن جدعان",
+  "rid": "Turath · data rawi: عبد الرحمن بن عثمان التيمي [rawi 7263]"
+ },
+ {
+  "s": "n15325",
+  "t": "xb05ef763",
+  "k": "spouse",
+  "verdict": "unsure",
+  "why": "bergantung pada riwayat ibu yang diperselisihkan (عميرة vs هند بنت عمير بن جدعان)",
+  "rid": "Turath · data rawi: عبد الرحمن بن عثمان التيمي [rawi 7263]"
  }
 ]

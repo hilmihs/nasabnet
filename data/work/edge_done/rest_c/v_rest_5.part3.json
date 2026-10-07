@@ -1,0 +1,17 @@
+[
+{"rid": "Turath · data rawi: عبد الله بن هلال بن عبد الله بن همام [rawi 3965]", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: عبد الله بن وديعة بن خدام [rawi 3970]", "ok": 2, "issues": []},
+{"rid": "Turath · data rawi: عبد الله بن يزيد الخطمي الأنصاري [rawi 3988]", "ok": 2, "issues": []},
+{"rid": "Turath · data rawi: عبدة بن حزن [rawi 8529]", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: عبيد الله بن العباس بن عبد المطلب بن هاشم [rawi 4174]", "ok": 0, "issues": [
+  {"s": "xdfdaf0c7", "t": "xa35296e2", "k": "parent", "verdict": "wrong", "why": "teks hanya 'عائشة بنت عبد الله' (tanpa 'بن عمر'); resolusi ke putri Ibnu Umar adalah orang lain (namesake)"},
+  {"s": "xdfdaf0c7", "t": "x8aef12e8", "k": "parent", "verdict": "wrong", "why": "teks hanya 'عائشة بنت عبد الله' (tanpa 'بن عمر'); resolusi ke putri Ibnu Umar adalah orang lain (namesake)"},
+  {"s": "xdfdaf0c7", "t": "xe1c9d3ed", "k": "parent", "verdict": "wrong", "why": "teks hanya 'عائشة بنت عبد الله' (tanpa 'بن عمر'); resolusi ke putri Ibnu Umar adalah orang lain (namesake)"},
+  {"s": "xdfdaf0c7", "t": "x72b715fc", "k": "parent", "verdict": "wrong", "why": "teks hanya 'عائشة بنت عبد الله' (tanpa 'بن عمر'); resolusi ke putri Ibnu Umar adalah orang lain (namesake)"}
+]},
+{"rid": "Turath · data rawi: عبيد الله بن مسلم [rawi 4205]", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: عبيد بن جبر [rawi 4112]", "ok": 2, "issues": []},
+{"rid": "Turath · data rawi: عبيد بن خالد [rawi 4117]", "ok": 2, "issues": []},
+{"rid": "Turath · data rawi: عبيد بن خالد [rawi 9088]", "ok": 2, "issues": []},
+{"rid": "Turath · data rawi: عبيد بن معاذ [rawi 9093]", "ok": 1, "issues": []}
+]

@@ -4468,5 +4468,110 @@
   "rule": "EV",
   "fid": "Turath · data rawi: عبد الله بن الحارث [rawi 7271]",
   "why": "orang salah: node generik 'الحارث' n9886 juga dipakai sebagai ayah مسلم بن الحارث التميمي dan غرفة بن الحارث الكندي; ayah عبد الله الباهلي adalah orang lain"
+ },
+ {
+  "op": "merge",
+  "keep": "n4117",
+  "drop": "n9088",
+  "why": "'Ubaid bin Khalid al-Muharibi tercatat dua kali (data rawi 4117 & 9088, keduanya menyebut keponakannya Ruhm binti al-Aswad)",
+  "rule": "M",
+  "fid": "manual-129"
+ },
+ {
+  "op": "merge",
+  "keep": "xef465afa4",
+  "drop": "xef465afa5",
+  "why": "'Ubaid bin Khalid al-Muharibi tercatat dua kali (data rawi 4117 & 9088, keduanya menyebut keponakannya Ruhm binti al-Aswad)",
+  "rule": "M",
+  "fid": "manual-130"
+ },
+ {
+  "op": "merge",
+  "keep": "xd2286950",
+  "drop": "xa7734a31",
+  "why": "'Ubaid bin Khalid al-Muharibi tercatat dua kali (data rawi 4117 & 9088, keduanya menyebut keponakannya Ruhm binti al-Aswad)",
+  "rule": "M",
+  "fid": "manual-131"
+ },
+ {
+  "op": "drop_edge",
+  "s": "n3856",
+  "t": "s4545",
+  "k": "spouse",
+  "rule": "EV",
+  "fid": "Turath · data rawi: عبد الله بن قيس أبو موسى الأشعري [rawi 3856]",
+  "why": "teks hanya 'وامرأته أم عبد الله'; tidak menyebut Salma binti Aslam bin Huraisy"
+ },
+ {
+  "op": "drop_edge",
+  "s": "xdfdaf0c7",
+  "t": "xa35296e2",
+  "k": "parent",
+  "rule": "EV",
+  "fid": "Turath · data rawi: عبيد الله بن العباس بن عبد المطلب بن هاشم [rawi 4174]",
+  "why": "teks hanya 'عائشة بنت عبد الله' (tanpa 'بن عمر'); resolusi ke putri Ibnu Umar adalah orang lain (namesake)"
+ },
+ {
+  "op": "drop_edge",
+  "s": "xdfdaf0c7",
+  "t": "x8aef12e8",
+  "k": "parent",
+  "rule": "EV",
+  "fid": "Turath · data rawi: عبيد الله بن العباس بن عبد المطلب بن هاشم [rawi 4174]",
+  "why": "teks hanya 'عائشة بنت عبد الله' (tanpa 'بن عمر'); resolusi ke putri Ibnu Umar adalah orang lain (namesake)"
+ },
+ {
+  "op": "drop_edge",
+  "s": "xdfdaf0c7",
+  "t": "xe1c9d3ed",
+  "k": "parent",
+  "rule": "EV",
+  "fid": "Turath · data rawi: عبيد الله بن العباس بن عبد المطلب بن هاشم [rawi 4174]",
+  "why": "teks hanya 'عائشة بنت عبد الله' (tanpa 'بن عمر'); resolusi ke putri Ibnu Umar adalah orang lain (namesake)"
+ },
+ {
+  "op": "drop_edge",
+  "s": "xdfdaf0c7",
+  "t": "x72b715fc",
+  "k": "parent",
+  "rule": "EV",
+  "fid": "Turath · data rawi: عبيد الله بن العباس بن عبد المطلب بن هاشم [rawi 4174]",
+  "why": "teks hanya 'عائشة بنت عبد الله' (tanpa 'بن عمر'); resolusi ke putri Ibnu Umar adalah orang lain (namesake)"
+ },
+ {
+  "op": "drop_edge",
+  "s": "n4248",
+  "t": "xc68209672",
+  "k": "sibling",
+  "rule": "EV",
+  "fid": "Turath · data rawi: عتبة بن غزوان السلمي [rawi 4248]",
+  "why": "teks: 'أخي سليم' = saudara (anggota) suku Bani Sulaim, bukan orang bernama Sulaim"
+ },
+ {
+  "op": "drop_edge",
+  "s": "n4363",
+  "t": "x2aaf80f4",
+  "k": "sibling",
+  "rule": "EV",
+  "fid": "Turath · data rawi: عروة بن عامر [rawi 4363]",
+  "why": "orang lain: node adalah Abdurrahman bin Amir bin an-Nu'man (Anshar, Bani Waqif); teks: saudara dari Bani Amir bin Lu'ayy"
+ },
+ {
+  "op": "drop_edge",
+  "s": "s4545",
+  "t": "n4404",
+  "k": "parent",
+  "rule": "EV",
+  "fid": "Turath · data rawi: عطية بن بسر [rawi 4404]",
+  "why": "orang lain: teks hanya 'أم عبد الله'; node s4545 = Salma binti Aslam (Anshar, Bani Haritsah, istri Nuhaik bin Asaf)"
+ },
+ {
+  "op": "drop_edge",
+  "s": "s4545",
+  "t": "xc4b2db532",
+  "k": "spouse",
+  "rule": "EV",
+  "fid": "Turath · data rawi: عطية بن بسر [rawi 4404]",
+  "why": "orang lain: Salma binti Aslam bukan istri Busr; teks tak menyebut nama ibu"
  }
 ]

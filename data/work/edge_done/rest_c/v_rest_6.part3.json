@@ -1,0 +1,60 @@
+[
+ {
+  "rid": "Turath · data rawi: عقبة بن أوس [rawi 4420]",
+  "ok": 1,
+  "issues": []
+ },
+ {
+  "rid": "Turath · data rawi: عقبة بن الحارث بن عامر [rawi 4422]",
+  "ok": 4,
+  "issues": []
+ },
+ {
+  "rid": "Turath · data rawi: عقبة بن عمرو الأنصاري [rawi 4435]",
+  "ok": 4,
+  "issues": []
+ },
+ {
+  "rid": "Turath · data rawi: عقبة بن مالك [rawi 4437]",
+  "ok": 1,
+  "issues": []
+ },
+ {
+  "rid": "Turath · data rawi: عكراش بن ذؤيب [rawi 4452]",
+  "ok": 2,
+  "issues": []
+ },
+ {
+  "rid": "Turath · data rawi: عكرمة بن أبي جهل [rawi 4453]",
+  "ok": 3,
+  "issues": []
+ },
+ {
+  "rid": "Turath · data rawi: علاقة بن صحار [rawi 4484]",
+  "ok": 1,
+  "issues": []
+ },
+ {
+  "rid": "Turath · data rawi: علي بن شيبان [rawi 4551]",
+  "ok": 2,
+  "issues": []
+ },
+ {
+  "rid": "Turath · data rawi: علي بن طلق الحنفي [rawi 4554]",
+  "ok": 1,
+  "issues": [
+   {
+    "s": "n4554",
+    "t": "xce5bd6c1",
+    "k": "parent",
+    "verdict": "unsure",
+    "why": "teks hanya dugaan Ibnu Abdil Barr 'أظنه والد طلق بن علي'"
+   }
+  ]
+ },
+ {
+  "rid": "Turath · data rawi: عمار بن معاذ بن زرارة [rawi 4619]",
+  "ok": 7,
+  "issues": []
+ }
+]

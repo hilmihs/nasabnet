@@ -193,6 +193,8 @@ class Registry:
         # name (سفينة، بريرة) still match as spouses, children or clients
         al = self.alias.get(norm(t)) if single or " " in norm(t) else None
         if al:
+            al = al - getattr(self, "strict", set())
+        if al:
             hit = self._pick(al, g)
             if hit:
                 return hit

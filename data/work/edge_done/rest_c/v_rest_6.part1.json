@@ -1,0 +1,60 @@
+[
+ {
+  "rid": "Turath · data rawi: عتبة بن غزوان السلمي [rawi 4248]",
+  "ok": 0,
+  "issues": [
+   {
+    "s": "n4248",
+    "t": "xc68209672",
+    "k": "sibling",
+    "verdict": "wrong",
+    "why": "teks: 'أخي سليم' = saudara (anggota) suku Bani Sulaim, bukan orang bernama Sulaim"
+   }
+  ]
+ },
+ {
+  "rid": "Turath · data rawi: عتبة بن فرقد السلمي [rawi 4249]",
+  "ok": 2,
+  "issues": []
+ },
+ {
+  "rid": "Turath · data rawi: عثمان بن أبي العاص الثقفي [rawi 4258]",
+  "ok": 5,
+  "issues": []
+ },
+ {
+  "rid": "Turath · data rawi: عثمان بن حنيف بن وهب بن العكيم [rawi 4275]",
+  "ok": 2,
+  "issues": []
+ },
+ {
+  "rid": "Turath · data rawi: عثمان بن طلحة بن أبي طلحة [rawi 4289]",
+  "ok": 3,
+  "issues": []
+ },
+ {
+  "rid": "Turath · data rawi: عجير بن عبد يزيد بن هاشم بن المطلب بن عبد مناف [rawi 4338]",
+  "ok": 7,
+  "issues": []
+ },
+ {
+  "rid": "Turath · data rawi: عدي بن حاتم الطائي [rawi 4341]",
+  "ok": 1,
+  "issues": []
+ },
+ {
+  "rid": "Turath · data rawi: عدي بن زيد [rawi 4343]",
+  "ok": 1,
+  "issues": []
+ },
+ {
+  "rid": "Turath · data rawi: عدي بن عميرة [rawi 4346]",
+  "ok": 5,
+  "issues": []
+ },
+ {
+  "rid": "Turath · data rawi: عرباض بن سارية [rawi 4350]",
+  "ok": 2,
+  "issues": []
+ }
+]

@@ -1,0 +1,75 @@
+[
+ {
+  "rid": "Turath · data rawi: عرفجة بن أسعد بن كريب [rawi 4353]",
+  "ok": 2,
+  "issues": []
+ },
+ {
+  "rid": "Turath · data rawi: عرفجة بن شريح [rawi 7253]",
+  "ok": 1,
+  "issues": []
+ },
+ {
+  "rid": "Turath · data rawi: عروة بن الجعد [rawi 4358]",
+  "ok": 1,
+  "issues": []
+ },
+ {
+  "rid": "Turath · data rawi: عروة بن عامر [rawi 4363]",
+  "ok": 2,
+  "issues": [
+   {
+    "s": "n4363",
+    "t": "x2aaf80f4",
+    "k": "sibling",
+    "verdict": "wrong",
+    "why": "orang lain: node adalah Abdurrahman bin Amir bin an-Nu'man (Anshar, Bani Waqif); teks: saudara dari Bani Amir bin Lu'ayy"
+   }
+  ]
+ },
+ {
+  "rid": "Turath · data rawi: عروة بن مضرس بن أوس بن حارثة بن لام [rawi 4367]",
+  "ok": 1,
+  "issues": []
+ },
+ {
+  "rid": "Turath · data rawi: عصام [rawi 4376]",
+  "ok": 2,
+  "issues": []
+ },
+ {
+  "rid": "Turath · data rawi: عصمة بن مالك [rawi 10534]",
+  "ok": 1,
+  "issues": []
+ },
+ {
+  "rid": "Turath · data rawi: عطية بن بسر [rawi 4404]",
+  "ok": 2,
+  "issues": [
+   {
+    "s": "s4545",
+    "t": "n4404",
+    "k": "parent",
+    "verdict": "wrong",
+    "why": "orang lain: teks hanya 'أم عبد الله'; node s4545 = Salma binti Aslam (Anshar, Bani Haritsah, istri Nuhaik bin Asaf)"
+   },
+   {
+    "s": "s4545",
+    "t": "xc4b2db532",
+    "k": "spouse",
+    "verdict": "wrong",
+    "why": "orang lain: Salma binti Aslam bukan istri Busr; teks tak menyebut nama ibu"
+   }
+  ]
+ },
+ {
+  "rid": "Turath · data rawi: عطية بن عروة [rawi 4409]",
+  "ok": 2,
+  "issues": []
+ },
+ {
+  "rid": "Turath · data rawi: عفيف [rawi 9270]",
+  "ok": 3,
+  "issues": []
+ }
+]
