@@ -1,0 +1,75 @@
+[
+ {
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/100",
+  "ok": 9,
+  "issues": []
+ },
+ {
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/169",
+  "ok": 2,
+  "issues": []
+ },
+ {
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/239",
+  "ok": 1,
+  "issues": []
+ },
+ {
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/581",
+  "ok": 1,
+  "issues": []
+ },
+ {
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/613",
+  "ok": 1,
+  "issues": []
+ },
+ {
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/102",
+  "ok": 1,
+  "issues": []
+ },
+ {
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/48",
+  "ok": 0,
+  "issues": [
+   {
+    "s": "n15383",
+    "t": "s862",
+    "k": "sibling",
+    "verdict": "unsure",
+    "why": "benar (saudara seayah, sama-sama putra al-Harits bin Abdul Muththalib), disebut di entri lain (Ibnu Sa'd jilid 4, entri Naufal)"
+   },
+   {
+    "s": "n1969",
+    "t": "s862",
+    "k": "sibling",
+    "verdict": "unsure",
+    "why": "benar (saudara seayah), disebut di entri lain (Ibnu Sa'd jilid 4, entri Rabi'ah bin al-Harits)"
+   }
+  ]
+ },
+ {
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/49",
+  "ok": 0,
+  "issues": [
+   {
+    "s": "n15137",
+    "t": "s862",
+    "k": "sibling",
+    "verdict": "unsure",
+    "why": "benar (Abu Sufyan/al-Mughirah dan Abdullah sama-sama anak al-Harits dari Ghaziyyah binti Qais), disebut di entri lain (4/48)"
+   }
+  ]
+ },
+ {
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/115",
+  "ok": 2,
+  "issues": []
+ },
+ {
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/247",
+  "ok": 1,
+  "issues": []
+ }
+]

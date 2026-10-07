@@ -4746,5 +4746,46 @@
   "rule": "EV",
   "fid": "Turath · data rawi: يزيد بن سلمة الجعفي [rawi 7075]",
   "why": "teks: 'وقيل: سلمة بن يزيد' = nama lain orang yang sama (nama terbalik), bukan ayahnya"
+ },
+ {
+  "op": "merge",
+  "keep": "n841",
+  "drop": "s1087",
+  "why": "Abu Umamah Iyas bin Tsa'labah al-Balawi tercatat dua kali (Ibnu Sa'd 4/355 & data rawi)",
+  "rule": "M",
+  "fid": "manual-139"
+ },
+ {
+  "op": "merge",
+  "keep": "x4f8f72ab2",
+  "drop": "x4f8f72ab",
+  "why": "Abu Umamah Iyas bin Tsa'labah al-Balawi tercatat dua kali (Ibnu Sa'd 4/355 & data rawi)",
+  "rule": "M",
+  "fid": "manual-140"
+ },
+ {
+  "op": "merge",
+  "keep": "s933",
+  "drop": "xf2f16e08",
+  "why": "'Abdullah bin al-Harits bin Qais as-Sahmi, saudara as-Sa'ib & al-Hajjaj (Ibnu Sa'd 4/195–196)",
+  "rule": "M",
+  "fid": "manual-141"
+ },
+ {
+  "op": "merge",
+  "keep": "s933",
+  "drop": "xf2f16e082",
+  "why": "'Abdullah bin al-Harits bin Qais as-Sahmi, saudara as-Sa'ib & al-Hajjaj (Ibnu Sa'd 4/195–196)",
+  "rule": "M",
+  "fid": "manual-142"
+ },
+ {
+  "op": "drop_edge",
+  "s": "n15526",
+  "t": "s4402",
+  "k": "spouse",
+  "rule": "EV",
+  "fid": "Turath · data rawi: المسور بن مخرمة بن نوفل الزهري [rawi 6155]",
+  "why": "salah orang: teks menyebut ibu al-Miswar 'asy-Syifa' binti Auf saudari Abdurrahman bin Auf' (= Atikah binti Auf bin Abdi Auf s4401, Ibnu Sa'd 8/247); s4402 adalah asy-Syifa' binti Auf bin Abd, IBU Abdurrahman"
  }
 ]

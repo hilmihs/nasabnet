@@ -1,0 +1,60 @@
+[
+ {
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/249",
+  "ok": 1,
+  "issues": []
+ },
+ {
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/359",
+  "ok": 2,
+  "issues": []
+ },
+ {
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/406",
+  "ok": 1,
+  "issues": []
+ },
+ {
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/412",
+  "ok": 2,
+  "issues": []
+ },
+ {
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/43",
+  "ok": 1,
+  "issues": [
+   {
+    "s": "m-quraibah-kubra",
+    "t": "n3659",
+    "k": "parent",
+    "verdict": "unsure",
+    "why": "benar, disebut di entri lain (entri Abdullah bin Zam'ah); teks ini tidak menyebut Zam'ah atau anaknya"
+   }
+  ]
+ },
+ {
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/46",
+  "ok": 2,
+  "issues": []
+ },
+ {
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/51",
+  "ok": 1,
+  "issues": []
+ },
+ {
+  "rid": "Turath · data rawi: أسماء بنت أبي بكر [rawi 622]",
+  "ok": 2,
+  "issues": []
+ },
+ {
+  "rid": "Turath · data rawi: المطلب بن ربيعة بن الحارث بن عبد المطلب [rawi 4003]",
+  "ok": 1,
+  "issues": []
+ },
+ {
+  "rid": "Turath · data rawi: الوليد بن عقبة بن أبي معيط [rawi 6820]",
+  "ok": 2,
+  "issues": []
+ }
+]

@@ -1,27 +1,187 @@
 [
  {
-  "s": "x4e21d270",
-  "t": "n6765",
-  "k": "parent",
+  "s": "n15383",
+  "t": "s862",
+  "k": "sibling",
   "verdict": "unsure",
-  "why": "teks hanya 'أروى بنت ربيعة' tanpa الكبرى/الصغرى (ada dua Arwa); Ibnu Hibban: ibunya Hind",
-  "rid": "Turath · data rawi: واسع بن حبان [rawi 6765]"
+  "why": "benar (saudara seayah, sama-sama putra al-Harits bin Abdul Muththalib), disebut di entri lain (Ibnu Sa'd jilid 4, entri Naufal)",
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/48"
  },
  {
-  "s": "n16037",
-  "t": "x4e21d270",
+  "s": "n1969",
+  "t": "s862",
+  "k": "sibling",
+  "verdict": "unsure",
+  "why": "benar (saudara seayah), disebut di entri lain (Ibnu Sa'd jilid 4, entri Rabi'ah bin al-Harits)",
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/48"
+ },
+ {
+  "s": "n15137",
+  "t": "s862",
+  "k": "sibling",
+  "verdict": "unsure",
+  "why": "benar (Abu Sufyan/al-Mughirah dan Abdullah sama-sama anak al-Harits dari Ghaziyyah binti Qais), disebut di entri lain (4/48)",
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/49"
+ },
+ {
+  "s": "m-quraibah-kubra",
+  "t": "n3659",
+  "k": "parent",
+  "verdict": "unsure",
+  "why": "benar, disebut di entri lain (entri Abdullah bin Zam'ah); teks ini tidak menyebut Zam'ah atau anaknya",
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/43"
+ },
+ {
+  "s": "x15ec257a3",
+  "t": "n5370",
+  "k": "parent",
+  "verdict": "unsure",
+  "why": "ayah dari nasab 'مالك بن ربيعة', tapi node hanya 'ربيعة' tanpa nasab (berisiko tergabung dengan Rabi'ah lain)",
+  "rid": "Turath · data rawi: مالك بن ربيعة [rawi 5370]"
+ },
+ {
+  "s": "s935",
+  "t": "xf2f16e082",
+  "k": "sibling",
+  "verdict": "unsure",
+  "why": "benar (sama ayah al-Harits bin Qais & ibu Ummul Hajjaj), disebut di entri lain (4/195); node juga terpisah dari xf2f16e08",
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/196"
+ },
+ {
+  "s": "x986fd1f9",
+  "t": "s1023",
+  "k": "parent",
+  "verdict": "unsure",
+  "why": "node ayah hanya 'الأكوع' tanpa nasab (tak teridentifikasi; relasi sendiri tersirat dari nama)",
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/308"
+ },
+ {
+  "s": "x4f8f72ab",
+  "t": "s1087",
+  "k": "parent",
+  "verdict": "unsure",
+  "why": "node ayah hanya 'ثعلبة' tanpa nasab (tak teridentifikasi; relasi sendiri tersirat dari nama)",
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/355"
+ },
+ {
+  "s": "xce3d6ff7",
+  "t": "s4462",
+  "k": "parent",
+  "verdict": "unsure",
+  "why": "hanya kunya 'أم عبد الله' tanpa nasab; node generik tak teridentifikasi",
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/297"
+ },
+ {
+  "s": "xce3d6ff7",
+  "t": "xe7c68fa6",
   "k": "spouse",
   "verdict": "unsure",
-  "why": "teks hanya 'أروى بنت ربيعة' tanpa الكبرى/الصغرى (ada dua Arwa); Ibnu Hibban: Hind",
-  "rid": "Turath · data rawi: واسع بن حبان [rawi 6765]"
+  "why": "hanya kunya 'أم عبد الله' tanpa nasab; node generik tak teridentifikasi; istri tersirat sebagai ibu Umaimah",
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/297"
  },
  {
-  "s": "n7147",
-  "t": "x62a96994",
+  "s": "x42bdb2ca",
+  "t": "s4902",
   "k": "parent",
   "verdict": "unsure",
-  "why": "teks: 'أم حميضة بنت ياسر', tetapi riwayat masyhur: حميضة عن جدتها يسيرة (nenek); nama target 'بنت يسيرة' keliru, ayahnya ياسر",
-  "rid": "Turath · data rawi: يسيرة [rawi 7147]"
+  "why": "node ayah hanya 'الحارث' tanpa nasab (tak teridentifikasi; relasi sendiri tersirat dari nama)",
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/483"
+ },
+ {
+  "s": "x42bdb2ca2",
+  "t": "s4940",
+  "k": "parent",
+  "verdict": "unsure",
+  "why": "node ayah hanya 'الحارث' tanpa nasab (tak teridentifikasi; relasi sendiri tersirat dari nama)",
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/494"
+ },
+ {
+  "s": "x4f8f72ab2",
+  "t": "n841",
+  "k": "parent",
+  "verdict": "unsure",
+  "why": "node ayah hanya 'ثعلبة' tanpa nasab (tak teridentifikasi; relasi sendiri tersirat dari nama); nama ayah diperselisihkan (ثعلبة/عبد الله/سهل)",
+  "rid": "Turath · data rawi: أبو أمامة ؛ إياس بن ثعلبة [rawi 841]"
+ },
+ {
+  "s": "x42bdb2ca3",
+  "t": "n355",
+  "k": "parent",
+  "verdict": "unsure",
+  "why": "nama Abu Malik sangat diperselisihkan (al-Harits bin al-Harits hanya salah satu versi); node 'الحارث' tanpa nasab",
+  "rid": "Turath · data rawi: أبو مالك [rawi 355]"
+ },
+ {
+  "s": "x4f8f72ab3",
+  "t": "n1024",
+  "k": "parent",
+  "verdict": "unsure",
+  "why": "node ayah hanya 'ثعلبة' tanpa nasab (tak teridentifikasi; relasi sendiri tersirat dari nama)",
+  "rid": "Turath · data rawi: التلب بن ثعلبة [rawi 1024]"
+ },
+ {
+  "s": "x42bdb2ca7",
+  "t": "n1213",
+  "k": "parent",
+  "verdict": "unsure",
+  "why": "node ayah hanya 'الحارث' tanpa nasab (tak teridentifikasi; relasi sendiri tersirat dari nama)",
+  "rid": "Turath · data rawi: الحارث بن الحارث [rawi 1213]"
+ },
+ {
+  "s": "x42bdb2ca8",
+  "t": "n2128",
+  "k": "parent",
+  "verdict": "unsure",
+  "why": "node ayah hanya 'الحارث' tanpa nasab (tak teridentifikasi; relasi sendiri tersirat dari nama); ada versi 'زياد بن حارثة'",
+  "rid": "Turath · data rawi: زياد بن الحارث [rawi 2128]"
+ },
+ {
+  "s": "x42bdb2ca9",
+  "t": "n7271",
+  "k": "parent",
+  "verdict": "unsure",
+  "why": "node ayah hanya 'الحارث' tanpa nasab (tak teridentifikasi; relasi sendiri tersirat dari nama)",
+  "rid": "Turath · data rawi: عبد الله بن الحارث [rawi 7271]"
+ },
+ {
+  "s": "n3856",
+  "t": "xce3d6ff72",
+  "k": "spouse",
+  "verdict": "unsure",
+  "why": "teks: 'وامرأته أم عبد الله' benar, tapi hanya kunya 'أم عبد الله' tanpa nasab; node generik tak teridentifikasi",
+  "rid": "Turath · data rawi: عبد الله بن قيس أبو موسى الأشعري [rawi 3856]"
+ },
+ {
+  "s": "xce3d6ff73",
+  "t": "n4404",
+  "k": "parent",
+  "verdict": "unsure",
+  "why": "hanya kunya 'أم عبد الله' tanpa nasab; node generik tak teridentifikasi",
+  "rid": "Turath · data rawi: عطية بن بسر [rawi 4404]"
+ },
+ {
+  "s": "xc4b2db532",
+  "t": "xce3d6ff73",
+  "k": "spouse",
+  "verdict": "unsure",
+  "why": "tersirat (ibu Athiyyah bin Busr), tapi kedua node tanpa nasab ('بسر' / 'أم عبد الله'); Busr al-Mazini mungkin sudah punya node sendiri",
+  "rid": "Turath · data rawi: عطية بن بسر [rawi 4404]"
+ },
+ {
+  "s": "x42bdb2ca4",
+  "t": "n5036",
+  "k": "parent",
+  "verdict": "unsure",
+  "why": "node ayah hanya 'الحارث' tanpa nasab (tak teridentifikasi; relasi sendiri tersirat dari nama)",
+  "rid": "Turath · data rawi: غرفة بن الحارث [rawi 5036]"
+ },
+ {
+  "s": "x42bdb2ca5",
+  "t": "n6115",
+  "k": "parent",
+  "verdict": "unsure",
+  "why": "node ayah hanya 'الحارث' tanpa nasab (tak teridentifikasi; relasi sendiri tersirat dari nama); nama dibalik juga diriwayatkan (الحارث بن مسلم)",
+  "rid": "Turath · data rawi: مسلم بن الحارث [rawi 6115]"
  },
  {
   "s": "n2289",
@@ -878,6 +1038,30 @@
   "verdict": "unsure",
   "why": "teks: Sumayyah adalah budak (أمة) al-Harits bin Kaladah, bukan disebut istri",
   "rid": "Turath · data rawi: نفيع بن الحارث بن كلدة [rawi 6594]"
+ },
+ {
+  "s": "x4e21d270",
+  "t": "n6765",
+  "k": "parent",
+  "verdict": "unsure",
+  "why": "teks hanya 'أروى بنت ربيعة' tanpa الكبرى/الصغرى (ada dua Arwa); Ibnu Hibban: ibunya Hind",
+  "rid": "Turath · data rawi: واسع بن حبان [rawi 6765]"
+ },
+ {
+  "s": "n16037",
+  "t": "x4e21d270",
+  "k": "spouse",
+  "verdict": "unsure",
+  "why": "teks hanya 'أروى بنت ربيعة' tanpa الكبرى/الصغرى (ada dua Arwa); Ibnu Hibban: Hind",
+  "rid": "Turath · data rawi: واسع بن حبان [rawi 6765]"
+ },
+ {
+  "s": "n7147",
+  "t": "x62a96994",
+  "k": "parent",
+  "verdict": "unsure",
+  "why": "teks: 'أم حميضة بنت ياسر', tetapi riwayat masyhur: حميضة عن جدتها يسيرة (nenek); nama target 'بنت يسيرة' keliru, ayahnya ياسر",
+  "rid": "Turath · data rawi: يسيرة [rawi 7147]"
  },
  {
   "s": "s4784",

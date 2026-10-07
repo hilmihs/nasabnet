@@ -1,0 +1,68 @@
+[
+ {
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/440",
+  "ok": 1,
+  "issues": []
+ },
+ {
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/444",
+  "ok": 1,
+  "issues": []
+ },
+ {
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/447",
+  "ok": 2,
+  "issues": []
+ },
+ {
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/457",
+  "ok": 1,
+  "issues": []
+ },
+ {
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/46",
+  "ok": 1,
+  "issues": []
+ },
+ {
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/467",
+  "ok": 1,
+  "issues": []
+ },
+ {
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/473",
+  "ok": 3,
+  "issues": []
+ },
+ {
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/483",
+  "ok": 0,
+  "issues": [
+   {
+    "s": "x42bdb2ca",
+    "t": "s4902",
+    "k": "parent",
+    "verdict": "unsure",
+    "why": "node ayah hanya 'الحارث' tanpa nasab (tak teridentifikasi; relasi sendiri tersirat dari nama)"
+   }
+  ]
+ },
+ {
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/494",
+  "ok": 0,
+  "issues": [
+   {
+    "s": "x42bdb2ca2",
+    "t": "s4940",
+    "k": "parent",
+    "verdict": "unsure",
+    "why": "node ayah hanya 'الحارث' tanpa nasab (tak teridentifikasi; relasi sendiri tersirat dari nama)"
+   }
+  ]
+ },
+ {
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/51",
+  "ok": 1,
+  "issues": []
+ }
+]

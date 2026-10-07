@@ -1,0 +1,83 @@
+[
+ {
+  "rid": "Turath · data rawi: عطية بن بسر [rawi 4404]",
+  "ok": 0,
+  "issues": [
+   {
+    "s": "xce3d6ff73",
+    "t": "n4404",
+    "k": "parent",
+    "verdict": "unsure",
+    "why": "hanya kunya 'أم عبد الله' tanpa nasab; node generik tak teridentifikasi"
+   },
+   {
+    "s": "xc4b2db532",
+    "t": "xce3d6ff73",
+    "k": "spouse",
+    "verdict": "unsure",
+    "why": "tersirat (ibu Athiyyah bin Busr), tapi kedua node tanpa nasab ('بسر' / 'أم عبد الله'); Busr al-Mazini mungkin sudah punya node sendiri"
+   }
+  ]
+ },
+ {
+  "rid": "Turath · data rawi: عمرو بن أمية الضمري [rawi 4797]",
+  "ok": 1,
+  "issues": []
+ },
+ {
+  "rid": "Turath · data rawi: عمرو بن الفغواء [rawi 4880]",
+  "ok": 1,
+  "issues": []
+ },
+ {
+  "rid": "Turath · data rawi: عمرو بن غيلان بن سلمة [rawi 4879]",
+  "ok": 1,
+  "issues": []
+ },
+ {
+  "rid": "Turath · data rawi: غرفة بن الحارث [rawi 5036]",
+  "ok": 0,
+  "issues": [
+   {
+    "s": "x42bdb2ca4",
+    "t": "n5036",
+    "k": "parent",
+    "verdict": "unsure",
+    "why": "node ayah hanya 'الحارث' tanpa nasab (tak teridentifikasi; relasi sendiri tersirat dari nama)"
+   }
+  ]
+ },
+ {
+  "rid": "Turath · data rawi: مجالد بن مسعود [rawi 5409]",
+  "ok": 1,
+  "issues": []
+ },
+ {
+  "rid": "Turath · data rawi: مروان بن الحكم [rawi 6060]",
+  "ok": 2,
+  "issues": []
+ },
+ {
+  "rid": "Turath · data rawi: مسلم بن الحارث [rawi 6115]",
+  "ok": 0,
+  "issues": [
+   {
+    "s": "x42bdb2ca5",
+    "t": "n6115",
+    "k": "parent",
+    "verdict": "unsure",
+    "why": "node ayah hanya 'الحارث' tanpa nasab (tak teridentifikasi; relasi sendiri tersirat dari nama); nama dibalik juga diriwayatkan (الحارث بن مسلم)"
+   }
+  ]
+ },
+ {
+  "rid": "Turath · data rawi: مطيع بن الأسود بن حارثة [rawi 6197]",
+  "ok": 1,
+  "issues": []
+ },
+ {
+  "rid": "Turath · data rawi: معاوية بن أبي سفيان [rawi 6225]",
+  "ok": 1,
+  "issues": []
+ }
+]

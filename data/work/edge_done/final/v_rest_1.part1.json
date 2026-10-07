@@ -1,0 +1,91 @@
+[
+ {
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/489",
+  "ok": 2,
+  "issues": []
+ },
+ {
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/195",
+  "ok": 1,
+  "issues": []
+ },
+ {
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/196",
+  "ok": 0,
+  "issues": [
+   {
+    "s": "s935",
+    "t": "xf2f16e082",
+    "k": "sibling",
+    "verdict": "unsure",
+    "why": "benar (sama ayah al-Harits bin Qais & ibu Ummul Hajjaj), disebut di entri lain (4/195); node juga terpisah dari xf2f16e08"
+   }
+  ]
+ },
+ {
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/308",
+  "ok": 0,
+  "issues": [
+   {
+    "s": "x986fd1f9",
+    "t": "s1023",
+    "k": "parent",
+    "verdict": "unsure",
+    "why": "node ayah hanya 'الأكوع' tanpa nasab (tak teridentifikasi; relasi sendiri tersirat dari nama)"
+   }
+  ]
+ },
+ {
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/355",
+  "ok": 0,
+  "issues": [
+   {
+    "s": "x4f8f72ab",
+    "t": "s1087",
+    "k": "parent",
+    "verdict": "unsure",
+    "why": "node ayah hanya 'ثعلبة' tanpa nasab (tak teridentifikasi; relasi sendiri tersirat dari nama)"
+   }
+  ]
+ },
+ {
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/247",
+  "ok": 4,
+  "issues": []
+ },
+ {
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/285",
+  "ok": 2,
+  "issues": []
+ },
+ {
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/297",
+  "ok": 0,
+  "issues": [
+   {
+    "s": "xce3d6ff7",
+    "t": "s4462",
+    "k": "parent",
+    "verdict": "unsure",
+    "why": "hanya kunya 'أم عبد الله' tanpa nasab; node generik tak teridentifikasi"
+   },
+   {
+    "s": "xce3d6ff7",
+    "t": "xe7c68fa6",
+    "k": "spouse",
+    "verdict": "unsure",
+    "why": "hanya kunya 'أم عبد الله' tanpa nasab; node generik tak teridentifikasi; istri tersirat sebagai ibu Umaimah"
+   }
+  ]
+ },
+ {
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/359",
+  "ok": 2,
+  "issues": []
+ },
+ {
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/439",
+  "ok": 1,
+  "issues": []
+ }
+]

@@ -1,0 +1,60 @@
+[
+ {
+  "rid": "Turath · data rawi: رافع بن خديج [rawi 1926]",
+  "ok": 1,
+  "issues": []
+ },
+ {
+  "rid": "Turath · data rawi: زينب بنت جحش [rawi 2214]",
+  "ok": 1,
+  "issues": []
+ },
+ {
+  "rid": "Turath · data rawi: سهل بن حنيف [rawi 2675]",
+  "ok": 1,
+  "issues": []
+ },
+ {
+  "rid": "Turath · data rawi: شيبة بن عثمان بن أبي طلحة [rawi 2825]",
+  "ok": 1,
+  "issues": []
+ },
+ {
+  "rid": "Turath · data rawi: عامر بن عبد الله بن الجراح بن هلال بن أهيب [rawi 3078]",
+  "ok": 1,
+  "issues": []
+ },
+ {
+  "rid": "Turath · data rawi: عبد الرحمن بن أبي عمرة [rawi 3229]",
+  "ok": 1,
+  "issues": []
+ },
+ {
+  "rid": "Turath · data rawi: عبد الله بن حنظلة بن أبي عامر الراهب [rawi 3630]",
+  "ok": 1,
+  "issues": []
+ },
+ {
+  "rid": "Turath · data rawi: عبد الله بن عباس بن عبد المطلب [rawi 3732]",
+  "ok": 2,
+  "issues": []
+ },
+ {
+  "rid": "Turath · data rawi: عبد الله بن قيس بن مخرمة [rawi 3857]",
+  "ok": 2,
+  "issues": []
+ },
+ {
+  "rid": "Turath · data rawi: مالك بن ربيعة [rawi 5370]",
+  "ok": 0,
+  "issues": [
+   {
+    "s": "x15ec257a3",
+    "t": "n5370",
+    "k": "parent",
+    "verdict": "unsure",
+    "why": "ayah dari nasab 'مالك بن ربيعة', tapi node hanya 'ربيعة' tanpa nasab (berisiko tergabung dengan Rabi'ah lain)"
+   }
+  ]
+ }
+]

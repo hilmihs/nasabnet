@@ -1,0 +1,68 @@
+[
+ {
+  "rid": "Turath · data rawi: عامر بن عمرو [rawi 15143]",
+  "ok": 1,
+  "issues": []
+ },
+ {
+  "rid": "Turath · data rawi: عبد الرحمن بن أبزى [rawi 3214]",
+  "ok": 1,
+  "issues": []
+ },
+ {
+  "rid": "Turath · data rawi: عبد الرحمن بن أبي عمرة [rawi 3229]",
+  "ok": 1,
+  "issues": []
+ },
+ {
+  "rid": "Turath · data rawi: عبد الرحمن بن الأزهر أو زاهر [rawi 3238]",
+  "ok": 1,
+  "issues": []
+ },
+ {
+  "rid": "Turath · data rawi: عبد الرحمن بن ثابت بن الصامت بن عدي بن كعب [rawi 3256]",
+  "ok": 1,
+  "issues": []
+ },
+ {
+  "rid": "Turath · data rawi: عبد الله بن الحارث [rawi 7271]",
+  "ok": 0,
+  "issues": [
+   {
+    "s": "x42bdb2ca9",
+    "t": "n7271",
+    "k": "parent",
+    "verdict": "unsure",
+    "why": "node ayah hanya 'الحارث' tanpa nasab (tak teridentifikasi; relasi sendiri tersirat dari nama)"
+   }
+  ]
+ },
+ {
+  "rid": "Turath · data rawi: عبد الله بن الشخير [rawi 3706]",
+  "ok": 1,
+  "issues": []
+ },
+ {
+  "rid": "Turath · data rawi: عبد الله بن عتبة بن مسعود [rawi 3780]",
+  "ok": 1,
+  "issues": []
+ },
+ {
+  "rid": "Turath · data rawi: عبد الله بن قيس أبو موسى الأشعري [rawi 3856]",
+  "ok": 0,
+  "issues": [
+   {
+    "s": "n3856",
+    "t": "xce3d6ff72",
+    "k": "spouse",
+    "verdict": "unsure",
+    "why": "teks: 'وامرأته أم عبد الله' benar, tapi hanya kunya 'أم عبد الله' tanpa nasab; node generik tak teridentifikasi"
+   }
+  ]
+ },
+ {
+  "rid": "Turath · data rawi: عبد الله بن مالك بن سعد بن القشب [rawi 3874]",
+  "ok": 1,
+  "issues": []
+ }
+]

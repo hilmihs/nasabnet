@@ -1,0 +1,100 @@
+[
+ {
+  "rid": "Turath · data rawi: أبو أمامة ؛ إياس بن ثعلبة [rawi 841]",
+  "ok": 0,
+  "issues": [
+   {
+    "s": "x4f8f72ab2",
+    "t": "n841",
+    "k": "parent",
+    "verdict": "unsure",
+    "why": "node ayah hanya 'ثعلبة' tanpa nasab (tak teridentifikasi; relasi sendiri tersirat dari nama); nama ayah diperselisihkan (ثعلبة/عبد الله/سهل)"
+   }
+  ]
+ },
+ {
+  "rid": "Turath · data rawi: أبو مالك [rawi 355]",
+  "ok": 0,
+  "issues": [
+   {
+    "s": "x42bdb2ca3",
+    "t": "n355",
+    "k": "parent",
+    "verdict": "unsure",
+    "why": "nama Abu Malik sangat diperselisihkan (al-Harits bin al-Harits hanya salah satu versi); node 'الحارث' tanpa nasab"
+   }
+  ]
+ },
+ {
+  "rid": "Turath · data rawi: أم أيمن [rawi 900]",
+  "ok": 1,
+  "issues": []
+ },
+ {
+  "rid": "Turath · data rawi: ابنة حمزة بن عبدالمطلب [rawi 803]",
+  "ok": 1,
+  "issues": []
+ },
+ {
+  "rid": "Turath · data rawi: التلب بن ثعلبة [rawi 1024]",
+  "ok": 0,
+  "issues": [
+   {
+    "s": "x4f8f72ab3",
+    "t": "n1024",
+    "k": "parent",
+    "verdict": "unsure",
+    "why": "node ayah hanya 'ثعلبة' tanpa nasab (tak teridentifikasi; relasi sendiri tersirat dari nama)"
+   }
+  ]
+ },
+ {
+  "rid": "Turath · data rawi: الحارث بن الحارث [rawi 1213]",
+  "ok": 0,
+  "issues": [
+   {
+    "s": "x42bdb2ca7",
+    "t": "n1213",
+    "k": "parent",
+    "verdict": "unsure",
+    "why": "node ayah hanya 'الحارث' tanpa nasab (tak teridentifikasi; relasi sendiri tersirat dari nama)"
+   }
+  ]
+ },
+ {
+  "rid": "Turath · data rawi: المسور بن مخرمة بن نوفل الزهري [rawi 6155]",
+  "ok": 0,
+  "issues": [
+   {
+    "s": "n15526",
+    "t": "s4402",
+    "k": "spouse",
+    "verdict": "wrong",
+    "why": "salah orang: teks menyebut ibu al-Miswar 'asy-Syifa' binti Auf saudari Abdurrahman bin Auf' (= Atikah binti Auf bin Abdi Auf s4401, Ibnu Sa'd 8/247); s4402 adalah asy-Syifa' binti Auf bin Abd, IBU Abdurrahman"
+   }
+  ]
+ },
+ {
+  "rid": "Turath · data rawi: حمزة بن عمرو الأسلمي [rawi 1640]",
+  "ok": 1,
+  "issues": []
+ },
+ {
+  "rid": "Turath · data rawi: زياد بن الحارث [rawi 2128]",
+  "ok": 0,
+  "issues": [
+   {
+    "s": "x42bdb2ca8",
+    "t": "n2128",
+    "k": "parent",
+    "verdict": "unsure",
+    "why": "node ayah hanya 'الحارث' tanpa nasab (tak teridentifikasi; relasi sendiri tersirat dari nama); ada versi 'زياد بن حارثة'"
+   }
+  ]
+ },
+ {
+  "rid": "Turath · data rawi: زيد بن خالد [rawi 2186]",
+  "ok": 1,
+  "issues": []
+ }
+]

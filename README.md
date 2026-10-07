@@ -4,9 +4,9 @@ Aplikasi web edukasi untuk memahami keterkaitan sosial, garis klan, dan pernikah
 Nabi Muhammad ﷺ. Datanya **dikompilasi dari Turath.io** (basis data rawi + teks kitab klasik), bukan
 diketik manual.
 
-**🌐 Live: [nasabnet.vercel.app](https://nasabnet.vercel.app)** — 5.794 tokoh (1.805 sahabat), 6.904 relasi
-(1.271 pernikahan, 4.799 orang tua–anak, 94 mu'akhah), 54 kabilah/klan; biografi ringkas untuk 150 sahabat
-utama dan profil untuk 54 kabilah.
+**🌐 Live: [nasabnet.vercel.app](https://nasabnet.vercel.app)** — 5.769 tokoh (1.804 sahabat), 6.753 relasi
+(1.218 pernikahan, 4.747 orang tua–anak, 94 mu'akhah), 54 kabilah/klan; biografi ringkas untuk 150 sahabat
+utama dan profil untuk 54 kabilah. 99,9% relasi sudah dicocokkan ulang dengan teks sumbernya.
 
 ## Fitur
 
@@ -89,11 +89,19 @@ Agar tidak ada salah nasab, dataset melewati beberapa lapis pemeriksaan:
   `data/corrections.json` (merge / drop_edge / add_edge / set_tribe, masing-masing dengan alasan) dan
   `data/audit_reviewed.json`.
 - **Verifikasi per relasi** (`scripts/build_edge_packets.py` → `scripts/compile_edge_verification.py`):
-  setiap relasi dicocokkan ulang dengan teks Arab sumbernya. Tahap 1 (seluruh relasi 150 sahabat utama,
-  1.797 relasi) selesai: 1.756 sesuai teks, 27 salah dan sudah dihapus, 14 diragukan (dua riwayat
-  bertentangan/teks terpotong) dicatat di `data/edge_unsure.json`. Tahap berikutnya mencakup relasi
-  lainnya.
-- Keluarga inti Nabi ﷺ (istri dan putra-putri) hanya dicocokkan lewat nasab lengkap, bukan nama pendek.
+  setiap relasi dicocokkan ulang dengan teks Arab sumbernya (halaman Ibnu Sa'd atau catatan rawi Turath).
+  Hasil: 6.747 dari 6.753 relasi terverifikasi; 214 relasi salah dihapus (salah orang/namesake, arah
+  terbalik, "orang" yang sebenarnya nama kabilah); 150 relasi diragukan (riwayat bertentangan, teks
+  terpotong, nama ayah satu kata) dicatat di `data/edge_unsure.json`; relasi benar yang hanya disebut di
+  entri tetangga dipertahankan lewat `data/edge_keep.json`.
+- Temuan verifikasi juga memperbaiki pembangun data: dua biografi Ibnu Sa'd tidak digabung otomatis
+  (pengulangan yang sudah ditinjau digabung lebih dulu), nama yang hanya menyebut kabilah/status
+  ("من بني سهم", "آل جحش", "أم ولد") bukan tokoh, ayah harus sekelompok kabilah dengan anaknya, kakek si anak
+  harus cocok dengan ayah si tokoh, nama satu kata tidak dicocokkan sebagai ayah/ibu, perawi yang cocok tiga
+  tingkat didahulukan, dan simpul nama umum ("عبد الله بن سعد") masuk daftar pencocokan ketat
+  (`data/curated.json` → `strict`, `keep_apart`).
+- Keluarga inti Nabi ﷺ (istri dan putra-putri) hanya dicocokkan lewat nasab lengkap, bukan nama pendek;
+  "محمد" tanpa nasab tidak dianggap Nabi ﷺ.
 
 Setiap tautan relasi menyimpan rujukannya (halaman Ibnu Sa'd atau halaman rawi di Turath) dan tampil di
 profil serta diagram.
