@@ -234,7 +234,7 @@ function TribeDetail({
         {(
           [
             ['jejaring', 'Anggota & Jejaring'],
-            ['profil', 'Profil Kabilah 10 Poin'],
+            ['profil', 'Profil Kabilah'],
           ] as const
         ).map(([k, label]) => (
           <button

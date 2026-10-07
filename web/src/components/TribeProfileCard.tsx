@@ -1,22 +1,41 @@
 import { useBio, type Point } from '../lib/bio'
 import { useStore } from '../lib/data'
+import type { ReactNode } from 'react'
 import type { Tribe } from '../lib/types'
 import { useUI } from '../lib/ui'
-import { PointRow, SrcChips } from './BioCard'
+import { listId, Section, SrcChips } from './BioCard'
 
 const MISSING = 'Belum tercatat.'
 
-function Narr({ p }: { p?: Point | null }) {
-  if (!p?.t) return <span className="text-tinta-soft/80 italic">{MISSING}</span>
+/** Several narrative points joined into one paragraph, each keeping its own citation. */
+function Para({ points, lead }: { points: (Point | null | undefined)[]; lead?: ReactNode }) {
+  const ps = points.filter((x): x is Point => !!x?.t)
+  if (!ps.length && !lead) return null
   return (
     <p>
-      {p.t}
-      <SrcChips src={p.src} basis={p.basis} />
+      {lead}
+      {ps.map((x, i) => (
+        <span key={i}>
+          {(lead || i > 0) && ' '}
+          {x.t}
+          <SrcChips src={x.src} basis={x.basis} />
+        </span>
+      ))}
     </p>
   )
 }
 
-/** Ten-point profile of a tribe/clan. */
+/** A bare chain of names ("al-Harits bin Fihr bin Malik.") becomes a sentence. */
+const ancestorSentence = (x?: Point | null): Point | null | undefined =>
+  x?.t && !/\b(adalah|ialah|merupakan|yaitu|bertemu|keturunan|leluhur)\b/i.test(x.t) && x.t.split(/\s+/).length <= 12
+    ? { ...x, t: `Leluhur utamanya ialah ${x.t.trim()}` }
+    : x
+
+/** A bare place name ("Makkah.") reads better as a sentence. */
+const placeSentence = (x?: Point | null): Point | null | undefined =>
+  x?.t && x.t.trim().split(/\s+/).length <= 3 ? { ...x, t: `Basis wilayahnya di ${x.t.trim().replace(/\.$/, '')}.` } : x
+
+/** Tribe/clan profile, told in a few themed sections. */
 export function TribeProfileCard({ tribe }: { tribe: Tribe }) {
   const { g, membersByTribe, weight, tribes } = useStore()
   const { openProfile } = useUI()
@@ -40,40 +59,31 @@ export function TribeProfileCard({ tribe }: { tribe: Tribe }) {
   return (
     <div>
       {!bio && <p className="py-2 text-sm text-tinta-soft">Memuat profil…</p>}
-      <ol>
-        <PointRow n={1} title="Nama & Arti Klan">
-          <p>
-            <span className="font-semibold">{tribe.name}</span> — <span className="ar">{tribe.ar}</span>. {tribe.desc}
-          </p>
-          {t?.nama_arti && <Narr p={t.nama_arti} />}
-        </PointRow>
-        <PointRow n={2} title="Leluhur Utama (al-Jadd al-Akbar)">
-          <Narr p={t?.leluhur} />
-        </PointRow>
-        <PointRow n={3} title="Titik Temu Silsilah">
-          <Narr p={t?.titik_temu} />
-        </PointRow>
-        <PointRow n={4} title="Tingkatan Struktur (Tabaqat)">
-          <Narr p={t?.struktur} />
-        </PointRow>
-        <PointRow n={5} title="Wilayah Asal & Basis Geografis">
-          <Narr p={t?.wilayah} />
-        </PointRow>
-        <PointRow n={6} title="Peran & Kedudukan Sosial">
-          <Narr p={t?.peran_sosial} />
-        </PointRow>
-        <PointRow n={7} title="Aliansi & Perjanjian (Hilf)">
-          {t?.hilf?.t && <Narr p={t.hilf} />}
-          {allies.length > 0 ? (
-            <p>
-              Pernikahan silang terbanyak dalam data: {allies.map(([id, n]) => `${tribes.get(id)?.name} (${n})`).join(', ')}.
-            </p>
-          ) : (
-            !t?.hilf?.t && <span className="text-tinta-soft/80 italic">{MISSING}</span>
-          )}
-        </PointRow>
-        <PointRow n={8} title="Tokoh-tokoh Terkenal">
-          {notable.length ? (
+      <div>
+        <Section title="Asal-usul & Silsilah">
+          <Para
+            lead={
+              <>
+                <span className="font-semibold">{tribe.name}</span> (<span className="ar">{tribe.ar}</span>). {tribe.desc}
+              </>
+            }
+            points={[t?.nama_arti]}
+          />
+          <Para points={[ancestorSentence(t?.leluhur), t?.titik_temu, t?.struktur]} />
+        </Section>
+
+        <Section title="Wilayah & Kedudukan">
+          <Para points={[placeSentence(t?.wilayah), t?.peran_sosial]} />
+          {!t?.wilayah?.t && !t?.peran_sosial?.t && <p className="text-tinta-soft/80 italic">{MISSING}</p>}
+        </Section>
+
+        <Section title="Aliansi & Tokoh">
+          <Para
+            points={[t?.hilf]}
+            lead={allies.length > 0 && `Dalam data ini, pernikahan silang paling banyak terjalin dengan ${listId(allies.map(([id, n]) => `${tribes.get(id)?.name} (${n})`))}.`}
+          />
+          {notable.length > 0 && <p>Tokoh-tokoh terkenalnya antara lain:</p>}
+          {notable.length > 0 && (
             <p className="flex flex-wrap gap-1.5">
               {notable.map((p) => (
                 <button key={p.id} onClick={() => openProfile(p.id, 'bio')} className="rounded-full bg-hijau-50 px-2.5 py-0.5 text-xs font-medium text-hijau-800 hover:bg-hijau-100">
@@ -81,23 +91,23 @@ export function TribeProfileCard({ tribe }: { tribe: Tribe }) {
                 </button>
               ))}
             </p>
-          ) : (
-            <span className="text-tinta-soft/80 italic">{MISSING}</span>
           )}
           <p className="mt-1 text-xs text-tinta-soft">
             {members.length} tokoh dalam data, {comps.length} di antaranya sahabat.
           </p>
-        </PointRow>
-        <PointRow n={9} title="Dinamika Sejarah">
-          <Narr p={t?.dinamika} />
-        </PointRow>
-        <PointRow n={10} title="Rujukan Kitab Klasik">
-          <p>{(t?.rujukan?.length ? t.rujukan : ["Jamharat Ansab al-'Arab (Ibnu Hazm)", "ath-Thabaqat al-Kubra (Ibnu Sa'd)"]).join(' · ')}</p>
-        </PointRow>
-      </ol>
+        </Section>
+
+        <Section title="Perjalanan Sejarah">
+          {t?.dinamika?.t ? <Para points={[t.dinamika]} /> : <p className="text-tinta-soft/80 italic">{MISSING}</p>}
+        </Section>
+
+        <Section title="Rujukan">
+          <p className="text-sm">{(t?.rujukan?.length ? t.rujukan : ["Jamharat Ansab al-'Arab (Ibnu Hazm)", "ath-Thabaqat al-Kubra (Ibnu Sa'd)"]).join(' · ')}</p>
+        </Section>
+      </div>
       {t && (
         <p className="mt-3 text-[11px] leading-relaxed text-tinta-soft">
-          Poin bertanda sitasi diringkas dari Jamharat Ansab al-'Arab; poin bertanda “ringkasan umum” belum bersitasi halaman.{' '}
+          Kalimat bertanda sitasi diringkas dari Jamharat Ansab al-'Arab; yang bertanda † adalah ringkasan umum yang belum bersitasi halaman.{' '}
           {t.v ? 'Profil ini sudah diperiksa ulang.' : 'Profil ini belum diperiksa ulang.'}
         </p>
       )}

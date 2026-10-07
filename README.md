@@ -5,8 +5,8 @@ Nabi Muhammad ﷺ. Datanya **dikompilasi dari Turath.io** (basis data rawi + tek
 diketik manual.
 
 **🌐 Live: [nasabnet.vercel.app](https://nasabnet.vercel.app)** — 5.794 tokoh (1.805 sahabat), 6.904 relasi
-(1.271 pernikahan, 4.799 orang tua–anak, 94 mu'akhah), 54 kabilah/klan; biografi 10 poin untuk 150 sahabat
-utama dan profil 10 poin untuk 54 kabilah.
+(1.271 pernikahan, 4.799 orang tua–anak, 94 mu'akhah), 54 kabilah/klan; biografi ringkas untuk 150 sahabat
+utama dan profil untuk 54 kabilah.
 
 ## Fitur
 
@@ -14,7 +14,7 @@ utama dan profil 10 poin untuk 54 kabilah.
 |---|-------|--------------------|
 | 1 | Diagram Garis Hubungan Langsung (Pathfinder) | **Cari Hubungan** → diagram panah beranimasi, label tiap tautan, sumber per tautan |
 | 2 | Peta Suku & Kabilah (Tribe Network View) | **Peta Kabilah** (beranda): kartu kabilah, pohon klan Quraisy, graf jejaring per kabilah, peta pernikahan antarkabilah |
-| 3 | Profil Mini & Kartu Keluarga | Klik nama mana pun → pop-up: ayah/ibu, kabilah, istri/suami, anak (beserta ibunya), saudara, mertua, menantu, ipar, besan, mu'akhah, rujukan; tab **Biografi 10 Poin** (150 sahabat utama, dari al-Ishabah & Ibnu Sa'd) |
+| 3 | Profil Mini & Kartu Keluarga | Klik nama mana pun → pop-up: ayah/ibu, kabilah, istri/suami, anak (beserta ibunya), saudara, mertua, menantu, ipar, besan, mu'akhah, rujukan; tab **Biografi** (150 sahabat utama, dari al-Ishabah & Ibnu Sa'd; nasab & asal-usul, kiprah, keluarga & pernikahan, rujukan) |
 | 4 | Jejaring Istri & Pernikahan Silang | **Jejaring Pernikahan**: graf pernikahan, “simpul pengikat”, aliansi antarklan, lingkaran mertua–ipar–besan per tokoh |
 | 5 | Mesin Pencari Hubungan Kilat | **Cari Hubungan**: pilih 2 nama bebas → jalur terpendek + istilah kekerabatan (mertua, ipar, besan, sepupu, biras…) + titik temu nasab; **Tokoh terkait**: daftar sahabat yang berkaitan nasab, kekerabatan, dan aliansi kabilah dengan tiap tokoh, serta kerabat bersama keduanya |
 | 6 | Filter Kategori Sosial | Chip filter: Muhajirin, Anshar, Ahlulbait, Kerabat Nabi, Ummahatul Mukminin, Khulafaur Rasyidin, Al-'Asyarah, Ahlu Badar |
@@ -22,7 +22,7 @@ utama dan profil 10 poin untuk 54 kabilah.
 | 8 | Riwayat & Favorit | Tombol “Simpan” pada profil/diagram/silsilah/kabilah; halaman **Riwayat & Favorit** (localStorage) |
 | 9 | Kamus Istilah & Biografi Klasik | **Glosarium & Rujukan**: nasab, nisbah, laqab, kunyah, ‘ashabah, mu’akhah, wala’, halif, dst. + tautan kitab di Turath |
 | 10 | Silsilah Vertikal | **Silsilah Vertikal**: rantai ayah → kakek → … → titik temu klan (Abdu Manaf, Qushay, Ka'b, Fihr, Aus/Khazraj), tanda leluhur yang sama dengan Nabi ﷺ, anak-cucu; mode bandingkan dua tokoh → **pohon titik temu** (dari leluhur bersama turun ke kedua tokoh) + jejaring kekerabatan & tokoh bernasab terkait di bawahnya |
-| + | Profil Kabilah 10 Poin | Pencarian kabilah → tab **Profil Kabilah** (asal-usul, cabang, tokoh, peran di masa Nabi ﷺ; dari Jamharah Ibnu Hazm dkk.) |
+| + | Profil Kabilah | Pencarian kabilah → tab **Profil Kabilah** (asal-usul, cabang, tokoh, peran di masa Nabi ﷺ; dari Jamharah Ibnu Hazm dkk.) |
 
 ## Menjalankan aplikasi (data sudah tersedia)
 

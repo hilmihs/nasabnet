@@ -10,7 +10,11 @@ const MISSING = 'Belum tercatat dalam kutipan sumber yang dipakai.'
 /** Small citation note placed at the end of a paragraph. */
 export function SrcChips({ src, basis }: { src?: string[]; basis?: Point['basis'] }) {
   if (basis === 'umum')
-    return <span className="ml-1 inline-block align-middle text-[10px] font-medium text-tinta-soft/80 italic">· ringkasan umum, belum bersitasi halaman</span>
+    return (
+      <sup className="ml-0.5 cursor-help text-[11px] font-semibold text-emas-700" title="Ringkasan umum, belum bersitasi halaman">
+        †
+      </sup>
+    )
   if (!src?.length) return null
   return (
     <span className="ml-1 inline-flex flex-wrap items-center gap-x-1.5 align-middle text-[10px] font-medium text-tinta-soft">
@@ -34,15 +38,16 @@ export function SrcChips({ src, basis }: { src?: string[]; basis?: Point['basis'
   )
 }
 
-export function PointRow({ n, title, children }: { n: number; title: string; children: ReactNode }) {
+/** One themed part of a biography or tribe profile: a heading and flowing paragraphs. */
+export function Section({ title, children }: { title: string; children: ReactNode }) {
   return (
-    <li className="grid grid-cols-[1.75rem_1fr] gap-x-3 border-b border-krem-200 py-3.5 last:border-0">
-      <span className="mt-0.5 grid h-7 w-7 place-items-center rounded-full bg-hijau-800 text-xs font-bold text-emas-300">{n}</span>
-      <div className="min-w-0">
-        <h4 className="text-[11px] font-semibold tracking-[0.14em] text-emas-700 uppercase">{title}</h4>
-        <div className="mt-1 space-y-1.5 text-[15px] leading-relaxed text-tinta">{children}</div>
-      </div>
-    </li>
+    <section className="border-b border-krem-200 py-4 first:pt-2 last:border-0">
+      <h4 className="flex items-center gap-2 font-display text-lg font-semibold text-hijau-900">
+        <span className="h-4 w-1 rounded-full bg-emas-500" aria-hidden="true" />
+        {title}
+      </h4>
+      <div className="mt-1.5 space-y-2 text-[15px] leading-relaxed text-tinta">{children}</div>
+    </section>
   )
 }
 
@@ -104,7 +109,7 @@ function lifeSentence(id: NonNullable<ReturnType<typeof useBio>>['persons'][stri
   return parts.length ? `Beliau ${listId(parts, 9)}.` : ''
 }
 
-/** Ten-point biography: dataset facts and extracted narrative woven into plain Indonesian sentences. */
+/** Biography in a few themed sections: dataset facts and extracted narrative woven into plain Indonesian sentences. */
 export function BioCard({ p }: { p: Person }) {
   const { g, tribes } = useStore()
   const { go, openProfile } = useUI()
@@ -135,11 +140,11 @@ export function BioCard({ p }: { p: Person }) {
       {!bio && <p className="py-2 text-sm text-tinta-soft">Memuat biografi…</p>}
       {bio && !b && (
         <p className="mb-2 rounded-lg bg-krem-100 px-3 py-2 text-xs text-tinta-soft">
-          Biografi naratif baru tersedia untuk ±150 sahabat utama. Poin di bawah disusun dari data nasab & relasi yang terkumpul.
+          Biografi naratif baru tersedia untuk ±150 sahabat utama. Uraian di bawah disusun dari data nasab & relasi yang terkumpul.
         </p>
       )}
-      <ol>
-        <PointRow n={1} title="Identitas & Waktu">
+      <div>
+        <Section title="Nasab & Asal-usul">
           <p>
             <span className="font-semibold">{p.lat}</span> (<span className="ar">{p.ar}</span>)
             {p.kunya ? (
@@ -152,9 +157,6 @@ export function BioCard({ p }: { p: Person }) {
             {life || <span className="text-tinta-soft/80 italic">Tahun lahir dan wafatnya belum tercatat dalam kutipan sumber.</span>}
             {life && <SrcChips src={id?.src ?? (p.death ? ['Turath rawi'] : undefined)} />}
           </p>
-        </PointRow>
-
-        <PointRow n={2} title="Silsilah Patrilineal">
           {chain.length > 1 ? (
             <>
               <p className="ar text-[16px] leading-loose">
@@ -171,9 +173,6 @@ export function BioCard({ p }: { p: Person }) {
           ) : (
             <Missing />
           )}
-        </PointRow>
-
-        <PointRow n={3} title="Kabilah & Hierarki (Tabaqat)">
           <p>
             {t ? (
               <>
@@ -189,9 +188,6 @@ export function BioCard({ p }: { p: Person }) {
             {p.cats.length > 0 && !b?.kabilah_tabaqat && ` Beliau termasuk ${listId(p.cats.map((c) => CAT_PHRASE[c] ?? CATEGORY_LABEL[c]))}.`}
           </p>
           <Narr p={b?.kabilah_tabaqat} />
-        </PointRow>
-
-        <PointRow n={4} title="Nisbah & Geografis (Rihlah)">
           {p.nisba && (
             <p>
               Dalam kitab-kitab rijal beliau dinisbatkan sebagai <span className="ar">{p.nisba}</span>
@@ -204,55 +200,17 @@ export function BioCard({ p }: { p: Person }) {
               )}
             </p>
           )}
-          {b?.nisbah_rihlah ? <Narr p={b.nisbah_rihlah} /> : !p.nisba && <Missing />}
-        </PointRow>
+          <Narr p={b?.nisbah_rihlah} />
+        </Section>
 
-        <PointRow n={5} title="Gelar & Julukan (Laqab) / Profesi">
+        <Section title="Kiprah & Kedudukan">
           {p.laqab && (
             <p>
               Beliau dikenal dengan julukan <span className="ar">{p.laqab}</span>.
             </p>
           )}
-          {b?.laqab_profesi ? <Narr p={b.laqab_profesi} /> : !p.laqab && <Missing />}
-        </PointRow>
-
-        <PointRow n={6} title="Peran Sejarah">
-          {b?.peran ? <Narr p={b.peran} /> : <Missing />}
-        </PointRow>
-
-        <PointRow n={7} title="Aliansi & Pernikahan (Hilf)">
-          {law.spouses.length > 0 ? (
-            <p>
-              {fem ? `Ia menikah dengan ${listId(lat(law.spouses))}.` : `Beliau menikahi ${listId(lat(law.spouses))}.`}
-              {law.parentsInLaw.length > 0 && ` Dari pernikahan itu beliau bermertuakan ${listId(lat(law.parentsInLaw), 4)}.`}
-              {law.childrenInLaw.length > 0 && ` Menantunya antara lain ${listId(lat(law.childrenInLaw), 4)}`}
-              {law.childrenInLaw.length > 0 && (law.coInLaws.length > 0 ? `, sehingga beliau berbesan dengan ${listId(lat(law.coInLaws), 4)}.` : '.')}{' '}
-              <button className="text-sm font-semibold text-hijau-700 hover:underline" onClick={() => go('nikah', { p: p.id })}>
-                Lihat jejaring pernikahan →
-              </button>
-            </p>
-          ) : (
-            <p className="text-tinta-soft/80 italic">Belum ada pernikahan yang tercatat dalam data.</p>
-          )}
-          {muakhah.length > 0 && <p>Nabi ﷺ mempersaudarakannya (mu'akhah) dengan {listId(lat(muakhah))}.</p>}
-          <Narr p={b?.hilf} />
-        </PointRow>
-
-        <PointRow n={8} title="Keluarga Samping (Hawasyi) & Wala'">
-          {sibs.length + uncles.length + patrons.length + clients.length + (mother ? 1 : 0) === 0 ? (
-            <Missing />
-          ) : (
-            <p>
-              {mother && `Ibunya adalah ${g.byId.get(mother)?.lat}. `}
-              {sibs.length > 0 && `Saudara-saudaranya yang tercatat: ${listId(lat(sibs), 8)}. `}
-              {uncles.length > 0 && `Dari pihak ayah, paman dan bibinya antara lain ${listId(lat(uncles), 6)}. `}
-              {patrons.length > 0 && `Beliau adalah maula (terikat wala') kepada ${listId(lat(patrons))}. `}
-              {clients.length > 0 && `Maula yang terikat wala' kepadanya: ${listId(lat(clients))}.`}
-            </p>
-          )}
-        </PointRow>
-
-        <PointRow n={9} title="Status & Kehormatan (Tsabit & Syaraf)">
+          <Narr p={b?.laqab_profesi} />
+          <Narr p={b?.peran} />
           {b?.syaraf ? (
             <Narr p={b.syaraf} />
           ) : (
@@ -272,9 +230,36 @@ export function BioCard({ p }: { p: Person }) {
               {typeof b.catatan !== 'string' && <SrcChips src={b.catatan.src} />}
             </p>
           )}
-        </PointRow>
+        </Section>
 
-        <PointRow n={10} title="Rujukan Klasik">
+        <Section title="Keluarga & Pernikahan">
+          {law.spouses.length > 0 ? (
+            <p>
+              {fem ? `Ia menikah dengan ${listId(lat(law.spouses))}.` : `Beliau menikahi ${listId(lat(law.spouses))}.`}
+              {law.parentsInLaw.length > 0 && ` Dari pernikahan itu beliau bermertuakan ${listId(lat(law.parentsInLaw), 4)}.`}
+              {law.childrenInLaw.length > 0 && ` Menantunya antara lain ${listId(lat(law.childrenInLaw), 4)}`}
+              {law.childrenInLaw.length > 0 && (law.coInLaws.length > 0 ? `, sehingga beliau berbesan dengan ${listId(lat(law.coInLaws), 4)}.` : '.')}{' '}
+              <button className="text-sm font-semibold text-hijau-700 hover:underline" onClick={() => go('nikah', { p: p.id })}>
+                Lihat jejaring pernikahan →
+              </button>
+            </p>
+          ) : (
+            <p className="text-tinta-soft/80 italic">Belum ada pernikahan yang tercatat dalam data.</p>
+          )}
+          {muakhah.length > 0 && <p>Nabi ﷺ mempersaudarakannya (mu'akhah) dengan {listId(lat(muakhah))}.</p>}
+          <Narr p={b?.hilf} />
+          {sibs.length + uncles.length + patrons.length + clients.length + (mother ? 1 : 0) > 0 && (
+            <p>
+              {mother && `Ibunya adalah ${g.byId.get(mother)?.lat}. `}
+              {sibs.length > 0 && `Saudara-saudaranya yang tercatat: ${listId(lat(sibs), 8)}. `}
+              {uncles.length > 0 && `Dari pihak ayah, paman dan bibinya antara lain ${listId(lat(uncles), 6)}. `}
+              {patrons.length > 0 && `Beliau adalah maula (terikat wala') kepada ${listId(lat(patrons))}. `}
+              {clients.length > 0 && `Maula yang terikat wala' kepadanya: ${listId(lat(clients))}.`}
+            </p>
+          )}
+        </Section>
+
+        <Section title="Rujukan">
           <ul className="list-disc space-y-0.5 pl-4 text-sm">
             {p.src.map((s) => (
               <li key={s.t}>
@@ -309,13 +294,13 @@ export function BioCard({ p }: { p: Person }) {
               Baca biografi ayahnya →
             </button>
           )}
-        </PointRow>
-      </ol>
+        </Section>
+      </div>
       {b && (
         <p className="mt-3 text-[11px] leading-relaxed text-tinta-soft">
           {b.v
-            ? 'Poin naratif diringkas dari kutipan kitab yang ditautkan dan sudah diperiksa ulang terhadap kutipan tersebut.'
-            : 'Poin naratif diringkas otomatis dari kutipan kitab yang ditautkan dan belum diperiksa ulang.'}{' '}
+            ? 'Uraian naratif diringkas dari kutipan kitab yang ditautkan dan sudah diperiksa ulang terhadap kutipan tersebut; tanda † = ringkasan umum yang belum bersitasi halaman.'
+            : 'Uraian naratif diringkas otomatis dari kutipan kitab yang ditautkan dan belum diperiksa ulang; tanda † = ringkasan umum yang belum bersitasi halaman.'}{' '}
           Selalu rujuk teks aslinya sebelum mengutip.
         </p>
       )}

@@ -119,7 +119,7 @@ export function ProfileCard({ id, onClose, initialTab = 'keluarga' }: { id: stri
             {(
               [
                 ['keluarga', 'Kartu Keluarga'],
-                ['bio', 'Biografi 10 Poin'],
+                ['bio', 'Biografi'],
               ] as const
             ).map(([k, label]) => (
               <button
