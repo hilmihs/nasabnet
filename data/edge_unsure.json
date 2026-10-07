@@ -110,5 +110,53 @@
   "verdict": "unsure",
   "why": "teks hanya sebut 'عائشة بنت عبد الله' tanpa nasab lengkap, tak jelas apakah puteri Abdullah bin Umar yang dimaksud",
   "rid": "Turath · data rawi: عبيد الله بن العباس بن عبد المطلب بن هاشم"
+ },
+ {
+  "s": "x2c229c71",
+  "t": "s456",
+  "k": "parent",
+  "verdict": "unsure",
+  "why": "teks: ayah Thulaib adalah Umair bin Wahb bin Katsir bin Abd bin Qushay; label node 'Umair bin Wahb bin Abdu Manaf' nasabnya tidak cocok (relasi benar, label salah)",
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/123"
+ },
+ {
+  "s": "x365bf76f",
+  "t": "n3681",
+  "k": "parent",
+  "verdict": "unsure",
+  "why": "n3681 'Abdullah bin Sa'd' tanpa nasab; bisa homonim (mis. Ibnu Abi Sarh), belum tentu putra Sa'd bin Abi Waqqash",
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/137"
+ },
+ {
+  "s": "s4585",
+  "t": "n3295",
+  "k": "parent",
+  "verdict": "unsure",
+  "why": "anak Lubabah adalah Abdurrahman bin Zaid; node n3295 nama pendeknya 'Umar bin Abdurrahman bin Zaid' (cucu) walau nasab lengkapnya Abdurrahman bin Zaid — label bertentangan",
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/376"
+ },
+ {
+  "s": "s509",
+  "t": "x02d954fa",
+  "k": "muakhah",
+  "verdict": "unsure",
+  "why": "dua riwayat bertentangan: utama dengan Mubasysyir bin Abdul Mundzir, versi 'ويقال بل' dengan Mujadzdzar bin Ziyad (kurang kuat)",
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/388"
+ },
+ {
+  "s": "s448",
+  "t": "s574",
+  "k": "muakhah",
+  "verdict": "unsure",
+  "why": "dua riwayat bertentangan: versi utama (al-Waqidi) dengan Umar bin al-Khaththab; Hathib hanya riwayat Ibnu Ishaq",
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/459"
+ },
+ {
+  "s": "xf9cb4f41",
+  "t": "n7271",
+  "k": "parent",
+  "verdict": "unsure",
+  "why": "anak (Abdullah bin al-Harits bin Hathib) di-resolve ke node generik 'عبد الله بن الحارث' tanpa nasab; mungkin orang lain yang senama",
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/461"
  }
 ]

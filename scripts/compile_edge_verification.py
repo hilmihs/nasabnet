@@ -20,33 +20,45 @@ def norm_key(s, t, k):
 
 
 def main():
-    packets = {}
-    for f in sorted(glob.glob(str(WORK / "edge_in" / "*.jsonl"))):
+    # a record id (the source label, e.g. "Ibnu Sa'd 3/137") repeats across stages, so every result file is
+    # read against its own packet: e_<scope>_<N>.jsonl <-> v_<scope>_<N>.part*.json (live or archived)
+    # live packets: edge_in/ + edge_out/; finished batches are archived together in edge_done/<batch>/
+    groups = [(WORK / "edge_in", WORK / "edge_out")] + [(d, d) for d in sorted((WORK / "edge_done").glob("*")) if d.is_dir()]
+    pairs = []
+    for din, dout in groups:
+        for f in sorted(din.glob("e_*.jsonl")):
+            outs = sorted(dout.glob(f"v_{f.stem[2:]}.part*.json"))
+            if outs:
+                pairs.append((f, outs))
+    results = []
+    for f, outs in pairs:
+        pk = {}
         for line in open(f):
             r = json.loads(line)
-            packets[r["rid"]] = r
-    results = []
-    for f in sorted(glob.glob(str(WORK / "edge_out" / "*.json"))):
-        try:
-            results += json.loads(Path(f).read_text())
-        except json.JSONDecodeError as e:
-            print("!! bad json", f, e)
+            pk[r["rid"]] = r
+        for o in outs:
+            try:
+                rows = json.loads(Path(o).read_text())
+            except json.JSONDecodeError as e:
+                print("!! bad json", o, e)
+                continue
+            results += [(r, pk.get(r.get("rid"))) for r in rows]
 
     corr_path = ROOT / "data" / "corrections.json"
     ops = json.loads(corr_path.read_text()) if corr_path.exists() else []
     have = {(o.get("op"), *norm_key(o.get("s", ""), o.get("t", ""), o.get("k", ""))) for o in ops}
+    # verified / unsure lists are rebuilt from all packets each run
     ver_path = ROOT / "data" / "edge_verified.json"
-    verified = {tuple(x) for x in json.loads(ver_path.read_text())} if ver_path.exists() else set()
+    verified = set()
     uns_path = ROOT / "data" / "edge_unsure.json"
-    unsure = json.loads(uns_path.read_text()) if uns_path.exists() else []
+    unsure = []
 
     # relations a verifier flagged but a human review kept (true fact, only the cited page is indirect)
     keep_path = ROOT / "data" / "edge_keep.json"
     keep = {norm_key(o["s"], o["t"], o["k"]) for o in json.loads(keep_path.read_text())} if keep_path.exists() else set()
 
     stats = Counter()
-    for r in results:
-        pk = packets.get(r.get("rid"))
+    for r, pk in results:
         if not pk:
             continue
         valid = {norm_key(e["s"], e["t"], e["k"]) for e in pk["edges"]}

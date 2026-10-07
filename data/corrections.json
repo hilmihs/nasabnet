@@ -2362,5 +2362,283 @@
   "why": "Ibnu Sa'd 8/450: Sahl bin Tsa'labah & 'Amrah ats-Tsaniyah berputra 'Amr bin Sahl bin Tsa'labah, bukan 'Amr bin Sahl bin Ma'bad",
   "rule": "M",
   "fid": "manual-47"
+ },
+ {
+  "op": "merge",
+  "keep": "s752",
+  "drop": "s843",
+  "why": "Abdullah bin 'Amr bin Haram (ayah Jabir): Ibnu Sa'd menulis biografinya dua kali (3/561 & 3/620)",
+  "rule": "M",
+  "fid": "manual-48"
+ },
+ {
+  "op": "merge",
+  "keep": "s4298",
+  "drop": "s4334",
+  "why": "Ummu Hani' Fakhitah binti Abi Thalib: Ibnu Sa'd menulis biografinya dua kali (8/47 & 8/151)",
+  "rule": "M",
+  "fid": "manual-49"
+ },
+ {
+  "op": "merge",
+  "keep": "s4310",
+  "drop": "s4363",
+  "why": "Fathimah binti Asad bin Hasyim: Ibnu Sa'd menulis biografinya dua kali (8/51 & 8/222)",
+  "rule": "M",
+  "fid": "manual-50"
+ },
+ {
+  "op": "merge",
+  "keep": "s4285",
+  "drop": "s4375",
+  "why": "Umamah binti Abil 'Ash: Ibnu Sa'd menulis biografinya dua kali (8/39 & 8/232)",
+  "rule": "M",
+  "fid": "manual-51"
+ },
+ {
+  "op": "merge",
+  "keep": "s4736",
+  "drop": "s4772",
+  "why": "Fukaihah binti as-Sakan: Ibnu Sa'd menulis biografinya dua kali (8/398 & 8/411)",
+  "rule": "M",
+  "fid": "manual-52"
+ },
+ {
+  "op": "merge",
+  "keep": "s4333",
+  "drop": "s4553",
+  "why": "Laila binti al-Khathim: Ibnu Sa'd menulis biografinya dua kali (8/150 & 8/337)",
+  "rule": "M",
+  "fid": "manual-53"
+ },
+ {
+  "op": "merge",
+  "keep": "s595",
+  "drop": "s850",
+  "why": "al-Harits bin Qais bin Haisyah: Ibnu Sa'd menulis biografinya dua kali (3/469 & 3/624)",
+  "rule": "M",
+  "fid": "manual-54"
+ },
+ {
+  "op": "merge",
+  "keep": "s4838",
+  "drop": "x6e82028a5",
+  "why": "'Amrah ats-Tsaniyah binti Mas'ud bin Qais punya entri sendiri di Ibnu Sa'd 8/450",
+  "rule": "M",
+  "fid": "manual-55"
+ },
+ {
+  "op": "merge",
+  "keep": "s425",
+  "drop": "xdb6861bc",
+  "why": "Abdullah bin Jahsy (syahid Uhud) tercatat terpisah karena saudaranya Abu Ahmad juga bernama 'Abdullah' di Ibnu Sa'd 4/102",
+  "rule": "M",
+  "fid": "manual-56"
+ },
+ {
+  "op": "merge",
+  "keep": "s425",
+  "drop": "xdb6861bc2",
+  "why": "Abdullah bin Jahsy (syahid Uhud) tercatat terpisah karena saudaranya Abu Ahmad juga bernama 'Abdullah' di Ibnu Sa'd 4/102",
+  "rule": "M",
+  "fid": "manual-57"
+ },
+ {
+  "op": "merge",
+  "keep": "s425",
+  "drop": "xdb6861bc3",
+  "why": "Abdullah bin Jahsy (syahid Uhud) tercatat terpisah karena saudaranya Abu Ahmad juga bernama 'Abdullah' di Ibnu Sa'd 4/102",
+  "rule": "M",
+  "fid": "manual-58"
+ },
+ {
+  "op": "merge",
+  "keep": "s425",
+  "drop": "x996017c8",
+  "why": "Abdullah bin Jahsy (syahid Uhud) tercatat terpisah karena saudaranya Abu Ahmad juga bernama 'Abdullah' di Ibnu Sa'd 4/102",
+  "rule": "M",
+  "fid": "manual-59"
+ },
+ {
+  "op": "merge",
+  "keep": "s425",
+  "drop": "x996017c82",
+  "why": "Abdullah bin Jahsy (syahid Uhud) tercatat terpisah karena saudaranya Abu Ahmad juga bernama 'Abdullah' di Ibnu Sa'd 4/102",
+  "rule": "M",
+  "fid": "manual-60"
+ },
+ {
+  "op": "merge",
+  "keep": "s4837",
+  "drop": "x7c6ec914",
+  "why": "Ibnu Sa'd 8/450: 'Amrah al-Ula dinikahi Zaid bin Malik dan melahirkan Sa'd bin Zaid",
+  "rule": "M",
+  "fid": "manual-61"
+ },
+ {
+  "op": "merge",
+  "keep": "s4838",
+  "drop": "xbb7c5c54",
+  "why": "Ibnu Sa'd 8/450: 'Amrah ats-Tsaniyah dinikahi Aus bin Zaid lalu Sahl bin Tsa'labah",
+  "rule": "M",
+  "fid": "manual-62"
+ },
+ {
+  "op": "merge",
+  "keep": "s4838",
+  "drop": "xbb7c5c542",
+  "why": "Ibnu Sa'd 8/450: 'Amrah ats-Tsaniyah dinikahi Aus bin Zaid lalu Sahl bin Tsa'labah",
+  "rule": "M",
+  "fid": "manual-63"
+ },
+ {
+  "op": "merge",
+  "keep": "s4838",
+  "drop": "xbb7c5c543",
+  "why": "Ibnu Sa'd 8/450: 'Amrah ats-Tsaniyah dinikahi Aus bin Zaid lalu Sahl bin Tsa'labah",
+  "rule": "M",
+  "fid": "manual-64"
+ },
+ {
+  "op": "merge",
+  "keep": "s4838",
+  "drop": "xbb7c5c544",
+  "why": "Ibnu Sa'd 8/450: 'Amrah ats-Tsaniyah dinikahi Aus bin Zaid lalu Sahl bin Tsa'labah",
+  "rule": "M",
+  "fid": "manual-65"
+ },
+ {
+  "op": "merge",
+  "keep": "s4840",
+  "drop": "x7c6ec9142",
+  "why": "'Amrah ibunda Sa'd bin 'Ubadah (3/613 'ketiga', 8/451 'keempat') satu orang",
+  "rule": "M",
+  "fid": "manual-66"
+ },
+ {
+  "op": "drop_edge",
+  "s": "s4838",
+  "t": "x1b114b16",
+  "k": "parent",
+  "why": "Ibnu Sa'd 8/450: putra 'Amrah ats-Tsaniyah adalah 'Amr bin Sahl bin Tsa'labah, bukan 'Amr bin Sahl bin Ma'bad",
+  "rule": "M",
+  "fid": "manual-67"
+ },
+ {
+  "op": "drop_edge",
+  "s": "x744cd96d",
+  "t": "n20706",
+  "k": "parent",
+  "rule": "EV",
+  "fid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/137",
+  "why": "orang salah: anak Ummu Amir adalah Ishaq al-Ashghar; n20706 adalah Ishaq al-Akbar yang ibunya putri Syihab bin Abdullah"
+ },
+ {
+  "op": "drop_edge",
+  "s": "x0eba941d",
+  "t": "xa6766b80",
+  "k": "spouse",
+  "rule": "EV",
+  "fid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/149",
+  "why": "suami Hamnah binti Sufyan adalah Abu Waqqash (Malik bin Wuhaib), bukan Wuhaib bin Abdu Manaf (kakek Umair)"
+ },
+ {
+  "op": "drop_edge",
+  "s": "xa43453de",
+  "t": "s495",
+  "k": "parent",
+  "rule": "EV",
+  "fid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/245",
+  "why": "Syammas bernama Utsman bin Utsman bin asy-Syarid; asy-Syarid adalah kakeknya, ayahnya Utsman bin asy-Syarid"
+ },
+ {
+  "op": "drop_edge",
+  "s": "xa43453de",
+  "t": "xdbb32dc4",
+  "k": "spouse",
+  "rule": "EV",
+  "fid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/245",
+  "why": "Shafiyyah binti Rabi'ah adalah istri Utsman bin asy-Syarid (ayah Syammas), bukan asy-Syarid"
+ },
+ {
+  "op": "drop_edge",
+  "s": "s4436",
+  "t": "x8ba0611a",
+  "k": "parent",
+  "rule": "EV",
+  "fid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/379",
+  "why": "orang salah: ibu Khalid adalah 'Ummu Khalid, ummu walad', bukan Lubabah ash-Shughra binti al-Harits (ibu Khalid bin al-Walid)"
+ },
+ {
+  "op": "drop_edge",
+  "s": "s4436",
+  "t": "xc14da58c",
+  "k": "parent",
+  "rule": "EV",
+  "fid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/379",
+  "why": "orang salah: ibunya Ummu Khalid ummu walad, bukan Lubabah ash-Shughra binti al-Harits"
+ },
+ {
+  "op": "drop_edge",
+  "s": "s4436",
+  "t": "x54cec178",
+  "k": "parent",
+  "rule": "EV",
+  "fid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/379",
+  "why": "orang salah: ibunya Ummu Khalid ummu walad, bukan Lubabah ash-Shughra binti al-Harits"
+ },
+ {
+  "op": "drop_edge",
+  "s": "s570",
+  "t": "xdb4fe8b1",
+  "k": "sibling",
+  "rule": "EV",
+  "fid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/456",
+  "why": "teks halaman ini tidak menyebut Abu Lubabah sama sekali"
+ },
+ {
+  "op": "drop_edge",
+  "s": "s571",
+  "t": "xdb4fe8b1",
+  "k": "sibling",
+  "rule": "EV",
+  "fid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/456",
+  "why": "teks halaman ini tidak menyebut Abu Lubabah sama sekali"
+ },
+ {
+  "op": "drop_edge",
+  "s": "s582",
+  "t": "s583",
+  "k": "sibling",
+  "rule": "EV",
+  "fid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/464",
+  "why": "Umair bin Ma'bad bin al-Az'ar adalah anak saudara (keponakan) Abu Mulail bin al-Az'ar, bukan saudaranya"
+ },
+ {
+  "op": "drop_edge",
+  "s": "x2f18216d",
+  "t": "s436",
+  "k": "parent",
+  "rule": "EV",
+  "fid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/479",
+  "why": "orang salah: s436 = Malik bin Amr as-Sulami, sekutu Bani Abd Syams (3/97, gugur di Yamamah), bukan Abu Hannah; lagi pula ibu ini hanya dalam versi Ibnu Umarah (Abu Hannah bin Tsabit bin an-Nu'man)"
+ },
+ {
+  "op": "drop_edge",
+  "s": "x2f18216d",
+  "t": "x34dcfb1f",
+  "k": "spouse",
+  "rule": "EV",
+  "fid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/479",
+  "why": "teks tidak menyebut; mencampur dua versi — dalam versi ibu Abu Dhiyah, suaminya Tsabit bin an-Nu'man, bukan Amr bin Tsabit bin Kalafah"
+ },
+ {
+  "op": "drop_edge",
+  "s": "s436",
+  "t": "x4fa916df",
+  "k": "sibling",
+  "rule": "EV",
+  "fid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/479",
+  "why": "orang salah: s436 = Malik bin Amr as-Sulami (3/97); persaudaraan dengan Abu Dhiyah hanya versi Ibnu Umarah untuk Abu Hannah bin Tsabit"
  }
 ]

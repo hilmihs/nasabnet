@@ -1,0 +1,19 @@
+[
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/453", "ok": 1, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/454", "ok": 2, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/455", "ok": 1, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/456", "ok": 7, "issues": [
+  {"s": "s570", "t": "xdb4fe8b1", "k": "sibling", "verdict": "wrong", "why": "teks halaman ini tidak menyebut Abu Lubabah sama sekali"},
+  {"s": "s571", "t": "xdb4fe8b1", "k": "sibling", "verdict": "wrong", "why": "teks halaman ini tidak menyebut Abu Lubabah sama sekali"}
+]},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/457", "ok": 9, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/458", "ok": 1, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/459", "ok": 8, "issues": [
+  {"s": "s448", "t": "s574", "k": "muakhah", "verdict": "unsure", "why": "dua riwayat bertentangan: versi utama (al-Waqidi) dengan Umar bin al-Khaththab; Hathib hanya riwayat Ibnu Ishaq"}
+]},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/460", "ok": 7, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/461", "ok": 6, "issues": [
+  {"s": "xf9cb4f41", "t": "n7271", "k": "parent", "verdict": "unsure", "why": "anak (Abdullah bin al-Harits bin Hathib) di-resolve ke node generik 'عبد الله بن الحارث' tanpa nasab; mungkin orang lain yang senama"}
+]},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/462", "ok": 4, "issues": []}
+]

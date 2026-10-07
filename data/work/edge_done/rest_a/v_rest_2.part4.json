@@ -1,0 +1,18 @@
+[
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/464", "ok": 2, "issues": [
+  {"s": "s582", "t": "s583", "k": "sibling", "verdict": "wrong", "why": "Umair bin Ma'bad bin al-Az'ar adalah anak saudara (keponakan) Abu Mulail bin al-Az'ar, bukan saudaranya"}
+]},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/469", "ok": 4, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/470", "ok": 1, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/471", "ok": 3, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/473", "ok": 3, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/475", "ok": 1, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/477", "ok": 5, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/478", "ok": 2, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/479", "ok": 0, "issues": [
+  {"s": "x2f18216d", "t": "s436", "k": "parent", "verdict": "wrong", "why": "orang salah: s436 = Malik bin Amr as-Sulami, sekutu Bani Abd Syams (3/97, gugur di Yamamah), bukan Abu Hannah; lagi pula ibu ini hanya dalam versi Ibnu Umarah (Abu Hannah bin Tsabit bin an-Nu'man)"},
+  {"s": "x2f18216d", "t": "x34dcfb1f", "k": "spouse", "verdict": "wrong", "why": "teks tidak menyebut; mencampur dua versi — dalam versi ibu Abu Dhiyah, suaminya Tsabit bin an-Nu'man, bukan Amr bin Tsabit bin Kalafah"},
+  {"s": "s436", "t": "x4fa916df", "k": "sibling", "verdict": "wrong", "why": "orang salah: s436 = Malik bin Amr as-Sulami (3/97); persaudaraan dengan Abu Dhiyah hanya versi Ibnu Umarah untuk Abu Hannah bin Tsabit"}
+]},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/480", "ok": 2, "issues": []}
+]

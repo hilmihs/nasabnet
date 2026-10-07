@@ -1,0 +1,21 @@
+[
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/239", "ok": 4, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/242", "ok": 11, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/245", "ok": 4, "issues": [
+  {"s": "xa43453de", "t": "s495", "k": "parent", "verdict": "wrong", "why": "Syammas bernama Utsman bin Utsman bin asy-Syarid; asy-Syarid adalah kakeknya, ayahnya Utsman bin asy-Syarid"},
+  {"s": "xa43453de", "t": "xdbb32dc4", "k": "spouse", "verdict": "wrong", "why": "Shafiyyah binti Rabi'ah adalah istri Utsman bin asy-Syarid (ayah Syammas), bukan asy-Syarid"}
+]},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/246", "ok": 1, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/264", "ok": 1, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/265", "ok": 9, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/376", "ok": 2, "issues": [
+  {"s": "s4585", "t": "n3295", "k": "parent", "verdict": "unsure", "why": "anak Lubabah adalah Abdurrahman bin Zaid; node n3295 nama pendeknya 'Umar bin Abdurrahman bin Zaid' (cucu) walau nasab lengkapnya Abdurrahman bin Zaid — label bertentangan"}
+]},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/379", "ok": 22, "issues": [
+  {"s": "s4436", "t": "x8ba0611a", "k": "parent", "verdict": "wrong", "why": "orang salah: ibu Khalid adalah 'Ummu Khalid, ummu walad', bukan Lubabah ash-Shughra binti al-Harits (ibu Khalid bin al-Walid)"},
+  {"s": "s4436", "t": "xc14da58c", "k": "parent", "verdict": "wrong", "why": "orang salah: ibunya Ummu Khalid ummu walad, bukan Lubabah ash-Shughra binti al-Harits"},
+  {"s": "s4436", "t": "x54cec178", "k": "parent", "verdict": "wrong", "why": "orang salah: ibunya Ummu Khalid ummu walad, bukan Lubabah ash-Shughra binti al-Harits"}
+]},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/385", "ok": 3, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/386", "ok": 2, "issues": []}
+]

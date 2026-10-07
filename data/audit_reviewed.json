@@ -1111,5 +1111,14 @@
   ],
   "verdict": "unsure",
   "why": "Teks n11390 sendiri meragukan ('يقال: هي بنت جحش، ويقال: امرأة ابن مسعود'), tak bisa dipastikan sama dengan n2219 atau justru Zainab bint Jahsy yang berbeda."
+ },
+ {
+  "rule": "R6",
+  "ids": [
+   "s4926",
+   "xf04a8454"
+  ],
+  "verdict": "ok",
+  "why": "'Amrah binti Qais al-'Adawiyyah, perawi Basrah; ayahnya Qais al-'Adawi, label nasab hanya menyebut nisbah"
  }
 ]

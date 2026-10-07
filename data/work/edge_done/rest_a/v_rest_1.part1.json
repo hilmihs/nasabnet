@@ -1,0 +1,19 @@
+[
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/100", "ok": 13, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/114", "ok": 2, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/115", "ok": 2, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/116", "ok": 2, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/122", "ok": 4, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/123", "ok": 1, "issues": [
+  {"s": "x2c229c71", "t": "s456", "k": "parent", "verdict": "unsure", "why": "teks: ayah Thulaib adalah Umair bin Wahb bin Katsir bin Abd bin Qushay; label node 'Umair bin Wahb bin Abdu Manaf' nasabnya tidak cocok (relasi benar, label salah)"}
+]},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/124", "ok": 1, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/137", "ok": 17, "issues": [
+  {"s": "x744cd96d", "t": "n20706", "k": "parent", "verdict": "wrong", "why": "orang salah: anak Ummu Amir adalah Ishaq al-Ashghar; n20706 adalah Ishaq al-Akbar yang ibunya putri Syihab bin Abdullah"},
+  {"s": "x365bf76f", "t": "n3681", "k": "parent", "verdict": "unsure", "why": "n3681 'Abdullah bin Sa'd' tanpa nasab; bisa homonim (mis. Ibnu Abi Sarh), belum tentu putra Sa'd bin Abi Waqqash"}
+]},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/149", "ok": 2, "issues": [
+  {"s": "x0eba941d", "t": "xa6766b80", "k": "spouse", "verdict": "wrong", "why": "suami Hamnah binti Sufyan adalah Abu Waqqash (Malik bin Wuhaib), bukan Wuhaib bin Abdu Manaf (kakek Umair)"}
+]},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/150", "ok": 1, "issues": []}
+]

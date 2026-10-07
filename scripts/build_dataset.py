@@ -24,6 +24,7 @@ from pathlib import Path
 from nasab import TRIBES, classify_tribe, expand_prophet, extend_chain, norm, parse_chain, pick_name_segment
 
 ROOT = Path(__file__).resolve().parent.parent
+CORR = ROOT / "data" / "corrections.json"
 RAW = ROOT / "data" / "raw"
 WORK = ROOT / "data" / "work"
 OUT = ROOT / "web" / "public" / "data" / "nasabnet.json"
@@ -464,6 +465,11 @@ def main():
 
     # ---- 3. Ibn Sa'd subjects
     ib_pid = {}
+    merged_into_s = []
+    # biographies Ibn Sa'd wrote twice (reviewed merges between two s-ids) are joined here, before names are
+    # resolved, so mentions like "فاطمة بنت أسد" stay unambiguous
+    ib_repeats = {(o["keep"], o["drop"]) for o in json.loads(CORR.read_text()) if o.get("op") == "merge"
+                  and str(o.get("keep", "")).startswith("s") and str(o.get("drop", "")).startswith("s")} if CORR.exists() else set()
     for rid, x in ib_ex.items():
         if x.get("skip") or not x.get("subject") or not (x["subject"] or {}).get("ar"):
             continue
@@ -475,6 +481,11 @@ def main():
         full = ibnsad_full_chain(e)
         # the longer nasab first; the short subject name only as a fallback
         pid = (R.resolve(full, g=g, create=False) if full else None) or R.resolve(sub["ar"], g=g, create=False)
+        if pid and pid.startswith("s") and (pid, f"s{e['i']}") not in ib_repeats:
+            # two separate Ibn Sa'd biographies are two people (مالك بن عمرو 3/97 ≠ أبو حنة مالك بن عمرو بن ثابت 3/479);
+            # a real repeat is merged by hand in data/corrections.json
+            merged_into_s.append((rid, pid))
+            pid = None
         if pid and R.p[pid].get("nisba"):
             # never fold an Ibn Sa'd biography into a namesake narrator of another tribal group
             # (عبد الله بن الحارث الهاشمي ≠ عبد الله بن الحارث الباهلي)
@@ -502,6 +513,8 @@ def main():
         R.add_src(pid, ibnsad_src(vol, page))
         P.setdefault("ibnsad", []).append((vol, page, e.get("ctx", ""), x.get("tribe_hint")))
         ib_pid[rid] = pid
+
+    print("Ibn Sa'd entries kept apart from an earlier entry:", len(merged_into_s))
 
     # ---- 4. relations
     def apply(pid, x, src):
