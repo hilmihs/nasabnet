@@ -1,0 +1,20 @@
+[
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/352", "ok": 2, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/353", "ok": 1, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/354", "ok": 1, "issues": [
+  {"s": "x29117462", "t": "n2034", "k": "parent", "verdict": "unsure", "why": "teks: رويفع بن ثابت البلوي; node n2034 bernasab Anshari (بن السكن ... بن مالك بن النجار) — mungkin orang lain dari suku berbeda"}
+]},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/355", "ok": 2, "issues": [
+  {"s": "n7390", "t": "s1087", "k": "parent", "verdict": "wrong", "why": "salah orang: node n7390 = ثعلبة kakek الهرماس بن حبيب, bukan ayah أبو أمامة البلوي"}
+]},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/356", "ok": 1, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/357", "ok": 2, "issues": [
+  {"s": "s1095", "t": "n3065", "k": "parent", "verdict": "wrong", "why": "teks tidak menyebut anak أبو عامر الأشعري bernama عامر; node n3065 (أبو عامر = عبيد بن وهب) juga nasab lain"}
+]},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/359", "ok": 2, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/363", "ok": 1, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/364", "ok": 24, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/369", "ok": 20, "issues": [
+  {"s": "s1108", "t": "s4537", "k": "sibling", "verdict": "unsure", "why": "benar, disebut di entri lain (4/364: عازب ... له من الولد البراء وعبيد وأم عبد الله)"}
+]}
+]

@@ -1,0 +1,19 @@
+[
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/242", "ok": 3, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/243", "ok": 3, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/244", "ok": 5, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/245", "ok": 9, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/246", "ok": 6, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/247", "ok": 18, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/248", "ok": 4, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/249", "ok": 22, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/255", "ok": 8, "issues": [
+  {"s": "n816", "t": "xe91c0f13", "k": "parent", "verdict": "wrong", "why": "teks terpotong: an-Nahdiyyah adalah budak yang dibeli & dimerdekakan Abu Bakr (entri terpisah), bukan anak Umaimah"},
+  {"s": "x62e5b9ad", "t": "xe91c0f13", "k": "parent", "verdict": "wrong", "why": "teks terpotong: an-Nahdiyyah adalah budak yang dibeli Abu Bakr, bukan anak Habib"},
+  {"s": "n816", "t": "x76db6c90", "k": "parent", "verdict": "wrong", "why": "teks terpotong: Umm Ubais adalah budak yang dibeli & dimerdekakan Abu Bakr, bukan anak Umaimah"},
+  {"s": "x62e5b9ad", "t": "x76db6c90", "k": "parent", "verdict": "wrong", "why": "teks terpotong: Umm Ubais adalah budak yang dibeli Abu Bakr, bukan anak Habib"},
+  {"s": "n816", "t": "x8b7bcaf5", "k": "parent", "verdict": "wrong", "why": "teks terpotong: Zunairah adalah budak yang dibeli & dimerdekakan Abu Bakr, bukan anak Umaimah"},
+  {"s": "x62e5b9ad", "t": "x8b7bcaf5", "k": "parent", "verdict": "wrong", "why": "teks terpotong: Zunairah adalah budak yang dibeli Abu Bakr, bukan anak Habib"}
+]},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/256", "ok": 2, "issues": []}
+]

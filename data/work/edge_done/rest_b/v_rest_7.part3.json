@@ -1,0 +1,19 @@
+[
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/148", "ok": 1, "issues": [
+  {"s": "s4329", "t": "xf43d6b48", "k": "spouse", "verdict": "wrong", "why": "node 'رجل من بني عذرة' hanya nama kabilah, bukan orang teridentifikasi"}
+]},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/149", "ok": 2, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/150", "ok": 2, "issues": [
+  {"s": "s4333", "t": "x4663feda", "k": "spouse", "verdict": "unsure", "why": "teks: مسعود بن أوس بن سواد بن ظفر, node 'بن أوس بن مالك' (nasab beda, mungkin orang lain); catatan 'menikah masa Jahiliyah' juga bertentangan dengan teks (menikah setelah Nabi melepasnya)"}
+]},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/151", "ok": 3, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/153", "ok": 3, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/154", "ok": 3, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/158", "ok": 4, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/160", "ok": 3, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/222", "ok": 3, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/223", "ok": 2, "issues": [
+  {"s": "s4365", "t": "s817", "k": "spouse", "verdict": "wrong", "why": "orang salah: teks عبيد بن زيد dari Bani al-Harits bin al-Khazraj (ayah Aiman), node s817 dari Bani Zuraiq dan 'tidak punya keturunan'"},
+  {"s": "s817", "t": "x632037a5", "k": "parent", "verdict": "wrong", "why": "orang salah: ayah Aiman adalah Ubaid bin Zaid dari Bani al-Harits bin al-Khazraj, bukan Ubaid bin Zaid az-Zuraqi (tanpa keturunan)"}
+]}
+]

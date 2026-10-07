@@ -798,9 +798,25 @@
    "s902",
    "Abdullah al-Akbar bin Syihab",
    "عبد الله الأكبر بن شهاب"
+  ],
+  [
+   "n615",
+   "Abu Rafi' (maula Rasulullah ﷺ)",
+   "أبو رافع مولى رسول الله ﷺ"
+  ],
+  [
+   "n2554",
+   "Salma (maulat Rasulullah ﷺ)",
+   "سلمى مولاة رسول الله ﷺ"
   ]
  ],
  "strict": [
   "n3685"
+ ],
+ "keep_apart": [
+  [
+   "n4833",
+   "4/100"
+  ]
  ]
 }

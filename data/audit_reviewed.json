@@ -1120,5 +1120,14 @@
   ],
   "verdict": "ok",
   "why": "'Amrah binti Qais al-'Adawiyyah, perawi Basrah; ayahnya Qais al-'Adawi, label nasab hanya menyebut nisbah"
+ },
+ {
+  "rule": "R6",
+  "ids": [
+   "s4397",
+   "x0a8836fe"
+  ],
+  "verdict": "ok",
+  "why": "Barakah binti Yasar saudari Abu Tajrah; ayah mereka Yasar Abu Fukaihah, maula Bani 'Abd ad-Dar (Ibnu Sa'd 8/246)"
  }
 ]

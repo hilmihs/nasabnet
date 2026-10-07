@@ -1,0 +1,20 @@
+[
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/273", "ok": 7, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/276", "ok": 2, "issues": [
+  {"s": "n2216", "t": "n15565", "k": "parent", "verdict": "wrong", "why": "orang salah: anak Umm Ruman adalah ath-Thufail bin al-Harits bin Sakhbarah al-Azdi, bukan ath-Thufail bin al-Harits bin al-Muththalib (Quraisy)"},
+  {"s": "xd67b607f", "t": "n15565", "k": "parent", "verdict": "wrong", "why": "orang salah: anak al-Harits bin Sakhbarah adalah ath-Thufail al-Azdi, bukan ath-Thufail bin al-Harits bin al-Muththalib"}
+]},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/277", "ok": 1, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/279", "ok": 4, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/280", "ok": 8, "issues": [
+  {"s": "s4438", "t": "xb1def18c", "k": "spouse", "verdict": "wrong", "why": "simpul 'رجل من بني كلاب' hanya nama kabilah, bukan orang tertentu (lagi pula riwayat alternatif)"},
+  {"s": "s4438", "t": "s604", "k": "parent", "verdict": "wrong", "why": "orang salah: anak 'Azzah adalah Abdurrahman bin Abdullah bin Malik al-Hilali, bukan Abdurrahman bin Abdullah bin Tsa'labah"}
+]},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/285", "ok": 6, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/286", "ok": 10, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/287", "ok": 6, "issues": [
+  {"s": "n4833", "t": "s4443", "k": "spouse", "verdict": "wrong", "why": "orang salah: suami Fathimah adalah 'Amr bin Sa'id bin al-'Ash bin Umayyah (muhajir Habasyah), bukan al-Asydaq 'Amr bin Sa'id bin al-'Ash bin Sa'id (generasi berikutnya)"}
+]},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/288", "ok": 2, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/289", "ok": 3, "issues": []}
+]

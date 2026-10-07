@@ -506,6 +506,7 @@ def main():
     # ---- 3. Ibn Sa'd subjects
     ib_pid = {}
     merged_into_s = []
+    keep_apart = {(a, b) for a, b in cur.get("keep_apart", [])}
     # biographies Ibn Sa'd wrote twice (reviewed merges between two s-ids) are joined here, before names are
     # resolved, so mentions like "فاطمة بنت أسد" stay unambiguous
     ib_repeats = {(o["keep"], o["drop"]) for o in json.loads(CORR.read_text()) if o.get("op") == "merge"
@@ -521,6 +522,10 @@ def main():
         full = ibnsad_full_chain(e)
         # the longer nasab first; the short subject name only as a fallback
         pid = (R.resolve(full, g=g, create=False) if full else None) or R.resolve(sub["ar"], g=g, create=False)
+        if pid and (pid, f"{e['vol']}/{e['page']}") in keep_apart:
+            # reviewed namesakes: this biography is not that narrator (عمرو بن سعيد بن العاص the Companion, 4/100,
+            # is not his grandson al-Asydaq)
+            pid = None
         if pid and pid.startswith("s") and (pid, f"s{e['i']}") not in ib_repeats:
             # two separate Ibn Sa'd biographies are two people (مالك بن عمرو 3/97 ≠ أبو حنة مالك بن عمرو بن ثابت 3/479);
             # a real repeat is merged by hand in data/corrections.json

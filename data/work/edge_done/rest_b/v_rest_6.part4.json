@@ -1,0 +1,18 @@
+[
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/370", "ok": 1, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/371", "ok": 12, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/372", "ok": 11, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/373", "ok": 8, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/374", "ok": 10, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/375", "ok": 1, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/377", "ok": 4, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/378", "ok": 5, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/381", "ok": 10, "issues": [
+  {"s": "xf17798eb", "t": "n10643", "k": "parent", "verdict": "wrong", "why": "salah orang: n10643 = entri 'عمير بن حبيب، صوابه ابن قتادة' (عمير بن قتادة), bukan عمير بن حبيب بن حباشة الخطمي"},
+  {"s": "xcdbc3bfa", "t": "n10643", "k": "parent", "verdict": "wrong", "why": "salah orang: n10643 = 'عمير بن حبيب، صوابه ابن قتادة', bukan عمير بن حبيب بن حباشة الخطمي"}
+]},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/382", "ok": 1, "issues": [
+  {"s": "s1131", "t": "n3349", "k": "parent", "verdict": "wrong", "why": "salah orang: n3349 = عبد الرحمن بن عبد الله بن سعد بن عثمان, sedangkan teks: anak عبد الله بن سعد بن خيثمة"},
+  {"s": "x89eee0eb", "t": "n3349", "k": "parent", "verdict": "wrong", "why": "salah orang: n3349 bernasab بن سعد بن عثمان, bukan بن سعد بن خيثمة"}
+]}
+]

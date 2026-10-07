@@ -1,53 +1,5 @@
 [
  {
-  "s": "n3146",
-  "t": "n15047",
-  "k": "parent",
-  "verdict": "unsure",
-  "why": "benar, disebut di entri lain (4/274: جاهمة بن العباس بن مرداس)",
-  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/271"
- },
- {
-  "s": "x0c4cc234",
-  "t": "n2947",
-  "k": "parent",
-  "verdict": "unsure",
-  "why": "teks: الضحاك بن سفيان بن الحارث as-Sulami; node n2947 tanpa nasab, mungkin tertukar dengan senama ad-Dhahhak bin Sufyan al-Kilabi",
-  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/274"
- },
- {
-  "s": "s1012",
-  "t": "s1013",
-  "k": "sibling",
-  "verdict": "unsure",
-  "why": "benar, disebut di entri lain (4/296: وأخوه عمرو بن القعواء)",
-  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/295"
- },
- {
-  "s": "x5b8fbaed",
-  "t": "s1018",
-  "k": "parent",
-  "verdict": "unsure",
-  "why": "dua riwayat bertentangan: nama Abu Barzah عبد الله بن نضلة (Ibnu Umar) vs نضلة بن عبد الله/عبيد الله (al-Kalbi dkk.); node ayah menggabungkan keduanya",
-  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/298"
- },
- {
-  "s": "s1021",
-  "t": "s1022",
-  "k": "sibling",
-  "verdict": "unsure",
-  "why": "benar, disebut di entri lain (4/302: ابناه عامر وسلمة)",
-  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/303"
- },
- {
-  "s": "s1020",
-  "t": "s1023",
-  "k": "parent",
-  "verdict": "unsure",
-  "why": "teks hanya 'أهبان بن الأكوع'; tidak dinyatakan anak Sinan al-Akwa', dan 4/302 hanya menyebut dua putra (Amir, Salamah)",
-  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/308"
- },
- {
   "s": "n2289",
   "t": "s4290",
   "k": "spouse",
@@ -390,5 +342,101 @@
   "verdict": "unsure",
   "why": "teks: ibu Sulaith bin Sulaith 'Qahtam binti Alqamah', istri yang hijrah 'Fathimah binti Alqamah'; belum pasti orang yang sama",
   "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/203"
+ },
+ {
+  "s": "n3146",
+  "t": "n15047",
+  "k": "parent",
+  "verdict": "unsure",
+  "why": "benar, disebut di entri lain (4/274: جاهمة بن العباس بن مرداس)",
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/271"
+ },
+ {
+  "s": "x0c4cc234",
+  "t": "n2947",
+  "k": "parent",
+  "verdict": "unsure",
+  "why": "teks: الضحاك بن سفيان بن الحارث as-Sulami; node n2947 tanpa nasab, mungkin tertukar dengan senama ad-Dhahhak bin Sufyan al-Kilabi",
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/274"
+ },
+ {
+  "s": "s1012",
+  "t": "s1013",
+  "k": "sibling",
+  "verdict": "unsure",
+  "why": "benar, disebut di entri lain (4/296: وأخوه عمرو بن القعواء)",
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/295"
+ },
+ {
+  "s": "x5b8fbaed",
+  "t": "s1018",
+  "k": "parent",
+  "verdict": "unsure",
+  "why": "dua riwayat bertentangan: nama Abu Barzah عبد الله بن نضلة (Ibnu Umar) vs نضلة بن عبد الله/عبيد الله (al-Kalbi dkk.); node ayah menggabungkan keduanya",
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/298"
+ },
+ {
+  "s": "s1021",
+  "t": "s1022",
+  "k": "sibling",
+  "verdict": "unsure",
+  "why": "benar, disebut di entri lain (4/302: ابناه عامر وسلمة)",
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/303"
+ },
+ {
+  "s": "s1020",
+  "t": "s1023",
+  "k": "parent",
+  "verdict": "unsure",
+  "why": "teks hanya 'أهبان بن الأكوع'; tidak dinyatakan anak Sinan al-Akwa', dan 4/302 hanya menyebut dua putra (Amir, Salamah)",
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/308"
+ },
+ {
+  "s": "xfbf40dd6",
+  "t": "s1041",
+  "k": "parent",
+  "verdict": "unsure",
+  "why": "'واسمه عبد الله بن قيس بن دعبل' kemungkinan nama مخلع (kakek), bukan زاهر bin al-Aswad; node s1041 tampaknya subjek Zahir yang diberi nama kakeknya",
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/319"
+ },
+ {
+  "s": "s1049",
+  "t": "s1050",
+  "k": "sibling",
+  "verdict": "unsure",
+  "why": "benar, disebut di entri lain (4/323: وأخوه هند بن حارثة)",
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/321"
+ },
+ {
+  "s": "n1183",
+  "t": "n1933",
+  "k": "sibling",
+  "verdict": "unsure",
+  "why": "benar, disebut di entri lain (4/346: وأخوه جندب بن مكيث)",
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/345"
+ },
+ {
+  "s": "x29117462",
+  "t": "n2034",
+  "k": "parent",
+  "verdict": "unsure",
+  "why": "teks: رويفع بن ثابت البلوي; node n2034 bernasab Anshari (بن السكن ... بن مالك بن النجار) — mungkin orang lain dari suku berbeda",
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/354"
+ },
+ {
+  "s": "s1108",
+  "t": "s4537",
+  "k": "sibling",
+  "verdict": "unsure",
+  "why": "benar, disebut di entri lain (4/364: عازب ... له من الولد البراء وعبيد وأم عبد الله)",
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/369"
+ },
+ {
+  "s": "s4333",
+  "t": "x4663feda",
+  "k": "spouse",
+  "verdict": "unsure",
+  "why": "teks: مسعود بن أوس بن سواد بن ظفر, node 'بن أوس بن مالك' (nasab beda, mungkin orang lain); catatan 'menikah masa Jahiliyah' juga bertentangan dengan teks (menikah setelah Nabi melepasnya)",
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/150"
  }
 ]

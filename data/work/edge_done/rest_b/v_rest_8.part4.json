@@ -1,0 +1,15 @@
+[
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/290", "ok": 3, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/291", "ok": 1, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/292", "ok": 3, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/293", "ok": 1, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/295", "ok": 1, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/296", "ok": 1, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/297", "ok": 12, "issues": [
+  {"s": "s4545", "t": "s4462", "k": "parent", "verdict": "wrong", "why": "orang salah: teks hanya menyebut ibunya 'أم عبد الله' (kunyah umum), tidak ada dasar mengidentikkannya dengan Salma binti Aslam bin Huraisy (Anshar)"},
+  {"s": "s4545", "t": "xe7c68fa6", "k": "spouse", "verdict": "wrong", "why": "orang salah: istri Sufyan bin Wahb di teks hanya 'أم عبد الله', bukan Salma binti Aslam bin Huraisy"}
+]},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/298", "ok": 6, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/30", "ok": 1, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/300", "ok": 10, "issues": []}
+]

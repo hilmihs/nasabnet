@@ -3143,5 +3143,284 @@
   "rule": "EV",
   "fid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/313",
   "why": "sanad rusak: 'أبي سلمة بن عبد الرحمن بن ربيعة' seharusnya 'عن ربيعة' (Abu Salamah bin Abdurrahman bin Auf meriwayatkan dari Rabi'ah); Abdurrahman bin Rabi'ah tidak disebut"
+ },
+ {
+  "op": "merge",
+  "keep": "n3871",
+  "drop": "x4ea919a9",
+  "why": "Abdullah bin Malik Ibnu Buhainah tercatat dua kali (Ibnu Sa'd 4/342 & data rawi)",
+  "rule": "M",
+  "fid": "manual-81"
+ },
+ {
+  "op": "merge",
+  "keep": "xcf2213a8",
+  "drop": "x928dbd3b",
+  "why": "Hind dan Asma' putra Haritsah bin Sa'd al-Aslami bersaudara (Ibnu Sa'd 4/321–323); ayah mereka satu orang",
+  "rule": "M",
+  "fid": "manual-82"
+ },
+ {
+  "op": "drop_edge",
+  "s": "s1057",
+  "t": "x06867be7",
+  "k": "sibling",
+  "rule": "EV",
+  "fid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/341",
+  "why": "teks hanya menyebut sanad 'الحارث بن عبد الرحمن بن أبي ذباب عن أبيه عن سعد'; tidak disebut عبد الرحمن saudara سعد"
+ },
+ {
+  "op": "drop_edge",
+  "s": "n7390",
+  "t": "s1087",
+  "k": "parent",
+  "rule": "EV",
+  "fid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/355",
+  "why": "salah orang: node n7390 = ثعلبة kakek الهرماس بن حبيب, bukan ayah أبو أمامة البلوي"
+ },
+ {
+  "op": "drop_edge",
+  "s": "s1095",
+  "t": "n3065",
+  "k": "parent",
+  "rule": "EV",
+  "fid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/357",
+  "why": "teks tidak menyebut anak أبو عامر الأشعري bernama عامر; node n3065 (أبو عامر = عبيد بن وهب) juga nasab lain"
+ },
+ {
+  "op": "drop_edge",
+  "s": "xf17798eb",
+  "t": "n10643",
+  "k": "parent",
+  "rule": "EV",
+  "fid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/381",
+  "why": "salah orang: n10643 = entri 'عمير بن حبيب، صوابه ابن قتادة' (عمير بن قتادة), bukan عمير بن حبيب بن حباشة الخطمي"
+ },
+ {
+  "op": "drop_edge",
+  "s": "xcdbc3bfa",
+  "t": "n10643",
+  "k": "parent",
+  "rule": "EV",
+  "fid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/381",
+  "why": "salah orang: n10643 = 'عمير بن حبيب، صوابه ابن قتادة', bukan عمير بن حبيب بن حباشة الخطمي"
+ },
+ {
+  "op": "drop_edge",
+  "s": "s1131",
+  "t": "n3349",
+  "k": "parent",
+  "rule": "EV",
+  "fid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/382",
+  "why": "salah orang: n3349 = عبد الرحمن بن عبد الله بن سعد بن عثمان, sedangkan teks: anak عبد الله بن سعد بن خيثمة"
+ },
+ {
+  "op": "drop_edge",
+  "s": "x89eee0eb",
+  "t": "n3349",
+  "k": "parent",
+  "rule": "EV",
+  "fid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/382",
+  "why": "salah orang: n3349 bernasab بن سعد بن عثمان, bukan بن سعد بن خيثمة"
+ },
+ {
+  "op": "merge",
+  "keep": "n615",
+  "drop": "s871",
+  "why": "Abu Rafi' (Aslam), maula Rasulullah ﷺ dan suami Salma, tercatat beberapa kali (Ibnu Sa'd 4/73, 8/227 & data rawi)",
+  "rule": "M",
+  "fid": "manual-83"
+ },
+ {
+  "op": "merge",
+  "keep": "n615",
+  "drop": "x730ea040",
+  "why": "Abu Rafi' (Aslam), maula Rasulullah ﷺ dan suami Salma, tercatat beberapa kali (Ibnu Sa'd 4/73, 8/227 & data rawi)",
+  "rule": "M",
+  "fid": "manual-84"
+ },
+ {
+  "op": "merge",
+  "keep": "n615",
+  "drop": "x730ea0402",
+  "why": "Abu Rafi' (Aslam), maula Rasulullah ﷺ dan suami Salma, tercatat beberapa kali (Ibnu Sa'd 4/73, 8/227 & data rawi)",
+  "rule": "M",
+  "fid": "manual-85"
+ },
+ {
+  "op": "drop_edge",
+  "s": "s4329",
+  "t": "xf43d6b48",
+  "k": "spouse",
+  "rule": "EV",
+  "fid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/148",
+  "why": "node 'رجل من بني عذرة' hanya nama kabilah, bukan orang teridentifikasi"
+ },
+ {
+  "op": "drop_edge",
+  "s": "s4365",
+  "t": "s817",
+  "k": "spouse",
+  "rule": "EV",
+  "fid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/223",
+  "why": "orang salah: teks عبيد بن زيد dari Bani al-Harits bin al-Khazraj (ayah Aiman), node s817 dari Bani Zuraiq dan 'tidak punya keturunan'"
+ },
+ {
+  "op": "drop_edge",
+  "s": "s817",
+  "t": "x632037a5",
+  "k": "parent",
+  "rule": "EV",
+  "fid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/223",
+  "why": "orang salah: ayah Aiman adalah Ubaid bin Zaid dari Bani al-Harits bin al-Khazraj, bukan Ubaid bin Zaid az-Zuraqi (tanpa keturunan)"
+ },
+ {
+  "op": "merge",
+  "keep": "n2554",
+  "drop": "s4366",
+  "why": "Salma, maulat Rasulullah ﷺ dan istri Abu Rafi', tercatat dua kali (Ibnu Sa'd 8/227 & data rawi)",
+  "rule": "M",
+  "fid": "manual-86"
+ },
+ {
+  "op": "merge",
+  "keep": "x0a8836fe",
+  "drop": "xb81145cf",
+  "why": "Yasar Abu Fukaihah tercatat dua kali (Ibnu Sa'd 8/246)",
+  "rule": "M",
+  "fid": "manual-87"
+ },
+ {
+  "op": "merge",
+  "keep": "x838d9942",
+  "drop": "x33a3fd56",
+  "why": "Abu Tajrah bin Abi Fukaihah (Yasar) tercatat beberapa kali (Ibnu Sa'd 8/246–247)",
+  "rule": "M",
+  "fid": "manual-88"
+ },
+ {
+  "op": "merge",
+  "keep": "x838d9942",
+  "drop": "x10516efb",
+  "why": "Abu Tajrah bin Abi Fukaihah (Yasar) tercatat beberapa kali (Ibnu Sa'd 8/246–247)",
+  "rule": "M",
+  "fid": "manual-89"
+ },
+ {
+  "op": "drop_edge",
+  "s": "n816",
+  "t": "xe91c0f13",
+  "k": "parent",
+  "rule": "EV",
+  "fid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/255",
+  "why": "teks terpotong: an-Nahdiyyah adalah budak yang dibeli & dimerdekakan Abu Bakr (entri terpisah), bukan anak Umaimah"
+ },
+ {
+  "op": "drop_edge",
+  "s": "x62e5b9ad",
+  "t": "xe91c0f13",
+  "k": "parent",
+  "rule": "EV",
+  "fid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/255",
+  "why": "teks terpotong: an-Nahdiyyah adalah budak yang dibeli Abu Bakr, bukan anak Habib"
+ },
+ {
+  "op": "drop_edge",
+  "s": "n816",
+  "t": "x76db6c90",
+  "k": "parent",
+  "rule": "EV",
+  "fid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/255",
+  "why": "teks terpotong: Umm Ubais adalah budak yang dibeli & dimerdekakan Abu Bakr, bukan anak Umaimah"
+ },
+ {
+  "op": "drop_edge",
+  "s": "x62e5b9ad",
+  "t": "x76db6c90",
+  "k": "parent",
+  "rule": "EV",
+  "fid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/255",
+  "why": "teks terpotong: Umm Ubais adalah budak yang dibeli Abu Bakr, bukan anak Habib"
+ },
+ {
+  "op": "drop_edge",
+  "s": "n816",
+  "t": "x8b7bcaf5",
+  "k": "parent",
+  "rule": "EV",
+  "fid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/255",
+  "why": "teks terpotong: Zunairah adalah budak yang dibeli & dimerdekakan Abu Bakr, bukan anak Umaimah"
+ },
+ {
+  "op": "drop_edge",
+  "s": "x62e5b9ad",
+  "t": "x8b7bcaf5",
+  "k": "parent",
+  "rule": "EV",
+  "fid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/255",
+  "why": "teks terpotong: Zunairah adalah budak yang dibeli Abu Bakr, bukan anak Habib"
+ },
+ {
+  "op": "drop_edge",
+  "s": "n2216",
+  "t": "n15565",
+  "k": "parent",
+  "rule": "EV",
+  "fid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/276",
+  "why": "orang salah: anak Umm Ruman adalah ath-Thufail bin al-Harits bin Sakhbarah al-Azdi, bukan ath-Thufail bin al-Harits bin al-Muththalib (Quraisy)"
+ },
+ {
+  "op": "drop_edge",
+  "s": "xd67b607f",
+  "t": "n15565",
+  "k": "parent",
+  "rule": "EV",
+  "fid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/276",
+  "why": "orang salah: anak al-Harits bin Sakhbarah adalah ath-Thufail al-Azdi, bukan ath-Thufail bin al-Harits bin al-Muththalib"
+ },
+ {
+  "op": "drop_edge",
+  "s": "s4438",
+  "t": "xb1def18c",
+  "k": "spouse",
+  "rule": "EV",
+  "fid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/280",
+  "why": "simpul 'رجل من بني كلاب' hanya nama kabilah, bukan orang tertentu (lagi pula riwayat alternatif)"
+ },
+ {
+  "op": "drop_edge",
+  "s": "s4438",
+  "t": "s604",
+  "k": "parent",
+  "rule": "EV",
+  "fid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/280",
+  "why": "orang salah: anak 'Azzah adalah Abdurrahman bin Abdullah bin Malik al-Hilali, bukan Abdurrahman bin Abdullah bin Tsa'labah"
+ },
+ {
+  "op": "drop_edge",
+  "s": "n4833",
+  "t": "s4443",
+  "k": "spouse",
+  "rule": "EV",
+  "fid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/287",
+  "why": "orang salah: suami Fathimah adalah 'Amr bin Sa'id bin al-'Ash bin Umayyah (muhajir Habasyah), bukan al-Asydaq 'Amr bin Sa'id bin al-'Ash bin Sa'id (generasi berikutnya)"
+ },
+ {
+  "op": "drop_edge",
+  "s": "s4545",
+  "t": "s4462",
+  "k": "parent",
+  "rule": "EV",
+  "fid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/297",
+  "why": "orang salah: teks hanya menyebut ibunya 'أم عبد الله' (kunyah umum), tidak ada dasar mengidentikkannya dengan Salma binti Aslam bin Huraisy (Anshar)"
+ },
+ {
+  "op": "drop_edge",
+  "s": "s4545",
+  "t": "xe7c68fa6",
+  "k": "spouse",
+  "rule": "EV",
+  "fid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/297",
+  "why": "orang salah: istri Sufyan bin Wahb di teks hanya 'أم عبد الله', bukan Salma binti Aslam bin Huraisy"
  }
 ]

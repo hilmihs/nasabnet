@@ -1,0 +1,16 @@
+[
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/341", "ok": 1, "issues": [
+  {"s": "s1057", "t": "x06867be7", "k": "sibling", "verdict": "wrong", "why": "teks hanya menyebut sanad 'الحارث بن عبد الرحمن بن أبي ذباب عن أبيه عن سعد'; tidak disebut عبد الرحمن saudara سعد"}
+]},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/342", "ok": 7, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/343", "ok": 1, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/344", "ok": 1, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/345", "ok": 2, "issues": [
+  {"s": "n1183", "t": "n1933", "k": "sibling", "verdict": "unsure", "why": "benar, disebut di entri lain (4/346: وأخوه جندب بن مكيث)"}
+]},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/346", "ok": 2, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/347", "ok": 1, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/348", "ok": 2, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/349", "ok": 3, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/350", "ok": 1, "issues": []}
+]

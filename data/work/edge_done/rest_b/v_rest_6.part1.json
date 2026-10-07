@@ -1,0 +1,16 @@
+[
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/315", "ok": 1, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/316", "ok": 3, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/317", "ok": 4, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/318", "ok": 3, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/319", "ok": 1, "issues": [
+  {"s": "xfbf40dd6", "t": "s1041", "k": "parent", "verdict": "unsure", "why": "'واسمه عبد الله بن قيس بن دعبل' kemungkinan nama مخلع (kakek), bukan زاهر bin al-Aswad; node s1041 tampaknya subjek Zahir yang diberi nama kakeknya"}
+]},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/320", "ok": 3, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/321", "ok": 4, "issues": [
+  {"s": "s1049", "t": "s1050", "k": "sibling", "verdict": "unsure", "why": "benar, disebut di entri lain (4/323: وأخوه هند بن حارثة)"}
+]},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/323", "ok": 3, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/324", "ok": 1, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/325", "ok": 1, "issues": []}
+]
