@@ -4266,5 +4266,167 @@
   "rule": "EV",
   "fid": "Turath · data rawi: سهل ابن الحنظلية",
   "why": "orang salah: saudaranya 'Uqbah Ibn al-Hanzhaliyyah (Ausi); n4435 adalah 'Uqbah bin 'Amr bin Tsa'labah (Abu Mas'ud al-Badri, Khazraji)"
+ },
+ {
+  "op": "drop_edge",
+  "s": "x932e8a60",
+  "t": "xe91c0f13",
+  "k": "parent",
+  "rule": "EV",
+  "fid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/255",
+  "why": "judul entri baru hilang; النهدية وابنتها وأم عبيس وزنيرة adalah budak yang disiksa lalu dibeli dan dimerdekakan Abu Bakr, bukan anak Umaimah"
+ },
+ {
+  "op": "drop_edge",
+  "s": "x932e8a602",
+  "t": "x76db6c90",
+  "k": "parent",
+  "rule": "EV",
+  "fid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/255",
+  "why": "Ummu Ubais budak yang dimerdekakan Abu Bakr (entri terpisah), bukan anak Umaimah bint Ruqaiqah"
+ },
+ {
+  "op": "drop_edge",
+  "s": "x932e8a603",
+  "t": "x8b7bcaf5",
+  "k": "parent",
+  "rule": "EV",
+  "fid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/255",
+  "why": "Zunairah budak yang dimerdekakan Abu Bakr (entri terpisah), bukan anak Umaimah bint Ruqaiqah"
+ },
+ {
+  "op": "drop_edge",
+  "s": "x62b95b49",
+  "t": "n3681",
+  "k": "parent",
+  "rule": "EV",
+  "fid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/345",
+  "why": "orang salah: anak Habibah adalah عبد الله بن سعد بن خيثمة (n21519), sedangkan n3681 adalah Abdullah bin Sa'd al-Anshari paman Haram bin Mu'awiyah"
+ },
+ {
+  "op": "drop_edge",
+  "s": "x2b8292792",
+  "t": "x934f8b97",
+  "k": "parent",
+  "rule": "EV",
+  "fid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/399",
+  "why": "teks: Abdurrahman putra Mas'ud bin Zaid bin Subai', bukan Mas'ud bin Tsa'labah (orang lain)"
+ },
+ {
+  "op": "drop_edge",
+  "s": "n2213",
+  "t": "s604",
+  "k": "parent",
+  "rule": "EV",
+  "fid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/461",
+  "why": "teks: Abdurrahman bin Abdullah bin Zam'ah, bukan Abdurrahman bin Abdullah bin Tsa'labah (orang lain)"
+ },
+ {
+  "op": "drop_edge",
+  "s": "xe5343546",
+  "t": "n17604",
+  "k": "parent",
+  "rule": "EV",
+  "fid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/473",
+  "why": "teks: al-Qasim putra Abdullah bin Amr bin Utsman bin Affan, bukan al-Qasim bin Abdullah bin Amr bin al-Ash"
+ },
+ {
+  "op": "drop_edge",
+  "s": "n3822",
+  "t": "n17604",
+  "k": "parent",
+  "why": "al-Qasim putra 'Abdullah bin 'Amr bin 'Utsman bukan al-Qasim bin 'Abdullah bin 'Amr bin al-'Ash (Ibnu Sa'd 8/473)",
+  "rule": "M",
+  "fid": "manual-116"
+ },
+ {
+  "op": "drop_edge",
+  "s": "s817",
+  "t": "n15806",
+  "k": "parent",
+  "why": "ayah Aiman (putra Ummu Aiman) adalah 'Ubaid bin Zaid dari Bani al-Harits bin al-Khazraj, bukan 'Ubaid bin Zaid az-Zuraqi",
+  "rule": "M",
+  "fid": "manual-117"
+ },
+ {
+  "op": "drop_edge",
+  "s": "n5081",
+  "t": "xe93f37bd",
+  "k": "parent",
+  "why": "Yahya bin Hani' bin 'Urwah al-Muradi bukan putra Farwah bin Musaik",
+  "rule": "M",
+  "fid": "manual-118"
+ },
+ {
+  "op": "merge",
+  "keep": "n3708",
+  "drop": "x8bebab02",
+  "why": "'Abdullah bin Syaddad bin al-Had tercatat dua kali (Ibnu Sa'd & data rawi)",
+  "rule": "M",
+  "fid": "manual-119"
+ },
+ {
+  "op": "merge",
+  "keep": "n20997",
+  "drop": "xfa7d5fd5",
+  "why": "Isma'il bin Zaid bin Tsabit tercatat dua kali",
+  "rule": "M",
+  "fid": "manual-120"
+ },
+ {
+  "op": "merge",
+  "keep": "n10179",
+  "drop": "x465c797c",
+  "why": "Sulaiman bin Zaid bin Tsabit tercatat dua kali",
+  "rule": "M",
+  "fid": "manual-121"
+ },
+ {
+  "op": "merge",
+  "keep": "n15526",
+  "drop": "x5d624214",
+  "why": "Makhramah bin Naufal tercatat dua kali (data rawi berlabel 'لمخرمة')",
+  "rule": "M",
+  "fid": "manual-122"
+ },
+ {
+  "op": "merge",
+  "keep": "n15379",
+  "drop": "xc053ba6d",
+  "why": "Qais bin Qahd tercatat beberapa kali",
+  "rule": "M",
+  "fid": "manual-123"
+ },
+ {
+  "op": "merge",
+  "keep": "n15379",
+  "drop": "xc053ba6d2",
+  "why": "Qais bin Qahd tercatat beberapa kali",
+  "rule": "M",
+  "fid": "manual-124"
+ },
+ {
+  "op": "merge",
+  "keep": "n15379",
+  "drop": "xc053ba6d3",
+  "why": "Qais bin Qahd tercatat beberapa kali",
+  "rule": "M",
+  "fid": "manual-125"
+ },
+ {
+  "op": "merge",
+  "keep": "n5301",
+  "drop": "x7ee71212",
+  "why": "Karimah binti al-Miqdad tercatat dua kali (Ibnu Sa'd 8/46 & data rawi)",
+  "rule": "M",
+  "fid": "manual-126"
+ },
+ {
+  "op": "merge",
+  "keep": "n5507",
+  "drop": "xb91f8077",
+  "why": "Muhammad bin Iyas bin al-Bukair tercatat dua kali (Ibnu Sa'd 8/447 & data rawi)",
+  "rule": "M",
+  "fid": "manual-127"
  }
 ]

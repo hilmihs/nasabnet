@@ -1,0 +1,22 @@
+[
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/382", "ok": 1, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/227", "ok": 2, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/246", "ok": 2, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/247", "ok": 1, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/255", "ok": 0, "issues": [
+  {"s": "x932e8a60", "t": "xe91c0f13", "k": "parent", "verdict": "wrong", "why": "judul entri baru hilang; النهدية وابنتها وأم عبيس وزنيرة adalah budak yang disiksa lalu dibeli dan dimerdekakan Abu Bakr, bukan anak Umaimah"},
+  {"s": "x932e8a602", "t": "x76db6c90", "k": "parent", "verdict": "wrong", "why": "Ummu Ubais budak yang dimerdekakan Abu Bakr (entri terpisah), bukan anak Umaimah bint Ruqaiqah"},
+  {"s": "x932e8a603", "t": "x8b7bcaf5", "k": "parent", "verdict": "wrong", "why": "Zunairah budak yang dimerdekakan Abu Bakr (entri terpisah), bukan anak Umaimah bint Ruqaiqah"}
+]},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/262", "ok": 1, "issues": [
+  {"s": "m-quraibah-kubra", "t": "s4416", "k": "sibling", "verdict": "unsure", "why": "benar, disebut di entri lain (قريبة الكبرى, Ibnu Sa'd 8): keduanya putri Abu Umayyah; teks ini hanya menyebut saudari Ummu Salamah"}
+]},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/323", "ok": 0, "issues": [
+  {"s": "xbfe3510f", "t": "s4514", "k": "parent", "verdict": "unsure", "why": "teks: ayahnya زيد بن سكن بن كرز, tapi juga 'أخت رافع بن يزيد'; node يزيد بن كرز tidak cocok dengan nasab teks"}
+]},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/333", "ok": 2, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/342", "ok": 1, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/345", "ok": 0, "issues": [
+  {"s": "x62b95b49", "t": "n3681", "k": "parent", "verdict": "wrong", "why": "orang salah: anak Habibah adalah عبد الله بن سعد بن خيثمة (n21519), sedangkan n3681 adalah Abdullah bin Sa'd al-Anshari paman Haram bin Mu'awiyah"}
+]}
+]

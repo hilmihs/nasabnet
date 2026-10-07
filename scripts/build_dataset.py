@@ -203,6 +203,12 @@ class Registry:
         hit = self._pick(cands, g) if cands else None
         if hit:
             return hit
+        # a narrator whose own record matches three links beats a looser two-link match
+        if k3 and len(line) >= 2:
+            pool = set().union(*(self.pool3.get(k, set()) for k in k3))
+            pool = {x for x in pool if not g or guess_gender(self.pool_rows[x]["full_name"]) == g}
+            if len(pool) == 1:
+                return self.register_narrator(self.pool_rows[pool.pop()], comp=False)
         if k2 and (len(line) <= 1 or not cands):
             c2 = set().union(*(self.k2.get(k, set()) for k in k2))
             # a 3-link mention may only merge into a 2-link record (never two diverging 3-link chains)
@@ -595,8 +601,21 @@ def main():
             if sid:
                 spouse_ids[norm(s["ar"])] = sid
                 R.edge(pid, sid, "spouse", src, (s.get("note") or None))
+        # a child's own record must name this subject's father as its grandfather
+        # (عبد الرحمن بن عبد الله بن زمعة ≠ عبد الرحمن بن عبد الله بن ثعلبة)
+        # (father or grandfather: a man is also called after a famous grandfather — إياس بن سلمة بن الأكوع)
+        def kname(x):
+            return re.sub(r"^ابي ", "ابو ", clean_link(x or ""))
+        own_fathers = {kname(n) for _, l in P["chains"] for k in l[:2] for n in (k["ar"], k.get("alias"))}
+        own_fathers.discard("")
+        def other_family(cid):
+            longer = [l for _, l in R.p[cid]["chains"] if len(l) >= 2]
+            return bool(own_fathers and longer) and all(
+                kname(l[1]["ar"]) not in own_fathers and kname(l[1].get("alias")) not in own_fathers for l in longer)
         for c in x.get("children") or []:
             cid = res(c)
+            if cid and g == "m" and not cid.startswith("x") and other_family(cid):
+                cid = R.stub(expand_prophet(c["ar"]).strip(), g=c.get("g") if c.get("g") in ("m", "f") else None, lat=c.get("lat"), src=src)
             if not cid:
                 continue
             R.edge(pid, cid, "parent", src)

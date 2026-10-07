@@ -1,0 +1,22 @@
+[
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/382", "ok": 1, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/388", "ok": 1, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/395", "ok": 1, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/399", "ok": 0, "issues": [
+  {"s": "x2b8292792", "t": "x934f8b97", "k": "parent", "verdict": "wrong", "why": "teks: Abdurrahman putra Mas'ud bin Zaid bin Subai', bukan Mas'ud bin Tsa'labah (orang lain)"}
+]},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/404", "ok": 1, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/412", "ok": 1, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/418", "ok": 2, "issues": [
+  {"s": "s4784", "t": "xe9cc231c", "k": "spouse", "verdict": "unsure", "why": "teks: al-Habbab bin al-Harits bin 'Auf bin Mabdzul; node bernama 'al-Harits bin Amr' - mungkin sama, nasab tidak cocok"}
+]},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/43", "ok": 1, "issues": [
+  {"s": "m-quraibah-kubra", "t": "xf2f269d4", "k": "spouse", "verdict": "unsure", "why": "benar, disebut di entri lain (8/461 dst.); teks ini hanya menyebut Quraibah putri Atikah, tanpa Zam'ah"}
+]},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/461", "ok": 0, "issues": [
+  {"s": "n2213", "t": "s604", "k": "parent", "verdict": "wrong", "why": "teks: Abdurrahman bin Abdullah bin Zam'ah, bukan Abdurrahman bin Abdullah bin Tsa'labah (orang lain)"}
+]},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/473", "ok": 3, "issues": [
+  {"s": "xe5343546", "t": "n17604", "k": "parent", "verdict": "wrong", "why": "teks: al-Qasim putra Abdullah bin Amr bin Utsman bin Affan, bukan al-Qasim bin Abdullah bin Amr bin al-Ash"}
+]}
+]

@@ -1,35 +1,51 @@
 [
  {
-  "s": "n2512",
-  "t": "x679c9444",
-  "k": "parent",
-  "verdict": "unsure",
-  "why": "teks: 'والد عبد الحميد بن سلمة أو جده' — ayah atau kakek, tidak pasti",
-  "rid": "Turath · data rawi: سلمة"
- },
- {
-  "s": "xa8c7276f2",
-  "t": "n2538",
-  "k": "parent",
-  "verdict": "unsure",
-  "why": "benar, disebut di entri lain: n2538 adalah Salamah bin Qais (al-Jarmi, 'wa qila Ibn Nufai'') yang lain, bukan subjek record ini (al-Asyja'i); teks ini tidak menyebutnya",
-  "rid": "Turath · data rawi: سلمة بن قيس"
- },
- {
-  "s": "n2538",
-  "t": "n4835",
-  "k": "parent",
-  "verdict": "unsure",
-  "why": "benar, disebut di entri lain: teks record ini (Salamah bin Qais al-Asyja'i) tidak menyebut anak 'Amr; n2538 orang berbeda",
-  "rid": "Turath · data rawi: سلمة بن قيس"
- },
- {
-  "s": "x0b934e90",
-  "t": "x7aadef96",
+  "s": "s4784",
+  "t": "xe9cc231c",
   "k": "spouse",
   "verdict": "unsure",
-  "why": "suami Umm Jamil = 'Utsman bin Abi Thalhah ('Utsman bin 'Abdullah bin 'Abdul 'Uzza); label node mencampur 'Utsman dengan Abu Thalhah ('Abdullah bin 'Abdul 'Uzza), satu generasi hilang",
-  "rid": "Turath · data rawi: شيبة بن عثمان بن أبي طلحة"
+  "why": "teks: al-Habbab bin al-Harits bin 'Auf bin Mabdzul; node bernama 'al-Harits bin Amr' - mungkin sama, nasab tidak cocok",
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/418"
+ },
+ {
+  "s": "m-quraibah-kubra",
+  "t": "xf2f269d4",
+  "k": "spouse",
+  "verdict": "unsure",
+  "why": "benar, disebut di entri lain (8/461 dst.); teks ini hanya menyebut Quraibah putri Atikah, tanpa Zam'ah",
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/43"
+ },
+ {
+  "s": "x6ac584d2",
+  "t": "n11234",
+  "k": "parent",
+  "verdict": "unsure",
+  "why": "riwayat bertentangan: ayahnya Sa'd bin al-Mundzir / bin Malik / bin Amr; nama Abdurrahman juga disebut",
+  "rid": "Turath · data rawi: أبو حميد [rawi 11234]"
+ },
+ {
+  "s": "x4ed500f3",
+  "t": "x8d429518",
+  "k": "spouse",
+  "verdict": "unsure",
+  "why": "Raithah ibunya (=istri Malik), tapi 'وقيل: هي أم أبيه' (ibu Malik) - dua versi bertentangan",
+  "rid": "Turath · data rawi: الحارث بن مالك بن قيس [rawi 1240]"
+ },
+ {
+  "s": "xf55903ca",
+  "t": "n2884",
+  "k": "parent",
+  "verdict": "unsure",
+  "why": "nasab menjadikan al-'Ailah ayah, tapi teks: 'يقال: إن العيلة أمه' - ayah atau ibu tidak pasti",
+  "rid": "Turath · data rawi: صخر بن العيلة [rawi 2884]"
+ },
+ {
+  "s": "x15ec257a2",
+  "t": "n2968",
+  "k": "parent",
+  "verdict": "unsure",
+  "why": "teks: 'وقيل: ابن سعد وهو الأشهر' - ayah Rabi'ah adalah versi yang kurang kuat",
+  "rid": "Turath · data rawi: ضمرة بن ربيعة [rawi 2968]"
  },
  {
   "s": "n2289",
@@ -608,6 +624,38 @@
   "rid": "Turath · data rawi: سعد بن الأخرم"
  },
  {
+  "s": "n2512",
+  "t": "x679c9444",
+  "k": "parent",
+  "verdict": "unsure",
+  "why": "teks: 'والد عبد الحميد بن سلمة أو جده' — ayah atau kakek, tidak pasti",
+  "rid": "Turath · data rawi: سلمة"
+ },
+ {
+  "s": "xa8c7276f2",
+  "t": "n2538",
+  "k": "parent",
+  "verdict": "unsure",
+  "why": "benar, disebut di entri lain: n2538 adalah Salamah bin Qais (al-Jarmi, 'wa qila Ibn Nufai'') yang lain, bukan subjek record ini (al-Asyja'i); teks ini tidak menyebutnya",
+  "rid": "Turath · data rawi: سلمة بن قيس"
+ },
+ {
+  "s": "n2538",
+  "t": "n4835",
+  "k": "parent",
+  "verdict": "unsure",
+  "why": "benar, disebut di entri lain: teks record ini (Salamah bin Qais al-Asyja'i) tidak menyebut anak 'Amr; n2538 orang berbeda",
+  "rid": "Turath · data rawi: سلمة بن قيس"
+ },
+ {
+  "s": "x0b934e90",
+  "t": "x7aadef96",
+  "k": "spouse",
+  "verdict": "unsure",
+  "why": "suami Umm Jamil = 'Utsman bin Abi Thalhah ('Utsman bin 'Abdullah bin 'Abdul 'Uzza); label node mencampur 'Utsman dengan Abu Thalhah ('Abdullah bin 'Abdul 'Uzza), satu generasi hilang",
+  "rid": "Turath · data rawi: شيبة بن عثمان بن أبي طلحة"
+ },
+ {
   "s": "s905",
   "t": "x8601171d",
   "k": "sibling",
@@ -790,5 +838,29 @@
   "verdict": "unsure",
   "why": "benar, disebut di entri lain (8/318): Umairah dan Ummu Amir sama-sama putri Yazid bin as-Sakan dan Ummu Sa'd binti Khuzaim",
   "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/319"
+ },
+ {
+  "s": "xcf0dcd09",
+  "t": "s436",
+  "k": "parent",
+  "verdict": "unsure",
+  "why": "benar, disebut di entri lain (3/98): ثقف بن عمرو بن سميط أخو مالك ومدلاج; entri مالك بن عمرو di sini tanpa nasab",
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/97"
+ },
+ {
+  "s": "m-quraibah-kubra",
+  "t": "s4416",
+  "k": "sibling",
+  "verdict": "unsure",
+  "why": "benar, disebut di entri lain (قريبة الكبرى, Ibnu Sa'd 8): keduanya putri Abu Umayyah; teks ini hanya menyebut saudari Ummu Salamah",
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/262"
+ },
+ {
+  "s": "xbfe3510f",
+  "t": "s4514",
+  "k": "parent",
+  "verdict": "unsure",
+  "why": "teks: ayahnya زيد بن سكن بن كرز, tapi juga 'أخت رافع بن يزيد'; node يزيد بن كرز tidak cocok dengan nasab teks",
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/323"
  }
 ]

@@ -1,0 +1,16 @@
+[
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/496", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: أبو حميد [rawi 11234]", "ok": 0, "issues": [
+  {"s": "x6ac584d2", "t": "n11234", "k": "parent", "verdict": "unsure", "why": "riwayat bertentangan: ayahnya Sa'd bin al-Mundzir / bin Malik / bin Amr; nama Abdurrahman juga disebut"}
+]},
+{"rid": "Turath · data rawi: أم رومان [rawi 2216]", "ok": 2, "issues": []},
+{"rid": "Turath · data rawi: أم ورقة بنت عبد الله بن الحارث [rawi 800]", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: الحارث بن عمرو بن الحارث [rawi 1235]", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: الحارث بن مالك بن قيس [rawi 1240]", "ok": 1, "issues": [
+  {"s": "x4ed500f3", "t": "x8d429518", "k": "spouse", "verdict": "unsure", "why": "Raithah ibunya (=istri Malik), tapi 'وقيل: هي أم أبيه' (ibu Malik) - dua versi bertentangan"}
+]},
+{"rid": "Turath · data rawi: الزرقي عمرو بن سليم [rawi 4837]", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: المهاجر بن قنفذ [rawi 6376]", "ok": 2, "issues": []},
+{"rid": "Turath · data rawi: جابر بن عبد الله بن عمرو بن حرام [rawi 1091]", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: حجاج بن عمرو بن غزية [rawi 1318]", "ok": 1, "issues": []}
+]

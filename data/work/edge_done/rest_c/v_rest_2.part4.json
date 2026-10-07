@@ -1,0 +1,8 @@
+[
+{"rid": "Turath · data rawi: صفية بنت حيي بن أخطب بن سعنة بن ثعلبة [rawi 2917]", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: صنابح بن الأعسر [rawi 2931]", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: صهيب بن سنان بن خالد بن عمرو [rawi 2935]", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: ضمرة بن ربيعة [rawi 2968]", "ok": 2, "issues": [
+  {"s": "x15ec257a2", "t": "n2968", "k": "parent", "verdict": "unsure", "why": "teks: 'وقيل: ابن سعد وهو الأشهر' - ayah Rabi'ah adalah versi yang kurang kuat"}
+]}
+]

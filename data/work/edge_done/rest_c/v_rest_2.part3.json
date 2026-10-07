@@ -1,0 +1,14 @@
+[
+{"rid": "Turath · data rawi: حصين بن عبيد بن خلف [rawi 9962]", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: سعد بن الأطول بن عبيد الله بن خالد بن واهب [rawi 2292]", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: صخر بن العيلة [rawi 2884]", "ok": 0, "issues": [
+  {"s": "xf55903ca", "t": "n2884", "k": "parent", "verdict": "unsure", "why": "nasab menjadikan al-'Ailah ayah, tapi teks: 'يقال: إن العيلة أمه' - ayah atau ibu tidak pasti"}
+]},
+{"rid": "Turath · data rawi: صخر بن وداعة [rawi 2885]", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: صدي بن عجلان بن وهب [rawi 2895]", "ok": 2, "issues": []},
+{"rid": "Turath · data rawi: صعصعة بن معاوية بن حصين [rawi 2900]", "ok": 2, "issues": []},
+{"rid": "Turath · data rawi: صعصعة بن ناجية المجاشعي [rawi 10251]", "ok": 2, "issues": []},
+{"rid": "Turath · data rawi: صفوان بن أمية بن خلف [rawi 2903]", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: صفوان بن عسال [rawi 2907]", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: صفية بنت الحارث بن طلحة بن أبي طلحة [rawi 2915]", "ok": 8, "issues": []}
+]

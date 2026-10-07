@@ -1,0 +1,14 @@
+[
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/581", "ok": 1, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/592", "ok": 1, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/97", "ok": 0, "issues": [
+  {"s": "xcf0dcd09", "t": "s436", "k": "parent", "verdict": "unsure", "why": "benar, disebut di entri lain (3/98): ثقف بن عمرو بن سميط أخو مالك ومدلاج; entri مالك بن عمرو di sini tanpa nasab"}
+]},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/98", "ok": 1, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/100", "ok": 2, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/125", "ok": 1, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/202", "ok": 3, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/296", "ok": 1, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/323", "ok": 1, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/358", "ok": 1, "issues": []}
+]
