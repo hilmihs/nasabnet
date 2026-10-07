@@ -1,27 +1,27 @@
 [
  {
-  "s": "x8681f758",
-  "t": "xfb78f455",
+  "s": "xbecdebdf",
+  "t": "n959",
+  "k": "parent",
+  "verdict": "unsure",
+  "why": "riwayat utama: Busyair bin Ma'bad; 'bin Zaid bin Ma'bad' dan 'bin Syurahbil' hanya qila, saling bertentangan",
+  "rid": "Turath · data rawi: بشير بن معبد"
+ },
+ {
+  "s": "xc3ace4dd",
+  "t": "n959",
+  "k": "parent",
+  "verdict": "unsure",
+  "why": "al-Khashashiyyah disebut 'ummu Dhubara' (nenek moyang, bukan ibu langsung); nama Kabsyah vs Mawiyah binti Amr bin al-Harits ambigu",
+  "rid": "Turath · data rawi: بشير بن معبد"
+ },
+ {
+  "s": "xbecdebdf",
+  "t": "xc3ace4dd",
   "k": "spouse",
   "verdict": "unsure",
-  "why": "teks: ibu Fathimah binti Asad = Fathimah binti Harim bin Rawahah; node bernama 'binti Qais bin Harim', nasab tidak cocok",
-  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/51"
- },
- {
-  "s": "xbe97a759",
-  "t": "n200",
-  "k": "parent",
-  "verdict": "unsure",
-  "why": "nama Zaid bin al-Mu'alla hanya 'qila', mayoritas: namanya tak diketahui; ia 'bin Ludzan', nasab ayah (bin Haritsah bin Zaid) tidak ada di teks",
-  "rid": "Turath · data rawi: أبو المعلى بن لوذان"
- },
- {
-  "s": "x3af0ea6f4",
-  "t": "n1509",
-  "k": "parent",
-  "verdict": "unsure",
-  "why": "riwayat bertentangan: namanya sendiri 'Auf/Abdu 'Auf menurut versi lain; 'Hushain bin 'Auf' hanya salah satu qila",
-  "rid": "Turath · data rawi: أبو حازم"
+  "why": "tidak disebut; turunan dari ayah (qila) + 'ibu' yang sebenarnya ibu Dhubara (leluhur)",
+  "rid": "Turath · data rawi: بشير بن معبد"
  },
  {
   "s": "n2289",
@@ -358,6 +358,110 @@
   "verdict": "unsure",
   "why": "saudara benar, tapi 'sekandung' diragukan: teks menutup dengan 'لأمهم', dan 8/449 menyebut ibu Tsa'labah adalah Kabsyah binti Tsabit (bukan Amrah binti Hazzal)",
   "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/451"
+ },
+ {
+  "s": "x8681f758",
+  "t": "xfb78f455",
+  "k": "spouse",
+  "verdict": "unsure",
+  "why": "teks: ibu Fathimah binti Asad = Fathimah binti Harim bin Rawahah; node bernama 'binti Qais bin Harim', nasab tidak cocok",
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/51"
+ },
+ {
+  "s": "xbe97a759",
+  "t": "n200",
+  "k": "parent",
+  "verdict": "unsure",
+  "why": "nama Zaid bin al-Mu'alla hanya 'qila', mayoritas: namanya tak diketahui; ia 'bin Ludzan', nasab ayah (bin Haritsah bin Zaid) tidak ada di teks",
+  "rid": "Turath · data rawi: أبو المعلى بن لوذان"
+ },
+ {
+  "s": "x3af0ea6f4",
+  "t": "n1509",
+  "k": "parent",
+  "verdict": "unsure",
+  "why": "riwayat bertentangan: namanya sendiri 'Auf/Abdu 'Auf menurut versi lain; 'Hushain bin 'Auf' hanya salah satu qila",
+  "rid": "Turath · data rawi: أبو حازم"
+ },
+ {
+  "s": "xedeaa3fb",
+  "t": "n1028",
+  "k": "parent",
+  "verdict": "unsure",
+  "why": "banyak versi nama yang saling eksklusif (Tamim bin Asad dll.); ayah al-Harits hanya versi Khalifah, bukan versi pertama",
+  "rid": "Turath · data rawi: أبو رفاعة"
+ },
+ {
+  "s": "x7c55cae12",
+  "t": "n6208",
+  "k": "parent",
+  "verdict": "unsure",
+  "why": "versi utama: Abu Zuhair bin Mu'adz bin Rabah (Rabah = kakek); Rabah ayah hanya bila namanya Mu'adz bin Rabah (qila)",
+  "rid": "Turath · data rawi: أبو زهير بن معاذ بن رباح"
+ },
+ {
+  "s": "xfedd6514",
+  "t": "n2192",
+  "k": "parent",
+  "verdict": "unsure",
+  "why": "versi utama: Zaid bin ash-Shamit / ibn an-Nu'man; ayah Mu'awiyah bin ash-Shamit hanya versi qila yang bertentangan",
+  "rid": "Turath · data rawi: أبو عياش"
+ },
+ {
+  "s": "n9886",
+  "t": "n355",
+  "k": "parent",
+  "verdict": "unsure",
+  "why": "ayah al-Harits hanya salah satu dari banyak versi; node n9886 'الحارث' tanpa nasab, kemungkinan tokoh lain yang senama",
+  "rid": "Turath · data rawi: أبو مالك"
+ },
+ {
+  "s": "n3295",
+  "t": "n623",
+  "k": "sibling",
+  "verdict": "unsure",
+  "why": "teks: saudari عبد الرحمن بن زيد; node n3295 bernama pendek 'عمر بن عبد الرحمن بن زيد' (anaknya) tapi nasab lengkap عبد الرحمن بن زيد — kemungkinan dua orang digabung",
+  "rid": "Turath · data rawi: أسماء بنت زيد بن الخطاب"
+ },
+ {
+  "s": "xa3bdb64a",
+  "t": "n784",
+  "k": "parent",
+  "verdict": "unsure",
+  "why": "identitas bertentangan: teks utama menyebut ia Anshariyyah (bibi/nenek al-Qasim bin Ghannam); hanya Ibn Abd al-Barr & ath-Thabarani menyebut bint Abi Quhafah",
+  "rid": "Turath · data rawi: أم فروة"
+ },
+ {
+  "s": "x70816c8c",
+  "t": "n852",
+  "k": "mawla",
+  "verdict": "unsure",
+  "why": "riwayat bertentangan: maula az-Zubair / Ibn az-Zubair (judul rekaman) / Ibn Umar / Al Ibn Abi Amr; node 'الزبير' tanpa nasab",
+  "rid": "Turath · data rawi: أيمن مولى ابن الزبير"
+ },
+ {
+  "s": "n7390",
+  "t": "n1024",
+  "k": "parent",
+  "verdict": "unsure",
+  "why": "ayah ثعلبة benar, tetapi node n7390 dicatat sebagai kakek al-Hirmas bin Habib; teks tidak menyamakan keduanya, kemungkinan penggabungan namesake",
+  "rid": "Turath · data rawi: التلب بن ثعلبة"
+ },
+ {
+  "s": "x4dd29af7",
+  "t": "n1100",
+  "k": "parent",
+  "verdict": "unsure",
+  "why": "nasab diperselisihkan: riwayat pertama بشر بن المعلى بن حنش; 'بشر بن عمرو' hanya salah satu dari beberapa versi",
+  "rid": "Turath · data rawi: الجارود"
+ },
+ {
+  "s": "x4dd29af7",
+  "t": "x63658967",
+  "k": "spouse",
+  "verdict": "unsure",
+  "why": "tergantung identitas ayah (عمرو) yang diperselisihkan; teks hanya menyebut ibunya درمكة",
+  "rid": "Turath · data rawi: الجارود"
  },
  {
   "s": "s698",

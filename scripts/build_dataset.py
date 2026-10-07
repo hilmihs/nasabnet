@@ -184,7 +184,7 @@ class Registry:
             return None
         t = expand_prophet(text).strip()
         # "من بني سهم" / "امرأة من كلب": an unnamed person described only by tribe is not a person node
-        if re.match(r"^(?:من|بنو|بني|امرأة\s+من|رجل\s+من|أم ولد)(?:\s|$)", t) or re.fullmatch(r"ال\S+يون", t):
+        if re.match(r"^(?:من|بنو|بني|آل|امرأة\s+من|رجل\s+من|أم ولد)(?:\s|$)", t) or re.fullmatch(r"ال\S+يون", t):
             return None
         # only the full name; a bare "محمد" (فاطمة بنت محمد, wife of Abdullah bin Abi Bakr) is not the Prophet
         if norm(t) == "محمد بن عبد الله بن عبد المطلب":

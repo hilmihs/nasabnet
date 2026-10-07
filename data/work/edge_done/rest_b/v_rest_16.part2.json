@@ -1,0 +1,17 @@
+[
+{"rid": "Turath · data rawi: الأغر بن يسار", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: البراء بن عازب", "ok": 2, "issues": []},
+{"rid": "Turath · data rawi: التلب بن ثعلبة", "ok": 2, "issues": [
+  {"s": "n7390", "t": "n1024", "k": "parent", "verdict": "unsure", "why": "ayah ثعلبة benar, tetapi node n7390 dicatat sebagai kakek al-Hirmas bin Habib; teks tidak menyamakan keduanya, kemungkinan penggabungan namesake"}
+]},
+{"rid": "Turath · data rawi: الجارود", "ok": 2, "issues": [
+  {"s": "x4dd29af7", "t": "n1100", "k": "parent", "verdict": "unsure", "why": "nasab diperselisihkan: riwayat pertama بشر بن المعلى بن حنش; 'بشر بن عمرو' hanya salah satu dari beberapa versi"},
+  {"s": "x4dd29af7", "t": "x63658967", "k": "spouse", "verdict": "unsure", "why": "tergantung identitas ayah (عمرو) yang diperselisihkan; teks hanya menyebut ibunya درمكة"}
+]},
+{"rid": "Turath · data rawi: الجراح بن أبي الجراح", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: الجهدمة", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: الحارث بن أقيش", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: الحارث بن أوس", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: الحارث بن الحارث", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: الحارث بن حاطب بن الحارث", "ok": 2, "issues": []}
+]

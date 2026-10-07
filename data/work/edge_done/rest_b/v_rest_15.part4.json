@@ -1,0 +1,18 @@
+[
+{"rid": "Turath · data rawi: أمية بن مخشي", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: أميمة بنت رقيقة", "ok": 1, "issues": [
+  {"s": "n816", "t": "x5f2f2d44", "k": "sibling", "verdict": "wrong", "why": "teks: وبنتها حكيمة — Hukaimah adalah putrinya, bukan saudari"}
+]},
+{"rid": "Turath · data rawi: أنس بن مالك", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: أهبان بن أوس", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: أهبان بن صيفي", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: أوس بن أبي أوس", "ok": 4, "issues": []},
+{"rid": "Turath · data rawi: أوس بن أوس", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: أيمن بن خريم بن فاتك الأسدي", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: أيمن مولى ابن الزبير", "ok": 0, "issues": [
+  {"s": "x70816c8c", "t": "n852", "k": "mawla", "verdict": "unsure", "why": "riwayat bertentangan: maula az-Zubair / Ibn az-Zubair (judul rekaman) / Ibn Umar / Al Ibn Abi Amr; node 'الزبير' tanpa nasab"}
+]},
+{"rid": "Turath · data rawi: أيوب بن بشير بن النعمان الأنصاري", "ok": 1, "issues": [
+  {"s": "n6570", "t": "n859", "k": "sibling", "verdict": "wrong", "why": "orang salah: saudara Aiyub adalah an-Nu'man bin Basyir bin Sa'd bin an-Nu'man bin Akkal (Aus); n6570 adalah an-Nu'man bin Basyir bin Sa'd bin Tsa'labah (Khazraj)"}
+]}
+]

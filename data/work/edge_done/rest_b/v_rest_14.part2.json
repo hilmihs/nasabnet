@@ -1,0 +1,18 @@
+[
+{"rid": "Turath · data rawi: أبو سهلة السائب بن خلاد", "ok": 5, "issues": []},
+{"rid": "Turath · data rawi: أبو سيارة", "ok": 1, "issues": [
+  {"s": "x3ff5dade", "t": "n294", "k": "mawla", "verdict": "wrong", "why": "'بني بجالة' adalah kabilah, bukan orang"}
+]},
+{"rid": "Turath · data rawi: أبو شهم", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: أبو عبد الرحمن", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: أبو عبيد", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: أبو عقبة", "ok": 1, "issues": [
+  {"s": "x793d9ea8", "t": "n2004", "k": "mawla", "verdict": "wrong", "why": "'بني معاوية من الأنصار' adalah kabilah, bukan orang"}
+]},
+{"rid": "Turath · data rawi: أبو عقرب", "ok": 2, "issues": []},
+{"rid": "Turath · data rawi: أبو عمرة", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: أبو عنبة", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: أبو عياش", "ok": 0, "issues": [
+  {"s": "xfedd6514", "t": "n2192", "k": "parent", "verdict": "unsure", "why": "versi utama: Zaid bin ash-Shamit / ibn an-Nu'man; ayah Mu'awiyah bin ash-Shamit hanya versi qila yang bertentangan"}
+]}
+]

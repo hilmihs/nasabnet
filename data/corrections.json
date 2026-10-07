@@ -2731,14 +2731,6 @@
  },
  {
   "op": "merge",
-  "keep": "s4875",
-  "drop": "x64f9f8aa",
-  "why": "Zainab binti al-Muhajir bin Qunfudz tercatat dua kali (entri Ibnu Sa'd & sebutan di nasab)",
-  "rule": "M",
-  "fid": "manual-73"
- },
- {
-  "op": "merge",
   "keep": "s448",
   "drop": "n13885",
   "why": "Hathib bin Abi Balta'ah tercatat dua kali (Ibnu Sa'd 3/114 & data rawi, ayah Abdurrahman bin Hathib)",
@@ -4053,5 +4045,95 @@
   "rule": "EV",
   "fid": "Turath · data rawi: أبو حازم",
   "why": "'Bani Bayadhah' kabilah bukan orang; teks tidak menyebut relasi ini (n7278 Abu Hazim lain)"
+ },
+ {
+  "op": "drop_edge",
+  "s": "x3ff5dade",
+  "t": "n294",
+  "k": "mawla",
+  "rule": "EV",
+  "fid": "Turath · data rawi: أبو سيارة",
+  "why": "'بني بجالة' adalah kabilah, bukan orang"
+ },
+ {
+  "op": "drop_edge",
+  "s": "x793d9ea8",
+  "t": "n2004",
+  "k": "mawla",
+  "rule": "EV",
+  "fid": "Turath · data rawi: أبو عقبة",
+  "why": "'بني معاوية من الأنصار' adalah kabilah, bukan orang"
+ },
+ {
+  "op": "drop_edge",
+  "s": "x37c086b6",
+  "t": "n347",
+  "k": "mawla",
+  "rule": "EV",
+  "fid": "Turath · data rawi: أبو كثير",
+  "why": "'آل جحش' adalah keluarga/klan, bukan orang"
+ },
+ {
+  "op": "drop_edge",
+  "s": "xb9bb95aa",
+  "t": "n391",
+  "k": "mawla",
+  "rule": "EV",
+  "fid": "Turath · data rawi: أبو يزيد",
+  "why": "'آل قارظ' adalah keluarga/klan, bukan orang"
+ },
+ {
+  "op": "drop_edge",
+  "s": "n900",
+  "t": "s817",
+  "k": "spouse",
+  "rule": "EV",
+  "fid": "Turath · data rawi: أم أيمن",
+  "why": "orang salah: teks عبيد بن زيد dari Bani al-Harits bin al-Khazraj, ayah Aiman; s817 adalah عبيد بن زيد bin 'Amir bin al-'Ajlan (Bani Zuraiq, Badri, tanpa keturunan)"
+ },
+ {
+  "op": "drop_edge",
+  "s": "n816",
+  "t": "x5f2f2d44",
+  "k": "sibling",
+  "rule": "EV",
+  "fid": "Turath · data rawi: أميمة بنت رقيقة",
+  "why": "teks: وبنتها حكيمة — Hukaimah adalah putrinya, bukan saudari"
+ },
+ {
+  "op": "drop_edge",
+  "s": "n6570",
+  "t": "n859",
+  "k": "sibling",
+  "rule": "EV",
+  "fid": "Turath · data rawi: أيوب بن بشير بن النعمان الأنصاري",
+  "why": "orang salah: saudara Aiyub adalah an-Nu'man bin Basyir bin Sa'd bin an-Nu'man bin Akkal (Aus); n6570 adalah an-Nu'man bin Basyir bin Sa'd bin Tsa'labah (Khazraj)"
+ },
+ {
+  "op": "drop_edge",
+  "s": "n5379",
+  "t": "n1240",
+  "k": "parent",
+  "rule": "EV",
+  "fid": "Turath · data rawi: الحارث بن مالك بن قيس",
+  "why": "orang salah: n5379 adalah مالك بن قيس (وقيل قيس بن مالك بن أبي أنس) = Abu Shirmah al-Anshari, bukan ayah al-Harits al-Laitsi (Ibnul Barsha')"
+ },
+ {
+  "op": "drop_edge",
+  "s": "n5379",
+  "t": "x8d429518",
+  "k": "spouse",
+  "rule": "EV",
+  "fid": "Turath · data rawi: الحارث بن مالك بن قيس",
+  "why": "orang salah (n5379 namesake Anshari); teks juga ragu apakah Raithah ibunya atau nenek dari pihak ayah"
+ },
+ {
+  "op": "drop_edge",
+  "s": "xa4969ccd",
+  "t": "s4875",
+  "k": "parent",
+  "rule": "EV",
+  "fid": "Turath · data rawi: المهاجر بن قنفذ",
+  "why": "orang salah: Zainab putri al-Muhajir bin Qunfudz (Taimi) dipetakan ke Zainab binti al-Muhajir al-Ahmasiyyah (Bajilah), orang lain"
  }
 ]

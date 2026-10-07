@@ -1,0 +1,14 @@
+[
+{"rid": "Turath · data rawi: أم أيمن", "ok": 2, "issues": [
+  {"s": "n900", "t": "s817", "k": "spouse", "verdict": "wrong", "why": "orang salah: teks عبيد بن زيد dari Bani al-Harits bin al-Khazraj, ayah Aiman; s817 adalah عبيد بن زيد bin 'Amir bin al-'Ajlan (Bani Zuraiq, Badri, tanpa keturunan)"}
+]},
+{"rid": "Turath · data rawi: أم أيوب الأنصارية", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: أم الحصين بنت إسحاق", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: أم العلاء بنت الحارث", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: أم جميل بنت المجلل", "ok": 5, "issues": []},
+{"rid": "Turath · data rawi: أم جندب", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: أم حرام بنت ملحان", "ok": 3, "issues": []},
+{"rid": "Turath · data rawi: أم رومان", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: أم شريك", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: أم صبية", "ok": 3, "issues": []}
+]

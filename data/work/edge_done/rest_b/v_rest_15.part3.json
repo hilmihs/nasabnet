@@ -1,0 +1,14 @@
+[
+{"rid": "Turath · data rawi: أم عبد الحميد", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: أم عبد الرحمن بن طارق بن علقمة", "ok": 3, "issues": []},
+{"rid": "Turath · data rawi: أم عثمان بنت سفيان", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: أم عمارة بنت كعب الأنصارية", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: أم فروة", "ok": 0, "issues": [
+  {"s": "xa3bdb64a", "t": "n784", "k": "parent", "verdict": "unsure", "why": "identitas bertentangan: teks utama menyebut ia Anshariyyah (bibi/nenek al-Qasim bin Ghannam); hanya Ibn Abd al-Barr & ath-Thabarani menyebut bint Abi Quhafah"}
+]},
+{"rid": "Turath · data rawi: أم قيس بنت محصن الأسدية", "ok": 2, "issues": []},
+{"rid": "Turath · data rawi: أم معقل", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: أم هشام بنت حارثة بن النعمان", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: أم هنيدة بن خالد", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: أمة بنت خالد بن أبي أحيحة", "ok": 1, "issues": []}
+]

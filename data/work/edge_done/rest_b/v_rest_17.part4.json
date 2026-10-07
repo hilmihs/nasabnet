@@ -1,0 +1,16 @@
+[
+{"rid": "Turath · data rawi: بشير بن معبد", "ok": 1, "issues": [
+  {"s": "xbecdebdf", "t": "n959", "k": "parent", "verdict": "unsure", "why": "riwayat utama: Busyair bin Ma'bad; 'bin Zaid bin Ma'bad' dan 'bin Syurahbil' hanya qila, saling bertentangan"},
+  {"s": "xc3ace4dd", "t": "n959", "k": "parent", "verdict": "unsure", "why": "al-Khashashiyyah disebut 'ummu Dhubara' (nenek moyang, bukan ibu langsung); nama Kabsyah vs Mawiyah binti Amr bin al-Harits ambigu"},
+  {"s": "xbecdebdf", "t": "xc3ace4dd", "k": "spouse", "verdict": "unsure", "why": "tidak disebut; turunan dari ayah (qila) + 'ibu' yang sebenarnya ibu Dhubara (leluhur)"}
+]},
+{"rid": "Turath · data rawi: بصرة بن أبي بصرة", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: بصرة بن أكثم", "ok": 2, "issues": []},
+{"rid": "Turath · data rawi: بكر بن مبشر بن جبر", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: بلال بن الحارث بن عكيم بن سعد", "ok": 3, "issues": []},
+{"rid": "Turath · data rawi: تميم الداري", "ok": 5, "issues": []},
+{"rid": "Turath · data rawi: تميم بن زيد", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: ثابت بن الصامت", "ok": 2, "issues": []},
+{"rid": "Turath · data rawi: ثابت بن الضحاك الأنصاري", "ok": 8, "issues": []},
+{"rid": "Turath · data rawi: ثابت بن قيس بن شماس الأنصاري", "ok": 3, "issues": []}
+]

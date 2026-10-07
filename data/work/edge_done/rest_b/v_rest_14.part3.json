@@ -1,0 +1,16 @@
+[
+{"rid": "Turath · data rawi: أبو فاطمة أنيس", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: أبو قتادة", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: أبو كاهل", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: أبو كبشة", "ok": 2, "issues": []},
+{"rid": "Turath · data rawi: أبو كثير", "ok": 0, "issues": [
+  {"s": "x37c086b6", "t": "n347", "k": "mawla", "verdict": "wrong", "why": "'آل جحش' adalah keluarga/klan, bukan orang"}
+]},
+{"rid": "Turath · data rawi: أبو لاس", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: أبو لبابة بن عبد المنذر", "ok": 6, "issues": []},
+{"rid": "Turath · data rawi: أبو ليلى", "ok": 2, "issues": []},
+{"rid": "Turath · data rawi: أبو مالك", "ok": 0, "issues": [
+  {"s": "n9886", "t": "n355", "k": "parent", "verdict": "unsure", "why": "ayah al-Harits hanya salah satu dari banyak versi; node n9886 'الحارث' tanpa nasab, kemungkinan tokoh lain yang senama"}
+]},
+{"rid": "Turath · data rawi: أبو محذورة", "ok": 5, "issues": []}
+]

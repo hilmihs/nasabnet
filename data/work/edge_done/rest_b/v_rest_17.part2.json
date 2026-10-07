@@ -1,0 +1,14 @@
+[
+{"rid": "Turath · data rawi: المقداد بن عمرو بن الأسود الكندي", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: المقدام بن معدي كرب الوهبي", "ok": 2, "issues": []},
+{"rid": "Turath · data rawi: المهاجر بن قنفذ", "ok": 12, "issues": [
+  {"s": "xa4969ccd", "t": "s4875", "k": "parent", "verdict": "wrong", "why": "orang salah: Zainab putri al-Muhajir bin Qunfudz (Taimi) dipetakan ke Zainab binti al-Muhajir al-Ahmasiyyah (Bajilah), orang lain"}
+]},
+{"rid": "Turath · data rawi: النزال بن سبرة", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: النعمان بن أبي عياش", "ok": 4, "issues": []},
+{"rid": "Turath · data rawi: النعمان بن بشير", "ok": 6, "issues": []},
+{"rid": "Turath · data rawi: النعمان بن مقرن بن عائذ", "ok": 3, "issues": []},
+{"rid": "Turath · data rawi: النمر بن تولب.", "ok": 2, "issues": []},
+{"rid": "Turath · data rawi: النواس بن سمعان الكلابي", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: الهرماس بن زياد الباهلي", "ok": 2, "issues": []}
+]

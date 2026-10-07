@@ -1,0 +1,14 @@
+[
+{"rid": "Turath · data rawi: أسامة بن زيد بن حارثة بن شراحيل", "ok": 4, "issues": []},
+{"rid": "Turath · data rawi: أسامة بن شريك", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: أسامة بن عمير بن عامر بن الأقيشر", "ok": 2, "issues": []},
+{"rid": "Turath · data rawi: أسعد بن سهل بن حنيف", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: أسماء بنت أبي بكر", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: أسماء بنت زيد بن الخطاب", "ok": 1, "issues": [
+  {"s": "n3295", "t": "n623", "k": "sibling", "verdict": "unsure", "why": "teks: saudari عبد الرحمن بن زيد; node n3295 bernama pendek 'عمر بن عبد الرحمن بن زيد' (anaknya) tapi nasab lengkap عبد الرحمن بن زيد — kemungkinan dua orang digabung"}
+]},
+{"rid": "Turath · data rawi: أسماء بنت عميس", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: أسماء بنت يزيد بن السكن الأنصارية", "ok": 2, "issues": []},
+{"rid": "Turath · data rawi: أسمر بن مضرس", "ok": 3, "issues": []},
+{"rid": "Turath · data rawi: أشج عبد القيس", "ok": 1, "issues": []}
+]

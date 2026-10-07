@@ -1,0 +1,16 @@
+[
+{"rid": "Turath · data rawi: أبو رفاعة", "ok": 0, "issues": [
+  {"s": "xedeaa3fb", "t": "n1028", "k": "parent", "verdict": "unsure", "why": "banyak versi nama yang saling eksklusif (Tamim bin Asad dll.); ayah al-Harits hanya versi Khalifah, bukan versi pertama"}
+]},
+{"rid": "Turath · data rawi: أبو رمثة", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: أبو رهم كلثوم بن الحصين", "ok": 2, "issues": []},
+{"rid": "Turath · data rawi: أبو زهير بن معاذ بن رباح", "ok": 1, "issues": [
+  {"s": "x7c55cae12", "t": "n6208", "k": "parent", "verdict": "unsure", "why": "versi utama: Abu Zuhair bin Mu'adz bin Rabah (Rabah = kakek); Rabah ayah hanya bila namanya Mu'adz bin Rabah (qila)"}
+]},
+{"rid": "Turath · data rawi: أبو سالم الجيشاني", "ok": 2, "issues": []},
+{"rid": "Turath · data rawi: أبو سعد بن أبي فضالة", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: أبو سعيد", "ok": 2, "issues": []},
+{"rid": "Turath · data rawi: أبو سعيد بن المعلى", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: أبو سفيان بن حرب", "ok": 6, "issues": []},
+{"rid": "Turath · data rawi: أبو سكينة", "ok": 1, "issues": []}
+]

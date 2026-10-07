@@ -1,0 +1,15 @@
+[
+{"rid": "Turath · data rawi: الحارث بن حسان بن كلدة", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: الحارث بن خفاف بن إيماء بن رحضة", "ok": 2, "issues": []},
+{"rid": "Turath · data rawi: الحارث بن زياد", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: الحارث بن عمرو بن الحارث", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: الحارث بن مالك بن قيس", "ok": 1, "issues": [
+  {"s": "n5379", "t": "n1240", "k": "parent", "verdict": "wrong", "why": "orang salah: n5379 adalah مالك بن قيس (وقيل قيس بن مالك بن أبي أنس) = Abu Shirmah al-Anshari, bukan ayah al-Harits al-Laitsi (Ibnul Barsha')"},
+  {"s": "n5379", "t": "x8d429518", "k": "spouse", "verdict": "wrong", "why": "orang salah (n5379 namesake Anshari); teks juga ragu apakah Raithah ibunya atau nenek dari pihak ayah"}
+]},
+{"rid": "Turath · data rawi: الحكم بن حزن", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: الحكم بن سفيان بن عثمان", "ok": 3, "issues": []},
+{"rid": "Turath · data rawi: الحكم بن عمرو بن مجدع", "ok": 5, "issues": []},
+{"rid": "Turath · data rawi: الربيع بن زياد", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: الربيع بنت معوذ بن عفراء", "ok": 3, "issues": []}
+]

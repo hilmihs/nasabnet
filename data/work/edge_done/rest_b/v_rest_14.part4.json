@@ -1,0 +1,14 @@
+[
+{"rid": "Turath · data rawi: أبو محمد", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: أبو هاشم بن عتبة بن ربيعة بن عبد شمس", "ok": 3, "issues": []},
+{"rid": "Turath · data rawi: أبو واقد", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: أبو يزيد", "ok": 1, "issues": [
+  {"s": "xb9bb95aa", "t": "n391", "k": "mawla", "verdict": "wrong", "why": "'آل قارظ' adalah keluarga/klan, bukan orang"}
+]},
+{"rid": "Turath · data rawi: أبي بن عمارة", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: أبيض بن حمال", "ok": 2, "issues": []},
+{"rid": "Turath · data rawi: أحزاب بن أسيد", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: أحمر بن جزء", "ok": 2, "issues": []},
+{"rid": "Turath · data rawi: أزداد بن فساءة", "ok": 3, "issues": []},
+{"rid": "Turath · data rawi: أسامة بن أخدري", "ok": 1, "issues": []}
+]
