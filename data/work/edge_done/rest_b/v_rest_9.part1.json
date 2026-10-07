@@ -1,0 +1,14 @@
+[
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/301", "ok": 4, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/303", "ok": 2, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/305", "ok": 2, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/306", "ok": 1, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/307", "ok": 1, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/309", "ok": 2, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/310", "ok": 1, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/312", "ok": 3, "issues": [
+  {"s": "xc676aff0", "t": "xe0e1cd3a", "k": "parent", "verdict": "unsure", "why": "teks hanya menyebut Qailah punya anak Hizam; dari Habib disebut hanya anak-anak perempuan, ayah Hizam tidak dinyatakan"}
+]},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/313", "ok": 1, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/315", "ok": 17, "issues": []}
+]

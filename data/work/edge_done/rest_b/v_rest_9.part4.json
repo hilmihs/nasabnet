@@ -1,0 +1,17 @@
+[
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/337", "ok": 11, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/338", "ok": 9, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/339", "ok": 11, "issues": [
+  {"s": "s4560", "t": "n1211", "k": "parent", "verdict": "wrong", "why": "orang salah: teks = al-Harits bin Aus bin Malik dari Bani Mazin bin an-Najjar; n1211 adalah perawi al-Harits bin (Abdullah bin) Aus ats-Tsaqafi ath-Tha'ifi"},
+  {"s": "xa0ed54e2", "t": "n1211", "k": "parent", "verdict": "wrong", "why": "orang salah: n1211 = al-Harits bin Abdullah bin Aus ats-Tsaqafi, bukan putra Aus bin Malik al-Mazini"}
+]},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/340", "ok": 25, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/341", "ok": 11, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/342", "ok": 13, "issues": [
+  {"s": "n3681", "t": "s4569", "k": "spouse", "verdict": "wrong", "why": "orang salah: teks = Abdullah bin Sa'd bin Mu'adz al-Asyhali; n3681 adalah node perawi generik 'Abdullah bin Sa'd' (juga dipakai di 8/381 untuk suami lain)"}
+]},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/343", "ok": 19, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/344", "ok": 5, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/345", "ok": 11, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/346", "ok": 11, "issues": []}
+]

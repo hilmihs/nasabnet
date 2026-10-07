@@ -1,0 +1,14 @@
+[
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/316", "ok": 17, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/317", "ok": 9, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/318", "ok": 20, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/319", "ok": 2, "issues": [
+  {"s": "s4503", "t": "s4504", "k": "sibling", "verdict": "unsure", "why": "benar, disebut di entri lain (8/318): Umairah dan Ummu Amir sama-sama putri Yazid bin as-Sakan dan Ummu Sa'd binti Khuzaim"}
+]},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/320", "ok": 12, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/321", "ok": 10, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/322", "ok": 9, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/323", "ok": 9, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/324", "ok": 2, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/325", "ok": 7, "issues": []}
+]

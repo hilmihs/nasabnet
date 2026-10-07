@@ -1,0 +1,14 @@
+[
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/327", "ok": 15, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/328", "ok": 17, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/329", "ok": 19, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/330", "ok": 14, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/331", "ok": 11, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/332", "ok": 13, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/333", "ok": 18, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/334", "ok": 15, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/335", "ok": 26, "issues": [
+  {"s": "n1930", "t": "xe85e39d0", "k": "spouse", "verdict": "wrong", "why": "orang salah: teks = Rafi' bin Amr bin Adi bin Majda'ah al-Haritsi (ayah Laila); n1930 adalah perawi Rafi' bin Amr al-Muzani (saudara A'idz bin Amr)"}
+]},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/336", "ok": 4, "issues": []}
+]

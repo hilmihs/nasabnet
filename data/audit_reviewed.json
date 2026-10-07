@@ -1129,5 +1129,14 @@
   ],
   "verdict": "ok",
   "why": "Barakah binti Yasar saudari Abu Tajrah; ayah mereka Yasar Abu Fukaihah, maula Bani 'Abd ad-Dar (Ibnu Sa'd 8/246)"
+ },
+ {
+  "rule": "R6",
+  "ids": [
+   "s4514",
+   "xbfe3510f"
+  ],
+  "verdict": "ok",
+  "why": "Teks Ibnu Sa'd 8/323 menulis 'زيد بن سكن', 8/315 'يزيد بن كرز'; ayah Hawwa' satu orang (salah cetak زيد/يزيد)"
  }
 ]

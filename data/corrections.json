@@ -3422,5 +3422,109 @@
   "rule": "EV",
   "fid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/297",
   "why": "orang salah: istri Sufyan bin Wahb di teks hanya 'أم عبد الله', bukan Salma binti Aslam bin Huraisy"
+ },
+ {
+  "op": "merge",
+  "keep": "n15190",
+  "drop": "x1c5a3ef6",
+  "why": "Abu al-Haitsam Malik bin at-Tayyihan tercatat dua kali (Ibnu Sa'd 3/447 & 8/325)",
+  "rule": "M",
+  "fid": "manual-90"
+ },
+ {
+  "op": "merge",
+  "keep": "x1be798e4",
+  "drop": "xb85568e2",
+  "why": "Abu Hatsmah ('Abdullah) bin Sa'idah bin 'Amir tercatat dua kali (Ibnu Sa'd 8/329–333)",
+  "rule": "M",
+  "fid": "manual-91"
+ },
+ {
+  "op": "merge",
+  "keep": "xbfe3510f",
+  "drop": "xba51bee3",
+  "why": "Suami 'Aqrab binti Mu'adz, ayah Rafi' dan Hawwa' (Ibnu Sa'd 8/315 & 8/323), satu orang: Yazid bin (as-Sakan bin) Kurz",
+  "rule": "M",
+  "fid": "manual-92"
+ },
+ {
+  "op": "drop_edge",
+  "s": "n1930",
+  "t": "xe85e39d0",
+  "k": "spouse",
+  "rule": "EV",
+  "fid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/335",
+  "why": "orang salah: teks = Rafi' bin Amr bin Adi bin Majda'ah al-Haritsi (ayah Laila); n1930 adalah perawi Rafi' bin Amr al-Muzani (saudara A'idz bin Amr)"
+ },
+ {
+  "op": "drop_edge",
+  "s": "s4560",
+  "t": "n1211",
+  "k": "parent",
+  "rule": "EV",
+  "fid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/339",
+  "why": "orang salah: teks = al-Harits bin Aus bin Malik dari Bani Mazin bin an-Najjar; n1211 adalah perawi al-Harits bin (Abdullah bin) Aus ats-Tsaqafi ath-Tha'ifi"
+ },
+ {
+  "op": "drop_edge",
+  "s": "xa0ed54e2",
+  "t": "n1211",
+  "k": "parent",
+  "rule": "EV",
+  "fid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/339",
+  "why": "orang salah: n1211 = al-Harits bin Abdullah bin Aus ats-Tsaqafi, bukan putra Aus bin Malik al-Mazini"
+ },
+ {
+  "op": "drop_edge",
+  "s": "n3681",
+  "t": "s4569",
+  "k": "spouse",
+  "rule": "EV",
+  "fid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/342",
+  "why": "orang salah: teks = Abdullah bin Sa'd bin Mu'adz al-Asyhali; n3681 adalah node perawi generik 'Abdullah bin Sa'd' (juga dipakai di 8/381 untuk suami lain)"
+ },
+ {
+  "op": "drop_edge",
+  "s": "n21519",
+  "t": "n3349",
+  "k": "parent",
+  "why": "perawi 'Abdurrahman bin 'Abdullah bin Sa'd bin 'Utsman (w. 210-an H) bukan putra 'Abdullah bin Sa'd bin Khaitsamah (w. 71 H)",
+  "rule": "M",
+  "fid": "manual-93"
+ },
+ {
+  "op": "drop_edge",
+  "s": "xda9a383b",
+  "t": "n1211",
+  "k": "parent",
+  "why": "al-Harits bin 'Abdullah bin Aus ats-Tsaqafi bukan cucu Aus bin Qaizhi al-Ausi; 'Abdullah bin Aus di sini orang lain",
+  "rule": "M",
+  "fid": "manual-94"
+ },
+ {
+  "op": "merge",
+  "keep": "s4519",
+  "drop": "xf53362cd",
+  "why": "Umaimah binti Abi al-Haitsam bin at-Tayyihan tercatat dua kali (Ibnu Sa'd 3/447 & 8/325)",
+  "rule": "M",
+  "fid": "manual-95"
+ },
+ {
+  "op": "drop_edge",
+  "s": "s4578",
+  "t": "n3681",
+  "k": "parent",
+  "why": "Ibnu Sa'd 8/345: putra Sa'd bin Khaitsamah adalah 'Abdullah bin Sa'd bin Khaitsamah (simpul tersendiri), bukan perawi umum 'Abdullah bin Sa'd'",
+  "rule": "M",
+  "fid": "manual-96"
+ },
+ {
+  "op": "drop_edge",
+  "s": "n15497",
+  "t": "n3681",
+  "k": "parent",
+  "why": "Ibnu Sa'd 8/345: putra Sa'd bin Khaitsamah adalah 'Abdullah bin Sa'd bin Khaitsamah (simpul tersendiri), bukan perawi umum 'Abdullah bin Sa'd'",
+  "rule": "M",
+  "fid": "manual-97"
  }
 ]

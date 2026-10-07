@@ -1,5 +1,21 @@
 [
  {
+  "s": "xc676aff0",
+  "t": "xe0e1cd3a",
+  "k": "parent",
+  "verdict": "unsure",
+  "why": "teks hanya menyebut Qailah punya anak Hizam; dari Habib disebut hanya anak-anak perempuan, ayah Hizam tidak dinyatakan",
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/312"
+ },
+ {
+  "s": "s4503",
+  "t": "s4504",
+  "k": "sibling",
+  "verdict": "unsure",
+  "why": "benar, disebut di entri lain (8/318): Umairah dan Ummu Amir sama-sama putri Yazid bin as-Sakan dan Ummu Sa'd binti Khuzaim",
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 8/319"
+ },
+ {
   "s": "n2289",
   "t": "s4290",
   "k": "spouse",
