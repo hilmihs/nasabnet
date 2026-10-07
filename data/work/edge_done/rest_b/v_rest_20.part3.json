@@ -1,0 +1,14 @@
+[
+{"rid": "Turath · data rawi: زيد بن مربع الأنصاري", "ok": 3, "issues": []},
+{"rid": "Turath · data rawi: زينب بنت كعب بن عجرة", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: زينب بنت معاوية", "ok": 1, "issues": [
+  {"s": "n2219", "t": "n3927", "k": "sibling", "verdict": "wrong", "why": "orang salah: teks (rusak) menyebut saudaranya Abdullah dari Tsaqif (Ghadirah bin Khuthaith bin Qasi); n3927 adalah Abdullah bin Mu'awiyah al-Ghadiri al-Himshi al-Asadi, orang lain dari Bani Asad"}
+]},
+{"rid": "Turath · data rawi: سالم بن عبيد", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: سبرة بن الفاكه", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: سبرة بن معبد", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: سخبرة", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: سراقة بن مالك بن جعشم المدلجي", "ok": 4, "issues": []},
+{"rid": "Turath · data rawi: سرق بن أسد", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: سعد بن أبي رافع", "ok": 1, "issues": []}
+]

@@ -4230,5 +4230,41 @@
   "rule": "EV",
   "fid": "Turath · data rawi: رافع",
   "why": "Ghathafan adalah nama kabilah (maula Ghathafan/Asyja'), bukan orang"
+ },
+ {
+  "op": "drop_edge",
+  "s": "n2186",
+  "t": "n2003",
+  "k": "mawla",
+  "rule": "EV",
+  "fid": "Turath · data rawi: زيد بن خالد",
+  "why": "orang salah: mawla Zaid bin Khalid al-Juhani bernama Abu 'Amrah, tetapi n2003 adalah Abu 'Amrah al-Anshari an-Najjari al-Badri (ayah Abdurrahman), sahabat Badar, bukan maulanya"
+ },
+ {
+  "op": "drop_edge",
+  "s": "n2219",
+  "t": "n3927",
+  "k": "sibling",
+  "rule": "EV",
+  "fid": "Turath · data rawi: زينب بنت معاوية",
+  "why": "orang salah: teks (rusak) menyebut saudaranya Abdullah dari Tsaqif (Ghadirah bin Khuthaith bin Qasi); n3927 adalah Abdullah bin Mu'awiyah al-Ghadiri al-Himshi al-Asadi, orang lain dari Bani Asad"
+ },
+ {
+  "op": "drop_edge",
+  "s": "n2414",
+  "t": "n2680",
+  "k": "sibling",
+  "rule": "EV",
+  "fid": "Turath · data rawi: سهل ابن الحنظلية",
+  "why": "orang salah: saudara Sahl adalah Sa'd Ibn al-Hanzhaliyyah (Ausi); n2414 adalah Abu Kabsyah (al-Anmari), orang lain"
+ },
+ {
+  "op": "drop_edge",
+  "s": "n2680",
+  "t": "n4435",
+  "k": "sibling",
+  "rule": "EV",
+  "fid": "Turath · data rawi: سهل ابن الحنظلية",
+  "why": "orang salah: saudaranya 'Uqbah Ibn al-Hanzhaliyyah (Ausi); n4435 adalah 'Uqbah bin 'Amr bin Tsa'labah (Abu Mas'ud al-Badri, Khazraji)"
  }
 ]

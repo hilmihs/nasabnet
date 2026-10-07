@@ -1,0 +1,14 @@
+[
+{"rid": "Turath · data rawi: سعد بن الأخرم", "ok": 2, "issues": [
+  {"s": "n2290", "t": "n3650", "k": "sibling", "verdict": "unsure", "why": "teks hanya 'أخو عبد الله بن ربيعة' tanpa nasab; n3650 adalah Abdullah bin Rabi'ah bin Farqad as-Sulami, beda ayah dan beda kabilah (Sa'd dari Thayyi'), identitas/jenis persaudaraan tidak jelas"}
+]},
+{"rid": "Turath · data rawi: سعد بن الأطول بن عبيد الله بن خالد بن واهب", "ok": 2, "issues": []},
+{"rid": "Turath · data rawi: سعد بن ضميرة", "ok": 2, "issues": []},
+{"rid": "Turath · data rawi: سعد بن عائذ", "ok": 3, "issues": []},
+{"rid": "Turath · data rawi: سعد بن محيصة بن مسعود بن كعب", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: سعدى بنت عوف", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: سعر بن سوادة", "ok": 2, "issues": []},
+{"rid": "Turath · data rawi: سعيد بن أبي راشد", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: سعيد بن حريث أخ لعمرو بن حريث", "ok": 5, "issues": []},
+{"rid": "Turath · data rawi: سعيد بن يربوع بن عنكثة بن عامر بن مخزوم", "ok": 12, "issues": []}
+]

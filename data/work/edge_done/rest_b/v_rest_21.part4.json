@@ -1,0 +1,14 @@
+[
+{"rid": "Turath · data rawi: شبيل", "ok": 4, "issues": []},
+{"rid": "Turath · data rawi: شداد بن أوس بن ثابت", "ok": 7, "issues": []},
+{"rid": "Turath · data rawi: شداد بن الهاد", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: شرحبيل بن السمط الكندي", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: شرحبيل بن عبد الله بن المطاع", "ok": 5, "issues": []},
+{"rid": "Turath · data rawi: شريح بن الحارث", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: شكل بن حميد", "ok": 2, "issues": []},
+{"rid": "Turath · data rawi: شمعون بن زيد بن خنافة", "ok": 2, "issues": []},
+{"rid": "Turath · data rawi: شهاب بن المجنون", "ok": 3, "issues": []},
+{"rid": "Turath · data rawi: شيبة بن عثمان بن أبي طلحة", "ok": 0, "issues": [
+  {"s": "x0b934e90", "t": "x7aadef96", "k": "spouse", "verdict": "unsure", "why": "suami Umm Jamil = 'Utsman bin Abi Thalhah ('Utsman bin 'Abdullah bin 'Abdul 'Uzza); label node mencampur 'Utsman dengan Abu Thalhah ('Abdullah bin 'Abdul 'Uzza), satu generasi hilang"}
+]}
+]

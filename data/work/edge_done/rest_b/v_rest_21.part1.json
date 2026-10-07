@@ -1,0 +1,14 @@
+[
+{"rid": "Turath · data rawi: سفيان بن أبي زهير", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: سفيان بن أسيد", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: سفيان بن عبد الله بن ربيعة بن الحارث", "ok": 6, "issues": []},
+{"rid": "Turath · data rawi: سفينة", "ok": 3, "issues": []},
+{"rid": "Turath · data rawi: سلامة بنت معقل", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: سلمان", "ok": 3, "issues": []},
+{"rid": "Turath · data rawi: سلمان بن ربيعة بن يزيد", "ok": 2, "issues": []},
+{"rid": "Turath · data rawi: سلمان بن عامر الضبي", "ok": 2, "issues": []},
+{"rid": "Turath · data rawi: سلمة", "ok": 0, "issues": [
+  {"s": "n2512", "t": "x679c9444", "k": "parent", "verdict": "unsure", "why": "teks: 'والد عبد الحميد بن سلمة أو جده' — ayah atau kakek, tidak pasti"}
+]},
+{"rid": "Turath · data rawi: سلمة بن أمية", "ok": 2, "issues": []}
+]

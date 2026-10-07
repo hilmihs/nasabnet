@@ -1,0 +1,15 @@
+[
+{"rid": "Turath · data rawi: سنين", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: سهل ابن الحنظلية", "ok": 3, "issues": [
+  {"s": "n2414", "t": "n2680", "k": "sibling", "verdict": "wrong", "why": "orang salah: saudara Sahl adalah Sa'd Ibn al-Hanzhaliyyah (Ausi); n2414 adalah Abu Kabsyah (al-Anmari), orang lain"},
+  {"s": "n2680", "t": "n4435", "k": "sibling", "verdict": "wrong", "why": "orang salah: saudaranya 'Uqbah Ibn al-Hanzhaliyyah (Ausi); n4435 adalah 'Uqbah bin 'Amr bin Tsa'labah (Abu Mas'ud al-Badri, Khazraji)"}
+]},
+{"rid": "Turath · data rawi: سهل بن أبي حثمة", "ok": 2, "issues": []},
+{"rid": "Turath · data rawi: سهل بن حنيف", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: سهل بن سعد", "ok": 6, "issues": []},
+{"rid": "Turath · data rawi: سواء بن خالد", "ok": 2, "issues": []},
+{"rid": "Turath · data rawi: سويد بن النعمان الأنصاري", "ok": 4, "issues": []},
+{"rid": "Turath · data rawi: سويد بن حنظلة", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: سويد بن قيس", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: سويد بن مقرن بن عائذ", "ok": 6, "issues": []}
+]

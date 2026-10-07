@@ -62,16 +62,19 @@ def main():
         touches = e["s"] in key or e["t"] in key
         if (scope == "key") != touches:
             continue
-        groups[label].append(e)
+        # two narrators can share a label ("Turath · data rawi: سلمة بن قيس"): group by the source URL too
+        url = (e.get("src") or {}).get("url", "")
+        groups[(label, url)].append(e)
 
     rows = []
-    for label, es in sorted(groups.items()):
+    for (label, url), es in sorted(groups.items()):
         src = es[0].get("src")
         text = source_text(src)
         if not text:
             continue
+        m = re.search(r"narrator/(\d+)", url)
         rows.append({
-            "rid": label,
+            "rid": f"{label} [rawi {m.group(1)}]" if m else label,
             "source": {"label": label, "text": text},
             "edges": [{"s": e["s"], "t": e["t"], "k": e["k"], "n": e.get("n"), "s_name": name(e["s"]), "t_name": name(e["t"])} for e in es],
         })

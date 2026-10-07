@@ -1,11 +1,35 @@
 [
  {
-  "s": "n1777",
-  "t": "x18b64cc3",
-  "k": "muakhah",
+  "s": "n2512",
+  "t": "x679c9444",
+  "k": "parent",
   "verdict": "unsure",
-  "why": "dua riwayat: utama dengan Jabr bin 'Atik; Tamim maula Khirash hanya versi al-Isti'ab",
-  "rid": "Turath · data rawi: خباب بن الأرت"
+  "why": "teks: 'والد عبد الحميد بن سلمة أو جده' — ayah atau kakek, tidak pasti",
+  "rid": "Turath · data rawi: سلمة"
+ },
+ {
+  "s": "xa8c7276f2",
+  "t": "n2538",
+  "k": "parent",
+  "verdict": "unsure",
+  "why": "benar, disebut di entri lain: n2538 adalah Salamah bin Qais (al-Jarmi, 'wa qila Ibn Nufai'') yang lain, bukan subjek record ini (al-Asyja'i); teks ini tidak menyebutnya",
+  "rid": "Turath · data rawi: سلمة بن قيس"
+ },
+ {
+  "s": "n2538",
+  "t": "n4835",
+  "k": "parent",
+  "verdict": "unsure",
+  "why": "benar, disebut di entri lain: teks record ini (Salamah bin Qais al-Asyja'i) tidak menyebut anak 'Amr; n2538 orang berbeda",
+  "rid": "Turath · data rawi: سلمة بن قيس"
+ },
+ {
+  "s": "x0b934e90",
+  "t": "x7aadef96",
+  "k": "spouse",
+  "verdict": "unsure",
+  "why": "suami Umm Jamil = 'Utsman bin Abi Thalhah ('Utsman bin 'Abdullah bin 'Abdul 'Uzza); label node mencampur 'Utsman dengan Abu Thalhah ('Abdullah bin 'Abdul 'Uzza), satu generasi hilang",
+  "rid": "Turath · data rawi: شيبة بن عثمان بن أبي طلحة"
  },
  {
   "s": "n2289",
@@ -528,6 +552,14 @@
   "rid": "Turath · data rawi: حذيفة بن أسيد"
  },
  {
+  "s": "n1777",
+  "t": "x18b64cc3",
+  "k": "muakhah",
+  "verdict": "unsure",
+  "why": "dua riwayat: utama dengan Jabr bin 'Atik; Tamim maula Khirash hanya versi al-Isti'ab",
+  "rid": "Turath · data rawi: خباب بن الأرت"
+ },
+ {
   "s": "s698",
   "t": "n3637",
   "k": "parent",
@@ -566,6 +598,14 @@
   "verdict": "unsure",
   "why": "teks terpotong di 'وأخوه'; nama saudara (Abdullah bin al-Humair) tidak ada dalam teks ini",
   "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/577"
+ },
+ {
+  "s": "n2290",
+  "t": "n3650",
+  "k": "sibling",
+  "verdict": "unsure",
+  "why": "teks hanya 'أخو عبد الله بن ربيعة' tanpa nasab; n3650 adalah Abdullah bin Rabi'ah bin Farqad as-Sulami, beda ayah dan beda kabilah (Sa'd dari Thayyi'), identitas/jenis persaudaraan tidak jelas",
+  "rid": "Turath · data rawi: سعد بن الأخرم"
  },
  {
   "s": "s905",

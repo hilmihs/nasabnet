@@ -1,0 +1,14 @@
+[
+{"rid": "Turath · data rawi: زياد بن الحارث", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: زياد بن جارية", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: زيد بن أرقم", "ok": 3, "issues": []},
+{"rid": "Turath · data rawi: زيد بن بولا", "ok": 3, "issues": []},
+{"rid": "Turath · data rawi: زيد بن ثابت الأنصاري", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: زيد بن حارثة بن شراحيل", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: زيد بن خارجة بن أبي زهير بن مالك", "ok": 3, "issues": []},
+{"rid": "Turath · data rawi: زيد بن خالد", "ok": 1, "issues": [
+  {"s": "n2186", "t": "n2003", "k": "mawla", "verdict": "wrong", "why": "orang salah: mawla Zaid bin Khalid al-Juhani bernama Abu 'Amrah, tetapi n2003 adalah Abu 'Amrah al-Anshari an-Najjari al-Badri (ayah Abdurrahman), sahabat Badar, bukan maulanya"}
+]},
+{"rid": "Turath · data rawi: زيد بن سهل بن الأسود بن حرام", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: زيد بن كعب", "ok": 1, "issues": []}
+]

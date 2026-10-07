@@ -1,0 +1,15 @@
+[
+{"rid": "Turath · data rawi: سلمة بن المحبق", "ok": 2, "issues": []},
+{"rid": "Turath · data rawi: سلمة بن صخر الأنصاري", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: سلمة بن عمرو بن الأكوع", "ok": 2, "issues": []},
+{"rid": "Turath · data rawi: سلمة بن قيس", "ok": 1, "issues": [
+  {"s": "xa8c7276f2", "t": "n2538", "k": "parent", "verdict": "unsure", "why": "benar, disebut di entri lain: n2538 adalah Salamah bin Qais (al-Jarmi, 'wa qila Ibn Nufai'') yang lain, bukan subjek record ini (al-Asyja'i); teks ini tidak menyebutnya"},
+  {"s": "n2538", "t": "n4835", "k": "parent", "verdict": "unsure", "why": "benar, disebut di entri lain: teks record ini (Salamah bin Qais al-Asyja'i) tidak menyebut anak 'Amr; n2538 orang berbeda"}
+]},
+{"rid": "Turath · data rawi: سلمة بن نفيل", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: سلمة بن يزيد", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: سلمى", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: سمرة بن جنادة", "ok": 2, "issues": []},
+{"rid": "Turath · data rawi: سمرة بن جندب الفزاري", "ok": 6, "issues": []},
+{"rid": "Turath · data rawi: سنان بن سلمة بن المحبق", "ok": 1, "issues": []}
+]
