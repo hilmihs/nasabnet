@@ -101,7 +101,7 @@ export function TribeProfileCard({ tribe }: { tribe: Tribe }) {
           {t?.dinamika?.t ? <Para points={[t.dinamika]} /> : <p className="text-tinta-soft/80 italic">{MISSING}</p>}
         </Section>
 
-        <Section title="Rujukan">
+        <Section title="Rujukan" folded>
           <p className="text-sm">{(t?.rujukan?.length ? t.rujukan : ["Jamharat Ansab al-'Arab (Ibnu Hazm)", "ath-Thabaqat al-Kubra (Ibnu Sa'd)"]).join(' · ')}</p>
         </Section>
       </div>

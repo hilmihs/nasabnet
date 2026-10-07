@@ -38,8 +38,20 @@ export function SrcChips({ src, basis }: { src?: string[]; basis?: Point['basis'
   )
 }
 
-/** One themed part of a biography or tribe profile: a heading and flowing paragraphs. */
-export function Section({ title, children }: { title: string; children: ReactNode }) {
+/** One themed part of a biography or tribe profile: a heading and flowing paragraphs (optionally folded). */
+export function Section({ title, children, folded }: { title: string; children: ReactNode; folded?: boolean }) {
+  if (folded)
+    return (
+      <details className="group border-b border-krem-200 py-4 last:border-0">
+        <summary className="flex cursor-pointer list-none items-center gap-2 font-display text-lg font-semibold text-hijau-900 [&::-webkit-details-marker]:hidden">
+          <span className="h-4 w-1 rounded-full bg-emas-500" aria-hidden="true" />
+          {title}
+          <span className="ml-1 font-sans text-xs font-medium text-hijau-700 group-open:hidden">tampilkan ▾</span>
+          <span className="ml-1 hidden font-sans text-xs font-medium text-hijau-700 group-open:inline">sembunyikan ▴</span>
+        </summary>
+        <div className="mt-1.5 space-y-2 text-[15px] leading-relaxed text-tinta">{children}</div>
+      </details>
+    )
   return (
     <section className="border-b border-krem-200 py-4 first:pt-2 last:border-0">
       <h4 className="flex items-center gap-2 font-display text-lg font-semibold text-hijau-900">
@@ -259,7 +271,7 @@ export function BioCard({ p }: { p: Person }) {
           )}
         </Section>
 
-        <Section title="Rujukan">
+        <Section title="Rujukan" folded>
           <ul className="list-disc space-y-0.5 pl-4 text-sm">
             {p.src.map((s) => (
               <li key={s.t}>
@@ -289,12 +301,12 @@ export function BioCard({ p }: { p: Person }) {
                 )
               })}
           </ul>
-          {father && (
-            <button className="text-sm font-semibold text-hijau-700 hover:underline" onClick={() => openProfile(father, 'bio')}>
-              Baca biografi ayahnya →
-            </button>
-          )}
         </Section>
+        {father && (
+          <button className="mt-3 text-sm font-semibold text-hijau-700 hover:underline" onClick={() => openProfile(father, 'bio')}>
+            Baca biografi ayahnya →
+          </button>
+        )}
       </div>
       {b && (
         <p className="mt-3 text-[11px] leading-relaxed text-tinta-soft">
