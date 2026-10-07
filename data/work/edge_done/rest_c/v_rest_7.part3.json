@@ -1,0 +1,16 @@
+[
+{"rid": "Turath · data rawi: عمير بن حبيب [rawi 10643]", "ok": 1, "issues": [
+  {"s": "x5ad056933", "t": "n10643", "k": "parent", "verdict": "wrong", "why": "teks: 'عمير بن حبيب، صوابه: ابن قتادة' — ayah yang benar Qatadah, bukan Habib"}
+]},
+{"rid": "Turath · data rawi: عمير بن حبيب بن خماشة [rawi 16134]", "ok": 2, "issues": []},
+{"rid": "Turath · data rawi: عمير بن سعد [rawi 4928]", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: عمير بن سلمة [rawi 4930]", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: عمير بن قتادة بن سعد بن عامر [rawi 4932]", "ok": 2, "issues": []},
+{"rid": "Turath · data rawi: عمير بن نيار [rawi 10645]", "ok": 1, "issues": [
+  {"s": "xf34f1189", "t": "n10645", "k": "parent", "verdict": "unsure", "why": "teks: 'ويقال: ابن عقبة بن نيار' dan ia keponakan Abu Burdah bin Niyar, jadi Niyar kemungkinan kakek, ayahnya Uqbah"}
+]},
+{"rid": "Turath · data rawi: عنبسة بن أبي سفيان [rawi 4938]", "ok": 3, "issues": []},
+{"rid": "Turath · data rawi: عويم بن ساعدة الأنصاري [rawi 4964]", "ok": 2, "issues": []},
+{"rid": "Turath · data rawi: عويمر بن أشقر [rawi 4965]", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: عويمر بن مالك [rawi 4966]", "ok": 5, "issues": []}
+]

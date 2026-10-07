@@ -1,0 +1,68 @@
+[
+ {
+  "rid": "Turath · data rawi: مجاشع من بني سليم [rawi 5405]",
+  "ok": 6,
+  "issues": []
+ },
+ {
+  "rid": "Turath · data rawi: مجاعة بن مرارة بن سلمى [rawi 5406]",
+  "ok": 2,
+  "issues": [
+   {
+    "s": "n5406",
+    "t": "xfdfa504c",
+    "k": "sibling",
+    "verdict": "unsure",
+    "why": "teks: kakak bernama 'مجاعة' sama dengan subjek, kemungkinan salah teks; node tanpa nasab"
+   }
+  ]
+ },
+ {
+  "rid": "Turath · data rawi: مجالد بن مسعود [rawi 5409]",
+  "ok": 1,
+  "issues": []
+ },
+ {
+  "rid": "Turath · data rawi: مجمع بن جارية بن عامر بن مجمع [rawi 5415]",
+  "ok": 7,
+  "issues": []
+ },
+ {
+  "rid": "Turath · data rawi: مجمع بن يزيد بن جارية [rawi 5417]",
+  "ok": 3,
+  "issues": []
+ },
+ {
+  "rid": "Turath · data rawi: محجن بن أبي محجن [rawi 5424]",
+  "ok": 2,
+  "issues": []
+ },
+ {
+  "rid": "Turath · data rawi: محجن بن الأدرع [rawi 5425]",
+  "ok": 1,
+  "issues": []
+ },
+ {
+  "rid": "Turath · data rawi: محرش بن عبد الله [rawi 5433]",
+  "ok": 0,
+  "issues": [
+   {
+    "s": "xcab33c7d7",
+    "t": "n5433",
+    "k": "parent",
+    "verdict": "unsure",
+    "why": "Ibn Abd al-Barr: mayoritas ahli hadits menyebut مخرش بن سويد بن عبد الله, jadi ayah 'عبد الله' riwayat lemah"
+   }
+  ]
+ },
+ {
+  "rid": "Turath · data rawi: محمد بن أبي بكر الصديق [rawi 5458]",
+  "ok": 1,
+  "issues": []
+ },
+ {
+  "rid": "Turath · data rawi: محمد بن أبي بن كعب [rawi 8594]",
+  "ok": 2,
+  "issues": []
+ }
+]

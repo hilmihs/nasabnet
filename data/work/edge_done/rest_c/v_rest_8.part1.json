@@ -1,0 +1,18 @@
+[
+{"rid": "Turath · data rawi: غضيف بن الحارث بن زنيم [rawi 5047]", "ok": 2, "issues": []},
+{"rid": "Turath · data rawi: فاطمة بنت قيس بن خالد [rawi 5068]", "ok": 2, "issues": []},
+{"rid": "Turath · data rawi: فجيع بن عبد الله بن جندج بن البكاء [rawi 5070]", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: فرات بن حيان العجلي [rawi 5072]", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: فروة بن مسيك الغطيفي [rawi 5081]", "ok": 1, "issues": [
+  {"s": "n5081", "t": "n7016", "k": "parent", "verdict": "unsure", "why": "teks 'والد يحيى بن هانئ بن عروة ... على خلاف فيه' — nama Yahya menunjukkan ayahnya Hani' bin Urwah, bukan Farwah; diperselisihkan"}
+]},
+{"rid": "Turath · data rawi: فروة بن نوفل [rawi 5082]", "ok": 1, "issues": [
+  {"s": "n5082", "t": "xc24f45e6", "k": "sibling", "verdict": "wrong", "why": "saudaranya Abdurrahman bin Naufal al-Asyja'i; node yang dipilih Abdurrahman bin Naufal bin al-Harits (Hasyimi) — orang lain"}
+]},
+{"rid": "Turath · data rawi: فريعة بنت مالك [rawi 5085]", "ok": 2, "issues": []},
+{"rid": "Turath · data rawi: فضالة [rawi 5087]", "ok": 0, "issues": [
+  {"s": "xcab33c7d6", "t": "n5087", "k": "parent", "verdict": "unsure", "why": "teks: 'قيل اسم أبيه عبد الله، وقيل: وهب' — dua riwayat bertentangan; node ayah hanya 'عبد الله' tanpa nasab"}
+]},
+{"rid": "Turath · data rawi: فضالة بن عبيد بن نافذ بن قيس بن صهيبة [rawi 7252]", "ok": 2, "issues": []},
+{"rid": "Turath · data rawi: فيروز الديلمي [rawi 5125]", "ok": 3, "issues": []}
+]

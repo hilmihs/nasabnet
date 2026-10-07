@@ -4573,5 +4573,126 @@
   "rule": "EV",
   "fid": "Turath · data rawi: عطية بن بسر [rawi 4404]",
   "why": "orang lain: Salma binti Aslam bukan istri Busr; teks tak menyebut nama ibu"
+ },
+ {
+  "op": "merge",
+  "keep": "n4932",
+  "drop": "n10643",
+  "why": "'Umair bin Qatadah al-Laitsi; catatan rawi 'عمير بن حبيب، صوابه: ابن قتادة' adalah orang yang sama",
+  "rule": "M",
+  "fid": "manual-132"
+ },
+ {
+  "op": "merge",
+  "keep": "n4129",
+  "drop": "xc9b18bb8",
+  "why": "'Ubaid bin 'Umair bin Qatadah al-Laitsi tercatat dua kali",
+  "rule": "M",
+  "fid": "manual-133"
+ },
+ {
+  "op": "drop_edge",
+  "s": "n4844",
+  "t": "s826",
+  "k": "mawla",
+  "rule": "EV",
+  "fid": "Turath · data rawi: عمرو بن العاص [rawi 4844]",
+  "why": "teks: maulanya Abu Qais; node Hilal bin al-Mu'alla (Anshar, Bani Haritsah) orang lain"
+ },
+ {
+  "op": "drop_edge",
+  "s": "n4813",
+  "t": "x02ab29e5",
+  "k": "sibling",
+  "rule": "EV",
+  "fid": "Turath · data rawi: عمرو بن حزم الأنصاري [rawi 4813]",
+  "why": "teks: saudaranya Umarah (bin Hazm); node bernama Umarah bin Zaid (generasi kakek/paman), orang salah"
+ },
+ {
+  "op": "drop_edge",
+  "s": "n4813",
+  "t": "x25a6d443",
+  "k": "sibling",
+  "rule": "EV",
+  "fid": "Turath · data rawi: عمرو بن حزم الأنصاري [rawi 4813]",
+  "why": "teks: saudaranya Ma'mar (bin Hazm); node bernama Ma'mar bin Zaid (generasi kakek/paman), orang salah"
+ },
+ {
+  "op": "drop_edge",
+  "s": "x5ad056933",
+  "t": "n10643",
+  "k": "parent",
+  "rule": "EV",
+  "fid": "Turath · data rawi: عمير بن حبيب [rawi 10643]",
+  "why": "teks: 'عمير بن حبيب، صوابه: ابن قتادة' — ayah yang benar Qatadah, bukan Habib"
+ },
+ {
+  "op": "drop_edge",
+  "s": "n9886",
+  "t": "n5036",
+  "k": "parent",
+  "rule": "EV",
+  "fid": "Turath · data rawi: غرفة بن الحارث [rawi 5036]",
+  "why": "ayah ditautkan ke node rawi 'الحارث' tanpa nasab (n9886), orang lain; teks tak mengidentifikasi ayah Ghurfah al-Kindi"
+ },
+ {
+  "op": "drop_edge",
+  "s": "n5082",
+  "t": "xc24f45e6",
+  "k": "sibling",
+  "rule": "EV",
+  "fid": "Turath · data rawi: فروة بن نوفل [rawi 5082]",
+  "why": "saudaranya Abdurrahman bin Naufal al-Asyja'i; node yang dipilih Abdurrahman bin Naufal bin al-Harits (Hasyimi) — orang lain"
+ },
+ {
+  "op": "merge",
+  "keep": "x05ddc7fc",
+  "drop": "x3c7a5a6f2",
+  "why": "Mujasyi' dan Mujalid bersaudara (data rawi Mujalid bin Mas'ud); ayah mereka satu: Mas'ud bin Tsa'labah as-Sulami",
+  "rule": "M",
+  "fid": "manual-134"
+ },
+ {
+  "op": "drop_edge",
+  "s": "n3590",
+  "t": "n5521",
+  "k": "sibling",
+  "rule": "EV",
+  "fid": "Turath · data rawi: محمد بن ثابت بن قيس بن شماس [rawi 5521]",
+  "why": "teks: saudara bernama عبد الله (putra Tsabit bin Qais bin Syammas); node أبو أسيد بن ثابت adalah sahabat lain, bukan putra Tsabit bin Qais"
+ },
+ {
+  "op": "merge",
+  "keep": "n2020",
+  "drop": "xd01950a6",
+  "why": "Ummu Habibah binti Abi Sufyan (Ummul Mukminin) tercatat dua kali; istri 'Ubaidullah bin Jahsy, saudari Mu'awiyah",
+  "rule": "M",
+  "fid": "manual-135"
+ },
+ {
+  "op": "merge",
+  "keep": "xfd6b19d6",
+  "drop": "x1f419fc6",
+  "why": "al-'Ajma' binti 'Amir al-Khuza'iyyah, istri al-Aswad bin Haritsah dan ibu Mas'ud & Muthi', tercatat dua kali",
+  "rule": "M",
+  "fid": "manual-136"
+ },
+ {
+  "op": "drop_edge",
+  "s": "n9886",
+  "t": "n6115",
+  "k": "parent",
+  "rule": "EV",
+  "fid": "Turath · data rawi: مسلم بن الحارث [rawi 6115]",
+  "why": "ayah ditautkan ke node perawi lain 'الحارث' tanpa nasab (n9886); teks hanya menyebut nama ayah (bahkan ada versi 'الحارث بن مسلم'), bukan identitas orang tersebut"
+ },
+ {
+  "op": "drop_edge",
+  "s": "n10989",
+  "t": "xc7c65262",
+  "k": "sibling",
+  "rule": "EV",
+  "fid": "Turath · data rawi: معاذ بن الحارث. [rawi 10989]",
+  "why": "Hudzail bin Mudrikah bin Ilyas adalah leluhur kabilah kuno, mustahil saudara seorang sahabat Anshar; frasa teks rusak/berarti nisbah kabilah"
  }
 ]

@@ -1,0 +1,18 @@
+[
+{"rid": "Turath · data rawi: مرة بن وهب بن جابر بن عتاب [rawi 6042]", "ok": 1, "issues": [
+  {"s": "n6042", "t": "n7186", "k": "parent", "verdict": "unsure", "why": "teks berhati-hati ('إن كان محفوظا'); node n7186 berlabel 'يعلى بن منبه' (Ya'la bin Umayyah/Munyah, Tamimi) padahal nasabnya Ya'la bin Murrah ats-Tsaqafi — kemungkinan dua orang tergabung"}
+]},
+{"rid": "Turath · data rawi: مرثد بن أبي مرثد [rawi 10959]", "ok": 2, "issues": []},
+{"rid": "Turath · data rawi: مرثد بن وداعة [rawi 6047]", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: مرحب [rawi 6050]", "ok": 0, "issues": [
+  {"s": "n2708", "t": "n6050", "k": "parent", "verdict": "unsure", "why": "teks: 'اسم أبي مرحب سويد بن قيس' — bila subjek adalah Abu Marhab, Suwaid bin Qais adalah dirinya sendiri, bukan ayah; hanya ayah menurut versi 'ibn Abi Marhab'"}
+]},
+{"rid": "Turath · data rawi: مرداس بن مالك [rawi 6052]", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: مروان بن الحكم [rawi 6060]", "ok": 4, "issues": []},
+{"rid": "Turath · data rawi: مزيدة بن جابر [rawi 6073]", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: مسعود بن الأسود [rawi 6093]", "ok": 5, "issues": []},
+{"rid": "Turath · data rawi: مسعود بن الحكم الأنصاري [rawi 6096]", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: مسعود بن هبيرة [rawi 6101]", "ok": 1, "issues": [
+  {"s": "x7866cf6a", "t": "n6101", "k": "parent", "verdict": "unsure", "why": "teks: ayahnya 'هنيدة' dan itu 'أصح'; Hubairah versi yang kurang kuat"}
+]}
+]

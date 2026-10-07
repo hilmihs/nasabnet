@@ -1,0 +1,30 @@
+[
+ {
+  "rid": "Turath · data rawi: محمد بن أبي عميرة [rawi 5473]",
+  "ok": 1,
+  "issues": []
+ },
+ {
+  "rid": "Turath · data rawi: محمد بن ثابت بن قيس بن شماس [rawi 5521]",
+  "ok": 6,
+  "issues": [
+   {
+    "s": "n3590",
+    "t": "n5521",
+    "k": "sibling",
+    "verdict": "wrong",
+    "why": "teks: saudara bernama عبد الله (putra Tsabit bin Qais bin Syammas); node أبو أسيد بن ثابت adalah sahabat lain, bukan putra Tsabit bin Qais"
+   }
+  ]
+ },
+ {
+  "rid": "Turath · data rawi: محمد بن حاطب بن الحارث [rawi 5546]",
+  "ok": 4,
+  "issues": []
+ },
+ {
+  "rid": "Turath · data rawi: محمد بن حبيب [rawi 10773]",
+  "ok": 1,
+  "issues": []
+ }
+]

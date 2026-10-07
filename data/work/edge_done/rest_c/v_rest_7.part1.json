@@ -1,0 +1,17 @@
+[
+{"rid": "Turath · data rawi: عمران بن طلحة بن عبيد الله [rawi 4770]", "ok": 4, "issues": []},
+{"rid": "Turath · data rawi: عمران بن عصام [rawi 4773]", "ok": 2, "issues": []},
+{"rid": "Turath · data rawi: عمرو بن أحيحة بن الجلاح بن الحريش بن جحجبا [rawi 10611]", "ok": 2, "issues": [
+  {"s": "x8703df59", "t": "n10611", "k": "parent", "verdict": "unsure", "why": "Abu Umar menduga perawi ini cucu Amr bin Uhaihah yang dinisbatkan ke kakek; ibu Salma an-Najjariyyah hanya berlaku bagi Amr bin Uhaihah yang asli"},
+  {"s": "c-abdulmuttalib", "t": "n10611", "k": "sibling", "verdict": "unsure", "why": "Abu Umar menduga perawi ini cucu Amr bin Uhaihah; saudara seibu Abdul Muththalib hanya berlaku bagi Amr bin Uhaihah yang asli"}
+]},
+{"rid": "Turath · data rawi: عمرو بن أخطب بن رفاعة [rawi 4794]", "ok": 2, "issues": []},
+{"rid": "Turath · data rawi: عمرو بن أمية الضمري [rawi 4797]", "ok": 2, "issues": []},
+{"rid": "Turath · data rawi: عمرو بن الأحوص [rawi 4793]", "ok": 2, "issues": []},
+{"rid": "Turath · data rawi: عمرو بن الحارث ختن رسول الله [rawi 4808]", "ok": 2, "issues": []},
+{"rid": "Turath · data rawi: عمرو بن الحمق بن الكاهن [rawi 4816]", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: عمرو بن العاص [rawi 4844]", "ok": 4, "issues": [
+  {"s": "n4844", "t": "s826", "k": "mawla", "verdict": "wrong", "why": "teks: maulanya Abu Qais; node Hilal bin al-Mu'alla (Anshar, Bani Haritsah) orang lain"}
+]},
+{"rid": "Turath · data rawi: عمرو بن الفغواء [rawi 4880]", "ok": 2, "issues": []}
+]

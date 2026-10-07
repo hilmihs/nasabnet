@@ -1,0 +1,8 @@
+[
+{"rid": "Turath · data rawi: عياض بن حمار أخي بني مجاشع [rawi 4974]", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: عياض بن عمرو [rawi 4977]", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: غالب بن أبجر [rawi 5029]", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: غرفة بن الحارث [rawi 5036]", "ok": 0, "issues": [
+  {"s": "n9886", "t": "n5036", "k": "parent", "verdict": "wrong", "why": "ayah ditautkan ke node rawi 'الحارث' tanpa nasab (n9886), orang lain; teks tak mengidentifikasi ayah Ghurfah al-Kindi"}
+]}
+]

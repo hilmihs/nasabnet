@@ -1,11 +1,35 @@
 [
  {
-  "s": "n4554",
-  "t": "xce5bd6c1",
+  "s": "x56b3e6a33",
+  "t": "n6035",
   "k": "parent",
   "verdict": "unsure",
-  "why": "teks hanya dugaan Ibnu Abdil Barr 'أظنه والد طلق بن علي'",
-  "rid": "Turath · data rawi: علي بن طلق الحنفي [rawi 4554]"
+  "why": "teks bertentangan: 'مخمر بن معاوية' vs 'مخمر بن حيدة' (al-Askari); ia disebut paman Hakim bin Mu'awiyah bin Haidah dan saudara Malik bin Haidah, sehingga ayahnya kemungkinan Haidah, bukan Mu'awiyah",
+  "rid": "Turath · data rawi: مخمر بن معاوية [rawi 6035]"
+ },
+ {
+  "s": "n6042",
+  "t": "n7186",
+  "k": "parent",
+  "verdict": "unsure",
+  "why": "teks berhati-hati ('إن كان محفوظا'); node n7186 berlabel 'يعلى بن منبه' (Ya'la bin Umayyah/Munyah, Tamimi) padahal nasabnya Ya'la bin Murrah ats-Tsaqafi — kemungkinan dua orang tergabung",
+  "rid": "Turath · data rawi: مرة بن وهب بن جابر بن عتاب [rawi 6042]"
+ },
+ {
+  "s": "n2708",
+  "t": "n6050",
+  "k": "parent",
+  "verdict": "unsure",
+  "why": "teks: 'اسم أبي مرحب سويد بن قيس' — bila subjek adalah Abu Marhab, Suwaid bin Qais adalah dirinya sendiri, bukan ayah; hanya ayah menurut versi 'ibn Abi Marhab'",
+  "rid": "Turath · data rawi: مرحب [rawi 6050]"
+ },
+ {
+  "s": "x7866cf6a",
+  "t": "n6101",
+  "k": "parent",
+  "verdict": "unsure",
+  "why": "teks: ayahnya 'هنيدة' dan itu 'أصح'; Hubairah versi yang kurang kuat",
+  "rid": "Turath · data rawi: مسعود بن هبيرة [rawi 6101]"
  },
  {
   "s": "n2289",
@@ -894,5 +918,69 @@
   "verdict": "unsure",
   "why": "bergantung pada riwayat ibu yang diperselisihkan (عميرة vs هند بنت عمير بن جدعان)",
   "rid": "Turath · data rawi: عبد الرحمن بن عثمان التيمي [rawi 7263]"
+ },
+ {
+  "s": "n4554",
+  "t": "xce5bd6c1",
+  "k": "parent",
+  "verdict": "unsure",
+  "why": "teks hanya dugaan Ibnu Abdil Barr 'أظنه والد طلق بن علي'",
+  "rid": "Turath · data rawi: علي بن طلق الحنفي [rawi 4554]"
+ },
+ {
+  "s": "x8703df59",
+  "t": "n10611",
+  "k": "parent",
+  "verdict": "unsure",
+  "why": "Abu Umar menduga perawi ini cucu Amr bin Uhaihah yang dinisbatkan ke kakek; ibu Salma an-Najjariyyah hanya berlaku bagi Amr bin Uhaihah yang asli",
+  "rid": "Turath · data rawi: عمرو بن أحيحة بن الجلاح بن الحريش بن جحجبا [rawi 10611]"
+ },
+ {
+  "s": "c-abdulmuttalib",
+  "t": "n10611",
+  "k": "sibling",
+  "verdict": "unsure",
+  "why": "Abu Umar menduga perawi ini cucu Amr bin Uhaihah; saudara seibu Abdul Muththalib hanya berlaku bagi Amr bin Uhaihah yang asli",
+  "rid": "Turath · data rawi: عمرو بن أحيحة بن الجلاح بن الحريش بن جحجبا [rawi 10611]"
+ },
+ {
+  "s": "xf34f1189",
+  "t": "n10645",
+  "k": "parent",
+  "verdict": "unsure",
+  "why": "teks: 'ويقال: ابن عقبة بن نيار' dan ia keponakan Abu Burdah bin Niyar, jadi Niyar kemungkinan kakek, ayahnya Uqbah",
+  "rid": "Turath · data rawi: عمير بن نيار [rawi 10645]"
+ },
+ {
+  "s": "n5081",
+  "t": "n7016",
+  "k": "parent",
+  "verdict": "unsure",
+  "why": "teks 'والد يحيى بن هانئ بن عروة ... على خلاف فيه' — nama Yahya menunjukkan ayahnya Hani' bin Urwah, bukan Farwah; diperselisihkan",
+  "rid": "Turath · data rawi: فروة بن مسيك الغطيفي [rawi 5081]"
+ },
+ {
+  "s": "xcab33c7d6",
+  "t": "n5087",
+  "k": "parent",
+  "verdict": "unsure",
+  "why": "teks: 'قيل اسم أبيه عبد الله، وقيل: وهب' — dua riwayat bertentangan; node ayah hanya 'عبد الله' tanpa nasab",
+  "rid": "Turath · data rawi: فضالة [rawi 5087]"
+ },
+ {
+  "s": "n5406",
+  "t": "xfdfa504c",
+  "k": "sibling",
+  "verdict": "unsure",
+  "why": "teks: kakak bernama 'مجاعة' sama dengan subjek, kemungkinan salah teks; node tanpa nasab",
+  "rid": "Turath · data rawi: مجاعة بن مرارة بن سلمى [rawi 5406]"
+ },
+ {
+  "s": "xcab33c7d7",
+  "t": "n5433",
+  "k": "parent",
+  "verdict": "unsure",
+  "why": "Ibn Abd al-Barr: mayoritas ahli hadits menyebut مخرش بن سويد بن عبد الله, jadi ayah 'عبد الله' riwayat lemah",
+  "rid": "Turath · data rawi: محرش بن عبد الله [rawi 5433]"
  }
 ]

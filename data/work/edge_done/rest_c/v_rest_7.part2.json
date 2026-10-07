@@ -1,0 +1,15 @@
+[
+{"rid": "Turath · data rawi: عمرو بن تغلب [rawi 4801]", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: عمرو بن حريث [rawi 4811]", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: عمرو بن حزم الأنصاري [rawi 4813]", "ok": 4, "issues": [
+  {"s": "n4813", "t": "x02ab29e5", "k": "sibling", "verdict": "wrong", "why": "teks: saudaranya Umarah (bin Hazm); node bernama Umarah bin Zaid (generasi kakek/paman), orang salah"},
+  {"s": "n4813", "t": "x25a6d443", "k": "sibling", "verdict": "wrong", "why": "teks: saudaranya Ma'mar (bin Hazm); node bernama Ma'mar bin Zaid (generasi kakek/paman), orang salah"}
+]},
+{"rid": "Turath · data rawi: عمرو بن خارجة بن المنتفق [rawi 4818]", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: عمرو بن صليع بن محارب بن خصفة [rawi 10622]", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: عمرو بن عبسة السلمي [rawi 4859]", "ok": 5, "issues": []},
+{"rid": "Turath · data rawi: عمرو بن عوف [rawi 4873]", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: عمرو بن عوف بن زيد [rawi 4874]", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: عمرو بن غيلان بن سلمة [rawi 4879]", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: عمير [rawi 4925]", "ok": 1, "issues": []}
+]

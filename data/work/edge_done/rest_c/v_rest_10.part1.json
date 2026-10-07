@@ -1,0 +1,14 @@
+[
+{"rid": "Turath · data rawi: محمد بن صفوان [rawi 5672]", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: محمد بن صيفي بن سهل بن الحارث بن عميد [rawi 5675]", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: محمد بن عبد الله بن جحش بن رئاب [rawi 5742]", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: محمد بن عمرو بن حزم بن زيد بن لوذان [rawi 5854]", "ok": 7, "issues": []},
+{"rid": "Turath · data rawi: محمد بن مسلمة الأنصاري [rawi 5919]", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: محمود بن الربيع الأنصاري [rawi 6011]", "ok": 4, "issues": []},
+{"rid": "Turath · data rawi: مخارق بن سليم [rawi 6019]", "ok": 3, "issues": []},
+{"rid": "Turath · data rawi: مخمر بن معاوية [rawi 6035]", "ok": 1, "issues": [
+  {"s": "x56b3e6a33", "t": "n6035", "k": "parent", "verdict": "unsure", "why": "teks bertentangan: 'مخمر بن معاوية' vs 'مخمر بن حيدة' (al-Askari); ia disebut paman Hakim bin Mu'awiyah bin Haidah dan saudara Malik bin Haidah, sehingga ayahnya kemungkinan Haidah, bukan Mu'awiyah"}
+]},
+{"rid": "Turath · data rawi: مخنف بن سليم الغامدي [rawi 6036]", "ok": 6, "issues": []},
+{"rid": "Turath · data rawi: مرة بن عمرو بن حبيب [rawi 10963]", "ok": 2, "issues": []}
+]

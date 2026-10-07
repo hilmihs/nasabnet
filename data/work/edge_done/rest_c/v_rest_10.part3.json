@@ -1,0 +1,16 @@
+[
+{"rid": "Turath · data rawi: مسلم [rawi 10979]", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: مسلم بن الحارث [rawi 6115]", "ok": 1, "issues": [
+  {"s": "n9886", "t": "n6115", "k": "parent", "verdict": "wrong", "why": "ayah ditautkan ke node perawi lain 'الحارث' tanpa nasab (n9886); teks hanya menyebut nama ayah (bahkan ada versi 'الحارث بن مسلم'), bukan identitas orang tersebut"}
+]},
+{"rid": "Turath · data rawi: مسلم بن عبيد الله وقيل [rawi 7273]", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: مسلمة بن مخلد [rawi 6151]", "ok": 7, "issues": []},
+{"rid": "Turath · data rawi: مطر بن عكامس [rawi 6181]", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: مطيع بن الأسود بن حارثة [rawi 6197]", "ok": 7, "issues": []},
+{"rid": "Turath · data rawi: معاذ بن أنس [rawi 6204]", "ok": 2, "issues": []},
+{"rid": "Turath · data rawi: معاذ بن الحارث. [rawi 10989]", "ok": 5, "issues": [
+  {"s": "n10989", "t": "xc7c65262", "k": "sibling", "verdict": "wrong", "why": "Hudzail bin Mudrikah bin Ilyas adalah leluhur kabilah kuno, mustahil saudara seorang sahabat Anshar; frasa teks rusak/berarti nisbah kabilah"}
+]},
+{"rid": "Turath · data rawi: معاذ بن سعد [rawi 6211]", "ok": 1, "issues": []},
+{"rid": "Turath · data rawi: معاوية بن أبي سفيان [rawi 6225]", "ok": 5, "issues": []}
+]
