@@ -1,0 +1,15 @@
+[
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/91", "ok": 1, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/92", "ok": 1, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/93", "ok": 1, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/94", "ok": 2, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/95", "ok": 4, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/97", "ok": 2, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/98", "ok": 5, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/100", "ok": 1, "issues": [
+  {"s": "xdb071d14", "t": "n4833", "k": "parent", "verdict": "wrong", "why": "teks: Amr bin Sa'id bin al-Ash bin Umayyah (sahabat, ibu Shafiyyah binti al-Mughirah); node n4833 adalah Amr bin Sa'id bin al-Ash bin Sa'id bin al-Ash (al-Asydaq) - generasi lain"},
+  {"s": "x93b469b4", "t": "n4833", "k": "parent", "verdict": "wrong", "why": "node n4833 adalah Amr al-Asydaq (cucu), bukan Amr bin Sa'id bin al-Ash bin Umayyah yang dimaksud teks"}
+]},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/102", "ok": 1, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/103", "ok": 2, "issues": []}
+]

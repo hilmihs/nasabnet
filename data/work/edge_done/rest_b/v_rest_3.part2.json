@@ -1,0 +1,19 @@
+[
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/595", "ok": 5, "issues": [
+  {"s": "x38d8b7a92", "t": "s812", "k": "parent", "verdict": "wrong", "why": "node 'من أشجع' hanya nama kabilah, bukan orang"},
+  {"s": "x03263ac8", "t": "x38d8b7a92", "k": "spouse", "verdict": "wrong", "why": "node 'من أشجع' hanya nama kabilah, bukan orang"},
+  {"s": "x38d8b7a92", "t": "s813", "k": "parent", "verdict": "wrong", "why": "node 'من أشجع' hanya nama kabilah, bukan orang"}
+]},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/596", "ok": 17, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/597", "ok": 5, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/598", "ok": 6, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/599", "ok": 9, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/600", "ok": 5, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/601", "ok": 4, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/603", "ok": 4, "issues": [
+  {"s": "x37455d6f", "t": "xd860199b", "k": "parent", "verdict": "wrong", "why": "node 'من كندة' hanya nama kabilah, bukan orang"},
+  {"s": "n712", "t": "x37455d6f", "k": "spouse", "verdict": "wrong", "why": "node 'من كندة' hanya nama kabilah, bukan orang"}
+]},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/607", "ok": 2, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/608", "ok": 4, "issues": []}
+]

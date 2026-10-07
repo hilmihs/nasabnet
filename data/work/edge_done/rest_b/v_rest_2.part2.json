@@ -1,0 +1,16 @@
+[
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/545", "ok": 3, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/546", "ok": 3, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/547", "ok": 6, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/548", "ok": 1, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/549", "ok": 5, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/550", "ok": 3, "issues": [
+  {"s": "s436", "t": "n4237", "k": "parent", "verdict": "wrong", "why": "orang salah: s436 = Malik bin Amr dari Bani Sulaim (sekutu Bani Abd Syams, 3/97), bukan Malik bin Amr bin al-Ajlan ayah Itban"},
+  {"s": "x483637d3", "t": "n4237", "k": "parent", "verdict": "wrong", "why": "'من مزينة' hanya nama kabilah, bukan orang"},
+  {"s": "s436", "t": "x483637d3", "k": "spouse", "verdict": "wrong", "why": "'من مزينة' bukan orang; s436 juga orang yang salah (Malik bin Amr as-Sulami)"}
+]},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/551", "ok": 9, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/552", "ok": 5, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/553", "ok": 2, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/554", "ok": 5, "issues": []}
+]

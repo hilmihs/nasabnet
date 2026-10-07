@@ -1,0 +1,19 @@
+[
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/125", "ok": 2, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/126", "ok": 5, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/127", "ok": 3, "issues": [
+  {"s": "s905", "t": "x8601171d", "k": "sibling", "verdict": "unsure", "why": "Ibnu Ishaq: saudara seibu; al-Waqidi: Khalid anak Sufyan (saudara seibu Syurahbil), jadi keponakan"},
+  {"s": "s905", "t": "x9ecdb64f", "k": "sibling", "verdict": "unsure", "why": "Ibnu Ishaq: saudara seibu; al-Waqidi: Junadah anak Sufyan (saudara seibu Syurahbil), jadi keponakan"}
+]},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/128", "ok": 11, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/129", "ok": 7, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/130", "ok": 3, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/131", "ok": 4, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/135", "ok": 6, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/136", "ok": 5, "issues": [
+  {"s": "x4f3a0aeb", "t": "x878bb1fd", "k": "parent", "verdict": "unsure", "why": "teks hanya menyebut Sumayyah melahirkan Ammar; Abdullah disebut saudara Ammar tanpa ibu"}
+]},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/137", "ok": 0, "issues": [
+  {"s": "x9c9eb9a0", "t": "s918", "k": "mawla", "verdict": "wrong", "why": "simpul 'Bani Makhzum' adalah kabilah, bukan orang"}
+]}
+]

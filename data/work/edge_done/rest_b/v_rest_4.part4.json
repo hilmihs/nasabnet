@@ -1,0 +1,23 @@
+[
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/196", "ok": 4, "issues": [
+  {"s": "n7271", "t": "s935", "k": "sibling", "verdict": "wrong", "why": "Abdullah bin al-Harits tidak disebut di teks ini; simpul n7271 tanpa nasab (bukan s933)"},
+  {"s": "s936", "t": "s939", "k": "sibling", "verdict": "wrong", "why": "teks ini tidak menyebut Sa'id bin Amr; hubungan saudara seibu baru disebut di 4/197"},
+  {"s": "s937", "t": "s938", "k": "sibling", "verdict": "wrong", "why": "Ma'bad tidak disebut di teks ini (biografinya di 4/197)"}
+]},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/197", "ok": 5, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/198", "ok": 3, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/199", "ok": 10, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/201", "ok": 10, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/202", "ok": 8, "issues": [
+  {"s": "s4398", "t": "x7b2a4581", "k": "parent", "verdict": "unsure", "why": "teks hanya 'wa kana li Khaththab min al-walad Muhammad' tanpa menyebut ibunya"},
+  {"s": "s948", "t": "xee22d82b2", "k": "spouse", "verdict": "unsure", "why": "Ibnu Ishaq: Hasanah istri Sufyan; al-Waqidi: Hasanah ibu Sufyan (riwayat bertentangan)"},
+  {"s": "xee22d82b2", "t": "x8601171d", "k": "parent", "verdict": "unsure", "why": "hanya versi Ibnu Ishaq; menurut al-Waqidi Hasanah nenek Khalid"},
+  {"s": "xee22d82b2", "t": "x9ecdb64f", "k": "parent", "verdict": "unsure", "why": "hanya versi Ibnu Ishaq; menurut al-Waqidi Hasanah nenek Junadah"}
+]},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/203", "ok": 6, "issues": [
+  {"s": "s4430", "t": "x4ea5c56d", "k": "parent", "verdict": "unsure", "why": "teks: ibu Sulaith bin Sulaith 'Qahtam binti Alqamah', istri yang hijrah 'Fathimah binti Alqamah'; belum pasti orang yang sama"}
+]},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/204", "ok": 7, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/205", "ok": 3, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/213", "ok": 6, "issues": []}
+]

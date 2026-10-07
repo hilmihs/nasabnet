@@ -1,3 +1,38 @@
 [
- {"s": "n10053", "t": "s606", "k": "sibling", "why": "Khawwat dan Abdullah sama-sama putra Jubair bin an-Nu'man bin Umayyah (nasab keduanya identik di Ibnu Sa'd 3/475 & 3/477); relasi benar walau halaman 3/475 tidak menyebutnya langsung"}
+ {
+  "s": "n10053",
+  "t": "s606",
+  "k": "sibling",
+  "why": "Khawwat dan Abdullah sama-sama putra Jubair bin an-Nu'man bin Umayyah (nasab keduanya identik di Ibnu Sa'd 3/475 & 3/477); relasi benar walau halaman 3/475 tidak menyebutnya langsung"
+ },
+ {
+  "s": "s4840",
+  "t": "x556e32b5",
+  "k": "spouse",
+  "why": "Ibnu Sa'd menomori ibunda Sa'd bin 'Ubadah 'ketiga' (3/613, 8/373) dan 'keempat' (8/451); orangnya satu, istri 'Ubadah bin Dulaim"
+ },
+ {
+  "s": "s933",
+  "t": "s935",
+  "k": "sibling",
+  "why": "putra-putra al-Harits bin Qais as-Sahmi (Ibnu Sa'd 4/195–197); nasab & orang tua sama, disebut di entri tetangga"
+ },
+ {
+  "s": "s934",
+  "t": "s935",
+  "k": "sibling",
+  "why": "putra-putra al-Harits bin Qais as-Sahmi (Ibnu Sa'd 4/195–197); nasab & orang tua sama, disebut di entri tetangga"
+ },
+ {
+  "s": "s937",
+  "t": "s938",
+  "k": "sibling",
+  "why": "putra-putra al-Harits bin Qais as-Sahmi (Ibnu Sa'd 4/195–197); nasab & orang tua sama, disebut di entri tetangga"
+ },
+ {
+  "s": "s936",
+  "t": "s939",
+  "k": "sibling",
+  "why": "Ibnu Sa'd 4/197: Tamim bin al-Harits dan Sa'id bin 'Amr at-Tamimi saudara seibu"
+ }
 ]

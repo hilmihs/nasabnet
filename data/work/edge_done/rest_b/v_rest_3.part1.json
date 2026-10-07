@@ -1,0 +1,22 @@
+[
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/578", "ok": 8, "issues": [
+  {"s": "xc05e6dc3", "t": "s785", "k": "mawla", "verdict": "wrong", "why": "node 'بنو عبيد بن عدي' adalah kabilah, bukan orang"},
+  {"s": "n15557", "t": "s788", "k": "sibling", "verdict": "wrong", "why": "teks halaman ini tidak menyebut Yazid bin Amir sebagai saudara Quthbah"}
+]},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/579", "ok": 7, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/580", "ok": 9, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/581", "ok": 7, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/582", "ok": 6, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/583", "ok": 2, "issues": [
+  {"s": "s4516", "t": "x6c90779f", "k": "spouse", "verdict": "wrong", "why": "teks: ibu Mu'adz adalah Hind binti Sahl dari Juhainah (Bani ar-Rab'ah); node s4516 adalah Hind binti Sahl bin Zaid dari Ahl Ratij (Aus) - orang lain"}
+]},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/591", "ok": 16, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/592", "ok": 7, "issues": [
+  {"s": "x2a5eaad6", "t": "n6482", "k": "parent", "verdict": "wrong", "why": "teks: Maimunah putri Abu Ubadah Sa'd bin Utsman; node n6482 adalah Maimunah binti Sa'd (atau binti Sa'id), perawi/pelayan Nabi - orang lain"}
+]},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/593", "ok": 5, "issues": [
+  {"s": "x38d8b7a9", "t": "s807", "k": "parent", "verdict": "wrong", "why": "node 'من أشجع' hanya nama kabilah, bukan orang"},
+  {"s": "x38d8b7a9", "t": "x543f1dce", "k": "spouse", "verdict": "wrong", "why": "node 'من أشجع' hanya nama kabilah, bukan orang"}
+]},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/594", "ok": 12, "issues": []}
+]

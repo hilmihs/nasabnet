@@ -1,0 +1,19 @@
+[
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/104", "ok": 8, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/105", "ok": 3, "issues": [
+  {"s": "n3856", "t": "s1094", "k": "sibling", "verdict": "wrong", "why": "teks tidak menyebut Abu Burdah sama sekali"}
+]},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/116", "ok": 1, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/118", "ok": 1, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/119", "ok": 4, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/120", "ok": 7, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/121", "ok": 4, "issues": [
+  {"s": "s4416", "t": "s890", "k": "parent", "verdict": "wrong", "why": "teks: ibunya Quraibah al-Kubra, bukan Quraibah ash-Shughra (orang lain)"},
+  {"s": "s4416", "t": "xf2f269d4", "k": "spouse", "verdict": "wrong", "why": "istri Zam'ah menurut teks Quraibah al-Kubra, bukan ash-Shughra"}
+]},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/122", "ok": 6, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/123", "ok": 3, "issues": [
+  {"s": "x8f920068", "t": "s896", "k": "mawla", "verdict": "wrong", "why": "simpul 'Bani Abdid Dar' adalah kabilah, bukan orang"}
+]},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/124", "ok": 12, "issues": []}
+]

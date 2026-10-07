@@ -1,0 +1,16 @@
+[
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/138", "ok": 5, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/139", "ok": 3, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/140", "ok": 4, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/141", "ok": 8, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/142", "ok": 8, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/188", "ok": 10, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/189", "ok": 4, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/191", "ok": 7, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/194", "ok": 1, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/195", "ok": 6, "issues": [
+  {"s": "s933", "t": "s935", "k": "sibling", "verdict": "wrong", "why": "al-Hajjaj bin al-Harits tidak disebut di teks (hanya kunyah ibu 'Umm al-Hajjaj')"},
+  {"s": "n7271", "t": "s934", "k": "sibling", "verdict": "unsure", "why": "simpul 'Abdullah bin al-Harits' tanpa nasab, bisa namesake; orang yang benar adalah s933 (sudah ada sisi sendiri)"},
+  {"s": "s934", "t": "s935", "k": "sibling", "verdict": "wrong", "why": "al-Hajjaj bin al-Harits tidak disebut di teks"}
+]}
+]

@@ -1,0 +1,30 @@
+[
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/533", "ok": 11, "issues": [
+  {"s": "x9f65b28e", "t": "x2a1b2000", "k": "parent", "verdict": "wrong", "why": "'من بني جدارة' hanya nama kabilah, bukan orang"},
+  {"s": "s694", "t": "x9f65b28e", "k": "spouse", "verdict": "wrong", "why": "'من بني جدارة' hanya nama kabilah, bukan orang"}
+]},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/534", "ok": 7, "issues": [
+  {"s": "s698", "t": "n3637", "k": "parent", "verdict": "unsure", "why": "teks: putranya Abu Katsir Abdullah; node n3637 'Abdullah bin Khubaib' tanpa nasab, bisa jadi Abdullah bin Khubaib al-Juhani (perawi lain)"}
+]},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/536", "ok": 6, "issues": [
+  {"s": "xdd5746bb", "t": "x45bc7fd3", "k": "parent", "verdict": "wrong", "why": "'من أهل اليمن' hanya asal daerah, bukan orang"},
+  {"s": "n3666", "t": "xdd5746bb", "k": "spouse", "verdict": "wrong", "why": "'من أهل اليمن' hanya asal daerah, bukan orang"}
+]},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/537", "ok": 1, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/538", "ok": 9, "issues": [
+  {"s": "xd2035688", "t": "x3c72f56e", "k": "parent", "verdict": "wrong", "why": "'من بني عمرو بن وقش' hanya nama kabilah, bukan orang"},
+  {"s": "s703", "t": "xd2035688", "k": "spouse", "verdict": "wrong", "why": "'من بني عمرو بن وقش' hanya nama kabilah, bukan orang"},
+  {"s": "xd2035688", "t": "xa68e3681", "k": "parent", "verdict": "wrong", "why": "'من بني عمرو بن وقش' hanya nama kabilah, bukan orang"}
+]},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/539", "ok": 6, "issues": [
+  {"s": "x2b08622a", "t": "xaf661568", "k": "parent", "verdict": "wrong", "why": "'من طيء' hanya nama kabilah, bukan orang"},
+  {"s": "s707", "t": "x2b08622a", "k": "spouse", "verdict": "wrong", "why": "'من طيء' hanya nama kabilah, bukan orang"},
+  {"s": "x2b08622a", "t": "x9aee8029", "k": "parent", "verdict": "wrong", "why": "'من طيء' hanya nama kabilah, bukan orang"}
+]},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/540", "ok": 2, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/542", "ok": 5, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/543", "ok": 10, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/544", "ok": 3, "issues": [
+  {"s": "x268c6519", "t": "x37ed3b0f", "k": "spouse", "verdict": "unsure", "why": "ibu (Ummu Rifa'ah) hanya disebut dalam riwayat Ibn Umarah yang menasabkan ayahnya Amr bin Abdullah bin Malik, bukan Amr bin Zaid"}
+]}
+]

@@ -184,7 +184,7 @@ class Registry:
             return None
         t = expand_prophet(text).strip()
         # "من بني سهم" / "امرأة من كلب": an unnamed person described only by tribe is not a person node
-        if re.match(r"^(?:من|امرأة\s+من|رجل\s+من|أم ولد)(?:\s|$)", t):
+        if re.match(r"^(?:من|بنو|بني|امرأة\s+من|رجل\s+من|أم ولد)(?:\s|$)", t):
             return None
         if norm(t) in ("محمد بن عبد الله بن عبد المطلب", "محمد"):
             return "nabi"
@@ -207,6 +207,9 @@ class Registry:
             # a 3-link mention may only merge into a 2-link record (never two diverging 3-link chains)
             if len(line) >= 2:
                 c2 = {x for x in c2 if all(len(l) <= 1 for _, l in self.p[x]["chains"])}
+                # nor into a bare Ibn Sa'd entry ("مالك بن عمرو", 3/97): with no nasab of its own it
+                # cannot confirm a longer chain (مالك بن عمرو بن العجلان, father of 'Itban)
+                c2 = {x for x in c2 if not x.startswith("s")}
             # the Prophet's household is only matched on a full chain (k3) or an explicit "رسول الله",
             # never on a short namesake like "فاطمة بنت محمد" (wife of 'Abdullah bin Abi Bakr)
             c2 -= getattr(self, "protected", set())

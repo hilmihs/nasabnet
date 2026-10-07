@@ -1,0 +1,18 @@
+[
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/613", "ok": 5, "issues": [
+  {"s": "s4840", "t": "x556e32b5", "k": "spouse", "verdict": "wrong", "why": "teks: ibu Sa'd bin Ubadah adalah Amrah ath-Tsalitsah (ketiga) binti Mas'ud; node s4840 bernasab 'عمرة الرابعة' (keempat) - saudari ordinal tertukar/tergabung"}
+]},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/618", "ok": 5, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/621", "ok": 2, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/624", "ok": 7, "issues": [
+  {"s": "x0eab02c6", "t": "x953a3ac6", "k": "spouse", "verdict": "wrong", "why": "node 'من بني سليم' hanya nama kabilah, bukan orang"}
+]},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/626", "ok": 0, "issues": [
+  {"s": "x105cd05b", "t": "s852", "k": "parent", "verdict": "wrong", "why": "teks: nasab Malik bin Amr an-Najjari tidak ditemukan; Ibnu Sa'd menyebut Malik bin Amr bin Atik lalu berkata 'ولا أحسبه إياه' (bukan dia)"}
+]},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/627", "ok": 6, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/7", "ok": 8, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/8", "ok": 3, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/84", "ok": 3, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/85", "ok": 1, "issues": []}
+]

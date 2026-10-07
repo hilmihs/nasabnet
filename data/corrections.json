@@ -2712,5 +2712,401 @@
   "why": "'Amr bin Kab bin Hujair' adalah versi lain nama Ka'b bin 'Amr al-Yami sendiri, bukan ayahnya",
   "rule": "M",
   "fid": "manual-70"
+ },
+ {
+  "op": "merge",
+  "keep": "s436",
+  "drop": "x996bab4e",
+  "why": "Malik bin 'Amr (Ibnu Sa'd 3/97) adalah Malik bin 'Amr bin Sumait, saudara Tsaqf dan Mudlij, sekutu Bani 'Abd Syams",
+  "rule": "M",
+  "fid": "manual-71"
+ },
+ {
+  "op": "merge",
+  "keep": "s437",
+  "drop": "x0a669d34",
+  "why": "Mudlij bin 'Amr (Ibnu Sa'd 3/97) adalah Mudlij bin 'Amr bin Sumait, saudara Tsaqf",
+  "rule": "M",
+  "fid": "manual-72"
+ },
+ {
+  "op": "merge",
+  "keep": "s4875",
+  "drop": "x64f9f8aa",
+  "why": "Zainab binti al-Muhajir bin Qunfudz tercatat dua kali (entri Ibnu Sa'd & sebutan di nasab)",
+  "rule": "M",
+  "fid": "manual-73"
+ },
+ {
+  "op": "merge",
+  "keep": "s448",
+  "drop": "n13885",
+  "why": "Hathib bin Abi Balta'ah tercatat dua kali (Ibnu Sa'd 3/114 & data rawi, ayah Abdurrahman bin Hathib)",
+  "rule": "M",
+  "fid": "manual-74"
+ },
+ {
+  "op": "drop_edge",
+  "s": "x9f65b28e",
+  "t": "x2a1b2000",
+  "k": "parent",
+  "rule": "EV",
+  "fid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/533",
+  "why": "'من بني جدارة' hanya nama kabilah, bukan orang"
+ },
+ {
+  "op": "drop_edge",
+  "s": "s694",
+  "t": "x9f65b28e",
+  "k": "spouse",
+  "rule": "EV",
+  "fid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/533",
+  "why": "'من بني جدارة' hanya nama kabilah, bukan orang"
+ },
+ {
+  "op": "drop_edge",
+  "s": "xdd5746bb",
+  "t": "x45bc7fd3",
+  "k": "parent",
+  "rule": "EV",
+  "fid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/536",
+  "why": "'من أهل اليمن' hanya asal daerah, bukan orang"
+ },
+ {
+  "op": "drop_edge",
+  "s": "n3666",
+  "t": "xdd5746bb",
+  "k": "spouse",
+  "rule": "EV",
+  "fid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/536",
+  "why": "'من أهل اليمن' hanya asal daerah, bukan orang"
+ },
+ {
+  "op": "drop_edge",
+  "s": "xd2035688",
+  "t": "x3c72f56e",
+  "k": "parent",
+  "rule": "EV",
+  "fid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/538",
+  "why": "'من بني عمرو بن وقش' hanya nama kabilah, bukan orang"
+ },
+ {
+  "op": "drop_edge",
+  "s": "s703",
+  "t": "xd2035688",
+  "k": "spouse",
+  "rule": "EV",
+  "fid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/538",
+  "why": "'من بني عمرو بن وقش' hanya nama kabilah, bukan orang"
+ },
+ {
+  "op": "drop_edge",
+  "s": "xd2035688",
+  "t": "xa68e3681",
+  "k": "parent",
+  "rule": "EV",
+  "fid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/538",
+  "why": "'من بني عمرو بن وقش' hanya nama kabilah, bukan orang"
+ },
+ {
+  "op": "drop_edge",
+  "s": "x2b08622a",
+  "t": "xaf661568",
+  "k": "parent",
+  "rule": "EV",
+  "fid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/539",
+  "why": "'من طيء' hanya nama kabilah, bukan orang"
+ },
+ {
+  "op": "drop_edge",
+  "s": "s707",
+  "t": "x2b08622a",
+  "k": "spouse",
+  "rule": "EV",
+  "fid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/539",
+  "why": "'من طيء' hanya nama kabilah, bukan orang"
+ },
+ {
+  "op": "drop_edge",
+  "s": "x2b08622a",
+  "t": "x9aee8029",
+  "k": "parent",
+  "rule": "EV",
+  "fid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/539",
+  "why": "'من طيء' hanya nama kabilah, bukan orang"
+ },
+ {
+  "op": "drop_edge",
+  "s": "s436",
+  "t": "n4237",
+  "k": "parent",
+  "rule": "EV",
+  "fid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/550",
+  "why": "orang salah: s436 = Malik bin Amr dari Bani Sulaim (sekutu Bani Abd Syams, 3/97), bukan Malik bin Amr bin al-Ajlan ayah Itban"
+ },
+ {
+  "op": "drop_edge",
+  "s": "x483637d3",
+  "t": "n4237",
+  "k": "parent",
+  "rule": "EV",
+  "fid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/550",
+  "why": "'من مزينة' hanya nama kabilah, bukan orang"
+ },
+ {
+  "op": "drop_edge",
+  "s": "s436",
+  "t": "x483637d3",
+  "k": "spouse",
+  "rule": "EV",
+  "fid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/550",
+  "why": "'من مزينة' bukan orang; s436 juga orang yang salah (Malik bin Amr as-Sulami)"
+ },
+ {
+  "op": "drop_edge",
+  "s": "s4736",
+  "t": "n2167",
+  "k": "parent",
+  "rule": "EV",
+  "fid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/568",
+  "why": "orang salah: n2167 = Abu Abdirrahman (al-Juhani, 'qila Zaid, qila Uqbah bin Amir'), bukan Uqbah bin Amir bin Nabi' al-Anshari as-Salami putra Fukaihah"
+ },
+ {
+  "op": "drop_edge",
+  "s": "x980ba4b4",
+  "t": "s765",
+  "k": "mawla",
+  "rule": "EV",
+  "fid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/570",
+  "why": "'بنو حرام' adalah kabilah, bukan orang"
+ },
+ {
+  "op": "merge",
+  "keep": "xcf0dcd09",
+  "drop": "xdfb3596c",
+  "why": "Tsaqf, Malik, dan Mudlij putra 'Amr bin Sumait bersaudara (Ibnu Sa'd 3/97); ayah mereka satu orang",
+  "rule": "M",
+  "fid": "manual-75"
+ },
+ {
+  "op": "merge",
+  "keep": "xcf0dcd09",
+  "drop": "xdfb3596c2",
+  "why": "Tsaqf, Malik, dan Mudlij putra 'Amr bin Sumait bersaudara (Ibnu Sa'd 3/97); ayah mereka satu orang",
+  "rule": "M",
+  "fid": "manual-76"
+ },
+ {
+  "op": "drop_edge",
+  "s": "xc05e6dc3",
+  "t": "s785",
+  "k": "mawla",
+  "rule": "EV",
+  "fid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/578",
+  "why": "node 'بنو عبيد بن عدي' adalah kabilah, bukan orang"
+ },
+ {
+  "op": "drop_edge",
+  "s": "n15557",
+  "t": "s788",
+  "k": "sibling",
+  "rule": "EV",
+  "fid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/578",
+  "why": "teks halaman ini tidak menyebut Yazid bin Amir sebagai saudara Quthbah"
+ },
+ {
+  "op": "drop_edge",
+  "s": "s4516",
+  "t": "x6c90779f",
+  "k": "spouse",
+  "rule": "EV",
+  "fid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/583",
+  "why": "teks: ibu Mu'adz adalah Hind binti Sahl dari Juhainah (Bani ar-Rab'ah); node s4516 adalah Hind binti Sahl bin Zaid dari Ahl Ratij (Aus) - orang lain"
+ },
+ {
+  "op": "drop_edge",
+  "s": "x2a5eaad6",
+  "t": "n6482",
+  "k": "parent",
+  "rule": "EV",
+  "fid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/592",
+  "why": "teks: Maimunah putri Abu Ubadah Sa'd bin Utsman; node n6482 adalah Maimunah binti Sa'd (atau binti Sa'id), perawi/pelayan Nabi - orang lain"
+ },
+ {
+  "op": "drop_edge",
+  "s": "x38d8b7a9",
+  "t": "s807",
+  "k": "parent",
+  "rule": "EV",
+  "fid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/593",
+  "why": "node 'من أشجع' hanya nama kabilah, bukan orang"
+ },
+ {
+  "op": "drop_edge",
+  "s": "x38d8b7a9",
+  "t": "x543f1dce",
+  "k": "spouse",
+  "rule": "EV",
+  "fid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/593",
+  "why": "node 'من أشجع' hanya nama kabilah, bukan orang"
+ },
+ {
+  "op": "drop_edge",
+  "s": "x38d8b7a92",
+  "t": "s812",
+  "k": "parent",
+  "rule": "EV",
+  "fid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/595",
+  "why": "node 'من أشجع' hanya nama kabilah, bukan orang"
+ },
+ {
+  "op": "drop_edge",
+  "s": "x03263ac8",
+  "t": "x38d8b7a92",
+  "k": "spouse",
+  "rule": "EV",
+  "fid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/595",
+  "why": "node 'من أشجع' hanya nama kabilah, bukan orang"
+ },
+ {
+  "op": "drop_edge",
+  "s": "x38d8b7a92",
+  "t": "s813",
+  "k": "parent",
+  "rule": "EV",
+  "fid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/595",
+  "why": "node 'من أشجع' hanya nama kabilah, bukan orang"
+ },
+ {
+  "op": "drop_edge",
+  "s": "x37455d6f",
+  "t": "xd860199b",
+  "k": "parent",
+  "rule": "EV",
+  "fid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/603",
+  "why": "node 'من كندة' hanya nama kabilah, bukan orang"
+ },
+ {
+  "op": "drop_edge",
+  "s": "n712",
+  "t": "x37455d6f",
+  "k": "spouse",
+  "rule": "EV",
+  "fid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/603",
+  "why": "node 'من كندة' hanya nama kabilah, bukan orang"
+ },
+ {
+  "op": "drop_edge",
+  "s": "x0eab02c6",
+  "t": "x953a3ac6",
+  "k": "spouse",
+  "rule": "EV",
+  "fid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/624",
+  "why": "node 'من بني سليم' hanya nama kabilah, bukan orang"
+ },
+ {
+  "op": "drop_edge",
+  "s": "x105cd05b",
+  "t": "s852",
+  "k": "parent",
+  "rule": "EV",
+  "fid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/626",
+  "why": "teks: nasab Malik bin Amr an-Najjari tidak ditemukan; Ibnu Sa'd menyebut Malik bin Amr bin Atik lalu berkata 'ولا أحسبه إياه' (bukan dia)"
+ },
+ {
+  "op": "drop_edge",
+  "s": "xdb071d14",
+  "t": "n4833",
+  "k": "parent",
+  "rule": "EV",
+  "fid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/100",
+  "why": "teks: Amr bin Sa'id bin al-Ash bin Umayyah (sahabat, ibu Shafiyyah binti al-Mughirah); node n4833 adalah Amr bin Sa'id bin al-Ash bin Sa'id bin al-Ash (al-Asydaq) - generasi lain"
+ },
+ {
+  "op": "drop_edge",
+  "s": "x93b469b4",
+  "t": "n4833",
+  "k": "parent",
+  "rule": "EV",
+  "fid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/100",
+  "why": "node n4833 adalah Amr al-Asydaq (cucu), bukan Amr bin Sa'id bin al-Ash bin Umayyah yang dimaksud teks"
+ },
+ {
+  "op": "merge",
+  "keep": "xee22d82b",
+  "drop": "xee22d82b2",
+  "why": "Hasanah, ibunda Syurahbil bin Hasanah serta Khalid & Junadah bin Sufyan, tercatat dua kali (Ibnu Sa'd 4/127 & 4/202)",
+  "rule": "M",
+  "fid": "manual-77"
+ },
+ {
+  "op": "merge",
+  "keep": "s901",
+  "drop": "x6319a64b",
+  "why": "Abdullah al-Ashghar bin Syihab tercatat dua kali (Ibnu Sa'd 4/125)",
+  "rule": "M",
+  "fid": "manual-78"
+ },
+ {
+  "op": "merge",
+  "keep": "s902",
+  "drop": "xdf31ce99",
+  "why": "Abdullah al-Akbar bin Syihab (Ibnu Sa'd 4/126, leluhur az-Zuhri) tercatat dua kali",
+  "rule": "M",
+  "fid": "manual-79"
+ },
+ {
+  "op": "drop_edge",
+  "s": "n3856",
+  "t": "s1094",
+  "k": "sibling",
+  "rule": "EV",
+  "fid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/105",
+  "why": "teks tidak menyebut Abu Burdah sama sekali"
+ },
+ {
+  "op": "drop_edge",
+  "s": "s4416",
+  "t": "s890",
+  "k": "parent",
+  "rule": "EV",
+  "fid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/121",
+  "why": "teks: ibunya Quraibah al-Kubra, bukan Quraibah ash-Shughra (orang lain)"
+ },
+ {
+  "op": "drop_edge",
+  "s": "s4416",
+  "t": "xf2f269d4",
+  "k": "spouse",
+  "rule": "EV",
+  "fid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/121",
+  "why": "istri Zam'ah menurut teks Quraibah al-Kubra, bukan ash-Shughra"
+ },
+ {
+  "op": "drop_edge",
+  "s": "x8f920068",
+  "t": "s896",
+  "k": "mawla",
+  "rule": "EV",
+  "fid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/123",
+  "why": "simpul 'Bani Abdid Dar' adalah kabilah, bukan orang"
+ },
+ {
+  "op": "drop_edge",
+  "s": "x9c9eb9a0",
+  "t": "s918",
+  "k": "mawla",
+  "rule": "EV",
+  "fid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/137",
+  "why": "simpul 'Bani Makhzum' adalah kabilah, bukan orang"
+ },
+ {
+  "op": "drop_edge",
+  "s": "n7271",
+  "t": "s935",
+  "k": "sibling",
+  "rule": "EV",
+  "fid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/196",
+  "why": "Abdullah bin al-Harits tidak disebut di teks ini; simpul n7271 tanpa nasab (bukan s933)"
  }
 ]

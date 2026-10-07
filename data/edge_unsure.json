@@ -1,75 +1,75 @@
 [
  {
-  "s": "x2f18216d",
-  "t": "s611",
-  "k": "parent",
-  "verdict": "unsure",
-  "why": "ibu (أم أبي ضياح) hanya menurut riwayat Ibn Umarah yang menasabkannya Abu Hannah bin Tsabit bin an-Nu'man, bertentangan dengan nasab node (bin Amr bin Tsabit)",
-  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/479"
- },
- {
-  "s": "s611",
-  "t": "x4fa916df",
+  "s": "s905",
+  "t": "x8601171d",
   "k": "sibling",
   "verdict": "unsure",
-  "why": "saudara Abu Dhiyah hanya menurut riwayat Ibn Umarah (nasab berbeda: bin Tsabit bin an-Nu'man), bertentangan dengan versi al-Waqidi",
-  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/479"
+  "why": "Ibnu Ishaq: saudara seibu; al-Waqidi: Khalid anak Sufyan (saudara seibu Syurahbil), jadi keponakan",
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/127"
  },
  {
-  "s": "xec1bf978",
-  "t": "x691f5540",
+  "s": "s905",
+  "t": "x9ecdb64f",
+  "k": "sibling",
+  "verdict": "unsure",
+  "why": "Ibnu Ishaq: saudara seibu; al-Waqidi: Junadah anak Sufyan (saudara seibu Syurahbil), jadi keponakan",
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/127"
+ },
+ {
+  "s": "x4f3a0aeb",
+  "t": "x878bb1fd",
   "k": "parent",
   "verdict": "unsure",
-  "why": "teks hanya: ibunya dari Bani Abdullah bin Ghathafan; node adalah nama kabilah, bukan orang",
-  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/487"
+  "why": "teks hanya menyebut Sumayyah melahirkan Ammar; Abdullah disebut saudara Ammar tanpa ibu",
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/136"
  },
  {
-  "s": "xc74ad07d",
-  "t": "xa1d834ef",
+  "s": "n7271",
+  "t": "s934",
+  "k": "sibling",
+  "verdict": "unsure",
+  "why": "simpul 'Abdullah bin al-Harits' tanpa nasab, bisa namesake; orang yang benar adalah s933 (sudah ada sisi sendiri)",
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/195"
+ },
+ {
+  "s": "s4398",
+  "t": "x7b2a4581",
   "k": "parent",
   "verdict": "unsure",
-  "why": "teks hanya: ibunya dari Bani Jud'; node adalah nama kabilah, bukan orang",
-  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/487"
+  "why": "teks hanya 'wa kana li Khaththab min al-walad Muhammad' tanpa menyebut ibunya",
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/202"
  },
  {
-  "s": "x857e6b63",
-  "t": "xfe6973d5",
-  "k": "parent",
-  "verdict": "unsure",
-  "why": "teks hanya: ibunya dari Bani Sahm; node adalah nama kabilah, bukan orang",
-  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/493"
- },
- {
-  "s": "x3f636523",
-  "t": "n6699",
-  "k": "parent",
-  "verdict": "unsure",
-  "why": "teks hanya: ibunya dari Bahra'; node adalah nama kabilah, bukan orang",
-  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/512"
- },
- {
-  "s": "s662",
-  "t": "x3f636523",
+  "s": "s948",
+  "t": "xee22d82b2",
   "k": "spouse",
   "verdict": "unsure",
-  "why": "istri tak bernama (dari Bahra'); node adalah nama kabilah, bukan orang",
-  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/512"
+  "why": "Ibnu Ishaq: Hasanah istri Sufyan; al-Waqidi: Hasanah ibu Sufyan (riwayat bertentangan)",
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/202"
  },
  {
-  "s": "x7a7aa905",
-  "t": "xbada92a6",
+  "s": "xee22d82b2",
+  "t": "x8601171d",
   "k": "parent",
   "verdict": "unsure",
-  "why": "teks hanya: ibunya dari Kalb; node adalah nama kabilah, bukan orang",
-  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/518"
+  "why": "hanya versi Ibnu Ishaq; menurut al-Waqidi Hasanah nenek Khalid",
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/202"
  },
  {
-  "s": "n8834",
-  "t": "x7a7aa905",
-  "k": "spouse",
+  "s": "xee22d82b2",
+  "t": "x9ecdb64f",
+  "k": "parent",
   "verdict": "unsure",
-  "why": "istri tak bernama (dari Kalb); node adalah nama kabilah, bukan orang",
-  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/518"
+  "why": "hanya versi Ibnu Ishaq; menurut al-Waqidi Hasanah nenek Junadah",
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/202"
+ },
+ {
+  "s": "s4430",
+  "t": "x4ea5c56d",
+  "k": "parent",
+  "verdict": "unsure",
+  "why": "teks: ibu Sulaith bin Sulaith 'Qahtam binti Alqamah', istri yang hijrah 'Fathimah binti Alqamah'; belum pasti orang yang sama",
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 4/203"
  },
  {
   "s": "n2289",
@@ -230,5 +230,117 @@
   "verdict": "unsure",
   "why": "anak (Abdullah bin al-Harits bin Hathib) di-resolve ke node generik 'عبد الله بن الحارث' tanpa nasab; mungkin orang lain yang senama",
   "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/461"
+ },
+ {
+  "s": "x2f18216d",
+  "t": "s611",
+  "k": "parent",
+  "verdict": "unsure",
+  "why": "ibu (أم أبي ضياح) hanya menurut riwayat Ibn Umarah yang menasabkannya Abu Hannah bin Tsabit bin an-Nu'man, bertentangan dengan nasab node (bin Amr bin Tsabit)",
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/479"
+ },
+ {
+  "s": "s611",
+  "t": "x4fa916df",
+  "k": "sibling",
+  "verdict": "unsure",
+  "why": "saudara Abu Dhiyah hanya menurut riwayat Ibn Umarah (nasab berbeda: bin Tsabit bin an-Nu'man), bertentangan dengan versi al-Waqidi",
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/479"
+ },
+ {
+  "s": "xec1bf978",
+  "t": "x691f5540",
+  "k": "parent",
+  "verdict": "unsure",
+  "why": "teks hanya: ibunya dari Bani Abdullah bin Ghathafan; node adalah nama kabilah, bukan orang",
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/487"
+ },
+ {
+  "s": "xc74ad07d",
+  "t": "xa1d834ef",
+  "k": "parent",
+  "verdict": "unsure",
+  "why": "teks hanya: ibunya dari Bani Jud'; node adalah nama kabilah, bukan orang",
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/487"
+ },
+ {
+  "s": "x857e6b63",
+  "t": "xfe6973d5",
+  "k": "parent",
+  "verdict": "unsure",
+  "why": "teks hanya: ibunya dari Bani Sahm; node adalah nama kabilah, bukan orang",
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/493"
+ },
+ {
+  "s": "x3f636523",
+  "t": "n6699",
+  "k": "parent",
+  "verdict": "unsure",
+  "why": "teks hanya: ibunya dari Bahra'; node adalah nama kabilah, bukan orang",
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/512"
+ },
+ {
+  "s": "s662",
+  "t": "x3f636523",
+  "k": "spouse",
+  "verdict": "unsure",
+  "why": "istri tak bernama (dari Bahra'); node adalah nama kabilah, bukan orang",
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/512"
+ },
+ {
+  "s": "x7a7aa905",
+  "t": "xbada92a6",
+  "k": "parent",
+  "verdict": "unsure",
+  "why": "teks hanya: ibunya dari Kalb; node adalah nama kabilah, bukan orang",
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/518"
+ },
+ {
+  "s": "n8834",
+  "t": "x7a7aa905",
+  "k": "spouse",
+  "verdict": "unsure",
+  "why": "istri tak bernama (dari Kalb); node adalah nama kabilah, bukan orang",
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/518"
+ },
+ {
+  "s": "s698",
+  "t": "n3637",
+  "k": "parent",
+  "verdict": "unsure",
+  "why": "teks: putranya Abu Katsir Abdullah; node n3637 'Abdullah bin Khubaib' tanpa nasab, bisa jadi Abdullah bin Khubaib al-Juhani (perawi lain)",
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/534"
+ },
+ {
+  "s": "x268c6519",
+  "t": "x37ed3b0f",
+  "k": "spouse",
+  "verdict": "unsure",
+  "why": "ibu (Ummu Rifa'ah) hanya disebut dalam riwayat Ibn Umarah yang menasabkan ayahnya Amr bin Abdullah bin Malik, bukan Amr bin Zaid",
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/544"
+ },
+ {
+  "s": "n15892",
+  "t": "x4023c821",
+  "k": "muakhah",
+  "verdict": "unsure",
+  "why": "dua riwayat bertentangan: Ibn Umar menyebut Thulaib bin Umair dan menolak versi Ibn Ishaq (Abu Dzar) karena Abu Dzar belum di Madinah",
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/555"
+ },
+ {
+  "s": "s761",
+  "t": "n3590",
+  "k": "parent",
+  "verdict": "unsure",
+  "why": "teks hanya 'Abdullah' (keturunan Tsabit punah); n3590 = Abu Usaid bin Tsabit az-Zuraqi perawi, identitasnya dengan putra Tsabit al-Jidz' tidak dinyatakan",
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/569"
+ },
+ {
+  "s": "s783",
+  "t": "s784",
+  "k": "sibling",
+  "verdict": "unsure",
+  "why": "teks terpotong di 'وأخوه'; nama saudara (Abdullah bin al-Humair) tidak ada dalam teks ini",
+  "rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/577"
  }
 ]

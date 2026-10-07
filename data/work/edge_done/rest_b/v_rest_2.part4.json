@@ -1,0 +1,20 @@
+[
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/568", "ok": 1, "issues": [
+  {"s": "s4736", "t": "n2167", "k": "parent", "verdict": "wrong", "why": "orang salah: n2167 = Abu Abdirrahman (al-Juhani, 'qila Zaid, qila Uqbah bin Amir'), bukan Uqbah bin Amir bin Nabi' al-Anshari as-Salami putra Fukaihah"}
+]},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/569", "ok": 12, "issues": [
+  {"s": "s761", "t": "n3590", "k": "parent", "verdict": "unsure", "why": "teks hanya 'Abdullah' (keturunan Tsabit punah); n3590 = Abu Usaid bin Tsabit az-Zuraqi perawi, identitasnya dengan putra Tsabit al-Jidz' tidak dinyatakan"}
+]},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/570", "ok": 3, "issues": [
+  {"s": "x980ba4b4", "t": "s765", "k": "mawla", "verdict": "wrong", "why": "'بنو حرام' adalah kabilah, bukan orang"}
+]},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/571", "ok": 4, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/572", "ok": 10, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/573", "ok": 12, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/574", "ok": 7, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/575", "ok": 5, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/576", "ok": 9, "issues": []},
+{"rid": "Ibnu Sa'd, ath-Thabaqat al-Kubra 3/577", "ok": 8, "issues": [
+  {"s": "s783", "t": "s784", "k": "sibling", "verdict": "unsure", "why": "teks terpotong di 'وأخوه'; nama saudara (Abdullah bin al-Humair) tidak ada dalam teks ini"}
+]}
+]
