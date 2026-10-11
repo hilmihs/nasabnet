@@ -3,7 +3,7 @@ const PATHS: Record<string, string> = {
   tribes: 'M12 3l2.6 4.4L19.5 6l-1.4 4.9L22 13.5l-4.6 1.6.6 5-4.6-2.2L12 21l-1.4-3.1L6 20.1l.6-5L2 13.5l3.9-2.6L4.5 6l4.9 1.4z',
   rings: 'M9 8a6 6 0 1 0 0 12A6 6 0 0 0 9 8zm6-4a6 6 0 0 1 0 12m-3-14 1.5 2.5L12 7',
   route: 'M6 19a2 2 0 1 0 0-4 2 2 0 0 0 0 4zM18 9a2 2 0 1 0 0-4 2 2 0 0 0 0 4zM6 15V9a4 4 0 0 1 4-4h4m4 4v6a4 4 0 0 1-4 4h-4',
-  tree: 'M12 3v18M12 7H7v4M12 7h5v4M7 11H4v4M7 11h3v4M17 11h-3v4M17 11h3v4',
+  tree: 'M9 3h6v5H9zM12 8v3M6 11h12M6 11v3M18 11v3M3 14h6v6H3zM15 14h6v6h-6z',
   book: 'M4 5a2 2 0 0 1 2-2h13v16H6a2 2 0 0 0-2 2zm0 0v16M8 7h7M8 11h5',
   bookmark: 'M6 3h12v18l-6-4-6 4z',
   history: 'M3 12a9 9 0 1 0 3-6.7L3 8m0-5v5h5m4-1v5l3 2',

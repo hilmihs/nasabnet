@@ -1,5 +1,5 @@
 {
-  "_doc": "Lokasi singkat + kedudukan/peran strategis tiap kabilah (ringkasan umum, belum bersitasi halaman; tampil dengan tanda †). Digabung ke bio.json oleh scripts/build_bio.py sebagai tribes[id].lokasi dan tribes[id].peran. Kategori kosong = belum tercatat.",
+  "_doc": "Lokasi singkat + kedudukan/peran strategis tiap kabilah (ringkasan umum, belum bersitasi halaman; ditandai sebagai ringkasan umum). Digabung ke bio.json oleh scripts/build_bio.py sebagai tribes[id].lokasi dan tribes[id].peran. Kategori kosong = belum tercatat.",
   "hasyim": {
     "lokasi": "Makkah (Hijaz); setelah hijrah sebagian di Madinah",
     "militer": ["Hamzah bin Abdil Muththalib dan Ali bin Abi Thalib maju dalam duel pembuka Perang Badar (2 H)", "Ja'far bin Abi Thalib gugur sebagai salah satu panglima Perang Mu'tah (8 H)"],

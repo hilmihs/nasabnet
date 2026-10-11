@@ -330,7 +330,7 @@ export function ProfileRefs({ p }: { p: Person }) {
               : 'Uraian naratif diringkas otomatis dari kutipan kitab yang ditautkan dan belum diperiksa ulang.'}
           </li>
         )}
-        <li>Tanda † = ringkasan umum yang belum bersitasi halaman (termasuk lokasi & peran kabilah).</li>
+        <li>Label "umum" = ringkasan umum yang belum bersitasi halaman; lokasi & peran kabilah juga termasuk ringkasan umum.</li>
         <li>Selalu rujuk teks aslinya sebelum mengutip.</li>
       </ul>
     </Accordion>

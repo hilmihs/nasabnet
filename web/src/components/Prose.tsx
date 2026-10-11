@@ -63,9 +63,12 @@ export function Rich({ text }: { text: string }) {
 export function SrcChips({ src, basis }: { src?: string[]; basis?: Point['basis'] }) {
   if (basis === 'umum')
     return (
-      <sup className="ml-0.5 cursor-help text-[11px] font-semibold text-emas-700" title="Ringkasan umum, belum bersitasi halaman">
-        †
-      </sup>
+      <span
+        className="ml-1.5 inline-block cursor-help rounded bg-krem-200 px-1.5 align-middle text-[10px] leading-4 font-semibold tracking-wide text-tinta-soft uppercase"
+        title="Ringkasan umum, belum bersitasi halaman"
+      >
+        umum
+      </span>
     )
   if (!src?.length) return null
   return (
@@ -218,7 +221,6 @@ export function TribeRoles({ t, wilayah }: { t?: TribeProfile; wilayah?: Point |
       <Bullets>
         <Li label="Lokasi">
           {t?.lokasi ? <Rich text={t.lokasi} /> : <Missing />}
-          {t?.lokasi && <SrcChips basis="umum" />}
         </Li>
         {extra.map((x, i) => (
           <Li key={i}>
@@ -227,6 +229,7 @@ export function TribeRoles({ t, wilayah }: { t?: TribeProfile; wilayah?: Point |
           </Li>
         ))}
       </Bullets>
+      <p className="text-xs text-tinta-soft">Lokasi & peran strategis: ringkasan umum, belum bersitasi halaman kitab.</p>
       <div className="grid gap-3 sm:grid-cols-2">
         {keys.map((k) => (
           <div key={k} className="rounded-xl border border-krem-200 bg-krem-50 p-3.5">
@@ -237,7 +240,6 @@ export function TribeRoles({ t, wilayah }: { t?: TribeProfile; wilayah?: Point |
                   {t.peran[k]!.map((x, i) => (
                     <Li key={i}>
                       <Rich text={x} />
-                      <SrcChips basis="umum" />
                     </Li>
                   ))}
                 </Bullets>

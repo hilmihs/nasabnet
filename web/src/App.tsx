@@ -151,8 +151,8 @@ function Logo({ compact = false }: { compact?: boolean }) {
       <svg viewBox="0 0 64 64" className={compact ? 'h-9 w-9' : 'h-14 w-14'} aria-hidden="true">
         <g fill="none" stroke="#d4af37" strokeWidth="3">
           <path d="M32 6l6.9 9.5 11.1-3.6-3.6 11.1L56 30l-9.6 6.9 3.6 11.1-11.1-3.6L32 54l-6.9-9.6-11.1 3.6 3.6-11.1L8 30l9.6-6.9-3.6-11.1 11.1 3.6z" />
-          <circle cx="32" cy="30" r="5" fill="#d4af37" />
-          <path d="M32 35v8M27 39h10" />
+          <circle cx="32" cy="30" r="8" />
+          <circle cx="32" cy="30" r="3" fill="#d4af37" />
         </g>
       </svg>
       <span className="leading-none">
