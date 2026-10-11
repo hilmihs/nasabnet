@@ -1,91 +1,11 @@
-import type { ReactNode } from 'react'
-import { citationUrl, useBio, type Point } from '../lib/bio'
+import { isArabic } from '../lib/arabic'
+import { citationUrl, toBullets, useBio, type Point } from '../lib/bio'
 import { useStore } from '../lib/data'
 import { inLaws, relIds, siblings } from '../lib/graph'
 import { CATEGORY_LABEL, type Category, type Person, type Tribe } from '../lib/types'
 import { useUI } from '../lib/ui'
-
-const MISSING = 'Belum tercatat dalam kutipan sumber yang dipakai.'
-
-/** Small citation note placed at the end of a paragraph. */
-export function SrcChips({ src, basis }: { src?: string[]; basis?: Point['basis'] }) {
-  if (basis === 'umum')
-    return (
-      <sup className="ml-0.5 cursor-help text-[11px] font-semibold text-emas-700" title="Ringkasan umum, belum bersitasi halaman">
-        †
-      </sup>
-    )
-  if (!src?.length) return null
-  return (
-    <span className="ml-1 inline-flex flex-wrap items-center gap-x-1.5 align-middle text-[10px] font-medium text-tinta-soft">
-      <span aria-hidden="true">ⓘ</span>
-      {[...new Set(src)].map((s, i) => {
-        const url = citationUrl(s)
-        return (
-          <span key={s}>
-            {i > 0 && '· '}
-            {url ? (
-              <a href={url} target="_blank" rel="noreferrer" className="text-hijau-700 underline decoration-hijau-600/30 underline-offset-2 hover:decoration-hijau-700">
-                {s}
-              </a>
-            ) : (
-              s
-            )}
-          </span>
-        )
-      })}
-    </span>
-  )
-}
-
-/** One themed part of a biography or tribe profile: a heading and flowing paragraphs (optionally folded). */
-export function Section({ title, children, folded }: { title: string; children: ReactNode; folded?: boolean }) {
-  if (folded)
-    return (
-      <details className="group border-b border-krem-200 py-4 last:border-0">
-        <summary className="flex cursor-pointer list-none items-center gap-2 font-display text-lg font-semibold text-hijau-900 [&::-webkit-details-marker]:hidden">
-          <span className="h-4 w-1 rounded-full bg-emas-500" aria-hidden="true" />
-          {title}
-          <span className="ml-1 font-sans text-xs font-medium text-hijau-700 group-open:hidden">tampilkan ▾</span>
-          <span className="ml-1 hidden font-sans text-xs font-medium text-hijau-700 group-open:inline">sembunyikan ▴</span>
-        </summary>
-        <div className="mt-1.5 space-y-2 text-[15px] leading-relaxed text-tinta">{children}</div>
-      </details>
-    )
-  return (
-    <section className="border-b border-krem-200 py-4 first:pt-2 last:border-0">
-      <h4 className="flex items-center gap-2 font-display text-lg font-semibold text-hijau-900">
-        <span className="h-4 w-1 rounded-full bg-emas-500" aria-hidden="true" />
-        {title}
-      </h4>
-      <div className="mt-1.5 space-y-2 text-[15px] leading-relaxed text-tinta">{children}</div>
-    </section>
-  )
-}
-
-const Missing = () => <p className="text-tinta-soft/80 italic">{MISSING}</p>
-
-function Narr({ p }: { p?: Point | null }) {
-  if (!p?.t) return null
-  return (
-    <p>
-      {p.t}
-      <SrcChips src={p.src} basis={p.basis} />
-    </p>
-  )
-}
-
-/** "A", "A dan B", "A, B, dan C" — trimmed to `max` names. */
-export function listId(items: string[], max = 6): string {
-  const l = items.filter(Boolean)
-  if (l.length > max) return `${l.slice(0, max).join(', ')}, serta ${l.length - max} lainnya`
-  if (l.length <= 1) return l[0] ?? ''
-  if (l.length === 2) return `${l[0]} dan ${l[1]}`
-  return `${l.slice(0, -1).join(', ')}, dan ${l[l.length - 1]}`
-}
-
-const lower = (s: string) => s.charAt(0).toLowerCase() + s.slice(1)
-const trimDot = (s: string) => s.trim().replace(/[.。]+$/, '')
+import { Icon } from './Icon'
+import { Accordion, ActionChip, ArBlock, ArInline, Bullets, Chips, Li, Missing, NameList, Notice, PointItems, Rich, Section, SrcChips, SubHead, TribeRoles } from './Prose'
 
 const GROUP_PHRASE: Record<Tribe['group'], string> = {
   quraisy: 'salah satu klan Quraisy di Makkah',
@@ -105,29 +25,19 @@ const CAT_PHRASE: Record<Category, string> = {
   badar: 'Ahlu Badar',
 }
 
-/** "lahir …, wafat pada 23 H dalam usia 63 tahun, dan dimakamkan di …" */
-function lifeSentence(id: NonNullable<ReturnType<typeof useBio>>['persons'][string]['identitas'], fallbackDeath?: string) {
-  const parts: string[] = []
-  if (id?.lahir) parts.push(`lahir ${lower(trimDot(id.lahir))}`)
-  const wafat = id?.wafat ?? fallbackDeath
-  if (wafat) {
-    const w = trimDot(wafat)
-    parts.push(`${/^\d/.test(w) ? 'wafat pada' : 'wafat'} ${lower(w)}${id?.umur ? ` dalam usia ${lower(trimDot(id.umur))}` : ''}`)
-  } else if (id?.umur) parts.push(`berusia ${lower(trimDot(id.umur))}`)
-  if (id?.makam) {
-    const m = trimDot(id.makam)
-    parts.push(/^di\s/i.test(m) ? `dimakamkan ${lower(m)}` : `dimakamkan di ${m}`)
-  }
-  return parts.length ? `Beliau ${listId(parts, 9)}.` : ''
-}
+const trimDot = (s: string) => s.trim().replace(/[.。]+$/, '')
 
-/** Biography in a few themed sections: dataset facts and extracted narrative woven into plain Indonesian sentences. */
+/** A value that may be Arabic (dataset) or Indonesian (extracted narrative). */
+const Val = ({ v }: { v: string }) => (isArabic(v) ? <ArInline>{trimDot(v)}</ArInline> : <Rich text={trimDot(v)} />)
+
+/** Biography in themed sections of short bullets: dataset facts and extracted narrative. */
 export function BioCard({ p }: { p: Person }) {
   const { g, tribes } = useStore()
   const { go, openProfile } = useUI()
   const bio = useBio()
   const b = bio?.persons[p.id]
   const t = p.tribe ? tribes.get(p.tribe) : undefined
+  const tp = t ? bio?.tribes[t.id] : undefined
   const law = inLaws(g, p.id)
   const parents = relIds(g, p.id, 'parent')
   const father = parents.find((x) => g.byId.get(x)?.g === 'm')
@@ -143,179 +53,286 @@ export function BioCard({ p }: { p: Person }) {
   const chain = [ism, ...p.line.map((l) => l.ar)]
   const top = p.line[p.line.length - 1]?.ar
   const id = b?.identitas
-  const life = lifeSentence(id, p.death)
   const fem = p.g === 'f'
-  const sources = p.src.map((s) => s.t)
+  const wafat = id?.wafat ?? p.death
+  const life = [
+    id?.lahir && { k: 'Lahir', v: id.lahir },
+    wafat && { k: 'Wafat', v: wafat, extra: id?.umur ? `usia ${trimDot(id.umur)}` : undefined },
+    !wafat && id?.umur && { k: 'Usia', v: id.umur },
+    id?.makam && { k: 'Makam', v: id.makam },
+  ].filter(Boolean) as { k: string; v: string; extra?: string }[]
+  const lifeSrc = id?.src ?? (p.death ? ['Turath rawi'] : undefined)
+  const catatan: Point | undefined = typeof b?.catatan === 'string' ? { t: b.catatan } : (b?.catatan ?? undefined)
+  const hasKiprah = p.laqab || b?.laqab_profesi || b?.peran || b?.syaraf || p.line.length > 0 || p.rank || catatan
 
   return (
     <div>
       {!bio && <p className="py-2 text-sm text-tinta-soft">Memuat biografi…</p>}
       {bio && !b && (
-        <p className="mb-2 rounded-lg bg-krem-100 px-3 py-2 text-xs text-tinta-soft">
-          Biografi naratif baru tersedia untuk ±150 sahabat utama. Uraian di bawah disusun dari data nasab & relasi yang terkumpul.
-        </p>
+        <div className="mb-2">
+          <Notice>
+            <ul className="list-disc space-y-0.5 pl-4">
+              <li>
+                Biografi naratif baru tersedia untuk <strong>±150 sahabat utama</strong>.
+              </li>
+              <li>Uraian di bawah disusun dari data nasab & relasi yang terkumpul.</li>
+            </ul>
+          </Notice>
+        </div>
       )}
-      <div>
-        <Section title="Nasab & Asal-usul">
-          <p>
-            <span className="font-semibold">{p.lat}</span> (<span className="ar">{p.ar}</span>)
-            {p.kunya ? (
-              <>
-                , berkunyah <span className="ar">{p.kunya}</span>.
-              </>
-            ) : (
-              '.'
-            )}{' '}
-            {life || <span className="text-tinta-soft/80 italic">Tahun lahir dan wafatnya belum tercatat dalam kutipan sumber.</span>}
-            {life && <SrcChips src={id?.src ?? (p.death ? ['Turath rawi'] : undefined)} />}
-          </p>
+
+      <Section title="Nasab & Asal-usul" id="bio-nasab">
+        <Bullets>
+          <Li label="Nama">
+            <strong className="font-semibold text-hijau-900">{p.lat}</strong>
+            <ArBlock>{p.ar}</ArBlock>
+          </Li>
+          {p.kunya && (
+            <Li label="Kunyah">
+              <ArBlock>{trimDot(p.kunya)}</ArBlock>
+            </Li>
+          )}
+          {life.length > 0 ? (
+            life.map((x, i) => (
+              <Li key={x.k} label={x.k}>
+                <Val v={x.v} />
+                {x.extra && <> ({x.extra})</>}
+                {i === life.length - 1 && <SrcChips src={lifeSrc} />}
+              </Li>
+            ))
+          ) : (
+            <Li>
+              <Missing>Tahun lahir dan wafatnya belum tercatat dalam kutipan sumber.</Missing>
+            </Li>
+          )}
           {chain.length > 1 ? (
             <>
-              <p className="ar text-[16px] leading-loose">
-                {chain[0]}
-                {chain.slice(1).map((n, i) => `${i === 0 && fem ? ' بنت ' : ' بن '}${n.replace(/^أبو\s/, 'أبي ')}`).join('')}
-              </p>
-              <p className="text-sm text-tinta-soft">
-                Garis ayahnya tercatat {p.line.length} generasi ke atas{top ? <>, bersambung hingga <span className="ar">{top}</span></> : ''}.{' '}
-                <button className="font-semibold text-hijau-700 hover:underline" onClick={() => go('silsilah', { p: p.id })}>
-                  Lihat silsilah vertikal →
-                </button>
-              </p>
+              <Li label="Nasab">
+                <ArBlock>
+                  {chain[0]}
+                  {chain
+                    .slice(1)
+                    .map((n, i) => `${i === 0 && fem ? ' بنت ' : ' بن '}${n.replace(/^أبو\s/, 'أبي ')}`)
+                    .join('')}
+                </ArBlock>
+              </Li>
+              <Li>
+                Garis ayah tercatat <strong className="font-semibold text-hijau-900">{p.line.length} generasi</strong> ke atas
+                {top && (
+                  <>
+                    , bersambung hingga <ArInline>{top}</ArInline>
+                  </>
+                )}
+              </Li>
             </>
           ) : (
-            <Missing />
+            <Li label="Nasab">
+              <Missing />
+            </Li>
           )}
-          <p>
-            {t ? (
-              <>
-                {fem ? 'Ia' : 'Beliau'} berasal dari{' '}
-                <button className="font-medium text-hijau-700 hover:underline" onClick={() => go('kabilah', { t: t.id, tab: 'profil' })}>
-                  {t.name}
-                </button>{' '}
-                (<span className="ar">{t.ar}</span>){t.id !== 'quraisy' && t.id !== 'anshar' ? `, ${GROUP_PHRASE[t.group]}` : ''}.
-              </>
-            ) : (
-              'Kabilahnya belum tercatat dalam data.'
-            )}
-            {p.cats.length > 0 && !b?.kabilah_tabaqat && ` Beliau termasuk ${listId(p.cats.map((c) => CAT_PHRASE[c] ?? CATEGORY_LABEL[c]))}.`}
-          </p>
-          <Narr p={b?.kabilah_tabaqat} />
+          {p.cats.length > 0 && !b?.kabilah_tabaqat && (
+            <Li label="Golongan">
+              <NameList names={p.cats.map((c) => CAT_PHRASE[c] ?? CATEGORY_LABEL[c])} />
+            </Li>
+          )}
+          <PointItems p={b?.kabilah_tabaqat} />
           {p.nisba && (
-            <p>
-              Dalam kitab-kitab rijal beliau dinisbatkan sebagai <span className="ar">{p.nisba}</span>
-              {p.place ? (
-                <>
-                  , dan tercatat pernah bermukim di <span className="ar">{p.place}</span>.
-                </>
-              ) : (
-                '.'
-              )}
-            </p>
+            <Li label="Nisbah">
+              <ArBlock>{trimDot(p.nisba)}</ArBlock>
+            </Li>
           )}
-          <Narr p={b?.nisbah_rihlah} />
-        </Section>
-
-        <Section title="Kiprah & Kedudukan">
-          {p.laqab && (
-            <p>
-              Beliau dikenal dengan julukan <span className="ar">{p.laqab}</span>.
-            </p>
+          {p.place && (
+            <Li label="Domisili">
+              <ArBlock>{trimDot(p.place)}</ArBlock>
+            </Li>
           )}
-          <Narr p={b?.laqab_profesi} />
-          <Narr p={b?.peran} />
-          {b?.syaraf ? (
-            <Narr p={b.syaraf} />
-          ) : (
-            <p className="text-tinta-soft">
-              {p.line.length > 0 ? `Nasabnya tercatat bersambung ${p.line.length} generasi ke atas dalam sumber.` : MISSING}
-              {p.rank && (
-                <>
-                  {' '}
-                  Ibnu Hajar menilai martabat periwayatannya: <span className="ar">{p.rank}</span>.
-                </>
-              )}
-            </p>
-          )}
-          {b?.catatan && (
-            <p className="text-sm text-tinta-soft">
-              {typeof b.catatan === 'string' ? b.catatan : b.catatan.t}
-              {typeof b.catatan !== 'string' && <SrcChips src={b.catatan.src} />}
-            </p>
-          )}
-        </Section>
-
-        <Section title="Keluarga & Pernikahan">
-          {law.spouses.length > 0 ? (
-            <p>
-              {fem ? `Ia menikah dengan ${listId(lat(law.spouses))}.` : `Beliau menikahi ${listId(lat(law.spouses))}.`}
-              {law.parentsInLaw.length > 0 && ` Dari pernikahan itu beliau bermertuakan ${listId(lat(law.parentsInLaw), 4)}.`}
-              {law.childrenInLaw.length > 0 && ` Menantunya antara lain ${listId(lat(law.childrenInLaw), 4)}`}
-              {law.childrenInLaw.length > 0 && (law.coInLaws.length > 0 ? `, sehingga beliau berbesan dengan ${listId(lat(law.coInLaws), 4)}.` : '.')}{' '}
-              <button className="text-sm font-semibold text-hijau-700 hover:underline" onClick={() => go('nikah', { p: p.id })}>
-                Lihat jejaring pernikahan →
-              </button>
-            </p>
-          ) : (
-            <p className="text-tinta-soft/80 italic">Belum ada pernikahan yang tercatat dalam data.</p>
-          )}
-          {muakhah.length > 0 && <p>Nabi ﷺ mempersaudarakannya (mu'akhah) dengan {listId(lat(muakhah))}.</p>}
-          <Narr p={b?.hilf} />
-          {sibs.length + uncles.length + patrons.length + clients.length + (mother ? 1 : 0) > 0 && (
-            <p>
-              {mother && `Ibunya adalah ${g.byId.get(mother)?.lat}. `}
-              {sibs.length > 0 && `Saudara-saudaranya yang tercatat: ${listId(lat(sibs), 8)}. `}
-              {uncles.length > 0 && `Dari pihak ayah, paman dan bibinya antara lain ${listId(lat(uncles), 6)}. `}
-              {patrons.length > 0 && `Beliau adalah maula (terikat wala') kepada ${listId(lat(patrons))}. `}
-              {clients.length > 0 && `Maula yang terikat wala' kepadanya: ${listId(lat(clients))}.`}
-            </p>
-          )}
-        </Section>
-
-        <Section title="Rujukan" folded>
-          <ul className="list-disc space-y-0.5 pl-4 text-sm">
-            {p.src.map((s) => (
-              <li key={s.t}>
-                {s.url ? (
-                  <a href={s.url} target="_blank" rel="noreferrer" className="text-hijau-700 hover:underline">
-                    {s.t}
-                  </a>
-                ) : (
-                  s.t
-                )}
-              </li>
-            ))}
-            {[...new Set(Object.values(b ?? {}).flatMap((v) => (v && typeof v === 'object' && 'src' in v ? ((v as Point).src ?? []) : [])))]
-              .filter((s) => s !== 'Turath rawi' && !sources.some((x) => x.includes(s)))
-              .map((s) => {
-                const url = citationUrl(s)
-                return (
-                  <li key={s}>
-                    {url ? (
-                      <a href={url} target="_blank" rel="noreferrer" className="text-hijau-700 hover:underline">
-                        {s}
-                      </a>
-                    ) : (
-                      s
-                    )}
-                  </li>
-                )
-              })}
-          </ul>
-        </Section>
-        {father && (
-          <button className="mt-3 text-sm font-semibold text-hijau-700 hover:underline" onClick={() => openProfile(father, 'bio')}>
-            Baca biografi ayahnya →
-          </button>
+          <PointItems p={b?.nisbah_rihlah} />
+        </Bullets>
+        {chain.length > 1 && (
+          <Chips>
+            <ActionChip icon="tree" onClick={() => go('silsilah', { p: p.id })}>
+              Lihat silsilah vertikal
+            </ActionChip>
+          </Chips>
         )}
-      </div>
-      {b && (
-        <p className="mt-3 text-[11px] leading-relaxed text-tinta-soft">
-          {b.v
-            ? 'Uraian naratif diringkas dari kutipan kitab yang ditautkan dan sudah diperiksa ulang terhadap kutipan tersebut; tanda † = ringkasan umum yang belum bersitasi halaman.'
-            : 'Uraian naratif diringkas otomatis dari kutipan kitab yang ditautkan dan belum diperiksa ulang; tanda † = ringkasan umum yang belum bersitasi halaman.'}{' '}
-          Selalu rujuk teks aslinya sebelum mengutip.
-        </p>
-      )}
+      </Section>
+
+      <Section title="Profil Kabilah" id="bio-kabilah">
+        {t ? (
+          <>
+            <Bullets>
+              <Li label="Kabilah">
+                <strong className="font-semibold text-hijau-900">{t.name}</strong>
+                {t.id !== 'quraisy' && t.id !== 'anshar' && (
+                  <>
+                    {' — '}
+                    <Rich text={GROUP_PHRASE[t.group]} />
+                  </>
+                )}
+                <ArBlock>{t.ar}</ArBlock>
+              </Li>
+              {toBullets(t.desc).map((x, i) => (
+                <Li key={i}>
+                  <Rich text={x} />
+                </Li>
+              ))}
+            </Bullets>
+            <SubHead>Lokasi, kedudukan & peran strategis</SubHead>
+            <TribeRoles t={tp} wilayah={tp?.wilayah} />
+            <Chips>
+              <ActionChip icon="tribes" onClick={() => go('kabilah', { t: t.id, tab: 'profil' })}>
+                Profil lengkap {t.name}
+              </ActionChip>
+            </Chips>
+          </>
+        ) : (
+          <Missing>Kabilahnya belum tercatat dalam data.</Missing>
+        )}
+      </Section>
+
+      <Section title="Kiprah & Kedudukan" id="bio-kiprah">
+        {hasKiprah ? (
+          <Bullets>
+            {p.laqab && (
+              <Li label="Julukan (laqab)">
+                <ArBlock>{trimDot(p.laqab)}</ArBlock>
+              </Li>
+            )}
+            <PointItems p={b?.laqab_profesi} />
+            <PointItems p={b?.peran} />
+            {b?.syaraf ? (
+              <PointItems p={b.syaraf} />
+            ) : (
+              <>
+                {p.line.length > 0 && <Li>Nasabnya tercatat bersambung {p.line.length} generasi ke atas dalam sumber.</Li>}
+                {p.rank && (
+                  <Li label="Martabat periwayatan (Ibnu Hajar)">
+                    <ArBlock>{trimDot(p.rank)}</ArBlock>
+                  </Li>
+                )}
+              </>
+            )}
+            <PointItems p={catatan} />
+          </Bullets>
+        ) : (
+          <Missing />
+        )}
+      </Section>
+
+      <Section title="Keluarga & Pernikahan" id="bio-keluarga">
+        <Bullets>
+          {law.spouses.length > 0 ? (
+            <>
+              <Li label={fem ? 'Suami' : 'Istri'}>
+                <NameList names={lat(law.spouses)} />
+              </Li>
+              {law.parentsInLaw.length > 0 && (
+                <Li label="Mertua">
+                  <NameList names={lat(law.parentsInLaw)} max={4} />
+                </Li>
+              )}
+              {law.childrenInLaw.length > 0 && (
+                <Li label="Menantu">
+                  <NameList names={lat(law.childrenInLaw)} max={4} />
+                </Li>
+              )}
+              {law.childrenInLaw.length > 0 && law.coInLaws.length > 0 && (
+                <Li label="Besan">
+                  <NameList names={lat(law.coInLaws)} max={4} />
+                </Li>
+              )}
+            </>
+          ) : (
+            <Li>
+              <Missing>Belum ada pernikahan yang tercatat dalam data.</Missing>
+            </Li>
+          )}
+          {muakhah.length > 0 && (
+            <Li label="Saudara mu'akhah">
+              Dipersaudarakan Nabi ﷺ dengan <NameList names={lat(muakhah)} />
+            </Li>
+          )}
+          <PointItems p={b?.hilf} />
+          {mother && (
+            <Li label="Ibu">
+              <strong className="font-semibold text-hijau-900">{g.byId.get(mother)?.lat}</strong>
+            </Li>
+          )}
+          {sibs.length > 0 && (
+            <Li label="Saudara">
+              <NameList names={lat(sibs)} />
+            </Li>
+          )}
+          {uncles.length > 0 && (
+            <Li label="Paman & bibi (pihak ayah)">
+              <NameList names={lat(uncles)} max={6} />
+            </Li>
+          )}
+          {patrons.length > 0 && (
+            <Li label="Tuan (wala')">
+              <NameList names={lat(patrons)} />
+            </Li>
+          )}
+          {clients.length > 0 && (
+            <Li label="Maula">
+              <NameList names={lat(clients)} />
+            </Li>
+          )}
+        </Bullets>
+        <Chips>
+          {law.spouses.length > 0 && (
+            <ActionChip icon="rings" onClick={() => go('nikah', { p: p.id })}>
+              Lihat jejaring pernikahan
+            </ActionChip>
+          )}
+          {father && (
+            <ActionChip icon="user" onClick={() => openProfile(father, 'bio')}>
+              Biografi ayahnya
+            </ActionChip>
+          )}
+        </Chips>
+      </Section>
     </div>
+  )
+}
+
+/** Sources of the profile (dataset + biography citations), folded away at the bottom. */
+export function ProfileRefs({ p }: { p: Person }) {
+  const bio = useBio()
+  const b = bio?.persons[p.id]
+  const sources = p.src.map((s) => s.t)
+  const extra = [...new Set(Object.values(b ?? {}).flatMap((v) => (v && typeof v === 'object' && 'src' in v ? ((v as Point).src ?? []) : [])))].filter(
+    (s) => s !== 'Turath rawi' && !sources.some((x) => x.includes(s)),
+  )
+  const link = (label: string, url?: string) =>
+    url ? (
+      <a href={url} target="_blank" rel="noreferrer" className="font-medium text-hijau-700 underline decoration-hijau-600/30 underline-offset-2 hover:decoration-hijau-700">
+        {label} <Icon name="external" className="inline h-3 w-3" />
+      </a>
+    ) : (
+      label
+    )
+  return (
+    <Accordion title="Rujukan (Turath & Data Rawi)" count={p.src.length + extra.length}>
+      <Bullets>
+        {p.src.map((s, i) => (
+          <Li key={`s${i}`}>{link(s.t, s.url)}</Li>
+        ))}
+        {extra.map((s) => (
+          <Li key={s}>{link(s, citationUrl(s))}</Li>
+        ))}
+      </Bullets>
+      <ul className="mt-3 list-disc space-y-0.5 border-t border-krem-200 pt-3 pl-4 text-xs text-tinta-soft">
+        {b && (
+          <li>
+            {b.v
+              ? 'Uraian naratif diringkas dari kutipan kitab yang ditautkan dan sudah diperiksa ulang terhadap kutipan tersebut.'
+              : 'Uraian naratif diringkas otomatis dari kutipan kitab yang ditautkan dan belum diperiksa ulang.'}
+          </li>
+        )}
+        <li>Tanda † = ringkasan umum yang belum bersitasi halaman (termasuk lokasi & peran kabilah).</li>
+        <li>Selalu rujuk teks aslinya sebelum mengutip.</li>
+      </ul>
+    </Accordion>
   )
 }

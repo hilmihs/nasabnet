@@ -8,13 +8,50 @@ export function useTribeColor() {
   return useStore().colorOf
 }
 
-export function PersonChip({ id, sub, compact = false }: { id: string; sub?: ReactNode; compact?: boolean }) {
+export function GenderBadge({ g }: { g: 'm' | 'f' }) {
+  return (
+    <span
+      className="inline-flex h-5 shrink-0 items-center rounded-full bg-krem-100 px-1.5 text-[13px] leading-none font-semibold text-tinta-soft ring-1 ring-krem-300"
+      role="img"
+      aria-label={g === 'f' ? 'Perempuan' : 'Laki-laki'}
+      title={g === 'f' ? 'Perempuan' : 'Laki-laki'}
+    >
+      {g === 'f' ? '♀' : '♂'}
+    </span>
+  )
+}
+
+export function PersonChip({ id, sub, compact = false, layout = 'chip' }: { id: string; sub?: ReactNode; compact?: boolean; layout?: 'chip' | 'row' }) {
   const { g, tribes } = useStore()
   const { openProfile } = useUI()
   const color = useTribeColor()
   const p = g.byId.get(id)
   if (!p) return null
   const t = p.tribe ? tribes.get(p.tribe) : undefined
+  if (layout === 'row')
+    // full-width list row: names never truncated, Arabic on its own right-aligned run, tribe colour as a thin left accent
+    return (
+      <button
+        type="button"
+        onClick={() => openProfile(id)}
+        className="group flex min-h-14 w-full items-center gap-3 border-l-[3px] py-2.5 pr-3 pl-3.5 text-left transition hover:bg-krem-50 focus-visible:bg-krem-50 focus-visible:outline-2 focus-visible:-outline-offset-2 focus-visible:outline-hijau-700"
+        style={{ borderLeftColor: color(p) }}
+      >
+        <span className="min-w-0 flex-1">
+          <span className="flex flex-wrap items-baseline gap-x-3">
+            <span className="min-w-[9rem] flex-1 text-[15px] leading-snug font-semibold break-words text-tinta group-hover:text-hijau-700">{p.lat}</span>
+            <span dir="rtl" lang="ar" className="ar ml-auto text-right text-lg leading-[1.8] text-hijau-800">
+              {p.ar}
+            </span>
+          </span>
+          <span className="mt-0.5 flex flex-wrap items-center gap-x-1.5 gap-y-0.5 text-xs leading-snug text-tinta-soft">
+            <GenderBadge g={p.g} />
+            {sub ? <span className="break-words">{sub}</span> : t ? <span>{t.name}</span> : null}
+          </span>
+        </span>
+        <Icon name="chevron" className="h-4 w-4 shrink-0 text-tinta-soft group-hover:text-hijau-700" />
+      </button>
+    )
   return (
     <button
       type="button"

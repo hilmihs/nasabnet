@@ -32,7 +32,20 @@ export interface TribeProfile {
   tokoh?: string[]
   dinamika?: Point | null
   rujukan?: string[]
+  /** short place label, e.g. "Yatsrib/Madinah" (data/tribe_roles.json) */
+  lokasi?: string
+  /** strategic roles as bullet lists (general summaries, no page citation) */
+  peran?: Partial<Record<RoleKey, string[]>>
   v?: boolean
+}
+
+export type RoleKey = 'militer' | 'diplomasi' | 'ekonomi' | 'sosial'
+
+export const ROLE_LABEL: Record<RoleKey, string> = {
+  militer: 'Kemiliteran & Pertahanan',
+  diplomasi: 'Diplomasi & Negosiasi Politik',
+  ekonomi: 'Logistik, Perdagangan & Ekonomi',
+  sosial: 'Sosial, Budaya & Keagamaan',
 }
 
 export interface BioData {
@@ -71,4 +84,32 @@ export function citationUrl(tag: string): string | undefined {
   const j = tag.match(/Jamharat Ansab.*?(\d+)/)
   if (j) return `https://app.turath.io/book/9793?print_page=1,${j[1]}`
   return undefined
+}
+
+const NO_SPLIT = /\b(?:hlm|w|no|dkk|dll|dsb|cet|jil|saw|ra)\.$/i
+const PARTICLE = /^(?:al|ar|as|ash|asy|at|ath|az|an|ad|adh|adz)-/
+
+/** Break narrative text into short bullet items: at top-level "; " and sentence ends, never inside parentheses. */
+export function toBullets(text: string): string[] {
+  const out: string[] = []
+  const push = (s: string) => {
+    const x = s.trim().replace(/[.;,]+$/, '').trim()
+    if (x) out.push(PARTICLE.test(x) ? x : x.charAt(0).toUpperCase() + x.slice(1))
+  }
+  let depth = 0
+  let cur = ''
+  for (let i = 0; i < text.length; i++) {
+    const c = text[i]
+    if (c === '(' || c === '[') depth++
+    else if ((c === ')' || c === ']') && depth > 0) depth--
+    cur += c
+    if (depth > 0) continue
+    const rest = text.slice(i + 1)
+    if ((c === ';' && /^\s/.test(rest)) || (c === '.' && /^\s+["“'‘ʿ(]?[A-Z]/.test(rest) && !NO_SPLIT.test(cur))) {
+      push(cur)
+      cur = ''
+    }
+  }
+  push(cur)
+  return out
 }

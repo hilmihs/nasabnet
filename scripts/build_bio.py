@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 """Merge extracted 10-point biographies and tribe profiles into web/public/data/bio.json.
 
-Inputs: data/work/extracted/{bio,tribe}_*.json (see data/work/BIO_SPEC.md).
+Inputs: data/work/extracted/{bio,tribe}_*.json (see data/work/BIO_SPEC.md),
+plus data/tribe_roles.json (curated location + strategic roles per tribe).
 Only ids that exist in nasabnet.json are kept; empty points are dropped.
 """
 import glob
@@ -13,6 +14,7 @@ EX = ROOT / "data" / "work" / "extracted"
 WEB = ROOT / "web" / "public" / "data"
 
 PERSON_KEYS = ["identitas", "kabilah_tabaqat", "nisbah_rihlah", "laqab_profesi", "peran", "hilf", "syaraf", "catatan"]
+ROLE_KEYS = ["militer", "diplomasi", "ekonomi", "sosial"]
 TRIBE_KEYS = ["nama_arti", "leluhur", "titik_temu", "struktur", "wilayah", "peran_sosial", "hilf", "tokoh", "dinamika", "rujukan"]
 
 
@@ -81,6 +83,19 @@ def main():
             if tid in tverified:
                 t["v"] = True
             tribes[tid] = t
+    roles = json.loads((ROOT / "data" / "tribe_roles.json").read_text())
+    for tid, r in roles.items():
+        if tid not in tids:
+            if not tid.startswith("_"):
+                print("!! roles for missing tribe", tid)
+            continue
+        t = tribes.setdefault(tid, {})
+        if r.get("lokasi"):
+            t["lokasi"] = r["lokasi"].strip()
+        peran = {k: [x.strip() for x in r.get(k) or [] if x.strip()] for k in ROLE_KEYS}
+        peran = {k: v for k, v in peran.items() if v}
+        if peran:
+            t["peran"] = peran
     (WEB / "bio.json").write_text(json.dumps({"persons": persons, "tribes": tribes}, ensure_ascii=False, separators=(",", ":")))
     print(f"bio.json: {len(persons)} persons, {len(tribes)} tribes, {round((WEB / 'bio.json').stat().st_size / 1024)} KB")
 

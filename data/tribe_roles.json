@@ -1,0 +1,381 @@
+{
+  "_doc": "Lokasi singkat + kedudukan/peran strategis tiap kabilah (ringkasan umum, belum bersitasi halaman; tampil dengan tanda †). Digabung ke bio.json oleh scripts/build_bio.py sebagai tribes[id].lokasi dan tribes[id].peran. Kategori kosong = belum tercatat.",
+  "hasyim": {
+    "lokasi": "Makkah (Hijaz); setelah hijrah sebagian di Madinah",
+    "militer": ["Hamzah bin Abdil Muththalib dan Ali bin Abi Thalib maju dalam duel pembuka Perang Badar (2 H)", "Ja'far bin Abi Thalib gugur sebagai salah satu panglima Perang Mu'tah (8 H)"],
+    "diplomasi": ["Abu Thalib melindungi Nabi ﷺ dari tekanan Quraisy di Makkah hingga wafatnya", "Ja'far bin Abi Thalib menjadi juru bicara kaum Muslimin di hadapan an-Najasyi di Habasyah", "al-Abbas bin Abdil Muththalib mendampingi Nabi ﷺ pada Bai'at 'Aqabah kedua"],
+    "ekonomi": ["Memegang siqayah (air minum) dan rifadah (jamuan) jamaah haji, warisan Hasyim bin Abdi Manaf", "Menurut riwayat ilaf, Hasyim merintis perjanjian keamanan kafilah Quraisy ke Syam"],
+    "sosial": ["Klan Nabi Muhammad ﷺ; keturunannya dikenal sebagai Ahlulbait", "Diboikot di Syi'ib Abi Thalib karena melindungi Nabi ﷺ"]
+  },
+  "muthalib": {
+    "lokasi": "Makkah (Hijaz)",
+    "militer": ["Ubaidah bin al-Harits memimpin salah satu sariyah pertama, lalu maju dalam duel pembuka Perang Badar dan wafat karena lukanya"],
+    "diplomasi": ["Berpihak kepada Bani Hasyim sejak jahiliah dan menolak menyerahkan Nabi ﷺ kepada Quraisy"],
+    "ekonomi": ["al-Muththalib bin Abdi Manaf memegang siqayah dan rifadah sepeninggal Hasyim", "Menurut riwayat ilaf, al-Muththalib merintis perjanjian kafilah dengan Yaman"],
+    "sosial": ["Bersama Bani Hasyim berhak atas bagian khumus dzawil qurba", "Ikut diboikot di Syi'ib Abi Thalib"]
+  },
+  "umayyah": {
+    "lokasi": "Makkah (Hijaz); pada masa Daulah Umayyah berpusat di Damaskus (Syam)",
+    "militer": ["Abu Sufyan bin Harb memimpin pasukan Quraisy di Uhud dan Khandaq sebelum masuk Islam", "Yazid bin Abi Sufyan memimpin salah satu pasukan penaklukan Syam", "Mu'awiyah bin Abi Sufyan memimpin ekspedisi laut besar pertama ke Siprus (28 H)"],
+    "diplomasi": ["Abu Sufyan ditanya Heraklius tentang Nabi ﷺ di Syam", "Utsman bin 'Affan diutus Nabi ﷺ berunding ke Makkah menjelang Bai'atur Ridhwan"],
+    "ekonomi": ["Klan pedagang besar; kafilah dagang Abu Sufyan dari Syam memicu Perang Badar", "Menurut riwayat ilaf, Abdu Syams merintis perjanjian kafilah dengan Habasyah", "Utsman bin 'Affan membiayai Jaisyul 'Usrah (Tabuk) dan membeli sumur Rumah untuk kaum Muslimin"],
+    "sosial": ["Memegang kekhalifahan: Utsman bin 'Affan (khalifah ketiga) lalu Daulah Umayyah (41–132 H)"]
+  },
+  "naufal": {
+    "lokasi": "Makkah (Hijaz)",
+    "militer": ["Wahsyi, budak Jubair bin Muth'im, membunuh Hamzah pada Perang Uhud"],
+    "diplomasi": ["al-Muth'im bin 'Adi memberi jiwar (perlindungan) kepada Nabi ﷺ sepulang dari Tha'if", "al-Muth'im termasuk penggagas pembatalan piagam boikot Syi'ib Abi Thalib", "Jubair bin Muth'im datang ke Madinah mengurus tawanan Badar"],
+    "ekonomi": ["Menurut riwayat ilaf, Naufal merintis perjanjian kafilah dengan Irak (Persia)"],
+    "sosial": ["Jubair bin Muth'im dikenal sebagai ahli nasab Quraisy"]
+  },
+  "asad": {
+    "lokasi": "Makkah (Hijaz)",
+    "militer": ["az-Zubair bin al-'Awwam, hawari Nabi ﷺ, ikut seluruh peperangan dan menonjol di Yarmuk serta penaklukan Mesir"],
+    "diplomasi": ["Termasuk klan peserta Hilf al-Fudhul, pakta membela orang yang dizalimi di Makkah"],
+    "ekonomi": ["Khadijah binti Khuwailid, saudagar Makkah, mempercayakan dagangannya kepada Nabi ﷺ ke Syam", "Hakim bin Hizam, saudagar dermawan, menjual Dar an-Nadwah lalu menyedekahkan hasilnya"],
+    "sosial": ["Klan Khadijah, istri pertama Nabi ﷺ", "Waraqah bin Naufal membenarkan wahyu pertama yang diterima Nabi ﷺ"]
+  },
+  "abduddar": {
+    "lokasi": "Makkah (Hijaz)",
+    "militer": ["Memegang liwa' (panji perang) Quraisy; para pembawa panji dari klan ini gugur bergantian di Uhud", "Mush'ab bin 'Umair membawa panji kaum Muslimin di Badar dan Uhud hingga gugur"],
+    "diplomasi": ["Memegang Dar an-Nadwah, balai musyawarah para pemuka Quraisy", "Mush'ab bin 'Umair diutus sebagai pengajar dakwah pertama ke Yatsrib setelah Bai'at 'Aqabah pertama"],
+    "ekonomi": [],
+    "sosial": ["Memegang hijabah (kunci Ka'bah); Nabi ﷺ mengembalikan kunci kepada Utsman bin Thalhah saat Fathu Makkah dan hijabah tetap pada Bani Syaibah"]
+  },
+  "zuhrah": {
+    "lokasi": "Makkah (Hijaz)",
+    "militer": ["Sa'd bin Abi Waqqash memimpin kaum Muslimin pada Perang Qadisiyah dan membuka Mada'in"],
+    "diplomasi": ["Abdurrahman bin 'Auf termasuk enam anggota syura dan memimpin proses pemilihan Utsman bin 'Affan", "Termasuk klan peserta Hilf al-Fudhul"],
+    "ekonomi": ["Abdurrahman bin 'Auf dikenal sebagai saudagar sukses di pasar Madinah dan dermawan besar"],
+    "sosial": ["Klan Aminah binti Wahb, ibunda Nabi ﷺ", "Melahirkan dua dari sepuluh sahabat yang dijamin surga"]
+  },
+  "taim": {
+    "lokasi": "Makkah (Hijaz)",
+    "militer": ["Thalhah bin 'Ubaidillah melindungi Nabi ﷺ dengan tubuhnya pada Perang Uhud", "Abu Bakar ash-Shiddiq memberangkatkan pasukan Usamah dan memimpin penumpasan kaum murtad (Riddah)"],
+    "diplomasi": ["Hilf al-Fudhul diikrarkan di rumah Abdullah bin Jud'an at-Taimi", "Abu Bakar menemani Nabi ﷺ berhijrah, lalu menjadi khalifah pertama"],
+    "ekonomi": ["Abu Bakar, pedagang kain, membelanjakan hartanya untuk memerdekakan budak muslim seperti Bilal", "Abdullah bin Jud'an dikenal sebagai hartawan dermawan Makkah"],
+    "sosial": ["Abu Bakar dikenal sebagai ahli nasab Quraisy", "Klan Aisyah, Ummul Mukminin"]
+  },
+  "makhzum": {
+    "lokasi": "Makkah (Hijaz)",
+    "militer": ["Memegang al-qubbah dan al-a'innah (perkemahan dan pasukan berkuda) Quraisy", "Khalid bin al-Walid (Saifullah) memimpin pasukan di Mu'tah, Riddah, Irak, dan Yarmuk", "Sebelum masuk Islam, pasukan berkuda Khalid membalik keadaan di Uhud"],
+    "diplomasi": ["Ummu Salamah memberi saran kepada Nabi ﷺ saat Perjanjian Hudaibiyah agar menyembelih hadyu lebih dahulu"],
+    "ekonomi": ["Salah satu klan terkaya Quraisy; al-Walid bin al-Mughirah termasuk hartawan Makkah"],
+    "sosial": ["al-Arqam bin Abi al-Arqam menyediakan rumahnya (Dar al-Arqam) sebagai pusat dakwah awal", "Klan Ummu Salamah, Ummul Mukminin"]
+  },
+  "adi": {
+    "lokasi": "Makkah (Hijaz)",
+    "militer": ["Umar bin al-Khaththab mengarahkan penaklukan Syam, Irak, Persia, dan Mesir sebagai khalifah"],
+    "diplomasi": ["Memegang sifarah (utusan dan juru runding) Quraisy pada masa jahiliah, dipegang Umar bin al-Khaththab"],
+    "ekonomi": ["Umar bin al-Khaththab menata diwan dan pembagian 'atha' dari Baitul Mal"],
+    "sosial": ["Klan Hafshah binti Umar, Ummul Mukminin", "Abdullah bin Umar dikenal sebagai ahli fikih dan perawi hadits"]
+  },
+  "sahm": {
+    "lokasi": "Makkah (Hijaz)",
+    "militer": ["Amr bin al-'Ash memimpin sariyah Dzatus Salasil dan penaklukan Mesir (19–21 H)"],
+    "diplomasi": ["Sebelum masuk Islam, Amr bin al-'Ash diutus Quraisy kepada an-Najasyi untuk meminta pemulangan Muhajirin Habasyah", "Amr bin al-'Ash menjadi hakam pihak Mu'awiyah dalam tahkim setelah Shiffin"],
+    "ekonomi": [],
+    "sosial": ["Abdullah bin Amr bin al-'Ash menulis hadits dalam ash-Shahifah ash-Shadiqah"]
+  },
+  "jumah": {
+    "lokasi": "Makkah (Hijaz)",
+    "militer": ["Umayyah bin Khalaf, penentang dakwah, terbunuh dalam Perang Badar"],
+    "diplomasi": ["Shafwan bin Umayyah diberi tangguh oleh Nabi ﷺ setelah Fathu Makkah, lalu masuk Islam"],
+    "ekonomi": ["Shafwan bin Umayyah meminjamkan baju-baju besi kepada Nabi ﷺ untuk Perang Hunain"],
+    "sosial": ["Utsman bin Madh'un, muhajir Habasyah, sahabat Muhajirin pertama yang dimakamkan di Baqi'", "Bilal bin Rabah pernah menjadi budak Umayyah bin Khalaf"]
+  },
+  "amir": {
+    "lokasi": "Makkah (Hijaz)",
+    "militer": ["Suhail bin Amr berangkat berjihad ke Syam dan wafat di sana"],
+    "diplomasi": ["Suhail bin Amr menjadi juru runding Quraisy dalam Perjanjian Hudaibiyah (6 H)", "Suhail meneguhkan penduduk Makkah agar tidak murtad ketika Nabi ﷺ wafat"],
+    "ekonomi": [],
+    "sosial": ["Klan Saudah binti Zam'ah, Ummul Mukminin", "Abdullah bin Ummi Maktum, muazin Nabi ﷺ"]
+  },
+  "fihr": {
+    "lokasi": "Makkah (Hijaz)",
+    "militer": ["Abu 'Ubaidah bin al-Jarrah memimpin pasukan penaklukan Syam setelah ditunjuk Umar"],
+    "diplomasi": ["Abu 'Ubaidah diutus Nabi ﷺ kepada penduduk Najran sebagai Amin al-Ummah"],
+    "ekonomi": [],
+    "sosial": ["Abu 'Ubaidah bin al-Jarrah termasuk sepuluh sahabat yang dijamin surga"]
+  },
+  "quraisy": {
+    "lokasi": "Makkah (Hijaz), di sekitar Ka'bah",
+    "militer": ["Memimpin perlawanan terhadap kaum Muslimin di Badar, Uhud, dan Khandaq hingga Fathu Makkah (8 H)", "Setelah masuk Islam, tokoh-tokohnya memimpin penaklukan Syam, Irak, dan Mesir"],
+    "diplomasi": ["Menjalin pakta ilaf dengan penguasa Syam, Yaman, Habasyah, dan Persia demi keamanan kafilah", "Menandatangani Perjanjian Hudaibiyah dengan Nabi ﷺ (6 H)"],
+    "ekonomi": ["Dua perjalanan dagang tahunan: musim dingin ke Yaman dan musim panas ke Syam (QS Quraisy)", "Ramai berdagang di pasar musiman 'Ukazh, Majannah, dan Dzul Majaz"],
+    "sosial": ["Mengelola Ka'bah dan pelayanan jamaah haji (siqayah, rifadah, hijabah)", "Suku Nabi ﷺ"]
+  },
+  "aus": {
+    "lokasi": "Yatsrib/Madinah, terutama bagian selatan dan Quba",
+    "militer": ["Memiliki benteng-benteng (athom) di Yatsrib; berperang melawan Khazraj dalam Perang Bu'ats sebelum hijrah", "Sa'd bin Mu'adz meneguhkan kesiapan Anshar berperang menjelang Badar"],
+    "diplomasi": ["Tiga dari dua belas naqib Bai'at 'Aqabah kedua berasal dari Aus", "Sekutu Bani Quraizhah sebelum Islam; Sa'd bin Mu'adz memutuskan hukum atas mereka (5 H)"],
+    "ekonomi": ["Bertani kurma dan bercocok tanam di oase Yatsrib"],
+    "sosial": ["Menampung kaum Muhajirin melalui mu'akhah sebagai bagian dari Anshar", "Sa'd bin Mu'adz dan Usaid bin Hudhair masuk Islam lewat dakwah Mush'ab bin 'Umair"]
+  },
+  "khazraj": {
+    "lokasi": "Yatsrib/Madinah, terutama bagian utara dan tengah",
+    "militer": ["Memiliki benteng-benteng (athom) di Yatsrib; berperang melawan Aus dalam Perang Bu'ats sebelum hijrah", "Sa'd bin 'Ubadah memegang panji Anshar pada Fathu Makkah, lalu panji diserahkan kepada putranya Qais"],
+    "diplomasi": ["Enam orang Khazraj menjadi penduduk Yatsrib pertama yang masuk Islam di 'Aqabah", "Sembilan dari dua belas naqib Bai'at 'Aqabah kedua berasal dari Khazraj", "Musyawarah suksesi setelah Nabi ﷺ wafat berlangsung di Saqifah Bani Sa'idah (Khazraj)"],
+    "ekonomi": ["Bertani kurma di oase Yatsrib", "Sa'd bin 'Ubadah dikenal dermawan menjamu kaum Muslimin"],
+    "sosial": ["Bani an-Najjar adalah kerabat Nabi ﷺ dari pihak ibu Abdul Muththalib; Nabi ﷺ singgah di rumah Abu Ayyub al-Anshari", "Zaid bin Tsabit, penulis wahyu dan pengumpul mushaf"]
+  },
+  "anshar": {
+    "lokasi": "Yatsrib/Madinah",
+    "militer": ["Menjadi bagian terbesar pasukan Badar dan tulang punggung peperangan Nabi ﷺ"],
+    "diplomasi": ["Bai'at 'Aqabah kedua: berjanji melindungi Nabi ﷺ seperti melindungi keluarga sendiri"],
+    "ekonomi": ["Berbagi harta dan kebun kurma dengan kaum Muhajirin melalui mu'akhah"],
+    "sosial": ["Madinah menjadi pusat masyarakat Islam pertama"]
+  },
+  "tamim": {
+    "lokasi": "Najd bagian timur dan tengah; pasca-Islam banyak di Bashrah",
+    "militer": ["al-Qa'qa' bin Amr at-Tamimi tampil menonjol dalam Perang Qadisiyah", "Sebagian Tamim mengikuti Sajah, nabi palsu, pada masa Riddah"],
+    "diplomasi": ["Delegasi Bani Tamim (9 H) beradu khatib dan penyair di Madinah; dijawab Tsabit bin Qais dan Hassan bin Tsabit"],
+    "ekonomi": ["Kabilah penggembala di Najd; kemudian menjadi kekuatan utama garnisun Bashrah"],
+    "sosial": ["al-Ahnaf bin Qais at-Tamimi, pemuka Bashrah yang terkenal bijak"]
+  },
+  "tsaqif": {
+    "lokasi": "Tha'if (Hijaz)",
+    "militer": ["Bertahan di benteng Tha'if saat dikepung kaum Muslimin setelah Hunain (8 H)", "Abu 'Ubaid ats-Tsaqafi memimpin di front Irak dan gugur dalam Perang Jisr"],
+    "diplomasi": ["Urwah bin Mas'ud menjadi utusan Quraisy dalam perundingan Hudaibiyah", "Delegasi Tsaqif menyatakan masuk Islam di Madinah (9 H)", "al-Mughirah bin Syu'bah dikenal ahli siasat dan berunding dengan Rustum menjelang Qadisiyah"],
+    "ekonomi": ["Tha'if subur: kebun anggur dan buah-buahan, tempat peristirahatan para hartawan Makkah"],
+    "sosial": ["Pemuja berhala al-Lata di Tha'if, yang dihancurkan setelah mereka masuk Islam"]
+  },
+  "hudzail": {
+    "lokasi": "Pegunungan sekitar Makkah (Hijaz)",
+    "militer": ["Bani Lihyan dari Hudzail terlibat peristiwa ar-Raji' (4 H) terhadap para utusan dakwah"],
+    "diplomasi": [],
+    "ekonomi": [],
+    "sosial": ["Terkenal dengan para penyairnya (Diwan al-Hudzaliyyin)", "Abdullah bin Mas'ud, ahli Al-Qur'an dan fikih di Kufah"]
+  },
+  "ghifar": {
+    "lokasi": "Jalur kafilah antara Makkah dan Madinah (Hijaz)",
+    "militer": [],
+    "diplomasi": ["Abu Dzar mengajak kaumnya; sebagian Ghifar masuk Islam sebelum hijrah dan sisanya setelah Nabi ﷺ tiba di Madinah"],
+    "ekonomi": ["Mendiami jalur kafilah antara Makkah dan Madinah"],
+    "sosial": ["Nabi ﷺ mendoakan: Ghifar, semoga Allah mengampuninya", "Abu Dzar al-Ghifari dikenal karena kezuhudannya"]
+  },
+  "aslam": {
+    "lokasi": "Sekitar Madinah (Hijaz)",
+    "militer": ["Salamah bin al-Akwa' al-Aslami mengejar perampas unta Nabi ﷺ pada Ghazwah Dzi Qarad"],
+    "diplomasi": ["Buraidah bin al-Hushaib membawa kaumnya masuk Islam saat Nabi ﷺ berhijrah"],
+    "ekonomi": [],
+    "sosial": ["Nabi ﷺ mendoakan: Aslam, semoga Allah menyelamatkannya"]
+  },
+  "juhainah": {
+    "lokasi": "Sebelah barat Madinah, antara Madinah dan Laut Merah",
+    "militer": ["Mengirim kontingen dalam pasukan Fathu Makkah"],
+    "diplomasi": ["Majdi bin Amr al-Juhani melerai pasukan Hamzah dan kafilah Quraisy di Saif al-Bahr (sariyah Hamzah, salah satu sariyah pertama)"],
+    "ekonomi": ["Wilayahnya berada di dekat jalur pesisir kafilah Quraisy ke Syam"],
+    "sosial": ["Uqbah bin 'Amir al-Juhani, ahli qira'ah dan gubernur Mesir"]
+  },
+  "muzainah": {
+    "lokasi": "Sekitar Madinah, ke arah utara menuju Syam",
+    "militer": ["an-Nu'man bin Muqarrin memimpin kaum Muslimin pada Perang Nahawand (21 H) dan gugur di sana"],
+    "diplomasi": ["Termasuk kabilah yang awal mengirim delegasi ke Madinah"],
+    "ekonomi": [],
+    "sosial": ["Bani Muqarrin: tujuh bersaudara yang semuanya sahabat Nabi ﷺ"]
+  },
+  "asyja": {
+    "lokasi": "Sekitar Madinah, berdekatan dengan wilayah Ghathafan (Najd)",
+    "militer": ["Sebagian Asyja' ikut koalisi Ahzab sebelum masuk Islam"],
+    "diplomasi": ["Nu'aim bin Mas'ud al-Asyja'i memecah koalisi Ahzab dengan siasat pada Perang Khandaq"],
+    "ekonomi": [],
+    "sosial": ["Auf bin Malik al-Asyja'i, sahabat perawi hadits"]
+  },
+  "ghathafan": {
+    "lokasi": "Najd, dari timur laut Madinah hingga sekitar Khaibar dan Wadi al-Qura",
+    "militer": ["Ikut koalisi Ahzab menyerang Madinah (5 H) di bawah 'Uyainah bin Hishn al-Fazari", "Pada masa Riddah, Fazarah bergabung dengan Thulaihah dan kalah di Buzakhah; 'Abs dan Dzubyan dikalahkan Abu Bakar di Dzul Qashshah"],
+    "diplomasi": ["Nabi ﷺ sempat menimbang tawaran sepertiga hasil kurma Madinah agar Ghathafan mundur dari Khandaq, lalu batal atas saran Sa'd bin Mu'adz dan Sa'd bin 'Ubadah"],
+    "ekonomi": ["Kabilah penggembala di Najd"],
+    "sosial": ["Antarah bin Syaddad, penyair-ksatria jahiliah dari Bani 'Abs"]
+  },
+  "daus": {
+    "lokasi": "Pegunungan as-Sarah, dekat Tihamah (Yaman utara)",
+    "militer": ["ath-Thufail bin Amr menghancurkan berhala Dzul Kaffain dan gugur dalam Perang Yamamah"],
+    "diplomasi": ["ath-Thufail bin Amr membawa puluhan keluarga Daus berhijrah dan bergabung dengan Nabi ﷺ di Khaibar (7 H)"],
+    "ekonomi": [],
+    "sosial": ["Abu Hurairah ad-Dausi, sahabat perawi hadits terbanyak"]
+  },
+  "azd": {
+    "lokasi": "Yaman, Oman, dan as-Sarah; sebagian bermigrasi ke Hijaz, Syam, dan Irak",
+    "militer": ["al-Muhallab bin Abi Shufrah (Azd 'Uman) menjadi panglima masa Umayyah melawan Khawarij"],
+    "diplomasi": ["Penguasa Ghassan (keturunan Azd) menjadi sekutu Romawi di Syam"],
+    "ekonomi": ["Menurut tradisi, runtuhnya Bendungan Ma'rib mendorong migrasi suku-suku Azd ke utara"],
+    "sosial": ["Induk dari Aus, Khazraj, Ghassan, dan Daus; juga Khuza'ah menurut sebagian ahli nasab (yang lain menasabkannya ke Mudhar)"]
+  },
+  "kalb": {
+    "lokasi": "Badiyah Syam (as-Samawah) hingga Dumat al-Jandal",
+    "militer": ["Dumat al-Jandal didatangi ekspedisi Abdurrahman bin 'Auf (6 H)"],
+    "diplomasi": ["Dihyah al-Kalbi diutus Nabi ﷺ membawa surat kepada Heraklius", "Abdurrahman bin 'Auf menikahi Tumadhir, putri pemimpin Kalb di Dumat al-Jandal", "Menjadi pilar dukungan Daulah Umayyah di Syam; Maisun binti Bahdal, ibu Yazid bin Mu'awiyah, dari Kalb"],
+    "ekonomi": ["Dumat al-Jandal, pasar di persimpangan Syam, Irak, dan Hijaz"],
+    "sosial": ["Zaid bin Haritsah al-Kalbi, anak angkat Nabi ﷺ"]
+  },
+  "khuzaah": {
+    "lokasi": "Makkah dan sekitarnya, termasuk Marr azh-Zhahran",
+    "militer": ["Serangan Bani Bakr bin 'Abd Manat (Kinanah), sekutu Quraisy, atas Khuza'ah melanggar Hudaibiyah dan memicu Fathu Makkah (8 H)"],
+    "diplomasi": ["Sekutu Nabi ﷺ dalam Perjanjian Hudaibiyah", "Budail bin Warqa' menjadi perantara dalam perundingan Hudaibiyah"],
+    "ekonomi": [],
+    "sosial": ["Pengelola Ka'bah sebelum Quraisy; menurut tradisi, Amr bin Luhay memperkenalkan berhala ke Makkah", "Imran bin Hushain al-Khuza'i, sahabat perawi hadits"]
+  },
+  "kinanah": {
+    "lokasi": "Sekitar Makkah dan pesisir Hijaz",
+    "militer": ["Bersama Quraisy melawan Qais 'Ailan dalam Perang Fijar", "Bani Bakr bin 'Abd Manat menyerang Khuza'ah, melanggar Perjanjian Hudaibiyah"],
+    "diplomasi": ["al-Hulais bin 'Alqamah, pemimpin al-Ahabisy, menjadi utusan Quraisy dalam perundingan Hudaibiyah"],
+    "ekonomi": [],
+    "sosial": ["Induk Quraisy (keturunan an-Nadhr bin Kinanah)", "Pada masa jahiliah sebagian Kinanah memegang an-nasi' (penundaan bulan haram)"]
+  },
+  "bajilah": {
+    "lokasi": "Pegunungan as-Sarah antara Yaman dan Hijaz; kemudian banyak di Kufah",
+    "militer": ["Jarir bin Abdillah memimpin kontingen Bajilah dalam Perang Qadisiyah", "Jarir menghancurkan berhala Dzul Khalashah atas perintah Nabi ﷺ"],
+    "diplomasi": ["Jarir bin Abdillah diutus Ali kepada Mu'awiyah sebelum Shiffin"],
+    "ekonomi": [],
+    "sosial": ["Jarir bin Abdillah mempersatukan Bajilah di bawah Islam"]
+  },
+  "asad-k": {
+    "lokasi": "Najd bagian utara; kemudian menyebar ke Kufah",
+    "militer": ["Thulaihah bin Khuwailid mengaku nabi pada masa Riddah dan dikalahkan di Buzakhah; setelah bertaubat ia berjasa di Qadisiyah dan Nahawand"],
+    "diplomasi": ["Keluarga Jahsy dari Bani Asad adalah sekutu (halif) Bani Abdi Syams di Makkah"],
+    "ekonomi": [],
+    "sosial": ["Zainab binti Jahsy, Ummul Mukminin", "Ukkasyah bin Mihshan, ahli Badar"]
+  },
+  "thayyi": {
+    "lokasi": "Jabal Aja' dan Salma (Jabal Thayyi'), Najd utara",
+    "militer": ["Pada masa Riddah sebagian sempat condong kepada Thulaihah, lalu dikembalikan 'Adi bin Hatim ke pihak kaum Muslimin sebelum Buzakhah"],
+    "diplomasi": ["Adi bin Hatim datang ke Madinah lalu masuk Islam", "Zaid al-Khail ath-Tha'i diberi nama Zaid al-Khair oleh Nabi ﷺ"],
+    "ekonomi": ["Adi bin Hatim menyerahkan zakat kaumnya kepada Abu Bakar di masa Riddah"],
+    "sosial": ["Hatim ath-Tha'i, simbol kedermawanan Arab"]
+  },
+  "kindah": {
+    "lokasi": "Najd dan Hadhramaut",
+    "militer": ["al-Asy'ats bin Qais ikut Perang Yarmuk dan Qadisiyah serta berada di pihak Ali di Shiffin"],
+    "diplomasi": ["Delegasi Kindah datang ke Madinah (10 H) di bawah al-Asy'ats bin Qais", "al-Asy'ats mendesak Ali menerima tahkim setelah Shiffin"],
+    "ekonomi": [],
+    "sosial": ["Imru'ul Qais, penyair Mu'allaqat, berasal dari keluarga raja Kindah"]
+  },
+  "hamdan": {
+    "lokasi": "Dataran tinggi Yaman (sekitar Shan'a dan Sha'dah)",
+    "militer": ["Menjadi pendukung kuat Ali bin Abi Thalib dalam Perang Shiffin"],
+    "diplomasi": ["Masuk Islam lewat dakwah Ali bin Abi Thalib di Yaman (10 H)"],
+    "ekonomi": [],
+    "sosial": ["Terbagi dalam dua konfederasi besar: Hasyid dan Bakil"]
+  },
+  "sulaim": {
+    "lokasi": "Harrat Bani Sulaim, timur laut Madinah ke arah Najd",
+    "militer": ["Ikut Fathu Makkah dan Perang Hunain bersama kaum Muslimin", "Sebagian Bani Sulaim terlibat peristiwa Bi'r Ma'unah (4 H)"],
+    "diplomasi": ["al-Abbas bin Mirdas as-Sulami, penyair dan pemimpin kaumnya, masuk Islam sebelum Fathu Makkah"],
+    "ekonomi": ["Wilayahnya memiliki tambang (Ma'din Bani Sulaim)"],
+    "sosial": ["al-Khansa', penyair perempuan terkenal, berasal dari Bani Sulaim"]
+  },
+  "hawazin": {
+    "lokasi": "Sekitar Tha'if dan Najd bagian barat",
+    "militer": ["Mengerahkan pasukan besar melawan kaum Muslimin di Hunain (8 H) di bawah Malik bin 'Auf an-Nashri"],
+    "diplomasi": ["Delegasi Hawazin meminta keluarga mereka dikembalikan; Nabi ﷺ membebaskan para tawanan"],
+    "ekonomi": ["Ghanimah Hunain (unta dan kambing dalam jumlah besar) dibagikan di Ji'ranah"],
+    "sosial": ["Halimah as-Sa'diyyah, ibu susu Nabi ﷺ, dari Bani Sa'd bin Bakr (Hawazin)"]
+  },
+  "abdulqais": {
+    "lokasi": "Bahrain (pesisir timur Jazirah Arab)",
+    "militer": ["Tetap teguh dalam Islam di Bahrain pada masa Riddah di bawah al-Jarud bin al-Mu'alla"],
+    "diplomasi": ["Delegasi 'Abdul Qais datang ke Madinah; al-Asyajj dipuji Nabi ﷺ karena santun dan tenang (al-hilm wal-anah)"],
+    "ekonomi": ["Bahrain dikenal dengan kebun kurma dan perdagangan pesisir Teluk"],
+    "sosial": ["Masjid Jawatsa di Bahrain menjadi tempat shalat Jumat kedua setelah Madinah"]
+  },
+  "bakr": {
+    "lokasi": "Jazirah Arab timur dan utara, termasuk al-Yamamah dan tepi Irak",
+    "militer": ["Mengalahkan pasukan Persia dalam Perang Dzi Qar", "al-Mutsanna bin Haritsah asy-Syaibani merintis penaklukan Irak", "Bani Hanifah mengikuti Musailimah dan dikalahkan dalam Perang Yamamah"],
+    "diplomasi": [],
+    "ekonomi": ["al-Yamamah lumbung gandum; Tsumamah bin Utsal (Bani Hanifah) menghentikan pasokan gandum ke Makkah setelah masuk Islam"],
+    "sosial": ["Perang Basus yang panjang antara Bakr dan Taghlib menjadi legenda Arab"]
+  },
+  "madzhij": {
+    "lokasi": "Yaman",
+    "militer": ["Amr bin Ma'dikarib az-Zubaidi, ksatria terkenal dalam Perang Qadisiyah", "Malik al-Asytar an-Nakha'i, panglima Ali bin Abi Thalib"],
+    "diplomasi": ["Farwah bin Musaik al-Muradi datang ke Madinah menyatakan Islam"],
+    "ekonomi": [],
+    "sosial": ["Yasir, ayah Ammar, berasal dari 'Ans (Madzhij)", "Uwais al-Qarani berasal dari Murad (Madzhij)"]
+  },
+  "himyar": {
+    "lokasi": "Yaman selatan (sekitar Zhafar dan Shan'a) serta Hadhramaut",
+    "militer": [],
+    "diplomasi": ["Para raja Himyar menerima surat Nabi ﷺ dan menyatakan Islam (9 H)", "Wa'il bin Hujr al-Hadhrami datang ke Madinah dan dimuliakan Nabi ﷺ"],
+    "ekonomi": ["Kerajaan Himyar menguasai perdagangan dupa dan rempah Arab selatan"],
+    "sosial": ["Menurut banyak mufassir, peristiwa Ashhabul Ukhdud di Najran terjadi pada masa raja Himyar Dzu Nuwas"]
+  },
+  "qudhaah": {
+    "lokasi": "Syam, Jazirah Arab utara, dan Mesir",
+    "militer": ["Sebagian kabilah Qudha'ah (Bali, al-Qain, dan Bahra') berada di pihak Romawi pada Perang Mu'tah", "Sariyah Dzatus Salasil (8 H) diarahkan ke wilayah Qudha'ah"],
+    "diplomasi": ["Delegasi 'Udzrah dan Bali datang ke Madinah menyatakan Islam"],
+    "ekonomi": [],
+    "sosial": ["Bani 'Udzrah melahirkan tradisi syair cinta 'udzri, seperti Jamil Butsainah"]
+  },
+  "lakhm": {
+    "lokasi": "Hirah (Irak); sebagian di Syam dan Palestina",
+    "militer": ["Raja-raja Lakhmi di Hirah menjadi penyangga militer Persia terhadap Romawi dan kabilah Arab"],
+    "diplomasi": ["Hirah, bekas ibu kota Lakhmiyyun, berdamai dengan Khalid bin al-Walid (12 H) dengan membayar jizyah"],
+    "ekonomi": ["Hirah menjadi pusat perdagangan dan budaya Arab di Irak"],
+    "sosial": ["Tamim ad-Dari al-Lakhmi, sahabat yang meriwayatkan kisah al-Jassasah"]
+  },
+  "khatsam": {
+    "lokasi": "Pegunungan as-Sarah antara Yaman dan Hijaz",
+    "militer": [],
+    "diplomasi": [],
+    "ekonomi": [],
+    "sosial": ["Asma' binti 'Umais, muhajirah Habasyah, istri Ja'far, lalu Abu Bakar, lalu Ali", "Bersama Bajilah memuja berhala Dzul Khalashah sebelum Islam"]
+  },
+  "asyari": {
+    "lokasi": "Dataran rendah Yaman (Tihamah, sekitar Zabid)",
+    "militer": ["Abu Musa al-Asy'ari memimpin penaklukan Ahwaz dan Tustar"],
+    "diplomasi": ["Rombongan Asy'ariyyun tiba bersama Muhajirin Habasyah saat Khaibar (7 H)", "Abu Musa menjadi hakam pihak Ali dalam tahkim"],
+    "ekonomi": ["Nabi ﷺ memuji kebiasaan Asy'ariyyun mengumpulkan bekal bersama lalu membaginya rata ketika kekurangan"],
+    "sosial": ["Abu Musa al-Asy'ari terkenal dengan suara merdunya membaca Al-Qur'an"]
+  },
+  "dhabbah": {
+    "lokasi": "Najd tengah; kemudian banyak di Bashrah",
+    "militer": ["Berada di pihak Aisyah pada Perang Jamal dan bertahan di sekitar untanya"],
+    "diplomasi": [],
+    "ekonomi": [],
+    "sosial": ["Bagian dari konfederasi ar-Ribab"]
+  },
+  "bahilah": {
+    "lokasi": "Najd",
+    "militer": ["Salman bin Rabi'ah al-Bahili memimpin pasukan di front Armenia dan gugur di Balanjar", "Qutaibah bin Muslim al-Bahili memimpin penaklukan Asia Tengah pada masa Umayyah"],
+    "diplomasi": [],
+    "ekonomi": [],
+    "sosial": ["Abu Umamah al-Bahili, sahabat perawi hadits yang wafat di Syam"]
+  },
+  "ghani": {
+    "lokasi": "Najd, berdekatan dengan wilayah Bahilah",
+    "militer": ["Abu Martsad al-Ghanawi dan putranya Martsad ikut Perang Badar", "Martsad bin Abi Martsad gugur dalam peristiwa ar-Raji' (4 H)"],
+    "diplomasi": ["Abu Martsad dan putranya adalah sekutu (halif) Hamzah bin Abdil Muththalib"],
+    "ekonomi": [],
+    "sosial": []
+  },
+  "muharib": {
+    "lokasi": "Najd",
+    "militer": ["Ghazwah Dzatur Riqa' diarahkan kepada Bani Muharib dan Bani Tsa'labah", "Ghaurats bin al-Harits dari Muharib pernah menghunus pedang kepada Nabi ﷺ lalu tak berdaya"],
+    "diplomasi": [],
+    "ekonomi": [],
+    "sosial": []
+  },
+  "persia": {
+    "lokasi": "Persia (Kekaisaran Sasaniyah); sebagian menetap di Madinah dan Yaman",
+    "militer": ["Salman al-Farisi mengusulkan penggalian parit dalam Perang Khandaq", "Kaum Abna' di Yaman, seperti Fairuz ad-Dailami, menumpas al-Aswad al-'Ansi"],
+    "diplomasi": ["Salman al-Farisi menjadi gubernur Mada'in pada masa Umar"],
+    "ekonomi": ["Salman menanam ratusan pohon kurma untuk menebus kemerdekaannya (mukatabah)"],
+    "sosial": ["Salman al-Farisi menempuh perjalanan panjang mencari kebenaran hingga masuk Islam di Madinah"]
+  },
+  "habasyah": {
+    "lokasi": "Habasyah (Ethiopia) dan Tanduk Afrika; banyak menetap di Makkah dan Madinah",
+    "militer": ["Wahsyi bin Harb membunuh Musailimah al-Kadzdzab dalam Perang Yamamah"],
+    "diplomasi": ["an-Najasyi melindungi Muhajirin Habasyah dan menolak menyerahkan mereka kepada Quraisy", "an-Najasyi mewakili akad nikah Nabi ﷺ dengan Ummu Habibah"],
+    "ekonomi": ["Terhubung dengan Makkah lewat jalur dagang Laut Merah"],
+    "sosial": ["Bilal bin Rabah, muazin pertama dalam Islam", "Ummu Aiman (Barakah), pengasuh Nabi ﷺ sejak kecil"]
+  },
+  "rum": {
+    "lokasi": "Wilayah Romawi/Bizantium (Syam dan Anatolia) serta Mesir (Qibthi)",
+    "militer": ["Romawi dan sekutu Arabnya berhadapan dengan kaum Muslimin di Mu'tah dan Yarmuk; ekspedisi Tabuk berakhir tanpa pertempuran"],
+    "diplomasi": ["Nabi ﷺ mengirim surat kepada Heraklius dan kepada al-Muqauqis, penguasa Mesir", "al-Muqauqis menghadiahkan Mariyah al-Qibthiyyah dan saudarinya Sirin"],
+    "ekonomi": ["Shuhaib \"ar-Rumi\" (nasabnya Arab dari an-Namir bin Qasith, besar di negeri Romawi) menyerahkan seluruh hartanya kepada Quraisy demi berhijrah"],
+    "sosial": ["Mariyah al-Qibthiyyah, ibu Ibrahim putra Nabi ﷺ"]
+  }
+}

@@ -1,41 +1,16 @@
-import { useBio, type Point } from '../lib/bio'
+import { toBullets, useBio, type Point } from '../lib/bio'
 import { useStore } from '../lib/data'
-import type { ReactNode } from 'react'
 import type { Tribe } from '../lib/types'
 import { useUI } from '../lib/ui'
-import { listId, Section, SrcChips } from './BioCard'
+import { Accordion, ArBlock, Bullets, Li, Missing, PointItems, Rich, Section, SubHead, TribeRoles } from './Prose'
 
-const MISSING = 'Belum tercatat.'
-
-/** Several narrative points joined into one paragraph, each keeping its own citation. */
-function Para({ points, lead }: { points: (Point | null | undefined)[]; lead?: ReactNode }) {
-  const ps = points.filter((x): x is Point => !!x?.t)
-  if (!ps.length && !lead) return null
-  return (
-    <p>
-      {lead}
-      {ps.map((x, i) => (
-        <span key={i}>
-          {(lead || i > 0) && ' '}
-          {x.t}
-          <SrcChips src={x.src} basis={x.basis} />
-        </span>
-      ))}
-    </p>
-  )
-}
-
-/** A bare chain of names ("al-Harits bin Fihr bin Malik.") becomes a sentence. */
-const ancestorSentence = (x?: Point | null): Point | null | undefined =>
+/** A bare chain of names ("al-Harits bin Fihr bin Malik.") reads better with a lead. */
+const ancestorPoint = (x?: Point | null): Point | null | undefined =>
   x?.t && !/\b(adalah|ialah|merupakan|yaitu|bertemu|keturunan|leluhur)\b/i.test(x.t) && x.t.split(/\s+/).length <= 12
-    ? { ...x, t: `Leluhur utamanya ialah ${x.t.trim()}` }
+    ? { ...x, t: `Leluhur utama: ${x.t.trim()}` }
     : x
 
-/** A bare place name ("Makkah.") reads better as a sentence. */
-const placeSentence = (x?: Point | null): Point | null | undefined =>
-  x?.t && x.t.trim().split(/\s+/).length <= 3 ? { ...x, t: `Basis wilayahnya di ${x.t.trim().replace(/\.$/, '')}.` } : x
-
-/** Tribe/clan profile, told in a few themed sections. */
+/** Tribe/clan profile in themed sections of short bullets. */
 export function TribeProfileCard({ tribe }: { tribe: Tribe }) {
   const { g, membersByTribe, weight, tribes } = useStore()
   const { openProfile } = useUI()
@@ -55,62 +30,101 @@ export function TribeProfileCard({ tribe }: { tribe: Tribe }) {
     if (b === tribe.id && a && a !== tribe.id) spouses.set(a, (spouses.get(a) ?? 0) + 1)
   }
   const allies = [...spouses.entries()].sort((a, b) => b[1] - a[1]).slice(0, 5)
+  const refs = t?.rujukan?.length ? t.rujukan : ["Jamharat Ansab al-'Arab (Ibnu Hazm)", "ath-Thabaqat al-Kubra (Ibnu Sa'd)"]
 
   return (
     <div>
       {!bio && <p className="py-2 text-sm text-tinta-soft">Memuat profil…</p>}
-      <div>
-        <Section title="Asal-usul & Silsilah">
-          <Para
-            lead={
-              <>
-                <span className="font-semibold">{tribe.name}</span> (<span className="ar">{tribe.ar}</span>). {tribe.desc}
-              </>
-            }
-            points={[t?.nama_arti]}
-          />
-          <Para points={[ancestorSentence(t?.leluhur), t?.titik_temu, t?.struktur]} />
-        </Section>
+      <Section title="Asal-usul & Silsilah" id={`tp-asal-${tribe.id}`}>
+        <Bullets>
+          <Li label="Nama">
+            <strong className="font-semibold text-hijau-900">{tribe.name}</strong>
+            <ArBlock>{tribe.ar}</ArBlock>
+          </Li>
+          {toBullets(tribe.desc).map((x, i) => (
+            <Li key={i}>
+              <Rich text={x} />
+            </Li>
+          ))}
+          <PointItems p={t?.nama_arti} />
+          <PointItems p={ancestorPoint(t?.leluhur)} />
+          <PointItems p={t?.titik_temu} />
+          <PointItems p={t?.struktur} />
+        </Bullets>
+      </Section>
 
-        <Section title="Wilayah & Kedudukan">
-          <Para points={[placeSentence(t?.wilayah), t?.peran_sosial]} />
-          {!t?.wilayah?.t && !t?.peran_sosial?.t && <p className="text-tinta-soft/80 italic">{MISSING}</p>}
-        </Section>
+      <Section title="Lokasi & Peran Strategis" id={`tp-peran-${tribe.id}`}>
+        <TribeRoles t={t} wilayah={t?.wilayah} />
+        {t?.peran_sosial?.t && (
+          <>
+            <SubHead>Kedudukan umum</SubHead>
+            <Bullets>
+              <PointItems p={t.peran_sosial} />
+            </Bullets>
+          </>
+        )}
+      </Section>
 
-        <Section title="Aliansi & Tokoh">
-          <Para
-            points={[t?.hilf]}
-            lead={allies.length > 0 && `Dalam data ini, pernikahan silang paling banyak terjalin dengan ${listId(allies.map(([id, n]) => `${tribes.get(id)?.name} (${n})`))}.`}
-          />
-          {notable.length > 0 && <p>Tokoh-tokoh terkenalnya antara lain:</p>}
-          {notable.length > 0 && (
-            <p className="flex flex-wrap gap-1.5">
+      <Section title="Aliansi & Tokoh" id={`tp-tokoh-${tribe.id}`}>
+        <Bullets>
+          {allies.length > 0 && (
+            <Li label="Pernikahan silang terbanyak (dalam data)">
+              {allies.map(([id, n], i) => (
+                <span key={id}>
+                  {i > 0 && ', '}
+                  <strong className="font-semibold text-hijau-900">{tribes.get(id)?.name}</strong> ({n})
+                </span>
+              ))}
+            </Li>
+          )}
+          <PointItems p={t?.hilf} />
+          <Li label="Jumlah dalam data">
+            {members.length} tokoh, {comps.length} di antaranya sahabat
+          </Li>
+        </Bullets>
+        {notable.length > 0 && (
+          <>
+            <SubHead>Tokoh terkenal</SubHead>
+            <div className="flex flex-wrap gap-2">
               {notable.map((p) => (
-                <button key={p.id} onClick={() => openProfile(p.id, 'bio')} className="rounded-full bg-hijau-50 px-2.5 py-0.5 text-xs font-medium text-hijau-800 hover:bg-hijau-100">
+                <button
+                  key={p.id}
+                  type="button"
+                  onClick={() => openProfile(p.id, 'bio')}
+                  className="inline-flex min-h-11 items-center rounded-full border border-hijau-100 bg-hijau-50 px-3.5 text-sm font-medium text-hijau-800 hover:border-hijau-600 hover:bg-hijau-100"
+                >
                   {p.lat}
                 </button>
               ))}
-            </p>
-          )}
-          <p className="mt-1 text-xs text-tinta-soft">
-            {members.length} tokoh dalam data, {comps.length} di antaranya sahabat.
-          </p>
-        </Section>
+            </div>
+          </>
+        )}
+      </Section>
 
-        <Section title="Perjalanan Sejarah">
-          {t?.dinamika?.t ? <Para points={[t.dinamika]} /> : <p className="text-tinta-soft/80 italic">{MISSING}</p>}
-        </Section>
+      <Section title="Perjalanan Sejarah" id={`tp-sejarah-${tribe.id}`}>
+        {t?.dinamika?.t ? (
+          <Bullets>
+            <PointItems p={t.dinamika} />
+          </Bullets>
+        ) : (
+          <Missing>Belum tercatat.</Missing>
+        )}
+      </Section>
 
-        <Section title="Rujukan" folded>
-          <p className="text-sm">{(t?.rujukan?.length ? t.rujukan : ["Jamharat Ansab al-'Arab (Ibnu Hazm)", "ath-Thabaqat al-Kubra (Ibnu Sa'd)"]).join(' · ')}</p>
-        </Section>
+      <div className="mt-2">
+        <Accordion title="Rujukan" count={refs.length}>
+          <Bullets>
+            {refs.map((r) => (
+              <Li key={r}>{r}</Li>
+            ))}
+          </Bullets>
+          <ul className="mt-3 list-disc space-y-0.5 border-t border-krem-200 pt-3 pl-4 text-xs text-tinta-soft">
+            <li>Poin bertanda sitasi diringkas dari Jamharat Ansab al-'Arab.</li>
+            <li>Tanda † = ringkasan umum yang belum bersitasi halaman (termasuk lokasi & peran strategis).</li>
+            {t && <li>{t.v ? 'Profil ini sudah diperiksa ulang.' : 'Profil ini belum diperiksa ulang.'}</li>}
+          </ul>
+        </Accordion>
       </div>
-      {t && (
-        <p className="mt-3 text-[11px] leading-relaxed text-tinta-soft">
-          Kalimat bertanda sitasi diringkas dari Jamharat Ansab al-'Arab; yang bertanda † adalah ringkasan umum yang belum bersitasi halaman.{' '}
-          {t.v ? 'Profil ini sudah diperiksa ulang.' : 'Profil ini belum diperiksa ulang.'}
-        </p>
-      )}
     </div>
   )
 }
