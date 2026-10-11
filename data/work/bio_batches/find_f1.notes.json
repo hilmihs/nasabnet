@@ -1,0 +1,14 @@
+{
+ "not_found": {
+  "n9226": "عمير الثقفي: searched 'عمير\\W*الثقفي', all 'عمير' headings without father in Isabah/Usd ('عمير: غير منسوب', 'عمير: آخر', etc.), 'عمير.{0,30}ثقيف' in Isabah/Usd/Ibn Sa'd; only 'X بن عمير الثقفي' namesakes (عبد ياليل بن عمرو بن عمير، عبيد الله بن عمير) — no entry for this person",
+  "n391": "أبو يزيد المكي، القرظي مولاهم، حليف بني زهرة: listed every 'أبو يزيد' heading in Isabah (10733-10758) and Usd (6348-6351) — none Makki/Qurazi/Zuhri ally; searched 'ابو يزيد المكي|المدني|...زهره' in all 8 books — only 'أبو يزيد المدني' as narrator from عبد الرحمن بن مرقع (different context); no entry"
+ },
+ "skipped": {
+  "n7410": "أبو عبيد: record has no nisba/father/tribe; books have several distinct Abu 'Ubaids (Isabah 10227 غير منسوب عنه خالد بن معدان, 10229 الزرقي, 10230 مولى رسول الله, 10231 مولى رفاعة, 10228 بن مسعود الثقفي; Usd 6080-6083) — cannot tell which",
+  "n15923": "أبو الورد: record has no nisba/father/tribe; namesakes Isabah 10708 المازني (حرب/عبيد بن قيس), 10709 بن قيس بن فهد الأنصاري, 10710 غير منسوب; Usd 3515 عبيد بن قيس — cannot tell which",
+  "n5142.usd": "Usd 4253 'القاسم أبو عبد الرحمن مولى معاوية' is the same heading as Isabah 7342, but Ibn al-Athir there argues he is a different (Ansari) mawla of معاوية بن مالك, contradicting الأموي مولاهم — Usd not used; only Isabah (which identifies him with القاسم الشامي التابعي)",
+  "n852.usd": "Usd 353 أيمن بن عبيد conflates with Aiman b. Umm Aiman (killed at Hunain) — contradicts; only Isabah 581 (أيمن غير منسوب، مولى الزبير أو ابن الزبير، النسائي: ما أحسب له صحبة) used",
+  "n265.ibnsad": "Ibn Sa'd 4/356 'أبو خزامة العذري يسكن الجناب' is رفاعة بن عرابة (a different Abu Khuzamah per Usd/Isabah) — not used",
+  "n826.ibnsad": "Ibn Sa'd 4/308-309 heading is أهبان بن الأكوع مكلم الذئب (al-Waqidi says it is أهبان بن أوس) — disputed identity, not used"
+ }
+}

@@ -200,6 +200,18 @@ def main():
         if ism and line:
             is_idx.setdefault(f"{kn(ism)}|{kn(line[0]['ar'])}", []).append(i)
 
+    # Usdul Ghabah (Ibnul Atsir): mode "usd" adds it as a third source for companions still without a biography
+    usd_mode = sys.argv[1:2] == ["usd"]
+    us_idx = {}
+    if usd_mode:
+        us_pages, us_heads = load_book(1110)
+        for i, h in enumerate(us_heads):
+            if not re.match(r"^[\d٠-٩]", h["title"]):
+                continue
+            ism, line = parse_chain(strip_title(h["title"]))
+            if ism and line:
+                us_idx.setdefault(f"{kn(ism)}|{kn(line[0]['ar'])}", []).append(i)
+
     OUT.mkdir(parents=True, exist_ok=True)
     groups = {t["id"]: t["group"] for t in tribes}
     rejected = []
@@ -210,6 +222,9 @@ def main():
         by_id = {p["id"]: p for p in data["persons"]}
         targets = {n: [json.loads(l)["id"] for l in (OUT / f"bio_{n}.jsonl").read_text().splitlines() if l.strip()] for n in range(rebuild[0], rebuild[1] + 1)}
         people = [by_id[i] for n in targets for i in targets[n] if i in by_id]
+    elif usd_mode:
+        have = set(json.loads((ROOT / "web" / "public" / "data" / "bio.json").read_text())["persons"])
+        people = [p for p in data["persons"] if p["comp"] and p["id"] != "nabi" and p["id"] not in have]
     else:
         people = select_persons(data, more)
     for p in people:
@@ -249,11 +264,24 @@ def main():
                 break
         if not isabah and not ibnsad:
             missing += 1
-        rows.append({
+        usd = ""
+        if usd_mode and ism and line:
+            fathers = [line[0]["ar"]] + ([line[0]["alias"]] if line[0].get("alias") else [])
+            for i in [i for f_ in fathers for i in us_idx.get(f"{kn(ism)}|{kn(f_)}", [])]:
+                text = entry_text(us_pages, us_heads, i)
+                if not plausible(text, p, ism, line, groups)[0]:
+                    continue
+                pg = us_pages[us_heads[i]["page"] - 1]
+                usd = f"[Usdul Ghabah {pg['vol']}/{pg['page']}]\n" + condense(text, 3200)
+                break
+        row = {
             "id": p["id"], "lat": p["lat"], "ar": p["ar"], "full": p.get("full", ""), "kunya": p.get("kunya", ""),
             "laqab": p.get("laqab", ""), "death": p.get("death", ""), "place": p.get("place", ""), "rank": p.get("rank", ""),
             "isabah": isabah, "ibnsad": ibnsad,
-        })
+        }
+        if usd_mode:
+            row["usd"] = usd
+        rows.append(row)
 
     # tribes: Jamharah section for the eponym (+ Nasab Quraysh for Quraysh clans)
     EPONYM = {
@@ -312,6 +340,18 @@ def main():
                 for r in keep:
                     f.write(json.dumps(r, ensure_ascii=False) + "\n")
             print(f"  bio_{n}: {len(keep)} of {len(ids)} kept")
+        return
+    if usd_mode:
+        rows = [r for r in rows if r["isabah"] or r["ibnsad"] or r["usd"]]
+        per = 40
+        if "--dry" in sys.argv:
+            print(f"usd: {len(rows)} companions with an excerpt; usdul ghabah {sum(bool(r['usd']) for r in rows)}, isabah {sum(bool(r['isabah']) for r in rows)}, ibnsad {sum(bool(r['ibnsad']) for r in rows)}")
+            return
+        for k in range(0, len(rows), per):
+            with open(OUT / f"bio_u{k // per + 1}.jsonl", "w") as f:
+                for r in rows[k : k + per]:
+                    f.write(json.dumps(r, ensure_ascii=False) + "\n")
+        print(f"usd: {len(rows)} companions -> bio_u1..bio_u{(len(rows) - 1) // per + 1}")
         return
     if more:
         # append batches after the existing ones; persons without any source text are skipped

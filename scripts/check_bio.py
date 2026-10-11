@@ -43,7 +43,7 @@ def check(n, prefix):
         errs.append(f"{prefix}_{n}: ids differ from batch (missing {missing[:5]}, extra {extra[:5]}, order ok={sorted(got) == sorted(want)})")
     # each excerpt starts with its own citation tag on the first line: "[al-Ishabah 4/484]"
     head = lambda x: TAG.findall(x.split("\n", 1)[0]) if x else []
-    allowed = {r["id"]: set(head(r["isabah"]) + head(r["ibnsad"])) | {"Turath rawi"} for r in src}
+    allowed = {r["id"]: set(head(r["isabah"]) + head(r["ibnsad"]) + head(r.get("usd", "")) + head(r.get("lain", ""))) | {"Turath rawi"} for r in src}
     for r in recs:
         if not isinstance(r, dict):
             continue

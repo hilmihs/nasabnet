@@ -952,6 +952,7 @@ def finalize(R, cur):
         persons.append(rec)
     ids = {p["id"] for p in persons}
     edges = [e for e in edges if e["s"] in ids and e["t"] in ids]
+    disambiguate(persons, edges)
     tribes = [{"id": t[0], "ar": t[1], "name": t[2], "group": t[3], "desc": t[4]} for t in TRIBES]
     kinds = defaultdict(int)
     for e in edges:
@@ -991,6 +992,48 @@ def finalize(R, cur):
     print("tribes:", {t: sum(1 for p in persons if p.get("tribe") == t) for t in sorted({p.get('tribe') for p in persons if p.get('tribe')})})
     print("no tribe:", sum(1 for p in persons if not p.get("tribe")), "stubs:", sum(1 for p in persons if p["id"].startswith("x")))
     print("size:", round(OUT.stat().st_size / 1024), "KB")
+
+
+def disambiguate(persons, edges):
+    """Give a distinguishing display name to people whose name equals another's, or (non-companions) whose name
+    is the start of a companion's name ("Khalid bin al-Walid" vs Saifullah): add the father's own nasab from a
+    parent edge ("Khalid bin al-Walid bin 'Uqbah"), else the tribe ("Qais (Asyja')")."""
+    by = {p["id"]: p for p in persons}
+    tname = {t[0]: t[2].split(" (")[0].split(" / ")[0] for t in TRIBES}
+    father = {}
+    for e in edges:
+        if e["k"] == "parent" and by.get(e["s"], {}).get("g") == "m":
+            father.setdefault(e["t"], e["s"])
+    count = defaultdict(int)
+    for p in persons:
+        count[p["lat"]] += 1
+    comp_lats = {p["lat"] for p in persons if p["comp"]}
+
+    def shadowed(p):
+        return count[p["lat"]] > 1 or (not p["comp"] and any(c.startswith(p["lat"] + " ") for c in comp_lats))
+
+    taken = set(count)
+    changed = 0
+    for p in persons:
+        if p["id"] == "nabi" or not shadowed(p):
+            continue
+        lat, new = p["lat"], None
+        f = by.get(father.get(p["id"]))
+        own = re.split(r" bin(?:ti)? ", lat)
+        if f and " (" not in f["lat"] and len(own) == 2:
+            links = f["lat"].split(" bin ")[:2]
+            # the father's own name must be the one already in the display name, and bring a new link
+            if len(links) == 2 and links[0] == own[1] and links[1] != links[0]:
+                cand = f"{own[0]} {'binti' if p['g'] == 'f' else 'bin'} {' bin '.join(links)}"
+                if cand not in taken:
+                    new = cand
+        if not new and p.get("tribe") and tname.get(p["tribe"]) and f"{lat} ({tname[p['tribe']]})" not in taken:
+            new = f"{lat} ({tname[p['tribe']]})"
+        if new:
+            p["lat"] = new
+            taken.add(new)
+            changed += 1
+    print("display names disambiguated:", changed)
 
 
 if __name__ == "__main__":

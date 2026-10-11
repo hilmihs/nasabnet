@@ -1,0 +1,112 @@
+[
+ {
+  "id": "n535",
+  "identitas": null,
+  "kabilah_tabaqat": null,
+  "nisbah_rihlah": {"t": "Tinggal di Bashrah.", "src": ["Turath rawi"]},
+  "laqab_profesi": null,
+  "peran": null,
+  "hilf": null,
+  "syaraf": null,
+  "catatan": null
+ },
+ {
+  "id": "n4964",
+  "identitas": {"lahir": null, "umur": null, "wafat": "Semasa hidup Rasulullah ﷺ menurut al-Waqidi, Ibnu 'Abdil Barr, dan al-Mizzi; Ibnu Hibban dan adz-Dzahabi menyebut di masa khilafah Umar bin al-Khaththab, dan Ibnu Hajar menilai pendapat ini yang sahih", "makam": null, "src": ["Turath rawi"]},
+  "kabilah_tabaqat": {"t": "Al-Anshari al-Ausi, dari Bani Umayyah bin Zaid bin Malik bin 'Auf bin 'Amr bin 'Auf; asalnya disebut dari Baliy bin 'Amr bin al-Haf bin Qudha'ah. Termasuk Ahlul 'Aqabah dan Ahlu Badar.", "src": ["Usdul Ghabah 4/303", "Turath rawi"]},
+  "nisbah_rihlah": null,
+  "laqab_profesi": {"t": "Kunyahnya Abu 'Abdirrahman.", "src": ["Turath rawi"]},
+  "peran": {"t": "Ikut Bai'at 'Aqabah: kedua 'Aqabah menurut al-Waqidi, 'Aqabah kedua bersama tujuh puluh orang menurut yang lain, atau ketiga 'Aqabah menurut Ibnu al-Qaddah. Dipersaudarakan Rasulullah ﷺ dengan Hathib bin Abi Balta'ah; ikut Badar, Uhud, Khandaq, dan seluruh peperangan bersama beliau. Meriwayatkan hadis tentang pujian Allah atas cara bersuci jamaah Masjid Quba'.", "src": ["Usdul Ghabah 4/303"]},
+  "hilf": {"t": "Menurut Ibnu Ishaq, ia berasal dari Baliy dan menjadi halif Bani Umayyah bin Zaid.", "src": ["Usdul Ghabah 4/303"]},
+  "syaraf": {"t": "Nasabnya diperselisihkan: Ibnul Kalbi menyambungkannya ke Bani Umayyah bin Zaid dari al-Aus (meski menyebut asalnya dari Baliy), sedangkan Ibnu Ishaq menyebutnya bin Shal'ajah dari Baliy, Qudha'ah. Nama kakeknya juga disebut 'Abis atau 'A'isy.", "src": ["Usdul Ghabah 4/303", "Turath rawi"]},
+  "catatan": null
+ },
+ {
+  "id": "n6851",
+  "identitas": {"lahir": null, "umur": null, "wafat": "74 H", "makam": null, "src": ["Turath rawi"]},
+  "kabilah_tabaqat": null,
+  "nisbah_rihlah": {"t": "Tinggal di Kufah.", "src": ["Turath rawi"]},
+  "laqab_profesi": {"t": "Kunyahnya Abu Juhaifah; dijuluki Wahb al-Khair.", "src": ["Turath rawi"]},
+  "peran": null,
+  "hilf": null,
+  "syaraf": {"t": "Nama ayahnya 'Abdullah; ada yang mengatakan Wahb.", "src": ["Turath rawi"]},
+  "catatan": null
+ },
+ {
+  "id": "n7142",
+  "identitas": null,
+  "kabilah_tabaqat": {"t": "Dari Bani Lihyan bin Hudzail.", "src": ["Usdul Ghabah 5/480"]},
+  "nisbah_rihlah": {"t": "Tinggal di Bashrah.", "src": ["Turath rawi"]},
+  "laqab_profesi": {"t": "Abu 'Izzah; ia lebih dikenal dengan kunyah ini.", "src": ["Usdul Ghabah 5/480", "Turath rawi"]},
+  "peran": null,
+  "hilf": null,
+  "syaraf": {"t": "Nama ayahnya diperselisihkan: 'Abd (yang lebih masyhur), 'Amr, atau 'Abdullah; ada pula yang menyebut Numair bin 'Amir bin Fahm bin Nufatsah.", "src": ["Usdul Ghabah 5/480", "Turath rawi"]},
+  "catatan": null
+ },
+ {
+  "id": "n7053",
+  "identitas": null,
+  "kabilah_tabaqat": {"t": "Al-Qurasyi al-Muharibi, dari Bani Muharib bin Fihr.", "src": ["al-Ishabah 6/508", "Usdul Ghabah 5/444"]},
+  "nisbah_rihlah": {"t": "Ikut penaklukan Mesir dan membuat kavling (ikhtithath) di sana; keturunannya ada di Mesir.", "src": ["al-Ishabah 6/508", "Usdul Ghabah 5/444"]},
+  "laqab_profesi": {"t": "Abu 'Abdirrahman al-Fihri; masyhur dengan kunyahnya.", "src": ["al-Ishabah 6/508", "Usdul Ghabah 5/444"]},
+  "peran": {"t": "Ikut Perang Hunain bersama Nabi ﷺ; meriwayatkan kisah perjalanan di hari yang sangat panas ketika ia mendatangi kemah beliau saat waktu berangkat tiba, lalu beliau bersabda, \"Beritahu Bilal.\" Ikut penaklukan Mesir.", "src": ["al-Ishabah 6/508", "Usdul Ghabah 5/444"]},
+  "hilf": null,
+  "syaraf": {"t": "Namanya diperselisihkan: Yazid bin Unais, al-Harits bin Hisyam, 'Ubaid, atau Kurz bin Tsa'labah.", "src": ["Turath rawi"]},
+  "catatan": {"t": "Tidak dikenal riwayatnya di Mesir; yang meriwayatkan darinya adalah Abu Hammam 'Abdullah bin Yasar (Sayyar).", "src": ["al-Ishabah 6/508", "Usdul Ghabah 5/444"]}
+ },
+ {
+  "id": "n2174",
+  "identitas": {"lahir": null, "umur": null, "wafat": "68 H di Kufah; ada yang mengatakan tidak lama setelah terbunuhnya al-Husain, ada pula yang menyebut 66, 65, atau 60 H", "makam": null, "src": ["Usdul Ghabah 2/342", "Turath rawi"]},
+  "kabilah_tabaqat": {"t": "Dari al-Khazraj: bin Malik bin al-Agharr bin Tsa'labah bin Ka'b bin al-Khazraj bin al-Harits bin al-Khazraj.", "src": ["Usdul Ghabah 2/342", "Turath rawi"]},
+  "nisbah_rihlah": {"t": "Tinggal di Kufah dan membangun rumah di sana di (perkampungan) Kindah; wafat di Kufah.", "src": ["Usdul Ghabah 2/342", "Turath rawi"]},
+  "laqab_profesi": {"t": "Dijuluki Dzul Udzun al-Wa'iyah (pemilik telinga yang menyimak). Kunyahnya diperselisihkan: Abu 'Amr (atau Abu 'Umar), Abu 'Amir, Abu Sa'd, Abu Sa'id, Abu Unaisah, Abu 'Umarah, Abu Hamzah, atau Abu Unais.", "src": ["Usdul Ghabah 2/342", "Turath rawi"]},
+  "peran": {"t": "Ikut tujuh belas peperangan bersama Rasulullah ﷺ; dianggap terlalu muda pada Perang Uhud, dan ada yang mengatakan perang pertamanya al-Muraisi'. Yatim dalam asuhan 'Abdullah bin Rawahah dan ikut bersamanya ke Mu'tah. Rasulullah ﷺ membacakan kepadanya ayat yang turun lalu bersabda, \"Allah telah membenarkanmu.\" Ikut Shiffin bersama Ali dan termasuk sahabat dekatnya; banyak meriwayatkan hadis.", "src": ["Usdul Ghabah 2/342"]},
+  "hilf": null,
+  "syaraf": null,
+  "catatan": null
+ },
+ {
+  "id": "n3019",
+  "identitas": null,
+  "kabilah_tabaqat": {"t": "Dari Bani Haritsah bin al-Harits bin 'Amr bin Malik bin al-Aus; termasuk Ahlul 'Aqabah.", "src": ["Usdul Ghabah 3/103", "Turath rawi"]},
+  "nisbah_rihlah": null,
+  "laqab_profesi": null,
+  "peran": {"t": "Ikut 'Aqabah kedua. Ibnu Ishaq menyebutnya ikut Badar, tetapi Abu 'Umar mengatakan ia tidak ikut Badar dan ikut Uhud serta peperangan sesudahnya. Meriwayatkan larangan Nabi ﷺ menyewakan ladang dengan imbalan hasil di tepi saluran air atau beberapa wasaq kurma dan gandum.", "src": ["Usdul Ghabah 3/103"]},
+  "hilf": null,
+  "syaraf": null,
+  "catatan": {"t": "Paman Rafi' bin Khadij dan ayah Usaid bin Zhuhair.", "src": ["Usdul Ghabah 3/103"]}
+ },
+ {
+  "id": "n2050",
+  "identitas": null,
+  "kabilah_tabaqat": {"t": "Dari Bani al-'Anbar bin 'Amr bin Tamim.", "src": ["Turath rawi"]},
+  "nisbah_rihlah": {"t": "Tinggal di pedalaman di jalur antara Tha'if dan Bashrah; juga dikaitkan dengan Bashrah dan ath-Thunub di jalan menuju Makkah.", "src": ["Usdul Ghabah 2/305", "Turath rawi"]},
+  "laqab_profesi": null,
+  "peran": {"t": "Datang sebagai utusan kepada Nabi ﷺ, dan beliau mengusap kepala, wajah, dan dadanya.", "src": ["Usdul Ghabah 2/305"]},
+  "hilf": null,
+  "syaraf": {"t": "Namanya juga dibaca Zunaib.", "src": ["Turath rawi"]},
+  "catatan": {"t": "Ada yang mengatakan ia salah seorang anak yang dimerdekakan oleh 'Aisyah.", "src": ["Usdul Ghabah 2/305"]}
+ },
+ {
+  "id": "n4350",
+  "identitas": {"lahir": null, "umur": null, "wafat": "75 H", "makam": null, "src": ["Turath rawi"]},
+  "kabilah_tabaqat": {"t": "As-Sulami.", "src": ["Usdul Ghabah 4/19"]},
+  "nisbah_rihlah": {"t": "Tinggal di Syam, di Hims.", "src": ["Usdul Ghabah 4/19", "Turath rawi"]},
+  "laqab_profesi": {"t": "Kunyahnya Abu Najih; ada yang mengatakan Abu al-Harits.", "src": ["Usdul Ghabah 4/19", "Turath rawi"]},
+  "peran": {"t": "Meriwayatkan hadis; di antara yang meriwayatkan darinya: 'Abdurrahman bin 'Amr, Jubair bin Nufair, dan Khalid bin Ma'dan.", "src": ["Usdul Ghabah 4/19"]},
+  "hilf": null,
+  "syaraf": null,
+  "catatan": null
+ },
+ {
+  "id": "n730",
+  "identitas": {"lahir": null, "umur": null, "wafat": "40 H, empat puluh malam setelah wafatnya Ali menurut Abu Nu'aim, dan dishalatkan oleh al-Hasan bin Ali; ada yang mengatakan 41 atau 42 H", "makam": null, "src": ["Usdul Ghabah 1/249", "Turath rawi"]},
+  "kabilah_tabaqat": {"t": "Datang bersama delegasi Kindah pada 10 H.", "src": ["Usdul Ghabah 1/249"]},
+  "nisbah_rihlah": {"t": "Yaman → Madinah bersama delegasi Kindah → kembali ke Yaman → Syam (Yarmuk) → Irak (al-Qadisiyah, al-Mada'in, Jalula', Nahawand) → menetap di Kufah dan membangun rumah di sana.", "src": ["Usdul Ghabah 1/249", "Turath rawi"]},
+  "laqab_profesi": {"t": "Al-Asy'ats adalah laqabnya; kunyahnya Abu Muhammad.", "src": ["Usdul Ghabah 1/249", "Turath rawi"]},
+  "peran": {"t": "Masuk Islam bersama enam puluh penunggang delegasi Kindah (10 H), lalu melamar Ummu Farwah, saudari Abu Bakar. Murtad setelah wafatnya Nabi ﷺ, ditawan pasukan Abu Bakar, lalu dibebaskan dan dinikahkan dengan saudarinya. Ikut Yarmuk (matanya tercungkil), al-Qadisiyah, al-Mada'in, Jalula', dan Nahawand; diangkat Utsman atas Adzerbaijan. Ikut Shiffin bersama Ali, termasuk yang mendesaknya menerima tahkim, dan menyaksikan dua hakam di Dumatul Jandal.", "src": ["Usdul Ghabah 1/249"]},
+  "hilf": null,
+  "syaraf": null,
+  "catatan": {"t": "Ayat \"Inna alladzina yasytaruna bi'ahdillah wa aimanihim tsamanan qalila\" disebut turun tentang sengketanya dengan seseorang soal sumur.", "src": ["Usdul Ghabah 1/249"]}
+ }
+]

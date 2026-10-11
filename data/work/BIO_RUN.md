@@ -30,6 +30,14 @@ Working dir: /data/Downloads/04_Dev-Projects/Nasab. Source batches: `data/work/b
 All non-excerpt input fields (`full`, `kunya`, `laqab`, `death`, `place`, `rank`) come from Turath's narrator
 database, so a point taken from any of them cites `"Turath rawi"` — that is correct, not an error.
 
+## Batches u1–u3, f1–f5, z4 — extra sources
+Batches f1–f5 and z4 may also carry `lain`: an excerpt from another book (Sirah Ibnu Hisyam, Tarikh ath-Thabari, Jamharah,
+Nasab Quraisy, al-Muhabbar), tagged like `[Sirah Ibnu Hisyam 1/320]`. Treat it like the others.
+
+## Batches u1, u2, u3 — third source
+Their records carry an extra excerpt `usd` from Usdul Ghabah (Ibnul Atsir), tagged like `[Usdul Ghabah 3/120]`.
+Treat it exactly like `isabah`/`ibnsad`: use only what it says about this person and cite its tag in `src`.
+
 ## Excerpt about a different person
 The excerpts were matched automatically; sometimes an excerpt belongs to another man/woman (different
 father, tribe or story). Never use such an excerpt, and never write remarks about the sources/matching into

@@ -1,0 +1,79 @@
+[
+{
+  "id": "s4694",
+  "identitas": null,
+  "kabilah_tabaqat": null,
+  "nisbah_rihlah": null,
+  "laqab_profesi": null,
+  "peran": {"t": "Masuk Islam dan berbaiat kepada Rasulullah ﷺ.", "src": ["Ibnu Sa'd 8/386"]},
+  "hilf": null,
+  "syaraf": {"t": "Nasab: Kabsyah, disebut juga Kubaisyah, binti Farwah bin 'Amir bin Wadzafah bin 'Ubaid bin 'Amir bin Bayadhah; ibunya seorang ummu walad.", "src": ["Ibnu Sa'd 8/386"]},
+  "catatan": {"t": "Menikah dengan 'Abdurrahman bin Sa'd bin Qais bin Malik bin al-'Ajlan bin 'Amir bin Bayadhah.", "src": ["Ibnu Sa'd 8/386"]}
+},
+{
+  "id": "n8390",
+  "identitas": null,
+  "kabilah_tabaqat": {"t": "Dari Hudzail (al-Hudzali); al-Baghawi, Muthayyin, Ibnu Hibban, Ibnus Sakan, dan lainnya menyebutnya di antara sahabat.", "src": ["al-Ishabah 7/192", "Usdul Ghabah 6/176"]},
+  "nisbah_rihlah": null,
+  "laqab_profesi": {"t": "Kunyah Abu Tharif.", "src": ["al-Ishabah 7/192", "Usdul Ghabah 6/176"]},
+  "peran": {"t": "Menyaksikan Nabi ﷺ mengepung Thaif; ia meriwayatkan bahwa beliau salat Maghrib bersama mereka begitu awal sehingga seseorang yang melepaskan anak panah masih dapat melihat tempat jatuhnya (dinilai sahih oleh Ibnu Khuzaimah; diriwayatkan Ahmad dan lainnya).", "src": ["al-Ishabah 7/192", "Usdul Ghabah 6/176"]},
+  "hilf": null,
+  "syaraf": {"t": "Namanya diperselisihkan: Kaisan (Ibnu Qani'), Sinan bin Salamah (Abu 'Umar), atau putra Nubaisyah al-Khair; Abu Hatim menyebutnya di antara yang tidak diketahui namanya.", "src": ["al-Ishabah 7/192", "Usdul Ghabah 6/176"]},
+  "catatan": null
+},
+{
+  "id": "n5329",
+  "identitas": {"lahir": null, "umur": "66 tahun", "wafat": "12 H di Madinah pada masa kekhalifahan Abu Bakar; ada yang mengatakan 11 H, ada pula yang menyebut di Ajnadain", "makam": null, "src": ["Usdul Ghabah 4/472", "Ibnu Sa'd 3/47", "Turath rawi"]},
+  "kabilah_tabaqat": {"t": "Dari Ghani bin Ya'shur, Qais 'Ailan (al-Ghanawi); Ahlu Badar, bersama putranya Martsad.", "src": ["al-Ishabah 7/305", "Usdul Ghabah 4/472", "Ibnu Sa'd 3/47"]},
+  "nisbah_rihlah": {"t": "Berhijrah ke Madinah bersama putranya, Martsad, dan singgah di rumah Kultsum bin al-Hidm (ada yang mengatakan Sa'd bin Khaitsamah). Disebutkan pula ia tinggal di Syam.", "src": ["al-Ishabah 7/305", "Ibnu Sa'd 3/47"]},
+  "laqab_profesi": {"t": "Kunyah Abu Martsad; seorang lelaki jangkung dan lebat rambut kepalanya.", "src": ["al-Ishabah 7/305", "Ibnu Sa'd 3/47"]},
+  "peran": {"t": "Ikut Badar, Uhud, Khandaq, dan seluruh peperangan bersama Rasulullah ﷺ. Nabi ﷺ mempersaudarakannya dengan 'Ubadah bin ash-Shamit. Ia meriwayatkan sabda Nabi ﷺ: \"Janganlah kalian duduk di atas kuburan dan jangan salat menghadapnya\" (riwayat Muslim melalui Watsilah bin al-Asqa').", "src": ["al-Ishabah 7/305", "Usdul Ghabah 4/472", "Ibnu Sa'd 3/47"]},
+  "hilf": {"t": "Halif Hamzah bin 'Abdil Muththalib, sekaligus sebayanya; putranya, Martsad, juga halif Hamzah.", "src": ["al-Ishabah 7/305", "Usdul Ghabah 4/472", "Ibnu Sa'd 3/47"]},
+  "syaraf": {"t": "Namanya Kannaz bin al-Hushain (yang masyhur), ada yang mengatakan Hushain bin Kannaz, Ibnu Hishn, atau Aiman. Silsilahnya berbeda: Ibnu Ishaq menyebut bin Yarbu' bin 'Amr bin Yarbu' bin Kharasyah bin Sa'd bin Tharif bin Jallan bin Ghanm bin Ghani; Ibnul Kalbi dan Ibnu Sa'd menyebut bin Yarbu' bin Tharif bin Kharasyah bin 'Ubaid bin Sa'd bin 'Auf bin Ka'b bin Jallan bin Ghanm.", "src": ["al-Ishabah 7/305", "Usdul Ghabah 4/472", "Ibnu Sa'd 3/47"]},
+  "catatan": null
+},
+{
+  "id": "n5320",
+  "identitas": null,
+  "kabilah_tabaqat": {"t": "Dari Bani al-Mushthaliq, Khuza'ah (al-Khuza'i al-Mushthaliqi). Status sahabatnya diragukan: Ibnu Hajar menyebutnya tabi'in yang dikenal, sedangkan Abu 'Umar dan Abu Nu'aim menyatakan ia tidak sah sebagai sahabat dan hadis-hadisnya mursal; menurut Abu Nu'aim yang sahabat adalah ayahnya, 'Alqamah bin Najiyah.", "src": ["al-Ishabah 5/494", "Usdul Ghabah 4/466"]},
+  "nisbah_rihlah": {"t": "Kufah.", "src": ["Turath rawi"]},
+  "laqab_profesi": null,
+  "peran": {"t": "Putranya, al-Hadhrami, meriwayatkan darinya bahwa ia termasuk delegasi Bani al-Mushthaliq yang datang kepada Rasulullah ﷺ dalam perkara al-Walid bin 'Uqbah bin Abi Mu'aith, dan beliau bersabda: \"Pulanglah kalian tanpa ditahan\"; riwayat lain menjadikan kisah ini sebagai riwayat ayahnya, 'Alqamah bin Najiyah. Ia mendengar dari Ibnu Mas'ud; Jami' bin Syaddad juga meriwayatkan darinya.", "src": ["Usdul Ghabah 4/466"]},
+  "hilf": null,
+  "syaraf": {"t": "Nasab: Kultsum bin 'Alqamah bin Najiyah bin al-Harits bin al-Mushthaliq; ada yang menyebutnya Kultsum bin al-Mushthaliq, Kultsum bin al-Aqmar, atau Kultsum bin 'Amir bin al-Harits bin Abi Dhirar.", "src": ["al-Ishabah 5/494", "Turath rawi"]},
+  "catatan": null
+},
+{
+  "id": "n1776",
+  "identitas": null,
+  "kabilah_tabaqat": {"t": "Mendapati masa jahiliah (mukhadram); status sahabatnya diperselisihkan.", "src": ["al-Ishabah 2/223", "Turath rawi"]},
+  "nisbah_rihlah": {"t": "Madinah.", "src": ["Turath rawi"]},
+  "laqab_profesi": {"t": "Kunyah Abu Muslim; dikenal sebagai Shahib al-Maqshurah.", "src": ["al-Ishabah 2/223", "Turath rawi"]},
+  "peran": {"t": "Meriwayatkan dari Nabi ﷺ: \"Tidak ada wudu kecuali karena suara atau angin\" (riwayat Ibnu Majah melalui putranya, as-Sa'ib bin Khabbab). Muslim meriwayatkan melalui 'Amir bin Sa'd bin Abi Waqqash darinya, dari 'A'isyah dan Abu Hurairah, tentang mengiringi jenazah.", "src": ["al-Ishabah 2/223"]},
+  "hilf": {"t": "Maula Fathimah binti 'Utbah bin Rabi'ah.", "src": ["al-Ishabah 2/223"]},
+  "syaraf": null,
+  "catatan": {"t": "Anak-anaknya juga dikenal sebagai Ashhab al-Maqshurah, di antaranya as-Sa'ib bin Khabbab.", "src": ["al-Ishabah 2/223"]}
+},
+{
+  "id": "n11386",
+  "identitas": null,
+  "kabilah_tabaqat": {"t": "Al-Anshariyyah; istri Ka'b bin Malik, penyair Nabi ﷺ.", "src": ["al-Ishabah 8/124", "Usdul Ghabah 7/100"]},
+  "nisbah_rihlah": null,
+  "laqab_profesi": null,
+  "peran": {"t": "Ia datang kepada Rasulullah ﷺ membawa perhiasannya untuk disedekahkan; beliau bersabda: \"Tidak boleh bagi seorang wanita bertindak atas hartanya kecuali dengan izin suaminya. Apakah engkau sudah meminta izin Ka'b?\" Ia menjawab sudah; Nabi ﷺ mengonfirmasi kepada Ka'b, lalu menerima sedekahnya. Sanad hadis ini lemah.", "src": ["al-Ishabah 8/124", "Usdul Ghabah 7/100"]},
+  "hilf": null,
+  "syaraf": {"t": "Namanya Khairah, ada yang mengejanya Hairah.", "src": ["al-Ishabah 8/124", "Turath rawi"]},
+  "catatan": null
+},
+{
+  "id": "n11419",
+  "identitas": null,
+  "kabilah_tabaqat": {"t": "Al-Anshariyyah; bibi (dari pihak ibu) Abu Umamah bin Sahl bin Hunaif.", "src": ["al-Ishabah 8/238", "Usdul Ghabah 7/411"]},
+  "nisbah_rihlah": null,
+  "laqab_profesi": null,
+  "peran": {"t": "Ia berkata bahwa Rasulullah ﷺ membacakan kepada mereka ayat rajam: \"Laki-laki tua dan perempuan tua apabila berzina, rajamlah keduanya, karena kenikmatan yang telah mereka tunaikan.\" Keponakannya, Abu Umamah, meriwayatkan darinya.", "src": ["al-Ishabah 8/238", "Usdul Ghabah 7/411"]},
+  "hilf": null,
+  "syaraf": {"t": "Namanya al-'Ajma'.", "src": ["al-Ishabah 8/238"]},
+  "catatan": null
+}
+]

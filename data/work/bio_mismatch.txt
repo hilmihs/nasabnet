@@ -86,3 +86,28 @@ n1346	39	isabah	kunya Abu ad-Darda' vs Abu al-Ward
 n5309	39	isabah	excerpt only guesses identity
 n849	40	isabah	al-Fihri Abu Abd ar-Rahman, likely other person
 n520	39	isabah	heading only (Amr bin Bakr)
+n15143	u1	usd	at-Tujibi; correct entry is al-Muzani (Usdul Ghabah #2719) -> find_6
+n6527	u2	data	Turath mixes Nusaibah binti Ka'b (Ummu Umarah) with Nusaibah binti al-Harits (Ummu Athiyyah, Bashrah, d.~70 H)
+n359	u2	isabah	as-Sulami heading vs al-Aslami
+n11054	u2	data	same person as n6489 (Najiyah bin Jundub) — duplicate node
+n7273	u2	data	Muslim bin Ubaidillah vs n4205 Ubaidullah bin Muslim — maybe one person
+n10959	u2	turath	place Syam / death Hunain conflict with death at ar-Raji'
+n6569	u3	usd	an-Nu'man bin Zaid (captured after Badar) vs Turath d. 91-100 H
+s990	f1	data	Abu Hushain: books say as-Sulami, dataset tribe Asyja'
+s1016	f1	data	Aslam bin Afsha is the tribe's eponymous ancestor, not a companion (comp flag)
+n5142	f1	data	al-Qasim bin Abdurrahman is a tabi'i
+n11430	f2	data	'Azwaj an-Nabi' group label, not a person — remove from persons
+n11444	f2	data	'some daughters of the Prophet' group label, not a person
+n5041	f2	data	Umm Syarik tribe Hawazin -> Quraisy (Banu Amir bin Lu'ay); al-Amiriyyah mis-mapped
+n9827	f2	data	Basyir al-Harithi al-Ka'bi tribe Khuza'ah -> Madzhij (Banu al-Harith bin Ka'b)
+n5070	f2	data	full nasab typo جندج/جندح and repeated link
+n1896	f2	data	Daylam al-Himyari vs Fairuz ad-Daylami (n5125) partly one person in books
+n5080	f2	data	Farwah bin Mujalid tabi'i (doubtful companion)
+n5320	f2	data	Kultsum bin Alqamah tabi'i (doubtful companion)
+n1835	f3	data	Abu Aqrab tribe Bakr bin Wa'il -> Kinanah (Bani Uraij bin Bakr bin Abd Manat)
+n2003	f3	data	Abu Amrah name 'Rasyid' belongs to Abu Uqbah (n2004); books: Basyir/Bisyr or Tsa'labah
+n6101	f3	data	name Mas'ud bin Hubairah -> Mas'ud bin Hunaidah; kunya Abu Hunaidah wrong
+n7270	f3	data	record merges Mujibah al-Bahiliyyah and her father/uncle (the companion)
+n10729	f3	data	Qais al-Kilabi: Ibnu Hajar says companionship is a mistake
+n6601	f3	data	Namlah bin Abi Namlah tabi'i
+n6579	f3	data	Nu'aim bin Abi Hind tabi'i

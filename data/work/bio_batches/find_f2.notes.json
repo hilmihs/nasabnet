@@ -1,0 +1,19 @@
+{
+ "not_found": {
+  "n11430": "أزواج النبي صلى الله عليه وسلم: not an individual — a collective narrator label ('the Prophet's wives'); searched 'ازواج النبي' in all books — only generic mentions, no biographical entry possible. Dataset artifact.",
+  "n11444": "بعض بنات النبي صلى الله عليه وسلم: not an individual — collective/anonymous narrator label ('one of the Prophet's daughters'); no single entry can be attributed. Dataset artifact.",
+  "n139": "ابن أخي زينب الثقفية: searched '(ابن|بن) (اخي|اخت) زينب' in all books — no entry of his own; only mentioned inside Isabah 4/509 (عمرو بن الحارث بن أبي ضرار, where Ibn al-Qattan discusses 'عمرو بن الحارث ابن أخي زينب') and Usd 7/125 (زينب الأنصارية) as a link in the isnad; identity (whether he is 'Amr bin al-Harith or someone else) unresolved"
+ },
+ "skipped": {},
+ "notes": {
+  "s4692": "Isabah 8/88 no. 11057 'حليمة بنت عروة بن مسعود الثقفي' is the Thaqafi namesake, not the Bayadi (Khazraji) woman of the record — used Ibn Sa'd 8/385 only",
+  "s4694": "Isabah 8/295 no. 11672 / Usd 7/241 no. 7240 'كبشة بنت فروة بن عمرو' (Bayada, Ibn Habib's list) — grandfather 'Amr vs record/Ibn Sa'd 'Amir bin Wadhfa; Ibn Sa'd lists a separate daughter of Farwa bin 'Amr bin Wadhfa (Umm Shurahbil), so possibly a different Farwa — used Ibn Sa'd 8/386 only",
+  "n1776": "Usd 2/150 no. 1408 'خباب أبو السائب' (Hijazi, son al-Sa'ib) — kunya differs from record's Abu Muslim and Usd does not identify him with the mawla of Fatima bint 'Utba; used Isabah 2/223 no. 2221 only",
+  "n150": "Usd 6/336 no. 6378 is spelled 'ابن عائش الجهني' (record: ابن عابس); same Mu'awwidhatayn hadith via Muhammad bin Ibrahim from Abu 'Abdullah, which al-Nasa'i transmits as 'ابن عابس' — accepted as the same person; Ibn Sa'd 2/212 only quotes the hadith (no entry)",
+  "n7429": "Usd 7/74 no. 6863 names her 'حواء بنت زيد بن السكن' (Ashhali, Madaniyya, grandmother of 'Amr bin Mu'adh) while Isabah 8/90 no. 11069 has 'حواء بنت يزيد بن السكن' — both kept; Isabah 11082 (حواء جدة عمرو بن معاذ) not used",
+  "n11419": "Isabah 8/238 no. 11473 names the aunt al-'Ajma' al-Ansariyya (same hadith/chain as Usd 7/411 no. 7667 'خالة أبي أمامة بن سهل بن حنيف') — kept",
+  "n1896": "Daylam al-Himyari (n1896) and Fairuz al-Daylami (n5125) are two records that the books partly conflate; Isabah keeps them apart (2415 vs 7025) and was followed. Ibn Sa'd 5/533 (Fairuz entry, which also cites 'ديلم الحميري') given only to n5125",
+  "n5080": "Farwah bin Mujalid: Isabah 5/301 no. 7051 calls him a Tabi'i with mursal hadith (identity certain, companionship doubtful)",
+  "n5320": "Kulthum bin 'Alqama: Isabah 5/494 no. 7542 (section 4) and Usd 4/466 say no companionship, hadith mursal (identity certain, companionship doubtful)"
+ }
+}
