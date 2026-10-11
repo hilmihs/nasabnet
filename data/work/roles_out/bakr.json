@@ -1,0 +1,19 @@
+{
+  "id": "bakr",
+  "lokasi": {"t": "Jazirah Arab timur dan utara, termasuk al-Yamamah dan tepi Irak", "status": "umum"},
+  "militer": [
+    {"t": "Mengalahkan pasukan Kisra dalam Perang Dzi Qar; Nabi ﷺ menyebutnya hari pertama bangsa Arab menang atas Persia", "src": ["Tarikh ath-Thabari 2/209", "Tarikh ath-Thabari 2/193"], "quote": ["فصبحتهم بكر بن وائل", "هذا أول يوم انتصف العرب من العجم"], "status": "rewritten"},
+    {"t": "al-Mutsanna bin Haritsah asy-Syaibani meminta Abu Bakar mengangkatnya memimpin kaumnya melawan Persia, lalu menyerang wilayah Kaskar dan hilir Efrat sebelum Khalid tiba di Irak", "src": ["Tarikh ath-Thabari 3/344", "Tarikh ath-Thabari 3/344"], "quote": ["أمرني على من قبلي من قومي", "يغير بناحية كسكر مرة"], "status": "rewritten"},
+    {"t": "Bani Hanifah mengikuti Musailimah dan dikalahkan dalam Perang Yamamah", "src": ["Tarikh ath-Thabari 3/294"], "quote": ["وانحازت بنو حنيفة تبعهم المسلمون يقتلونهم"], "status": "ok"}
+  ],
+  "diplomasi": [
+    {"t": "Delegasi Bakr bin Wa'il datang kepada Nabi ﷺ; di antaranya Basyir bin al-Khashashiyah", "src": ["Ibnu Sa'd 1/315"], "quote": ["وقدم وفد بكر بن وائل على رسول الله"], "status": "new"}
+  ],
+  "ekonomi": [
+    {"t": "Makkah bergantung pada bahan makanan dari al-Yamamah; Tsumamah bin Utsal (Bani Hanifah) menghentikan pasokannya ke Makkah setelah masuk Islam", "src": ["Sirah Ibnu Hisyam 2/639", "Sirah Ibnu Hisyam 2/639"], "quote": ["دعوه فإنكم تحتاجون إلى اليمامة لطعامكم", "لا تصل إليكم حبة من اليمامة"], "status": "rewritten"}
+  ],
+  "sosial": [
+    {"t": "Dalam Perang Basus, Bakr bin Wa'il bersatu di bawah Hammam bin Murrah; saudaranya, Jassas, adalah pembunuh Kulaib dari Taghlib", "src": ["al-Muhabbar, hlm. 254", "Jamharat Ansab al-'Arab, hlm. 324"], "quote": ["بن مرة في حرب البسوس", "قاتل كليب التغلبى"], "status": "rewritten"}
+  ],
+  "dropped": []
+}

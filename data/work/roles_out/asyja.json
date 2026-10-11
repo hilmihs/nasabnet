@@ -1,0 +1,15 @@
+{
+  "id": "asyja",
+  "lokasi": {"t": "Dekat Madinah, di antara Madinah dan Khaibar (sekitar Asymadzan, bersama Juhainah); Asyja' menyebut diri kaum yang paling dekat tempat tinggalnya dengan Nabi ﷺ", "src": ["Sirah Ibnu Hisyam 1/126", "Ibnu Sa'd 1/306"], "quote": ["جبلان بين المدينة وخيبر تنزلهما جهينة وأشجع", "لا نعلم أحدًا من قومنا أقرب دارًا منك منا"], "status": "rewritten"},
+  "militer": [
+    {"t": "400 orang Asyja' di bawah Mas'ud bin Rukhailah ikut koalisi Ahzab; kemudian Asyja' datang berdamai dengan Nabi ﷺ dan masuk Islam", "src": ["Ibnu Sa'd 2/66", "Ibnu Sa'd 1/306"], "quote": ["وخرجت أشجع وهم أربعمائة يقودهم مسعود بن رخيلة", "فوادعهم ثم أسلموا بعد ذلك"], "status": "rewritten"}
+  ],
+  "diplomasi": [
+    {"t": "Nu'aim bin Mas'ud al-Asyja'i memecah koalisi Ahzab dengan siasat pada Perang Khandaq", "src": ["Ibnu Sa'd 2/73", "Sirah Ibnu Hisyam 2/231"], "quote": ["فخذل بين الناس فانطلق الأحزاب منهزمين", "إن الذي حدثكم نعيم بن مسعود لحق"], "status": "ok"}
+  ],
+  "ekonomi": [],
+  "sosial": [
+    {"t": "Auf bin Malik al-Asyja'i, sahabat perawi hadits", "src": ["Usdul Ghabah 4/300"], "quote": ["روى عنه من الصحابة: أبو أيوب الأنصاري، وأبو هريرة"], "status": "ok"}
+  ],
+  "dropped": []
+}

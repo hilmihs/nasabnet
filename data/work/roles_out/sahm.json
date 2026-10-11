@@ -1,0 +1,20 @@
+{
+  "id": "sahm",
+  "lokasi": {"t": "Makkah (Hijaz)", "status": "umum"},
+  "militer": [
+    {"t": "Amr bin al-'Ash memimpin sariyah Dzatus Salasil (Jumadil Akhir 8 H)", "src": ["Ibnu Sa'd 2/131"], "quote": ["سرية عمرو بن العاص إلى ذات السلاسل وهي وراء وادي القرى"], "status": "rewritten"},
+    {"t": "Atas perintah Umar, Amr bin al-'Ash membawa pasukannya ke Mesir dan menaklukkan Bab Alyun (20 H), lalu Iskandariyah", "src": ["Tarikh ath-Thabari 4/104", "Tarikh ath-Thabari 4/105"], "quote": ["كتب إلى عمرو بن العاص أن يسير الى مصر في جنده، فخرج حتى فتح باب اليون في سنة عشرين", "كان في جند عمرو بن العاص حين افتتح مصر والإسكندرية"], "status": "rewritten"}
+  ],
+  "diplomasi": [
+    {"t": "Sebelum masuk Islam, Amr bin al-'Ash diutus Quraisy kepada an-Najasyi untuk meminta pemulangan Muhajirin Habasyah", "src": ["Sirah Ibnu Hisyam 1/334"], "quote": ["ثم بعثوا بذلك عبد الله بن أبي ربيعة، وعمرو بن العاص"], "status": "ok"},
+    {"t": "Amr bin al-'Ash menjadi hakam pihak Mu'awiyah dalam tahkim setelah Shiffin", "src": ["Ibnu Sa'd 3/32"], "quote": ["وحكموا الحكمين فحكم علي أبا موسى الأشعري، وحكم معاوية عمرو بن العاص"], "status": "ok"}
+  ],
+  "ekonomi": [
+    {"t": "Pada masa jahiliah, al-Harits bin Qais as-Sahmi memegang hukumah dan harta yang dipersembahkan untuk berhala-berhala", "src": ["Usdul Ghabah 2/631"], "quote": ["وإليه كانت الحكومة والأموال التي يسمونها لآلهتهم"], "status": "new"},
+    {"t": "Amr bin al-'Ash memegang kharaj Mesir hingga dicopot dari urusan itu oleh Utsman", "src": ["Tarikh ath-Thabari 4/256"], "quote": ["نزع عثمان عمرو بن العاص عن خراج مصر"], "status": "new"}
+  ],
+  "sosial": [
+    {"t": "Abdullah bin Amr bin al-'Ash menulis hadits dalam ash-Shahifah ash-Shadiqah", "src": ["Ibnu Sa'd 4/262"], "quote": ["فأذن لي فكتبته. فكان عبد الله يسمي صحيفته تلك الصادقة"], "status": "ok"}
+  ],
+  "dropped": []
+}

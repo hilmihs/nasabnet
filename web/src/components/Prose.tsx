@@ -214,13 +214,20 @@ export function Accordion({ title, count, icon = 'book', children }: { title: st
 export function TribeRoles({ t, wilayah }: { t?: TribeProfile; wilayah?: Point | null }) {
   const keys = Object.keys(ROLE_LABEL) as RoleKey[]
   // wilayah bullets that only repeat the short location label are dropped
-  const seen = (t?.lokasi ?? '').toLowerCase()
+  const seen = (t?.lokasi?.t ?? '').toLowerCase()
   const extra = wilayah?.t ? toBullets(wilayah.t).filter((x) => !seen.includes(x.toLowerCase())) : []
   return (
     <div className="space-y-4">
       <Bullets>
         <Li label="Lokasi">
-          {t?.lokasi ? <Rich text={t.lokasi} /> : <Missing />}
+          {t?.lokasi ? (
+            <>
+              <Rich text={t.lokasi.t} />
+              <SrcChips src={t.lokasi.src} basis={t.lokasi.basis} />
+            </>
+          ) : (
+            <Missing />
+          )}
         </Li>
         {extra.map((x, i) => (
           <Li key={i}>
@@ -229,7 +236,6 @@ export function TribeRoles({ t, wilayah }: { t?: TribeProfile; wilayah?: Point |
           </Li>
         ))}
       </Bullets>
-      <p className="text-xs text-tinta-soft">Lokasi & peran strategis: ringkasan umum, belum bersitasi halaman kitab.</p>
       <div className="grid gap-3 sm:grid-cols-2">
         {keys.map((k) => (
           <div key={k} className="rounded-xl border border-krem-200 bg-krem-50 p-3.5">
@@ -239,7 +245,8 @@ export function TribeRoles({ t, wilayah }: { t?: TribeProfile; wilayah?: Point |
                 <Bullets>
                   {t.peran[k]!.map((x, i) => (
                     <Li key={i}>
-                      <Rich text={x} />
+                      <Rich text={x.t} />
+                      <SrcChips src={x.src} basis={x.basis} />
                     </Li>
                   ))}
                 </Bullets>

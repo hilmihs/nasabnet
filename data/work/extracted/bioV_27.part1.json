@@ -1,0 +1,330 @@
+[
+ {
+  "id": "n4141",
+  "identitas": {
+   "lahir": null,
+   "umur": null,
+   "wafat": "Pada masa kekhalifahan Abdul Malik bin Marwan",
+   "makam": null,
+   "src": [
+    "Turath rawi"
+   ]
+  },
+  "kabilah_tabaqat": {
+   "t": "Bernisbah al-Asy'ari.",
+   "src": [
+    "al-Ishabah 4/216"
+   ]
+  },
+  "nisbah_rihlah": {
+   "t": "Syam.",
+   "src": [
+    "Turath rawi"
+   ]
+  },
+  "laqab_profesi": {
+   "t": "Kunyahnya Abu 'Amir.",
+   "src": [
+    "Turath rawi"
+   ]
+  },
+  "peran": null,
+  "hilf": null,
+  "syaraf": {
+   "t": "Nama ayahnya diperselisihkan: Hani'; ada yang mengatakan Wahb, ada pula yang menyebut namanya 'Ubaid bin Wahb.",
+   "src": [
+    "Turath rawi"
+   ]
+  },
+  "catatan": null
+ },
+ {
+  "id": "n3629",
+  "identitas": null,
+  "kabilah_tabaqat": {
+   "t": "Bani Makhzum (keturunan 'Umar bin Makhzum); status sahabatnya diperselisihkan.",
+   "src": [
+    "Turath rawi"
+   ]
+  },
+  "nisbah_rihlah": null,
+  "laqab_profesi": null,
+  "peran": null,
+  "hilf": null,
+  "syaraf": null,
+  "catatan": {
+   "t": "Haditsnya tentang Nabi ﷺ ketika melihat Abu Bakar dan Umar dikeluarkan at-Tirmidzi melalui 'Abdul 'Aziz bin al-Muththalib bin Hanthab, dari ayahnya, dari kakeknya Abdullah bin Hanthab.",
+   "src": [
+    "al-Ishabah 4/56"
+   ]
+  }
+ },
+ {
+  "id": "n3964",
+  "identitas": {
+   "lahir": "4 H (menurut Ibnu Mandah)",
+   "umur": null,
+   "wafat": "Pada masa kekhalifahan Mu'awiyah",
+   "makam": null,
+   "src": [
+    "al-Ishabah 4/217",
+    "Turath rawi"
+   ]
+  },
+  "kabilah_tabaqat": {
+   "t": "Bani Taim bin Murrah dari Quraisy; termasuk sahabat kecil (shighar ash-shahabah); ia dan ayahnya sama-sama sahabat.",
+   "src": [
+    "al-Ishabah 4/217",
+    "Turath rawi"
+   ]
+  },
+  "nisbah_rihlah": {
+   "t": "Tinggal di Madinah.",
+   "src": [
+    "al-Ishabah 4/217",
+    "Turath rawi"
+   ]
+  },
+  "laqab_profesi": null,
+  "peran": {
+   "t": "Sewaktu kecil dibawa ibunya, Zainab binti Humaid, kepada Rasulullah ﷺ untuk dibaiat; Nabi ﷺ bersabda \"Ia masih kecil\", lalu mengusap kepalanya dan mendoakannya. Haditsnya dikeluarkan al-Bukhari dan Abu Dawud.",
+   "src": [
+    "al-Ishabah 4/217"
+   ]
+  },
+  "hilf": null,
+  "syaraf": null,
+  "catatan": {
+   "t": "Ia biasa berkurban dengan seekor kambing untuk seluruh keluarganya; ketika ia membeli makanan di pasar, Ibnu Umar dan Ibnu az-Zubair meminta diikutsertakan karena Nabi ﷺ telah mendoakan keberkahan baginya.",
+   "src": [
+    "al-Ishabah 4/217"
+   ]
+  }
+ },
+ {
+  "id": "n3862",
+  "identitas": {
+   "lahir": null,
+   "umur": null,
+   "wafat": "97 H atau 98 H; ada yang mengatakan 89 H",
+   "makam": null,
+   "src": [
+    "Turath rawi"
+   ]
+  },
+  "kabilah_tabaqat": {
+   "t": "Dikatakan memiliki ru'yah (pernah melihat Nabi ﷺ).",
+   "src": [
+    "Turath rawi"
+   ]
+  },
+  "nisbah_rihlah": null,
+  "laqab_profesi": {
+   "t": "Kunyahnya Abu Fadhalah.",
+   "src": [
+    "Turath rawi"
+   ]
+  },
+  "peran": null,
+  "hilf": null,
+  "syaraf": null,
+  "catatan": null
+ },
+ {
+  "id": "n3878",
+  "identitas": null,
+  "kabilah_tabaqat": {
+   "t": "Anshar; status sahabatnya diperselisihkan.",
+   "src": [
+    "al-Ishabah 4/334",
+    "Turath rawi"
+   ]
+  },
+  "nisbah_rihlah": null,
+  "laqab_profesi": {
+   "t": "Kunyahnya Abu Salamah.",
+   "src": [
+    "Turath rawi"
+   ]
+  },
+  "peran": null,
+  "hilf": null,
+  "syaraf": {
+   "t": "Namanya diperselisihkan: Abdullah atau 'Ubaidullah bin Muhshin.",
+   "src": [
+    "al-Ishabah 4/334",
+    "Turath rawi"
+   ]
+  },
+  "catatan": {
+   "t": "Putranya, Salamah, meriwayatkan darinya hadits \"Barang siapa di pagi hari merasa aman di tempatnya, sehat badannya, dan memiliki makanan untuk harinya, seakan-akan dunia telah dikumpulkan untuknya\" (at-Tirmidzi).",
+   "src": [
+    "al-Ishabah 4/334"
+   ]
+  }
+ },
+ {
+  "id": "s954",
+  "identitas": null,
+  "kabilah_tabaqat": null,
+  "nisbah_rihlah": null,
+  "laqab_profesi": null,
+  "peran": null,
+  "hilf": null,
+  "syaraf": null,
+  "catatan": null
+ },
+ {
+  "id": "n3852",
+  "identitas": {
+   "lahir": null,
+   "umur": null,
+   "wafat": "56 H, gugur sebagai syahid di negeri Romawi (menurut Ibnu Yunus)",
+   "makam": null,
+   "src": [
+    "al-Ishabah 4/179",
+    "Turath rawi"
+   ]
+  },
+  "kabilah_tabaqat": null,
+  "nisbah_rihlah": {
+   "t": "Himsh (menjadi gubernurnya); gugur di negeri Romawi.",
+   "src": [
+    "al-Ishabah 4/179",
+    "Turath rawi"
+   ]
+  },
+  "laqab_profesi": null,
+  "peran": {
+   "t": "Ikut Perang Yarmuk; diutus Yazid bin Abi Sufyan membawa suratnya kepada Abu Bakar; menjadi amir di bawah Abu 'Ubaidah, yang mengangkatnya sebagai gubernur Himsh pada masa Umar; juga memimpin Himsh pada masa Mu'awiyah.",
+   "src": [
+    "al-Ishabah 4/179"
+   ]
+  },
+  "hilf": null,
+  "syaraf": {
+   "t": "al-Khathib menyebut nama ayahnya Qurrah.",
+   "src": [
+    "al-Ishabah 4/179"
+   ]
+  },
+  "catatan": {
+   "t": "Nama asalnya Syaithan, lalu diganti oleh Nabi ﷺ (riwayat Ahmad dengan sanad hasan).",
+   "src": [
+    "al-Ishabah 4/179"
+   ]
+  }
+ },
+ {
+  "id": "n3650",
+  "identitas": {
+   "lahir": null,
+   "umur": null,
+   "wafat": "Sekitar 90 H",
+   "makam": null,
+   "src": [
+    "Turath rawi"
+   ]
+  },
+  "kabilah_tabaqat": null,
+  "nisbah_rihlah": null,
+  "laqab_profesi": null,
+  "peran": null,
+  "hilf": null,
+  "syaraf": null,
+  "catatan": {
+   "t": "Diriwayatkan bahwa ia mengimami sahabat-sahabatnya dalam shalat sunnah di luar Ramadhan.",
+   "src": [
+    "al-Ishabah 4/68"
+   ]
+  }
+ },
+ {
+  "id": "n8064",
+  "identitas": {
+   "lahir": null,
+   "umur": "81 tahun",
+   "wafat": "71 H",
+   "makam": null,
+   "src": [
+    "al-Ishabah 4/48",
+    "Ibnu Sa'd 4/309",
+    "Turath rawi"
+   ]
+  },
+  "kabilah_tabaqat": {
+   "t": "Bani Aslam bin Afsha (al-Aslami).",
+   "src": [
+    "al-Ishabah 4/48",
+    "Ibnu Sa'd 4/309"
+   ]
+  },
+  "nisbah_rihlah": null,
+  "laqab_profesi": {
+   "t": "Kunyahnya Abu Muhammad.",
+   "src": [
+    "al-Ishabah 4/48",
+    "Ibnu Sa'd 4/309"
+   ]
+  },
+  "peran": {
+   "t": "Peristiwa pertama yang diikutinya bersama Rasulullah ﷺ adalah Hudaibiyah, lalu Khaibar dan peperangan sesudahnya; pernah ikut dalam pasukan berkuda Khalid bin al-Walid dan pernah diutus Rasulullah ﷺ dalam suatu tugas. Meriwayatkan dari Nabi ﷺ, Abu Bakar, dan Umar.",
+   "src": [
+    "al-Ishabah 4/48",
+    "Ibnu Sa'd 4/309"
+   ]
+  },
+  "hilf": null,
+  "syaraf": {
+   "t": "Nama ayahnya, Abu Hadrad, adalah Salamah bin 'Umair; ada yang mengatakan 'Ubaid, ada pula yang mengatakan Abdullah.",
+   "src": [
+    "al-Ishabah 4/48",
+    "Ibnu Sa'd 4/309"
+   ]
+  },
+  "catatan": {
+   "t": "Atas perintah Nabi ﷺ ia melunasi utang empat dirham kepada seorang Yahudi dengan menjual burdahnya; pernah meminta bantuan Nabi ﷺ untuk mahar istrinya sebesar dua ratus dirham.",
+   "src": [
+    "al-Ishabah 4/48",
+    "Ibnu Sa'd 4/309"
+   ]
+  }
+ },
+ {
+  "id": "n3702",
+  "identitas": {
+   "lahir": null,
+   "umur": null,
+   "wafat": "Pada masa kekhalifahan Mu'awiyah",
+   "makam": null,
+   "src": [
+    "al-Ishabah 4/105",
+    "Turath rawi"
+   ]
+  },
+  "kabilah_tabaqat": {
+   "t": "Muzainah (Muzainah bin 'Amr bin Udd bin Thabikhah, dari Mudhar).",
+   "src": [
+    "al-Ishabah 4/105",
+    "Turath rawi"
+   ]
+  },
+  "nisbah_rihlah": {
+   "t": "Memiliki rumah di Bashrah dan menetap di sana.",
+   "src": [
+    "al-Ishabah 4/105",
+    "Turath rawi"
+   ]
+  },
+  "laqab_profesi": null,
+  "peran": null,
+  "hilf": null,
+  "syaraf": null,
+  "catatan": {
+   "t": "Putranya 'Alqamah meriwayatkan darinya dua hadits (Abu Dawud dan at-Tirmidzi). Khalifah dan Abu Dawud membedakannya dari Abdullah ayah Bakr, sedangkan al-Bukhari dan Ibnu Hibban menjadikan 'Alqamah dan Bakr bersaudara.",
+   "src": [
+    "al-Ishabah 4/105"
+   ]
+  }
+ }
+]

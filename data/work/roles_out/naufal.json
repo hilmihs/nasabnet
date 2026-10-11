@@ -1,0 +1,19 @@
+{
+  "id": "naufal",
+  "lokasi": {"t": "Makkah (Hijaz)", "status": "umum"},
+  "militer": [
+    {"t": "Wahsyi, budak Jubair bin Muth'im, membunuh Hamzah pada Perang Uhud (dijanjikan merdeka sebagai balasan atas terbunuhnya Thu'aimah bin 'Adi di Badar)", "src": ["Sirah Ibnu Hisyam 2/61", "Sirah Ibnu Hisyam 2/122"], "quote": ["فإن أنت قتلت حمزة عم محمد بعمي طعيمة بن عدي، فأنت عتيق", "قتله وحشي، غلام جبير بن مطعم"], "status": "rewritten"}
+  ],
+  "diplomasi": [
+    {"t": "al-Muth'im bin 'Adi memberi jiwar (perlindungan) kepada Nabi ﷺ sepulang dari Tha'if", "src": ["Sirah Ibnu Hisyam 1/381"], "quote": ["فبعث إلى المطعم بن عدي فأجابه إلى ذلك، ثم تسلح المطعم وأهل بيته"], "status": "ok"},
+    {"t": "al-Muth'im termasuk tokoh yang bangkit membatalkan piagam boikot terhadap Bani Hasyim dan Bani al-Muththalib", "src": ["Sirah Ibnu Hisyam 1/376", "Sirah Ibnu Hisyam 1/380"], "quote": ["قال المطعم بن عدي: صدقتما وكذب من قال غير ذلك، نبرأ إلى الله منها", "ويذكر قيامه في نقض الصحيفة"], "status": "rewritten"},
+    {"t": "Jubair bin Muth'im datang ke Madinah mengurus tebusan tawanan Badar", "src": ["al-Ishabah 1/570"], "quote": ["وقدم على النبي ﷺ في فداء أسارى بدر"], "status": "rewritten"}
+  ],
+  "ekonomi": [
+    {"t": "Naufal bin Abdi Manaf mengambil perjanjian keamanan (ilaf) kafilah Quraisy dari para Kisra, sehingga mereka berdagang ke Irak dan Persia", "src": ["Tarikh ath-Thabari 2/252", "al-Muhabbar, hlm. 163"], "quote": ["وأخذ لهم نوفل حبلا من الأكاسرة، فاختلفوا بذلك السبب إلى العراق وأرض فارس", "وكان متجر (نوفل) إلى العراق فمات بموضع يقال له سلمان"], "status": "rewritten"}
+  ],
+  "sosial": [
+    {"t": "Jubair bin Muth'im dikenal sebagai ahli nasab Quraisy", "src": ["al-Ishabah 1/571", "Sirah Ibnu Hisyam 1/12"], "quote": ["وكان أنسب قريش لقريش والعرب قاطبة", "وكان جبير من أنسب قريش لقريش"], "status": "ok"}
+  ],
+  "dropped": []
+}

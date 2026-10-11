@@ -50,6 +50,13 @@ def clean_point(v):
     return None
 
 
+def role_point(v):
+    """Role bullet: plain string (old format, unsourced) or {t, src} / {t, basis: umum}."""
+    if isinstance(v, str):
+        return {"t": v.strip(), "basis": "umum"} if v.strip() else None
+    return clean_point({**v, "basis": v.get("basis") or ("sumber" if v.get("src") else "umum")})
+
+
 def main():
     data = json.loads((WEB / "nasabnet.json").read_text())
     pids = {p["id"] for p in data["persons"]}
@@ -91,8 +98,8 @@ def main():
             continue
         t = tribes.setdefault(tid, {})
         if r.get("lokasi"):
-            t["lokasi"] = r["lokasi"].strip()
-        peran = {k: [x.strip() for x in r.get(k) or [] if x.strip()] for k in ROLE_KEYS}
+            t["lokasi"] = role_point(r["lokasi"])
+        peran = {k: [p for p in map(role_point, r.get(k) or []) if p] for k in ROLE_KEYS}
         peran = {k: v for k, v in peran.items() if v}
         if peran:
             t["peran"] = peran

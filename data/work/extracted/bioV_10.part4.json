@@ -1,0 +1,401 @@
+[
+ {
+  "id": "s525",
+  "identitas": {
+   "lahir": null,
+   "umur": "41 tahun (30 tahun saat Badar); ada yang mengatakan 30 tahun saat wafat",
+   "wafat": "12 H, gugur syahid pada perang al-Yamamah di masa khalifah Abu Bakar",
+   "makam": null,
+   "src": [
+    "Ibnu Sa'd 3/404",
+    "al-Ishabah 4/193"
+   ]
+  },
+  "kabilah_tabaqat": {
+   "t": "Bani 'Amir bin Lu'ay dari Quraisy (al-Qurasyi al-'Amiri); muhajir Habasyah dan Ahlu Badar.",
+   "src": [
+    "al-Ishabah 4/193",
+    "Ibnu Sa'd 3/404"
+   ]
+  },
+  "nisbah_rihlah": {
+   "t": "Makkah → Habasyah (kedua hijrah menurut al-Waqidi; hijrah kedua saja bersama Ja'far menurut Ibnu Ishaq) → Madinah, singgah di rumah Kultsum bin al-Hidm.",
+   "src": [
+    "Ibnu Sa'd 3/404",
+    "al-Ishabah 4/193"
+   ]
+  },
+  "laqab_profesi": {
+   "t": "Kunyah Abu Muhammad.",
+   "src": [
+    "Ibnu Sa'd 3/404",
+    "al-Ishabah 4/193"
+   ]
+  },
+  "peran": {
+   "t": "Berhijrah ke Habasyah lalu ke Madinah; dipersaudarakan dengan Farwah bin 'Amr al-Bayadhi; ikut Badar, Uhud, Khandaq dan seluruh peperangan; gugur di al-Yamamah setelah berdoa agar tidak wafat sebelum setiap persendiannya terkena tebasan di jalan Allah.",
+   "src": [
+    "Ibnu Sa'd 3/404",
+    "al-Ishabah 4/193"
+   ]
+  },
+  "hilf": null,
+  "syaraf": {
+   "t": "Ibunya Bahnanah binti Shafwan bin Umayyah al-Kinaniyyah.",
+   "src": [
+    "Ibnu Sa'd 3/404",
+    "al-Ishabah 4/193"
+   ]
+  },
+  "catatan": {
+   "t": "Putranya Musahiq (ayah Naufal bin Musahiq); keturunannya masih ada di Madinah.",
+   "src": [
+    "Ibnu Sa'd 3/404"
+   ]
+  }
+ },
+ {
+  "id": "s784",
+  "identitas": null,
+  "kabilah_tabaqat": {
+   "t": "Asyja', dari Bani Duhman; termasuk Ahlu Badar.",
+   "src": [
+    "Ibnu Sa'd 3/578",
+    "al-Ishabah 4/56"
+   ]
+  },
+  "nisbah_rihlah": null,
+  "laqab_profesi": null,
+  "peran": {
+   "t": "Ikut Badar (disebut Ibnu Ishaq) dan Uhud.",
+   "src": [
+    "al-Ishabah 4/56",
+    "Ibnu Sa'd 3/578"
+   ]
+  },
+  "hilf": {
+   "t": "Halif Anshar.",
+   "src": [
+    "al-Ishabah 4/56"
+   ]
+  },
+  "syaraf": {
+   "t": "Nama dan perkaranya disepakati para perawi; dieja al-Humayyir (bentuk tashghir) menurut al-Umawi dari Ibnu Ishaq dan ditegaskan Ibnu Makula.",
+   "src": [
+    "Ibnu Sa'd 3/578",
+    "al-Ishabah 4/56"
+   ]
+  },
+  "catatan": {
+   "t": "Wafat tanpa keturunan.",
+   "src": [
+    "Ibnu Sa'd 3/578"
+   ]
+  }
+ },
+ {
+  "id": "s611",
+  "identitas": {
+   "lahir": null,
+   "umur": null,
+   "wafat": "Gugur syahid di Uhud",
+   "makam": null,
+   "src": [
+    "Ibnu Sa'd 3/479"
+   ]
+  },
+  "kabilah_tabaqat": {
+   "t": "Bani Tsa'labah bin 'Amr bin 'Auf menurut al-Waqidi; termasuk Ahlu Badar.",
+   "src": [
+    "Ibnu Sa'd 3/479"
+   ]
+  },
+  "nisbah_rihlah": null,
+  "laqab_profesi": {
+   "t": "Kunyah Abu Hannah; nama aslinya Malik bin 'Amr bin Tsabit.",
+   "src": [
+    "Ibnu Sa'd 3/479"
+   ]
+  },
+  "peran": {
+   "t": "Ikut perang Badar.",
+   "src": [
+    "Ibnu Sa'd 3/479"
+   ]
+  },
+  "hilf": null,
+  "syaraf": {
+   "t": "Nama dan nasabnya diperselisihkan: al-Waqidi menyebut Abu Hannah Malik bin 'Amr bin Tsabit bin Kulfah (namun ia tidak ditemukan di antara anak 'Amr bin Tsabit bin Kulfah dalam kitab nasab); Ibnu Ishaq dan Abu Ma'syar menyebut Abu Habbah tanpa nasab (al-Waqidi menolak adanya Badri berkunyah Abu Habbah); Ibnu 'Umarah menyebutnya Abu Hannah bin Tsabit bin an-Nu'man dari al-Burak, saudara Abu Dhayyah.",
+   "src": [
+    "Ibnu Sa'd 3/479"
+   ]
+  },
+  "catatan": {
+   "t": "Tidak meninggalkan keturunan.",
+   "src": [
+    "Ibnu Sa'd 3/479"
+   ]
+  }
+ },
+ {
+  "id": "s630",
+  "identitas": {
+   "lahir": null,
+   "umur": null,
+   "wafat": "Pada masa khalifah 'Utsman bin 'Affan",
+   "makam": null,
+   "src": [
+    "Ibnu Sa'd 3/490"
+   ]
+  },
+  "kabilah_tabaqat": {
+   "t": "Keturunan Ashram bin Zaid bin Tsa'labah bin Ghanm; termasuk Ahlu Badar.",
+   "src": [
+    "Ibnu Sa'd 3/490"
+   ]
+  },
+  "nisbah_rihlah": null,
+  "laqab_profesi": {
+   "t": "Dikenal dengan kunyah Abu Khuzaimah.",
+   "src": [
+    "Ibnu Sa'd 3/490"
+   ]
+  },
+  "peran": {
+   "t": "Ikut Badar, Uhud, Khandaq dan seluruh peperangan bersama Rasulullah ﷺ.",
+   "src": [
+    "Ibnu Sa'd 3/490"
+   ]
+  },
+  "hilf": null,
+  "syaraf": {
+   "t": "Ibunya 'Amrah binti Mas'ud bin Qais bin 'Amr bin Zaid.",
+   "src": [
+    "Ibnu Sa'd 3/490"
+   ]
+  },
+  "catatan": {
+   "t": "Tidak meninggalkan keturunan; seluruh keturunan Ashram bin Zaid telah punah.",
+   "src": [
+    "Ibnu Sa'd 3/490"
+   ]
+  }
+ },
+ {
+  "id": "s4822",
+  "identitas": null,
+  "kabilah_tabaqat": {
+   "t": "Bani Ghanm bin Malik bin an-Najjar; termasuk al-mubaya'at.",
+   "src": [
+    "Ibnu Sa'd 8/443",
+    "al-Ishabah 8/240"
+   ]
+  },
+  "nisbah_rihlah": null,
+  "laqab_profesi": null,
+  "peran": {
+   "t": "Masuk Islam dan berbaiat kepada Rasulullah ﷺ; menikah dengan al-Harits bin Rifa'ah dan melahirkan Mu'adz, Mu'awwidz dan 'Auf (masing-masing disebut Ibnu 'Afra'), yang semuanya ikut Badar.",
+   "src": [
+    "Ibnu Sa'd 8/443",
+    "al-Ishabah 8/240"
+   ]
+  },
+  "hilf": null,
+  "syaraf": {
+   "t": "Ibunya ar-Ru'at binti 'Adi dari Bani Malik bin an-Najjar. Menurut Ibnu Hajar ia memiliki keistimewaan unik: tujuh putranya semuanya ikut Badar bersama Nabi ﷺ.",
+   "src": [
+    "Ibnu Sa'd 8/443",
+    "al-Ishabah 8/240"
+   ]
+  },
+  "catatan": {
+   "t": "Setelah al-Harits, ia menikah dengan al-Bukair bin Yalil al-Laitsi dan melahirkan Iyas, 'Aqil, Khalid dan 'Amir, yang juga ikut Badar. Menurut Ibnu al-Kalbi Mu'adz dan Mu'awwidz terbunuh (di Badar), tetapi Ibnu al-Atsir tidak menyetujui bahwa Mu'adz terbunuh di Badar.",
+   "src": [
+    "al-Ishabah 8/240"
+   ]
+  }
+ },
+ {
+  "id": "s4522",
+  "identitas": null,
+  "kabilah_tabaqat": {
+   "t": "Anshar, dari keturunan Jusyam bin Haritsah; saudari Rafi' bin Khadij; termasuk al-mubaya'at.",
+   "src": [
+    "al-Ishabah 8/23",
+    "Turath rawi"
+   ]
+  },
+  "nisbah_rihlah": null,
+  "laqab_profesi": null,
+  "peran": {
+   "t": "Masuk Islam dan berbaiat kepada Rasulullah ﷺ; menikah dengan Usaid bin Zhuhair dan melahirkan Tsabit, Muhammad, Ummu Kultsum dan Ummu al-Hasan.",
+   "src": [
+    "al-Ishabah 8/23"
+   ]
+  },
+  "hilf": null,
+  "syaraf": {
+   "t": "Ibunya Halimah binti 'Urwah bin Mas'ud al-Bayadhiyyah.",
+   "src": [
+    "al-Ishabah 8/23"
+   ]
+  },
+  "catatan": null
+ },
+ {
+  "id": "n4813",
+  "identitas": {
+   "lahir": null,
+   "umur": null,
+   "wafat": "Setelah 50 H; menurut Abu Nu'aim (mengikuti Ibrahim bin al-Mundzir) pada masa khalifah 'Umar",
+   "makam": null,
+   "src": [
+    "al-Ishabah 4/511",
+    "Turath rawi"
+   ]
+  },
+  "kabilah_tabaqat": {
+   "t": "Al-Anshari, saudara 'Umarah bin Hazm; ikut Khandaq dan sesudahnya.",
+   "src": [
+    "al-Ishabah 4/511",
+    "Turath rawi"
+   ]
+  },
+  "nisbah_rihlah": {
+   "t": "Najran (Yaman), sebagai 'amil Nabi ﷺ.",
+   "src": [
+    "al-Ishabah 4/511",
+    "Turath rawi"
+   ]
+  },
+  "laqab_profesi": {
+   "t": "Kunyah Abu adh-Dhahhak, ada yang mengatakan Abu Muhammad; 'amil (gubernur) Najran.",
+   "src": [
+    "al-Ishabah 4/511",
+    "Turath rawi"
+   ]
+  },
+  "peran": {
+   "t": "Ikut Khandaq dan peperangan sesudahnya; diangkat Nabi ﷺ sebagai 'amil Najran dan menerima surat beliau berisi faraidh, zakat, diyat dan lainnya (diriwayatkan Abu Dawud, an-Nasa'i, Ibnu Hibban, ad-Darimi).",
+   "src": [
+    "al-Ishabah 4/511"
+   ]
+  },
+  "hilf": null,
+  "syaraf": null,
+  "catatan": {
+   "t": "Meriwayatkan kepada Mu'awiyah dan 'Amr bin al-'Ash hadits \"'Ammar akan dibunuh kelompok pembangkang\" (ath-Thabarani dan lainnya).",
+   "src": [
+    "al-Ishabah 4/511"
+   ]
+  }
+ },
+ {
+  "id": "s506",
+  "identitas": {
+   "lahir": null,
+   "umur": null,
+   "wafat": "Pada masa khalifah 'Utsman bin 'Affan",
+   "makam": null,
+   "src": [
+    "Ibnu Sa'd 3/385",
+    "al-Ishabah 4/523"
+   ]
+  },
+  "kabilah_tabaqat": {
+   "t": "Bani 'Adi bin Ka'b dari Quraisy; termasuk Muhajirin dan Ahlu Badar (disepakati).",
+   "src": [
+    "Ibnu Sa'd 3/385",
+    "al-Ishabah 4/523"
+   ]
+  },
+  "nisbah_rihlah": {
+   "t": "Makkah → hijrah ke Madinah bersama saudaranya 'Abdullah, singgah di rumah Rifa'ah bin 'Abd al-Mundzir, saudara Abu Lubabah.",
+   "src": [
+    "Ibnu Sa'd 3/385"
+   ]
+  },
+  "laqab_profesi": null,
+  "peran": {
+   "t": "Ikut sariyyah 'Abdullah bin Jahsy; ikut Badar (disepakati Musa bin 'Uqbah, Ibnu Ishaq, Abu Ma'syar dan al-Waqidi), Uhud, Khandaq dan seluruh peperangan.",
+   "src": [
+    "Ibnu Sa'd 3/385",
+    "al-Ishabah 4/523"
+   ]
+  },
+  "hilf": null,
+  "syaraf": {
+   "t": "Ibunya dari Bani Jumah: Aminah binti 'Abdullah bin 'Umair bin Uhaib menurut Ibnu Sa'd; Qudamah binti 'Abdullah menurut Khalifah. Ibnu Mandah keliru menganggapnya Anshar, dan dibantah Abu Nu'aim.",
+   "src": [
+    "Ibnu Sa'd 3/385",
+    "al-Ishabah 4/523"
+   ]
+  },
+  "catatan": {
+   "t": "Bertubuh tinggi dan berperut ramping; saat kelaparan dalam sariyyah Nakhlah, perutnya diikat dengan lempengan batu agar bisa berjalan.",
+   "src": [
+    "al-Ishabah 4/523"
+   ]
+  }
+ },
+ {
+  "id": "s4832",
+  "identitas": null,
+  "kabilah_tabaqat": {
+   "t": "Bani Ghanm bin Malik bin an-Najjar; saudari kandung 'Umarah, 'Amr dan Ma'mar bin Hazm; termasuk al-mubaya'at.",
+   "src": [
+    "Ibnu Sa'd 8/448",
+    "al-Ishabah 8/244"
+   ]
+  },
+  "nisbah_rihlah": null,
+  "laqab_profesi": null,
+  "peran": {
+   "t": "Masuk Islam dan berbaiat kepada Rasulullah ﷺ; menikah dengan Sa'd bin ar-Rabi' dari Bani al-Harits bin al-Khazraj.",
+   "src": [
+    "Ibnu Sa'd 8/448"
+   ]
+  },
+  "hilf": null,
+  "syaraf": {
+   "t": "Ibunya Khalidah binti Abi Anas bin Sinan dari Bani Sa'idah.",
+   "src": [
+    "Ibnu Sa'd 8/448",
+    "al-Ishabah 8/244"
+   ]
+  },
+  "catatan": null
+ },
+ {
+  "id": "s4629",
+  "identitas": null,
+  "kabilah_tabaqat": {
+   "t": "Bani Malik al-Agharr (Anshar); saudari kandung 'Abdullah bin Rawahah, Ahlu Badar; termasuk al-mubaya'at.",
+   "src": [
+    "Ibnu Sa'd 8/361",
+    "al-Ishabah 8/244"
+   ]
+  },
+  "nisbah_rihlah": null,
+  "laqab_profesi": null,
+  "peran": {
+   "t": "Masuk Islam dan berbaiat kepada Rasulullah ﷺ; menikah dengan Basyir bin Sa'd dan melahirkan an-Nu'man bin Basyir.",
+   "src": [
+    "Ibnu Sa'd 8/361"
+   ]
+  },
+  "hilf": null,
+  "syaraf": {
+   "t": "Ibunya Kabsyah binti Waqid dari Bani Ka'b bin al-Khazraj (keturunan 'Amr bin 'Amir yang dijuluki Ibnu al-Ithnabah).",
+   "src": [
+    "Ibnu Sa'd 8/361"
+   ]
+  },
+  "catatan": {
+   "t": "Ada yang mengatakan Qais bin al-Khathim menikahinya dan menggubah syair cinta tentangnya, membalas syair Hassan tentang saudari Qais.",
+   "src": [
+    "al-Ishabah 8/244"
+   ]
+  }
+ }
+]

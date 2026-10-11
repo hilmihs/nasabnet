@@ -1,0 +1,112 @@
+[
+ {
+  "id": "n1061",
+  "identitas": {"lahir": null, "umur": null, "wafat": "Antara 91 dan 100 H", "makam": null, "src": ["Turath rawi"]},
+  "kabilah_tabaqat": {"t": "Bernisbah al-Qurazhi; status shahabatnya diperselisihkan.", "src": ["al-Ishabah 1/522", "Turath rawi"]},
+  "nisbah_rihlah": null,
+  "laqab_profesi": {"t": "Kunyah Abu Malik atau Abu Ja'far, ada yang mengatakan Abu Yahya.", "src": ["Turath rawi"]},
+  "peran": {"t": "Menurut Mush'ab az-Zubairi, pada hari Quraizhah ia termasuk yang belum tumbuh bulu kemaluannya sehingga dibiarkan hidup, seperti 'Athiyyah; hadisnya dari 'Umar terdapat dalam Shahih al-Bukhari.", "src": ["al-Ishabah 1/522"]},
+  "hilf": null,
+  "syaraf": {"t": "Disebut di antara sahabat karena ada kemungkinan sima'-nya sah, meskipun ia masih kecil pada peristiwa Quraizhah.", "src": ["al-Ishabah 1/522"]},
+  "catatan": null
+ },
+ {
+  "id": "n1046",
+  "identitas": null,
+  "kabilah_tabaqat": {"t": "Anshar dari al-Khazraj (al-Anshari al-Khazraji).", "src": ["al-Ishabah 1/506"]},
+  "nisbah_rihlah": null,
+  "laqab_profesi": {"t": "Kunyah Abu 'Abd ar-Rahman.", "src": ["Turath rawi"]},
+  "peran": null,
+  "hilf": null,
+  "syaraf": null,
+  "catatan": null
+ },
+ {
+  "id": "n1024",
+  "identitas": null,
+  "kabilah_tabaqat": null,
+  "nisbah_rihlah": null,
+  "laqab_profesi": {"t": "Kunyah Abu Milqam.", "src": ["Turath rawi"]},
+  "peran": null,
+  "hilf": null,
+  "syaraf": null,
+  "catatan": {"t": "Namanya dibaca at-Talib (ta' berharakat fathah, lam kasrah, lalu ba' ringan; ada yang membacanya bertasydid); Syu'bah mengucapkannya dengan tsa' karena cadel menurut Ahmad, dan bacaan pertama lebih sahih.", "src": ["al-Ishabah 1/486"]}
+ },
+ {
+  "id": "n399",
+  "identitas": null,
+  "kabilah_tabaqat": null,
+  "nisbah_rihlah": {"t": "Dikaitkan dengan Ma'rib.", "src": ["Turath rawi"]},
+  "laqab_profesi": null,
+  "peran": {"t": "Wajahnya terkena penyakit kulit (al-quba') yang menggerogoti hidungnya; Nabi ﷺ mengusap wajahnya, dan sebelum sore hari itu tidak tersisa bekasnya.", "src": ["al-Ishabah 1/176"]},
+  "hilf": null,
+  "syaraf": null,
+  "catatan": null
+ },
+ {
+  "id": "n949",
+  "identitas": {"lahir": null, "umur": null, "wafat": "Ada yang mengatakan 63 H", "makam": null, "src": ["Turath rawi"]},
+  "kabilah_tabaqat": {"t": "Hanya memiliki ru'yah (melihat Nabi ﷺ).", "src": ["Turath rawi"]},
+  "nisbah_rihlah": null,
+  "laqab_profesi": null,
+  "peran": null,
+  "hilf": null,
+  "syaraf": {"t": "Putra Abu Mas'ud 'Uqbah bin 'Amr.", "src": ["Turath rawi"]},
+  "catatan": null
+ },
+ {
+  "id": "n1065",
+  "identitas": null,
+  "kabilah_tabaqat": {"t": "Keturunan Salaman, al-Qudha'i al-'Udzri; status shahabatnya diperselisihkan.", "src": ["al-Ishabah 1/519", "Turath rawi"]},
+  "nisbah_rihlah": null,
+  "laqab_profesi": null,
+  "peran": null,
+  "hilf": {"t": "Halif Bani Zuhrah.", "src": ["al-Ishabah 1/519"]},
+  "syaraf": {"t": "Nasabnya diperselisihkan: Tsa'labah bin Shu'air, ada yang mengatakan bin 'Abdullah bin Shu'air atau bin Abi Shu'air bin 'Amr bin Zaid bin Sinan bin Salaman; ada pula yang menyebutnya 'Abdullah bin Tsa'labah bin Shu'air.", "src": ["al-Ishabah 1/519", "Turath rawi"]},
+  "catatan": null
+ },
+ {
+  "id": "n401",
+  "identitas": {"lahir": null, "umur": null, "wafat": "Antara 61 dan 70 H", "makam": null, "src": ["Turath rawi"]},
+  "kabilah_tabaqat": {"t": "Mukhadram (mengalami masa jahiliah); Ibnu Yunus, al-Bukhari dan Ibnu Hibban memasukkannya ke dalam tabi'in, dan Abu Hatim menyatakan ia tidak memiliki shuhbah.", "src": ["al-Ishabah 1/331", "Turath rawi"]},
+  "nisbah_rihlah": {"t": "Tercatat bermukim di Syam.", "src": ["Turath rawi"]},
+  "laqab_profesi": {"t": "Kunyah Abu Ruhm.", "src": ["Turath rawi"]},
+  "peran": null,
+  "hilf": null,
+  "syaraf": {"t": "Nama ayahnya diperselisihkan: Usaid, ada yang mengatakan Asad.", "src": ["Turath rawi"]},
+  "catatan": {"t": "Ibnu Abi Khaitsamah dan Ibnu Sa'd menyebut Abu Ruhm as-Sama'i di antara sahabat yang tinggal di Syam tanpa menyebut namanya; jika ia orang yang sama, riwayatnya tidak menjadi bukti shuhbah karena mungkin mursal.", "src": ["al-Ishabah 1/331"]}
+ },
+ {
+  "id": "n830",
+  "identitas": null,
+  "kabilah_tabaqat": {"t": "Bernisbah ats-Tsaqafi.", "src": ["al-Ishabah 1/291"]},
+  "nisbah_rihlah": {"t": "Tercatat bermukim di Damaskus.", "src": ["Turath rawi"]},
+  "laqab_profesi": null,
+  "peran": null,
+  "hilf": null,
+  "syaraf": null,
+  "catatan": null
+ },
+ {
+  "id": "n984",
+  "identitas": null,
+  "kabilah_tabaqat": null,
+  "nisbah_rihlah": null,
+  "laqab_profesi": null,
+  "peran": {"t": "Hadisnya dikeluarkan al-Hakim dalam al-Mustadrak, Abu Dawud, al-Bukhari dalam at-Tarikh, dan al-Bawardi.", "src": ["al-Ishabah 1/454"]},
+  "hilf": null,
+  "syaraf": null,
+  "catatan": null
+ },
+ {
+  "id": "n929",
+  "identitas": null,
+  "kabilah_tabaqat": null,
+  "nisbah_rihlah": {"t": "Menurut Ibnu Sa'd tinggal di Kura' al-Ghamim dan Dhajnan; juga dikaitkan dengan Madinah.", "src": ["al-Ishabah 1/428", "Turath rawi"]},
+  "laqab_profesi": null,
+  "peran": null,
+  "hilf": null,
+  "syaraf": null,
+  "catatan": null
+ }
+]

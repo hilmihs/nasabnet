@@ -1,0 +1,21 @@
+{
+  "id": "taim",
+  "lokasi": {"t": "Makkah (Hijaz), di lembah al-Abthah; termasuk Quraisy al-Bithah", "src": ["Ibnu Sa'd 1/71", "al-Muhabbar, hlm. 167"], "quote": ["وأدخل قصي بطون قريش كلها الأبطح فسموا قريش البطاح", "وبنو زهرة بن كلاب. وبنو تيم بن مرة"], "status": "rewritten"},
+  "militer": [
+    {"t": "Thalhah bin 'Ubaidillah menangkis sabetan pedang Ibnu Qami'ah ke arah Nabi ﷺ dengan tangannya pada Perang Uhud hingga jarinya lumpuh", "src": ["Ibnu Sa'd 2/42"], "quote": ["واتقاه طلحة بن عبيد الله بيده فشلت إصبعه"], "status": "rewritten"},
+    {"t": "Abu Bakar ash-Shiddiq memberangkatkan pasukan Usamah, lalu membentuk sebelas pasukan untuk menumpas kaum murtad (Riddah)", "src": ["Tarikh ath-Thabari 3/240", "Tarikh ath-Thabari 3/249"], "quote": ["أمضى أبو بكر جيش أسامة بْن زيد فِي آخر ربيع الأول", "قَطَعَ أَبُو بَكْرٍ الْبُعُوثَ وَعَقَدَ الأَلْوِيَةَ، فَعَقَدَ أَحَدَ عَشَرَ لِوَاءً"], "status": "rewritten"}
+  ],
+  "diplomasi": [
+    {"t": "Hilf al-Fudhul diikrarkan di rumah Abdullah bin Jud'an at-Taimi; Bani Taim termasuk pesertanya", "src": ["Sirah Ibnu Hisyam 1/133", "Sirah Ibnu Hisyam 1/133"], "quote": ["فَاجْتَمَعُوا لَهُ فِي دَارِ عَبْدِ اللَّهِ بْنِ جُدْعَانَ", "وَزُهْرَةُ ابْن كِلَابٍ، وَتَيْمُ بْنُ مُرَّةَ. فَتَعَاقَدُوا وَتَعَاهَدُوا"], "status": "rewritten"},
+    {"t": "Abu Bakar menemani Nabi ﷺ berhijrah dan tinggal bersamanya tiga hari di gua, lalu dibaiat kaum Muslimin sebagai khalifah pertama", "src": ["Sirah Ibnu Hisyam 1/486", "Sirah Ibnu Hisyam 2/661"], "quote": ["فَأَقَامَ رَسُولُ اللَّهِ ﷺ فِي الْغَارِ ثَلَاثًا وَمَعَهُ أَبُو بَكْرٍ", "فَبَايَعَ النَّاسُ أَبَا بَكْرٍ بَيْعَةَ الْعَامَّةِ، بَعْدَ بَيْعَةِ السَّقِيفَةِ"], "status": "rewritten"}
+  ],
+  "ekonomi": [
+    {"t": "Abu Bakar, seorang pedagang, menebus dan memerdekakan Bilal serta enam budak muslim lain sebelum hijrah", "src": ["Sirah Ibnu Hisyam 1/250", "Sirah Ibnu Hisyam 1/318"], "quote": ["وَكَانَ رَجُلًا تَاجِرًا، ذَا خُلُقٍ وَمَعْرُوفٍ", "ثُمَّ أَعْتَقَ مَعَهُ عَلَى الْإِسْلَامِ قَبْلَ أَنْ يُهَاجِرَ إلَى الْمَدِينَةِ سِتَّ رِقَابٍ"], "status": "rewritten"},
+    {"t": "Abdullah bin Jud'an termasuk dermawan (ajwad) Quraisy masa Jahiliyah", "src": ["al-Muhabbar, hlm. 137", "al-Muhabbar, hlm. 137"], "quote": ["أجواد الجاهلية من قريش", "و(عبد الله) بن جدعان بن عمرو السيال"], "status": "rewritten"}
+  ],
+  "sosial": [
+    {"t": "Abu Bakar dikenal sebagai ahli nasab Quraisy", "src": ["Sirah Ibnu Hisyam 1/250"], "quote": ["وَكَانَ أَنْسَبَ قُرَيْشٍ لِقُرَيْشٍ، وَأَعْلَمَ قُرَيْشٍ بِهَا"], "status": "ok"},
+    {"t": "Klan Aisyah, Ummul Mukminin", "src": ["Usdul Ghabah 7/186"], "quote": ["عائشة بنت أبي بكر الصديق الصديقة بنت الصديق أم المؤمنين، زوج النبي"], "status": "ok"}
+  ],
+  "dropped": []
+}

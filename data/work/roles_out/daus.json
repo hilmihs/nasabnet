@@ -1,0 +1,17 @@
+{
+  "id": "daus",
+  "lokasi": {"t": "as-Sarah (Bani Minhab bin Daus); keturunan Malik bin Fahm kebanyakan di Oman, Bani Tharif bin Fahm di Hijaz; di Andalus menetap di Tudmir", "src": ["Jamharat Ansab al-'Arab, hlm. 379", "Jamharat Ansab al-'Arab, hlm. 379", "Jamharat Ansab al-'Arab, hlm. 383"], "quote": ["ولد دوس: منهب، وغنم. فولد منهب بالسّراة", "مالك بن فهم، وأكثرهم بعمان", "ودار دوس بالأندلس: تدمير"], "status": "rewritten"},
+  "militer": [
+    {"t": "ath-Thufail bin Amr membakar berhala Dzul Kaffain dan gugur dalam Perang Yamamah", "src": ["Sirah Ibnu Hisyam 1/385", "Sirah Ibnu Hisyam 1/385"], "quote": ["ابْعَثْنِي إلَى ذِي الْكَفَّيْنِ، صَنَمِ عَمْرِو بْنِ حُمَمَةَ حَتَّى أُحْرِقَهُ", "فَقُتِلَ ﵀ شَهِيدًا بِالْيَمَامَةِ"], "status": "ok"},
+    {"t": "Setelah menghancurkan Dzul Kaffain (Syawal 8 H), ath-Thufail membawa 400 orang Daus menyusul Nabi ﷺ di Tha'if, dengan dabbabah dan manjaniq", "src": ["Ibnu Sa'd 2/157", "Ibnu Sa'd 2/157"], "quote": ["وانحدر معه من قومه أربعمائة سراعا فوافوا النبي", "وقدم بدبابة ومنجنيق"], "status": "new"}
+  ],
+  "diplomasi": [
+    {"t": "ath-Thufail bin Amr datang ke Madinah bersama 70–80 keluarga Daus yang masuk Islam, lalu menyusul Nabi ﷺ di Khaibar dan mendapat bagian ghanimah", "src": ["Sirah Ibnu Hisyam 1/385", "Sirah Ibnu Hisyam 1/385"], "quote": ["حَتَّى نَزَلْتُ الْمَدِينَةَ بِسَبْعِينَ أَوْ ثَمَانِينَ بَيْتًا مِنْ دَوْسٍ", "ثُمَّ لَحِقْنَا بِرَسُولِ اللَّهِ ﷺ بِخَيْبَرِ، فَأَسْهَمَ لَنَا مَعَ الْمُسْلِمِينَ"], "status": "rewritten"}
+  ],
+  "ekonomi": [],
+  "sosial": [
+    {"t": "Abu Hurairah ad-Dausi, sahabat perawi hadits terbanyak", "src": ["Usdul Ghabah 6/313"], "quote": ["أبو هريرة الدوسي صاحب رسول الله ﷺ وأكثرهم حديثا عنه"], "status": "ok"},
+    {"t": "'Amr bin Humamah ad-Dausi tercatat di antara hakam (pemutus perkara) Arab Jahiliyah dari Yaman", "src": ["al-Muhabbar, hlm. 132", "al-Muhabbar, hlm. 137"], "quote": ["حكام العرب أولهم ألأفعي", "ومن اليمن: (عمرو) بن حُمَمة بن الحُارث بن رافع"], "status": "new"}
+  ],
+  "dropped": []
+}

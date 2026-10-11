@@ -1,0 +1,19 @@
+{
+  "id": "muthalib",
+  "lokasi": {"t": "Makkah (Hijaz)", "status": "umum"},
+  "militer": [
+    {"t": "Ubaidah bin al-Harits memimpin salah satu sariyah pertama, lalu maju dalam duel pembuka Perang Badar dan wafat karena lukanya", "src": ["Sirah Ibnu Hisyam 1/595", "Sirah Ibnu Hisyam 1/625", "Sirah Ibnu Hisyam 1/706"], "quote": ["فكانت راية عبيدة بن الحارث", "قم يا عبيدة بن الحارث، وقم يا حمزة، وقم يا علي", "قتله عتبة بن ربيعة، قطع رجله، فمات بالصفراء"], "status": "ok"}
+  ],
+  "diplomasi": [
+    {"t": "Bersama Bani Hasyim memenuhi ajakan Abu Thalib untuk melindungi Nabi ﷺ dari Quraisy", "src": ["Sirah Ibnu Hisyam 1/269"], "quote": ["فدعاهم إلى ما هو عليه، من منع رسول الله ﷺ، والقيام دونه، فاجتمعوا إليه"], "status": "rewritten"}
+  ],
+  "ekonomi": [
+    {"t": "al-Muththalib bin Abdi Manaf memegang siqayah dan rifadah sepeninggal Hasyim", "src": ["Sirah Ibnu Hisyam 1/137"], "quote": ["فولي السقاية والرفادة من بعده المطلب بن عبد مناف"], "status": "ok"},
+    {"t": "al-Muththalib mengambil perjanjian keamanan (ilaf) kafilah Quraisy dari raja-raja Himyar ke Yaman; riwayat lain menyebut dari an-Najasyi", "src": ["Tarikh ath-Thabari 2/252", "Ibnu Sa'd 1/75"], "quote": ["وأخذ لهم المطلب حبلا من ملوك حمير، فاختلفوا بذلك السبب إلى اليمن", "وهو الذي عقد الحلف لقريش من النجاشي"], "status": "rewritten"}
+  ],
+  "sosial": [
+    {"t": "Nabi ﷺ memberi mereka bagian bersama Bani Hasyim (tidak kepada Bani Naufal dan Abdu Syams), dengan sabda: Bani Hasyim dan Bani al-Muththalib adalah satu", "src": ["al-Ishabah 1/571", "al-Ishabah 1/571"], "quote": ["فسألاه أن يقسم لهم كما قسم لبني هاشم والمطلب", "إنما بنو هاشم وبنو المطلب شيء واحد"], "status": "rewritten"},
+    {"t": "Ikut diboikot Quraisy dan berkumpul bersama Bani Hasyim di Syi'ib Abi Thalib", "src": ["Sirah Ibnu Hisyam 1/351"], "quote": ["انحازت بنو هاشم وبنو المطلب إلى أبي طالب بن عبد المطلب، فدخلوا معه في شعبه"], "status": "rewritten"}
+  ],
+  "dropped": []
+}

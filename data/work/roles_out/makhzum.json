@@ -1,0 +1,22 @@
+{
+  "id": "makhzum",
+  "lokasi": {"t": "Makkah (Hijaz), di lembah al-Abthah; termasuk Quraisy al-Bithah", "src": ["Ibnu Sa'd 1/71", "al-Muhabbar, hlm. 167"], "quote": ["وأدخل قصي بطون قريش كلها الأبطح فسموا قريش البطاح", "وبنو مخزوم بن يقظه بن مرة"], "status": "rewritten"},
+  "militer": [
+    {"t": "Khalid bin al-Walid memegang al-qubbah (kemah perbekalan pasukan) dan a'innah al-khail (komando pasukan berkuda) Quraisy pada masa Jahiliyah", "src": ["Usdul Ghabah 2/140"], "quote": ["وكان إليه القبة وأعنة الخيل في الجاهلية"], "status": "rewritten"},
+    {"t": "Khalid bin al-Walid (Saifullah) memimpin pasukan di Mu'tah, Riddah, Irak, dan Yarmuk", "src": ["Ibnu Sa'd 4/37", "Sirah Ibnu Hisyam 2/380", "Tarikh ath-Thabari 3/249", "Tarikh ath-Thabari 3/343", "Tarikh ath-Thabari 3/396"], "quote": ["ثم أخذها سيف من سيوف الله خالد بن الوليد ففتح الله عليه", "فَلَمَّا أَخَذَ الرَّايَةَ دَافَعَ الْقَوْمَ", "عَقَدَ لِخَالِدِ بْنِ الْوَلِيدِ وَأَمَرَهُ بِطُلَيْحَةَ بْنِ خُوَيْلِدٍ", "كَتَبَ إِلَى خَالِدِ بْنِ الْوَلِيدِ يَأْمُرُهُ أَنْ يَسِيرَ إِلَى الْعِرَاقِ", "وَدَعُونِي أَلِيكُمُ الْيَوْمَ. فَأَمَّرُوهُ"], "status": "ok"},
+    {"t": "Sebelum masuk Islam, Khalid memimpin sayap kanan Quraisy di Uhud; melihat bukit ditinggalkan para pemanah, ia berbalik menyerang dengan pasukan berkuda", "src": ["Ibnu Sa'd 2/40", "Ibnu Sa'd 2/41"], "quote": ["واستعملوا على الميمنة خالد بن الوليد", "ونظر خالد بن الوليد إلى خلاء الجبل وقلة أهله فكر بالخيل"], "status": "rewritten"}
+  ],
+  "diplomasi": [
+    {"t": "Di Hudaibiyah, ketika para sahabat belum mau menyembelih, Ummu Salamah menyarankan Nabi ﷺ keluar tanpa berbicara lalu menyembelih hadyu dan bercukur lebih dahulu; para sahabat pun mengikutinya", "src": ["Tarikh ath-Thabari 2/637", "Tarikh ath-Thabari 2/637"], "quote": ["اخْرُجْ ثُمَّ لا تُكَلِّمْ أَحَدًا مِنْهُمْ كَلِمَةً حَتَّى تَنْحَرَ بَدَنَتَكَ", "فَلَمَّا رَأَوْا ذَلِكَ قَامُوا فَنَحَرُوا"], "status": "rewritten"}
+  ],
+  "ekonomi": [
+    {"t": "al-Walid bin al-Mughirah, yang menurut Ibnu Ishaq menjadi sebab turunnya ayat \"Aku jadikan baginya harta yang melimpah\" (al-Muddatstsir: 12)", "src": ["Sirah Ibnu Hisyam 1/271", "Sirah Ibnu Hisyam 1/271"], "quote": ["فَأَنْزَلَ اللَّهُ تَعَالَى فِي الْوَلِيدِ بْنِ الْمُغِيرَةِ", "وَجَعَلْتُ لَهُ مَالًا مَمْدُودًا وَبَنِينَ شُهُودًا"], "status": "rewritten"}
+  ],
+  "sosial": [
+    {"t": "al-Arqam bin Abi al-Arqam menyediakan rumahnya di Shafa (Dar al-Arqam) sebagai tempat Nabi ﷺ berdakwah di awal Islam", "src": ["Ibnu Sa'd 3/242", "Ibnu Sa'd 3/242"], "quote": ["وكانت داره بمكة على الصفا", "وفيها دعا الناس إلى الإسلام وأسلم فيها قوم كثير"], "status": "ok"},
+    {"t": "Klan Ummu Salamah, Ummul Mukminin", "src": ["Usdul Ghabah 7/329"], "quote": ["أم سلمة بنت أبي أمية بن المغيرة بن عبد الله بن عمر بن مخزوم القرشية المخزومية"], "status": "ok"}
+  ],
+  "dropped": [
+    {"t": "Salah satu klan terkaya Quraisy (bagian awal bullet ekonomi)", "reason": "Tidak ditemukan pernyataan bahwa Bani Makhzum termasuk klan terkaya Quraisy di 8 kitab; bullet dipersempit ke al-Walid bin al-Mughirah sesuai Ibnu Hisyam 1/271."}
+  ]
+}

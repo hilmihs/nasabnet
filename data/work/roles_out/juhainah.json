@@ -1,0 +1,17 @@
+{
+  "id": "juhainah",
+  "lokasi": {"t": "Antara Madinah dan pesisir Laut Merah: pegunungan sekitar Radhwa/Buwath (±4 barid dari Madinah) hingga pesisir sekitar al-'Ish", "src": ["Ibnu Sa'd 2/9", "Tarikh ath-Thabari 2/404"], "quote": ["بواط، وهي جبال من جبال جهينة من ناحية رضوى", "إلى سيف البحر من ناحية العيص في ثلاثين راكبا من المهاجرين، وهي من أرض جهينة"], "status": "rewritten"},
+  "militer": [
+    {"t": "Mengirim 1.400 orang dalam pasukan Fathu Makkah, dengan empat panji yang diikatkan Nabi ﷺ", "src": ["Tarikh ath-Thabari 3/65", "Ibnu Sa'd 4/347"], "quote": ["ومن جهينة الف وأربعمائة رجل", "أحد الأربعة الذين حملوا ألوية جهينة التي عقدها لهم رسول الله"], "status": "rewritten"}
+  ],
+  "diplomasi": [
+    {"t": "Majdi bin Amr al-Juhani, yang terikat perjanjian dengan kedua pihak, melerai pasukan Hamzah dan rombongan Quraisy di Saif al-Bahr (sariyah Hamzah, salah satu sariyah pertama)", "src": ["Sirah Ibnu Hisyam 1/595", "Ibnu Sa'd 2/6"], "quote": ["فحجز بينهم مجدي بن عمرو الجهني", "وكان حليفا للفريقين جميعا"], "status": "rewritten"}
+  ],
+  "ekonomi": [
+    {"t": "Pesisir (Saif al-Bahr) di wilayahnya dilalui kafilah Quraisy dari Syam menuju Makkah", "src": ["Ibnu Sa'd 2/6", "Tarikh ath-Thabari 2/404"], "quote": ["يعترض لعير قريش قد جاءت من الشام تريد مكة", "وهي من أرض جهينة"], "status": "rewritten"}
+  ],
+  "sosial": [
+    {"t": "Uqbah bin 'Amir al-Juhani, ahli qira'ah dan gubernur Mesir", "src": ["al-Ishabah 4/429", "al-Ishabah 4/429"], "quote": ["كان قارئا عالما بالفرائض والفقه", "وأمره بعد ذلك على مصر"], "status": "ok"}
+  ],
+  "dropped": []
+}

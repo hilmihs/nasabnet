@@ -1,0 +1,18 @@
+{
+  "id": "jumah",
+  "lokasi": {"t": "Makkah (Hijaz)", "status": "umum"},
+  "militer": [
+    {"t": "Umayyah bin Khalaf, penyiksa Bilal karena keislamannya, terbunuh dalam Perang Badar", "src": ["Sirah Ibnu Hisyam 1/317", "Sirah Ibnu Hisyam 1/713"], "quote": ["وكان أمية بن خلف بن وهب بن حذافة بن جمح يخرجه", "ومن بني جمح بن عمرو بن هصيص بن كعب بن لؤي: أمية بن خلف"], "status": "rewritten"}
+  ],
+  "diplomasi": [
+    {"t": "Setelah Fathu Makkah, Shafwan bin Umayyah diberi aman oleh Nabi ﷺ dengan masa pilih empat bulan, lalu masuk Islam", "src": ["Sirah Ibnu Hisyam 2/418", "Sirah Ibnu Hisyam 2/418"], "quote": ["فاجعلني فيه بالخيار شهرين، قال: أنت بالخيار فيه أربعة أشهر", "فلما أسلم عكرمة وصفوان أقرهما رسول الله ﷺ"], "status": "rewritten"}
+  ],
+  "ekonomi": [
+    {"t": "Shafwan bin Umayyah, ketika masih musyrik, meminjamkan seratus baju besi beserta senjatanya kepada Nabi ﷺ untuk menghadapi Hawazin di Hunain", "src": ["Sirah Ibnu Hisyam 2/440"], "quote": ["بل عارية ومضمونة حتى نؤديها إليك، قال: ليس بهذا بأس، فأعطاه مائة درع"], "status": "rewritten"}
+  ],
+  "sosial": [
+    {"t": "Utsman bin Madh'un, menurut sebagian ahli ilmu pemimpin rombongan pertama muhajir Habasyah, dan Muslim pertama yang dimakamkan di Baqi'", "src": ["Sirah Ibnu Hisyam 1/323", "Ibnu Sa'd 3/397"], "quote": ["وكان عليهم عثمان بن مظعون، فيما ذكر لي بعض أهل العلم", "أول من دفن بالبقيع من المسلمين عثمان بن مظعون"], "status": "rewritten"},
+    {"t": "Bilal bin Rabah pernah menjadi budak milik sebagian Bani Jumah dan disiksa Umayyah bin Khalaf", "src": ["Sirah Ibnu Hisyam 1/317"], "quote": ["لبعض بني جمح، مولدا من مولديهم، وهو بلال بن رباح"], "status": "rewritten"}
+  ],
+  "dropped": []
+}

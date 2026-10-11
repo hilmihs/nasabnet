@@ -1,0 +1,18 @@
+{
+  "id": "aslam",
+  "lokasi": {"t": "Sekitar Madinah (Hijaz): negeri Aslam sekitar satu barid dari Madinah, antara lain Yayin dan ke arah al-'Arj", "src": ["al-Ishabah 2/395", "Ibnu Sa'd 4/313", "Usdul Ghabah 1/430"], "quote": ["فنزل في بلاد أسلم على بريد من المدينة", "فنزل يين، وهى من بلاد أسلم", "كان ينزل بلاد أسلم من ناحية العرج"], "status": "rewritten"},
+  "militer": [
+    {"t": "Salamah bin al-Akwa' al-Aslami orang pertama yang memergoki perampas unta Nabi ﷺ pada Ghazwah Dzi Qarad, lalu mengejar dan memanah mereka", "src": ["Sirah Ibnu Hisyam 2/281", "Sirah Ibnu Hisyam 2/282"], "quote": ["بهم سلمة بن عمرو بن الأكوع الأسلمي", "فإذا أمكنه الرمي رمى"], "status": "rewritten"}
+  ],
+  "diplomasi": [
+    {"t": "Buraidah bin al-Hushaib menemui Nabi ﷺ dalam perjalanan hijrah dan masuk Islam bersama rombongannya, sekitar 80 keluarga", "src": ["Ibnu Sa'd 4/242"], "quote": ["فأسلم هو ومن معه، وكانوا زهاء ثمانين بيتا"], "status": "rewritten"}
+  ],
+  "ekonomi": [
+    {"t": "Nabi ﷺ menulis surat untuk Aslam berisi ketentuan zakat dan kewajiban pada hewan ternak", "src": ["Ibnu Sa'd 1/354"], "quote": ["كتابًا فيه ذكر الصدقة والفرائض في المواشي"], "status": "new"},
+    {"t": "Pada awal 9 H Buraidah bin al-Hushaib (ada yang menyebut Ka'b bin Malik) diutus memungut zakat Aslam dan Ghifar", "src": ["Ibnu Sa'd 2/160"], "quote": ["وبعث بريدة بن الحصيب إلى أسلم وغفار يصدقهم"], "status": "new"}
+  ],
+  "sosial": [
+    {"t": "Nabi ﷺ mendoakan: Aslam, semoga Allah menyelamatkannya", "src": ["Ibnu Sa'd 1/354"], "quote": ["أسلم سالمها الله وغفار غفر الله لها"], "status": "ok"}
+  ],
+  "dropped": []
+}

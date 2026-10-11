@@ -1,0 +1,19 @@
+{
+  "id": "madzhij",
+  "lokasi": {"t": "Yaman", "src": ["Sirah Ibnu Hisyam 2/637", "Ibnu Sa'd 2/169"], "quote": ["ومراد ومذحج: قبيلتان من اليمن", "وكانت أول خيل دخلت إلى تلك البلاد، وهي بلاد مذحج"], "status": "ok"},
+  "militer": [
+    {"t": "Amr bin Ma'dikarib az-Zubaidi ikut Perang Qadisiyah dan di sana pernah menyerbu barisan musuh seorang diri", "src": ["Tarikh ath-Thabari 3/134", "Tarikh ath-Thabari 3/576", "al-Ishabah 4/570"], "quote": ["فأقام عمرو بن معديكرب في قومه من بني زبيد", "وقد كان عمرو بن معديكرب شهد القادسية مع المسلمين", "حمل عمرو بن معديكرب يوم القادسية وحده فضرب فيهم"], "status": "rewritten"},
+    {"t": "Malik al-Asytar an-Nakha'i (Nakha' dari Madzhij), panglima Ali bin Abi Thalib: memimpin pasukan berkuda Kufah di Shiffin, lalu diutus sebagai gubernur Mesir", "src": ["Ibnu Sa'd 6/213", "Tarikh ath-Thabari 5/11", "Tarikh ath-Thabari 4/553"], "quote": ["بن سعد بن مالك بن النخع من مذحج", "أن عليا بعث على خيل أهل الكوفة الأشتر", "فبعث علي الأشتر أميرا إلى مصر"], "status": "rewritten"}
+  ],
+  "diplomasi": [
+    {"t": "Farwah bin Musaik al-Muradi datang ke Madinah (10 H) menyatakan Islam setelah memisahkan diri dari raja-raja Kindah; Nabi ﷺ mengangkatnya atas Murad dan seluruh Madzhij", "src": ["Tarikh ath-Thabari 3/134", "al-Ishabah 5/281"], "quote": ["قدم فروة بن مسيك المرادي على رسول الله ص مفارقا لملوك كندة", "فاستعمله على مراد ومذحج كلها"], "status": "rewritten"}
+  ],
+  "ekonomi": [
+    {"t": "Farwah bin Musaik datang bersama Madzhij lalu mereka masuk Islam, dan ia diserahi urusan zakat (shadaqah) orang-orang yang telah masuk Islam", "src": ["al-Ishabah 5/281"], "quote": ["وفد فروة مع مذحج فأسلموا، واستعمل فروة على صدقات من أسلم"], "status": "new"}
+  ],
+  "sosial": [
+    {"t": "Yasir, ayah Ammar, berasal dari 'Ans (Madzhij)", "src": ["Sirah Ibnu Hisyam 1/261", "Jamharat Ansab al-'Arab, hlm. 405"], "quote": ["إن ياسرا والد عمار عرنى قحطانى مذحجى من عنس", "ويحابر، وهو مراد ابن مذحج؛ وزيد، وهو عنس بن مذحج"], "status": "ok"},
+    {"t": "Uwais al-Qarani berasal dari Murad (Madzhij)", "src": ["Usdul Ghabah 1/333", "Jamharat Ansab al-'Arab, hlm. 405"], "quote": ["يأتي عليكم أويس بن عامر مع أمداد أهل اليمن من مراد، ثم من قرن", "ويحابر، وهو مراد ابن مذحج؛ وزيد، وهو عنس بن مذحج"], "status": "ok"}
+  ],
+  "dropped": []
+}

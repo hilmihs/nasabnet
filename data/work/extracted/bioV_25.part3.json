@@ -1,0 +1,335 @@
+[
+ {
+  "id": "s4385",
+  "identitas": null,
+  "kabilah_tabaqat": {
+   "t": "Keturunan Umayyah; putri Abu Sufyan bin Harb bin Umayyah.",
+   "src": [
+    "Ibnu Sa'd 8/240"
+   ]
+  },
+  "nisbah_rihlah": null,
+  "laqab_profesi": null,
+  "peran": null,
+  "hilf": null,
+  "syaraf": {
+   "t": "Ibunya Shafiyyah binti Abi 'Amr bin Umayyah.",
+   "src": [
+    "Ibnu Sa'd 8/240"
+   ]
+  },
+  "catatan": {
+   "t": "Menikah dengan Sa'id bin al-Akhnas bin Syariq ats-Tsaqafi dan melahirkan anak baginya.",
+   "src": [
+    "Ibnu Sa'd 8/240"
+   ]
+  }
+ },
+ {
+  "id": "s1020",
+  "identitas": null,
+  "kabilah_tabaqat": {
+   "t": "Al-Aslami, keturunan Aslam bin Afsha; Ibnu Sa'd memasukkannya ke dalam thabaqah ketiga sahabat.",
+   "src": [
+    "al-Ishabah 3/158",
+    "Ibnu Sa'd 4/302"
+   ]
+  },
+  "nisbah_rihlah": null,
+  "laqab_profesi": {
+   "t": "Dijuluki al-Akwa'.",
+   "src": [
+    "al-Ishabah 3/158",
+    "Ibnu Sa'd 4/302",
+    "Turath rawi"
+   ]
+  },
+  "peran": {
+   "t": "Masuk Islam sejak dahulu dan bersahabat dengan Nabi ﷺ bersama kedua anaknya, 'Amir dan Salamah.",
+   "src": [
+    "al-Ishabah 3/158",
+    "Ibnu Sa'd 4/302"
+   ]
+  },
+  "hilf": null,
+  "syaraf": null,
+  "catatan": null
+ },
+ {
+  "id": "s4760",
+  "identitas": null,
+  "kabilah_tabaqat": {
+   "t": "Keturunan Ka'b bin Salimah (… bin 'Adi bin Ghanm bin Ka'b bin Salimah).",
+   "src": [
+    "Ibnu Sa'd 8/407"
+   ]
+  },
+  "nisbah_rihlah": null,
+  "laqab_profesi": null,
+  "peran": {
+   "t": "Masuk Islam dan berbaiat kepada Rasulullah ﷺ; menikah dengan an-Nu'man bin Jubair bin Shakhr bin Umayyah bin Khansa'.",
+   "src": [
+    "Ibnu Sa'd 8/407"
+   ]
+  },
+  "hilf": null,
+  "syaraf": {
+   "t": "Ibunya Ummu al-Harits binti Malik bin Khansa' bin Sinan bin 'Ubaid dari Bani Salimah.",
+   "src": [
+    "Ibnu Sa'd 8/407"
+   ]
+  },
+  "catatan": null
+ },
+ {
+  "id": "s4418",
+  "identitas": {
+   "lahir": null,
+   "umur": "Sudah tua renta dan lemah ketika dibunuh",
+   "wafat": "Dibunuh Abu Jahl dengan tikaman tombak ke jantungnya ketika disiksa karena Islamnya",
+   "makam": null,
+   "src": [
+    "Ibnu Sa'd 8/264"
+   ]
+  },
+  "kabilah_tabaqat": {
+   "t": "Termasuk yang masuk Islam sejak awal di Makkah.",
+   "src": [
+    "Ibnu Sa'd 8/264"
+   ]
+  },
+  "nisbah_rihlah": {
+   "t": "Makkah.",
+   "src": [
+    "Ibnu Sa'd 8/264"
+   ]
+  },
+  "laqab_profesi": null,
+  "peran": {
+   "t": "Masuk Islam sejak awal di Makkah; disiksa agar meninggalkan agamanya, tetapi menolak dan bersabar hingga dibunuh Abu Jahl.",
+   "src": [
+    "Ibnu Sa'd 8/264"
+   ]
+  },
+  "hilf": {
+   "t": "Maulah Abu Hudzaifah bin al-Mughirah bin 'Abdullah bin 'Umar bin Makhzum.",
+   "src": [
+    "Ibnu Sa'd 8/264",
+    "Turath rawi"
+   ]
+  },
+  "syaraf": {
+   "t": "Syahid pertama dalam Islam (juga menurut Mujahid); ibu 'Ammar bin Yasir.",
+   "src": [
+    "Ibnu Sa'd 8/264"
+   ]
+  },
+  "catatan": {
+   "t": "Ketika Abu Jahl terbunuh pada hari Badar, Rasulullah ﷺ berkata kepada 'Ammar: \"Pembunuh ibumu telah dibunuh.\"",
+   "src": [
+    "Ibnu Sa'd 8/264"
+   ]
+  }
+ },
+ {
+  "id": "n2754",
+  "identitas": null,
+  "kabilah_tabaqat": {
+   "t": "Al-Laitsi, keturunan Laits bin Bakr bin 'Abd Manat bin Kinanah.",
+   "src": [
+    "al-Ishabah 3/262",
+    "Turath rawi"
+   ]
+  },
+  "nisbah_rihlah": {
+   "t": "Tinggal di Madinah, lalu pindah ke Kufah.",
+   "src": [
+    "al-Ishabah 3/262",
+    "Turath rawi"
+   ]
+  },
+  "laqab_profesi": {
+   "t": "Ayahnya dijuluki al-Had karena biasa menyalakan api pada malam hari bagi para musafir malam.",
+   "src": [
+    "al-Ishabah 3/262"
+   ]
+  },
+  "peran": {
+   "t": "Ikut Perang Khandaq; meriwayatkan dari Nabi ﷺ dan dari Ibnu Mas'ud. Perawi darinya antara lain anaknya 'Abdullah (yang memiliki ru'yah), Ibrahim bin Muhammad bin Thalhah dan 'Abd ar-Rahman bin Abi 'Ammarah.",
+   "src": [
+    "al-Ishabah 3/262"
+   ]
+  },
+  "hilf": {
+   "t": "Halif Bani Hasyim.",
+   "src": [
+    "al-Ishabah 3/262"
+   ]
+  },
+  "syaraf": {
+   "t": "Nama al-Had diperselisihkan: yang masyhur (Muslim) adalah Usamah bin 'Amr; menurut Khalifah bin Khayyath dan Abu 'Umar, Syaddad sendiri bernama Usamah dan al-Had adalah 'Amr. Ia suami Salma binti 'Umais, saudari Asma' binti 'Umais dan saudari seibu Maimunah, sehingga menjadi ipar (silf) Nabi ﷺ dan Abu Bakar.",
+   "src": [
+    "al-Ishabah 3/262",
+    "Turath rawi"
+   ]
+  },
+  "catatan": {
+   "t": "Memiliki satu hadits dalam al-Masyariq; Ibnu Ma'in berkata ia tidak memiliki hadits musnad selain itu.",
+   "src": [
+    "al-Ishabah 3/262"
+   ]
+  }
+ },
+ {
+  "id": "n2818",
+  "identitas": null,
+  "kabilah_tabaqat": {
+   "t": "Al-Jarmi; disebut dalam kalangan sahabat.",
+   "src": [
+    "al-Ishabah 3/294",
+    "Turath rawi"
+   ]
+  },
+  "nisbah_rihlah": null,
+  "laqab_profesi": {
+   "t": "Kunyah Abu Kulaib.",
+   "src": [
+    "Turath rawi"
+   ]
+  },
+  "peran": null,
+  "hilf": null,
+  "syaraf": {
+   "t": "Namanya diperselisihkan: Syihab bin al-Majnun, atau Syihab bin Kulaib bin Syihab, atau Syihab bin Abi Syaibah; ada pula yang menyebutnya Syabib atau Syutair.",
+   "src": [
+    "Turath rawi"
+   ]
+  },
+  "catatan": null
+ },
+ {
+  "id": "s4582",
+  "identitas": null,
+  "kabilah_tabaqat": {
+   "t": "Keturunan Dhubai'ah bin Zaid (… bin Qais bin Zaid bin Dhubai'ah bin Zaid).",
+   "src": [
+    "Ibnu Sa'd 8/347"
+   ]
+  },
+  "nisbah_rihlah": null,
+  "laqab_profesi": null,
+  "peran": {
+   "t": "Masuk Islam dan berbaiat kepada Rasulullah ﷺ; menikah dengan 'Abdullah bin Sahl bin 'Adi bin Zaid bin Ka'b bin 'A'isyah dari Bani Waqif (al-Aus).",
+   "src": [
+    "Ibnu Sa'd 8/347"
+   ]
+  },
+  "hilf": null,
+  "syaraf": {
+   "t": "Ibunya asy-Syamus binti an-Nu'man bin 'Amir bin Mujammi' bin al-'Aththaf bin Dhubai'ah.",
+   "src": [
+    "Ibnu Sa'd 8/347"
+   ]
+  },
+  "catatan": null
+ },
+ {
+  "id": "s4856",
+  "identitas": null,
+  "kabilah_tabaqat": {
+   "t": "Al-Qurazhiyyah (dari Bani Quraizhah) menurut riwayat Qatadah dan Ibnu Ishaq.",
+   "src": [
+    "al-Ishabah 8/58"
+   ]
+  },
+  "nisbah_rihlah": null,
+  "laqab_profesi": null,
+  "peran": {
+   "t": "Pada masa Rasulullah ﷺ ditalak tiga oleh Rifa'ah al-Qurazhi, lalu dinikahi 'Abd ar-Rahman bin az-Zubair yang tidak mampu menggaulinya hingga berpisah. Ketika Rifa'ah ingin menikahinya kembali, Rasulullah ﷺ melarangnya dan bersabda: \"Ia tidak halal bagimu sampai ia merasakan 'usailah.\"",
+   "src": [
+    "al-Ishabah 8/58",
+    "Ibnu Sa'd 8/457"
+   ]
+  },
+  "hilf": null,
+  "syaraf": {
+   "t": "Namanya diperselisihkan: Tamimah binti Wahb, atau Tamimah binti Abi 'Ubaid (Ibnu Mandah, dari riwayat Qatadah); ada pula yang menyebutnya Suhaimah atau 'A'isyah.",
+   "src": [
+    "al-Ishabah 8/58",
+    "Ibnu Sa'd 8/457"
+   ]
+  },
+  "catatan": {
+   "t": "Muhammad bin Ishaq meriwayatkan urutannya terbalik: ia mula-mula istri 'Abd ar-Rahman bin az-Zubair, lalu dinikahi Rifa'ah.",
+   "src": [
+    "al-Ishabah 8/58"
+   ]
+  }
+ },
+ {
+  "id": "n1059",
+  "identitas": null,
+  "kabilah_tabaqat": {
+   "t": "Keturunan Salim al-Hubla bin Ghanm bin 'Auf bin al-Khazraj al-Akbar.",
+   "src": [
+    "Turath rawi"
+   ]
+  },
+  "nisbah_rihlah": {
+   "t": "Kufah.",
+   "src": [
+    "Turath rawi"
+   ]
+  },
+  "laqab_profesi": {
+   "t": "Kunyah Abu Sa'id, ada yang mengatakan Abu Sa'd.",
+   "src": [
+    "Turath rawi"
+   ]
+  },
+  "peran": null,
+  "hilf": null,
+  "syaraf": {
+   "t": "Nasabnya diperselisihkan: Tsabit bin Wadi'ah, Tsabit bin Yazid bin Wadi'ah, atau Tsabit bin Zaid bin Wadi'ah. Ibnu Sa'd membedakan Tsabit bin Wadi'ah (yang ayahnya termasuk munafik) dari Tsabit bin Yazid yang dikenal dengan Ibnu Wadi'ah (Wadi'ah nama ibunya), tetapi Ibnu al-Atsir menolak pembedaan itu.",
+   "src": [
+    "al-Ishabah 1/513",
+    "Turath rawi"
+   ]
+  },
+  "catatan": null
+ },
+ {
+  "id": "s4462",
+  "identitas": null,
+  "kabilah_tabaqat": {
+   "t": "Dari Bani al-Harits bin 'Abd Manat bin Kinanah; masuk Islam pada hari Fathu Makkah, ada yang mengatakan sesudahnya.",
+   "src": [
+    "al-Ishabah 8/32",
+    "Ibnu Sa'd 8/297"
+   ]
+  },
+  "nisbah_rihlah": null,
+  "laqab_profesi": null,
+  "peran": {
+   "t": "Masuk Islam pada hari Fathu Makkah, ada yang mengatakan tidak lama sesudahnya, lalu berbaiat.",
+   "src": [
+    "al-Ishabah 8/32",
+    "Ibnu Sa'd 8/297"
+   ]
+  },
+  "hilf": null,
+  "syaraf": {
+   "t": "Ibunya Ummu 'Abdillah; istri Abu Sufyan bin Harb bin Umayyah.",
+   "src": [
+    "Ibnu Sa'd 8/297"
+   ]
+  },
+  "catatan": {
+   "t": "Namanya disebut Umaimah, ada yang mengatakan Umamah.",
+   "src": [
+    "Ibnu Sa'd 8/297",
+    "Turath rawi"
+   ]
+  }
+ }
+]

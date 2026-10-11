@@ -1,0 +1,112 @@
+[
+ {
+  "id": "n5458",
+  "identitas": {"lahir": "Di jalan antara Madinah dan Makkah pada Haji Wada'", "umur": null, "wafat": "Terbunuh di Mesir pada Shafar 38 H, setelah kalah melawan pasukan 'Amr bin al-'Ash; ditangkap dari rumah seorang wanita tempat ia bersembunyi", "makam": null, "src": ["al-Ishabah 6/193", "Turath rawi"]},
+  "kabilah_tabaqat": {"t": "Putra Abu Bakar ash-Shiddiq; termasuk yang sempat melihat Nabi ﷺ (lahu ru'yah).", "src": ["al-Ishabah 6/193", "Turath rawi"]},
+  "nisbah_rihlah": {"t": "Dibesarkan dalam asuhan 'Ali bin Abi Thalib, suami ibunya; dikirim ke Mesir sebagai amir dan terbunuh di sana.", "src": ["al-Ishabah 6/193", "Turath rawi"]},
+  "laqab_profesi": {"t": "Kunyah Abu al-Qasim.", "src": ["Turath rawi"]},
+  "peran": {"t": "Ikut Perang Jamal dan Shiffin; memasuki Mesir pada Ramadhan 37 H sebagai amir untuk 'Ali, kemudian memerangi pasukan 'Amr bin al-'Ash yang dikirim Mu'awiyah dan kalah. Meriwayatkan dari ayahnya secara mursal dan sedikit dari ibunya; putranya al-Qasim meriwayatkan darinya.", "src": ["al-Ishabah 6/193"]},
+  "hilf": null,
+  "syaraf": {"t": "Ibunya Asma' binti 'Umais al-Khats'amiyah. 'Ali memuji dan mengutamakannya; dikenal tekun beribadah dan bersungguh-sungguh.", "src": ["al-Ishabah 6/193"]},
+  "catatan": {"t": "'Aisyah sangat berduka atas kematiannya dan mengasuh putranya al-Qasim, yang kemudian menjadi salah satu orang terbaik di zamannya.", "src": ["al-Ishabah 6/193"]}
+ },
+ {
+  "id": "n8594",
+  "identitas": {"lahir": "Di masa Nabi ﷺ", "umur": null, "wafat": "Terbunuh pada hari al-Harrah, 63 H", "makam": null, "src": ["al-Ishabah 6/192", "Turath rawi"]},
+  "kabilah_tabaqat": {"t": "Anshar; termasuk yang sempat melihat Nabi ﷺ (lahu ru'yah).", "src": ["al-Ishabah 6/192", "Turath rawi"]},
+  "nisbah_rihlah": null,
+  "laqab_profesi": {"t": "Kunyah Abu Mu'adz.", "src": ["al-Ishabah 6/192", "Turath rawi"]},
+  "peran": {"t": "Meriwayatkan dari ayahnya, ibunya, 'Umar, 'Utsman dan lainnya; tsiqah tetapi sedikit haditsnya.", "src": ["al-Ishabah 6/192"]},
+  "hilf": null,
+  "syaraf": {"t": "Putra Ubay bin Ka'b, ada yang mengatakan cucunya (Muhammad bin Fulan bin Ubay bin Ka'b); ibunya Ummu ath-Thufail binti ath-Thufail bin 'Amr as-Sadusi.", "src": ["Turath rawi", "al-Ishabah 6/192"]},
+  "catatan": null
+ },
+ {
+  "id": "s4781",
+  "identitas": null,
+  "kabilah_tabaqat": {"t": "Bani Mazin bin an-Najjar; termasuk wanita yang berbaiat kepada Rasulullah ﷺ.", "src": ["Ibnu Sa'd 8/417", "al-Ishabah 8/331"]},
+  "nisbah_rihlah": null,
+  "laqab_profesi": null,
+  "peran": {"t": "Masuk Islam dan berbaiat kepada Rasulullah ﷺ; menikah dengan Ma'mar bin Hazm bin Zaid bin Laudzan dan melahirkan 'Abd ar-Rahman.", "src": ["Ibnu Sa'd 8/417", "al-Ishabah 8/331"]},
+  "hilf": null,
+  "syaraf": {"t": "Ibunya Raghibah binti Aus bin Khalid bin al-Ja'd, juga dari Bani Mazin bin an-Najjar.", "src": ["Ibnu Sa'd 8/417", "al-Ishabah 8/331"]},
+  "catatan": null
+ },
+ {
+  "id": "s4644",
+  "identitas": null,
+  "kabilah_tabaqat": {"t": "Keturunan al-Abjar, yaitu Khudrah bin 'Auf bin al-Harits bin al-Khazraj; termasuk wanita yang berbaiat kepada Rasulullah ﷺ.", "src": ["Ibnu Sa'd 8/366"]},
+  "nisbah_rihlah": null,
+  "laqab_profesi": null,
+  "peran": {"t": "Masuk Islam dan berbaiat kepada Rasulullah ﷺ; menikah dengan Aus bin Khalid bin Qurth bin Qais bin Wahb dari Bani Malik bin an-Najjar.", "src": ["Ibnu Sa'd 8/366", "al-Ishabah 8/331"]},
+  "hilf": null,
+  "syaraf": {"t": "Ibunya Fathimah binti 'Amr bin 'Athiyyah dari Bani Mazin bin an-Najjar.", "src": ["Ibnu Sa'd 8/366", "al-Ishabah 8/331"]},
+  "catatan": {"t": "Saudari seayah-seibu 'Abdullah bin ar-Rabi', peserta 'Aqabah dan Badar.", "src": ["Ibnu Sa'd 8/366"]}
+ },
+ {
+  "id": "s920",
+  "identitas": {"lahir": null, "umur": null, "wafat": "Gugur syahid pada Perang Yarmuk, Rajab 15 H", "makam": null, "src": ["Ibnu Sa'd 4/138"]},
+  "kabilah_tabaqat": {"t": "Bani 'Adi bin Ka'b; masuk Islam setelah sepuluh orang, tetapi baru berhijrah pada masa Hudaibiyah.", "src": ["Ibnu Sa'd 4/138"]},
+  "nisbah_rihlah": {"t": "Makkah → hijrah ke Madinah pada 6 H bersama empat puluh anggota keluarganya.", "src": ["Ibnu Sa'd 4/138"]},
+  "laqab_profesi": {"t": "an-Nahham, karena Rasulullah ﷺ bersabda: \"Aku masuk surga lalu mendengar nahmah (dehaman) Nu'aim.\"", "src": ["Ibnu Sa'd 4/138"]},
+  "peran": {"t": "Masuk Islam setelah sepuluh orang dan menyembunyikan keislamannya; kaumnya menahannya di Makkah, sampai ia hijrah pada 6 H dan dipeluk serta dicium Rasulullah ﷺ. Ikut peperangan bersama Nabi ﷺ sesudah Hudaibiyah dan gugur di Yarmuk.", "src": ["Ibnu Sa'd 4/138"]},
+  "hilf": null,
+  "syaraf": {"t": "Terpandang di kaumnya sehingga mereka melindunginya dan mencegahnya berhijrah; menanggung makanan orang-orang fakir Bani 'Adi bin Ka'b setiap bulan.", "src": ["Ibnu Sa'd 4/138"]},
+  "catatan": {"t": "Ibunya putri Abu Harb bin Khalaf dari Bani 'Adi bin Ka'b; putranya Ibrahim lahir dari Zainab binti Hanzhalah dari Thayyi'.", "src": ["Ibnu Sa'd 4/138"]}
+ },
+ {
+  "id": "s4586",
+  "identitas": null,
+  "kabilah_tabaqat": {"t": "Keturunan Umayyah bin Zaid; termasuk wanita yang berbaiat kepada Nabi ﷺ.", "src": ["Ibnu Sa'd 8/348"]},
+  "nisbah_rihlah": null,
+  "laqab_profesi": null,
+  "peran": {"t": "Menikah dengan 'Utsman bin Thalhah bin Abi Thalhah dari Bani 'Abd ad-Dar dan melahirkan anak baginya, kemudian dengan Bijad bin 'Utsman bin 'Amir bin Mujammi'. Masuk Islam dan berbaiat kepada Nabi ﷺ.", "src": ["Ibnu Sa'd 8/348"]},
+  "hilf": null,
+  "syaraf": {"t": "Ibunya Basamah binti 'Abdullah bin Umayyah bin 'Ubaid.", "src": ["Ibnu Sa'd 8/348"]},
+  "catatan": null
+ },
+ {
+  "id": "n9141",
+  "identitas": null,
+  "kabilah_tabaqat": {"t": "Status sahabatnya diperselisihkan: al-Bukhari menyatakan ia sahabat, sedangkan Ibnu as-Sakan menyebut \"dikatakan ia sahabat\".", "src": ["al-Ishabah 5/312", "Turath rawi"]},
+  "nisbah_rihlah": {"t": "Dihitung sebagai penduduk Kufah.", "src": ["al-Ishabah 5/312"]},
+  "laqab_profesi": null,
+  "peran": {"t": "Menyertai 'Abdullah bin Mas'ud dan meriwayatkan darinya serta dari al-Mughirah; haditsnya dimuat al-Bukhari dalam al-Adab al-Mufrad.", "src": ["al-Ishabah 5/312"]},
+  "hilf": null,
+  "syaraf": null,
+  "catatan": null
+ },
+ {
+  "id": "n11401",
+  "identitas": null,
+  "kabilah_tabaqat": {"t": "Bani Tamim (at-Tamimiyah).", "src": ["al-Ishabah 8/288", "Ibnu Sa'd 8/312"]},
+  "nisbah_rihlah": {"t": "Berhijrah menemui Nabi ﷺ bersama Huraits bin Hassan, utusan Bakr bin Wa'il.", "src": ["al-Ishabah 8/288", "Ibnu Sa'd 8/312"]},
+  "laqab_profesi": null,
+  "peran": {"t": "Istri Habib bin Azhar dari Bani Janab dan melahirkan anak-anak perempuan; setelah suaminya wafat, anak-anaknya diambil paman mereka Atswab bin Azhar, lalu ia pergi menemui Rasulullah ﷺ, shalat Subuh bersama beliau, bertanya dan mendengar dari beliau. Ketika ia gemetar ketakutan, Nabi ﷺ bersabda: \"Wahai miskinah, tenanglah.\"", "src": ["al-Ishabah 8/288", "Ibnu Sa'd 8/312"]},
+  "hilf": null,
+  "syaraf": null,
+  "catatan": {"t": "Haditsnya yang panjang diriwayatkan 'Abdullah bin Hassan al-'Anbari dari Shafiyyah dan Duhaibah, anak tiri Qailah. Putranya, Hizam, ikut berperang bersama Nabi ﷺ di ar-Rabadzah lalu wafat terkena demam Khaibar.", "src": ["al-Ishabah 8/288", "Ibnu Sa'd 8/312"]}
+ },
+ {
+  "id": "n5256",
+  "identitas": {"lahir": null, "umur": null, "wafat": "51 H atau 60 H", "makam": null, "src": ["Turath rawi"]},
+  "kabilah_tabaqat": {"t": "Bani Ghanm bin Malik bin an-Najjar.", "src": ["Turath rawi"]},
+  "nisbah_rihlah": null,
+  "laqab_profesi": null,
+  "peran": {"t": "Meriwayatkan dari Nabi ﷺ, di antaranya hadits ketika beliau melihat seorang laki-laki shalat dua rakaat setelah Subuh. Al-Waqidi menggolongkannya ke dalam kaum munafik, barangkali di awal keislamannya; ia lama hidup dalam Islam.", "src": ["al-Ishabah 5/372"]},
+  "hilf": null,
+  "syaraf": null,
+  "catatan": null
+ },
+ {
+  "id": "s4328",
+  "identitas": null,
+  "kabilah_tabaqat": {"t": "Kindah; saudari al-Asy'ats bin Qais.", "src": ["Turath rawi", "Ibnu Sa'd 8/147"]},
+  "nisbah_rihlah": {"t": "Hadhramaut; sempat dibawa keluar dari Yaman menuju Nabi ﷺ, lalu dikembalikan ke negerinya setelah beliau wafat.", "src": ["Ibnu Sa'd 8/147"]},
+  "laqab_profesi": null,
+  "peran": {"t": "Ditawarkan al-Asy'ats kepada Nabi ﷺ setelah Asma' binti an-Nu'man berlindung dari beliau, dan Nabi ﷺ menikahinya; namun beliau wafat sebelum ia tiba. Ia murtad bersama saudaranya, lalu dinikahi Qais bin Maksyuh al-Muradi; menurut riwayat lain dinikahi 'Ikrimah bin Abi Jahl sehingga Abu Bakar tidak senang. Ada pula yang mengatakan ia termasuk wanita yang menghibahkan diri kepada Nabi ﷺ.", "src": ["Ibnu Sa'd 8/147"]},
+  "hilf": null,
+  "syaraf": null,
+  "catatan": {"t": "'Urwah bin az-Zubair mengingkari bahwa Rasulullah ﷺ menikahinya; menurutnya beliau tidak menikahi wanita Kindah selain saudari Bani al-Jaun.", "src": ["Ibnu Sa'd 8/147"]}
+ }
+]

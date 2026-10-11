@@ -1,0 +1,112 @@
+[
+ {
+  "id": "n2897",
+  "identitas": {"lahir": null, "umur": null, "wafat": "Menurut Ibnu Hajar yang lebih sahih ia hidup hingga masa kekhalifahan 'Utsman; ada yang mengatakan di masa Abu Bakar (dinilai keliru oleh Ya'qub bin Sufyan) atau di akhir kekhalifahan 'Umar (Ibnu Hibban)", "makam": null, "src": ["al-Ishabah 3/344", "Turath rawi"]},
+  "kabilah_tabaqat": {"t": "Al-Laitsi, keturunan 'Amir bin Laits.", "src": ["al-Ishabah 3/344", "Turath rawi"]},
+  "nisbah_rihlah": {"t": "Tinggal di Waddan; ikut penaklukan Persia termasuk Ishthakhr.", "src": ["al-Ishabah 3/344", "Turath rawi"]},
+  "laqab_profesi": {"t": "Kunyah Abu Muljim.", "src": ["Turath rawi"]},
+  "peran": {"t": "Nabi ﷺ mempersaudarakannya dengan 'Auf bin Malik. Ikut penaklukan Persia dan Ishthakhr; termasuk lima orang Irak yang datang mengadukan al-Walid bin 'Uqbah. Hadis-hadisnya dalam ash-Shahih diriwayatkan Ibnu 'Abbas darinya.", "src": ["al-Ishabah 3/344"]},
+  "hilf": {"t": "Halif Quraisy.", "src": ["al-Ishabah 3/344"]},
+  "syaraf": {"t": "Ibunya saudari Abu Sufyan bin Harb, bernama Fakhitah, ada yang mengatakan Zainab. Disebut sebagai saudara Muhallim bin Jatstsamah.", "src": ["al-Ishabah 3/344"]},
+  "catatan": null
+ },
+ {
+  "id": "s4577",
+  "identitas": null,
+  "kabilah_tabaqat": {"t": "Keturunan 'Amr bin 'Auf; termasuk para wanita yang berbaiat kepada Nabi ﷺ.", "src": ["Ibnu Sa'd 8/345"]},
+  "nisbah_rihlah": null,
+  "laqab_profesi": null,
+  "peran": {"t": "Masuk Islam dan berbaiat kepada Rasulullah ﷺ. Menikah dengan Tsabit bin Abi al-Aqlah (Qais bin 'Ishmah) dan melahirkan 'Ashim bin Tsabit, peserta Badar yang gugur pada hari ar-Raji' dan jasadnya dilindungi lebah, serta Jamilah binti Tsabit yang dinikahi 'Umar bin al-Khaththab dan melahirkan 'Ashim bin 'Umar.", "src": ["Ibnu Sa'd 8/345"]},
+  "hilf": null,
+  "syaraf": {"t": "Putri Abu 'Amir ar-Rahib, yang bernama 'Abd 'Amr bin Shaifi. Ibunya 'Umaiq binti al-Harits dari Bani Waqif.", "src": ["Ibnu Sa'd 8/345"]},
+  "catatan": null
+ },
+ {
+  "id": "n15759",
+  "identitas": null,
+  "kabilah_tabaqat": {"t": "Keturunan Dhubai'ah bin Zaid; wanita Madinah yang termasuk al-mubaya'at.", "src": ["Ibnu Sa'd 8/346", "al-Ishabah 8/204"]},
+  "nisbah_rihlah": {"t": "Madinah.", "src": ["al-Ishabah 8/204"]},
+  "laqab_profesi": null,
+  "peran": {"t": "Masuk Islam dan berbaiat. Meriwayatkan bahwa ia menyaksikan Nabi ﷺ ketika tiba dan meletakkan fondasi Masjid Quba': beliau mengangkat batu hingga tubuhnya terbungkuk, menolak ketika ada yang ingin menggantikannya, dan bersabda bahwa Jibril menunjukkan arah kiblat masjid itu.", "src": ["al-Ishabah 8/204", "Ibnu Sa'd 8/346"]},
+  "hilf": null,
+  "syaraf": {"t": "Ibunya Salimah binti Mutharrif bin al-Harits. Menikah dengan Abu Sufyan bin al-Harits bin Qais dan melahirkan anak baginya.", "src": ["Ibnu Sa'd 8/346"]},
+  "catatan": null
+ },
+ {
+  "id": "n3088",
+  "identitas": null,
+  "kabilah_tabaqat": {"t": "Bani Jumah (keturunan Wahb bin Hudzafah bin Jumah); dikatakan memiliki shuhbah.", "src": ["Turath rawi"]},
+  "nisbah_rihlah": {"t": "Kufah.", "src": ["al-Ishabah 3/488", "Turath rawi"]},
+  "laqab_profesi": {"t": "Dijuluki Dahrujat al-Ju'al karena bertubuh pendek.", "src": ["al-Ishabah 3/488", "Turath rawi"]},
+  "peran": {"t": "Setelah wafatnya Yazid bin Mu'awiyah, penduduk Kufah sepakat mengangkatnya sebagai pemimpin; Ibnu az-Zubair menetapkannya sebentar lalu memberhentikannya setelah tiga bulan dan mengangkat 'Abdullah bin Yazid al-Khathmi.", "src": ["al-Ishabah 3/488"]},
+  "hilf": null,
+  "syaraf": null,
+  "catatan": {"t": "Ia hidup kekurangan; ketika menikahi seorang wanita Bani Nashr bin Mu'awiyah di Kufah ia meminta bantuan mahar dua dirham dari setiap orang, sehingga disindir dalam syair Fadhalah bin Syarik al-Asadi.", "src": ["al-Ishabah 3/488"]}
+ },
+ {
+  "id": "n183",
+  "identitas": null,
+  "kabilah_tabaqat": {"t": "Keturunan 'Abd ad-Dar bin Qushai; termasuk muslimat al-fath (masuk Islam saat Fathu Makkah).", "src": ["al-Ishabah 7/161", "Turath rawi"]},
+  "nisbah_rihlah": {"t": "Menurut Ibnu Sa'd ia menetap di Makkah hingga wafat; menurut al-Baghawi ia tinggal di Kufah.", "src": ["al-Ishabah 7/161", "Turath rawi"]},
+  "laqab_profesi": {"t": "Dikenal dengan kunyah Abu as-Sanabil.", "src": ["Turath rawi", "al-Ishabah 7/161"]},
+  "peran": {"t": "Disebut dalam kisah Subai'ah al-Aslamiyyah: ia mengingkari Subai'ah yang bersiap menikah setelah melahirkan, dengan mengatakan iddahnya empat bulan sepuluh hari, lalu Nabi ﷺ menyatakan Subai'ah telah halal menikah. Ia termasuk yang melamar Subai'ah, dan menurut Ibnu al-Barqi kemudian menikahinya dan memperoleh putra Sanabil.", "src": ["al-Ishabah 7/161"]},
+  "hilf": null,
+  "syaraf": {"t": "Namanya diperselisihkan: 'Amr, Labid Rabbih, Habbah, Hannah, atau Ashram. Ibnu Hajar menilai kisah Subai'ah menunjukkan ia seorang faqih.", "src": ["Turath rawi", "al-Ishabah 7/161"]},
+  "catatan": {"t": "Al-Bukhari berkata ia tidak mengetahui Abu as-Sanabil hidup setelah wafatnya Nabi ﷺ.", "src": ["al-Ishabah 7/161"]}
+ },
+ {
+  "id": "n4837",
+  "identitas": {"lahir": null, "umur": null, "wafat": "104 H", "makam": null, "src": ["Turath rawi"]},
+  "kabilah_tabaqat": {"t": "Bani Zuraiq; tergolong kibar at-tabi'in.", "src": ["Turath rawi"]},
+  "nisbah_rihlah": null,
+  "laqab_profesi": {"t": "Dikenal juga sebagai Ibnu Khaldah.", "src": ["Turath rawi"]},
+  "peran": null,
+  "hilf": null,
+  "syaraf": null,
+  "catatan": null
+ },
+ {
+  "id": "n10611",
+  "identitas": null,
+  "kabilah_tabaqat": {"t": "Statusnya diperselisihkan: dinilai dari tabaqah ketiga (tabi'in) dan keliru yang menganggapnya sahabat; al-Marzubani menyebutnya penyair mukhadram, yang menurut Ibnu Hajar berarti ia sahabat.", "src": ["Turath rawi", "al-Ishabah 4/492"]},
+  "nisbah_rihlah": null,
+  "laqab_profesi": {"t": "Penyair; al-Marzubani mencantumkannya dalam Mu'jam asy-Syu'ara' dengan syair tentang al-Hasan bin 'Ali ketika berkhutbah saat berdamai dengan Mu'awiyah.", "src": ["al-Ishabah 4/492"]},
+  "peran": {"t": "Meriwayatkan dari Khuzaimah bin Tsabit; yang meriwayatkan darinya 'Abdullah bin 'Ali bin as-Sa'ib.", "src": ["al-Ishabah 4/492"]},
+  "hilf": null,
+  "syaraf": {"t": "Abu 'Umar meragukan identitasnya, sebab 'Amr bin Uhaihah bin al-Julah adalah saudara seibu 'Abd al-Muththalib (dari Salma binti Zaid) sehingga mustahil meriwayatkan dari Khuzaimah; mungkin cucunya yang dinamai dengan namanya. Ibnu Hajar menduga bisa jadi hanya kesamaan nama.", "src": ["al-Ishabah 4/492"]},
+  "catatan": null
+ },
+ {
+  "id": "n21085",
+  "identitas": null,
+  "kabilah_tabaqat": {"t": "Khuza'ah (keturunan Sulul bin Ka'b bin 'Amr).", "src": ["Ibnu Sa'd 8/288", "al-Ishabah 8/227"]},
+  "nisbah_rihlah": {"t": "Tinggal di Qudaid.", "src": ["Ibnu Sa'd 8/288"]},
+  "laqab_profesi": {"t": "Ummu Ma'bad; lebih terkenal dengan kunyahnya.", "src": ["al-Ishabah 8/227", "Turath rawi"]},
+  "peran": {"t": "Rasulullah ﷺ singgah di rumahnya di Qudaid ketika berhijrah ke Madinah bersama Abu Bakar, maula Abu Bakar dan Ibnu Uraiqith. Beliau menyentuh ambing seekor kambing yang hendak disembelihnya dan melarang menyembelihnya; kambing itu bertahan hingga tahun ar-Ramadah (18 H) di masa 'Umar. Menurut al-Waqidi dan lainnya, ia kemudian datang, masuk Islam dan berbaiat.", "src": ["Ibnu Sa'd 8/288"]},
+  "hilf": null,
+  "syaraf": {"t": "Nama ayahnya diperselisihkan: Khalid bin Khalif atau Khalid bin Khalaf; ada pula yang menyebutnya 'Atikah binti Munqidz. Suaminya sepupunya, Tamim bin 'Abd al-'Uzza bin Munqidz.", "src": ["Turath rawi", "Ibnu Sa'd 8/288"]},
+  "catatan": null
+ },
+ {
+  "id": "n3021",
+  "identitas": {"lahir": null, "umur": null, "wafat": "61 H, pada masa pemerintahan Ibnu Ziyad", "makam": null, "src": ["Turath rawi", "al-Ishabah 3/494"]},
+  "kabilah_tabaqat": {"t": "Termasuk Ahlu Bai'at ar-Ridhwan (berbaiat di bawah pohon).", "src": ["al-Ishabah 3/494"]},
+  "nisbah_rihlah": {"t": "Menetap di Bashrah; juga dikaitkan dengan Ashbahan.", "src": ["al-Ishabah 3/494", "Turath rawi"]},
+  "laqab_profesi": {"t": "Dijuluki al-Asyajj; kunyah Abu Hubairah.", "src": ["Turath rawi"]},
+  "peran": {"t": "Baiatnya di bawah pohon tercatat dalam Shahih al-Bukhari, dan Muslim meriwayatkan hadis-hadisnya. Ia menemui Ibnu Ziyad dan menyampaikan hadis \"Sejahat-jahat pemimpin adalah yang kasar (al-huthamah)\".", "src": ["al-Ishabah 3/494"]},
+  "hilf": null,
+  "syaraf": null,
+  "catatan": {"t": "Ia tidak membuang air dari rumahnya ke jalan, karena lebih suka menuangnya di kamarnya sendiri daripada di jalan kaum muslimin.", "src": ["al-Ishabah 3/494"]}
+ },
+ {
+  "id": "n3104",
+  "identitas": null,
+  "kabilah_tabaqat": {"t": "Menurut dugaan Ibnu Hajar, dari Bani Syaiban, cabang Bani Sulaim yang menjadi sekutu Bani Hasyim.", "src": ["al-Ishabah 3/499"]},
+  "nisbah_rihlah": null,
+  "laqab_profesi": {"t": "Kunyah Abu Ibrahim.", "src": ["al-Ishabah 3/499"]},
+  "peran": {"t": "Melamar Umamah binti Rabi'ah kepada Nabi ﷺ, dan beliau menikahkannya. Yang meriwayatkan darinya kedua putranya, Ibrahim dan Yahya.", "src": ["al-Ishabah 3/499"]},
+  "hilf": {"t": "Halif Quraisy menurut Ibnu Mandah; menurut Ibnu Sa'd halif Bani 'Abd al-Muththalib.", "src": ["al-Ishabah 3/499"]},
+  "syaraf": null,
+  "catatan": null
+ }
+]

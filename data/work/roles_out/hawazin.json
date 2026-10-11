@@ -1,0 +1,29 @@
+{
+  "id": "hawazin",
+  "lokasi": {"t": "Sekitar Tha'if dan Najd bagian barat", "status": "umum"},
+  "militer": [
+    {"t": "Mengerahkan pasukan besar melawan kaum Muslimin di Hunain (8 H) di bawah Malik bin 'Auf an-Nashri, bersama seluruh Tsaqif",
+     "src": ["Sirah Ibnu Hisyam 2/437", "Sirah Ibnu Hisyam 2/437"],
+     "quote": ["غزوة حنين في سنة ثمان بعد الفتح", "جَمَعَهَا مَالِكُ بْنُ عَوْفٍ النَّصْرِيُّ، فَاجْتَمَعَ إلَيْهِ مَعَ هَوَازِنَ ثَقِيفٌ كُلُّهَا"],
+     "status": "rewritten"}
+  ],
+  "diplomasi": [
+    {"t": "Delegasi Hawazin menemui Nabi ﷺ di Ji'ranah meminta keluarga mereka dikembalikan; Nabi ﷺ, kaum Muhajirin, dan Anshar membebaskan para tawanan",
+     "src": ["Sirah Ibnu Hisyam 2/488", "Ibnu Sa'd 1/115"],
+     "quote": ["ثم أتاه وفد هوازن بالجعرانة", "فرد عليهم رسول الله، ﷺ، ما كان له ولبني عبد المطلب، ورد المهاجرون ورد الأنصار"],
+     "status": "rewritten"}
+  ],
+  "ekonomi": [
+    {"t": "Ghanimah Hunain dikumpulkan di Ji'ranah: 6.000 tawanan, 24.000 unta, lebih dari 40.000 kambing, dan 4.000 uqiyah perak, lalu dibagikan kepada pasukan",
+     "src": ["Ibnu Sa'd 2/152", "Ibnu Sa'd 2/152", "Ibnu Sa'd 2/153"],
+     "quote": ["فجمع ذلك كله وحدروه إلى الجعرانة", "وكان السبي ستة آلاف رأس، والإبل أربعة وعشرين ألف بعير، والغنم أكثر من أربعين ألف شاة", "ثم أمر زيد بن ثابت بإحصاء الناس والغنائم ثم فضها على الناس"],
+     "status": "rewritten"}
+  ],
+  "sosial": [
+    {"t": "Halimah as-Sa'diyyah, ibu susu Nabi ﷺ, dari Bani Sa'd bin Bakr (Hawazin)",
+     "src": ["Sirah Ibnu Hisyam 1/160"],
+     "quote": ["امْرَأَةً مِنْ بَنِي سَعْدِ بْنِ بَكْرٍ، يُقَالُ لَهَا: حَلِيمَةُ ابْنَةُ أَبِي ذُؤَيْبٍ"],
+     "status": "ok"}
+  ],
+  "dropped": []
+}

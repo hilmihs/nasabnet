@@ -1,0 +1,92 @@
+{
+  "id": "kinanah",
+  "lokasi": {
+    "t": "Hijaz; antara lain mata air at-Tala'ah dan permukiman Baidh tercatat sebagai milik Bani Kinanah",
+    "src": [
+      "Sirah Ibnu Hisyam 2/393"
+    ],
+    "quote": [
+      "مَاء لبني كنَانَة بالحجاز"
+    ],
+    "status": "rewritten"
+  },
+  "militer": [
+    {
+      "t": "Bersama Quraisy melawan Qais 'Ailan dalam Perang Fijar",
+      "src": [
+        "Sirah Ibnu Hisyam 1/184"
+      ],
+      "quote": [
+        "هَاجَتْ حَرْبُ الْفُجَّارِ بَيْنَ قُرَيْشٍ، وَمَنْ مَعَهُمْ مِنْ كِنَانَةَ، وَبَيْنَ قَيْسِ عَيْلَانَ"
+      ],
+      "status": "ok"
+    },
+    {
+      "t": "Bani Bakr bin 'Abd Manat masuk dalam pihak Quraisy pada Perjanjian Hudaibiyah; di masa gencatan, Bani ad-Dil dari Bani Bakr menyerang Khuza'ah di mata air al-Watir dengan bantuan senjata Quraisy, yang menjadi sebab Fathu Makkah (8 H)",
+      "src": [
+        "Sirah Ibnu Hisyam 2/389",
+        "Sirah Ibnu Hisyam 2/389",
+        "Sirah Ibnu Hisyam 2/390",
+        "Sirah Ibnu Hisyam 2/390"
+      ],
+      "quote": [
+        "ثُمَّ إنَّ بَنِي بَكْرِ بْنِ عَبْدِ مَنَاةَ بْنِ كِنَانَةَ عَدَتْ عَلَى خُزَاعَةَ",
+        "ذِكْرُ الْأَسْبَابِ الْمُوجِبَةِ الْمَسِيرَ إلَى مَكَّةَ وَذِكْرُ فَتْحِ مَكَّةَ فِي شَهْرِ رَمَضَانَ سَنَةَ ثَمَانٍ",
+        "فَدَخَلَتْ بَنُو بَكْرٍ فِي عَقْدِ قُرَيْشٍ وَعَهْدِهِمْ",
+        "وَرَفَدَتْ بَنِي بَكْرٍ قُرَيْشٌ بِالسِّلَاحِ"
+      ],
+      "status": "rewritten"
+    }
+  ],
+  "diplomasi": [
+    {
+      "t": "al-Hulais bin 'Alqamah, pemimpin al-Ahabisy dari Bani al-Harits bin 'Abd Manat bin Kinanah, menjadi utusan Quraisy dalam perundingan Hudaibiyah",
+      "src": [
+        "Sirah Ibnu Hisyam 2/312"
+      ],
+      "quote": [
+        "وَكَانَ يَوْمَئِذٍ سَيِّدَ الْأَحَابِيشِ، وَهُوَ أَحَدُ بَنِي الْحَارِثِ بْنِ عَبْدِ مَنَاةَ بْنِ كِنَانَةَ"
+      ],
+      "status": "ok"
+    }
+  ],
+  "ekonomi": [
+    {
+      "t": "Al-Ahabisy (Bani al-Harits bin 'Abd Manat bin Kinanah dan sekutunya) termasuk kabilah yang singgah di pasar 'Ukazh bersama Quraisy dan Hawazin",
+      "src": [
+        "al-Muhabbar, hlm. 267"
+      ],
+      "quote": [
+        "وكانت قريش تنزلها وهوازن وطوائف من أفناء العرب: غطفان، وأسلم، والأحابيش"
+      ],
+      "status": "new"
+    }
+  ],
+  "sosial": [
+    {
+      "t": "Induk Quraisy: Quraisy adalah keturunan Fihr bin Malik bin an-Nadhr bin Kinanah; keturunan Kinanah lainnya tidak termasuk Quraisy",
+      "src": [
+        "Jamharat Ansab al-'Arab, hlm. 12",
+        "Jamharat Ansab al-'Arab, hlm. 479"
+      ],
+      "quote": [
+        "وهم قريش لا قريش غيرهم؛ ولا يكون قريشىّ إلاّ منهم",
+        "وسائر ولد كنانة ينتمون إلى كنانة أبيهم، ليسوا قريشا"
+      ],
+      "status": "rewritten"
+    },
+    {
+      "t": "Pada masa jahiliah an-nasi' (penundaan bulan haram) dipegang Bani Malik bin Kinanah; pemegangnya bergelar al-Qalammas",
+      "src": [
+        "Jamharat Ansab al-'Arab, hlm. 189",
+        "al-Muhabbar, hlm. 156"
+      ],
+      "quote": [
+        "ومنهم نسأة الشهور في الجاهلية",
+        "نسأة الشهور من كنانة وهم القلامسة، وأحدهم قلمّس"
+      ],
+      "status": "rewritten"
+    }
+  ],
+  "dropped": []
+}

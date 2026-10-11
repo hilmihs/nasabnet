@@ -1,0 +1,104 @@
+{
+  "id": "quraisy",
+  "lokasi": {
+    "t": "Makkah (Hijaz); Qushay bin Kilab menghimpun kaumnya ke Makkah dan membaginya menjadi empat bagian bagi kabilah-kabilah Quraisy (Quraisy al-Bithah di lembah, Quraisy azh-Zhawahir di pinggiran Makkah)",
+    "src": [
+      "Tarikh ath-Thabari 2/258",
+      "Ibnu Sa'd 1/71"
+    ],
+    "quote": [
+      "وقطع مكة أرباعا بين قومه، فأنزل كل قوم من قريش منازلهم من مكة",
+      "وأدخل قصي بطون قريش كلها الأبطح فسموا قريش البطاح"
+    ],
+    "status": "rewritten"
+  },
+  "militer": [
+    {
+      "t": "Memerangi kaum Muslimin di Badar, Uhud, dan Khandaq (di Khandaq bersama Ahabisy dan pengikutnya, sepuluh ribu orang)",
+      "src": [
+        "Sirah Ibnu Hisyam 1/609",
+        "Sirah Ibnu Hisyam 2/61",
+        "Sirah Ibnu Hisyam 2/219"
+      ],
+      "quote": [
+        "فتجهز الناس سراعا، وقالوا: أيظن محمد وأصحابه أن تكون كعير ابن الحضرمي",
+        "فخرجت قريش بحدها وجدها وحديدها وأحابيشها",
+        "أقبلت قريش حتى نزلت بمجتمع الأسيال من رومة"
+      ],
+      "status": "rewritten"
+    },
+    {
+      "t": "Setelah masuk Islam, tokoh-tokohnya memimpin penaklukan Syam, Irak, dan Mesir",
+      "status": "umum"
+    }
+  ],
+  "diplomasi": [
+    {
+      "t": "Putra-putra Abdu Manaf mengikat perjanjian keamanan (ilaf) bagi kafilah Quraisy dengan raja-raja Syam/Romawi/Ghassan, an-Najasyi, Kisra, dan raja-raja Himyar",
+      "src": [
+        "Tarikh ath-Thabari 2/252",
+        "al-Muhabbar, hlm. 163"
+      ],
+      "quote": [
+        "فكانوا أول من أخذ لقريش العصم، فانتشروا من الحرم",
+        "وكان أخذ لهم الإيلاف من الملوك ومن أشراف القبائل"
+      ],
+      "status": "rewritten"
+    },
+    {
+      "t": "Melalui Suhail bin 'Amr menandatangani Perjanjian Hudaibiyah dengan Nabi ﷺ: gencatan perang sepuluh tahun",
+      "src": [
+        "Sirah Ibnu Hisyam 2/317"
+      ],
+      "quote": [
+        "اصطلحا على وضع الحرب عن الناس عشر سنين"
+      ],
+      "status": "rewritten"
+    }
+  ],
+  "ekonomi": [
+    {
+      "t": "Dua perjalanan dagang tahunan: musim dingin ke Yaman dan Habasyah, musim panas ke Syam (QS Quraisy)",
+      "src": [
+        "Ibnu Sa'd 1/75",
+        "Sirah Ibnu Hisyam 1/56"
+      ],
+      "quote": [
+        "ترحل إحداهما في الشتاء إلى اليمن وإلى الحبشة إلى النجاشي",
+        "وكانت لهم خرجتان: خرجة في الشتاء، وخرجة في الصيف"
+      ],
+      "status": "rewritten"
+    },
+    {
+      "t": "Turun berdagang di pasar 'Ukazh, pasar terbesar bangsa Arab, dan di ar-Rabiyah (Hadhramaut) dengan perlindungan Bani Akil al-Murar",
+      "src": [
+        "al-Muhabbar, hlm. 267",
+        "al-Muhabbar, hlm. 267"
+      ],
+      "quote": [
+        "وكانت عكاظ من أعظم أسواق العرب. وكانت قريش تنزلها",
+        "فكانت قريش تتخفر فيها ببني آكل المرار"
+      ],
+      "status": "rewritten"
+    }
+  ],
+  "sosial": [
+    {
+      "t": "Penjaga agama dan pemegang amanah kiblat bangsa Arab; sejak Qushay bin Kilab memegang hijabah, siqayah, rifadah, nadwah, dan liwa' di Makkah",
+      "src": [
+        "al-Muhabbar, hlm. 182",
+        "Tarikh ath-Thabari 2/258"
+      ],
+      "quote": [
+        "وسدنتهم على دينهم وامناؤهم على قبلتهم (قريش)",
+        "فكانت إليه الحجابة والسقاية والرفادة والندوة واللواء"
+      ],
+      "status": "rewritten"
+    },
+    {
+      "t": "Suku Nabi ﷺ",
+      "status": "umum"
+    }
+  ],
+  "dropped": []
+}

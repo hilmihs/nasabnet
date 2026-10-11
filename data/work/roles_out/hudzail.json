@@ -1,0 +1,26 @@
+{
+  "id": "hudzail",
+  "lokasi": {"t": "Pegunungan Hijaz dekat Makkah dan 'Usfan; ar-Raji' adalah mata air milik Hudzail, dan Bani Lihyan berlindung di puncak-puncak gunung saat diserang",
+    "src": ["Ibnu Sa'd 2/55", "al-Muhabbar, hlm. 114"],
+    "quote": ["وهو ماء لهذيل بصدور الهدة", "فاعتصموا برؤوس الجبال. وهجم على طائفة منهم على ماء لهم"],
+    "status": "rewritten"},
+  "militer": [
+    {"t": "Bani Lihyan dari Hudzail mengepung para utusan dakwah di ar-Raji' (Shafar, 36 bulan setelah hijrah); Hudzail lalu menjual tawanan (Khubaib dan Ibnu ad-Datsinah) kepada Quraisy",
+     "src": ["Ibnu Sa'd 2/55", "Ibnu Sa'd 2/55", "al-Muhabbar, hlm. 479"],
+     "quote": ["إلى الرجيع في صفر على رأس ستة وثلاثين شهرا", "فغدروا بالقوم واستصرخوا عليهم هذيلا، فخرج إليهم بنو لحيان", "فلما صارا في أيديهم غدروا بهما وباعوهما من قريش"],
+     "status": "rewritten"}
+  ],
+  "diplomasi": [],
+  "ekonomi": [],
+  "sosial": [
+    {"t": "Terkenal dengan para penyairnya; Abu Qilabah al-Harits bin Sha'sha'ah disebut penyair Hudzail pertama, juga Abu Kabir al-Hudzali",
+     "src": ["Jamharat Ansab al-'Arab, hlm. 197", "Jamharat Ansab al-'Arab, hlm. 197"],
+     "quote": ["وأول شعراء هذيل، وهو أبو قلابة الحارث بن صعصعة", "من ولده: أبو كبير الهذلى الشاعر"],
+     "status": "rewritten"},
+    {"t": "Abdullah bin Mas'ud, ahli bacaan Al-Qur'an, diutus 'Umar ke Kufah sebagai pengajar dan wazir",
+     "src": ["Ibnu Sa'd 2/342", "Ibnu Sa'd 6/7"],
+     "quote": ["من سره أن يقرأ القرآن غضا كما نزل فليقرأه قراءة بن أم عبد", "بعثت إليكم عمار ابن ياسر أميرا وعبد الله بن مسعود معلما ووزيرا"],
+     "status": "rewritten"}
+  ],
+  "dropped": []
+}

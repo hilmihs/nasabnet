@@ -1,0 +1,20 @@
+{
+  "id": "asyari",
+  "lokasi": {"t": "Dataran rendah Yaman (Tihamah, sekitar Zabid)", "status": "umum"},
+  "militer": [
+    {"t": "Abu Musa al-Asy'ari memimpin pasukan Bashrah dalam pengepungan Tustar dan as-Sus", "src": ["Tarikh ath-Thabari 4/84", "Tarikh ath-Thabari 4/90"], "quote": ["وعلى أهل البصرة أبو موسى", "وأبو موسى محاصر السوس"], "status": "rewritten"},
+    {"t": "Abu 'Amir al-Asy'ari diutus Nabi ﷺ mengejar musuh ke Authas dan gugur; panji lalu diambil Abu Musa, sepupunya", "src": ["Sirah Ibnu Hisyam 2/454", "Sirah Ibnu Hisyam 2/454"], "quote": ["قبل أوطاس أبا عامر الأشعري", "فأخذ الراية أبو موسى الأشعري"], "status": "new"}
+  ],
+  "diplomasi": [
+    {"t": "Lebih dari lima puluh orang Asy'ariyyun hijrah dari Yaman dan tiba bersama Ja'far dan Muhajirin Habasyah saat Nabi ﷺ di Khaibar", "src": ["Ibnu Sa'd 4/106", "Ibnu Sa'd 4/105"], "quote": ["هاجرنا من اليمن في بضعة وخمسين رجلا من قومي", "فوافق قدومهم قدوم أهل السفينتين جعفر وأصحابه من أرض الحبشة"], "status": "rewritten"},
+    {"t": "Abu Musa menjadi hakam pihak Ali dalam tahkim", "src": ["Tarikh ath-Thabari 5/57"], "quote": ["فاختار أهل العراق أبا موسى الأشعري"], "status": "ok"}
+  ],
+  "ekonomi": [
+    {"t": "Nabi ﷺ memuji kebiasaan Asy'ariyyun mengumpulkan bekal bersama lalu membaginya rata ketika kekurangan", "status": "umum"}
+  ],
+  "sosial": [
+    {"t": "Abu Musa al-Asy'ari terkenal dengan suara merdunya membaca Al-Qur'an", "src": ["Ibnu Sa'd 4/107"], "quote": ["لقد أوتي هذا من مزامير آل داود"], "status": "ok"},
+    {"t": "Nabi ﷺ menyebut mereka kaum yang lebih lembut hatinya dan mengibaratkan Asy'ariyyun di tengah manusia seperti kantong berisi kesturi", "src": ["Ibnu Sa'd 4/106", "Ibnu Sa'd 1/349"], "quote": ["يقدم عليكم أقوام هم أرق منكم", "الأشعرون في الناس كصرة فيها مسك"], "status": "new"}
+  ],
+  "dropped": []
+}

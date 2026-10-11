@@ -1,0 +1,18 @@
+{
+  "id": "thayyi",
+  "lokasi": {"t": "Jabal Aja' dan Salma (Jabal Thayyi'), Najd utara", "src": ["Sirah Ibnu Hisyam 1/87"], "quote": ["لطيئ ومن يليها بجبلي طيئ، يعني سلمى وأجأ"], "status": "ok"},
+  "militer": [
+    {"t": "Pada masa Riddah kebanyakan Thayyi' sempat bergabung dengan Thulaihah; 'Adi bin Hatim membujuk mereka kembali kepada Islam sebelum Khalid menyerang, dan seribu penunggang dari Thayyi' bergabung dengan kaum Muslimin", "src": ["Tarikh ath-Thabari 3/242", "Tarikh ath-Thabari 3/253", "Tarikh ath-Thabari 3/254"], "quote": ["واجتمع على طليحة عوام طيئ وأسد", "فعاد عدي بإسلامهم إلى خالد", "ولحق بالمسلمين منهم ألف راكب"], "status": "rewritten"}
+  ],
+  "diplomasi": [
+    {"t": "Adi bin Hatim, yang sebelumnya Nasrani, datang ke Madinah lalu masuk Islam", "src": ["Usdul Ghabah 4/8", "Sirah Ibnu Hisyam 2/580"], "quote": ["فأسلم وكان نصرانيا", "فقلت: عدي بن حاتم، فقام رسول الله ﷺ"], "status": "rewritten"},
+    {"t": "Zaid al-Khail ath-Tha'i memimpin delegasi Thayyi' ke Madinah dan diberi nama Zaid al-Khair oleh Nabi ﷺ", "src": ["Ibnu Sa'd 1/321", "Sirah Ibnu Hisyam 2/577"], "quote": ["رأسهم وسيدهم زيد الخير، وهو زيد الخيل بن مهلهل من بني نبهان", "ثم سماه رسول الله ﷺ زيد الخير"], "status": "rewritten"}
+  ],
+  "ekonomi": [
+    {"t": "Adi bin Hatim menyerahkan zakat kaumnya kepada Abu Bakar di masa Riddah", "src": ["Usdul Ghabah 4/9"], "quote": ["قدم على أبي بكر الصديق في وقت الردة بصدقة قومه"], "status": "ok"}
+  ],
+  "sosial": [
+    {"t": "Hatim ath-Tha'i, simbol kedermawanan Arab", "src": ["Usdul Ghabah 4/8"], "quote": ["وأبوه حاتم هو الجواد الموصوف بالجود، الذي يضرب به المثل"], "status": "ok"}
+  ],
+  "dropped": []
+}

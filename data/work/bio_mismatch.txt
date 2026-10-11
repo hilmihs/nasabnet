@@ -1,0 +1,88 @@
+# id	batch	which excerpt	note (excerpt belongs to someone else; fix matcher in build_bio_inputs.py)
+n3612	7	isabah	about Abdullah bin al-Harits bin Abdul Muththalib, not Babbah
+s549	7	isabah	about Rafi' bin Yazid ats-Tsaqafi
+s803	7	isabah	about al-Harits bin Qais al-Ghassani
+n3666	7	isabah	about the mistaken entry Abdullah bin Zaid bin Amr bin Mazin
+n951	6	isabah	1/442 about Basyir bin Sa'd bin an-Nu'man bin Akkal al-Mu'awi
+n2185	6	ibnsad	mainly his father's (Kharijah) entry
+s4723	11	isabah	about a man Hind bin Amr
+s639	11	isabah	about a Hawazin man at Yarmuk
+s535	11	isabah	heading Amir bin Rabi'ah, content matches Shafwan bin Baidha (used)
+n1091	11	isabah	only the heading captured (Jabir bin Abdullah) — entry text missing
+s4838	8	ibnsad	about 'Amrah al-Ula
+s4412	8	isabah	Fathimah binti al-Walid of Ishabah does not fit Ibnu Sa'd genealogy
+n15512	8	isabah	entry explicitly not Abu Dujanah
+s595	9	isabah	about al-Harits bin Qais al-Ghassani
+s755	10	ibnsad	entry is Umair bin Haram bin Amr bin al-Jamuh
+s4790	12	both	Ibnu Sa'd and Ishabah look like two different women
+n15267	12	isabah	man killed at Khaibar vs Ibnu Sa'd's died at Khandaq
+s854	12	isabah	al-Awsi entry probably different person
+n65	13	isabah	1/172 only a footnote about Uhud
+s4744	13	ibnsad	8/401 tail includes another woman's entry
+s436	14	isabah	5/545 about Malik bin Amr bin Kaladah (different man)
+s4668	14	isabah	8/286 about Quraibah binti Abi Umayyah
+s544	15	ibnsad	about al-Harits bin Aus bin Mu'adz
+s709	15	ibnsad	about Abdullah bin ar-Rabi'
+n4953	15	isabah	about al-Harits bin Malik ath-Tha'i (Abu Waqid al-Laitsi!)
+s4745	15	ibnsad	three entries, only first is her
+s4828	12	isabah	Umairah binti Sahl bin Rafi' vs father Sahl bin Tsa'labah
+n3573	12	isabah	Ibn Anas al-Aslami (Ma'iz) vs al-Juhani
+s4561	16	isabah	Habibah binti Mas'ud bin Khalid of Bani Amir bin Zuraiq
+n5379	16	isabah	Abu Khaitsamah Malik bin Qais, not Abu Shirmah
+s748	16	isabah	header names a Khuza'i, no text
+s538	19	isabah	Amr bin Abi Amr al-Ajlani
+s4430	19	ibnsad	Fathimah binti al-Mujallal
+s4664	19	isabah	another Amrah binti Sa'd bin Amr
+s4644	20	isabah	runs into other women's entries
+m-quraibah-kubra	17	ibnsad	mother Atikah's entry
+n8814	18	isabah	al-Harits bin Ziyad ash-Syami, not the Anshari
+s4516	24	isabah	Hindun binti Sahl al-Juhaniyyah, likely another woman
+n6233	24	turath	Turath death 161-170 H impossible for companion (data issue)
+n5388	24	data	Malik bin Yakhamir is a tabi'i, not companion (comp flag?)
+n5061	23	isabah	Fathimah binti Qais header only, maybe al-Fihriyyah
+n7746	z2	isabah	1/209 doubtful short entry, not As'ad bin Zurarah main bio
+s901	26	isabah	4/112 describes his brother (fought Uhud with mushrikin)
+n816	25	ibnsad	runs into other women's stories
+n2818	25	isabah	truncated
+n2167	22	both	Ibnu Sa'd = Anshari Uqbah killed at Yamamah; Ishabah = Uqbah al-Juhani
+n4837	22	isabah	Amr bin Sulaim al-Aufi
+n3871	22	isabah	Abdullah bin Malik al-Aslami
+n3780	22	isabah	adz-Dzakwani
+n352	28	isabah	about Yasar bin Numair
+s4665	28	isabah	bint Sa'd bin Amr header, different nasab
+n4773	28	turath	death 183-185 H look like typos
+n3862	27	isabah	Syam man died 58 H vs Turath 97/98 H
+n2414	27	isabah	Sa'd bin Amr (Bi'r Ma'unah) vs Turath Syam 61-70 H
+n4873	27	both	Ishabah man died under Mu'awiyah; Ibnu Sa'd jumbled
+s954	27	both	heading only
+n3278	27	both	heading only
+n1979	30	isabah	another Rabi'ah bin Amr (riba verse story)
+n1930	30	isabah	Rafi' ath-Tha'i, likely should be al-Muzani
+n6851	31	data	node merges 3 men: Wahb bin Abdullah (child of Abdullah bin Zam'ah?), Wahb of Abu Sarh family (Mu'tah), Abu Juhaifah (Turath) — review graph relation
+n2947	32	data	node mixes adh-Dhahhak bin Sufyan as-Sulami (excerpts) and al-Kilabi (Turath)
+s4646	32	isabah	ar-Rabab binti Ka'b, mother of Hudzaifah
+n3832	32	isabah	part about Abdullah bin Anamah adh-Dhabbi
+n8086	32	data	same Ishabah excerpt as n3787 — possible duplicate person
+n2947	32	graph	graph links him to Sulami father but lists al-Kilabi's daughter s4326 as child — review edges
+n821	33	isabah	about Anas bin Malik the servant (n822), not al-Ka'bi
+n341	33	isabah	about Abdullah bin Unais al-Aslami
+s1035	33	isabah	al-Asadi heading only
+n1028	33	isabah	Tamim bin Asad al-Khuza'i heading only
+s1005	33	ibnsad	heading only
+n6683	34	data	same person as s1052 (Hazzal al-Aslami) — duplicate node
+n5255	36	isabah	Qais bin Ubaid died at Yamamah vs Turath Abu Basyir 40/63 H
+s1082	36	ibnsad	mixes several entries
+n5220	36	isabah	Mu'tah right-flank story belongs to Quthbah bin Qatadah
+n10117	36	both	footnotes only
+n10129	36	both	footnotes only
+n1912	37	isabah	Syuraih bin Amir as-Sa'di (Bashrah) vs al-Kilabi
+n4449	37	isabah	Ibnu Hajar calls the Uqail bin Muqarrin identification an error
+n4928	37	data	same person as s1119 (Umair bin Sa'd, Nasij Wahdah) — duplicate node
+n1211	38	isabah	al-Harits bin Aus at Badr vs Ta'if man
+n10068	38	isabah	jahili horseman al-A'raj vs governor of Bahrain
+n3685	39	isabah	Abdullah bin Amr killed at Yamamah (Yemeni) vs Turath 57 H
+n10067	39	isabah	jahili horseman al-A'raj (same excerpt as n10068)
+n1346	39	isabah	kunya Abu ad-Darda' vs Abu al-Ward
+n5309	39	isabah	excerpt only guesses identity
+n849	40	isabah	al-Fihri Abu Abd ar-Rahman, likely other person
+n520	39	isabah	heading only (Amr bin Bakr)

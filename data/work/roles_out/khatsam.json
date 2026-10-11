@@ -1,0 +1,16 @@
+{
+  "id": "khatsam",
+  "lokasi": {"t": "Sekitar Tabalah dan Bisyah, di jalur antara Yaman dan Makkah", "src": ["Ibnu Sa'd 2/162", "Sirah Ibnu Hisyam 1/46"], "quote": ["إلى خثعم بناحية بيشة قريبا من تربة", "حتى إذا كان بأرض خثعم"], "status": "rewritten"},
+  "militer": [
+    {"t": "Nufail bin Habib al-Khath'ami memimpin dua kabilah Khath'am, Syahran dan Nahis, menghadang pasukan Abrahah, tetapi kalah dan ditawan", "src": ["Sirah Ibnu Hisyam 1/46", "Sirah Ibnu Hisyam 1/46"], "quote": ["عرض له نفيل بن حبيب الخثعمي في قبيلي خثعم", "فقاتله فهزمه أبرهة"], "status": "new"}
+  ],
+  "diplomasi": [
+    {"t": "Delegasi Khath'am dipimpin 'Ats'ats bin Zahr dan Anas bin Mudrik masuk Islam setelah Dzul Khalashah dihancurkan, dan meminta Nabi ﷺ menuliskan surat pedoman bagi mereka", "src": ["Ibnu Sa'd 1/348", "Ibnu Sa'd 1/348"], "quote": ["وفد عثعث بن زحر وأنس بن مدرك في رجال من خثعم", "فاكتب لنا كتابا نتبع ما فيه"], "status": "new"}
+  ],
+  "ekonomi": [],
+  "sosial": [
+    {"t": "Asma' binti 'Umais, muhajirah Habasyah, istri Ja'far, lalu Abu Bakar, lalu Ali", "src": ["Usdul Ghabah 7/13", "Usdul Ghabah 7/13", "Usdul Ghabah 7/13"], "quote": ["وهاجرت إلي الحبشة مع زوجها جعفر بن أبي طالب", "تزوجها أبو بكر الصديق", "ثم مات عنها فتزوجها علي بن أبي طالب"], "status": "ok"},
+    {"t": "Bersama Daus dan Bajilah memuja berhala Dzul Khalashah di Tabalah sebelum Islam; berhala itu dihancurkan Jarir bin 'Abdullah dan sebagian Khath'am terbunuh", "src": ["Sirah Ibnu Hisyam 1/86", "Ibnu Sa'd 1/348"], "quote": ["لدوس وخثعم وبجيلة", "بعدما هدم جرير ابن عبد الله ذا الخلصة"], "status": "rewritten"}
+  ],
+  "dropped": []
+}

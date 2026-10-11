@@ -1,0 +1,49 @@
+{
+  "id": "dhabbah",
+  "lokasi": {
+    "t": "Najd tengah; kemudian banyak di Bashrah",
+    "status": "umum"
+  },
+  "militer": [
+    {
+      "t": "Berada di pihak Aisyah pada Perang Jamal dan bertahan di sekitar untanya hingga banyak yang gugur",
+      "src": [
+        "Tarikh ath-Thabari 4/516",
+        "Tarikh ath-Thabari 4/518"
+      ],
+      "quote": [
+        "ما زال رأس الجمل معتدلا حتى قتلت بنو ضبة حولي",
+        "ما زال جملي معتدلا حتى فقدت أصوات بني ضبة"
+      ],
+      "status": "rewritten"
+    }
+  ],
+  "diplomasi": [
+    {
+      "t": "Pada masa Riddah, Bani Dhabbah mengalahkan dan menawan Waki' (sekutu Sajah dari Tamim), lalu berdamai: Dhabbah melepas para tawanan dan korban tewas dibayar diyatnya",
+      "src": [
+        "Tarikh ath-Thabari 3/270",
+        "Tarikh ath-Thabari 3/271"
+      ],
+      "quote": [
+        "فالتقى وكيع وبشر وبنو بكر من بني ضبة، فهزما، وأسر سماعة ووكيع وقعقاع",
+        "لهم ضبة الأسرى، وودوا القتلى، وخرجوا عنهم"
+      ],
+      "status": "new"
+    }
+  ],
+  "ekonomi": [],
+  "sosial": [
+    {
+      "t": "Bagian dari konfederasi ar-Ribab",
+      "src": [
+        "Tarikh ath-Thabari 3/270"
+      ],
+      "quote": [
+        "وسمعت بهذا الرباب فاجتمعوا لها، ضبتها وعبد مناتها"
+      ],
+      "status": "ok"
+    }
+  ],
+  "dropped": []
+}

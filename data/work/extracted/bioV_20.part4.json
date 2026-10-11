@@ -1,0 +1,112 @@
+[
+ {
+  "id": "s4829",
+  "identitas": null,
+  "kabilah_tabaqat": {"t": "Bani Ghanm bin Malik bin an-Najjar dari Anshar; termasuk wanita yang berbaiat kepada Rasulullah ﷺ.", "src": ["Ibnu Sa'd 8/446", "al-Ishabah 8/140"]},
+  "nisbah_rihlah": null,
+  "laqab_profesi": {"t": "Kunyah Ummu Tsabit.", "src": ["Ibnu Sa'd 8/446", "al-Ishabah 8/140", "Turath rawi"]},
+  "peran": {"t": "Masuk Islam dan berbaiat kepada Rasulullah ﷺ; istri Mu'adz bin al-Harits bin Rifa'ah. Ketika Sa'd bin Mu'adz memutuskan hukum atas Bani Quraizhah, mereka ditahan di rumahnya.", "src": ["Ibnu Sa'd 8/446", "al-Ishabah 8/140"]},
+  "hilf": null,
+  "syaraf": {"t": "Ayahnya al-Harits bin Tsa'labah; al-Waqidi menyebutnya al-Hadats. Ibunya Kabsyah binti Tsabit bin an-Nu'man bin Haram.", "src": ["al-Ishabah 8/140", "Ibnu Sa'd 8/446"]},
+  "catatan": null
+ },
+ {
+  "id": "s592",
+  "identitas": null,
+  "kabilah_tabaqat": {"t": "Keturunan al-Jadd bin al-'Ajlan; termasuk Ahlu Badar.", "src": ["Ibnu Sa'd 3/468"]},
+  "nisbah_rihlah": null,
+  "laqab_profesi": null,
+  "peran": {"t": "Ikut Badar (menurut Musa bin 'Uqbah, Ibnu Ishaq, Abu Ma'syar dan Muhammad bin 'Umar) dan Uhud.", "src": ["Ibnu Sa'd 3/468"]},
+  "hilf": null,
+  "syaraf": null,
+  "catatan": {"t": "Tidak memiliki keturunan.", "src": ["Ibnu Sa'd 3/468", "Turath rawi"]}
+ },
+ {
+  "id": "n2346",
+  "identitas": {"lahir": null, "umur": null, "wafat": "Di Kufah; ada yang mengatakan terbunuh pada hari al-Harrah", "makam": null, "src": ["al-Ishabah 3/84"]},
+  "kabilah_tabaqat": {"t": "Bani Makhzum (al-Makhzumi); masuk Islam sebelum Fathu Makkah.", "src": ["al-Ishabah 3/84"]},
+  "nisbah_rihlah": {"t": "Kufah.", "src": ["al-Ishabah 3/84", "Turath rawi"]},
+  "laqab_profesi": null,
+  "peran": {"t": "Masuk Islam sebelum Fathu Makkah dan, menurut al-Waqidi, ikut menyaksikan Fathu Makkah.", "src": ["al-Ishabah 3/84"]},
+  "hilf": null,
+  "syaraf": null,
+  "catatan": {"t": "Lebih tua dari saudaranya, 'Amr bin Huraits.", "src": ["al-Ishabah 3/84"]}
+ },
+ {
+  "id": "s4770",
+  "identitas": null,
+  "kabilah_tabaqat": {"t": "Bani Salimah (keturunan Sawad bin Ghanm bin Ka'b bin Salimah); termasuk wanita yang berbaiat kepada Rasulullah ﷺ.", "src": ["Ibnu Sa'd 8/410", "al-Ishabah 8/173"]},
+  "nisbah_rihlah": null,
+  "laqab_profesi": null,
+  "peran": {"t": "Masuk Islam dan berbaiat kepada Rasulullah ﷺ; menikah dengan al-Harits bin Suraqah bin Khansa' bin Sinan dari Bani Salimah.", "src": ["Ibnu Sa'd 8/410", "al-Ishabah 8/173"]},
+  "hilf": null,
+  "syaraf": {"t": "Ibunya Na'ilah binti Salamah bin Waqsy dari Bani 'Abd al-Asyhal.", "src": ["Ibnu Sa'd 8/410"]},
+  "catatan": {"t": "Saudari seayah-seibu Sahl bin Qais, peserta Badar yang gugur syahid pada Perang Uhud.", "src": ["Ibnu Sa'd 8/410"]}
+ },
+ {
+  "id": "s4545",
+  "identitas": null,
+  "kabilah_tabaqat": {"t": "Keturunan Majda'ah bin Haritsah dari Anshar; termasuk wanita yang berbaiat kepada Rasulullah ﷺ.", "src": ["Ibnu Sa'd 8/334", "al-Ishabah 8/183"]},
+  "nisbah_rihlah": null,
+  "laqab_profesi": {"t": "Kunyah Ummu 'Abdillah.", "src": ["Ibnu Sa'd 8/334", "al-Ishabah 8/183", "Turath rawi"]},
+  "peran": {"t": "Masuk Islam dan berbaiat kepada Rasulullah ﷺ; menikah dengan Nuhaik bin Isaf bin 'Adi.", "src": ["Ibnu Sa'd 8/334", "al-Ishabah 8/183"]},
+  "hilf": null,
+  "syaraf": {"t": "Ibunya Ummu Khalid binti 'Adi bin Majda'ah bin Haritsah.", "src": ["Ibnu Sa'd 8/334"]},
+  "catatan": {"t": "Saudari seayah Salamah bin Aslam bin Huraisy.", "src": ["Ibnu Sa'd 8/334", "al-Ishabah 8/183"]}
+ },
+ {
+  "id": "n2649",
+  "identitas": {"lahir": null, "umur": null, "wafat": "Menurut Ibnu Hibban di Kufah pada masa pemerintahan 'Abd al-Malik; adz-Dzahabi menilai yang wafat saat itu adalah putranya Jabir, sedangkan Samurah wafat jauh lebih awal", "makam": null, "src": ["al-Ishabah 3/149", "Turath rawi"]},
+  "kabilah_tabaqat": {"t": "Masuk Islam pada Fathu Makkah; ia dan putranya sama-sama sahabat.", "src": ["al-Ishabah 3/149", "Turath rawi"]},
+  "nisbah_rihlah": {"t": "Al-Mada'in (bersama Sa'd bin Abi Waqqash) → menetap di Kufah.", "src": ["al-Ishabah 3/149", "Turath rawi"]},
+  "laqab_profesi": null,
+  "peran": {"t": "Masuk Islam pada Fathu Makkah; bersama Sa'd bin Abi Waqqash di al-Mada'in dan menikahi saudari Sa'd.", "src": ["al-Ishabah 3/149"]},
+  "hilf": null,
+  "syaraf": null,
+  "catatan": null
+ },
+ {
+  "id": "n12915",
+  "identitas": null,
+  "kabilah_tabaqat": {"t": "Bani Ghanm bin Malik bin an-Najjar; termasuk wanita yang berbaiat kepada Rasulullah ﷺ.", "src": ["Ibnu Sa'd 8/441", "al-Ishabah 8/195"]},
+  "nisbah_rihlah": null,
+  "laqab_profesi": null,
+  "peran": {"t": "Masuk Islam dan berbaiat kepada Rasulullah ﷺ; menikah dengan 'Abdullah bin Abi Haram bin Qais dari Bani 'Abd al-Asyhal bin Haritsah bin Dinar bin an-Najjar. Disebut pula sebagai istri 'Amr bin Hazm.", "src": ["Ibnu Sa'd 8/441", "al-Ishabah 8/195"]},
+  "hilf": null,
+  "syaraf": {"t": "Putri Haritsah bin an-Nu'man; ibunya Ummu Khalid binti Khalid bin Ya'isy.", "src": ["Ibnu Sa'd 8/441"]},
+  "catatan": null
+ },
+ {
+  "id": "s4611",
+  "identitas": null,
+  "kabilah_tabaqat": {"t": "Bani Khathmah; termasuk wanita yang berbaiat kepada Rasulullah ﷺ.", "src": ["Ibnu Sa'd 8/355", "al-Ishabah 8/209"]},
+  "nisbah_rihlah": null,
+  "laqab_profesi": null,
+  "peran": {"t": "Masuk Islam dan berbaiat kepada Rasulullah ﷺ; menikah dengan 'Abd ar-Rahman bin Aus bin 'Amr al-Khathmi.", "src": ["Ibnu Sa'd 8/355"]},
+  "hilf": null,
+  "syaraf": {"t": "Ibunya Kabsyah binti Aus bin 'Adi bin Umayyah al-Khathmi, juga termasuk wanita yang berbaiat.", "src": ["Ibnu Sa'd 8/355"]},
+  "catatan": {"t": "Saudari seayah-seibu Khuzaimah bin Tsabit Dzu asy-Syahadatain.", "src": ["Ibnu Sa'd 8/355"]}
+ },
+ {
+  "id": "s881",
+  "identitas": null,
+  "kabilah_tabaqat": {"t": "Bani Sulaim bin Manshur dari Qais 'Ailan.", "src": ["Ibnu Sa'd 4/104"]},
+  "nisbah_rihlah": null,
+  "laqab_profesi": {"t": "Bernisbah al-Asadi karena menjadi sekutu (halif) Bani Asad.", "src": ["al-Ishabah 3/378"]},
+  "peran": {"t": "Ikut Perang Uhud.", "src": ["Ibnu Sa'd 4/104"]},
+  "hilf": {"t": "Halif Bani Kabir bin Ghanm bin Dudan bin Asad bin Khuzaimah, yang merupakan sekutu Bani 'Abd Syams.", "src": ["Ibnu Sa'd 4/104", "al-Ishabah 3/378"]},
+  "syaraf": null,
+  "catatan": {"t": "Saudara Malik, Mudlaj dan Tsaqf, putra-putra 'Amr yang ikut Badar.", "src": ["Ibnu Sa'd 4/104"]}
+ },
+ {
+  "id": "s4758",
+  "identitas": null,
+  "kabilah_tabaqat": {"t": "Bani Salimah (keturunan 'Adi bin Ghanm bin Ka'b bin Salimah); termasuk wanita yang berbaiat kepada Rasulullah ﷺ.", "src": ["Ibnu Sa'd 8/406"]},
+  "nisbah_rihlah": null,
+  "laqab_profesi": null,
+  "peran": {"t": "Masuk Islam dan berbaiat kepada Rasulullah ﷺ; menikah dengan Jubair bin Shakhr bin Umayyah bin Khansa'. Ketika sedang hamil, ia meminta Rasulullah ﷺ membaiatnya atas janin dalam kandungannya, dan beliau bersabda: \"Engkau wanita merdeka di antara wanita-wanita merdeka.\"", "src": ["Ibnu Sa'd 8/406"]},
+  "hilf": null,
+  "syaraf": {"t": "Ibunya Ummu Qais binti Haram bin Laudzan bin Haritsah.", "src": ["Ibnu Sa'd 8/406"]},
+  "catatan": null
+ }
+]

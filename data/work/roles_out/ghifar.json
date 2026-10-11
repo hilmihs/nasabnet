@@ -1,0 +1,19 @@
+{
+  "id": "ghifar",
+  "lokasi": {"t": "Hijaz, di antara Makkah dan Madinah; di antaranya Ghaiqah", "src": ["Usdul Ghabah 2/178", "al-Ishabah 1/315"], "quote": ["وكانوا ينزلون غيقة من بلاد غفار", "بين مكة والمدينة في بلاد غفار"], "status": "rewritten"},
+  "militer": [
+    {"t": "Mengirim 400 orang dalam pasukan Fathu Makkah", "src": ["Sirah Ibnu Hisyam 2/421"], "quote": ["ومن بني غفار أربع مائة"], "status": "new"},
+    {"t": "Menjelang Badar, Ima' bin Rahadhah al-Ghifari (atau putranya Khufaf) mengirim hewan sembelihan kepada Quraisy yang melintas dan menawarkan bantuan senjata dan orang", "src": ["Sirah Ibnu Hisyam 1/621"], "quote": ["بعث إلى قريش، حين مروا به، ابنا له"], "status": "new"}
+  ],
+  "diplomasi": [
+    {"t": "Abu Dzar mengajak kaumnya; separuh Ghifar masuk Islam sebelum Nabi ﷺ tiba di Madinah dan sisanya setelah beliau tiba", "src": ["Ibnu Sa'd 4/221"], "quote": ["فاحتملنا فأتينا قومنا فأسلم نصفهم قبل أن يقدم رسول الله"], "status": "rewritten"}
+  ],
+  "ekonomi": [
+    {"t": "Wilayahnya dilalui kafilah Quraisy; setelah masuk Islam Abu Dzar menghadang kafilah Quraisy di bawah Tsaniyyat Ghazal", "src": ["Ibnu Sa'd 4/222"], "quote": ["فكان يكون بأسفل ثنية غزال فكان يعترض لعيرات قريش"], "status": "rewritten"}
+  ],
+  "sosial": [
+    {"t": "Nabi ﷺ mendoakan: Ghifar, semoga Allah mengampuninya", "src": ["Ibnu Sa'd 4/222"], "quote": ["غفار غفر الله لها وأسلم سالمها الله"], "status": "ok"},
+    {"t": "Abu Dzar al-Ghifari dikenal karena kezuhudannya", "src": ["al-Ishabah 7/105"], "quote": ["أبو ذر الغفاري الزاهد المشهور الصادق اللهجة"], "status": "ok"}
+  ],
+  "dropped": []
+}

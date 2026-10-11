@@ -1,0 +1,44 @@
+{
+  "id": "tsaqif",
+  "lokasi": {"t": "Tha'if (Hijaz)",
+    "src": ["Sirah Ibnu Hisyam 2/478"],
+    "quote": ["ثَقِيفٍ الطَّائِفَ أَغْلَقُوا عَلَيْهِمْ أَبْوَابَ مَدِينَتِهَا"],
+    "status": "ok"},
+  "militer": [
+    {"t": "Bertahan di benteng Tha'if saat dikepung kaum Muslimin setelah Hunain (Syawal 8 H)",
+     "src": ["Ibnu Sa'd 2/158", "Ibnu Sa'd 2/158"],
+     "quote": ["غزوة رسول الله، ﷺ، الطائف في شوال سنة ثمان من مهاجره", "فلما انهزموا من أوطاس دخلوا حصنهم وأغلقوه عليهم وتهيأوا للقتال"],
+     "status": "ok"},
+    {"t": "Abu 'Ubaid bin Mas'ud ats-Tsaqafi diangkat 'Umar memimpin pasukan ke Irak dan gugur diinjak gajah dalam Perang Jisr",
+     "src": ["Tarikh ath-Thabari 3/445", "Tarikh ath-Thabari 3/456", "Tarikh ath-Thabari 3/457"],
+     "quote": ["فأمر أبا عبيد على الجيش", "فعقد ابن صلوبا الجسر للفريقين جميعا", "فلما بصر الناس بأبي عبيد تحت الفيل"],
+     "status": "rewritten"}
+  ],
+  "diplomasi": [
+    {"t": "'Urwah bin Mas'ud ats-Tsaqafi menjadi utusan Quraisy dalam perundingan Hudaibiyah",
+     "src": ["Sirah Ibnu Hisyam 2/313"],
+     "quote": ["ثم بعثوا إلى رسول الله ﷺ عروة بن مسعود الثقفي"],
+     "status": "ok"},
+    {"t": "Delegasi Tsaqif datang ke Madinah dan menyatakan masuk Islam (Ramadhan 9 H)",
+     "src": ["Sirah Ibnu Hisyam 2/537"],
+     "quote": ["أمر وفد ثقيف وإسلامها في شهر رمضان سنة تسع"],
+     "status": "ok"},
+    {"t": "al-Mughirah bin Syu'bah termasuk 'duhat al-'Arab' (ahli siasat Arab) dan diutus menemui Rustum menjelang Qadisiyah",
+     "src": ["al-Muhabbar, hlm. 184", "Tarikh ath-Thabari 3/521"],
+     "quote": ["و(المغيرة) ابن شعبة الثقفي", "فبعثوا إليهم المغيرة بن شعبة"],
+     "status": "ok"}
+  ],
+  "ekonomi": [
+    {"t": "Tha'if berkebun anggur: Nabi ﷺ sempat memerintahkan kebun anggur Tsaqif ditebang saat pengepungan; hartawan Quraisy ('Utbah dan Syaibah bin Rabi'ah) juga memiliki kebun di sana",
+     "src": ["Tarikh ath-Thabari 3/84", "Sirah Ibnu Hisyam 1/420"],
+     "quote": ["فأمر رسول الله بقطع أعناب ثقيف", "لِعُتْبَةَ بْنِ رَبِيعَةَ وَشَيْبَةَ بْنِ رَبِيعَةَ، وَهُمَا فِيهِ"],
+     "status": "rewritten"}
+  ],
+  "sosial": [
+    {"t": "Pemuja berhala al-Lata di Tha'if (juru kuncinya Bani Mu'attib), yang dihancurkan Abu Sufyan dan al-Mughirah atas perintah Nabi ﷺ",
+     "src": ["Sirah Ibnu Hisyam 1/85", "al-Muhabbar, hlm. 315"],
+     "quote": ["لِثَقِيفِ بِالطَّائِفِ، وَكَانَ سَدَنَتَهَا وَحُجَّابَهَا بَنُو مُعَتِّبٍ", "فبعث رسول الله صلى الله عليه أبا سفيان بن حرب والمغيرة بن شعبة فهدماه"],
+     "status": "rewritten"}
+  ],
+  "dropped": []
+}

@@ -1,0 +1,17 @@
+{
+  "id": "anshar",
+  "lokasi": {"t": "Yatsrib/Madinah", "src": ["Sirah Ibnu Hisyam 1/13"], "quote": ["وَنَزَلَتْ الْأَوْسُ وَالْخَزْرَجُ يَثْرِبَ"], "status": "ok"},
+  "militer": [
+    {"t": "Menjadi bagian terbesar pasukan Badar: menurut satu riwayat 236 orang Anshar dan 77 Muhajirin", "src": ["Tarikh ath-Thabari 2/431", "Sirah Ibnu Hisyam 1/615"], "quote": ["كَانَ الْمُهَاجِرُونَ يَوْمَ بَدْرٍ سَبْعَةً وَسَبْعِينَ رَجُلا، وَكَانَ الأَنْصَارُ مِائَتَيْنِ وَسِتَّةً وَثَلاثِينَ رَجُلا", "وَإِنَّمَا يُرِيدُ الْأَنْصَارَ، وَذَلِكَ أَنَّهُمْ عَدَدُ النَّاسِ"], "status": "rewritten"}
+  ],
+  "diplomasi": [
+    {"t": "Bai'at 'Aqabah: berjanji melindungi Nabi ﷺ setibanya di negeri mereka seperti melindungi anak dan istri sendiri", "src": ["Sirah Ibnu Hisyam 1/615"], "quote": ["فَأَنْتَ فِي ذِمَّتِنَا نَمْنَعُكَ مِمَّا نَمْنَعُ مِنْهُ أَبْنَاءَنَا وَنِسَاءَنَا"], "status": "rewritten"}
+  ],
+  "ekonomi": [
+    {"t": "Berbagi harta dengan Muhajirin melalui mu'akhah; misalnya Sa'd bin ar-Rabi' menawarkan separuh kebunnya kepada 'Abdurrahman bin 'Auf", "src": ["Sirah Ibnu Hisyam 1/505", "Ibnu Sa'd 3/523"], "quote": ["تَآخَوْا فِي اللَّهِ أَخَوَيْنِ أَخَوَيْنِ", "هلم إلى حديقتي أشاطركها"], "status": "rewritten"}
+  ],
+  "sosial": [
+    {"t": "Islam tersebar di Madinah sebelum hijrah: hampir setiap rumah Anshar memiliki pemeluk Islam, dan shalat Jum'at pertama di Madinah diselenggarakan As'ad bin Zurarah", "src": ["Sirah Ibnu Hisyam 1/437", "Sirah Ibnu Hisyam 1/435"], "quote": ["حَتَّى لَمْ تَبْقَ دَارٌ مِنْ دُورِ الْأَنْصَارِ إلَّا وَفِيهَا رِجَالٌ وَنِسَاءٌ مُسْلِمُونَ", "أَسْعَدُ بْنُ زُرَارَةَ وَإِقَامَةُ أَوَّلِ جُمُعَةٍ بِالْمَدِينَةِ"], "status": "rewritten"}
+  ],
+  "dropped": []
+}

@@ -1,0 +1,112 @@
+[
+ {
+  "id": "s4340",
+  "identitas": {"lahir": null, "umur": null, "wafat": "Wafat dalam perjalanan sebelum sampai kepada Rasulullah ﷺ", "makam": null, "src": ["Ibnu Sa'd 8/160"]},
+  "kabilah_tabaqat": {"t": "Dari Bani Taghlib; nasabnya: al-Hudzail bin Hubairah bin Qabishah … bin 'Amr bin Ghanm bin Taghlib.", "src": ["Ibnu Sa'd 8/160", "Turath rawi"]},
+  "nisbah_rihlah": null,
+  "laqab_profesi": null,
+  "peran": {"t": "Rasulullah ﷺ menikahinya, tetapi ia wafat di tengah perjalanan sebelum sampai kepada beliau.", "src": ["Ibnu Sa'd 8/160"]},
+  "hilf": null,
+  "syaraf": null,
+  "catatan": {"t": "Ibunya putri Khalifah bin Farwah al-Kalbi, saudari Dihyah bin Khalifah; ia diasuh oleh bibinya, Khirniq binti Khalifah.", "src": ["Ibnu Sa'd 8/160"]}
+ },
+ {
+  "id": "n1782",
+  "identitas": null,
+  "kabilah_tabaqat": {"t": "Dicatat sebagai sahabat, tetapi al-Bukhari menyatakan penyimakannya dari Nabi ﷺ tidak tsabit.", "src": ["al-Ishabah 2/228", "Turath rawi"]},
+  "nisbah_rihlah": {"t": "Terhitung di kalangan penduduk Kufah.", "src": ["al-Ishabah 2/228"]},
+  "laqab_profesi": {"t": "Kunyahnya disebut Abu Salamah (سلمة), ada pula yang mengatakan Abu Salamah (سلامة); nisbahnya disebut as-Sulami atau as-Salami.", "src": ["al-Ishabah 2/228", "Turath rawi"]},
+  "peran": {"t": "Haditsnya dikeluarkan oleh Ahmad, Ibnu Majah, dan ath-Thabarani dalam al-Awsath; hanya diriwayatkan oleh Manshur bin al-Mu'tamir dari 'Abdullah bin 'Ali bin 'Urfuthah (ada yang mengatakan dari 'Urfuthah) darinya. Ibnu as-Sakan menyebut sanadnya diperselisihkan.", "src": ["al-Ishabah 2/228"]},
+  "hilf": null,
+  "syaraf": {"t": "Nama ayahnya diperselisihkan: Salamah, Ibnu Abi Salamah, atau Ibnu Abi Maslamah. Abu 'Umar menilai keliru pendapat yang menjadikannya keturunan Habib as-Sulami, ayah Abu 'Abdirrahman.", "src": ["al-Ishabah 2/228", "Turath rawi"]},
+  "catatan": null
+ },
+ {
+  "id": "s4445",
+  "identitas": null,
+  "kabilah_tabaqat": {"t": "Dari Khuza'ah; nasabnya: al-Hushain bin 'Ubaid bin Khalaf … bin Habasyiyyah bin Ka'b bin 'Amr.", "src": ["Ibnu Sa'd 8/287"]},
+  "nisbah_rihlah": null,
+  "laqab_profesi": null,
+  "peran": {"t": "Masuk Islam, berbai'at kepada Rasulullah ﷺ, dan meriwayatkan dari beliau.", "src": ["Ibnu Sa'd 8/287"]},
+  "hilf": null,
+  "syaraf": null,
+  "catatan": null
+ },
+ {
+  "id": "n1836",
+  "identitas": {"lahir": null, "umur": null, "wafat": "68 H; ada yang mengatakan 58 H, namun yang pertama lebih sahih", "makam": null, "src": ["Turath rawi"]},
+  "kabilah_tabaqat": {"t": "Sahabat.", "src": ["Turath rawi"]},
+  "nisbah_rihlah": {"t": "Dikaitkan dengan Madinah.", "src": ["Turath rawi"]},
+  "laqab_profesi": {"t": "Kunyah Abu Syuraih.", "src": ["Turath rawi"]},
+  "peran": null,
+  "hilf": null,
+  "syaraf": {"t": "Namanya diperselisihkan: yang masyhur Khuwailid bin 'Amr bin Shakhr bin 'Abd al-'Uzza; ada yang mengatakan 'Abdurrahman bin 'Amr, 'Amr bin Khuwailid, atau Ka'b bin 'Amr.", "src": ["Turath rawi"]},
+  "catatan": null
+ },
+ {
+  "id": "s4452",
+  "identitas": null,
+  "kabilah_tabaqat": {"t": "Al-Aslamiyyah; berbai'at setelah hijrah.", "src": ["Ibnu Sa'd 8/291"]},
+  "nisbah_rihlah": null,
+  "laqab_profesi": {"t": "Perawat: memiliki tenda di masjid tempat ia mengobati orang sakit dan yang terluka.", "src": ["Ibnu Sa'd 8/291"]},
+  "peran": {"t": "Berbai'at setelah hijrah. Sa'd bin Mu'adz yang terkena panah pada Perang Khandaq dirawat lukanya di tempatnya hingga wafat. Ikut Perang Khaibar bersama Rasulullah ﷺ.", "src": ["Ibnu Sa'd 8/291"]},
+  "hilf": null,
+  "syaraf": null,
+  "catatan": null
+ },
+ {
+  "id": "s1072",
+  "identitas": null,
+  "kabilah_tabaqat": {"t": "Al-Juhani.", "src": ["Ibnu Sa'd 4/349"]},
+  "nisbah_rihlah": null,
+  "laqab_profesi": null,
+  "peran": {"t": "Melihat Rasulullah ﷺ pada haji beliau ketika bertolak dari 'Arafah ke Jam' (Muzdalifah), saat api dinyalakan di Muzdalifah dan beliau menujunya hingga singgah di dekatnya. Kisah ini diriwayatkan melalui cucunya, Ghunaim bin Katsir bin Kulaib.", "src": ["Ibnu Sa'd 4/349"]},
+  "hilf": null,
+  "syaraf": null,
+  "catatan": null
+ },
+ {
+  "id": "s967",
+  "identitas": null,
+  "kabilah_tabaqat": {"t": "Dari Bani Ghifar bin Mulail bin Dhamrah bin Bakr bin 'Abd Manat bin Kinanah. Al-Bukhari menyatakan ia memiliki suhbah.", "src": ["Ibnu Sa'd 4/244", "al-Ishabah 5/461"]},
+  "nisbah_rihlah": {"t": "Menyertai Nabi ﷺ di Madinah; memiliki rumah di perkampungan Bani Ghifar dan lebih sering singgah di ash-Shafra', Ghaiqah, dan sekitarnya, wilayah Kinanah.", "src": ["Ibnu Sa'd 4/244"]},
+  "laqab_profesi": {"t": "Masyhur dengan kunyahnya, Abu Ruhm al-Ghifari; dijuluki al-Manhur karena terkena panah di lehernya pada Perang Uhud.", "src": ["al-Ishabah 5/461", "Ibnu Sa'd 4/244"]},
+  "peran": {"t": "Masuk Islam setelah Rasulullah ﷺ tiba di Madinah. Ikut Perang Uhud; panah mengenai lehernya, lalu Nabi ﷺ meludahi lukanya hingga sembuh. Dalam perjalanan dari Thaif ke Ji'ranah untanya berdesakan dengan unta Nabi ﷺ hingga sandalnya melukai betis beliau; beliau memukul kakinya dengan cambuk, lalu esoknya memberinya kambing sebagai ganti pukulan itu. Ikut Perang Tabuk dan selalu menyertai beliau berperang.", "src": ["Ibnu Sa'd 4/244"]},
+  "hilf": null,
+  "syaraf": null,
+  "catatan": null
+ },
+ {
+  "id": "n5350",
+  "identitas": null,
+  "kabilah_tabaqat": {"t": "Ats-Tsaqafiyyah; sahabat wanita.", "src": ["al-Ishabah 8/306", "Turath rawi"]},
+  "nisbah_rihlah": null,
+  "laqab_profesi": null,
+  "peran": {"t": "Ikut memandikan jenazah Ummu Kultsum putri Nabi ﷺ dan menuturkan urutan kain kafan yang diberikan: al-hiqw (kain sarung), dir', khimar, milhafah, lalu dibungkus dengan kain terakhir. Haditsnya dikeluarkan oleh Ahmad dan Abu Dawud.", "src": ["al-Ishabah 8/306"]},
+  "hilf": null,
+  "syaraf": null,
+  "catatan": null
+ },
+ {
+  "id": "s4630",
+  "identitas": null,
+  "kabilah_tabaqat": {"t": "Nasabnya: Simak bin Tsabit bin Sufyan bin 'Adi bin 'Amr bin Imri'il Qais bin Malik al-Agharr.", "src": ["Ibnu Sa'd 8/361", "Turath rawi"]},
+  "nisbah_rihlah": null,
+  "laqab_profesi": null,
+  "peran": {"t": "Menurut al-Waqidi, ia masuk Islam dan berbai'at kepada Rasulullah ﷺ; tidak ada selainnya yang menyebutnya.", "src": ["Ibnu Sa'd 8/361", "al-Ishabah 8/305"]},
+  "hilf": null,
+  "syaraf": null,
+  "catatan": {"t": "Menurut Ibnu Hajar, Ummu Tsabit binti Qais bin Syammas melahirkan Simak dari Tsabit bin Sufyan, sehingga Laila, ayahnya Simak, dan ibu Simak adalah tiga sahabat berturut-turut.", "src": ["al-Ishabah 8/305"]}
+ },
+ {
+  "id": "s1070",
+  "identitas": {"lahir": null, "umur": "Delapan puluh sekian tahun", "wafat": "72 H", "makam": null, "src": ["Ibnu Sa'd 4/348", "al-Ishabah 6/130"]},
+  "kabilah_tabaqat": {"t": "Al-Juhani; masuk Islam sejak awal.", "src": ["Ibnu Sa'd 4/348", "al-Ishabah 6/130"]},
+  "nisbah_rihlah": {"t": "Tekun tinggal di pedalaman (badiyah).", "src": ["Ibnu Sa'd 4/348", "al-Ishabah 6/130"]},
+  "laqab_profesi": {"t": "Kunyah Abu Zur'ah.", "src": ["Ibnu Sa'd 4/348"]},
+  "peran": {"t": "Ikut bersama Kurz bin Jabir al-Fihri dalam sariyyah yang diutus Rasulullah ﷺ mengejar orang-orang 'Urani yang merampas unta perah beliau di Dzul Jadr. Salah satu dari empat pembawa panji Juhainah yang diikatkan Rasulullah ﷺ pada Fathu Makkah. Meriwayatkan dari Abu Bakar dan 'Umar.", "src": ["Ibnu Sa'd 4/348", "al-Ishabah 6/130"]},
+  "hilf": null,
+  "syaraf": null,
+  "catatan": null
+ }
+]

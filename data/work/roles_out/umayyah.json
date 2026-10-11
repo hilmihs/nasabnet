@@ -1,0 +1,22 @@
+{
+  "id": "umayyah",
+  "lokasi": {"t": "Makkah (Hijaz); pada masa Daulah Umayyah berpusat di Damaskus (Syam)", "status": "umum"},
+  "militer": [
+    {"t": "Abu Sufyan bin Harb memimpin pasukan Quraisy di Uhud dan Khandaq sebelum masuk Islam", "src": ["Sirah Ibnu Hisyam 2/62", "Sirah Ibnu Hisyam 2/215"], "quote": ["فخرج أبو سفيان بن حرب، وهو قائد الناس", "فخرجت قريش، وقائدها أبو سفيان بن حرب"], "status": "ok"},
+    {"t": "Yazid bin Abi Sufyan menjadi panglima pertama yang diberangkatkan Abu Bakar ke Syam (awal 13 H)", "src": ["Tarikh ath-Thabari 3/387"], "quote": ["وولى يزيد بن أبي سفيان، فكان أول الأمراء الذين خرجوا إلى الشام"], "status": "rewritten"},
+    {"t": "Mu'awiyah bin Abi Sufyan disebut orang pertama yang berperang di laut; atas perintah Utsman ia menaklukkan Siprus (28 H menurut al-Waqidi)", "src": ["Tarikh ath-Thabari 4/260", "Tarikh ath-Thabari 4/257"], "quote": ["أول من غزا في البحر معاوية بن أبي سفيان زمان عثمان بن عفان", "فتح قبرس، على يد معاوية، غزاها بأمر عثمان إياه، وذلك في قول الواقدي"], "status": "rewritten"}
+  ],
+  "diplomasi": [
+    {"t": "Abu Sufyan, saat berdagang di Syam pada masa gencatan dengan Nabi ﷺ, ditanya Heraklius tentang beliau", "src": ["Tarikh ath-Thabari 2/646", "Tarikh ath-Thabari 2/647"], "quote": ["حدثني أبو سفيان بن حرب، قال: كنا قوما تجارا", "أخبرني عن هذا الرجل الذي خرج بين أظهركم يدعي ما يدعي"], "status": "rewritten"},
+    {"t": "Utsman bin 'Affan diutus Nabi ﷺ ke Makkah menemui Abu Sufyan dan para pemuka Quraisy menjelang Bai'atur Ridhwan", "src": ["Sirah Ibnu Hisyam 2/315"], "quote": ["فبعثه إلى أبي سفيان وأشراف قريش، يخبرهم أنه لم يأت لحرب"], "status": "rewritten"}
+  ],
+  "ekonomi": [
+    {"t": "Kafilah dagang besar Quraisy yang dipimpin Abu Sufyan dari Syam memicu Perang Badar; Abu Sufyan menyebut kaumnya kaum pedagang", "src": ["Sirah Ibnu Hisyam 1/606", "Tarikh ath-Thabari 2/646"], "quote": ["سمع بأبي سفيان بن حرب مقبلا من الشأم في عير لقريش عظيمة", "كنا قوما تجارا"], "status": "rewritten"},
+    {"t": "Abdu Syams bin Abdi Manaf mengambil perjanjian keamanan (ilaf) kafilah Quraisy dari an-Najasyi, sehingga mereka berdagang ke Habasyah", "src": ["Tarikh ath-Thabari 2/252", "al-Muhabbar, hlm. 163"], "quote": ["وأخذ لهم عبد شمس حبلا من النجاشي الأكبر، فاختلفوا بذلك السبب إلى أرض الحبشة", "وكان متجر (عبد شمس) إلى الحبشة فمات بمكة"], "status": "rewritten"},
+    {"t": "Utsman bin 'Affan memberi nafkah terbesar untuk pasukan Tabuk dan membeli sumur Rumah (35.000 dirham) untuk kaum Muslimin", "src": ["Sirah Ibnu Hisyam 2/518", "Usdul Ghabah 2/297"], "quote": ["وأنفق عثمان بن عفان في ذلك نفقة عظيمة، لم ينفق أحد مثلها", "فاشتراها بخمسة وثلاثين ألف درهم"], "status": "rewritten"}
+  ],
+  "sosial": [
+    {"t": "Memegang kekhalifahan: Utsman bin 'Affan (khalifah ketiga) lalu Daulah Umayyah (41–132 H)", "status": "umum"}
+  ],
+  "dropped": []
+}

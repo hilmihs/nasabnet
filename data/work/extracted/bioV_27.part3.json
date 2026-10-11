@@ -1,0 +1,315 @@
+[
+ {
+  "id": "s878",
+  "identitas": null,
+  "kabilah_tabaqat": {
+   "t": "Bani Ghanm bin Dudan dari Bani Asad bin Khuzaimah.",
+   "src": [
+    "Ibnu Sa'd 4/103",
+    "Turath rawi"
+   ]
+  },
+  "nisbah_rihlah": null,
+  "laqab_profesi": null,
+  "peran": {
+   "t": "Ikut Perang Uhud.",
+   "src": [
+    "Ibnu Sa'd 4/103",
+    "al-Ishabah 4/258"
+   ]
+  },
+  "hilf": null,
+  "syaraf": null,
+  "catatan": {
+   "t": "Saudara Yazid bin Ruqaisy, peserta Badar (menurut Ibnu Sa'd); Abu 'Umar menyebutnya saudara Zaid bin Ruqaisy.",
+   "src": [
+    "Ibnu Sa'd 4/103",
+    "al-Ishabah 4/258"
+   ]
+  }
+ },
+ {
+  "id": "n3322",
+  "identitas": null,
+  "kabilah_tabaqat": {
+   "t": "Quraisy (Abu Nu'aim menyebutnya al-Jumahi); disebut termasuk kaum Muhajirin. Ibnu Hibban menyatakan ia sahabat, sedangkan Ibnu as-Sakan berkata \"dikatakan ia sahabat\".",
+   "src": [
+    "al-Ishabah 4/268",
+    "Turath rawi"
+   ]
+  },
+  "nisbah_rihlah": {
+   "t": "Makkah (rumahnya di tepi jalan yang dilalui Rasulullah ﷺ saat Fathu Makkah); Madinah.",
+   "src": [
+    "al-Ishabah 4/268",
+    "Turath rawi"
+   ]
+  },
+  "laqab_profesi": null,
+  "peran": {
+   "t": "Pada Fathu Makkah ia membawa ayahnya kepada Rasulullah ﷺ untuk dibaiat atas hijrah, tetapi Nabi ﷺ bersabda \"Tidak ada hijrah setelah Fathu Makkah\"; setelah al-'Abbas memohonkan untuknya, Nabi ﷺ mengusap tangannya dan bersabda \"Aku telah memenuhi sumpah pamanku, dan tidak ada hijrah\".",
+   "src": [
+    "al-Ishabah 4/268"
+   ]
+  },
+  "hilf": null,
+  "syaraf": {
+   "t": "Namanya diperselisihkan: Abdurrahman bin Shafwan atau Shafwan bin Abdurrahman.",
+   "src": [
+    "al-Ishabah 4/268",
+    "Turath rawi"
+   ]
+  },
+  "catatan": {
+   "t": "Sahabat karib al-'Abbas bin 'Abdil Muththalib dan memiliki jasa baik dalam Islam; ia bukan putra Shafwan bin Umayyah.",
+   "src": [
+    "al-Ishabah 4/268"
+   ]
+  }
+ },
+ {
+  "id": "s1094",
+  "identitas": null,
+  "kabilah_tabaqat": {
+   "t": "al-Asy'ari (keturunan al-Asy'ar); saudara Abu Musa al-Asy'ari.",
+   "src": [
+    "al-Ishabah 7/31",
+    "Ibnu Sa'd 4/357"
+   ]
+  },
+  "nisbah_rihlah": {
+   "t": "Yaman → kapalnya terbawa ke negeri an-Najasyi → Madinah, tiba bersamaan dengan ahli dua kapal dari Habasyah → menetap di Kufah.",
+   "src": [
+    "al-Ishabah 7/31",
+    "Ibnu Sa'd 4/357"
+   ]
+  },
+  "laqab_profesi": {
+   "t": "Masyhur dengan kunyahnya, Abu Burdah, seperti saudaranya.",
+   "src": [
+    "al-Ishabah 7/31"
+   ]
+  },
+  "peran": {
+   "t": "Masuk Islam dan berhijrah dari negeri kaumnya bersama rombongan Asy'ariyyin (sekitar lima puluh orang), bersama saudara-saudaranya Abu Musa dan Abu Ruhm. Meriwayatkan dari Nabi ﷺ doa \"Ya Allah, jadikanlah kebinasaan umatku dengan terbunuh di jalan-Mu, dengan tikaman dan tha'un\".",
+   "src": [
+    "al-Ishabah 7/31",
+    "Ibnu Sa'd 4/357"
+   ]
+  },
+  "hilf": null,
+  "syaraf": null,
+  "catatan": null
+ },
+ {
+  "id": "n2414",
+  "identitas": {
+   "lahir": null,
+   "umur": null,
+   "wafat": "Antara 61 dan 70 H",
+   "makam": null,
+   "src": [
+    "Turath rawi"
+   ]
+  },
+  "kabilah_tabaqat": null,
+  "nisbah_rihlah": {
+   "t": "Syam.",
+   "src": [
+    "Turath rawi"
+   ]
+  },
+  "laqab_profesi": {
+   "t": "Dikenal dengan kunyahnya, Abu Kabsyah.",
+   "src": [
+    "Turath rawi"
+   ]
+  },
+  "peran": null,
+  "hilf": null,
+  "syaraf": {
+   "t": "Namanya diperselisihkan: Sa'd bin 'Amr; ada yang mengatakan 'Amr bin Sa'd, 'Umar bin Sa'd, atau 'Amir bin Sa'd.",
+   "src": [
+    "Turath rawi"
+   ]
+  },
+  "catatan": null
+ },
+ {
+  "id": "n4551",
+  "identitas": null,
+  "kabilah_tabaqat": {
+   "t": "Bani Hanifah (keturunan Suhaim bin Murrah bin ad-Dul bin Hanifah).",
+   "src": [
+    "al-Ishabah 4/463",
+    "Turath rawi"
+   ]
+  },
+  "nisbah_rihlah": {
+   "t": "Yamamah.",
+   "src": [
+    "Turath rawi"
+   ]
+  },
+  "laqab_profesi": {
+   "t": "Kunyahnya Abu Yahya; ada yang mengatakan Abu al-Hasan.",
+   "src": [
+    "Turath rawi"
+   ]
+  },
+  "peran": {
+   "t": "Salah seorang anggota delegasi Bani Hanifah yang datang kepada Rasulullah ﷺ dan membaiat beliau. Hadits-haditsnya dikeluarkan al-Bukhari dalam al-Adab al-Mufrad, Abu Dawud, Ibnu Majah, Ibnu Khuzaimah, dan Ibnu Hibban.",
+   "src": [
+    "al-Ishabah 4/463"
+   ]
+  },
+  "hilf": null,
+  "syaraf": null,
+  "catatan": {
+   "t": "Putranya, Abdurrahman, meriwayatkan darinya.",
+   "src": [
+    "al-Ishabah 4/463"
+   ]
+  }
+ },
+ {
+  "id": "n4554",
+  "identitas": null,
+  "kabilah_tabaqat": {
+   "t": "Bani Hanifah (al-Hanafi), keturunan Suhaim bin Murrah bin ad-Du'il bin Hanifah.",
+   "src": [
+    "Turath rawi"
+   ]
+  },
+  "nisbah_rihlah": null,
+  "laqab_profesi": null,
+  "peran": null,
+  "hilf": null,
+  "syaraf": null,
+  "catatan": null
+ },
+ {
+  "id": "s1012",
+  "identitas": null,
+  "kabilah_tabaqat": {
+   "t": "Termasuk yang masuk Islam sejak awal.",
+   "src": [
+    "Ibnu Sa'd 4/295"
+   ]
+  },
+  "nisbah_rihlah": {
+   "t": "Tinggal di Bi'ar bin Syurahbil, antara Dzu Khasyab dan Madinah; sering datang ke Madinah.",
+   "src": [
+    "Ibnu Sa'd 4/295"
+   ]
+  },
+  "laqab_profesi": {
+   "t": "Penunjuk jalan (dalil) Rasulullah ﷺ ke Tabuk.",
+   "src": [
+    "Ibnu Sa'd 4/295"
+   ]
+  },
+  "peran": {
+   "t": "Masuk Islam sejak awal; menjadi penunjuk jalan Rasulullah ﷺ dalam perjalanan ke Tabuk.",
+   "src": [
+    "Ibnu Sa'd 4/295"
+   ]
+  },
+  "hilf": null,
+  "syaraf": null,
+  "catatan": null
+ },
+ {
+  "id": "s4698",
+  "identitas": null,
+  "kabilah_tabaqat": {
+   "t": "Bani Bayadhah dari Anshar (al-Anshariyyah al-Bayadhiyyah); termasuk wanita yang berbaiat kepada Nabi ﷺ (al-mubayi'at).",
+   "src": [
+    "al-Ishabah 8/26",
+    "Ibnu Sa'd 8/387"
+   ]
+  },
+  "nisbah_rihlah": null,
+  "laqab_profesi": null,
+  "peran": {
+   "t": "Masuk Islam dan berbaiat kepada Rasulullah ﷺ.",
+   "src": [
+    "al-Ishabah 8/26",
+    "Ibnu Sa'd 8/387"
+   ]
+  },
+  "hilf": null,
+  "syaraf": null,
+  "catatan": {
+   "t": "Menikah dengan Kabsyah bin Mabdzul bin 'Amr dari Bani Mazin bin an-Najjar.",
+   "src": [
+    "Ibnu Sa'd 8/387"
+   ]
+  }
+ },
+ {
+  "id": "s4390",
+  "identitas": null,
+  "kabilah_tabaqat": {
+   "t": "Bani Ghanm bin Dudan dari Bani Asad; termasuk yang masuk Islam sejak awal di Makkah dan kaum Muhajirin.",
+   "src": [
+    "Ibnu Sa'd 8/243"
+   ]
+  },
+  "nisbah_rihlah": {
+   "t": "Makkah → hijrah ke Madinah bersama keluarganya.",
+   "src": [
+    "Ibnu Sa'd 8/243"
+   ]
+  },
+  "laqab_profesi": null,
+  "peran": {
+   "t": "Masuk Islam sejak awal di Makkah, lalu hijrah ke Madinah bersama keluarganya.",
+   "src": [
+    "Ibnu Sa'd 8/243"
+   ]
+  },
+  "hilf": null,
+  "syaraf": null,
+  "catatan": {
+   "t": "Saudari Yazid bin Ruqaisy, peserta Badar.",
+   "src": [
+    "Ibnu Sa'd 8/243"
+   ]
+  }
+ },
+ {
+  "id": "s1117",
+  "identitas": {
+   "lahir": null,
+   "umur": null,
+   "wafat": "Gugur sebagai syahid dalam Perang Yamamah (menurut Ibnu Ishaq)",
+   "makam": null,
+   "src": [
+    "al-Ishabah 3/467"
+   ]
+  },
+  "kabilah_tabaqat": {
+   "t": "Bani 'Amr bin 'Auf (keturunan Umayyah bin Zaid bin Malik bin 'Auf).",
+   "src": [
+    "Ibnu Sa'd 4/374"
+   ]
+  },
+  "nisbah_rihlah": null,
+  "laqab_profesi": null,
+  "peran": {
+   "t": "Gugur sebagai syahid dalam Perang Yamamah.",
+   "src": [
+    "al-Ishabah 3/467"
+   ]
+  },
+  "hilf": null,
+  "syaraf": null,
+  "catatan": {
+   "t": "Ibunya Qutailah binti Mas'ud al-Khathmi.",
+   "src": [
+    "Ibnu Sa'd 4/374"
+   ]
+  }
+ }
+]

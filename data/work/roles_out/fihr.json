@@ -1,0 +1,17 @@
+{
+  "id": "fihr",
+  "lokasi": {"t": "Makkah (Hijaz)", "status": "umum"},
+  "militer": [
+    {"t": "Setelah Umar menjadi khalifah, Abu 'Ubaidah bin al-Jarrah diangkat memimpin Syam dan menjadi panglima kaum Muslimin di Yarmuk", "src": ["Ibnu Sa'd 7/384"], "quote": ["ولى أبا عبيدة الشام فشهد اليرموك وهو أمير الناس"], "status": "rewritten"}
+  ],
+  "diplomasi": [
+    {"t": "Abu 'Ubaidah diutus Nabi ﷺ kepada penduduk Najran sebagai orang kepercayaan; beliau menyebutnya Amin hadzihil Ummah", "src": ["Ibnu Sa'd 3/412", "Ibnu Sa'd 3/412"], "quote": ["أن ناسا من أهل نجران أتوا النبي، ﷺ، فقالوا: ابعث معنا رجلا أمينا", "وإن أمين هذه الأمة أبو عبيدة بن الجراح"], "status": "rewritten"}
+  ],
+  "ekonomi": [
+    {"t": "Abu 'Ubaidah bin al-Jarrah diutus Nabi ﷺ ke Bahrain dan kembali membawa harta dari sana", "src": ["al-Ishabah 4/552"], "quote": ["أن النبي ﷺ بعث أبا عبيدة بن الجراح، فقدم بمال من البحرين"], "status": "new"}
+  ],
+  "sosial": [
+    {"t": "Abu 'Ubaidah bin al-Jarrah termasuk sepuluh sahabat yang dijamin surga", "src": ["Usdul Ghabah 3/477"], "quote": ["وسعيد بن زيد في الجنة، وأبو عبيدة بن الجراح في الجنة"], "status": "ok"}
+  ],
+  "dropped": []
+}

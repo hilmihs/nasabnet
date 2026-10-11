@@ -1,0 +1,18 @@
+{
+  "id": "kindah",
+  "lokasi": {"t": "Raja-raja Kindah (Akil al-Murar) pernah berkuasa di tanah Ma'add (Najd); setelah kerajaan itu runtuh, Kindah pindah ke Hadhramaut dan menetap di sana", "src": ["al-Muhabbar, hlm. 368", "al-Muhabbar, hlm. 370"], "quote": ["كان تبع أبو كرب لما أقبل يريد العراق، نزل بأرض معد", "فرحلوا فلحقوا بحضرموت فهم بها الى اليوم"], "status": "rewritten"},
+  "militer": [
+    {"t": "al-Asy'ats bin Qais ikut Perang Yarmuk (kehilangan sebelah mata) dan Qadisiyah, datang kepada Sa'd membawa 1.700 orang Yaman, serta berada di pihak Ali di Shiffin", "src": ["Usdul Ghabah 1/250", "Tarikh ath-Thabari 3/487", "Usdul Ghabah 1/250"], "quote": ["وشهد الأشعث اليرموك بالشام، ففقئت عينه، ثم سار إلى العراق، فشهد القادسية", "شراف الاشعث بن قيس في الف وسبعمائة من أهل اليمن", "وسكن الكوفة، وابتنى بها دارا، وشهد صفين مع علي"], "status": "rewritten"}
+  ],
+  "diplomasi": [
+    {"t": "Delegasi Kindah datang ke Madinah (10 H) di bawah al-Asy'ats bin Qais", "src": ["Usdul Ghabah 1/250", "Sirah Ibnu Hisyam 2/585"], "quote": ["وفد إلى النبي ﷺ سنة عشر من الهجرة في وفد كندة", "وقدم على رسول الله ﷺ الأشعث بن قيس، في وفد كندة"], "status": "ok"},
+    {"t": "al-Asy'ats termasuk yang mendesak Ali menerima tahkim di Shiffin, dan menolak Ibnu 'Abbas sebagai hakam karena menuntut seorang hakam dari Yaman", "src": ["Usdul Ghabah 1/250", "Tarikh ath-Thabari 11/544"], "quote": ["وكان ممن ألزم عليا بالتحكيم", "فأبى الاشعث بن قيس، وقال: لا يحكم فيها مضريان، حتى يكون أحدهما يمانيا"], "status": "rewritten"}
+  ],
+  "ekonomi": [
+    {"t": "Di pasar ar-Rabiyah (Hadhramaut), yang hanya bisa dimasuki dengan jaminan perlindungan, Quraisy berlindung kepada Bani Akil al-Murar dan pedagang lain kepada keluarga Masruq bin Wa'il dari Kindah", "src": ["al-Muhabbar, hlm. 266", "al-Muhabbar, hlm. 267", "al-Muhabbar, hlm. 267"], "quote": ["فالرابية بحضرموت وعكاظ بأعلى نجد", "فكانت قريش تتخفر فيها ببني آكل المرار", "وسائر الناس يتخفرون بآل مسروق بن وائل، من كندة"], "status": "new"}
+  ],
+  "sosial": [
+    {"t": "Penyair Imru'ul Qais adalah putra Hujr, raja dari wangsa Kindah yang ditempatkan atas Bani Asad dan dibunuh oleh mereka", "src": ["al-Muhabbar, hlm. 369", "al-Muhabbar, hlm. 370"], "quote": ["فملك حجرا على بنى أسد بن خزيمة", "فأما بنو أسد، فقتلوا ملكهم حجرا أبا امرئ القيس الشاعر"], "status": "rewritten"}
+  ],
+  "dropped": []
+}

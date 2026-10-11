@@ -1,0 +1,364 @@
+[
+ {
+  "id": "n2762",
+  "identitas": {
+   "lahir": null,
+   "umur": null,
+   "wafat": "17 H atau 18 H, dalam Tha'un 'Amwas",
+   "makam": null,
+   "src": [
+    "Turath rawi"
+   ]
+  },
+  "kabilah_tabaqat": null,
+  "nisbah_rihlah": {
+   "t": "Tercatat di Habasyah, Madinah dan Syam.",
+   "src": [
+    "Turath rawi"
+   ]
+  },
+  "laqab_profesi": {
+   "t": "Dikenal sebagai Syurahbil bin Hasanah; kunyah Abu 'Abdillah, ada yang mengatakan Abu Watsilah atau Abu 'Abd ar-Rahman.",
+   "src": [
+    "al-Ishabah 3/268",
+    "Turath rawi"
+   ]
+  },
+  "peran": null,
+  "hilf": null,
+  "syaraf": null,
+  "catatan": null
+ },
+ {
+  "id": "s764",
+  "identitas": null,
+  "kabilah_tabaqat": {
+   "t": "Termasuk Ahlu Badar.",
+   "src": [
+    "Ibnu Sa'd 3/570"
+   ]
+  },
+  "nisbah_rihlah": null,
+  "laqab_profesi": null,
+  "peran": {
+   "t": "Dipersaudarakan Nabi ﷺ dengan Khabbab maula 'Utbah bin Ghazwan; ikut Badar dan Uhud.",
+   "src": [
+    "Ibnu Sa'd 3/570"
+   ]
+  },
+  "hilf": {
+   "t": "Maula Khirasy bin ash-Shimmah.",
+   "src": [
+    "Ibnu Sa'd 3/570"
+   ]
+  },
+  "syaraf": null,
+  "catatan": {
+   "t": "Wafat tanpa meninggalkan keturunan.",
+   "src": [
+    "Ibnu Sa'd 3/570"
+   ]
+  }
+ },
+ {
+  "id": "n1067",
+  "identitas": {
+   "lahir": null,
+   "umur": null,
+   "wafat": "Gugur di Jisr Abi 'Ubaid, 15 H (Musa bin 'Uqbah dari Ibnu Syihab); menurut al-Waqidi wafat pada masa khalifah 'Utsman",
+   "makam": null,
+   "src": [
+    "al-Ishabah 1/521",
+    "Turath rawi"
+   ]
+  },
+  "kabilah_tabaqat": {
+   "t": "Termasuk Ahlu Badar menurut Musa bin 'Uqbah.",
+   "src": [
+    "al-Ishabah 1/521",
+    "Turath rawi"
+   ]
+  },
+  "nisbah_rihlah": {
+   "t": "Tercatat di Mesir.",
+   "src": [
+    "Turath rawi"
+   ]
+  },
+  "laqab_profesi": {
+   "t": "Ada yang menyebut kunyahnya Abu 'Amrah.",
+   "src": [
+    "Turath rawi"
+   ]
+  },
+  "peran": {
+   "t": "Ikut Badar; menurut Musa bin 'Uqbah gugur sebagai syahid di Jisr Abi 'Ubaid.",
+   "src": [
+    "al-Ishabah 1/521"
+   ]
+  },
+  "hilf": null,
+  "syaraf": null,
+  "catatan": null
+ },
+ {
+  "id": "s4795",
+  "identitas": null,
+  "kabilah_tabaqat": {
+   "t": "Bani 'Adi bin an-Najjar; termasuk perempuan yang berbaiat kepada Rasulullah ﷺ.",
+   "src": [
+    "Ibnu Sa'd 8/423",
+    "al-Ishabah 8/59"
+   ]
+  },
+  "nisbah_rihlah": null,
+  "laqab_profesi": null,
+  "peran": {
+   "t": "Masuk Islam dan berbaiat kepada Rasulullah ﷺ.",
+   "src": [
+    "Ibnu Sa'd 8/423"
+   ]
+  },
+  "hilf": null,
+  "syaraf": null,
+  "catatan": {
+   "t": "Ibunya Sukhailah binti ash-Shimmah; menikah dengan 'Abdullah bin Sha'sha'ah dan melahirkan 'Abd ar-Rahman, Salimah dan Maimunah.",
+   "src": [
+    "Ibnu Sa'd 8/423",
+    "al-Ishabah 8/59"
+   ]
+  }
+ },
+ {
+  "id": "s695",
+  "identitas": {
+   "lahir": null,
+   "umur": null,
+   "wafat": "Jumadil Ula 8 H, gugur syahid di Mu'tah",
+   "makam": null,
+   "src": [
+    "Ibnu Sa'd 3/533"
+   ]
+  },
+  "kabilah_tabaqat": {
+   "t": "Bani 'Adi bin Ka'b; termasuk Ahlu Badar.",
+   "src": [
+    "Ibnu Sa'd 3/533"
+   ]
+  },
+  "nisbah_rihlah": null,
+  "laqab_profesi": null,
+  "peran": {
+   "t": "Ikut Badar, Uhud, Khandaq, Hudaibiyah, Khaibar dan Mu'tah, dan gugur di Mu'tah.",
+   "src": [
+    "Ibnu Sa'd 3/533"
+   ]
+  },
+  "hilf": null,
+  "syaraf": null,
+  "catatan": {
+   "t": "Salah satu dari dua paman Abu ad-Darda'; tidak meninggalkan keturunan.",
+   "src": [
+    "Ibnu Sa'd 3/533"
+   ]
+  }
+ },
+ {
+  "id": "s528",
+  "identitas": {
+   "lahir": "Lahir dan tumbuh di Makkah",
+   "umur": null,
+   "wafat": "Di Madinah pada masa khalifah 'Umar bin al-Khaththab, yang menyalatkannya",
+   "makam": null,
+   "src": [
+    "Ibnu Sa'd 3/407",
+    "al-Ishabah 4/601"
+   ]
+  },
+  "kabilah_tabaqat": {
+   "t": "Termasuk muhajirin dan Ahlu Badar.",
+   "src": [
+    "Ibnu Sa'd 3/407",
+    "al-Ishabah 4/601"
+   ]
+  },
+  "nisbah_rihlah": {
+   "t": "Makkah → Madinah, singgah di rumah Kultsum bin al-Hidm; wafat di Madinah.",
+   "src": [
+    "Ibnu Sa'd 3/407"
+   ]
+  },
+  "laqab_profesi": {
+   "t": "Kunyah Abu 'Amr.",
+   "src": [
+    "Ibnu Sa'd 3/407"
+   ]
+  },
+  "peran": {
+   "t": "Lari dari Makkah bersama 'Abdullah bin Suhail dan berperang bersamanya di Badar; ikut pula Uhud, Khandaq dan seluruh peperangan bersama Rasulullah ﷺ.",
+   "src": [
+    "al-Ishabah 4/601",
+    "Ibnu Sa'd 3/407"
+   ]
+  },
+  "hilf": {
+   "t": "Maula Suhail bin 'Amr al-'Amiri, khatib Quraisy.",
+   "src": [
+    "Ibnu Sa'd 3/407",
+    "al-Ishabah 4/601"
+   ]
+  },
+  "syaraf": {
+   "t": "Namanya diperselisihkan: 'Umair bin 'Auf menurut Musa bin 'Uqbah, Abu Ma'syar dan Muhammad bin 'Umar; 'Amr bin 'Auf menurut Ibnu Ishaq.",
+   "src": [
+    "Ibnu Sa'd 3/407"
+   ]
+  },
+  "catatan": {
+   "t": "Setelah masuk Islam, Suhail bin 'Amr menyebut bahwa 'Umair telah ikut Badar dan mengungkapkan harapannya akan syafaat.",
+   "src": [
+    "al-Ishabah 4/601"
+   ]
+  }
+ },
+ {
+  "id": "s945",
+  "identitas": {
+   "lahir": null,
+   "umur": null,
+   "wafat": "Hidup hingga masa khalifah 'Umar",
+   "makam": null,
+   "src": [
+    "al-Ishabah 4/603"
+   ]
+  },
+  "kabilah_tabaqat": {
+   "t": "Bani Jumah dari Quraisy; masuk Islam setelah Badar lalu berhijrah ke Madinah.",
+   "src": [
+    "al-Ishabah 4/603",
+    "Ibnu Sa'd 4/199"
+   ]
+  },
+  "nisbah_rihlah": {
+   "t": "Makkah → Madinah (masuk Islam) → kembali ke Makkah berdakwah → hijrah ke Madinah.",
+   "src": [
+    "al-Ishabah 4/603",
+    "Ibnu Sa'd 4/199"
+   ]
+  },
+  "laqab_profesi": {
+   "t": "Kunyah Abu Umayyah.",
+   "src": [
+    "al-Ishabah 4/603",
+    "Ibnu Sa'd 4/199"
+   ]
+  },
+  "peran": {
+   "t": "Ikut Badar di pihak musyrikin sebagai pengintai Quraisy; ia terluka parah dan putranya Wahb tertawan. Atas bujukan Shafwan bin Umayyah ia datang ke Madinah untuk membunuh Nabi ﷺ, namun masuk Islam setelah beliau mengungkap rencana rahasia itu, dan putranya dibebaskan tanpa tebusan. Kembali ke Makkah berdakwah sehingga banyak orang masuk Islam, lalu hijrah dan ikut Uhud dan sesudahnya, Fathu Makkah serta Tabuk.",
+   "src": [
+    "Ibnu Sa'd 4/199",
+    "al-Ishabah 4/603"
+   ]
+  },
+  "hilf": null,
+  "syaraf": null,
+  "catatan": {
+   "t": "Ibunya Ummu Sukhailah binti Hasyim dari Bani Sahm; putranya Wahb bin 'Umair menjadi sayyid Bani Jumah; ia berperan dalam kisah masuk Islamnya Shafwan bin Umayyah.",
+   "src": [
+    "Ibnu Sa'd 4/199",
+    "al-Ishabah 4/603"
+   ]
+  }
+ },
+ {
+  "id": "s4831",
+  "identitas": null,
+  "kabilah_tabaqat": {
+   "t": "Bani Malik bin an-Najjar; termasuk perempuan yang berbaiat kepada Rasulullah ﷺ.",
+   "src": [
+    "Ibnu Sa'd 8/448",
+    "al-Ishabah 8/252"
+   ]
+  },
+  "nisbah_rihlah": null,
+  "laqab_profesi": null,
+  "peran": {
+   "t": "Masuk Islam dan berbaiat kepada Rasulullah ﷺ.",
+   "src": [
+    "Ibnu Sa'd 8/448"
+   ]
+  },
+  "hilf": null,
+  "syaraf": null,
+  "catatan": {
+   "t": "Ibunya Ummu Tazid binti Qais dari Bani 'Adi bin an-Najjar; menikah dengan Abu Hasan bin 'Abd 'Amr dari Bani Mazin bin an-Najjar dan melahirkan 'Umarah, 'Amr dan Sariyyah.",
+   "src": [
+    "Ibnu Sa'd 8/448",
+    "al-Ishabah 8/252"
+   ]
+  }
+ },
+ {
+  "id": "s4503",
+  "identitas": null,
+  "kabilah_tabaqat": {
+   "t": "Bani 'Abd al-Asyhal; termasuk perempuan yang berbaiat kepada Rasulullah ﷺ.",
+   "src": [
+    "Ibnu Sa'd 8/318",
+    "al-Ishabah 8/252"
+   ]
+  },
+  "nisbah_rihlah": null,
+  "laqab_profesi": null,
+  "peran": {
+   "t": "Masuk Islam dan berbaiat kepada Rasulullah ﷺ.",
+   "src": [
+    "Ibnu Sa'd 8/318",
+    "al-Ishabah 8/252"
+   ]
+  },
+  "hilf": null,
+  "syaraf": null,
+  "catatan": {
+   "t": "Ibunya Ummu Sa'd binti Khuzaim (ada yang menyebut binti Haram) bin Mas'ud; menikah dengan Manzhur bin Labid bin 'Uqbah dan melahirkan al-Harits dan 'Utsairah.",
+   "src": [
+    "Ibnu Sa'd 8/318",
+    "al-Ishabah 8/252"
+   ]
+  }
+ },
+ {
+  "id": "s4413",
+  "identitas": null,
+  "kabilah_tabaqat": {
+   "t": "Bani Makhzum; masuk Islam pada hari Fathu Makkah.",
+   "src": [
+    "Ibnu Sa'd 8/261",
+    "al-Ishabah 8/379"
+   ]
+  },
+  "nisbah_rihlah": {
+   "t": "Menyusul suaminya 'Ikrimah ke Yaman; kemudian ikut berperang melawan Romawi hingga Marj ash-Shuffar.",
+   "src": [
+    "al-Ishabah 8/379"
+   ]
+  },
+  "laqab_profesi": null,
+  "peran": {
+   "t": "Hadir di Uhud saat masih kafir; masuk Islam dan berbaiat pada Fathu Makkah. Ia memintakan jaminan keamanan bagi suaminya 'Ikrimah bin Abi Jahl yang lari ke Yaman, menyusulnya dengan izin Nabi ﷺ hingga 'Ikrimah kembali dan masuk Islam. Setelah 'Ikrimah gugur melawan Romawi, ia menikah dengan Khalid bin Sa'id bin al-'Ash yang gugur sehari setelah pernikahan di Marj ash-Shuffar; hari itu ia membunuh tujuh tentara Romawi dengan tiang kemah.",
+   "src": [
+    "Ibnu Sa'd 8/261",
+    "al-Ishabah 8/379"
+   ]
+  },
+  "hilf": null,
+  "syaraf": null,
+  "catatan": {
+   "t": "Ibunya Fathimah binti al-Walid bin al-Mughirah; jembatan tempat pernikahannya kemudian dikenal sebagai Qantharah Ummu Hakim.",
+   "src": [
+    "Ibnu Sa'd 8/261",
+    "al-Ishabah 8/379"
+   ]
+  }
+ }
+]

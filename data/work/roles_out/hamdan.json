@@ -1,0 +1,15 @@
+{
+  "id": "hamdan",
+  "lokasi": {"t": "Yaman, di wilayah yang disebut \"tanah Hamdan\"", "src": ["Sirah Ibnu Hisyam 1/79"], "quote": ["اتخذوا يعوق بأرض همدان من أرض اليمن"], "status": "rewritten"},
+  "militer": [
+    {"t": "Di Shiffin bertempur di pihak Ali: delapan ratus pemuda Hamdan bertahan di sayap kanan hingga 180 orang gugur, dan Ali menyebut Rabi'ah dan Hamdan \"baju besi dan tombakku\"", "src": ["Tarikh ath-Thabari 5/20", "Tarikh ath-Thabari 5/20", "Tarikh ath-Thabari 5/41"], "quote": ["ويستقبله شباب من همدان- وكانوا ثمانمائه مقاتل يومئذ", "حتى أصيب منهم ثمانون ومائة رجل", "قال علي لربيعة وهمدان: أنتم درعي ورمحي"], "status": "rewritten"}
+  ],
+  "diplomasi": [
+    {"t": "Masuk Islam lewat dakwah Ali bin Abi Thalib di Yaman (10 H); seluruh Hamdan masuk Islam dalam satu hari", "src": ["Tarikh ath-Thabari 3/131", "Tarikh ath-Thabari 3/132"], "quote": ["سريه على بن ابى طالب الى اليمن", "فأسلمت همدان كلها في يوم واحد"], "status": "rewritten"}
+  ],
+  "ekonomi": [],
+  "sosial": [
+    {"t": "Seluruh bathn Hamdan kembali kepada dua kabilah induk: Hasyid dan Bakil, putra-putra Jusyam bin Khairan", "src": ["Jamharat Ansab al-'Arab, hlm. 392"], "quote": ["ترجع كلها إلى حاشد، وبكيل، ابنى جشم بن خيران بن نوف بن همدان"], "status": "rewritten"}
+  ],
+  "dropped": []
+}

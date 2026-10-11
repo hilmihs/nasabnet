@@ -1,0 +1,32 @@
+{
+  "id": "ghani",
+  "lokasi": {"t": "Najd, berdekatan dengan wilayah Bahilah", "status": "umum"},
+  "militer": [
+    {"t": "Abu Martsad al-Ghanawi dan putranya Martsad ikut Perang Badar",
+     "src": ["Sirah Ibnu Hisyam 1/678", "Ibnu Sa'd 3/48"],
+     "quote": ["وَابْنُهُ مَرْثَدُ بْنُ أَبِي مَرْثَدٍ، حَلِيفَا حَمْزَةَ بْنِ عَبْدِ الْمُطَّلِبِ", "شهد مرثد بن أبي مرثد الغنوي يوم بدر على فرس يقال له السبل"],
+     "status": "ok"},
+    {"t": "Martsad bin Abi Martsad memimpin sariyyah ar-Raji' dan gugur syahid di sana (Safar, 36 bulan setelah hijrah)",
+     "src": ["Ibnu Sa'd 3/48", "Sirah Ibnu Hisyam 2/169"],
+     "quote": ["وقتل يوم الرجيع شهيدا، وكان أميرا في هذه السرية وذلك في صفر", "وَأَمَّرَ رَسُولُ اللَّهِ ﷺ عَلَى الْقَوْمِ مَرْثَدَ بْنَ أَبِي مَرْثَدٍ الْغَنَوِيَّ"],
+     "status": "rewritten"}
+  ],
+  "diplomasi": [
+    {"t": "Abu Martsad dan putranya adalah sekutu (halif) Hamzah bin Abdil Muththalib",
+     "src": ["Jamharat Ansab al-'Arab, hlm. 247"],
+     "quote": ["هو وأبوه حليفان لحمزة بن عبد المطلب"],
+     "status": "ok"}
+  ],
+  "ekonomi": [],
+  "sosial": [
+    {"t": "Martsad dan ayahnya, Abu Martsad (Kannaz bin al-Hushain), termasuk Muhajirin awal",
+     "src": ["Jamharat Ansab al-'Arab, hlm. 247"],
+     "quote": ["ابن أعصر بن سعد، من المهاجرين الأولين"],
+     "status": "new"},
+    {"t": "Nabi ﷺ mempersaudarakan Abu Martsad dengan 'Ubadah bin ash-Shamit",
+     "src": ["Ibnu Sa'd 3/47"],
+     "quote": ["وآخى رسول الله، ﷺ، بين أبي مرثد وعبادة بن الصامت"],
+     "status": "new"}
+  ],
+  "dropped": []
+}

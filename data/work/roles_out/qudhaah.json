@@ -1,0 +1,16 @@
+{
+  "id": "qudhaah",
+  "lokasi": {"t": "Wilayah Qudha'ah bersambung dengan Syam dan negeri Bani 'Adnan, tidak bersambung dengan Yaman; kecuali cabang Mahrah di pesisir asy-Syihr (Yaman)", "src": ["Jamharat Ansab al-'Arab, hlm. 8", "Jamharat Ansab al-'Arab, hlm. 8", "Jamharat Ansab al-'Arab, hlm. 440"], "quote": ["وبلاد قضاعة متّصلة بالشأم", "وببلاد بنى عدنان، ولا تتّصل ببلاد اليمن أصلا", "وبلاد مهرة في ناحية الشحر من اليمن"], "status": "rewritten"},
+  "militer": [
+    {"t": "Sebagian kabilah Qudha'ah (Bali, al-Qain, dan Bahra') berada di pihak Romawi pada Perang Mu'tah, dipimpin Malik bin Zafilah dari Bali", "src": ["Sirah Ibnu Hisyam 2/375", "Sirah Ibnu Hisyam 2/375"], "quote": ["وانضمّ إِلَيْهِم مل لَخْمٍ وَجُذَامٍ وَالْقَيْنِ وبهراء وبلىّ مائَة أَلْفٍ مِنْهُمْ", "عَلَيْهِمْ رَجُلٌ مِنْ بَلِيٍّ ثُمَّ أَحَدُ إرَاشَةَ"], "status": "rewritten"},
+    {"t": "Sariyah Dzatus Salasil (8 H) diarahkan ke wilayah Qudha'ah, setelah sekelompok Qudha'ah berhimpun hendak mendekati pinggiran Madinah", "src": ["Tarikh ath-Thabari 3/31", "Ibnu Sa'd 2/131"], "quote": ["تَوْجِيهُ رسول الله ص عَمْرَو بْنَ الْعَاصِ فِي جُمَادَى الآخِرَةِ إِلَى السلاسل من بلاد قضاعه", "بلغ رسول الله، ﷺ، أن جمعا من قضاعة قد تجمعوا"], "status": "rewritten"}
+  ],
+  "diplomasi": [
+    {"t": "Delegasi 'Udzrah (12 orang, Shafar 9 H), Bali (Rabi'ul Awwal 9 H), dan Bahra' (13 orang) datang ke Madinah menyatakan Islam", "src": ["Ibnu Sa'd 1/331", "Ibnu Sa'd 1/330", "Ibnu Sa'd 1/331"], "quote": ["قدم على رسول الله، ﷺ، في صفر سنة تسع وفدنا اثنا عشر رجلًا", "قدم وفد قومي في شهر ربيع الأول سنة تسع", "قدم وفد بهراء من اليمن وهم ثلاثة عشر رجلًا"], "status": "rewritten"}
+  ],
+  "ekonomi": [],
+  "sosial": [
+    {"t": "Bani 'Udzrah melahirkan penyair Jamil bin 'Abdullah bin Ma'mar, kekasih Butsainah", "src": ["Jamharat Ansab al-'Arab, hlm. 449", "Jamharat Ansab al-'Arab, hlm. 449"], "quote": ["وبنو حنّ بن ربيعة أخى رزاح بن ربيعة لأبيه وأمه، وهما قبيلا عذرة", "الشاعر جميل بن عبد الله بن معمر"], "status": "rewritten"}
+  ],
+  "dropped": []
+}

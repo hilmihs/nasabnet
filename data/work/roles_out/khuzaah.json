@@ -1,0 +1,87 @@
+{
+  "id": "khuzaah",
+  "lokasi": {
+    "t": "Marr azh-Zhahran dan Makkah; mata air al-Watir di bagian bawah Makkah milik mereka; Khuza'ah tetap tinggal di Makkah setelah Quraisy berkuasa",
+    "src": [
+      "Sirah Ibnu Hisyam 1/13",
+      "Sirah Ibnu Hisyam 2/389",
+      "al-Muhabbar, hlm. 134"
+    ],
+    "quote": [
+      "وَنَزَلَتْ خُزَاعَةُ مَرَّا",
+      "وَهُمْ عَلَى مَاءٍ لَهُمْ بِأَسْفَلِ مَكَّةَ يُقَالُ لَهُ: الْوَتِيرُ",
+      "وعلى ألا يخرج خزاعة من مكة"
+    ],
+    "status": "rewritten"
+  },
+  "militer": [
+    {
+      "t": "Serangan Bani Bakr bin 'Abd Manat (Kinanah), sekutu Quraisy, atas Khuza'ah di al-Watir melanggar Hudaibiyah dan memicu Fathu Makkah (8 H)",
+      "src": [
+        "Sirah Ibnu Hisyam 2/389",
+        "Sirah Ibnu Hisyam 2/389",
+        "Sirah Ibnu Hisyam 2/390",
+        "Sirah Ibnu Hisyam 2/395"
+      ],
+      "quote": [
+        "ثُمَّ إنَّ بَنِي بَكْرِ بْنِ عَبْدِ مَنَاةَ بْنِ كِنَانَةَ عَدَتْ عَلَى خُزَاعَةَ",
+        "ذِكْرُ الْأَسْبَابِ الْمُوجِبَةِ الْمَسِيرَ إلَى مَكَّةَ وَذِكْرُ فَتْحِ مَكَّةَ فِي شَهْرِ رَمَضَانَ سَنَةَ ثَمَانٍ",
+        "فَدَخَلَتْ بَنُو بَكْرٍ فِي عَقْدِ قُرَيْشٍ وَعَهْدِهِمْ",
+        "وَنَقَضُوا مِيثَاقَكَ الْمُوَكَّدَا"
+      ],
+      "status": "ok"
+    }
+  ],
+  "diplomasi": [
+    {
+      "t": "Sekutu Nabi ﷺ dalam Perjanjian Hudaibiyah",
+      "src": [
+        "Sirah Ibnu Hisyam 2/318"
+      ],
+      "quote": [
+        "فَتَوَاثَبَتْ خُزَاعَةُ فَقَالُوا: نَحْنُ فِي عَقْدِ مُحَمَّدٍ وَعَهْدِهِ"
+      ],
+      "status": "ok"
+    },
+    {
+      "t": "Budail bin Warqa' bersama orang-orang Khuza'ah menjadi perantara dalam perundingan Hudaibiyah, menyampaikan kepada Quraisy bahwa Nabi ﷺ datang bukan untuk berperang",
+      "src": [
+        "Sirah Ibnu Hisyam 2/311"
+      ],
+      "quote": [
+        "أَتَاهُ بُدَيْلُ ابْن وَرْقَاءَ الْخُزَاعِيُّ، فِي رِجَالٍ مِنْ خُزَاعَةَ"
+      ],
+      "status": "rewritten"
+    }
+  ],
+  "ekonomi": [],
+  "sosial": [
+    {
+      "t": "Mengelola Ka'bah sebelum Quraisy, diwarisi turun-temurun hingga Hulail bin Hubsyiyah; 'Amr bin Luhay disebut orang pertama yang mengubah agama Isma'il dan memasang berhala, termasuk membawa Hubal ke Makkah",
+      "src": [
+        "Sirah Ibnu Hisyam 1/117",
+        "Sirah Ibnu Hisyam 1/76",
+        "Sirah Ibnu Hisyam 1/77"
+      ],
+      "quote": [
+        "فَوَلِيَتْ خُزَاعَةُ الْبَيْتَ يَتَوَارَثُونَ ذَلِكَ كَابِرًا عَنْ كَابِرٍ",
+        "إنَّهُ كَانَ أَوَّلَ مَنْ غَيَّرَ دِينَ إسْمَاعِيلَ، فَنَصَبَ الْأَوْثَانَ",
+        "فَأَعْطَوْهُ صَنَمًا يُقَالُ لَهُ هُبَلُ، فَقَدِمَ بِهِ مَكَّةَ"
+      ],
+      "status": "rewritten"
+    },
+    {
+      "t": "'Imran bin Hushain al-Khuza'i, sahabat perawi hadits; diutus 'Umar ke Bashrah untuk mengajarkan agama",
+      "src": [
+        "Usdul Ghabah 4/269",
+        "Usdul Ghabah 4/269"
+      ],
+      "quote": [
+        "بعثه عمر بن الخطاب إلى البصرة، ليفقه أهلها",
+        "روى عن: النبي ﷺ وروى عنه: الحسن"
+      ],
+      "status": "rewritten"
+    }
+  ],
+  "dropped": []
+}

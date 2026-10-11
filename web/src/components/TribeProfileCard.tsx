@@ -119,8 +119,8 @@ export function TribeProfileCard({ tribe }: { tribe: Tribe }) {
             ))}
           </Bullets>
           <ul className="mt-3 list-disc space-y-0.5 border-t border-krem-200 pt-3 pl-4 text-xs text-tinta-soft">
-            <li>Poin bertanda sitasi diringkas dari Jamharat Ansab al-'Arab.</li>
-            <li>Label "umum" = ringkasan umum yang belum bersitasi halaman; lokasi & peran strategis juga termasuk ringkasan umum.</li>
+            <li>Poin bersitasi diringkas dari halaman kitab yang ditautkan; lokasi & peran strategis dicocokkan dengan teks Arabnya.</li>
+            <li>Label "umum" = ringkasan umum yang belum bersitasi halaman kitab.</li>
             {t && <li>{t.v ? 'Profil ini sudah diperiksa ulang.' : 'Profil ini belum diperiksa ulang.'}</li>}
           </ul>
         </Accordion>

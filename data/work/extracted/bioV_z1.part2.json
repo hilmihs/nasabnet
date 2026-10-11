@@ -1,0 +1,413 @@
+[
+ {
+  "id": "s657",
+  "identitas": {
+   "lahir": null,
+   "umur": null,
+   "wafat": "Syahid di Badar, terkena panah Hibban bin al-'Ariqah di tenggorokannya; ada riwayat yang menyebut di Uhud, tetapi yang dipegang adalah Badar",
+   "makam": null,
+   "src": [
+    "al-Ishabah 1/704",
+    "Ibnu Sa'd 3/510"
+   ]
+  },
+  "kabilah_tabaqat": {
+   "t": "Anshar dari Bani 'Adi bin an-Najjar; Ahlu Badar dan syuhada Badar.",
+   "src": [
+    "al-Ishabah 1/704",
+    "Ibnu Sa'd 3/510"
+   ]
+  },
+  "nisbah_rihlah": null,
+  "laqab_profesi": null,
+  "peran": {
+   "t": "Dipersaudarakan dengan as-Sa'ib bin 'Utsman bin Mazh'un; ikut Badar sebagai pengamat (nazhzhar) lalu gugur terkena panah.",
+   "src": [
+    "al-Ishabah 1/704",
+    "Ibnu Sa'd 3/510"
+   ]
+  },
+  "hilf": null,
+  "syaraf": {
+   "t": "Ibunya ar-Rubayyi' binti an-Nadhr (Ummu Haritsah), bibi Anas bin Malik.",
+   "src": [
+    "al-Ishabah 1/704",
+    "Ibnu Sa'd 3/510"
+   ]
+  },
+  "catatan": {
+   "t": "Ketika ibunya bertanya tentang nasibnya, Nabi ﷺ bersabda bahwa Haritsah berada di surga yang terbaik (atau: di al-Firdaus yang tertinggi); ia tidak meninggalkan keturunan.",
+   "src": [
+    "al-Ishabah 1/704",
+    "Ibnu Sa'd 3/510"
+   ]
+  }
+ },
+ {
+  "id": "n1092",
+  "identitas": {
+   "lahir": null,
+   "umur": null,
+   "wafat": "61 H",
+   "makam": null,
+   "src": [
+    "Turath rawi"
+   ]
+  },
+  "kabilah_tabaqat": {
+   "t": "Anshar; Ibnu al-Kalbi dan Ibnu Ishaq menasabkannya kepada al-Aus (bin Qais bin al-Harits bin Haisyah … bin Malik bin al-Aus), sedangkan nasab lain menyebutnya dari Bani Salimah; Ahlu Badar.",
+   "src": [
+    "al-Ishabah 1/548",
+    "Turath rawi"
+   ]
+  },
+  "nisbah_rihlah": null,
+  "laqab_profesi": {
+   "t": "Kunyah Abu 'Abdillah; ada yang mengatakan Abu 'Abd al-Malik; Ibnu Mandah menyebut Abu ar-Rabi', yang dinilai keliru oleh Abu Nu'aim.",
+   "src": [
+    "Turath rawi"
+   ]
+  },
+  "peran": {
+   "t": "Ikut Badar dan peperangan lainnya; meriwayatkan kisah Rasulullah ﷺ menjenguk 'Abdullah bin Tsabit yang sakit keras.",
+   "src": [
+    "al-Ishabah 1/548"
+   ]
+  },
+  "hilf": null,
+  "syaraf": {
+   "t": "Namanya diperselisihkan: ad-Dimyathi menshahihkan bahwa namanya Jabr, sedangkan al-Baghawi dan lainnya menyatakan Jabr adalah saudaranya.",
+   "src": [
+    "al-Ishabah 1/548"
+   ]
+  },
+  "catatan": null
+ },
+ {
+  "id": "s438",
+  "identitas": {
+   "lahir": null,
+   "umur": null,
+   "wafat": "Syahid di Khaibar tahun 7 H, dibunuh seorang Yahudi, Usair (ada yang menyebut Usaid bin Rizam)",
+   "makam": null,
+   "src": [
+    "al-Ishabah 1/525",
+    "Ibnu Sa'd 3/98"
+   ]
+  },
+  "kabilah_tabaqat": {
+   "t": "Bani Ghanm bin Dudan bin Asad bin Khuzaimah; Ahlu Badar.",
+   "src": [
+    "al-Ishabah 1/525",
+    "Ibnu Sa'd 3/98"
+   ]
+  },
+  "nisbah_rihlah": null,
+  "laqab_profesi": null,
+  "peran": {
+   "t": "Ikut Badar bersama dua saudaranya, Mudlaj dan Malik, lalu Uhud, Khandaq, Hudaibiyah dan Khaibar, dan gugur di Khaibar.",
+   "src": [
+    "al-Ishabah 1/525",
+    "Ibnu Sa'd 3/98"
+   ]
+  },
+  "hilf": null,
+  "syaraf": {
+   "t": "Namanya Tsaqf menurut Ibnu Ishaq; Abu Ma'syar menyebutnya Tsaqaf.",
+   "src": [
+    "al-Ishabah 1/525",
+    "Ibnu Sa'd 3/98"
+   ]
+  },
+  "catatan": null
+ },
+ {
+  "id": "s576",
+  "identitas": {
+   "lahir": null,
+   "umur": null,
+   "wafat": "Syahid di Khaibar menurut al-Waqidi, terkena lemparan dari atas benteng",
+   "makam": null,
+   "src": [
+    "Ibnu Sa'd 3/461"
+   ]
+  },
+  "kabilah_tabaqat": {
+   "t": "Terhitung Ahlu Badar karena diberi bagian dan pahalanya meski dipulangkan dari ar-Rauha'.",
+   "src": [
+    "al-Ishabah 1/664",
+    "Ibnu Sa'd 3/461"
+   ]
+  },
+  "nisbah_rihlah": null,
+  "laqab_profesi": {
+   "t": "Kunyah Abu 'Abdillah.",
+   "src": [
+    "Ibnu Sa'd 3/461",
+    "Turath rawi"
+   ]
+  },
+  "peran": {
+   "t": "Berangkat ke Badar tetapi dipulangkan Rasulullah ﷺ dari ar-Rauha' bersama Abu Lubabah, diutus ke Bani 'Amr bin 'Auf untuk suatu urusan; ikut Uhud, Khandaq, Hudaibiyah dan Khaibar. Satu riwayat lemah menyebut ia ikut Shiffin bersama 'Ali.",
+   "src": [
+    "al-Ishabah 1/664",
+    "Ibnu Sa'd 3/461"
+   ]
+  },
+  "hilf": null,
+  "syaraf": {
+   "t": "Ibunya Umamah binti Shamit bin Khalid.",
+   "src": [
+    "Ibnu Sa'd 3/461"
+   ]
+  },
+  "catatan": {
+   "t": "Meninggalkan keturunan melalui putranya 'Abdullah.",
+   "src": [
+    "Ibnu Sa'd 3/461"
+   ]
+  }
+ },
+ {
+  "id": "s648",
+  "identitas": {
+   "lahir": null,
+   "umur": null,
+   "wafat": "Pada masa khilafah 'Utsman menurut al-Waqidi; 'Abdullah bin Muhammad bin 'Umarah menyebut ia syahid di Bi'r Ma'unah",
+   "makam": null,
+   "src": [
+    "al-Ishabah 1/281",
+    "Ibnu Sa'd 3/502"
+   ]
+  },
+  "kabilah_tabaqat": {
+   "t": "Anshar dari Bani Malik bin an-Najjar; Ahlu Badar.",
+   "src": [
+    "al-Ishabah 1/281",
+    "Ibnu Sa'd 3/502"
+   ]
+  },
+  "nisbah_rihlah": null,
+  "laqab_profesi": null,
+  "peran": {
+   "t": "Ikut Badar, Uhud, Khandaq dan seluruh peperangan bersama Rasulullah ﷺ; menurut 'Abdullah bin Muhammad bin 'Umarah ia ikut Uhud bersama saudara kandungnya Ubay bin Mu'adz dan keduanya gugur di Bi'r Ma'unah.",
+   "src": [
+    "al-Ishabah 1/281",
+    "Ibnu Sa'd 3/502"
+   ]
+  },
+  "hilf": null,
+  "syaraf": {
+   "t": "'Urwah menyebut namanya Unais; ibunya Ummu Unas binti Khalid bin Khunais.",
+   "src": [
+    "al-Ishabah 1/281",
+    "Ibnu Sa'd 3/502"
+   ]
+  },
+  "catatan": {
+   "t": "Tidak meninggalkan keturunan.",
+   "src": [
+    "Ibnu Sa'd 3/502"
+   ]
+  }
+ },
+ {
+  "id": "s491",
+  "identitas": {
+   "lahir": null,
+   "umur": null,
+   "wafat": "Di Syam pada masa 'Umar; ada yang mengatakan dalam Tha'un 'Amwas, ada pula yang menyebut 20 H; Ibnu Zabr menyebut ia wafat di Darayya",
+   "makam": "Ibnu Mandah menyebut ia dimakamkan di Halab",
+   "src": [
+    "al-Ishabah 1/455"
+   ]
+  },
+  "kabilah_tabaqat": {
+   "t": "Al-Habasyi, maula Abu Bakar; termasuk kaum mustadh'afin dan tujuh orang pertama yang menampakkan keislaman.",
+   "src": [
+    "al-Ishabah 1/455",
+    "Ibnu Sa'd 3/232"
+   ]
+  },
+  "nisbah_rihlah": {
+   "t": "Makkah → hijrah ke Madinah dan singgah di rumah Sa'd bin Khaitsamah → Syam untuk berjihad hingga wafat.",
+   "src": [
+    "al-Ishabah 1/455",
+    "Ibnu Sa'd 3/232"
+   ]
+  },
+  "laqab_profesi": {
+   "t": "Kunyah Abu 'Abdillah; muazin Rasulullah ﷺ dan bendahara (khazin) beliau.",
+   "src": [
+    "al-Ishabah 1/455",
+    "Ibnu Sa'd 3/232",
+    "Turath rawi"
+   ]
+  },
+  "peran": {
+   "t": "Disiksa Umayyah bin Khalaf di padang Makkah agar meninggalkan tauhid dan tetap berkata \"Ahad, Ahad\", lalu dibeli dan dimerdekakan Abu Bakar; ikut seluruh peperangan bersama Nabi ﷺ; dipersaudarakan dengan Abu 'Ubaidah bin al-Jarrah (ada yang mengatakan 'Ubaidah bin al-Harits atau Abu Ruwaihah al-Khats'ami); setelah Nabi ﷺ wafat ia berjihad di Syam.",
+   "src": [
+    "al-Ishabah 1/455",
+    "Ibnu Sa'd 3/232"
+   ]
+  },
+  "hilf": {
+   "t": "Maula Abu Bakar ash-Shiddiq yang memerdekakannya; sebelumnya milik sebagian Bani Jumah. Saat 'Umar menyusun diwan di Syam ia memilih bergabung dengan Abu Ruwaihah, sehingga diwan orang Habasyah digabungkan ke Khats'am.",
+   "src": [
+    "al-Ishabah 1/455",
+    "Ibnu Sa'd 3/232"
+   ]
+  },
+  "syaraf": {
+   "t": "Ibunya Hamamah; ia termasuk muwalladin as-Sarat. 'Umar berkata: \"Abu Bakar sayyid kami dan memerdekakan sayyid kami\", yakni Bilal.",
+   "src": [
+    "al-Ishabah 1/455",
+    "Ibnu Sa'd 3/232"
+   ]
+  },
+  "catatan": {
+   "t": "Sebaya dengan Abu Bakar menurut Abu Nu'aim; salah satu dari tiga muazin Nabi ﷺ bersama Abu Mahdzurah dan 'Amr bin Ummi Maktum.",
+   "src": [
+    "al-Ishabah 1/455",
+    "Ibnu Sa'd 3/232"
+   ]
+  }
+ },
+ {
+  "id": "n1091",
+  "identitas": {
+   "lahir": null,
+   "umur": null,
+   "wafat": "73 H menurut Muhammad bin Sa'd; ada yang mengatakan 68, 72, 77, 78 atau 79 H",
+   "makam": null,
+   "src": [
+    "Turath rawi"
+   ]
+  },
+  "kabilah_tabaqat": {
+   "t": "Bani Salimah dari al-Khazraj.",
+   "src": [
+    "Turath rawi"
+   ]
+  },
+  "nisbah_rihlah": null,
+  "laqab_profesi": {
+   "t": "Kunyah Abu 'Abdillah; ada yang mengatakan Abu 'Abd ar-Rahman atau Abu Muhammad.",
+   "src": [
+    "Turath rawi"
+   ]
+  },
+  "peran": null,
+  "hilf": null,
+  "syaraf": null,
+  "catatan": null
+ },
+ {
+  "id": "s681",
+  "identitas": null,
+  "kabilah_tabaqat": {
+   "t": "Keturunan 'Abd al-Asyhal bin Haritsah bin Dinar; Ahlu Badar.",
+   "src": [
+    "al-Ishabah 1/541",
+    "Ibnu Sa'd 3/520"
+   ]
+  },
+  "nisbah_rihlah": null,
+  "laqab_profesi": null,
+  "peran": {
+   "t": "Ikut Badar dan Uhud.",
+   "src": [
+    "al-Ishabah 1/541",
+    "Ibnu Sa'd 3/520"
+   ]
+  },
+  "hilf": null,
+  "syaraf": {
+   "t": "Dalam riwayat Ibnu Ishaq ia disebut Jabir bin 'Abdullah; yang benar Jabir bin Khalid.",
+   "src": [
+    "al-Ishabah 1/541"
+   ]
+  },
+  "catatan": {
+   "t": "Tidak meninggalkan keturunan.",
+   "src": [
+    "Ibnu Sa'd 3/520"
+   ]
+  }
+ },
+ {
+  "id": "s650",
+  "identitas": {
+   "lahir": null,
+   "umur": null,
+   "wafat": "Syahid di Bi'r Ma'unah pada bulan Shafar, 36 bulan setelah hijrah",
+   "makam": null,
+   "src": [
+    "Ibnu Sa'd 3/504"
+   ]
+  },
+  "kabilah_tabaqat": {
+   "t": "Anshar dari Bani 'Adi bin 'Amr bin Malik bin an-Najjar; Ahlu Badar.",
+   "src": [
+    "al-Ishabah 1/179",
+    "Ibnu Sa'd 3/504"
+   ]
+  },
+  "nisbah_rihlah": null,
+  "laqab_profesi": {
+   "t": "Kunyah Abu Syaikh.",
+   "src": [
+    "al-Ishabah 1/179",
+    "Ibnu Sa'd 3/504",
+    "Turath rawi"
+   ]
+  },
+  "peran": {
+   "t": "Ikut Badar dan Uhud, lalu gugur di Bi'r Ma'unah.",
+   "src": [
+    "al-Ishabah 1/179",
+    "Ibnu Sa'd 3/504"
+   ]
+  },
+  "hilf": null,
+  "syaraf": {
+   "t": "Saudara Hassan bin Tsabit; ibunya Sukhta binti Haritsah bin Laudzan. Diperselisihkan: Ibnu al-Kalbi, al-Waqidi dan Ibnu Hibban menyebut dialah Abu Syaikh yang ikut Badar, sedangkan Ibnu Ishaq menyebut Ubay wafat di masa jahiliah dan yang ikut Badar adalah putranya, Abu Syaikh bin Ubay (demikian pula Musa bin 'Uqbah).",
+   "src": [
+    "al-Ishabah 1/179",
+    "Ibnu Sa'd 3/504"
+   ]
+  },
+  "catatan": {
+   "t": "Tidak meninggalkan keturunan.",
+   "src": [
+    "Ibnu Sa'd 3/504"
+   ]
+  }
+ },
+ {
+  "id": "s737",
+  "identitas": null,
+  "kabilah_tabaqat": {
+   "t": "Ahlu Badar.",
+   "src": [
+    "Ibnu Sa'd 3/554"
+   ]
+  },
+  "nisbah_rihlah": null,
+  "laqab_profesi": null,
+  "peran": {
+   "t": "Ikut Badar dan Uhud.",
+   "src": [
+    "Ibnu Sa'd 3/554"
+   ]
+  },
+  "hilf": null,
+  "syaraf": null,
+  "catatan": {
+   "t": "Tidak meninggalkan keturunan.",
+   "src": [
+    "Ibnu Sa'd 3/554"
+   ]
+  }
+ }
+]

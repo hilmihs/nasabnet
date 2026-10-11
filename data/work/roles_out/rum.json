@@ -1,0 +1,33 @@
+{
+  "id": "rum",
+  "lokasi": {"t": "Wilayah Romawi/Bizantium (Syam dan Anatolia) serta Mesir (Qibthi)", "status": "umum"},
+  "militer": [
+    {"t": "Romawi dan sekutu Arabnya (Lakhm, Judzam, al-Qain, Bahra', Baliy) menghadang kaum Muslimin di Mu'tah, lalu bertempur melawan mereka di Yarmuk; ekspedisi Tabuk yang ditujukan kepada Romawi berhenti belasan malam di Tabuk lalu kembali",
+     "src": ["Sirah Ibnu Hisyam 2/375", "Tarikh ath-Thabari 3/435", "Sirah Ibnu Hisyam 2/516", "Sirah Ibnu Hisyam 2/527"],
+     "quote": ["فِي مائَة أَلْفٍ مِنْ الرُّومِ، وانضمّ إِلَيْهِم مل لَخْمٍ وَجُذَامٍ", "وَهُمْ بِالْيَرْمُوكِ، وَقَدِ الْتَحَمَ الْقِتَالُ بَيْنَهُمْ وَبَيْنَ الرُّومِ", "فَأَمَرَ النَّاسَ بِالْجِهَازِ، وَأَخْبَرَهُمْ أَنَّهُ يُرِيدُ الرُّومَ", "فَأَقَامَ رَسُولُ اللَّهِ ﷺ بِتَبُوكَ بِضْعَ عَشْرَةَ لَيْلَةً، لَمْ يُجَاوِزْهَا"],
+     "status": "rewritten"}
+  ],
+  "diplomasi": [
+    {"t": "Nabi ﷺ mengirim surat kepada Qaishar (Heraklius), raja Romawi, melalui Dihyah al-Kalbi, dan kepada al-Muqauqis, penguasa Iskandariyah, melalui Hathib bin Abi Balta'ah",
+     "src": ["Sirah Ibnu Hisyam 2/607", "Sirah Ibnu Hisyam 2/607"],
+     "quote": ["فَبَعَثَ دِحْيَةَ بْنَ خَلِيفَةَ الْكَلْبِيَّ إلَى قَيْصَرَ، مَلِكِ الرُّومِ", "وَبَعَثَ حَاطِبَ بْنَ أَبِي بَلْتَعَةَ إلَى الْمُقَوْقَسِ، مَلِكِ الْإِسْكَنْدَرِيَّةِ"],
+     "status": "rewritten"},
+    {"t": "al-Muqauqis menghadiahkan Mariyah al-Qibthiyyah dan saudarinya Sirin kepada Nabi ﷺ (7 H)",
+     "src": ["Ibnu Sa'd 8/212"],
+     "quote": ["في سنة سبع من الهجرة بمارية وبأختها سيرين"],
+     "status": "ok"}
+  ],
+  "ekonomi": [
+    {"t": "Shuhaib \"ar-Rumi\" (nasabnya Arab dari an-Namir bin Qasith, besar di negeri Romawi) menyerahkan seluruh hartanya kepada Quraisy demi berhijrah",
+     "src": ["Ibnu Sa'd 3/226", "Sirah Ibnu Hisyam 1/477"],
+     "quote": ["فنشأ صهيب بالروم فصار ألكن", "قَالَ: فَإِنِّي جَعَلْتُ لَكُمْ مَالِي"],
+     "status": "ok"}
+  ],
+  "sosial": [
+    {"t": "Mariyah al-Qibthiyyah, ibu Ibrahim putra Nabi ﷺ",
+     "src": ["Ibnu Sa'd 8/214"],
+     "quote": ["كانت مارية أم إبراهيم أهداها المقوقس"],
+     "status": "ok"}
+  ],
+  "dropped": []
+}

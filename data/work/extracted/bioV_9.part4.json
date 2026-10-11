@@ -1,0 +1,358 @@
+[
+ {
+  "id": "n1092",
+  "identitas": {
+   "lahir": null,
+   "umur": null,
+   "wafat": "61 H",
+   "makam": null,
+   "src": [
+    "Turath rawi"
+   ]
+  },
+  "kabilah_tabaqat": {
+   "t": "Bani Salimah dari Anshar (keturunan Ka'b bin Ghanm bin Salimah).",
+   "src": [
+    "Turath rawi"
+   ]
+  },
+  "nisbah_rihlah": null,
+  "laqab_profesi": {
+   "t": "Berkunyah Abu 'Abdullah, ada yang mengatakan Abu 'Abd al-Malik; Ibnu Mandah menyebut Abu ar-Rabi', yang dinilai keliru oleh Abu Nu'aim.",
+   "src": [
+    "Turath rawi"
+   ]
+  },
+  "peran": null,
+  "hilf": null,
+  "syaraf": null,
+  "catatan": {
+   "t": "Ayah 'Abd al-Malik bin Jabir bin 'Atik, yang meriwayatkan dari Jabir bin 'Abdillah.",
+   "src": [
+    "al-Ishabah 1/550"
+   ]
+  }
+ },
+ {
+  "id": "s4710",
+  "identitas": null,
+  "kabilah_tabaqat": {
+   "t": "Bani Zuraiq dari Anshar; disebut Ibnu Sa'd di antara wanita yang berbaiat.",
+   "src": [
+    "Ibnu Sa'd 8/391",
+    "al-Ishabah 8/294"
+   ]
+  },
+  "nisbah_rihlah": null,
+  "laqab_profesi": null,
+  "peran": {
+   "t": "Masuk Islam dan berbaiat kepada Rasulullah ﷺ.",
+   "src": [
+    "Ibnu Sa'd 8/391"
+   ]
+  },
+  "hilf": null,
+  "syaraf": null,
+  "catatan": {
+   "t": "Ibunya Salma binti Umayyah dari Bani Sa'idah; menikah dengan Mas'ud bin Sa'd, kemudian dengan al-'Ajlan bin an-Nu'man.",
+   "src": [
+    "Ibnu Sa'd 8/391"
+   ]
+  }
+ },
+ {
+  "id": "s822",
+  "identitas": null,
+  "kabilah_tabaqat": {
+   "t": "Bani Bayadhah dari Anshar; termasuk Ahlu Badar, sedangkan keikutsertaannya di 'Aqabah diperselisihkan.",
+   "src": [
+    "Ibnu Sa'd 3/599",
+    "al-Ishabah 2/212"
+   ]
+  },
+  "nisbah_rihlah": null,
+  "laqab_profesi": null,
+  "peran": {
+   "t": "Ikut Bai'at 'Aqabah menurut Ibnu Ishaq dan al-Waqidi, namun tidak disebut Musa bin 'Uqbah dan Abu Ma'syar, dan Dawud bin al-Hushain menafikannya. Ikut Badar dan Uhud; Ibnu Hibban menyebutnya termasuk yang bertempur sungguh-sungguh di Badar.",
+   "src": [
+    "Ibnu Sa'd 3/599",
+    "al-Ishabah 2/212"
+   ]
+  },
+  "hilf": null,
+  "syaraf": null,
+  "catatan": {
+   "t": "Memiliki keturunan (di antaranya 'Abdurrahman), tetapi kemudian punah.",
+   "src": [
+    "Ibnu Sa'd 3/599"
+   ]
+  }
+ },
+ {
+  "id": "s758",
+  "identitas": {
+   "lahir": null,
+   "umur": null,
+   "wafat": "Gugur syahid di Uhud",
+   "makam": "Uhud; menurut al-Waqidi ibunya sempat membawa jenazahnya di atas unta, lalu jenazah dikembalikan dan dimakamkan di Uhud",
+   "src": [
+    "al-Ishabah 2/286"
+   ]
+  },
+  "kabilah_tabaqat": {
+   "t": "Keturunan Zaid bin Haram dari Anshar; termasuk Ahlu Badar menurut semua riwayat.",
+   "src": [
+    "Ibnu Sa'd 3/566",
+    "al-Ishabah 2/286"
+   ]
+  },
+  "nisbah_rihlah": null,
+  "laqab_profesi": null,
+  "peran": {
+   "t": "Ikut Badar (tanpa perselisihan, menurut Abu 'Umar) dan Uhud, dan gugur di Uhud.",
+   "src": [
+    "Ibnu Sa'd 3/566",
+    "al-Ishabah 2/286"
+   ]
+  },
+  "hilf": null,
+  "syaraf": null,
+  "catatan": {
+   "t": "Putra 'Amr bin al-Jamuh; ibunya Hind binti 'Amr bin Haram, bibi Jabir bin 'Abdillah; tidak meninggalkan keturunan.",
+   "src": [
+    "Ibnu Sa'd 3/566",
+    "al-Ishabah 2/286"
+   ]
+  }
+ },
+ {
+  "id": "s853",
+  "identitas": null,
+  "kabilah_tabaqat": {
+   "t": "Bani Salimah dari Anshar (keturunan Ghanm bin Ka'b bin Salimah); termasuk yang masuk Islam sejak awal.",
+   "src": [
+    "Ibnu Sa'd 3/627"
+   ]
+  },
+  "nisbah_rihlah": null,
+  "laqab_profesi": null,
+  "peran": {
+   "t": "'Abdullah bin Muhammad bin 'Umarah menyebut ia ikut Badar bersama saudaranya Khalid bin Qais, tetapi Ibnu Ishaq, Musa bin 'Uqbah, Abu Ma'syar, dan al-Waqidi tidak menyebutnya, dan Ibnu Sa'd menilai riwayat itu tidak tsabit.",
+   "src": [
+    "Ibnu Sa'd 3/627"
+   ]
+  },
+  "hilf": null,
+  "syaraf": null,
+  "catatan": {
+   "t": "Ibunya Idam binti al-Qain dari Bani Salimah.",
+   "src": [
+    "Ibnu Sa'd 3/627"
+   ]
+  }
+ },
+ {
+  "id": "s514",
+  "identitas": null,
+  "kabilah_tabaqat": {
+   "t": "Ju'fi dari Madzhij (keturunan Sa'd al-'Asyirah); halif Bani 'Adi bin Ka'b; termasuk Ahlu Badar menurut kesepakatan.",
+   "src": [
+    "Ibnu Sa'd 3/391"
+   ]
+  },
+  "nisbah_rihlah": null,
+  "laqab_profesi": null,
+  "peran": {
+   "t": "Ikut Badar tanpa perselisihan; menurut Abu Ma'syar dan al-Waqidi bersama putranya, menurut Ibnu Ishaq bersama saudaranya Malik, dan menurut Musa bin 'Uqbah bersama saudaranya Hilal.",
+   "src": [
+    "Ibnu Sa'd 3/391"
+   ]
+  },
+  "hilf": {
+   "t": "Halif al-Khaththab bin Nufail, ayah 'Umar bin al-Khaththab, dari Bani 'Adi bin Ka'b.",
+   "src": [
+    "Ibnu Sa'd 3/391"
+   ]
+  },
+  "syaraf": null,
+  "catatan": {
+   "t": "Dikenal sebagai Khauli bin Abi Khauli; nama ayahnya 'Amr bin Zuhair.",
+   "src": [
+    "Ibnu Sa'd 3/391"
+   ]
+  }
+ },
+ {
+  "id": "s536",
+  "identitas": {
+   "lahir": null,
+   "umur": null,
+   "wafat": "30 H di Madinah, pada masa kekhalifahan 'Utsman bin 'Affan",
+   "makam": null,
+   "src": [
+    "Ibnu Sa'd 3/417"
+   ]
+  },
+  "kabilah_tabaqat": {
+   "t": "Bani al-Harits bin Fihr dari Quraisy; muhajir ke Habasyah (hijrah kedua) dan ke Madinah, serta Ahlu Badar.",
+   "src": [
+    "Ibnu Sa'd 3/417"
+   ]
+  },
+  "nisbah_rihlah": {
+   "t": "Makkah → Habasyah pada hijrah kedua (menurut Ibnu Ishaq dan al-Waqidi) → Madinah, singgah pada Kultsum bin al-Hidm; wafat di Madinah.",
+   "src": [
+    "Ibnu Sa'd 3/417"
+   ]
+  },
+  "laqab_profesi": {
+   "t": "Berkunyah Abu Sa'd.",
+   "src": [
+    "Ibnu Sa'd 3/417"
+   ]
+  },
+  "peran": {
+   "t": "Ikut Badar, Uhud, Khandaq, dan seluruh peperangan bersama Rasulullah ﷺ.",
+   "src": [
+    "Ibnu Sa'd 3/417"
+   ]
+  },
+  "hilf": null,
+  "syaraf": {
+   "t": "Namanya diperselisihkan: Ma'mar bin Abi Sarh (Abu Ma'syar, al-Waqidi) atau 'Amr bin Abi Sarh (Musa bin 'Uqbah, Ibnu Ishaq, Ibnu al-Kalbi).",
+   "src": [
+    "Ibnu Sa'd 3/417"
+   ]
+  },
+  "catatan": {
+   "t": "Anaknya 'Abdullah dan 'Umair; ibu 'Umair adalah saudari Abu 'Ubaidah bin al-Jarrah.",
+   "src": [
+    "Ibnu Sa'd 3/417"
+   ]
+  }
+ },
+ {
+  "id": "s725",
+  "identitas": null,
+  "kabilah_tabaqat": {
+   "t": "Bani Ghanm bin 'Auf dari 'Amr bin 'Auf bin al-Khazraj (Anshar); Ahlu Badar menurut semua ulama, sedangkan keikutsertaannya di 'Aqabah diperselisihkan.",
+   "src": [
+    "Ibnu Sa'd 3/549",
+    "al-Ishabah 5/534"
+   ]
+  },
+  "nisbah_rihlah": null,
+  "laqab_profesi": null,
+  "peran": {
+   "t": "Ikut 'Aqabah menurut Musa bin 'Uqbah, Ibnu Ishaq, dan al-Waqidi (Abu Ma'syar dan Dawud bin al-Hushain menafikannya). Di Badar menawan Suhail bin 'Amr; ikut Uhud, Khandaq, dan seluruh peperangan; diutus dari Tabuk bersama 'Ashim bin 'Adi membakar Masjid adh-Dhirar.",
+   "src": [
+    "Ibnu Sa'd 3/549",
+    "al-Ishabah 5/534"
+   ]
+  },
+  "hilf": null,
+  "syaraf": {
+   "t": "Nasabnya diperselisihkan.",
+   "src": [
+    "al-Ishabah 5/534"
+   ]
+  },
+  "catatan": {
+   "t": "Dalam hadis 'Itban bin Malik sebagian orang menuduhnya munafik, lalu Nabi ﷺ membelanya: \"Bukankah ia bersaksi tiada ilah selain Allah?\" Ia tidak meninggalkan keturunan.",
+   "src": [
+    "al-Ishabah 5/534",
+    "Ibnu Sa'd 3/549"
+   ]
+  }
+ },
+ {
+  "id": "n6151",
+  "identitas": {
+   "lahir": "Saat Nabi ﷺ tiba di Madinah (tahun hijrah); riwayat lain: berusia empat tahun ketika itu",
+   "umur": "Sepuluh tahun ketika Nabi ﷺ wafat (riwayat lain: empat belas tahun)",
+   "wafat": "62 H di Mesir saat menjabat gubernur; al-Waqidi menyebut ia kembali ke Madinah dan wafat di sana",
+   "makam": null,
+   "src": [
+    "al-Ishabah 6/91",
+    "Turath rawi"
+   ]
+  },
+  "kabilah_tabaqat": {
+   "t": "Bani Sa'idah dari al-Khazraj (Anshar); termasuk sahabat junior (shighar ash-shahabah).",
+   "src": [
+    "Turath rawi",
+    "al-Ishabah 6/91"
+   ]
+  },
+  "nisbah_rihlah": {
+   "t": "Madinah → Mesir (sebagai gubernur); Turath juga mengaitkannya dengan Syam.",
+   "src": [
+    "al-Ishabah 6/91",
+    "Turath rawi"
+   ]
+  },
+  "laqab_profesi": {
+   "t": "Berkunyah Abu Sa'id atau Abu Ma'n; ada yang menyebut Abu Mas'ud, Abu Mu'awiyah, atau Abu Ma'mar.",
+   "src": [
+    "Turath rawi"
+   ]
+  },
+  "peran": {
+   "t": "Gubernur Mesir pada masa Mu'awiyah dan awal masa Yazid; orang pertama yang memegang Mesir dan Maghrib sekaligus. Meriwayatkan beberapa hadis yang menurut Ibnu as-Sakan tidak menyebut mendengar langsung.",
+   "src": [
+    "al-Ishabah 6/91"
+   ]
+  },
+  "hilf": null,
+  "syaraf": null,
+  "catatan": null
+ },
+ {
+  "id": "n6225",
+  "identitas": {
+   "lahir": "Lima tahun sebelum kenabian (pendapat paling masyhur); ada yang mengatakan tujuh atau tiga belas tahun",
+   "umur": null,
+   "wafat": "60 H; ada yang mengatakan 59 H",
+   "makam": null,
+   "src": [
+    "al-Ishabah 6/120",
+    "Turath rawi"
+   ]
+  },
+  "kabilah_tabaqat": {
+   "t": "Bani Umayyah bin 'Abd Syams dari Quraisy; menampakkan Islam pada tahun Fathu Makkah.",
+   "src": [
+    "Turath rawi",
+    "al-Ishabah 6/120"
+   ]
+  },
+  "nisbah_rihlah": {
+   "t": "Syam, tempat ia menjabat dan menetap.",
+   "src": [
+    "al-Ishabah 6/120",
+    "Turath rawi"
+   ]
+  },
+  "laqab_profesi": {
+   "t": "Berkunyah Abu 'Abdurrahman; juru tulis Nabi ﷺ untuk urusan surat-menyurat dengan bangsa Arab. Abu Nu'aim menyebutnya penulis yang cakap dan fasih, penyantun dan berwibawa; 'Umar menjulukinya \"Kisra-nya Arab\".",
+   "src": [
+    "Turath rawi",
+    "al-Ishabah 6/120"
+   ]
+  },
+  "peran": {
+   "t": "Menurut al-Waqidi dan pengakuannya sendiri ia masuk Islam sebelum 'Umrah al-Qadha' namun menyembunyikannya hingga Fath. Diangkat 'Umar menjadi gubernur Syam setelah saudaranya Yazid, ditetapkan 'Utsman; tidak berbaiat kepada 'Ali dan memeranginya, menambahkan Mesir, menyandang gelar khalifah setelah tahkim, lalu disepakati umat setelah berdamai dengan al-Hasan ('Am al-Jama'ah). Sekitar dua puluh tahun sebagai amir dan hampir dua puluh tahun sebagai khalifah.",
+   "src": [
+    "al-Ishabah 6/120"
+   ]
+  },
+  "hilf": null,
+  "syaraf": null,
+  "catatan": {
+   "t": "Hadis \"al-khairu 'adah wasy-syarru lajajah\" hanya diriwayatkan darinya; di antara perawinya Marwan bin al-Hakam, Qais bin Abi Hazim, dan Sa'id bin al-Musayyib.",
+   "src": [
+    "al-Ishabah 6/120"
+   ]
+  }
+ }
+]

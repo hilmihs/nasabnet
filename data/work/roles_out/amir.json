@@ -1,0 +1,84 @@
+{
+  "id": "amir",
+  "lokasi": {
+    "t": "Makkah (Hijaz)",
+    "status": "umum"
+  },
+  "militer": [
+    {
+      "t": "Suhail bin Amr berangkat berperang ke Syam pada masa Abu Bakar, bertekad tinggal bersiaga di sana, dan wafat di Syam karena wabah 'Amwas (18 H)",
+      "src": [
+        "Ibnu Sa'd 7/405",
+        "Ibnu Sa'd 7/405"
+      ],
+      "quote": [
+        "اصطحبت أنا وسهيل بن عمرو إلى الشام ليالي أغزانا أبو بكر الصديق",
+        "فلم يزل بالشام حتى مات بها في طاعون عمواس سنة ثماني عشرة"
+      ],
+      "status": "rewritten"
+    }
+  ],
+  "diplomasi": [
+    {
+      "t": "Suhail bin Amr diutus Quraisy sebagai juru runding dalam Perjanjian Hudaibiyah",
+      "src": [
+        "Sirah Ibnu Hisyam 2/316"
+      ],
+      "quote": [
+        "ثم بعثت قريش سهيل بن عمرو، أخا بني عامر ابن لؤي، إلى رسول الله ﷺ"
+      ],
+      "status": "rewritten"
+    },
+    {
+      "t": "Ketika Nabi ﷺ wafat dan penduduk Makkah hendak murtad, Suhail bin Amr berkhutbah meneguhkan mereka hingga mereka mengurungkan niatnya",
+      "src": [
+        "Sirah Ibnu Hisyam 2/666",
+        "Sirah Ibnu Hisyam 2/666"
+      ],
+      "quote": [
+        "فقام سهيل بن عمرو، فحمد الله، وأثنى عليه، ثم ذكر وفاة رسول الله ﷺ",
+        "فتراجع الناس وكفوا عما هموا به"
+      ],
+      "status": "rewritten"
+    }
+  ],
+  "ekonomi": [
+    {
+      "t": "Suhail bin Amr dan Huwaithib bin Abdul 'Uzza termasuk al-mu'allafah qulubuhum yang masing-masing diberi seratus unta dari harta rampasan Hunain",
+      "src": [
+        "Sirah Ibnu Hisyam 2/492",
+        "Sirah Ibnu Hisyam 2/493"
+      ],
+      "quote": [
+        "وأعطى رسول الله ﷺ المؤلفة قلوبهم، وكانوا أشرافا من أشراف الناس",
+        "وأعطى سهيل بن عمرو مائة بعير، وأعطى حويطب بن عبد العزى بن أبى قيس مائة بعير"
+      ],
+      "status": "new"
+    }
+  ],
+  "sosial": [
+    {
+      "t": "Klan Saudah binti Zam'ah, Ummul Mukminin",
+      "src": [
+        "Ibnu Sa'd 8/219"
+      ],
+      "quote": [
+        "وسودة بنت زمعة من بني عامر بن لؤي"
+      ],
+      "status": "ok"
+    },
+    {
+      "t": "Ibnu Ummi Maktum, dari Bani 'Amir bin Lu'ay, mengumandangkan azan untuk Nabi ﷺ di Madinah bersama Bilal dan sering ditunjuk mengimami salat di Madinah saat beliau berperang",
+      "src": [
+        "Ibnu Sa'd 4/205",
+        "Ibnu Sa'd 4/205"
+      ],
+      "quote": [
+        "وكان يؤذن للنبي، ﷺ، بالمدينة مع بلال",
+        "وكان رسول الله، ﷺ، يستخلفه على المدينة يصلي بالناس في عامة غزوات رسول الله"
+      ],
+      "status": "rewritten"
+    }
+  ],
+  "dropped": []
+}

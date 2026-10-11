@@ -1,0 +1,112 @@
+[
+ {
+  "id": "s672",
+  "identitas": {"lahir": null, "umur": null, "wafat": "Pada masa kekhalifahan 'Utsman bin 'Affan", "makam": null, "src": ["Ibnu Sa'd 3/518"]},
+  "kabilah_tabaqat": {"t": "Bani Mazin (keturunan Mabdzul bin 'Amr bin Ghanm bin Mazin) dari Anshar; ibunya dari Bani Jusyam bin al-Khazraj. Termasuk Ahlu Badar.", "src": ["Ibnu Sa'd 3/518"]},
+  "nisbah_rihlah": null,
+  "laqab_profesi": {"t": "Berkunyah Abu al-Harits; sebagian Anshar menyebut kunyahnya Abu Yahya.", "src": ["Ibnu Sa'd 3/518"]},
+  "peran": {"t": "Ikut Badar dan menjadi petugas Nabi ﷺ yang mengurus ghanimah pada hari Badar; ikut Uhud, Khandaq, dan seluruh peperangan bersama Rasulullah ﷺ.", "src": ["Ibnu Sa'd 3/518"]},
+  "hilf": null,
+  "syaraf": null,
+  "catatan": {"t": "Saudara Abu Laila al-Mazini; cucunya 'Abdullah bin al-Harits terbunuh pada Peristiwa al-Harrah; keturunannya ada di Madinah dan Baghdad.", "src": ["Ibnu Sa'd 3/518"]}
+ },
+ {
+  "id": "n3856",
+  "identitas": {"lahir": null, "umur": "Lebih dari 60 tahun; Abu Bakr bin Abi Syaibah: 63 tahun", "wafat": "Diperselisihkan: 42 H, 44 H, 50 H, 51 H, atau 53 H (Turath juga mencatat 49 H dan 52 H); diperselisihkan pula apakah wafat di Kufah atau Makkah", "makam": null, "src": ["al-Ishabah 4/181", "Turath rawi"]},
+  "kabilah_tabaqat": {"t": "Al-Asy'ari dari kabilah al-Asy'ar (Yaman, keturunan Kahlan bin Saba' dari Qahthan); tiba bersama ahlus-safinatain (Ja'far dan kawan-kawan) saat Nabi ﷺ di Khaibar.", "src": ["Ibnu Sa'd 4/105", "al-Ishabah 4/181"]},
+  "nisbah_rihlah": {"t": "Yaman → Makkah (masuk Islam) → menurut sebagian riwayat hijrah ke Habasyah, namun mayoritas menyebut ia kembali ke negeri kaumnya → Madinah setelah Fath Khaibar → Zabid dan 'Adan → Syam → Bashrah → Kufah.", "src": ["al-Ishabah 4/181", "Ibnu Sa'd 4/105", "Turath rawi"]},
+  "laqab_profesi": {"t": "Masyhur dengan nama dan kunyahnya, Abu Musa. Qari bersuara sangat merdu (\"diberi seruling dari seruling keluarga Dawud\"); yang mengajarkan fikih dan Al-Qur'an kepada penduduk Bashrah, dan disebut asy-Sya'bi di antara enam orang tempat ilmu berakhir.", "src": ["al-Ishabah 4/181", "Ibnu Sa'd 4/105"]},
+  "peran": {"t": "Masuk Islam di Makkah, lalu datang bersama lima puluhan orang kaumnya dan tiba bersamaan dengan rombongan Ja'far di Khaibar. Diangkat Nabi ﷺ atas Zabid, 'Adan, dan pesisir Yaman; setelah Nabi ﷺ wafat ikut penaklukan Syam; diangkat 'Umar menjadi gubernur Bashrah sesudah al-Mughirah (menaklukkan Ahwaz dan Ashbahan), lalu gubernur Kufah di masa 'Utsman; salah satu dari dua hakam setelah Shiffin, kemudian menjauhi kedua pihak.", "src": ["al-Ishabah 4/181", "Ibnu Sa'd 4/105"]},
+  "hilf": {"t": "Menurut al-Waqidi dkk. ia bersekutu (halif) dengan Sa'id bin al-'Ash (Abu Uhaihah) di Makkah; Abu Bakr bin 'Abdillah bin Abi al-Jahm menyatakan ia tidak punya hilf di Quraisy.", "src": ["Ibnu Sa'd 4/105", "al-Ishabah 4/181"]},
+  "syaraf": {"t": "Nasabnya sampai kepada al-Asy'ar (Nabt bin Udad) dari Kahlan bin Saba'; 'Umar berwasiat agar ia dipertahankan pada jabatannya sepeninggalnya.", "src": ["Ibnu Sa'd 4/105", "al-Ishabah 4/181"]},
+  "catatan": {"t": "Ibunya Zhabyah binti Wahb dari 'Akk masuk Islam dan wafat di Madinah; putra sulungnya Ibrahim dinamai dan ditahnik Nabi ﷺ; bertubuh ringan dan pendek.", "src": ["Ibnu Sa'd 4/105", "al-Ishabah 4/181"]}
+ },
+ {
+  "id": "n3653",
+  "identitas": {"lahir": null, "umur": null, "wafat": "Gugur syahid di Mu'tah, Jumada al-Ula 8 H (Turath juga menyebut 7 H)", "makam": null, "src": ["Ibnu Sa'd 3/525", "al-Ishabah 4/72", "Turath rawi"]},
+  "kabilah_tabaqat": {"t": "Bani al-Harits bin al-Khazraj (Anshar); termasuk as-sabiqun al-awwalun dari Anshar, salah satu dari dua belas naqib pada Bai'at 'Aqabah, dan Ahlu Badar.", "src": ["al-Ishabah 4/72", "Ibnu Sa'd 3/525"]},
+  "nisbah_rihlah": null,
+  "laqab_profesi": {"t": "Berkunyah Abu Muhammad, juga disebut Abu Rawahah atau Abu 'Amr. Penyair, dan sudah pandai menulis sejak masa jahiliah; menjadi juru tulis Nabi ﷺ.", "src": ["al-Ishabah 4/72", "Ibnu Sa'd 3/525"]},
+  "peran": {"t": "Ikut 'Aqabah, Badar, Uhud, Khandaq, Hudaibiyah, Khaibar, dan 'Umrah al-Qadha'; membawa kabar kemenangan Badar ke Madinah, ditunjuk menggantikan Nabi ﷺ di Madinah pada Badar al-Mau'id, memimpin sariyah tiga puluh orang ke Usair bin Rizam di Khaibar, dan dipersaudarakan dengan al-Miqdad. Salah satu amir di Mu'tah; memegang panji setelah Ja'far lalu gugur.", "src": ["Ibnu Sa'd 3/525", "al-Ishabah 4/72"]},
+  "hilf": null,
+  "syaraf": {"t": "Menurut al-Marzubani berkedudukan tinggi di masa jahiliah dan Islam. Ada variasi nasab: Ibnu Tsa'labah bin Imri' al-Qais bin Tsa'labah bin 'Amr bin Imri' al-Qais al-Akbar.", "src": ["al-Ishabah 4/72", "Turath rawi"]},
+  "catatan": {"t": "Tidak meninggalkan keturunan; paman (saudara ibu) an-Nu'man bin Basyir; Zaid bin Arqam tumbuh yatim dalam asuhannya.", "src": ["Ibnu Sa'd 3/525", "al-Ishabah 4/72"]}
+ },
+ {
+  "id": "n3665",
+  "identitas": {"lahir": null, "umur": null, "wafat": "Konon terbunuh pada Peristiwa al-Harrah, 63 H", "makam": null, "src": ["al-Ishabah 4/85", "Turath rawi"]},
+  "kabilah_tabaqat": {"t": "Bani an-Najjar dari Anshar (keturunan Mabdzul bin 'Amr bin Ghanm); keikutsertaannya di Badar diperselisihkan.", "src": ["Turath rawi", "al-Ishabah 4/85"]},
+  "nisbah_rihlah": null,
+  "laqab_profesi": {"t": "Berkunyah Abu Muhammad; dikenal sebagai Ibnu Ummi 'Umarah.", "src": ["Turath rawi"]},
+  "peran": {"t": "Ikut Uhud dan peperangan sesudahnya; Abu Ahmad al-Hakim dan Ibnu Mandah menetapkan ia ikut Badar, sedangkan Ibnu 'Abdil Barr menafikannya. Di Yamamah ia bersama Wahsyi bin Harb membunuh Musailamah, pembunuh saudaranya Habib bin Zaid; pada masa al-Harrah menolak berbaiat untuk mati kepada Ibnu Hanzhalah.", "src": ["al-Ishabah 4/85"]},
+  "hilf": null,
+  "syaraf": null,
+  "catatan": null
+ },
+ {
+  "id": "s768",
+  "identitas": null,
+  "kabilah_tabaqat": {"t": "Keturunan Sinan bin 'Ubaid dari Anshar; ibunya Hind binti Sahl dari Juhainah (Bani ar-Rib'ah). Termasuk Ahlu Badar.", "src": ["Ibnu Sa'd 3/571", "al-Ishabah 4/33"]},
+  "nisbah_rihlah": null,
+  "laqab_profesi": null,
+  "peran": {"t": "Ikut Badar (disebut Ibnu Ishaq) dan Uhud; Ibnu Hibban menyebutnya di antara sahabat.", "src": ["Ibnu Sa'd 3/571", "al-Ishabah 4/33"]},
+  "hilf": null,
+  "syaraf": null,
+  "catatan": {"t": "Saudara seibu Mu'adz bin Jabal; ayahnya al-Jadd bin Qais (Abu Wahb) seorang munafik yang menjadi sebab turunnya ayat \"Di antara mereka ada yang berkata: izinkan aku…\" saat Tabuk. Ia tidak meninggalkan keturunan.", "src": ["Ibnu Sa'd 3/571"]}
+ },
+ {
+  "id": "n3313",
+  "identitas": {"lahir": null, "umur": null, "wafat": "50 H di Bashrah; ada yang mengatakan 51 H (dipastikan Ibnu 'Abdil Barr), dan ada yang menyebut wafat di Marw", "makam": null, "src": ["al-Ishabah 4/262", "Turath rawi"]},
+  "kabilah_tabaqat": {"t": "Bani 'Abd Syams dari Quraisy; ibunya dari Kinanah (Bani Firas). Masuk Islam pada hari Fathu Makkah.", "src": ["al-Ishabah 4/262"]},
+  "nisbah_rihlah": {"t": "Irak → Sijistan dan Khurasan → menetap di Bashrah (di sana ada jalan yang dinamai Sikkah Ibnu Samurah); Turath juga menyebut Damaskus.", "src": ["al-Ishabah 4/262", "Turath rawi"]},
+  "laqab_profesi": {"t": "Berkunyah Abu Sa'id. Nama asalnya 'Abd Kulal, ada yang mengatakan 'Abd Kulul atau 'Abd al-Ka'bah, lalu diganti Nabi ﷺ menjadi 'Abdurrahman.", "src": ["al-Ishabah 4/262", "Turath rawi"]},
+  "peran": {"t": "Ikut Tabuk dan penaklukan Irak; menaklukkan Sijistan di masa 'Utsman sebagai gubernur yang diangkat 'Abdullah bin 'Amir, serta menaklukkan beberapa wilayah Khurasan. Pada 42 H diutus lagi ke Sijistan (bersama al-Muhallab bin Abi Shufrah dan al-Hasan al-Bashri), lalu dicopot Mu'awiyah pada 46 H.", "src": ["al-Ishabah 4/262"]},
+  "hilf": null,
+  "syaraf": {"t": "Nasab diperselisihkan: Ibnu al-Kalbi menyebut Samurah bin Habib bin 'Abd Syams, sedangkan az-Zubair menyisipkan Rabi'ah di antara Habib dan 'Abd Syams.", "src": ["al-Ishabah 4/262", "Turath rawi"]},
+  "catatan": {"t": "Putranya 'Ubaidullah memegang Bashrah pada masa fitnah Ibnu al-Asy'ats.", "src": ["al-Ishabah 4/262"]}
+ },
+ {
+  "id": "s4702",
+  "identitas": null,
+  "kabilah_tabaqat": {"t": "Bani Zuraiq dari Anshar (keturunan Mukhallad bin 'Amir bin Zuraiq); termasuk sahabiyah yang berbaiat.", "src": ["Ibnu Sa'd 8/388"]},
+  "nisbah_rihlah": null,
+  "laqab_profesi": null,
+  "peran": {"t": "Masuk Islam dan berbaiat kepada Rasulullah ﷺ.", "src": ["Ibnu Sa'd 8/388"]},
+  "hilf": null,
+  "syaraf": null,
+  "catatan": {"t": "Saudari kandung Abu 'Ubadah Sa'd bin 'Utsman (Ahlu Badar); ibunya Ummu Jamil binti Quthbah dari Bani Salimah; suaminya Tsabit bin al-Jidz'.", "src": ["Ibnu Sa'd 8/388"]}
+ },
+ {
+  "id": "n804",
+  "identitas": {"lahir": "Di Habasyah, saat orang tuanya berhijrah ke sana", "umur": "Berusia lanjut (seorang nenek tua saat ditemui perawi)", "wafat": "Antara 71–80 H (Turath)", "makam": null, "src": ["Ibnu Sa'd 8/234", "al-Ishabah 8/28", "Turath rawi"]},
+  "kabilah_tabaqat": {"t": "Bani Umayyah bin 'Abd Syams dari Quraisy; putri Khalid bin Sa'id bin al-'Ash, muhajir Habasyah.", "src": ["Ibnu Sa'd 8/234", "al-Ishabah 8/28"]},
+  "nisbah_rihlah": {"t": "Lahir dan tumbuh di Habasyah, lalu datang bersama rombongan dua kapal (ahlus-safinatain) ketika sudah baligh dan berakal.", "src": ["Ibnu Sa'd 8/234", "al-Ishabah 8/28"]},
+  "laqab_profesi": {"t": "Masyhur dengan kunyah Ummu Khalid, dari putranya Khalid bin az-Zubair.", "src": ["al-Ishabah 8/28", "Ibnu Sa'd 8/234"]},
+  "peran": {"t": "Termasuk yang menyampaikan salam an-Najasyi kepada Rasulullah ﷺ. Meriwayatkan hadis, antara lain kisah Nabi ﷺ memakaikannya pakaian (\"sanah, sanah\") dalam Shahih al-Bukhari dan mendengar Nabi ﷺ berlindung dari azab kubur.", "src": ["Ibnu Sa'd 8/234", "al-Ishabah 8/28"]},
+  "hilf": null,
+  "syaraf": null,
+  "catatan": {"t": "Ibunya Humainah (atau Umaimah) binti Khalaf dari Khuza'ah; menikah dengan az-Zubair bin al-'Awwam dan melahirkan 'Amr dan Khalid; di antara perawinya Sa'id bin 'Amr al-Asydaq serta Musa dan Ibrahim bin 'Uqbah.", "src": ["Ibnu Sa'd 8/234", "al-Ishabah 8/28"]}
+ },
+ {
+  "id": "s542",
+  "identitas": {"lahir": null, "umur": "32 tahun", "wafat": "Terbunuh di Uhud (bulan ke-32 setelah hijrah) oleh Dhirar bin al-Khaththab al-Fihri", "makam": null, "src": ["Ibnu Sa'd 3/436", "al-Ishabah 4/567"]},
+  "kabilah_tabaqat": {"t": "Bani 'Abd al-Asyhal dari al-Aus; termasuk Ahlu Badar.", "src": ["Ibnu Sa'd 3/436", "al-Ishabah 4/567"]},
+  "nisbah_rihlah": null,
+  "laqab_profesi": {"t": "Berkunyah Abu 'Utsman.", "src": ["Ibnu Sa'd 3/436"]},
+  "peran": {"t": "Dipersaudarakan Nabi ﷺ dengan 'Umair bin Abi Waqqash; ikut Badar dan Uhud, dan gugur di Uhud.", "src": ["Ibnu Sa'd 3/436", "al-Ishabah 4/567"]},
+  "hilf": null,
+  "syaraf": {"t": "Saudara Sa'd bin Mu'adz, sayyid al-Aus (seibu, dari Kabsyah binti Rafi').", "src": ["al-Ishabah 4/567", "Ibnu Sa'd 3/436"]},
+  "catatan": {"t": "Tidak meninggalkan keturunan.", "src": ["Ibnu Sa'd 3/436"]}
+ },
+ {
+  "id": "s509",
+  "identitas": {"lahir": null, "umur": "34 tahun", "wafat": "Gugur syahid di Badar, dibunuh Malik bin Zuhair al-Jusyami", "makam": null, "src": ["Ibnu Sa'd 3/388"]},
+  "kabilah_tabaqat": {"t": "Bani Laits bin Bakr bin 'Abd Manah dari Kinanah; termasuk yang pertama masuk Islam dan berbaiat di Dar al-Arqam, muhajir, dan Ahlu Badar.", "src": ["Ibnu Sa'd 3/388"]},
+  "nisbah_rihlah": {"t": "Makkah → hijrah ke Madinah bersama seluruh keluarganya hingga rumah mereka kosong terkunci; singgah pada Rifa'ah bin 'Abd al-Mundzir.", "src": ["Ibnu Sa'd 3/388"]},
+  "laqab_profesi": {"t": "Nama asalnya Ghafil, lalu diganti Nabi ﷺ menjadi 'Aqil ketika masuk Islam.", "src": ["Ibnu Sa'd 3/388"]},
+  "peran": {"t": "Masuk Islam di Dar al-Arqam bersama saudara-saudaranya 'Amir, Iyas, dan Khalid; dipersaudarakan dengan Mubasysyir bin 'Abd al-Mundzir (ada yang mengatakan dengan al-Mujadzdzar bin Ziyad); gugur di Badar.", "src": ["Ibnu Sa'd 3/388"]},
+  "hilf": {"t": "Ayahnya bersekutu di masa jahiliah dengan Nufail bin 'Abd al-'Uzza (kakek 'Umar bin al-Khaththab), sehingga ia dan saudara-saudaranya menjadi halif Bani Nufail.", "src": ["Ibnu Sa'd 3/388"]},
+  "syaraf": {"t": "Nama ayahnya diperselisihkan: Abu al-Bukair (Abu Ma'syar, al-Waqidi) atau al-Bukair (Musa bin 'Uqbah, Ibnu Ishaq, Ibnu al-Kalbi).", "src": ["Ibnu Sa'd 3/388"]},
+  "catatan": null
+ }
+]

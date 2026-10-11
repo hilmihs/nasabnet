@@ -1,0 +1,96 @@
+{
+  "id": "asad",
+  "lokasi": {
+    "t": "Makkah (Hijaz), di lembah al-Abthah; termasuk Quraisy al-Bithah",
+    "src": [
+      "Ibnu Sa'd 1/71",
+      "al-Muhabbar, hlm. 167"
+    ],
+    "quote": [
+      "وأدخل قصي بطون قريش كلها الأبطح فسموا قريش البطاح",
+      "قبائل قريش البطاح بنو عبد مناف. وبنو عبد الدار. وبنو عبد العزى"
+    ],
+    "status": "rewritten"
+  },
+  "militer": [
+    {
+      "t": "az-Zubair bin al-'Awwam, hawari Nabi ﷺ, ikut Badar, Uhud, dan seluruh peperangan bersama Nabi ﷺ; terluka di Yarmuk dan termasuk yang pertama naik ke benteng saat penaklukan Mesir",
+      "src": [
+        "Ibnu Sa'd 3/105",
+        "Ibnu Sa'd 3/104",
+        "al-Ishabah 2/459",
+        "al-Ishabah 3/307",
+        "Tarikh ath-Thabari 4/107"
+      ],
+      "quote": [
+        "لكل نبي حواري وإن حواريي الزبير",
+        "وشهد الزبير بن العوام بدرا وأحدا والمشاهد كلها مع رسول الله",
+        "ثنتين يوم بدر، وواحدة يوم اليرموك",
+        "وكان هو والزبير أول من طلع الحصن حين فتحت مصر",
+        "حَتَّى انْتَهَى إِلَى باب اليون، وَاتَّبَعَهُ الزُّبَيْرُ، فَاجْتَمَعَا"
+      ],
+      "status": "rewritten"
+    }
+  ],
+  "diplomasi": [
+    {
+      "t": "Termasuk klan peserta Hilf al-Fudhul, pakta membela orang yang dizalimi di Makkah",
+      "src": [
+        "Sirah Ibnu Hisyam 1/133"
+      ],
+      "quote": [
+        "وَبَنُو الْمُطَّلِبِ، وَأَسَدُ بْنُ عَبْدِ الْعُزَّى، وَزُهْرَةُ ابْن كِلَابٍ"
+      ],
+      "status": "ok"
+    }
+  ],
+  "ekonomi": [
+    {
+      "t": "Khadijah binti Khuwailid, saudagar kaya yang kafilahnya berdagang ke Syam, mempercayakan dagangannya kepada Nabi ﷺ ke Syam bersama Maisarah",
+      "src": [
+        "Ibnu Sa'd 8/16",
+        "Ibnu Sa'd 8/16"
+      ],
+      "quote": [
+        "كانت خديجة ذات شرف ومال كثير وتجارة تبعث إلى الشام",
+        "تسأله الخروج إلى الشام في تجارتها مع غلامها ميسرة"
+      ],
+      "status": "rewritten"
+    },
+    {
+      "t": "Hakim bin Hizam memegang Dar an-Nadwah, menjualnya kepada Mu'awiyah seharga 100.000 dirham lalu menyedekahkan hasilnya",
+      "src": [
+        "Usdul Ghabah 2/58",
+        "Usdul Ghabah 2/58"
+      ],
+      "quote": [
+        "وكانت بيده دار الندوة، فباعها من معاوية بمائة ألف درهم",
+        "ذهبت المكارم إلا التقوى، وتصدق بثمنها"
+      ],
+      "status": "rewritten"
+    }
+  ],
+  "sosial": [
+    {
+      "t": "Klan Khadijah binti Khuwailid, istri pertama Nabi ﷺ",
+      "src": [
+        "Ibnu Sa'd 3/7"
+      ],
+      "quote": [
+        "خويلد بن أسد بن عبد العزى بن قصي، وهي أول امرأة تزوجها رسول الله"
+      ],
+      "status": "ok"
+    },
+    {
+      "t": "Waraqah bin Naufal membenarkan wahyu pertama: yang datang kepada Nabi ﷺ adalah an-Namus al-Akbar yang dahulu datang kepada Musa",
+      "src": [
+        "Sirah Ibnu Hisyam 1/238"
+      ],
+      "quote": [
+        "إنَّكَ لَنَبِيُّ هَذِهِ الْأُمَّةِ، وَلَقَدْ جَاءَكَ النَّامُوسُ الْأَكْبَرُ الَّذِي جَاءَ مُوسَى"
+      ],
+      "status": "rewritten"
+    }
+  ],
+  "dropped": []
+}

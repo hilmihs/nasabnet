@@ -1,0 +1,112 @@
+[
+ {
+  "id": "s791",
+  "identitas": null,
+  "kabilah_tabaqat": {"t": "Anshar, nasabnya sampai kepada Sawad; ibunya Ummu al-Banin binti Zuhair dari Bani Salimah. Termasuk Ahlu al-'Aqabah (bersama tujuh puluh orang Anshar) dan Ahlu Badar.", "src": ["Ibnu Sa'd 3/580", "al-Ishabah 4/326"]},
+  "nisbah_rihlah": null,
+  "laqab_profesi": null,
+  "peran": {"t": "Ikut Bai'at al-'Aqabah, Badar, dan Uhud menurut Musa bin 'Uqbah, Ibnu Ishaq, al-Waqidi, dan lainnya.", "src": ["al-Ishabah 4/326", "Ibnu Sa'd 3/580"]},
+  "hilf": null,
+  "syaraf": {"t": "Namanya diperselisihkan: Musa bin 'Uqbah menyebutnya 'Isa bin Aubi.", "src": ["al-Ishabah 4/326"]},
+  "catatan": {"t": "Wafat tanpa meninggalkan keturunan.", "src": ["Ibnu Sa'd 3/580"]}
+ },
+ {
+  "id": "n615",
+  "identitas": {"lahir": null, "umur": null, "wafat": "Di Madinah setelah terbunuhnya 'Utsman bin 'Affan (al-Waqidi); ada yang mengatakan sedikit sebelum 'Utsman, atau pada masa khilafah 'Ali bin Abi Thalib", "makam": null, "src": ["Ibnu Sa'd 4/73", "Turath rawi"]},
+  "kabilah_tabaqat": {"t": "Maula Rasulullah ﷺ; semula budak al-'Abbas bin 'Abd al-Muththalib yang dihadiahkan kepada Nabi ﷺ.", "src": ["Ibnu Sa'd 4/73"]},
+  "nisbah_rihlah": {"t": "Semula di lingkungan keluarga al-'Abbas; wafat di Madinah.", "src": ["Ibnu Sa'd 4/73"]},
+  "laqab_profesi": {"t": "Dikenal dengan kunyah Abu Rafi'; namanya Aslam menurut Ibnu Sa'd, ada yang mengatakan Ibrahim, Tsabit, atau Hurmuz.", "src": ["Ibnu Sa'd 4/73", "Turath rawi"]},
+  "peran": {"t": "Masuk Islam bersama al-'Abbas dan Ummu al-Fadhl; dipukul Abu Lahab saat kabar kekalahan Quraisy di Badar tiba, lalu Ummu al-Fadhl membelanya. Dimerdekakan Nabi ﷺ ketika beliau diberi kabar gembira tentang keislaman al-'Abbas. Nabi ﷺ melarangnya ikut menjadi amil zakat: 'Kami Ahlul Bait tidak halal menerima sedekah, dan maula suatu kaum termasuk bagian dari mereka.'", "src": ["Ibnu Sa'd 4/73"]},
+  "hilf": {"t": "Wala' kepada Rasulullah ﷺ yang memerdekakannya.", "src": ["Ibnu Sa'd 4/73"]},
+  "syaraf": null,
+  "catatan": {"t": "Meninggalkan keturunan.", "src": ["Ibnu Sa'd 4/73"]}
+ },
+ {
+  "id": "n2954",
+  "identitas": {"lahir": null, "umur": "Sekitar 8 tahun ketika Nabi ﷺ wafat (pendapat paling rendah); ath-Thabari menyebutnya remaja", "wafat": "Terbunuh dalam pertempuran Marj Rahith melawan Marwan, pertengahan Dzulhijjah 64 H; ada yang mengatakan 65 H", "makam": null, "src": ["al-Ishabah 3/387", "Turath rawi"]},
+  "kabilah_tabaqat": {"t": "Bani Muharib bin Fihr dari Quraisy (al-Fihri); termasuk sahabat yang masih kecil ketika Nabi ﷺ wafat.", "src": ["al-Ishabah 3/387"]},
+  "nisbah_rihlah": {"t": "Tinggal di Damaskus bersama Mu'awiyah; pernah menjabat di Kufah; terbunuh di Marj Rahith.", "src": ["al-Ishabah 3/387", "Turath rawi"]},
+  "laqab_profesi": {"t": "Kunyahnya Abu Unais, ada yang mengatakan Abu Umayyah, Abu Sa'id, atau Abu 'Abd ar-Rahman.", "src": ["Turath rawi"]},
+  "peran": {"t": "Diangkat Mu'awiyah menjadi gubernur Kufah setelah Ziyad wafat (53 H), lalu dicopot, kemudian menjadi gubernur Damaskus dan dipertahankan Yazid. Menshalatkan jenazah Mu'awiyah dan mengambil baiat orang-orang untuk Yazid. Setelah Yazid dan Mu'awiyah bin Yazid wafat, ia menyeru kepada Ibnu az-Zubair dan sempat menyeru kepada dirinya sendiri, lalu diperangi Marwan.", "src": ["al-Ishabah 3/387"]},
+  "hilf": null,
+  "syaraf": {"t": "Al-Bukhari menyatakan ia sahabat; riwayat bahwa ia ikut Badar adalah kekeliruan besar (Ibnu 'Asakir). Sebagian meragukan ia mendengar langsung dari Nabi ﷺ, namun Ibnu Hajar menganggapnya tidak mustahil. 'Ubaidullah bin Ziyad menyebutnya 'syaikh Quraisy'.", "src": ["al-Ishabah 3/387"]},
+  "catatan": {"t": "Meriwayatkan hadis 'Menjelang kiamat akan ada fitnah seperti potongan asap' dalam suratnya setelah Yazid wafat.", "src": ["al-Ishabah 3/387"]}
+ },
+ {
+  "id": "s428",
+  "identitas": {"lahir": null, "umur": "40 tahun", "wafat": "5 H, ketika Nabi ﷺ mengepung Bani Quraizhah", "makam": "Pemakaman Bani Quraizhah", "src": ["Ibnu Sa'd 3/93"]},
+  "kabilah_tabaqat": {"t": "Bani Ghanm bin Dudan dari Bani Asad bin Khuzaimah; termasuk Ahlu Badar.", "src": ["Ibnu Sa'd 3/93"]},
+  "nisbah_rihlah": null,
+  "laqab_profesi": null,
+  "peran": {"t": "Ikut Badar, Uhud, dan Khandaq.", "src": ["Ibnu Sa'd 3/93"]},
+  "hilf": null,
+  "syaraf": null,
+  "catatan": {"t": "Asy-Sya'bi menyebutnya orang pertama yang berbaiat dalam Bai'at ar-Ridhwan, tetapi al-Waqidi menilai itu keliru karena ia wafat sebelumnya; yang berbaiat adalah putranya, Sinan bin Abi Sinan. Ia dua tahun lebih tua dari 'Ukkasyah.", "src": ["Ibnu Sa'd 3/93"]}
+ },
+ {
+  "id": "s4749",
+  "identitas": null,
+  "kabilah_tabaqat": {"t": "Anshar dari Bani Salimah (Bani Ka'b bin Salimah); ibunya Mawiyah binti al-Qain dari Bani Salimah. Termasuk para wanita yang berbaiat (al-mubayi'at).", "src": ["Ibnu Sa'd 8/403", "al-Ishabah 8/6"]},
+  "nisbah_rihlah": null,
+  "laqab_profesi": null,
+  "peran": {"t": "Masuk Islam dan berbaiat kepada Rasulullah ﷺ.", "src": ["Ibnu Sa'd 8/403", "al-Ishabah 8/6"]},
+  "hilf": null,
+  "syaraf": null,
+  "catatan": {"t": "Menikah dengan ath-Thufail bin Malik bin Khansa' dan melahirkan 'Abdullah dan an-Nu'man. Namanya juga ditulis Idam.", "src": ["Ibnu Sa'd 8/403", "al-Ishabah 8/6"]}
+ },
+ {
+  "id": "s4728",
+  "identitas": null,
+  "kabilah_tabaqat": {"t": "Anshar dari Bani Salimah (Bani Haram bin Ka'b); ibunya Ruhm binti al-Qain bin Ka'b. Termasuk para wanita yang berbaiat.", "src": ["Ibnu Sa'd 8/396", "al-Ishabah 8/6"]},
+  "nisbah_rihlah": null,
+  "laqab_profesi": null,
+  "peran": {"t": "Masuk Islam dan berbaiat kepada Rasulullah ﷺ.", "src": ["Ibnu Sa'd 8/396"]},
+  "hilf": null,
+  "syaraf": null,
+  "catatan": {"t": "Saudari seayah-seibu 'Amr bin al-Jamuh yang gugur di Uhud; menikah dengan Mas'ud bin Ka'b bin 'Amir dari Bani Haritsah. Namanya juga ditulis Idam.", "src": ["Ibnu Sa'd 8/396", "al-Ishabah 8/6"]}
+ },
+ {
+  "id": "s4381",
+  "identitas": null,
+  "kabilah_tabaqat": {"t": "Bani Umayyah bin 'Abd Syams, putri Abu Sufyan bin Harb; ibunya Shafiya binti Abi al-'Ash bin Umayyah.", "src": ["Ibnu Sa'd 8/239"]},
+  "nisbah_rihlah": null,
+  "laqab_profesi": null,
+  "peran": null,
+  "hilf": null,
+  "syaraf": null,
+  "catatan": {"t": "Menikah dengan Huwaithib bin 'Abd al-'Uzza dan melahirkan Abu Sufyan, kemudian dengan Shafwan bin Umayyah bin Khalaf dan melahirkan 'Abd ar-Rahman.", "src": ["Ibnu Sa'd 8/239"]}
+ },
+ {
+  "id": "s512",
+  "identitas": null,
+  "kabilah_tabaqat": {"t": "Bani Laits bin Bakr bin 'Abd Manat dari Kinanah; termasuk Ahlu Badar.", "src": ["Ibnu Sa'd 3/389"]},
+  "nisbah_rihlah": null,
+  "laqab_profesi": null,
+  "peran": {"t": "Dipersaudarakan Nabi ﷺ dengan Tsabit bin Qais bin Syammas; ikut Badar, Uhud, Khandaq, dan seluruh peperangan bersama Rasulullah ﷺ.", "src": ["Ibnu Sa'd 3/389"]},
+  "hilf": null,
+  "syaraf": null,
+  "catatan": null
+ },
+ {
+  "id": "s490",
+  "identitas": {"lahir": null, "umur": "40 tahun", "wafat": "Gugur syahid di Bi'r Ma'unah, 4 H, ditikam Jabbar bin Salma al-Kalbi", "makam": "Jasadnya tidak ditemukan; diriwayatkan bahwa malaikat yang menguburkannya", "src": ["Ibnu Sa'd 3/230"]},
+  "kabilah_tabaqat": {"t": "Maula Abu Bakar ash-Shiddiq; masuk Islam sebelum Nabi ﷺ masuk Dar al-Arqam, termasuk kaum mustadh'afin, dan Ahlu Badar.", "src": ["Ibnu Sa'd 3/230"]},
+  "nisbah_rihlah": {"t": "Makkah → hijrah ke Madinah, singgah di rumah Sa'd.", "src": ["Ibnu Sa'd 3/230"]},
+  "laqab_profesi": {"t": "Kunyahnya Abu 'Amr; menggembalakan kambing perah milik Abu Bakar.", "src": ["Ibnu Sa'd 3/230"]},
+  "peran": {"t": "Disiksa di Makkah agar murtad; dipersaudarakan Nabi ﷺ dengan al-Harits bin Aus bin Mu'adz; ikut Badar dan Uhud; gugur di Bi'r Ma'unah sambil berkata 'Fuztu wallah' (aku menang, demi Allah).", "src": ["Ibnu Sa'd 3/230"]},
+  "hilf": {"t": "Semula budak ath-Thufail bin al-Harits (saudara seibu 'Aisyah), lalu dibeli dan dimerdekakan Abu Bakar sehingga menjadi maulanya.", "src": ["Ibnu Sa'd 3/230"]},
+  "syaraf": null,
+  "catatan": {"t": "Pembunuhnya, Jabbar bin Salma, masuk Islam setelah menyaksikan kejadian wafatnya.", "src": ["Ibnu Sa'd 3/230"]}
+ },
+ {
+  "id": "s636",
+  "identitas": {"lahir": null, "umur": null, "wafat": "Gugur syahid di Uhud, Syawal 32 bulan setelah hijrah", "makam": null, "src": ["Ibnu Sa'd 3/494", "al-Ishabah 3/487"]},
+  "kabilah_tabaqat": {"t": "Nasabnya sampai kepada Sawad bin Malik bin Ghanm; ibunya 'Umarah binti Khansa' dari Bani Malik bin an-Najjar. Termasuk Ahlu Badar.", "src": ["Ibnu Sa'd 3/494"]},
+  "nisbah_rihlah": null,
+  "laqab_profesi": null,
+  "peran": {"t": "Ikut Badar dan gugur di Uhud (Musa bin 'Uqbah, Ibnu Ishaq).", "src": ["al-Ishabah 3/487", "Ibnu Sa'd 3/494"]},
+  "hilf": null,
+  "syaraf": null,
+  "catatan": {"t": "Tidak meninggalkan keturunan.", "src": ["Ibnu Sa'd 3/494"]}
+ }
+]

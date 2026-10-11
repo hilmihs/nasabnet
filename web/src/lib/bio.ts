@@ -33,9 +33,9 @@ export interface TribeProfile {
   dinamika?: Point | null
   rujukan?: string[]
   /** short place label, e.g. "Yatsrib/Madinah" (data/tribe_roles.json) */
-  lokasi?: string
-  /** strategic roles as bullet lists (general summaries, no page citation) */
-  peran?: Partial<Record<RoleKey, string[]>>
+  lokasi?: Point
+  /** strategic roles as bullets, each cited to a book page or marked basis "umum" */
+  peran?: Partial<Record<RoleKey, Point[]>>
   v?: boolean
 }
 
@@ -77,12 +77,26 @@ export function useBio(): BioData | null {
 }
 
 /** Turath link for a citation tag such as "al-Ishabah 4/484" or "Ibnu Sa'd 3/265". */
+const MULTI_VOL: [RegExp, number][] = [
+  [/Ishabah/i, 9767],
+  [/Usdul Ghabah/i, 1110],
+  [/Sirah Ibnu Hisyam/i, 23833],
+  [/Thabari/i, 9783],
+  [/Sa'?d/i, 9351],
+]
+const ONE_VOL: [RegExp, number][] = [
+  [/Jamharat Ansab/i, 9793],
+  [/Nasab Quraisy/i, 2922],
+  [/Muhabbar/i, 12205],
+]
+
 export function citationUrl(tag: string): string | undefined {
   const m = tag.match(/(\d+)\/(\d+)/)
-  if (/Ishabah/i.test(tag) && m) return `https://app.turath.io/book/9767?print_page=${m[1]},${m[2]}`
-  if (/Sa'?d/i.test(tag) && m) return `https://app.turath.io/book/9351?print_page=${m[1]},${m[2]}`
-  const j = tag.match(/Jamharat Ansab.*?(\d+)/)
-  if (j) return `https://app.turath.io/book/9793?print_page=1,${j[1]}`
+  const multi = m && MULTI_VOL.find(([re]) => re.test(tag))
+  if (multi) return `https://app.turath.io/book/${multi[1]}?print_page=${m[1]},${m[2]}`
+  const one = ONE_VOL.find(([re]) => re.test(tag))
+  const p = tag.match(/(\d+)\s*$/)
+  if (one && p) return `https://app.turath.io/book/${one[1]}?print_page=1,${p[1]}`
   return undefined
 }
 

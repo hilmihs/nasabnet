@@ -1,0 +1,20 @@
+{
+  "id": "himyar",
+  "lokasi": {"t": "Yaman selatan (sekitar Zhafar dan Shan'a)", "src": ["Tarikh ath-Thabari 1/442", "Sirah Ibnu Hisyam 1/87"], "quote": ["وهو الذي بنى مدينة ظفار باليمن", "وكان لحمير وأهل اليمن بيت بصنعاء"], "status": "rewritten"},
+  "militer": [
+    {"t": "Setelah masuk Islam, para raja Himyar memerangi kaum musyrik, sebagaimana disebut dalam surat Nabi ﷺ kepada mereka", "src": ["Tarikh ath-Thabari 3/121"], "quote": ["وأنبأنا بإسلامكم وقتلكم المشركين"], "status": "new"},
+    {"t": "Dalam Perang Shiffin berada di pihak Mu'awiyah bersama Dzul Kala'; diundikan berhadapan dengan Rabi'ah dari pihak Irak", "src": ["Tarikh ath-Thabari 5/34", "Tarikh ath-Thabari 5/34"], "quote": ["وضرب معاوية لحمير بسهمهم على ثلاث قبائل", "فوقع سهم حمير على ربيعة"], "status": "new"}
+  ],
+  "diplomasi": [
+    {"t": "Para raja Himyar mengirim surat dan utusan kepada Nabi ﷺ yang menyatakan keislaman mereka, sepulang beliau dari Tabuk", "src": ["Tarikh ath-Thabari 3/120"], "quote": ["كتاب ملوك حمير في شهر رمضان مقرين بالإسلام"], "status": "rewritten"},
+    {"t": "Wa'il bin Hujr al-Hadhrami datang ke Madinah dan dimuliakan Nabi ﷺ; para aqyal Himyar dan Hadhramaut menjadi saksi atas tanah miliknya", "src": ["Ibnu Sa'd 1/349", "Ibnu Sa'd 1/287"], "quote": ["سرورا بقدوم وائل بن حجر", "وشهد له أقيال حمير وأقيال حضرموت"], "status": "rewritten"}
+  ],
+  "ekonomi": [
+    {"t": "Kerajaan Himyar menguasai perdagangan dupa dan rempah Arab selatan", "status": "umum"}
+  ],
+  "sosial": [
+    {"t": "Raja Himyar terakhir, Dzu Nuwas, adalah pelaku peristiwa Ashhabul Ukhdud terhadap kaum Nasrani Najran", "src": ["Sirah Ibnu Hisyam 1/31", "Sirah Ibnu Hisyam 1/35"], "quote": ["وهو صاحب الأخدود", "فسار إليهم ذو نواس بجنوده"], "status": "rewritten"},
+    {"t": "Himyar memeluk agama Yahudi bersama raja mereka Dzu Nuwas", "src": ["Tarikh ath-Thabari 2/119"], "quote": ["فكان آخر ملوك حمير وتهود وتهودت معه حمير"], "status": "new"}
+  ],
+  "dropped": []
+}

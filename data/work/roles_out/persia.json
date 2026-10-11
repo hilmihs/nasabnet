@@ -1,0 +1,33 @@
+{
+  "id": "persia",
+  "lokasi": {"t": "Persia (Kekaisaran Sasaniyah); sebagian menetap di Madinah dan Yaman", "status": "umum"},
+  "militer": [
+    {"t": "Salman al-Farisi mengusulkan penggalian parit dalam Perang Khandaq",
+     "src": ["Ibnu Sa'd 2/66", "Sirah Ibnu Hisyam 2/224"],
+     "quote": ["فأشار عليه سلمان الفارسي بالخندق", "يُقَالُ: إنَّ سَلْمَانَ الْفَارِسِيَّ أَشَارَ بِهِ عَلَى رَسُولِ اللَّهِ"],
+     "status": "ok"},
+    {"t": "Kaum Abna' di Yaman, dipimpin Fairuz dan Dadzawaih, menumpas al-Aswad al-'Ansi; Fairuz ad-Dailami yang membunuhnya",
+     "src": ["Tarikh ath-Thabari 3/230", "Tarikh ath-Thabari 11/547"],
+     "quote": ["وَأَسْنَدَ أَمْرَ الأَبْنَاءِ إِلَى فَيْروزٍ وَدَاذُوَيْهِ", "وفيروز هو الذى قتل العنسي الأسود بن كعب الكذاب"],
+     "status": "rewritten"}
+  ],
+  "diplomasi": [
+    {"t": "Salman al-Farisi menjadi amir Mada'in dan wafat di sana pada masa 'Utsman",
+     "src": ["Ibnu Sa'd 7/319", "Ibnu Sa'd 7/319"],
+     "quote": ["قال: كان سلمان أميرا على المدائن", "توفي سلمان الفارسي في خلافة عثمان بن عفان بالمدائن"],
+     "status": "rewritten"}
+  ],
+  "ekonomi": [
+    {"t": "Salman menebus kemerdekaannya lewat mukatabah: menghidupkan 300 pohon kurma dan 40 uqiyah, dibantu para sahabat",
+     "src": ["Sirah Ibnu Hisyam 1/220"],
+     "quote": ["فَكَاتَبْتُ صَاحِبِي عَلَى ثَلَاثِ ماِئَةِ نَخْلَةٍ أُحْيِيهَا لَهُ بِالْفَقِيرِ"],
+     "status": "rewritten"}
+  ],
+  "sosial": [
+    {"t": "Salman al-Farisi dari Ashbahan berpindah dari guru ke guru hingga 'Ammuriyah, lalu dijual sebagai budak di Wadil Qura dan sampai ke Madinah, tempat ia masuk Islam",
+     "src": ["Sirah Ibnu Hisyam 1/214", "Sirah Ibnu Hisyam 1/218"],
+     "quote": ["كُنْتُ رَجُلًا فَارِسِيًّا مِنْ أَهْلِ أَصْبَهَانَ", "حَتَّى إذَا بَلَغُوا وَادِيَ الْقُرَى ظَلَمُونِي، فَبَاعُونِي مِنْ رَجُلٍ يَهُودِيٍّ عَبْدًا"],
+     "status": "rewritten"}
+  ],
+  "dropped": []
+}

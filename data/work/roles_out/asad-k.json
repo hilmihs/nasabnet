@@ -1,0 +1,18 @@
+{
+  "id": "asad-k",
+  "lokasi": {"t": "Najd bagian utara (mata air Buzakhah termasuk milik Bani Asad); kemudian sebagian menetap di Kufah (kawasan al-Kunasah)", "src": ["Tarikh ath-Thabari 3/254", "Ibnu Sa'd 7/50"], "quote": ["بزاخة، ماء من مياه بني أسد", "فأشترى بها دورا في بني أسد بالكناسة"], "status": "rewritten"},
+  "militer": [
+    {"t": "Thulaihah bin Khuwailid mengaku nabi sejak masa Nabi ﷺ dan setelah beliau wafat diikuti Asad dan Ghathafan; pasukannya kalah di Buzakhah lalu ia lari ke Syam. Setelah masuk Islam kembali ia ikut ke Irak: menyusup ke perkemahan Rustam menjelang Qadisiyah dan mengintai hingga Nahawand", "src": ["Usdul Ghabah 3/94", "Usdul Ghabah 3/94", "Tarikh ath-Thabari 3/256", "Tarikh ath-Thabari 3/261", "Tarikh ath-Thabari 3/513", "Tarikh ath-Thabari 4/128"], "quote": ["فلما رجعوا تنبأ طليحة في حياة النبي", "وأطاعه الحليفان أسد وغطفان", "فانصرفوا وانهزم الناس فغشوا طليحة يقولون", "ثم رجع إلى دار قومه، فأقام بها حتى خرج إلى العراق", "ومضى طليحة، وعارض المياه على الطفوف، حتى دخل عسكر رستم", "ومضى طليحة حتى انتهى إلى نهاوند"], "status": "rewritten"}
+  ],
+  "diplomasi": [
+    {"t": "Keluarga Jahsy dari Bani Asad adalah sekutu (halif) Bani Abdi Syams (Bani Umayyah) di Makkah", "src": ["Sirah Ibnu Hisyam 1/679", "Sirah Ibnu Hisyam 1/499"], "quote": ["وشهد بدرا من حلفاء بني عبد شمس، ثم من بني أسد بن خزيمة", "وبنو جحش بن رئاب، حلفاء بني أمية"], "status": "ok"}
+  ],
+  "ekonomi": [
+    {"t": "Karena bersekutu dengan Bani Asad, Thayyi' tidak mengusik para pedagang yang berjalan di bawah perlindungan Quraisy di negeri Mudhar", "src": ["al-Muhabbar, hlm. 264", "al-Muhabbar, hlm. 264"], "quote": ["وكان كل تاجر يخرج من اليمن والحجاز يتخفر بقريش ما داموا في بلاد مضر", "وطيء أيضا لا تهيجهم لحلفهم بنى أسد"], "status": "new"}
+  ],
+  "sosial": [
+    {"t": "Zainab binti Jahsy, Ummul Mukminin", "src": ["Sirah Ibnu Hisyam 2/644"], "quote": ["وتزوج رسول الله ﷺ زينب بنت جحش بن رئاب الأسدية"], "status": "ok"},
+    {"t": "Ukkasyah bin Mihshan, ahli Badar", "src": ["Sirah Ibnu Hisyam 1/637"], "quote": ["وقاتل عكاشة بن محصن بن حرثان الأسدي، حليف بني عبد شمس بن عبد مناف، يوم بدر بسيفه"], "status": "ok"}
+  ],
+  "dropped": []
+}

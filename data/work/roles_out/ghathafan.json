@@ -1,0 +1,18 @@
+{
+  "id": "ghathafan",
+  "lokasi": {"t": "Najd; cabang Tsa'labah, Murrah, dan 'Abs di al-Abraq dekat ar-Rabadzah; cukup dekat Khaibar sehingga dapat membantu penduduknya", "src": ["Sirah Ibnu Hisyam 2/46", "Tarikh ath-Thabari 3/243", "Sirah Ibnu Hisyam 2/330"], "quote": ["ثم غزا نجدا، يريد غطفان", "واجتمعت ثعلبة بن سعد ومن يليهم من مرة وعبس بالأبرق من الربذة", "فنزل بينهم وبين غطفان، ليحول بينهم وبين أن يمدوا أهل خيبر"], "status": "rewritten"},
+  "militer": [
+    {"t": "Ikut koalisi Ahzab menyerang Madinah (5 H) di bawah 'Uyainah bin Hishn al-Fazari", "src": ["Sirah Ibnu Hisyam 2/215", "Sirah Ibnu Hisyam 2/214"], "quote": ["وخرجت غطفان، وقائدها عيينة بن حصن", "ثم كانت غزوة الخندق في شوال سنة خمس"], "status": "ok"},
+    {"t": "Pada masa Riddah, 'Abs dan Dzubyan dikalahkan Abu Bakar di Dzul Qashshah dan al-Abraq lalu bergabung dengan Thulaihah di Buzakhah; di sana Fazarah (700 orang di bawah 'Uyainah) berperang bersama Thulaihah dan kalah", "src": ["Tarikh ath-Thabari 3/246", "Tarikh ath-Thabari 3/248", "Tarikh ath-Thabari 3/256", "Tarikh ath-Thabari 3/256"], "quote": ["واتبعهم أبو بكر، حتى نزل بذي القصة", "ولما فضت عبس وذبيان أرزوا إلى طليحة وقد نزل طليحة على بزاخة", "قاتل عيينه مع طليحة في سبعمائة من بني فزارة", "فلما أوقع الله بطليحة وفزارة ما أوقع"], "status": "rewritten"}
+  ],
+  "diplomasi": [
+    {"t": "Saat Khandaq, Nabi ﷺ merundingkan pemberian sepertiga hasil buah Madinah kepada 'Uyainah bin Hishn dan al-Harits bin 'Auf, dua pemimpin Ghathafan, agar mundur; naskahnya batal setelah Sa'd bin Mu'adz dan Sa'd bin 'Ubadah menolak", "src": ["Sirah Ibnu Hisyam 2/223", "Sirah Ibnu Hisyam 2/223"], "quote": ["فأعطاهما ثلث ثمار المدينة على أن يرجعا بمن معهما", "فتناول سعد بن معاذ الصحيفة، فمحا ما فيها من الكتاب"], "status": "rewritten"}
+  ],
+  "ekonomi": [
+    {"t": "Kabilah penggembala yang berpindah mengikuti hujan: ketika negeri Bani Tsa'labah dan Anmar paceklik (6 H), mereka bergerak ke padang yang dituruni hujan", "src": ["Ibnu Sa'd 2/86", "Ibnu Sa'd 2/86"], "quote": ["أجدبت بلاد بني ثعلبة وأنمار", "فسارت بنو محارب وثعلبة وأنمار إلى تلك السحابة"], "status": "rewritten"}
+  ],
+  "sosial": [
+    {"t": "Antarah bin Syaddad, penyair-ksatria jahiliah dari Bani 'Abs", "src": ["Sirah Ibnu Hisyam 1/670", "Jamharat Ansab al-'Arab, hlm. 290"], "quote": ["ولرب قرن قد تركت مجدلا", "دعا عنترة بن شداد العبسى إلى المبارزة"], "status": "ok"}
+  ],
+  "dropped": []
+}

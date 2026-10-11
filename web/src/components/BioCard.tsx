@@ -73,7 +73,7 @@ export function BioCard({ p }: { p: Person }) {
           <Notice>
             <ul className="list-disc space-y-0.5 pl-4">
               <li>
-                Biografi naratif baru tersedia untuk <strong>±150 sahabat utama</strong>.
+                Biografi naratif dari kitab baru tersedia untuk <strong>{Object.keys(bio.persons).length.toLocaleString('id-ID')} sahabat</strong>; tokoh ini belum termasuk.
               </li>
               <li>Uraian di bawah disusun dari data nasab & relasi yang terkumpul.</li>
             </ul>
@@ -330,7 +330,7 @@ export function ProfileRefs({ p }: { p: Person }) {
               : 'Uraian naratif diringkas otomatis dari kutipan kitab yang ditautkan dan belum diperiksa ulang.'}
           </li>
         )}
-        <li>Label "umum" = ringkasan umum yang belum bersitasi halaman; lokasi & peran kabilah juga termasuk ringkasan umum.</li>
+        <li>Label "umum" = ringkasan umum yang belum bersitasi halaman kitab.</li>
         <li>Selalu rujuk teks aslinya sebelum mengutip.</li>
       </ul>
     </Accordion>

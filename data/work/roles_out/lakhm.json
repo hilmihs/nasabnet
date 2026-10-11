@@ -1,0 +1,20 @@
+{
+  "id": "lakhm",
+  "lokasi": {"t": "Hirah (Irak); sebagian di Syam dan Palestina", "src": ["al-Muhabbar, hlm. 358", "Tarikh ath-Thabari 5/531", "Jamharat Ansab al-'Arab, hlm. 422"], "quote": ["وهو أول من اتخذ الحيرة منزلا من ملوك العرب", "إِنِّي مُسْتَخْلِفُكَ عَلَى فِلَسْطِينَ، وَأَدْخُلَ هَذَا الْحَيَّ مِنْ لَخْمٍ وَجُذَامٍ", "وأقطعهما النبىّ -ﷺبيت حبرين وبيت عينون"], "status": "ok"},
+  "militer": [
+    {"t": "Lakhm termasuk kabilah Arab yang bergabung dengan pasukan Heraklius di Mu'tah", "src": ["Sirah Ibnu Hisyam 2/375"], "quote": ["وانضمّ إِلَيْهِم مل لَخْمٍ وَجُذَامٍ"], "status": "new"}
+  ],
+  "diplomasi": [
+    {"t": "Raja-raja Hirah dari Lakhm (Al al-Mundzir) berkuasa sebagai 'amil Kisra atas Hirah dan wilayah Arab di Irak", "src": ["Jamharat Ansab al-'Arab, hlm. 422", "Tarikh ath-Thabari 2/139"], "quote": ["رهط آل المنذر ملوك الحيرة", "وهو عامل كسرى على الحيرة وما يليها من أرض العرب من العراق"], "status": "rewritten"},
+    {"t": "Hirah, bekas ibu kota raja-raja Lakhmi, berdamai dengan Khalid bin al-Walid (12 H) dengan membayar jizyah 190.000 dirham per tahun", "src": ["Tarikh ath-Thabari 3/343", "Tarikh ath-Thabari 3/364"], "quote": ["ثم كانت سنة اثنتي عشرة من الهجرة مسير خالد الى العراق وصلح الحيرة", "عَاهَدَهُمْ عَلَى تِسْعِينَ وَمِائَةِ أَلْفِ دِرْهَمٍ، تُقْبَلُ فِي كُلِّ سَنَةٍ"], "status": "rewritten"}
+  ],
+  "ekonomi": [
+    {"t": "an-Nu'man bin al-Mundzir, raja Hirah, tiap tahun mengirim kafilah dagang (lathimah) ke musim pasar 'Ukazh; di Hirah pula orang Arab belajar tulisan", "src": ["al-Muhabbar, hlm. 195", "Jamharat Ansab al-'Arab, hlm. 429"], "quote": ["وكان للنعمان لطيمة يبعث بها كل عام للتجارة إلى موسم عكاظ", "تعلم الخطّ بالحيرة"], "status": "rewritten"}
+  ],
+  "sosial": [
+    {"t": "Tamim ad-Dari (Bani ad-Dar dari Lakhm), sahabat yang kisah al-Jassasah darinya diceritakan Nabi ﷺ di mimbar", "src": ["Jamharat Ansab al-'Arab, hlm. 422", "al-Ishabah 1/488"], "quote": ["الدار بن هانئ، رهط تميم الدّارى صاحب رسول الله", "فحدّث النبي ﷺ عنه بذلك على المنبر"], "status": "rewritten"}
+  ],
+  "dropped": [
+    {"t": "Raja-raja Lakhmi di Hirah menjadi penyangga militer Persia terhadap Romawi dan kabilah Arab", "reason": "Peran 'penyangga militer' tidak ditemukan; sumber hanya menyebut mereka 'amil Kisra atas Hirah — ditulis ulang dan dipindah ke diplomasi"}
+  ]
+}

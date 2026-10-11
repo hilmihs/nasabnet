@@ -1,0 +1,112 @@
+[
+ {
+  "id": "n1927",
+  "identitas": {"lahir": null, "umur": null, "wafat": "100 H", "makam": null, "src": ["Turath rawi"]},
+  "kabilah_tabaqat": {"t": "al-Anshari.", "src": ["al-Ishabah 2/364"]},
+  "nisbah_rihlah": null,
+  "laqab_profesi": {"t": "Kunyahnya Abu Khadij.", "src": ["Turath rawi"]},
+  "peran": {"t": "Ia datang ke majelis kaum Anshar dan menyampaikan bahwa Nabi ﷺ hari itu melarang menyewakan tanah, upah tukang bekam, dan penghasilan budak perempuan kecuali dari kerja tangannya seperti membuat roti dan memintal; diriwayatkan oleh Ahmad dan Abu Dawud.", "src": ["al-Ishabah 2/364"]},
+  "hilf": null,
+  "syaraf": {"t": "Identitasnya tidak pasti: dalam hadits itu ia tidak disebut nasabnya, sehingga Ibnu Hajar tidak memastikan bahwa ia Rafi' bin Rifa'ah bin Malik (seorang tabi'in tanpa status sahabat); dalam jalur lain namanya disebut Rifa'ah bin Rafi'.", "src": ["al-Ishabah 2/364"]},
+  "catatan": null
+ },
+ {
+  "id": "n2009",
+  "identitas": null,
+  "kabilah_tabaqat": {"t": "Seorang sahabat.", "src": ["Turath rawi"]},
+  "nisbah_rihlah": {"t": "Bashrah.", "src": ["Turath rawi"]},
+  "laqab_profesi": {"t": "Kunyahnya disebut Abu Hizamah; ada yang mengatakan Abu Khuza'ah atau Abu Khizamah. Ibnu Hajar menilai kunyah Abu Khizamah (dari Ibnu Abi Hatim dan Ibnu Mandah) sebagai kekeliruan, karena itu kunyah orang lain.", "src": ["Turath rawi", "al-Ishabah 2/409"]},
+  "peran": null,
+  "hilf": null,
+  "syaraf": {"t": "Nama ayahnya disebut 'Arabah; ada yang mengatakan 'Aradah, tetapi yang benar adalah yang pertama.", "src": ["Turath rawi"]},
+  "catatan": null
+ },
+ {
+  "id": "s1082",
+  "identitas": null,
+  "kabilah_tabaqat": {"t": "al-Juhani; seorang sahabat.", "src": ["Ibnu Sa'd 4/353"]},
+  "nisbah_rihlah": null,
+  "laqab_profesi": null,
+  "peran": {"t": "Masuk Islam dan menyertai Nabi ﷺ.", "src": ["Ibnu Sa'd 4/353"]},
+  "hilf": null,
+  "syaraf": {"t": "Nama ayahnya disebut 'Aradah; sebagian menyebutnya 'Arabah.", "src": ["Ibnu Sa'd 4/353"]},
+  "catatan": null
+ },
+ {
+  "id": "n2011",
+  "identitas": null,
+  "kabilah_tabaqat": {"t": "Seorang sahabat.", "src": ["Turath rawi"]},
+  "nisbah_rihlah": {"t": "Mesir.", "src": ["Turath rawi"]},
+  "laqab_profesi": {"t": "Dikenal dengan kunyah Abu Rimtsah.", "src": ["Turath rawi"]},
+  "peran": null,
+  "hilf": null,
+  "syaraf": {"t": "Namanya sangat diperselisihkan: Rifa'ah bin Yatsribi, Yatsribi bin Rifa'ah, 'Umarah bin Yatsribi, Yatsribi bin 'Auf, Hayyan bin Wahb, Habib bin Hayyan, atau Khasykhasy.", "src": ["Turath rawi"]},
+  "catatan": null
+ },
+ {
+  "id": "s4851",
+  "identitas": null,
+  "kabilah_tabaqat": {"t": "Dari Bani Malik bin an-Najjar; nasabnya: Ruqayyah binti Tsabit bin Khalid bin an-Nu'man.", "src": ["Ibnu Sa'd 8/454"]},
+  "nisbah_rihlah": null,
+  "laqab_profesi": null,
+  "peran": {"t": "Menurut Muhammad bin 'Umar (al-Waqidi), ia masuk Islam dan berbaiat kepada Rasulullah ﷺ.", "src": ["Ibnu Sa'd 8/454"]},
+  "hilf": null,
+  "syaraf": null,
+  "catatan": null
+ },
+ {
+  "id": "n2034",
+  "identitas": {"lahir": null, "umur": null, "wafat": "56 H di Barqah ketika menjabat amirnya (Ibnu Yunus); ada yang mengatakan 53 H", "makam": null, "src": ["al-Ishabah 2/416", "Turath rawi"]},
+  "kabilah_tabaqat": {"t": "al-Anshari, dari Bani Malik bin an-Najjar; nasabnya: Ruwaifi' bin Tsabit bin as-Sakan bin 'Adi bin Haritsah bin 'Amr bin Zaid Manah bin 'Adi bin 'Amr bin Malik bin an-Najjar.", "src": ["al-Ishabah 2/416", "Turath rawi"]},
+  "nisbah_rihlah": {"t": "Menetap di Mesir, lalu bertugas di Tharablus (Tripoli), Ifriqiyah, dan Barqah, tempat ia wafat.", "src": ["al-Ishabah 2/416", "Turath rawi"]},
+  "laqab_profesi": null,
+  "peran": {"t": "Diangkat Mu'awiyah sebagai gubernur Tharablus pada 46 H, lalu memimpin penyerbuan ke Ifriqiyah; kemudian menjadi amir Barqah atas penunjukan Maslamah bin Mukhallad.", "src": ["al-Ishabah 2/416"]},
+  "hilf": null,
+  "syaraf": null,
+  "catatan": null
+ },
+ {
+  "id": "s1057",
+  "identitas": null,
+  "kabilah_tabaqat": {"t": "ad-Dausi.", "src": ["Ibnu Sa'd 4/341"]},
+  "nisbah_rihlah": {"t": "Berasal dari penduduk as-Sarah; datang kepada Rasulullah ﷺ lalu masuk Islam.", "src": ["Ibnu Sa'd 4/341"]},
+  "laqab_profesi": {"t": "Petugas ('amil) atas kaumnya pada masa Nabi ﷺ dan 'Umar.", "src": ["Ibnu Sa'd 4/341"]},
+  "peran": {"t": "Setelah masuk Islam ia meminta agar harta kaumnya tetap menjadi milik mereka; Nabi ﷺ mengabulkannya dan mengangkatnya sebagai petugas atas mereka, lalu 'Umar juga mengangkatnya. Ia memungut sepersepuluh dari madu kaumnya sebagai zakat dan menyerahkannya kepada 'Umar, yang lalu menjualnya.", "src": ["Ibnu Sa'd 4/341"]},
+  "hilf": null,
+  "syaraf": null,
+  "catatan": null
+ },
+ {
+  "id": "n10117",
+  "identitas": null,
+  "kabilah_tabaqat": {"t": "Seorang sahabat.", "src": ["Turath rawi"]},
+  "nisbah_rihlah": null,
+  "laqab_profesi": null,
+  "peran": {"t": "Haditsnya dikeluarkan oleh Abu Dawud dan Ibnu Mandah dari riwayat Ibnu 'Uyainah.", "src": ["al-Ishabah 3/48"]},
+  "hilf": null,
+  "syaraf": null,
+  "catatan": null
+ },
+ {
+  "id": "s959",
+  "identitas": null,
+  "kabilah_tabaqat": {"t": "Nasabnya: Sa'id bin 'Abd Qais bin Laqith bin 'Amir bin Umayyah bin al-Harits bin Fihr bin Malik. Termasuk yang masuk Islam sejak awal di Makkah.", "src": ["Ibnu Sa'd 4/214", "al-Ishabah 3/94"]},
+  "nisbah_rihlah": {"t": "Makkah → Habasyah (hijrah kedua).", "src": ["Ibnu Sa'd 4/214", "al-Ishabah 3/94"]},
+  "laqab_profesi": null,
+  "peran": {"t": "Masuk Islam sejak awal di Makkah dan berhijrah ke Habasyah pada hijrah kedua, menurut riwayat Musa bin 'Uqbah, Ibnu Ishaq, Abu Ma'syar, dan al-Waqidi.", "src": ["Ibnu Sa'd 4/214", "al-Ishabah 3/94"]},
+  "hilf": null,
+  "syaraf": null,
+  "catatan": null
+ },
+ {
+  "id": "n10129",
+  "identitas": null,
+  "kabilah_tabaqat": {"t": "Seorang sahabat.", "src": ["Turath rawi"]},
+  "nisbah_rihlah": null,
+  "laqab_profesi": null,
+  "peran": null,
+  "hilf": null,
+  "syaraf": null,
+  "catatan": null
+ }
+]
