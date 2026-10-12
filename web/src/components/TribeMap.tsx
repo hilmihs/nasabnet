@@ -22,7 +22,20 @@ const SPIDER_ZOOM = 13
 const LABEL_ZOOM = 13
 const ERA_MAX_ZOOM = 16
 
-const KIND_LABEL: Record<Shape['kind'], string> = { wadi: 'wadi', gunung: 'gunung', harrah: 'harrah (padang batu lava)', kebun: 'kebun kurma' }
+const KIND_LABEL: Record<Shape['kind'], string> = {
+  wadi: 'wadi',
+  gunung: 'gunung',
+  harrah: 'harrah (padang batu lava)',
+  kebun: 'kebun kurma',
+  kawasan: 'kawasan kabilah',
+  benteng: 'benteng (uthum)',
+  pasar: 'pasar',
+  parit: 'parit (Khandaq)',
+}
+const TOWER =
+  '<svg viewBox="0 0 16 16" width="14" height="14" aria-hidden="true"><path d="M3 15V6h1V3h2v2h1V3h2v2h1V3h2v3h1v9z" fill="#6b4a2b" stroke="#fcfaf4" stroke-width=".8"/></svg>'
+const STALL =
+  '<svg viewBox="0 0 16 16" width="15" height="15" aria-hidden="true"><path d="M2 6l2-4h8l2 4zM3 7h10v7H3z" fill="#8a6a12" stroke="#fcfaf4" stroke-width=".8"/></svg>'
 const PALM =
   '<svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><path d="M12 22V11" stroke="#6b4a2b" stroke-width="2" stroke-linecap="round"/><path d="M12 11C9 6 5 6 3 8c3-.5 6 .5 9 3zm0 0c3-5 7-5 9-3-3-.5-6 .5-9 3zm0 0C11 6 8 3 5 3c3 1 5 4 7 8zm0 0c1-5 4-8 7-8-3 1-5 4-7 8z" fill="#4f6b3a"/></svg>'
 
@@ -146,7 +159,9 @@ export default function TribeMap({ focus, onSelect }: { focus?: string; onSelect
       // the Prophet's ﷺ time: bare terrain only (no modern roads, buildings or names), tinted
       era: L.layerGroup([
         esri('World_Physical_Map', { maxZoom: 8, maxNativeZoom: 8, className: 'nm-era' }),
-        esri('Elevation/World_Hillshade', { minZoom: 9, maxNativeZoom: ERA_MAX_ZOOM, className: 'nm-era' }),
+        esri('Elevation/World_Hillshade', { minZoom: 9, maxZoom: 13, maxNativeZoom: 13, className: 'nm-era' }),
+        // close up the city plan matters more than the terrain: relief fades to a hint over the parchment
+        esri('Elevation/World_Hillshade', { minZoom: 14, maxNativeZoom: ERA_MAX_ZOOM, className: 'nm-era', opacity: 0.3 }),
       ]),
     }
     bases.current.relief.addTo(m)
@@ -188,6 +203,8 @@ export default function TribeMap({ focus, onSelect }: { focus?: string; onSelect
     }
     // the terrain model behind the era view has no detail past zoom 16 — deeper would only blur it
     m.setMaxZoom(base === 'era' ? ERA_MAX_ZOOM : 19)
+    // classList, not React's className: Leaflet keeps its own classes on this element
+    m.getContainer().classList.toggle('nm-parchment', base === 'era')
   }, [base])
 
   // draw tribe places
@@ -232,7 +249,7 @@ export default function TribeMap({ focus, onSelect }: { focus?: string; onSelect
       if (s.approx && area) {
         // close up, an approximate point is an area, not a pin on whatever building sits at the town's centre;
         // its label is a badge on the rim so it never covers what lies inside
-        L.circle([s.lat, s.lon], { radius: AREA_M, color, weight: 1.5, dashArray: '6 6', fillColor: color, fillOpacity: on ? 0.06 : 0.02, opacity: on ? 0.9 : 0.3 })
+        L.circle([s.lat, s.lon], { radius: AREA_M, color, weight: base === 'era' ? 1 : 1.5, dashArray: '6 6', fillColor: color, fillOpacity: base === 'era' ? 0.015 : on ? 0.06 : 0.02, opacity: base === 'era' ? 0.35 : on ? 0.9 : 0.3 })
           .bindPopup(popup, opts)
           .addTo(lg)
         if (badgeFits.has(s.key) && base !== 'era')
@@ -283,6 +300,13 @@ export default function TribeMap({ focus, onSelect }: { focus?: string; onSelect
     const popup = (f: Shape) => `<div class="nm-pop"><div class="nm-entry">${placeHtml({ ...f, kind: KIND_LABEL[f.kind] } as Place)}</div></div>`
     for (const f of shapes) {
       if (f.lines?.length) {
+        if (f.kind === 'parit') {
+          L.polyline(f.lines, { pane: 'nature', color: '#8b3a2b', weight: 3, opacity: 0.85, dashArray: '8 6' }).bindPopup(popup(f)).addTo(lg)
+          const mid = f.lines[0][Math.floor(f.lines[0].length / 2)]
+          if (zoom >= 13 && fits(mid, f.t, 12))
+            L.marker(mid, { pane: 'nature', interactive: false, icon: L.divIcon({ className: '', iconSize: undefined, html: `<span class="nm-wadi-label nm-parit-label">${esc(f.t)} · jalur perkiraan</span>` }) }).addTo(lg)
+          continue
+        }
         if (f.kind === 'wadi') {
           L.polyline(f.lines, { pane: 'nature', color: '#e2cf9e', weight: 9, opacity: 0.75, lineCap: 'round', lineJoin: 'round' }).bindPopup(popup(f)).addTo(lg)
           L.polyline(f.lines, { pane: 'nature', color: '#6f8a8c', weight: 2, opacity: 0.9, dashArray: '1 5', lineCap: 'round' }).bindPopup(popup(f)).addTo(lg)
@@ -299,6 +323,21 @@ export default function TribeMap({ focus, onSelect }: { focus?: string; onSelect
         continue
       }
       if (f.lat == null || f.lon == null) continue
+      if (f.kind === 'kawasan') {
+        // clan quarters: a spaced caption, only close up and where it fits (the books give no boundary)
+        if (zoom >= 13 && fits([f.lat, f.lon], f.t, 11))
+          L.marker([f.lat, f.lon], { pane: 'nature', icon: L.divIcon({ className: '', iconSize: undefined, html: `<span class="nm-kawasan">${esc(f.t)}</span>` }), title: f.t })
+            .bindPopup(popup(f))
+            .addTo(lg)
+        continue
+      }
+      if (f.kind === 'benteng' || f.kind === 'pasar') {
+        L.marker([f.lat, f.lon], { pane: 'nature', icon: L.divIcon({ className: '', iconSize: [16, 16], html: f.kind === 'benteng' ? TOWER : STALL }), title: f.t })
+          .bindTooltip(esc(f.t), { direction: 'right', offset: [6, 0], className: 'nm-mark-label', permanent: zoom >= 15 && fits([f.lat, f.lon], f.t, 11) })
+          .bindPopup(popup(f))
+          .addTo(lg)
+        continue
+      }
       // name-only features: harrah names always (they frame the city), gardens as a palm, the rest only where they fit
       if (f.kind === 'harrah') fits([f.lat, f.lon], f.t, 15)
       else if (f.kind !== 'kebun' && !(zoom >= 12 && fits([f.lat, f.lon], f.t, 12))) {
@@ -438,6 +477,12 @@ export default function TribeMap({ focus, onSelect }: { focus?: string; onSelect
           {base === 'era' && (
             <span className="inline-flex items-center gap-1.5">
               <span className="nm-mark inline-block" /> tempat bersejarah masa Nabi ﷺ (bersitasi)
+            </span>
+          )}
+          {base === 'era' && (
+            <span className="inline-flex items-center gap-1.5">
+              <span className="nm-kawasan-sample">Dar Bani …</span> kawasan kabilah ·{' '}
+              <span className="inline-block h-0 w-5 border-t-[3px] border-dashed border-[#8b3a2b]" /> Khandaq (jalur perkiraan)
             </span>
           )}
         </div>

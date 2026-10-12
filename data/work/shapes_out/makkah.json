@@ -1,0 +1,198 @@
+{
+ "id": "makkah",
+ "features": [
+  {
+   "t": "Bathn 'Uranah (Wadi 'Uranah)",
+   "ar": "عرنة",
+   "kind": "wadi",
+   "note": "Wadi di hadapan 'Arafat; Bathn 'Uranah ialah dasar wadi tempat Masjid 'Arafah, dan seluruh alirannya. Garis: ruas di sisi 'Arafat",
+   "src": [
+    "Mu'jam al-Buldan 4/111",
+    "Mu'jam al-Buldan 4/111",
+    "Mu'jam ma Ista'jam 4/1191"
+   ],
+   "quote": [
+    "بطن عرنة واد بحذاء عرفات",
+    "بطن عرنة مسجد عرفة والمسيل كله",
+    "وبطن عرنة: هو بطن الوادى الذي فيه مسجد عرفة"
+   ],
+   "osm": [
+    "W965335852",
+    "W965335853",
+    "W116953230"
+   ]
+  },
+  {
+   "t": "Bathn Marr (Marr azh-Zhahran)",
+   "ar": "مر الظهران",
+   "kind": "wadi",
+   "note": "Semarhalah dari Makkah; azh-Zhahran nama wadinya, Marr desanya, banyak mata air dan kurma; di Bathn Marr dua wadi Nakhlah bertemu. Garis: Wadi Fathimah di OSM (nama lama Bathn Marr / Marr azh-Zhahran)",
+   "src": [
+    "Mu'jam al-Buldan 5/104",
+    "Mu'jam al-Buldan 5/104",
+    "Mu'jam al-Buldan 1/449"
+   ],
+   "quote": [
+    "ومرّ الظهران ويقال مرّ ظهران: موضع على مرحلة من مكة له ذكر في الحديث",
+    "وقال عرّام: مرّ القرية، والظهران هو الوادي، وبمرّ عيون كثيرة ونخل",
+    "من نواحي مكة، عنده يجتمع وادي النخلتين فيصيران واديا واحدا"
+   ],
+   "osm": [
+    "W495723064",
+    "W1079696867"
+   ]
+  },
+  {
+   "t": "al-Abthah / al-Muhashshab (Bathha' Makkah)",
+   "ar": "الأبطح",
+   "kind": "wadi",
+   "note": "Aliran berkerikil (abthah) antara Makkah dan Mina, lebih dekat ke Mina: Bathha' Makkah, Khaif Bani Kinanah, dari al-Hajun ke arah Mina. Label di Jalan al-Abthah (al-Ma'abidah)",
+   "src": [
+    "Mu'jam al-Buldan 5/62",
+    "Mu'jam al-Buldan 1/74"
+   ],
+   "quote": [
+    "وهو موضع فيما بين مكة ومنى، وهو إلى منى أقرب، وهو بطحاء مكة وهو خيف بني كنانة",
+    "وكل مسيل فيه دقاق الحصى فهو أبطح"
+   ],
+   "osm": [],
+   "qid": "W832381880",
+   "lat": 21.4416,
+   "lon": 39.837
+  },
+  {
+   "t": "Fakh (Wadi az-Zahir)",
+   "ar": "فخ",
+   "kind": "wadi",
+   "note": "Wadi di Makkah, yaitu Wadi az-Zahir; dirindukan Bilal dalam syairnya. Label di distrik az-Zahir",
+   "src": [
+    "Mu'jam al-Buldan 4/237"
+   ],
+   "quote": [
+    "وهو واد بمكة، وقال السيد عليّ: الفخ وادي الزاهر"
+   ],
+   "osm": [],
+   "qid": "R19262625",
+   "lat": 21.4472,
+   "lon": 39.7952
+  },
+  {
+   "t": "Wadi Muhassir",
+   "ar": "محسر",
+   "kind": "wadi",
+   "note": "Wadi Muzdalifah: seluruh Muzdalifah tempat wuquf kecuali Wadi Muhassir; aliran selebar lemparan batu antara Muzdalifah dan Mina",
+   "src": [
+    "Mu'jam al-Buldan 1/449",
+    "Mu'jam ma Ista'jam 4/1191"
+   ],
+   "quote": [
+    "المزدلفة كلّها موقف إلّا وادي محسّر",
+    "وهو مسيل قدر رمية بحجر بين المزدلفة ومنى"
+   ],
+   "osm": [],
+   "qid": "Q12250643",
+   "lat": 21.3942,
+   "lon": 39.9063
+  },
+  {
+   "t": "Jabal Abu Qubais",
+   "ar": "أبو قبيس",
+   "kind": "gunung",
+   "note": "Gunung yang menjulang di atas Makkah di sisi timur, berhadapan dengan Qu'aiqi'an; Makkah di antara keduanya",
+   "src": [
+    "Mu'jam al-Buldan 1/80"
+   ],
+   "quote": [
+    "وهو اسم الجبل المشرف على مكة، وجهه إلى قعيقعان ومكة بينهما"
+   ],
+   "osm": [],
+   "qid": "Q4159640",
+   "lat": 21.4222,
+   "lon": 39.8297
+  },
+  {
+   "t": "Jabal Hira' (Jabal an-Nur)",
+   "ar": "حراء",
+   "kind": "gunung",
+   "note": "Gunung Makkah 3 mil dari kota; sebelum wahyu Nabi ﷺ beribadah di sebuah gua di gunung ini",
+   "src": [
+    "Mu'jam al-Buldan 2/233",
+    "Mu'jam al-Buldan 2/233"
+   ],
+   "quote": [
+    "جبل من جبال مكة على ثلاثة أميال",
+    "وكان النبي، ﷺ، قبل أن يأتيه الوحي يتعبد في غار من هذا الجبل"
+   ],
+   "osm": [],
+   "qid": "Q1033157",
+   "lat": 21.4581,
+   "lon": 39.8614
+  },
+  {
+   "t": "Jabal Tsaur",
+   "ar": "ثور",
+   "kind": "gunung",
+   "note": "Gunung di Makkah tempat gua persembunyian Nabi ﷺ; di belakang Makkah, di jalan ke Yaman",
+   "src": [
+    "Mu'jam al-Buldan 2/86",
+    "Mu'jam al-Buldan 2/86"
+   ],
+   "quote": [
+    "اسم جبل بمكة فيه الغار الذي اختفى فيه النبيّ",
+    "ثور أطحل من جبال مكة بالمفجر من خلف مكة على طريق اليمن"
+   ],
+   "osm": [],
+   "qid": "Q4116104",
+   "lat": 21.3833,
+   "lon": 39.85
+  },
+  {
+   "t": "Jabal Tsabir",
+   "ar": "ثبير",
+   "kind": "gunung",
+   "note": "Salah satu gunung terbesar Makkah, antara Makkah dan 'Arafah",
+   "src": [
+    "Mu'jam al-Buldan 2/73"
+   ],
+   "quote": [
+    "ثبير من أعظم جبال مكة، بينها وبين عرفة"
+   ],
+   "osm": [],
+   "qid": "N7160428952",
+   "lat": 21.4035,
+   "lon": 39.9296
+  },
+  {
+   "t": "Jabal al-Khandamah",
+   "ar": "الخندمة",
+   "kind": "gunung",
+   "note": "Gunung di Makkah; saat Fathu Makkah Shafwan bin Umayyah, 'Ikrimah dan Suhail bin 'Amr menghimpun pasukan di sana",
+   "src": [
+    "Mu'jam al-Buldan 2/392"
+   ],
+   "quote": [
+    "جبل بمكة، كان لما ورد النبي، ﷺ، عام الفتح جمع صفوان بن أميّة وعكرمة بن أبي جهل وسهيل بن عمرو جمعا"
+   ],
+   "osm": [],
+   "qid": "Q30340355",
+   "lat": 21.4019,
+   "lon": 39.8397
+  },
+  {
+   "t": "al-Hajun",
+   "ar": "الحجون",
+   "kind": "gunung",
+   "note": "Gunung di Makkah atas, di dekatnya pemakaman penduduk Makkah. Label di Pemakaman al-Ma'la",
+   "src": [
+    "Mu'jam al-Buldan 2/225"
+   ],
+   "quote": [
+    "والحجون: جبل بأعلى مكة عنده مدافن أهلها"
+   ],
+   "osm": [],
+   "qid": "Q42004",
+   "lat": 21.437,
+   "lon": 39.8292
+  }
+ ]
+}

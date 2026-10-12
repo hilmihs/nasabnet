@@ -7,6 +7,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import check_shapes  # noqa: E402
+import geo  # noqa: E402
 import shapes  # noqa: E402
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -40,12 +41,19 @@ def main():
         for f in json.loads((check_shapes.OUT / f"{c}.json").read_text())["features"]:
             r = {k: f[k] for k in ("t", "ar", "kind", "note") if f.get(k)}
             r["src"] = list(dict.fromkeys(f["src"]))
-            if f.get("osm"):
-                r["lines"] = [[[round(x, 5) for x in p] for p in simplify(l)] for oid in f["osm"] for l in shapes.geometry(oid)]
+            if f.get("kind") in ("parit", "jalur"):
+                pts = {r["qid"]: [round(r["lat"], 5), round(r["lon"], 5)] for r in geo.lookup(f["path_qids"])}
+                r["lines"] = [[pts[q] for q in f["path_qids"]]]
+            elif f.get("osm"):
+                tol = 0.01 if c == "arabia" else 0.00015  # deserts span hundreds of km: ~1 km detail is plenty
+                r["lines"] = [[[round(x, 4 if c == "arabia" else 5) for x in p] for p in simplify(l, tol)] for oid in f["osm"] for l in shapes.geometry(oid)]
             else:
                 r["lat"], r["lon"] = f["lat"], f["lon"]
             rows.append(r)
         out[c] = rows
+        legend = json.loads((check_shapes.OUT / f"{c}.json").read_text()).get("legend")
+        if legend:
+            out[f"_legend_{c}"] = [{k: x[k] for k in ("kind", "t", "ar", "note") if x.get(k)} | {"src": list(dict.fromkeys(x["src"]))} for x in legend]
     (ROOT / "data" / "shapes.json").write_text(json.dumps(out, ensure_ascii=False, separators=(",", ":")) + "\n")
     print({c: len(v) for c, v in out.items()}, round((ROOT / "data" / "shapes.json").stat().st_size / 1024), "KB")
 

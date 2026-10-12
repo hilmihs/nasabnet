@@ -5,7 +5,8 @@
   python3 scripts/shapes.py find "العقيق|عقيق"              # named ways/relations in the Madinah area
   python3 scripts/shapes.py tag natural=bare_rock [--min 2] # unnamed features by tag, largest first (km² / km)
   python3 scripts/shapes.py show W116605983                 # tags, size, extent of one OSM object
-Options: --area madinah|makkah (default madinah).
+Options: --area madinah|makkah|arabia (default madinah). For arabia, query by name or by tag with a
+name filter, e.g. `find "الدهناء|النفود" --area arabia` — whole-peninsula tag queries are too big.
 """
 import fcntl
 import hashlib
@@ -21,7 +22,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 import geo  # noqa: E402
 
 OVERPASS = "https://overpass-api.de/api/interpreter"
-AREAS = {"madinah": (24.25, 39.35, 24.75, 39.9), "makkah": (21.2, 39.6, 21.6, 40.1)}
+AREAS = {"madinah": (24.25, 39.35, 24.75, 39.9), "makkah": (21.2, 39.6, 21.6, 40.1), "arabia": (12.0, 34.0, 33.5, 60.0)}
 KIND_TAGS = ("natural", "waterway", "landuse", "geological", "place", "landcover")
 
 

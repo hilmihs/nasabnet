@@ -48,6 +48,11 @@ TAGS = {
     "4445": ("al-Bidayah wan-Nihayah {v}/{p}", True),
     "1681": ("Shahih al-Bukhari {v}/{p}", True),
     "1727": ("Shahih Muslim {v}/{p}", True),
+    # topography of Madinah
+    "13086": ("Tarikh al-Madinah Ibnu Syabbah {v}/{p}", True),
+    "23695": ("Wafa' al-Wafa' {v}/{p}", True),
+    "1172": ("al-Maghanim al-Muthabah {v}/{p}", True),
+    "557": ("ad-Durrah ats-Tsaminah, hlm. {p}", False),
 }
 
 TAG = re.compile(r"<[^>]+>")

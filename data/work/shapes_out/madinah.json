@@ -241,6 +241,26 @@
    "lon": 39.5446
   },
   {
+   "t": "Harrat Waqim",
+   "ar": "حرة واقم",
+   "kind": "harrah",
+   "note": "Salah satu dari dua harrah Madinah, yaitu yang timur; dinamai utum (benteng) Waqim di sampingnya, utum Hudhair al-Kata'ib di Bani 'Abdil Asyhal. Label di Masjid Bani 'Abdil Asyhal",
+   "src": [
+    "Mu'jam al-Buldan 2/249",
+    "Mu'jam al-Buldan 5/354",
+    "Ibnu Sa'd 3/604"
+   ],
+   "quote": [
+    "حرة واقم: إحدى حرتي المدينة، وهي الشرقية",
+    "وواقم: أطم من آطام المدينة كأنه سمي بذلك لحصانته، ومعناه أنه يردّ عن أهله، وحرّة واقم: إلى جانبه نسبت إليه",
+    "وواقم أطم حضير الكتائب، وكان في بني عبد الأشهل"
+   ],
+   "osm": [],
+   "qid": "Q20425073",
+   "lat": 24.4709,
+   "lon": 39.623
+  },
+  {
    "t": "Harrat al-Wabarah",
    "ar": "حرة الوبرة",
    "kind": "harrah",
@@ -293,6 +313,342 @@
    "qid": "N4020672336",
    "lat": 24.4558,
    "lon": 39.6271
+  },
+  {
+   "t": "Bani an-Najjar",
+   "ar": "بنو النجار",
+   "kind": "kawasan",
+   "note": "Al-Mathari: Masjid Nabawi dan sebelah timurnya dar Bani Ghanm bin Malik bin an-Najjar; rumah-rumah Bani an-Najjar membentang ke utara sampai Masjid al-Ijabah",
+   "src": [
+    "Wafa' al-Wafa' 1/169"
+   ],
+   "quote": [
+    "ومسجد الرسول ﷺ وما يليه من جهة الشرق دار بني غانم بن مالك بن النجار، ودور بني النجار بالمدينة وما حولها من الشمال إلى مسجد الإجابة"
+   ],
+   "osm": [],
+   "qid": "Q486080",
+   "lat": 24.4683,
+   "lon": 39.6108
+  },
+  {
+   "t": "Bani Sa'idah",
+   "ar": "بنو ساعدة",
+   "kind": "kawasan",
+   "note": "Dar Bani Sa'idah di timur Suq al-Madinah; menurut al-Mathari kampung mereka di Bi'r Budha'ah, sumur itu di tengah rumah-rumah mereka",
+   "src": [
+    "Wafa' al-Wafa' 1/165",
+    "Wafa' al-Wafa' 1/165"
+   ],
+   "quote": [
+    "دار بني ساعدة التي بين السوق",
+    "قال المطري: قرية بني ساعدة عند بئر بضاعة، والبئر وسط بيوتهم"
+   ],
+   "osm": [],
+   "qid": "Q12195478",
+   "lat": 24.4724,
+   "lon": 39.608
+  },
+  {
+   "t": "Bani Salimah",
+   "ar": "بنو سلمة",
+   "kind": "kawasan",
+   "note": "Bani Salimah tinggal antara Masjid al-Qiblatain sampai al-Madzad (benteng Bani Haram) di kaki harrah barat; Masjid al-Qiblatain milik Bani Sawad bin Ghanm dari Bani Salimah",
+   "src": [
+    "Wafa' al-Wafa' 1/159",
+    "Wafa' al-Wafa' 1/160"
+   ],
+   "quote": [
+    "بن جشم بن الخزرج الأكبر ما بين مسجد القبلتين إلى المذاد أطم بني حرام في سند تلك الحرة",
+    "ونزل بنو سواد بن غنم بن كعب بن سلمة عند مسجد القبلتين إلى أرض ابن عبيد الديناري، ولهم مسجد القبلتين"
+   ],
+   "osm": [],
+   "qid": "W66510098",
+   "lat": 24.4842,
+   "lon": 39.5789
+  },
+  {
+   "t": "Bani Zuraiq",
+   "ar": "بنو زريق",
+   "kind": "kawasan",
+   "note": "Bani Zuraiq pindah dari dar Bani Bayadhah ke dar mereka di selatan al-Mushalla, di tempat yang dikenal sebagai Dzarwan",
+   "src": [
+    "Wafa' al-Wafa' 1/163"
+   ],
+   "quote": [
+    "حتى حلوا دارهم المعروفة بهم قبليّ المصلى وسور المدينة الموجود اليوم وداخله بالموضع المعروف بذروان"
+   ],
+   "osm": [],
+   "qid": "Q12195481",
+   "lat": 24.4657,
+   "lon": 39.6128
+  },
+  {
+   "t": "Bani 'Abdil Asyhal",
+   "ar": "بنو عبد الأشهل",
+   "kind": "kawasan",
+   "note": "Masjid Bani 'Abdil Asyhal (Masjid Waqim) di perkampungan mereka, tempat Nabi ﷺ salat Maghrib; as-Samhudi: letak masjidnya tak dikenal lagi di masanya (titik = identifikasi modern)",
+   "src": [
+    "Wafa' al-Wafa' 3/61",
+    "Wafa' al-Wafa' 3/62"
+   ],
+   "quote": [
+    "ومنها: مسجد بني عبد الأشهل من الأوس، ويقال له: مسجد واقم",
+    "صلّى النبي ﷺ وهو في مسجد واقم في بني عبد الأشهل"
+   ],
+   "osm": [],
+   "qid": "Q20425073",
+   "lat": 24.4709,
+   "lon": 39.623
+  },
+  {
+   "t": "Bani Haritsah",
+   "ar": "بنو حارثة",
+   "kind": "kawasan",
+   "note": "Di dar kedua mereka Bani Haritsah membangun benteng ar-Rayyan dekat Masjid Bani Haritsah; rumah-rumah Bani Haritsah di sekitar asy-Syaikhain",
+   "src": [
+    "Wafa' al-Wafa' 1/153",
+    "Wafa' al-Wafa' 1/153"
+   ],
+   "quote": [
+    "أطما يقال له «الريان» عند مسجد بني حارثة كان لبني مجذعة بن حارثة",
+    "فتحرر أن بيوت بني حارثة عند الشيخين وفي ناحيتهما"
+   ],
+   "osm": [],
+   "qid": "Q19728965",
+   "lat": 24.4919,
+   "lon": 39.6097
+  },
+  {
+   "t": "Bani 'Amr bin 'Auf",
+   "ar": "بنو عمرو بن عوف",
+   "kind": "kawasan",
+   "note": "Bani 'Amr bin 'Auf (Aus) bermukim di Quba' dan membangun benteng-benteng di sana",
+   "src": [
+    "Wafa' al-Wafa' 1/154"
+   ],
+   "quote": [
+    "ونزل بنو عمرو بن عوف بن مالك بن الأوس قباء"
+   ],
+   "osm": [],
+   "qid": "N4020672295",
+   "lat": 24.4418,
+   "lon": 39.6176
+  },
+  {
+   "t": "Bani Mu'awiyah (Aus)",
+   "ar": "بنو معاوية",
+   "kind": "kawasan",
+   "note": "Bani Mu'awiyah bin Malik (Aus) tinggal di dar mereka di balik Baqi' al-Gharqad; Masjid al-Ijabah adalah masjid Bani Mu'awiyah",
+   "src": [
+    "Wafa' al-Wafa' 1/155",
+    "Wafa' al-Wafa' 1/155"
+   ],
+   "quote": [
+    "وخرجت بنو معاوية بن مالك بن عوف بن عمرو بن عوف فسكنوا دارهم التي وراء بقيع الغرقد المعروفة بهم",
+    "ومسجد الإجابة لبني معاوية من الأوص"
+   ],
+   "osm": [],
+   "qid": "Q12242695",
+   "lat": 24.4719,
+   "lon": 39.6183
+  },
+  {
+   "t": "Bani Waqif",
+   "ar": "بنو واقف",
+   "kind": "kawasan",
+   "note": "Bani Waqif dan as-Silm (Aus) bermukim dekat Masjid al-Fadhikh; as-Samhudi: tak ada dar yang lebih jelas letaknya daripada dar mereka",
+   "src": [
+    "Wafa' al-Wafa' 1/155",
+    "Wafa' al-Wafa' 3/71"
+   ],
+   "quote": [
+    "ونزل بنو واقف والسلم ابنا امرئ القيس بن مالك بن الأوس عند مسجد الفضيخ",
+    "لا دار أعرف من دارهم؛ لما تقدم في المنازل من أنهم نزلوا عند مسجد الفضيخ"
+   ],
+   "osm": [],
+   "qid": "Q18020493",
+   "lat": 24.446,
+   "lon": 39.6377
+  },
+  {
+   "t": "Bani Salim bin 'Auf",
+   "ar": "بنو سالم بن عوف",
+   "kind": "kawasan",
+   "note": "Nabi ﷺ mendapati Jumat di Bani Salim bin 'Auf dan salat di masjid di perut Wadi Ranuna' (Masjid al-Jumu'ah)",
+   "src": [
+    "Mu'jam al-Buldan 3/19"
+   ],
+   "quote": [
+    "فأدركت رسول الله، ﷺ، الجمعة في بني سالم بن عوف وصلّاها في المسجد الذي في بطن الوادي وادي رانوناء"
+   ],
+   "osm": [],
+   "qid": "Q14921963",
+   "lat": 24.4455,
+   "lon": 39.6152
+  },
+  {
+   "t": "Bani Unaif",
+   "ar": "بنو أنيف",
+   "kind": "kawasan",
+   "note": "Bani Unaif, kabilah dari Baliyy sekutu Aus, di Quba'; Nabi ﷺ salat dekat benteng mereka, kemudian tempat itu dibangun menjadi Masjid Bani Unaif",
+   "src": [
+    "Wafa' al-Wafa' 3/71",
+    "Wafa' al-Wafa' 3/71"
+   ],
+   "quote": [
+    "ومنها: مسجد بني أنيف، تصغير أنف حي من بلى",
+    "فهو مسجد بني أنيف بقباء"
+   ],
+   "osm": [],
+   "qid": "Q20422519",
+   "lat": 24.4357,
+   "lon": 39.6155
+  },
+  {
+   "t": "Bani an-Nadhir",
+   "ar": "بنو النضير",
+   "kind": "kawasan",
+   "note": "Yahudi Bani an-Nadhir: al-Waqidi berkata permukiman mereka di arah al-Ghars (Bi'r Ghars); as-Samhudi: di an-Nawa'im, membentang ke arah al-Ghars",
+   "src": [
+    "Wafa' al-Wafa' 1/131"
+   ],
+   "quote": [
+    "ونقل ابن عساكر عن الواقدي أنه قال: كانت منازل بني النضير بناحية الغرس"
+   ],
+   "osm": [],
+   "qid": "Q12195487",
+   "lat": 24.4451,
+   "lon": 39.6273
+  },
+  {
+   "t": "Bani Quraizhah",
+   "ar": "بنو قريظة",
+   "kind": "kawasan",
+   "note": "Yahudi Bani Quraizhah bermukim di Wadi Mahzur di al-'Aliyah (Bani an-Nadhir di Buthan)",
+   "src": [
+    "Mu'jam al-Buldan 1/446",
+    "Wafa' al-Wafa' 1/130"
+   ],
+   "quote": [
+    "فنزل بنو النضير بطحان ونزلت بنو قريظ مهزورا",
+    "ومنها بنو قريظة في دارهم المعروفة بهم اليوم"
+   ],
+   "osm": [],
+   "qid": "R19122083",
+   "lat": 24.4387,
+   "lon": 39.651
+  },
+  {
+   "t": "Uthum ar-Rayyan (Bani Haritsah)",
+   "ar": "أطم الريان",
+   "kind": "benteng",
+   "note": "Benteng ar-Rayyan milik Bani Majda'ah bin Haritsah, di dekat Masjid Bani Haritsah",
+   "src": [
+    "Wafa' al-Wafa' 1/153"
+   ],
+   "quote": [
+    "أطما يقال له «الريان» عند مسجد بني حارثة كان لبني مجذعة بن حارثة"
+   ],
+   "osm": [],
+   "qid": "Q19728965",
+   "lat": 24.4919,
+   "lon": 39.6097
+  },
+  {
+   "t": "Uthum Syas",
+   "ar": "أطم شاس",
+   "kind": "benteng",
+   "note": "Benteng Syas milik Syas bin Qais dari Bani 'Athiyyah bin Zaid, di sebelah kiri pelataran Masjid Quba' menghadap kiblat",
+   "src": [
+    "Wafa' al-Wafa' 1/156"
+   ],
+   "quote": [
+    "وابتنوا فيها أطما اسمه «شاس» كان لشاس بن قيس أخي بني عطية بن زيد، وهو الذي على يسارك في رحبة مسجد قباء مستقبل القبلة"
+   ],
+   "osm": [],
+   "qid": "R18051738",
+   "lat": 24.4394,
+   "lon": 39.6175
+  },
+  {
+   "t": "Uthum al-Mustazhill",
+   "ar": "أطم المستظل",
+   "kind": "benteng",
+   "note": "Benteng al-Mustazhill milik Uhaihah bin al-Julah (Bani 'Amr bin 'Auf), letaknya di Bi'r Ghars",
+   "src": [
+    "Wafa' al-Wafa' 1/154"
+   ],
+   "quote": [
+    "وأطم يقال له «المستظل» كان موضعه عند بئر غرس، كان لأحيحة"
+   ],
+   "osm": [],
+   "qid": "Q12195487",
+   "lat": 24.4451,
+   "lon": 39.6273
+  },
+  {
+   "t": "Uthum al-Muzdalif",
+   "ar": "المزدلف",
+   "kind": "benteng",
+   "note": "Benteng al-Muzdalif milik 'Itban bin Malik / Malik bin al-'Ajlan di dar Bani Salim; Masjid 'Itban di kakinya, di utara Masjid al-Jumu'ah",
+   "src": [
+    "Wafa' al-Wafa' 3/73",
+    "Wafa' al-Wafa' 3/73"
+   ],
+   "quote": [
+    "مسجد عتبان بن مالك بأصل أطمه المسمى بالمزدلف بدار بني سالم بن الخزرج",
+    "تقدّم في مسجد الجمعة أن المزدلف هو الأطم الخراب الذي في شامي مسجد الجمعة"
+   ],
+   "osm": [],
+   "qid": "Q16125703",
+   "lat": 24.4463,
+   "lon": 39.6155
+  },
+  {
+   "t": "Suq al-Madinah",
+   "ar": "سوق المدينة",
+   "kind": "pasar",
+   "note": "Nabi ﷺ meninjau pasar Bani Qainuqa', lalu menetapkan Suq al-Madinah: 'inilah pasar kalian, tanpa pungutan'; lebarnya dari al-Mushalla (batas selatan) sampai Jirar Sa'd; Masjid al-Mushalla di samping pasar (titik: Masjid al-Mushalla/al-Ghamamah)",
+   "src": [
+    "Tarikh al-Madinah Ibnu Syabbah 1/304",
+    "Wafa' al-Wafa' 2/257",
+    "Wafa' al-Wafa' 2/262"
+   ],
+   "quote": [
+    "لما أراد رسول الله ﷺ أن يجعل للمدينة سوقا أتى سوق بني قينقاع، ثم جاء سوق المدينة فضربه برجله وقال",
+    "أن ابن زبالة نقل أن عرض سوق المدينة ما بين المصلى إلى جرار سعد",
+    "حتى إذا كان عند مسجد المصلى الذي هو عند موضع الدار التي بالسوق"
+   ],
+   "osm": [],
+   "qid": "Q12242769",
+   "lat": 24.4658,
+   "lon": 39.6069
+  },
+  {
+   "t": "Khandaq (parit)",
+   "ar": "الخندق",
+   "kind": "parit",
+   "note": "Parit Perang Ahzab di utara kota: digaris dari asy-Syaikhain di tepi Bani Haritsah; Muhajirin menggali dari Ratij ke Dzubab (bukit Masjid ar-Rayah), Anshar dari Dzubab ke Bani 'Ubaid; al-Mathari: sampai Masjid al-Fath; kaum Muslimin membelakangi Sal'. Garis perkiraan",
+   "src": [
+    "Wafa' al-Wafa' 4/70",
+    "Ibnu Sa'd 2/66",
+    "Wafa' al-Wafa' 3/49",
+    "Wafa' al-Wafa' 4/70",
+    "Ibnu Sa'd 2/66"
+   ],
+   "quote": [
+    "خطّ الخندق من أجمة الشيخين طرف بني حارثة",
+    "فكان المهاجرون يحفرون من ناحية راتج إلى ذباب، وكانت الأنصار يحفرون من ذباب إلى بني عبيد",
+    "مسجد ذباب، ويعرف اليوم بمسجد الراية",
+    "إلى غربي مصلى العيد ثم إلى مسجد الفتح ثم إلى الجبلين الصغيرين اللذين في غربي الوادي",
+    "عسكر بهم رسول الله، ﷺ، إلى سفح سلع وجعل سلعا خلف ظهره"
+   ],
+   "path_qids": [
+    "Q19728965",
+    "W1536783061",
+    "W1536783060"
+   ],
+   "osm": []
   }
  ]
 }

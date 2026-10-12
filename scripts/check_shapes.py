@@ -11,7 +11,8 @@ import geo  # noqa: E402
 import shapes  # noqa: E402
 
 OUT = Path(__file__).resolve().parent.parent / "data" / "work" / "shapes_out"
-KINDS = {"wadi", "gunung", "harrah", "kebun"}
+KINDS = {"wadi", "gunung", "harrah", "kebun", "kawasan", "benteng", "pasar", "parit", "pasir", "wilayah", "laut", "jalur"}
+LEGEND = {"wadi", "gunung", "harrah", "kebun", "kawasan", "benteng", "pasar", "parit", "pasir", "wilayah", "laut", "jalur", "uthum", "sumur", "masjid", "kota", "desa", "mata air", "lembah"}
 
 
 def check(city):
@@ -26,6 +27,14 @@ def check(city):
         if f.get("kind") not in KINDS:
             errs.append(f"{where}: kind must be one of {sorted(KINDS)}")
         check_roles.check_item({**f, "t": f.get("note") or "", "status": "ok"}, where, errs)
+        if f.get("kind") in ("parit", "jalur"):
+            ids = f.get("path_qids") or []
+            if len(ids) < 2:
+                errs.append(f"{where}: parit needs path_qids (at least 2)")
+            for r in geo.lookup(ids) if ids else []:
+                if r.get("lat") is None:
+                    errs.append(f"{where}: {r['qid']} has no coordinates")
+            continue
         if f.get("osm"):
             for oid in f["osm"]:
                 if oid[:1] not in "WR" or not oid[1:].isdigit():
@@ -43,6 +52,11 @@ def check(city):
             g = (geo.lookup([f["qid"]]) or [{"lat": None}])[0]
             if g["lat"] is None or abs(g["lat"] - f["lat"]) > 0.01 or abs(g["lon"] - f["lon"]) > 0.01:
                 errs.append(f"{where}: lat/lon differ from {f['qid']}")
+    for i, x in enumerate(d.get("legend") or []):
+        where = f"{city}:legend[{i}] {x.get('kind')}"
+        if x.get("kind") not in LEGEND:
+            errs.append(f"{where}: kind must be one of {sorted(LEGEND)}")
+        check_roles.check_item({**x, "status": "ok"}, where, errs)
     return errs
 
 

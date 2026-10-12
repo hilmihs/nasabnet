@@ -76,7 +76,7 @@ export interface BioData {
 export interface Shape {
   t: string
   ar: string
-  kind: 'wadi' | 'gunung' | 'harrah' | 'kebun'
+  kind: 'wadi' | 'gunung' | 'harrah' | 'kebun' | 'kawasan' | 'benteng' | 'pasar' | 'parit'
   note: string
   src: string[]
   lines?: [number, number][][]
@@ -136,6 +136,10 @@ const BOOK_TAGS: [string, number][] = [
   ['al-Bidayah wan-Nihayah ', 4445],
   ['Shahih al-Bukhari ', 1681],
   ['Shahih Muslim ', 1727],
+  ['Tarikh al-Madinah Ibnu Syabbah ', 13086],
+  ["Wafa' al-Wafa' ", 23695],
+  ['al-Maghanim al-Muthabah ', 1172],
+  ['ad-Durrah ats-Tsaminah', 557],
 ]
 
 export function citationUrl(tag: string): string | undefined {

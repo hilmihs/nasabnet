@@ -37,3 +37,41 @@ python3 scripts/shapes.py show W116605983               # size and extent of one
 `osm` non-empty → drawn as shape; empty → `qid`/`lat`/`lon` from geo.py (copied, never estimated) and drawn as a
 label. `note`: what the page says (Indonesian, terse). Validate `python3 scripts/check_shapes.py madinah` until ALL OK.
 Edit nothing else. Final reply ≤120 words: features with shape / label point, and anything left out and why.
+
+## Denah (city plan) of Madinah — file `data/work/shapes_out/madinah.json`, extra kinds
+Close up, the "Zaman Nabi" map shows a plain parchment with a schematic plan of the city as the books describe it.
+Add these features (same citation rules; best sources: 13086 Tarikh al-Madinah Ibnu Syabbah (earliest), 23695
+Wafa' al-Wafa' (as-Samhudi, quotes Ibnu Zabalah/al-Mathari on every quarter), 1172 al-Maghanim al-Muthabah,
+557 ad-Durrah ats-Tsaminah, plus Ibnu Sa'd, Sirah, Mu'jam al-Buldan):
+- **kawasan** — the dwelling quarters (dar/manazil) of the clans in the Prophet's ﷺ time: Bani an-Najjar (around and
+  east of the mosque), Bani Sa'idah, Bani Salimah, Bani Zuraiq, Bani 'Abdil Asyhal, Bani Zhafar, Bani Haritsah,
+  Bani 'Amr bin 'Auf (Quba'), Bani Wa'il/Waqif…, and the Jewish tribes Qainuqa', an-Nadhir, Quraizhah. A point only
+  (label, no outline — the books give no boundary): the point must be a cited place that the page puts in that
+  quarter (a mosque of the clan, its well, its fort) with coordinates from geo.py / places_out.
+- **benteng** — forts (uthum/athum) named by the books, point.
+- **pasar** — the market(s) (Suq al-Madinah / Suq Bani Qainuqa'), point.
+- **parit** — the Khandaq: give `"path_qids": ["…", "…", …]`, the ids (from geo.py, in order) of the cited places the
+  books say the trench ran along/between (e.g. from Ratij / Syaikhain past Sal' to …). The line is drawn through
+  them and labelled as approximate; at least 2 ids, each with its quote.
+Keep every existing feature; only add. Validate with check_shapes.py.
+
+## Arabia (whole peninsula) — file `data/work/shapes_out/arabia.json` (id "arabia")
+Makes the "Zaman Nabi" map readable at peninsula scale. Use `--area arabia` with name queries (tag queries over the
+whole peninsula are too big). Same citation rules; Mu'jam al-Buldan and Shifat Jazirat al-'Arab (12521) define most
+of these. Kinds:
+- **pasir** — sand deserts the books name (ad-Dahna', ar-Raml / 'Alij, al-Ahqaf, Raml Yabrin, an-Nafud if a book uses
+  that name…): an OSM polygon/relation (natural=sand/desert) ONLY if the book's description (between X and Y, near Z)
+  matches that modern feature; else a label point (qid/lat/lon from geo.py) — or leave out.
+- **harrah** — large lava fields (Harrat Bani Sulaim, Harrat Khaibar, Harrat Laila, Harrat Rajil, Harrat an-Nar…):
+  OSM shape if a named one matches, else a label point.
+- **wilayah** — the regions as the books define them (al-Hijaz, Najd, Tihamah, al-Yaman, al-Yamamah, al-Bahrain,
+  'Uman, Hadhramaut, asy-Syam, al-'Iraq): label point = the region's Wikidata item (geo.py), `note` = the book's
+  definition (e.g. Hijaz = the mountain range dividing Tihamah and Najd).
+- **laut** — seas (Bahr al-Qulzum = Red Sea, the Persian Gulf as the books name it, Bahr al-Habasyah…): label point.
+- **gunung** — ranges such as as-Sarah / as-Sarawat: label point.
+- **jalur** — caravan routes the books describe with stations (e.g. Makkah–Syam, Makkah–Yaman, the Hijrah route):
+  `"path_qids"` = ids (geo.py) of the cited stations in order, at least 3; each station must be named on a cited page.
+Also add **`"legend"`**: a list defining the map's terms, each `{"kind", "t", "ar", "note", "src", "quote"}` — kinds:
+wadi, gunung, harrah, pasir, uthum, sumur, masjid, kota, desa, mata air, pasar, parit, kawasan, wilayah, laut, jalur
+(as many as the books define: e.g. Mu'jam al-Buldan's definitions of الحرة, الوادي, الأطم, الرمل, السوق). Validate
+`python3 scripts/check_shapes.py arabia`.
