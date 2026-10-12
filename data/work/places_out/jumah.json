@@ -1,0 +1,17 @@
+{"id": "jumah", "places": [
+  {"t": "Bathha' Makkah", "ar": "بطحاء مكة", "kind": "lembah", "note": "Bani Jumah termasuk Quraisy al-Bithah, yang mendiami Bathha' Makkah",
+   "src": ["Mu'jam ma Ista'jam 1/257"], "quote": ["وبنو مخزوم، وبنو جمح، وبنو سهم ابنى عمرو بن هصيص بن كعب"],
+   "qid": "Q5806", "lat": 21.4225, "lon": 39.8261, "precision": "perkiraan", "near": "Makkah"},
+  {"t": "al-Masfalah (Makkah)", "ar": "المسفلة", "kind": "distrik", "note": "Saat Qushay membagi Makkah kepada Quraisy, Bani Jumah mendapat al-Masfalah; Bani 'Adi di bawah ats-Tsaniyyah, antara Bani Jumah dan Bani Sahm",
+   "src": ["Mu'jam ma Ista'jam 1/258"], "quote": ["ولبنى جمح المسفلة، ولبنى سهم الننيّة، ولبنى عدىّ أسفل الثنيّة، فيما بين بنى جمح وبنى سهم"],
+   "qid": "R19262650", "lat": 21.405, "lon": 39.8223, "precision": "tepat"},
+  {"t": "Radm Bani Jumah (Makkah)", "ar": "ردم بني جمح", "kind": "distrik", "note": "Tempat di Makkah; dinamai demikian karena perang Bani Jumah dengan Bani Muharib bin Fihr di sana, banyak korban Bani Jumah tertimbun",
+   "src": ["Mu'jam al-Buldan 3/40", "Mu'jam ma Ista'jam 2/649"], "quote": ["كانت حرب بين بني جمح بن عمرو وبين محارب بن فهر فالتقوا بالردم", "ردم بنى جمح بمكّة، كانت فيه حرب بينهم وبين بنى محارب بن فهر"],
+   "qid": "Q5806", "lat": 21.4225, "lon": 39.8261, "precision": "perkiraan", "near": "Makkah"},
+  {"t": "Sumur as-Sunbulah (Makkah)", "ar": "سنبلة", "kind": "mata air", "note": "Sumur yang digali Bani Jumah di Makkah, yaitu sumur Khalaf bin Wahb",
+   "src": ["Mu'jam al-Buldan 3/261"], "quote": ["سُنْبُلَةُ: بلفظ سنبلة الزرع: بئر حفرها بنو جمح بمكّة"],
+   "qid": "Q5806", "lat": 21.4225, "lon": 39.8261, "precision": "perkiraan", "near": "Makkah"},
+  {"t": "Dar Bani Jumah (Mesir)", "ar": "دار بني جمح", "kind": "distrik", "note": "Wahb bin 'Umair al-Jumahi ikut fath Mesir; 'Amr bin al-'Ash membuat khiththah untuknya di sampingnya, di bekas kolam, lalu menjadi Dar Bani Jumah",
+   "src": ["al-Ishabah 6/491", "al-Ishabah 6/492"], "quote": ["شهد فتح مصر، وكانت دار بني جمح بركة يجتمع", "فردمت البركة وخطّت، فهي دار بني جمح"],
+   "qid": "Q839456", "lat": 30.005, "lon": 31.2375, "precision": "perkiraan", "near": "al-Fusthath"}
+]}

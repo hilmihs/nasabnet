@@ -1,0 +1,42 @@
+{
+ "id": "ghani",
+ "name": "Ghani",
+ "ar": "غني",
+ "group": "arab",
+ "umum": {
+  "nama_arti": "Nama Ghani berarti 'kaya' dalam bahasa Arab, diambil dari nama leluhur mereka, 'Amr.",
+  "wilayah": "Mendiami wilayah Najd, berdekatan dengan wilayah Bahilah.",
+  "peran_sosial": "Dikenal lewat Martsad bin Abi Martsad, Muhajirin awal yang gugur syahid pada peristiwa ar-Raji'.",
+  "dinamika": "Ghani tidak banyak tercatat dalam sejarah politik besar pasca-Islam dibanding kabilah Qais lainnya."
+ },
+ "already_cited": {
+  "leluhur": {
+   "t": "Ghani, yaitu Amr bin A'shur bin Sa'd bin Qais 'Ailan.",
+   "src": [
+    "Jamharat Ansab al-'Arab, hlm. 244",
+    "Jamharat Ansab al-'Arab, hlm. 247"
+   ]
+  },
+  "titik_temu": {
+   "t": "Bersaudara dengan Bahilah, sama-sama anak A'shur bin Sa'd bin Qais 'Ailan; termasuk rumpun Qais 'Ailan.",
+   "src": [
+    "Jamharat Ansab al-'Arab, hlm. 244"
+   ]
+  },
+  "struktur": {
+   "t": "Dari Amr (Ghani) lahir Ghanm lalu Jullan; beberapa generasi kemudian lahir Martsad bin Abi Martsad al-Ghanawi, salah satu Muhajirin awal.",
+   "src": [
+    "Jamharat Ansab al-'Arab, hlm. 247"
+   ]
+  },
+  "hilf": {
+   "t": "Martsad bin Abi Martsad dan ayahnya tercatat sebagai sekutu (halif) Hamzah bin Abdul Muththalib.",
+   "src": [
+    "Jamharat Ansab al-'Arab, hlm. 247"
+   ]
+  }
+ },
+ "roles_umum": [
+  "lokasi"
+ ]
+}

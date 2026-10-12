@@ -1,0 +1,30 @@
+{
+ "id": "amir",
+ "name": "Bani 'Amir bin Lu'ay",
+ "ar": "بنو عامر بن لؤي",
+ "group": "quraisy",
+ "umum": {
+  "nama_arti": "Nama diambil dari leluhur eponim, 'Amir bin Lu'ay.",
+  "titik_temu": "Bersaudara dengan Ka'b bin Lu'ay, keduanya anak Lu'ay bin Ghalib; dengan seluruh Quraisy bertemu pada Fihr bin Malik.",
+  "wilayah": "Makkah.",
+  "peran_sosial": "Klan Suhail bin 'Amr, juru runding Quraisy dalam Perjanjian Hudaibiyah, dan Saudah binti Zam'ah, istri Nabi ﷺ.",
+  "dinamika": "Suhail bin 'Amr berperan sebagai juru runding Quraisy dalam Perjanjian Hudaibiyah sebelum akhirnya masuk Islam setelah Fathu Makkah."
+ },
+ "already_cited": {
+  "leluhur": {
+   "t": "'Amir bin Lu'ay bin Ghalib.",
+   "src": [
+    "Jamharat Ansab al-'Arab, hlm. 166"
+   ]
+  },
+  "struktur": {
+   "t": "Dari 'Amir lahir Hasl dan Ma'ish; dari Hasl lewat Malik-Nashr-Abdu Wadd-Abdu Syams lahir Suhail bin 'Amr dan Saudah binti Zam'ah, istri Nabi ﷺ.",
+   "src": [
+    "Jamharat Ansab al-'Arab, hlm. 166"
+   ]
+  }
+ },
+ "roles_umum": [
+  "lokasi"
+ ]
+}

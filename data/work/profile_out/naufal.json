@@ -1,0 +1,23 @@
+{
+  "id": "naufal",
+  "nama_arti": {"t": "Nama diambil dari leluhur eponim, Naufal bin Abdi Manaf.",
+    "src": ["Jamharat Ansab al-'Arab, hlm. 115"],
+    "quote": ["وهؤلاء بنو نوفل بن عبد مناف ولد نوفل بن عبد مناف: عدىّ"],
+    "status": "ok"},
+  "titik_temu": {"t": "Bertemu dengan Bani Hasyim, Bani al-Muththalib, dan Bani Abdu Syams (induk Bani Umayyah) pada Abdu Manaf bin Qushay.",
+    "src": ["Jamharat Ansab al-'Arab, hlm. 14", "Jamharat Ansab al-'Arab, hlm. 74"],
+    "quote": ["فولد عبد مناف بن قصى: عمرو وهو هاشم، وفيه العدد والشرف؛ والمطّلب؛ وعبد شمس؛ ونوفل", "ولد عبد شمس بن عبد مناف: حبيب، وبه كان يكنّى؛ وأميّة الأكبر"],
+    "status": "rewritten"},
+  "wilayah": {"t": "Makkah; al-Muth'im bin 'Adi wafat di Makkah sebelum Badar, sedangkan putranya Jubair kemudian menetap dan wafat di Madinah.",
+    "src": ["Nasab Quraisy, hlm. 200", "Tarikh ath-Thabari 11/553"],
+    "quote": ["ومات مطعم بمكة قبل بدر", "اسلم قبل الفتح، ونزل المدينة، ومات بها في خلافه معاويه"],
+    "status": "rewritten"},
+  "peran_sosial": {"t": "al-Muth'im bin 'Adi, tokoh terpandang Quraisy, memberi jiwar (perlindungan) kepada Nabi ﷺ sepulang dari Thaif; ia wafat sebelum Badar.",
+    "src": ["Sirah Ibnu Hisyam 1/381", "Jamharat Ansab al-'Arab, hlm. 115"],
+    "quote": ["فبعث إلى المطعم بن عدي فأجابه إلى ذلك، ثم تسلح المطعم وأهل بيته", "وهو الذي أجار رسول اللهﷺمنصرفه من الطائف، مات قبل بدر"],
+    "status": "rewritten"},
+  "dinamika": {"t": "Jasa al-Muth'im bin 'Adi melindungi Nabi ﷺ dikenang: seusai Badar Nabi ﷺ bersabda, seandainya al-Muth'im masih hidup, para tawanan Badar akan beliau berikan kepadanya.",
+    "src": ["Tarikh ath-Thabari 11/553", "Nasab Quraisy, hlm. 200"],
+    "quote": ["لو كان مطعم بن عدى حيا لوهبت له هؤلاء النتنى", "لو كان المطعم بن عدي فئة لهؤلاء النتنى يعني أسارى بدر، لوهبتهم له"],
+    "status": "rewritten"}
+}

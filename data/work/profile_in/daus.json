@@ -1,0 +1,29 @@
+{
+ "id": "daus",
+ "name": "Daus",
+ "ar": "دوس",
+ "group": "arab",
+ "umum": {
+  "nama_arti": "Nama diambil dari leluhur eponim, Daus bin Udtsan; tidak ada makna khusus yang disepakati secara luas selain sebagai nama diri.",
+  "titik_temu": "Daus adalah cabang al-Azd (Qahthan) melalui jalur Zahran; bertemu dengan kabilah-kabilah Azd lain pada leluhur bersama al-Azd bin al-Ghauts.",
+  "wilayah": "Mendiami pegunungan as-Sarah di Yaman dekat Tihamah; sebagian kemudian menyebar ke Oman dan Bashrah.",
+  "peran_sosial": "Dikenal lewat delegasi ath-Thufail bin Amr ad-Dausi yang membawa kaumnya memeluk Islam setelah sempat menolak di awal dakwah; melahirkan sejumlah sahabat.",
+  "dinamika": "Setelah masuk Islam, sebagian keturunan Daus menetap di Bashrah dan berperan dalam periwayatan hadis serta kehidupan ilmiah di sana."
+ },
+ "already_cited": {
+  "leluhur": {
+   "t": "Daus bin Udtsan bin Abdullah bin Zahran bin Ka'b.",
+   "src": [
+    "Jamharat Ansab al-'Arab, hlm. 379"
+   ]
+  },
+  "struktur": {
+   "t": "Dua anak Daus: Minhab (di as-Sarah) dan Ghanm. Dari Ghanm lahir Fahm, yang berketurunan Malik (banyak di Oman), Sulaim, dan Tharif (di Hijaz); dari Sulaim bin Fahm lahir marga Tsa'labah.",
+   "src": [
+    "Jamharat Ansab al-'Arab, hlm. 379",
+    "Jamharat Ansab al-'Arab, hlm. 381"
+   ]
+  }
+ },
+ "roles_umum": []
+}

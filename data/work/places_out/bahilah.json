@@ -1,0 +1,123 @@
+{
+  "id": "bahilah",
+  "places": [
+    {
+      "t": "Jabal Yadzbul",
+      "ar": "يذبل",
+      "kind": "gunung",
+      "note": "Gunung terkenal di Najd; menurut Abu Ziyad gunung milik Bahilah",
+      "src": [
+        "Mu'jam al-Buldan 5/433"
+      ],
+      "quote": [
+        "هو جبل مشهور الذكر بنجد في طريقها، قال أبو زياد: يذبل جبل لباهلة"
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "t": "Jabal Syammam",
+      "ar": "شمام",
+      "kind": "gunung",
+      "note": "Gunung milik Bahilah, berpuncak dua yang disebut Ibna Syammam",
+      "src": [
+        "Mu'jam al-Buldan 3/361"
+      ],
+      "quote": [
+        "وهو اسم جبل لباهلة"
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "t": "Muraifiq (Sawad Bahilah, al-Yamamah)",
+      "ar": "مريفق",
+      "kind": "desa",
+      "note": "Desa di Sawad Bahilah di tanah al-Yamamah",
+      "src": [
+        "Mu'jam al-Buldan 5/118"
+      ],
+      "quote": [
+        "اسم قرية في سواد باهلة من أرض اليمامة"
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "t": "al-'Aqqar",
+      "ar": "العقار",
+      "kind": "daerah",
+      "note": "Tempat di diyar Bahilah di sekitar al-Yamamah",
+      "src": [
+        "Mu'jam al-Buldan 4/133"
+      ],
+      "quote": [
+        "العقار موضع في ديار باهلة بأكناف اليمامة"
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "t": "al-Hufair (dekat Bashrah)",
+      "ar": "الحفير",
+      "kind": "mata air",
+      "note": "Mata air milik Bahilah, empat mil dari Bashrah; titik keluar jamaah haji dari Bashrah",
+      "src": [
+        "Mu'jam al-Buldan 2/277"
+      ],
+      "quote": [
+        "والحفير أيضا: ماء لباهلة، بينه وبين البصرة أربعة أميال"
+      ],
+      "qid": "Q48195",
+      "lat": 30.515,
+      "lon": 47.81,
+      "precision": "perkiraan",
+      "near": "Bashrah"
+    },
+    {
+      "t": "Tsajr",
+      "ar": "ثجر",
+      "kind": "mata air",
+      "note": "Mata air di diyar Bahilah, di belakang Tabalah, di jalur Yaman dari Makkah",
+      "src": [
+        "Mu'jam ma Ista'jam 4/1292"
+      ],
+      "quote": [
+        "ثجر: ماء فى ديار باهلة، وهو بظهر تبالة، على محجة اليمن"
+      ],
+      "qid": "Q12202068",
+      "lat": 19.9978,
+      "lon": 42.2297,
+      "precision": "perkiraan",
+      "near": "Tabalah"
+    },
+    {
+      "t": "Jabal Badr dan Armam",
+      "ar": "بدر وأرمام",
+      "kind": "gunung",
+      "note": "Badr: gunung di negeri Bahilah bin A'shur; di sana pula Gunung Armam",
+      "src": [
+        "Mu'jam al-Buldan 1/358"
+      ],
+      "quote": [
+        "وبدر: جبل في بلاد باهلة بن أعصر، وهناك أرمام الجبل المعروف"
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "t": "'Ausajah (tambang perak)",
+      "ar": "عوسجة",
+      "kind": "daerah",
+      "note": "Salah satu tambang perak di negeri Bahilah",
+      "src": [
+        "Mu'jam al-Buldan 4/168"
+      ],
+      "quote": [
+        "في بلاد باهلة من معادن الفضة يقال لها عوسجة"
+      ],
+      "lat": null,
+      "lon": null
+    }
+  ]
+}

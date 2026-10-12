@@ -1,36 +1,96 @@
 {
-  "id": "bahilah",
-  "lokasi": {"t": "Najd", "status": "umum"},
-  "militer": [
-    {"t": "Salman bin Rabi'ah al-Bahili memimpin pasukan ke Armenia dan gugur syahid di Balanjar pada masa 'Utsman",
-     "src": ["Tarikh ath-Thabari 4/247", "Ibnu Sa'd 6/131"],
-     "quote": ["بعث سلمان بن رَبِيعَة الباهلي إِلَى أرمينية فِي اثني عشر ألفا", "وغزا سلمان بن ربيعة بلنجر في خلافة عثمان بن عفان فقتل بها شهيدا"],
-     "status": "rewritten"},
-    {"t": "Qutaibah bin Muslim al-Bahili, penguasa Khurasan, menaklukkan Samarkand sepulang dari Khwarizm",
-     "src": ["Jamharat Ansab al-'Arab, hlm. 246", "Tarikh ath-Thabari 6/472"],
-     "quote": ["صاحب خراسان، ذو الآثار المشهورة، قتيبة بن مسلم", "غزا قتيبة بن مسلم منصرفه من خوارزم سمرقند، فافتتحها"],
-     "status": "rewritten"}
+ "id": "bahilah",
+ "lokasi": {
+  "t": "Bilad Bahilah (gunung Armam), berbatasan dengan al-Yamamah; juga mata air al-Hufair dekat Bashrah",
+  "src": [
+   "Mu'jam al-Buldan 1/154",
+   "Mu'jam al-Buldan 2/210",
+   "Mu'jam al-Buldan 2/277"
   ],
-  "diplomasi": [],
-  "ekonomi": [
-    {"t": "Salman bin Rabi'ah mengurus pembagian ghanimah Jalula, hingga dijuluki \"Salman al-Khail\"",
-     "src": ["Tarikh ath-Thabari 4/29"],
-     "quote": ["وولي قسم ذلك بين المسلمين سلمان بْن ربيعة"],
-     "status": "new"}
+  "quote": [
+   "أَرْمامٌ: اسم جبل في ديار باهلة بن أعصر",
+   "حائل موضع بين أرض اليمامة وبلاد باهلة",
+   "والحفير أيضا: ماء لباهلة، بينه وبين البصرة أربعة أميال"
   ],
-  "sosial": [
-    {"t": "Abu Umamah al-Bahili (Shudai bin 'Ajlan), sahabat yang banyak meriwayatkan hadits, menetap dan wafat di Hims, Syam",
-     "src": ["Usdul Ghabah 6/14"],
-     "quote": ["فسكن حمص من الشام، ومات بها، وكان من المكثرين في الرواية"],
-     "status": "rewritten"},
-    {"t": "Salman bin Rabi'ah diangkat 'Umar sebagai qadhi Kufah",
-     "src": ["Ibnu Sa'd 6/131"],
-     "quote": ["روى عن عمر بن الخطاب وولاه قضاء الكوفة"],
-     "status": "new"},
-    {"t": "Ahli bahasa al-Ashma'i berasal dari Bahilah (Bani Qutaibah bin Ma'n)",
-     "src": ["Jamharat Ansab al-'Arab, hlm. 245"],
-     "quote": ["ومنهم: الأصمعي العالم، هو عبد الملك بن قريب"],
-     "status": "new"}
-  ],
-  "dropped": []
+  "status": "rewritten"
+ },
+ "militer": [],
+ "diplomasi": [
+  {
+   "t": "Delegasi Bahilah datang setelah Fathu Makkah: Mutharrif bin al-Kahin masuk Islam dan meminta jaminan aman bagi kaumnya, lalu Nahsyal bin Malik al-Wa'ili datang mewakili kaumnya",
+   "src": [
+    "Ibnu Sa'd 1/307",
+    "Ibnu Sa'd 1/307"
+   ],
+   "quote": [
+    "مطرف بن الكاهن الباهلي بعد الفتح وافدًا لقومه فأسلم وأخذ لقومه أمانًا",
+    "ثم قدم نهشل بن مالك الوائلي من باهلة على رسول الله، ﷺ، وافدًا لقومه فأسلم"
+   ],
+   "status": "new"
+  },
+  {
+   "t": "Surat Nabi ﷺ bagi Bani Wa'il dari Bahilah yang masuk Islam: mereka tidak dikerahkan (hasyr) dan tidak dipungut 'usyr, dan petugas zakatnya dari kalangan mereka sendiri",
+   "src": [
+    "Ibnu Sa'd 1/284"
+   ],
+   "quote": [
+    "وأن لهم أن لا يحشروا ولا يعشروا وعاملهم من أنفسهم"
+   ],
+   "status": "new"
+  }
+ ],
+ "ekonomi": [
+  {
+   "t": "Surat Nabi ﷺ bagi Bahilah penduduk Bisyah: siapa yang menghidupkan tanah mati menjadi pemiliknya; zakat ternak diatur per jumlah sapi, kambing, dan unta, dan hanya dipungut di padang gembalaan mereka",
+   "src": [
+    "Ibnu Sa'd 1/284",
+    "Ibnu Sa'd 1/284"
+   ],
+   "quote": [
+    "ولمن سكن بيشة من باهلة أن من أحيا أرضًا مواتًا بيضاء فيها مناخ الأنعام ومراح فهي له",
+    "وليس للمصدق أن يصدقها إلا في مراعيها"
+   ],
+   "status": "new"
+  }
+ ],
+ "sosial": [
+  {
+   "t": "Pada masa jahiliah Bahilah, bersama Ghani, ikut menyembah al-'Uzza di Nakhlah, berhala Ghathafan",
+   "src": [
+    "al-Muhabbar, hlm. 315",
+    "al-Muhabbar, hlm. 315"
+   ],
+   "quote": [
+    "وكانت العزي شجرة بنخلة عندها وثن تعبدها غطفان",
+    "وكانت غني وباهلة تعبدها معهم"
+   ],
+   "status": "new"
+  }
+ ],
+ "dropped": [
+  {
+   "t": "Salman bin Rabi'ah al-Bahili memimpin pasukan ke Armenia dan gugur syahid di Balanjar pada masa 'Utsman",
+   "reason": "moved to biography of n2507 (gugur di Balanjar; kepemimpinan ke Armenia sudah ada di biografi)"
+  },
+  {
+   "t": "Qutaibah bin Muslim al-Bahili, penguasa Khurasan, menaklukkan Samarkand sepulang dari Khwarizm",
+   "reason": "Perbuatan perorangan (Qutaibah bin Muslim), bukan peran kabilah; tokoh tidak ada di dataset"
+  },
+  {
+   "t": "Salman bin Rabi'ah mengurus pembagian ghanimah Jalula, hingga dijuluki \"Salman al-Khail\"",
+   "reason": "moved to biography of n2507"
+  },
+  {
+   "t": "Abu Umamah al-Bahili (Shudai bin 'Ajlan), sahabat yang banyak meriwayatkan hadits, menetap dan wafat di Hims, Syam",
+   "reason": "moved to biography of n2895 (Hims sudah ada di biografi)"
+  },
+  {
+   "t": "Salman bin Rabi'ah diangkat 'Umar sebagai qadhi Kufah",
+   "reason": "already in biography of n2507"
+  },
+  {
+   "t": "Ahli bahasa al-Ashma'i berasal dari Bahilah (Bani Qutaibah bin Ma'n)",
+   "reason": "Tokoh perorangan (al-Ashma'i) yang tidak ada di dataset; bukan peran kabilah"
+  }
+ ]
 }

@@ -1,0 +1,28 @@
+{
+ "id": "asad",
+ "name": "Bani Asad (Quraisy)",
+ "ar": "بنو أسد بن عبد العزى",
+ "group": "quraisy",
+ "umum": {
+  "nama_arti": "Nama diambil dari leluhur eponim, Asad bin Abdul 'Uzza; berarti \"singa\".",
+  "titik_temu": "Termasuk Quraisy al-Bithah; bertemu dengan Bani Abdu Manaf (Hasyim, al-Muththalib, Umayyah, Naufal) pada Qushay bin Kilab; dengan seluruh Quraisy pada Fihr bin Malik.",
+  "wilayah": "Makkah.",
+  "peran_sosial": "Klan Khadijah binti Khuwailid, istri pertama Nabi ﷺ; melahirkan sejumlah sahabat awal termasuk az-Zubair bin al-'Awwam.",
+  "dinamika": "Pernikahan Khadijah dengan Nabi ﷺ dan dukungan keluarganya menjadi penopang penting dakwah awal Islam di Makkah."
+ },
+ "already_cited": {
+  "leluhur": {
+   "t": "Asad bin Abdul 'Uzza bin Qushay bin Kilab.",
+   "src": [
+    "Jamharat Ansab al-'Arab, hlm. 117"
+   ]
+  },
+  "struktur": {
+   "t": "Dari Asad lahir cabang al-Harits, Hubaib, al-Muththalib, al-Huwairits, dan Khuwailid; Khuwailid bin Asad langsung adalah ayah Khadijah binti Khuwailid dan kakek az-Zubair bin al-'Awwam (lewat anaknya, al-'Awwam).",
+   "src": [
+    "Jamharat Ansab al-'Arab, hlm. 117"
+   ]
+  }
+ },
+ "roles_umum": []
+}

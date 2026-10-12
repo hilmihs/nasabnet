@@ -1,0 +1,17 @@
+{
+ "id": "persia",
+ "name": "Persia",
+ "ar": "فارس",
+ "group": "ajam",
+ "umum": {
+  "nama_arti": "'Persia' (Faris) merujuk pada asal etnis dari wilayah Kekaisaran Persia (Sasaniyah), bukan nama kabilah Arab; kelompok ini terdiri atas sahabat-sahabat keturunan Persia.",
+  "wilayah": "Berasal dari wilayah Persia (Kekaisaran Sasaniyah); sebagian menetap di Madinah sebagai mawali setelah masuk Islam.",
+  "peran_sosial": "Tokoh paling terkenal, Salman al-Farisi, berperan penting dalam Perang Khandaq dengan mengusulkan strategi parit; kelompok sahabat keturunan Persia umumnya berstatus mawali (klien) dari kabilah Arab tertentu.",
+  "hilf": "Salman al-Farisi dan sejumlah mawla Persia terikat hubungan wala' (perwalian) dengan tuan/sekutu Arab mereka sebelum dan setelah memeluk Islam, karena sebelumnya berstatus budak.",
+  "dinamika": "Kehadiran mawali keturunan Persia seperti Salman al-Farisi menandai keterbukaan awal komunitas Muslim terhadap latar belakang etnis non-Arab."
+ },
+ "already_cited": {},
+ "roles_umum": [
+  "lokasi"
+ ]
+}

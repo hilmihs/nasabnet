@@ -1,0 +1,23 @@
+{
+  "id": "rum",
+  "nama_arti": {"t": "'Rum' adalah bangsa Romawi yang menempati negeri luas yang disebut Bilad ar-Rum, dengan pusat Konstantinopel; nasab mereka diperselisihkan: keturunan al-'Ish bin Ishaq, atau keturunan Rumi bin Bizanthi bin Yunan bin Yafits. 'Qibthi' adalah penduduk asli Mesir. Keduanya bukan kabilah Arab, melainkan latar etnis sahabat yang bersangkutan.",
+    "src": ["Mu'jam al-Buldan 3/97", "Mu'jam al-Buldan 3/97", "Mu'jam al-Buldan 3/97", "Mu'jam al-Buldan 4/263"],
+    "quote": ["الرُّومُ: جيل معروف في بلاد واسعة تضاف إليهم فيقال بلاد الروم", "فولد العيص روم القسطنطينية وملوك الروم", "فأمّا الذين هم الروم فهم بنو رومي ابن بزنطي بن يونان بن يافث", "فرض على جميع من بمصر أعلاها وأسفلها من القبط ديناران"],
+    "status": "rewritten"},
+  "wilayah": {"t": "Negeri Romawi berpusat di Konstantinopel dan meliputi Syam (Qaishar berada di Hims saat surat Nabi ﷺ tiba); Qibthi dari Mesir (Mariyah berasal dari Hafn, distrik Anshina). Shuhaib ditawan Romawi semasa kecil dari kampungnya dekat Mosul, lalu dibeli orang Kalb dan dibawa ke Makkah.",
+    "src": ["Ibnu Sa'd 1/259", "Ibnu Sa'd 1/259", "Ibnu Sa'd 8/214", "Ibnu Sa'd 3/226", "Ibnu Sa'd 3/226"],
+    "quote": ["أن يمشي حافيًا من قسطنطينية إلى إيلياء", "فدفعه عظيم بصرى إليه وهو يومئذ بحمص", "وكانت مارية من حفن من كورة أنصا أو أنصنا", "فأغارت الروم على تلك الناحية فسبت صهيبا وهو غلام صغير", "فابتاعته كلب منهم ثم قدمت به مكة فاشتراه عبد الله بن جدعان التيمي منهم فأعتقه"],
+    "status": "rewritten"},
+  "peran_sosial": {"t": "Shuhaib \"ar-Rumi\" (menyatakan dirinya Arab dari an-Namir bin Qasith yang tertawan Romawi) masuk Islam di Dar al-Arqam, termasuk kaum lemah yang disiksa di Makkah, gemar memberi makan, dan disebut Nabi ﷺ \"pendahulu Romawi\" (sabiq ar-Rum); Mariyah al-Qibthiyyah, hadiah al-Muqauqis, menjadi ibu Ibrahim putra Nabi ﷺ.",
+    "src": ["Ibnu Sa'd 3/227", "Ibnu Sa'd 3/227", "Ibnu Sa'd 3/227", "Ibnu Sa'd 3/227", "Ibnu Sa'd 3/226", "Ibnu Sa'd 8/214"],
+    "quote": ["إني رجل من النمر بن قاسط من أهل الموصل ولكن سبيت", "فكان إسلام عمار وصهيب بعد بضعة وثلاثين رجلا", "كان صهيب بن سنان من المستضعفين من المؤمنين الذين كانوا يعذبون في الله بمكة", "فذلك الذي يحملني على أن أطعم الطعام", "قال رسول الله، ﷺ: صهيب سابق الروم", "كانت مارية أم إبراهيم أهداها المقوقس وأختها سيرين إلى النبي"],
+    "status": "rewritten"},
+  "hilf": {"t": "Shuhaib dibeli lalu dimerdekakan Abdullah bin Jud'an at-Taimi di Makkah; menurut keluarganya, ia lari dari Romawi lalu menjadi sekutu (halif) Ibnu Jud'an. Menurut riwayat Ibnu 'Abbas, setelah Mariyah melahirkan Ibrahim Nabi ﷺ bersabda: \"Anaknya telah memerdekakannya.\"",
+    "src": ["Ibnu Sa'd 3/226", "Ibnu Sa'd 3/226", "Ibnu Sa'd 8/215"],
+    "quote": ["فابتاعته كلب منهم ثم قدمت به مكة فاشتراه عبد الله بن جدعان التيمي منهم فأعتقه", "بل هرب من الروم حين بلغ وعقل فقدم مكة فحالف عبد الله بن جدعان", "لما ولدت أم إبراهيم قال: رسول الله، ﷺ: أعتقها ولدها"],
+    "status": "rewritten"},
+  "dinamika": {"t": "Nabi ﷺ mengirim surat kepada Qaishar, raja Romawi, melalui Dihyah al-Kalbi, dan kepada al-Muqauqis, penguasa Iskandariyah, melalui Hathib bin Abi Balta'ah; al-Muqauqis lalu menghadiahkan Mariyah. Nabi ﷺ berpesan agar berbuat baik kepada kaum Qibthi karena mereka memiliki dzimmah dan hubungan rahim: ibu Isma'il dan ibu Ibrahim putra Nabi ﷺ berasal dari mereka.",
+    "src": ["Sirah Ibnu Hisyam 2/607", "Sirah Ibnu Hisyam 2/607", "Ibnu Sa'd 8/214", "Ibnu Sa'd 8/214"],
+    "quote": ["فَبَعَثَ دِحْيَةَ بْنَ خَلِيفَةَ الْكَلْبِيَّ إلَى قَيْصَرَ، مَلِكِ الرُّومِ", "وَبَعَثَ حَاطِبَ بْنَ أَبِي بَلْتَعَةَ إلَى الْمُقَوْقَسِ، مَلِكِ الْإِسْكَنْدَرِيَّةِ", "استوصوا بالقبط خيرا فإن لهم ذمة ورحما", "ورحمهم أن أم إسماعيل ابن إبراهيم منهم وأم إبراهيم بن النبي"],
+    "status": "rewritten"}
+}

@@ -1,0 +1,30 @@
+{
+ "id": "dhabbah",
+ "name": "Dhabbah",
+ "ar": "ضبة",
+ "group": "arab",
+ "umum": {
+  "nama_arti": "Nama Dhabbah diambil dari kata 'dhabb' (sejenis kadal gurun), mengikuti tradisi penamaan kabilah Arab kuno dengan nama hewan.",
+  "titik_temu": "Dhabbah termasuk rumpun Mudhar (dikenal pula sebagai bagian dari ar-Rabab bersama Taim, 'Adi, 'Ukl, dan Qais bin Tsa'labah); bertemu dengan Quraisy dan Kinanah pada Mudhar bin Nizar.",
+  "wilayah": "Mendiami wilayah Najd tengah; bergabung dengan kabilah-kabilah lain membentuk konfederasi ar-Rabab.",
+  "peran_sosial": "Tokohnya, Dharar bin 'Amr, dikenal sebagai pemimpin Bani Dhabbah yang gagah pada masa jahiliah; keturunan Dhabbah kemudian berperan dalam Perang Jamal di pihak Aisyah.",
+  "dinamika": "Sejumlah anggota Bani Dhabbah gugur di Perang Jamal membela Ummul Mukminin Aisyah."
+ },
+ "already_cited": {
+  "leluhur": {
+   "t": "Dhabbah bin Udd.",
+   "src": [
+    "Jamharat Ansab al-'Arab, hlm. 203"
+   ]
+  },
+  "struktur": {
+   "t": "Dari Dhabbah lahir tiga anak: Sa'd, Sa'id, dan Basil; dari Sa'd (berketurunan luas) lahir marga Bani Dharar dan jalur hakim Kufah Ibnu Syubrumah; Sa'id tidak berketurunan, dan dari Basil konon berasal suku Daylam.",
+   "src": [
+    "Jamharat Ansab al-'Arab, hlm. 203"
+   ]
+  }
+ },
+ "roles_umum": [
+  "lokasi"
+ ]
+}

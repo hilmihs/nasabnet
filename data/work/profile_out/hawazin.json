@@ -1,0 +1,28 @@
+{
+  "id": "hawazin",
+  "nama_arti": {
+    "t": "Nama diambil dari leluhur eponim Hawazin bin Manshur; menurut Ibnu Duraid, hawazin adalah bentuk jamak dari hauzan, sejenis burung.",
+    "src": ["Jamharat Ansab al-'Arab, hlm. 264", "al-Isytiqaq, hlm. 291"],
+    "quote": ["وهؤلاء بنو هوازن بن منصور بن عكرمة بن خصفة بن قيس عيلان", "وهَوازِنُ: جمع هَوْزن، وهو ضربٌ من الطّير"],
+    "status": "rewritten"
+  },
+  "wilayah": {
+    "t": "Negeri Hawazin berada di sisi Najd dari pegunungan (as-Sarah) Tha'if, meliputi 'Ukazh dan al-'Abr; lembah Authas termasuk negeri mereka. Kaumnya termasuk Bani 'Amir bin Sha'sha'ah, Bani Hilal bin 'Amir, dan Bani Sa'd bin Bakr.",
+    "src": ["Shifat Jazirat al-'Arab, hlm. 71", "Mu'jam al-Buldan 1/281", "Jamharat Ansab al-'Arab, hlm. 272", "Jamharat Ansab al-'Arab, hlm. 273", "al-Isytiqaq, hlm. 291"],
+    "quote": ["ثم سراة الطائف غورها مكة ونجدها ديار هوازن من عكاظ والعبر", "وأوطاس: واد في ديار هوازن فيه كانت وقعة حنين", "وهؤلاء بنو عامر بن صعصعة بن معاوية بن بكر بن هوازن", "وهؤلاء بنو هلال بن عامر بن صعصعة بن معاوية بن بكر بن هوازن", "فمنهم بنو سعد بن بكر بن هَوازِن"],
+    "status": "rewritten"
+  },
+  "peran_sosial": {
+    "t": "Dikenal lewat Perang Hunain melawan kaum Muslimin pasca Fathu Makkah, serta hubungan Nabi ﷺ dengan Bani Sa'd bin Bakr, tempat beliau disusui oleh Halimah as-Sa'diyah.",
+    "src": ["Sirah Ibnu Hisyam 2/437", "al-Isytiqaq, hlm. 291", "Sirah Ibnu Hisyam 1/160"],
+    "quote": ["وَلَمَّا سَمِعَتْ هَوَازِنُ بِرَسُولِ اللَّهِ ﷺ وَمَا فَتَحَ اللَّهُ عَلَيْهِ مِنْ مَكَّةَ", "فمنهم بنو سعد بن بكر بن هَوازِن، استُرضِعَ النبيُّ ﷺ فيهم", "امْرَأَةً مِنْ بَنِي سَعْدِ بْنِ بَكْرٍ، يُقَالُ لَهَا: حَلِيمَةُ ابْنَةُ أَبِي ذُؤَيْبٍ"],
+    "status": "ok"
+  },
+  "dinamika": {
+    "t": "Setelah kekalahan di Hunain, utusan Hawazin yang telah masuk Islam menemui Nabi ﷺ di al-Ji'ranah; enam ribu tawanan anak-anak dan perempuan mereka dikembalikan oleh Nabi ﷺ, kaum Muhajirin, dan Anshar.",
+    "src": ["Sirah Ibnu Hisyam 2/488", "Sirah Ibnu Hisyam 2/488", "Ibnu Sa'd 1/115"],
+    "quote": ["أَنَّ وَفْدَ هَوَازِنَ أَتَوْا رَسُولَ اللَّهِ ﷺ وَقَدْ أَسْلَمُوا", "مِنْ سَبْيِ هَوَازِنَ سِتَّةُ آلَافٍ مِنْ الذَّرَارِيِّ وَالنِّسَاءِ", "فرد عليهم رسول الله، ﷺ، ما كان له ولبني عبد المطلب، ورد المهاجرون ورد الأنصار"],
+    "status": "rewritten"
+  },
+  "dropped": []
+}

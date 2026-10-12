@@ -1,0 +1,36 @@
+{
+  "id": "quraisy",
+  "nama_arti": {
+    "t": "Asal-usul nama \"Quraisy\" tidak disepakati: menurut Ibnu Hisyam dari at-taqarrusy dalam arti berdagang dan mencari penghasilan; menurut Ibnu Ishaq dari at-taqarrusy dalam arti berkumpul setelah tercerai-berai. Sebagian menyebut Fihr bin Malik sendiri sebagai \"Quraisy\".",
+    "src": ["Sirah Ibnu Hisyam 1/93", "Sirah Ibnu Hisyam 1/94", "Sirah Ibnu Hisyam 1/93"],
+    "quote": [
+      "وَإِنَّمَا سُمِّيَتْ قُرَيْشٌ قُرَيْشًا مِنْ التَّقَرُّشِ، وَالتَّقَرُّشُ: التِّجَارَةُ وَالِاكْتِسَابُ",
+      "إنَّمَا سُمِّيَتْ قُرَيْشٌ قُرَيْشًا لِتَجَمُّعِهَا مِنْ بَعْدِ تَفَرُّقِهَا",
+      "وَيُقَالُ: فِهْرُ بْنُ مَالِكٍ: قُرَيْشٌ، فَمَنْ كَانَ مِنْ وَلَدِهِ فَهُوَ قُرَشِيٌّ"
+    ],
+    "status": "rewritten"
+  },
+  "wilayah": {
+    "t": "Makkah; Qushay bin Kilab menghimpun kaumnya dari tempat tinggal mereka ke Makkah dan membagi Makkah menjadi empat bagian di antara kabilah-kabilah Quraisy.",
+    "src": ["Tarikh ath-Thabari 2/258", "Tarikh ath-Thabari 2/258"],
+    "quote": [
+      "فولي قصي البيت وأمر مكة وجمع قومه من منازلهم إلى مكة",
+      "وقطع مكة أرباعا بين قومه، فأنزل كل قوم من قريش منازلهم من مكة"
+    ],
+    "status": "rewritten"
+  },
+  "peran_sosial": {
+    "t": "Sejak Qushay memegang jabatan-jabatan Ka'bah (hijabah, siqayah, rifadah, nadwah, liwa'); pelaku dua perjalanan dagang tahunan ke Yaman/Habasyah dan Syam; suku Nabi ﷺ.",
+    "src": ["Tarikh ath-Thabari 2/258", "Ibnu Sa'd 1/75", "Ibnu Sa'd 1/20"],
+    "quote": [
+      "فكانت إليه الحجابة والسقاية والرفادة والندوة واللواء، فحاز شرف مكة كله",
+      "وكان أول من سن الرحلتين لقريش، ترحل إحداهما في الشتاء إلى اليمن",
+      "واصطفى من بني كنانة قريشا واصطفى من قريش بني هاشم واصطفاني من بني هاشم"
+    ],
+    "status": "rewritten"
+  },
+  "dinamika": {
+    "t": "Karena kutipan Jamharah untuk entri ini tidak merinci klan spesifik anggota yang terdaftar, mereka dicatat sebagai Quraisy secara umum tanpa afiliasi bathn yang diketahui dalam data ini.",
+    "status": "umum"
+  }
+}

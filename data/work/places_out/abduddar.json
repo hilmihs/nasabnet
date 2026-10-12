@@ -1,0 +1,65 @@
+{
+ "id": "abduddar",
+ "places": [
+  {
+   "t": "al-Abthah, Makkah",
+   "ar": "الأبطح",
+   "kind": "lembah",
+   "note": "Qushay memasukkan seluruh puak Quraisy ke al-Abthah sehingga disebut Quraisy al-Bithah; Bani Abdid-Dar termasuk Quraisy al-Bithah",
+   "src": [
+    "Ibnu Sa'd 1/71",
+    "al-Muhabbar, hlm. 167"
+   ],
+   "quote": [
+    "وأدخل قصي بطون قريش كلها الأبطح فسموا قريش البطاح",
+    "قبائل قريش البطاح بنو عبد مناف. وبنو عبد الدار"
+   ],
+   "qid": "Q5806",
+   "lat": 21.4225,
+   "lon": 39.8261,
+   "precision": "perkiraan",
+   "near": "Makkah"
+  },
+  {
+   "t": "Dar an-Nadwah",
+   "ar": "دار الندوة",
+   "kind": "distrik",
+   "note": "Balai musyawarah Quraisy di Makkah yang dibangun Qushay, lalu diberikan kepada Abdud-Dar; tetap di tangan Bani Abdid-Dar hingga dijual 'Ikrimah bin 'Amir kepada Mu'awiyah; kini bagian dari Masjidil Haram",
+   "src": [
+    "Mu'jam al-Buldan 2/423",
+    "Ibnu Sa'd 1/77",
+    "Mu'jam al-Buldan 5/279"
+   ],
+   "quote": [
+    "وجعلها بعد وفاته لابنه عبد الدار بن قصي",
+    "فلم تزل دار الندوة في يدي بني عبد الدار حتى باعها عكرمة",
+    "ودار الندوة: هي من المسجد الحرام"
+   ],
+   "qid": "Q428858",
+   "lat": 21.4225,
+   "lon": 39.8261,
+   "precision": "perkiraan",
+   "near": "Masjidil Haram"
+  },
+  {
+   "t": "Ka'bah (hijabah)",
+   "ar": "الكعبة",
+   "kind": "distrik",
+   "note": "Hijabah (penjagaan Ka'bah), liwa' dan nadwah tetap milik Bani Abdid-Dar setelah perdamaian dengan Bani Abdu Manaf; saat Fathu Makkah Nabi ﷺ mengambil kunci Ka'bah dari Utsman bin Thalhah lalu mengembalikannya",
+   "src": [
+    "Sirah Ibnu Hisyam 1/132",
+    "Sirah Ibnu Hisyam 2/411",
+    "Sirah Ibnu Hisyam 2/412"
+   ],
+   "quote": [
+    "وأن تكون الحجابة واللواء والندوة لبني عبد الدار كما كانت",
+    "دعا عثمان بن طلحة، فأخذ منه مفتاح الكعبة",
+    "هاك مفتاحك يا عثمان، اليوم يوم بر ووفاء"
+   ],
+   "qid": "Q29466",
+   "lat": 21.4225,
+   "lon": 39.8262,
+   "precision": "tepat"
+  }
+ ]
+}

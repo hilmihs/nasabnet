@@ -1,0 +1,82 @@
+{
+  "id": "kindah",
+  "nama_arti": {
+    "t": "Nama diambil dari leluhur eponim, Kindah, yaitu Tsaur bin 'Ufair. Menurut Ibnu Duraid, \"kindah\" berasal dari kanada ni'matallah (mengingkari nikmat Allah); al-Qalqasyandi menukil bahwa ia dinamai demikian karena mengingkari nikmat ayahnya.",
+    "src": [
+      "Jamharat Ansab al-'Arab, hlm. 425",
+      "al-Isytiqaq, hlm. 362",
+      "Nihayat al-Arab al-Qalqasyandi, hlm. 409"
+    ],
+    "quote": [
+      "ولد عفير بن عدىّ بن الحارث: ثور بن عفير، وهو كندة",
+      "وكِنْدة من قولهم: كَندَ نِعمةَ الله ﷿، أي كفَرها",
+      "وإنما سمي كندة لأنه كند أباه، أي كفر نعمه"
+    ],
+    "status": "rewritten"
+  },
+  "titik_temu": {
+    "t": "Kindah termasuk kabilah Zaid bin Kahlan (Qahthan); bertemu dengan Judzam dan Lakhm pada 'Adi bin al-Harits, ayah 'Ufair (ayah Kindah). Negeri Kindah di Yaman, dan mereka pernah memiliki kerajaan di Hijaz dan Yaman.",
+    "src": [
+      "al-Isytiqaq, hlm. 362",
+      "Jamharat Ansab al-'Arab, hlm. 419",
+      "Nihayat al-Arab al-Qalqasyandi, hlm. 409"
+    ],
+    "quote": [
+      "ومن قبائل زيد بن كهلان: كِنْدة، وهو كنديٌّ واسمُه ثَور",
+      "وعمرو بن عدىّ، وهو جذام؛ ومالك بن عدىّ؛ وهو لخم؛ وعفير بن عدىّ، وهو والد كندة",
+      "وبلاد كندة باليمن، وكان لكندة هؤلاء ملك بالحجاز واليمن"
+    ],
+    "status": "rewritten"
+  },
+  "wilayah": {
+    "t": "Hadhramaut; pada masa jahiliah mereka tinggal di al-Bahrain, al-Musyaqqar, dan Ghamr Dzi Kindah sebelum terusir ke Hadhramaut; Hujr al-Kindi bermukim di Najd. Raja-raja mereka disebut Bani Akil al-Murar.",
+    "src": [
+      "Shifat Jazirat al-'Arab, hlm. 88",
+      "Mu'jam al-Buldan 2/426",
+      "al-Isytiqaq, hlm. 22"
+    ],
+    "quote": [
+      "وفي حضرموت سكنت كندة بعد أن أجلت عن البحرين والمشِّقر وغمر ذي كندة",
+      "دارة جلجل من منازل حجر الكندي بنجد",
+      "وآكل المُرارِ لقبُ ملكٍ من مُلوك كِندة"
+    ],
+    "status": "rewritten"
+  },
+  "peran_sosial": {
+    "t": "Dikenal lewat al-Asy'ats bin Qais, yang datang kepada Nabi ﷺ memimpin delegasi Kindah lalu masuk Islam; setelah murtad dan menyerah, Abu Bakar menerima keislamannya kembali dan menikahkannya dengan Ummu Farwah binti Abi Quhafah. Cucunya, Abdurrahman bin Muhammad, memberontak terhadap Abdul Malik dan al-Hajjaj.",
+    "src": [
+      "Sirah Ibnu Hisyam 2/585",
+      "Tarikh ath-Thabari 3/339",
+      "Jamharat Ansab al-'Arab, hlm. 425"
+    ],
+    "quote": [
+      "وَقَدِمَ عَلَى رَسُولِ اللَّهِ ﷺ الْأَشْعَثُ بْنُ قَيْسٍ، فِي وَفْدِ كِنْدَةَ",
+      "فَإِنِّي قَدْ رَاجَعْتُ وَأَسْلَمْتُ فَقَالَ أَبُو بَكْرٍ: قَدْ فَعَلْتُ فَزَوَّجَهُ أُمَّ فَرْوَةَ",
+      "وابنه عبد الرحمن بن محمّد، القائم على عبد الملك والحجاج"
+    ],
+    "status": "rewritten"
+  },
+  "dinamika": {
+    "t": "Pasca wafat Nabi ﷺ, Kindah di bawah al-Asy'ats melawan pasukan Muslim di Hadhramaut, lalu berlindung di benteng an-Nujair hingga ditundukkan. Keturunan Kindah kemudian tersebar: anak-anak al-Asy'ats di Kufah, sebagian di Mesir dan Syam, dan Tujib (dari Kindah) di Andalusia.",
+    "src": [
+      "Tarikh ath-Thabari 3/335",
+      "Tarikh ath-Thabari 3/336",
+      "Jamharat Ansab al-'Arab, hlm. 426",
+      "Jamharat Ansab al-'Arab, hlm. 429",
+      "Jamharat Ansab al-'Arab, hlm. 430",
+      "Jamharat Ansab al-'Arab, hlm. 430",
+      "Shifat Jazirat al-'Arab, hlm. 88"
+    ],
+    "quote": [
+      "فنهد إلى كندة وعليهم الأشعث",
+      "وقد اجتمعت إليه كندة، فتحصنوا فيه",
+      "فافتدى بثلاثة آلاف بعير؛ وبنوه بالكوفة",
+      "له صحبة، يكنّى أبا نعيم؛ ولهم بمصر عقب",
+      "بن عقبة بن السّكون، كان شريفا بالشأم",
+      "ودار تجيب بالأندلس: سرقسطة، ودروقة، وقلعة أيوب",
+      "وتجيب من ولد الأشرس بن كندة"
+    ],
+    "status": "rewritten"
+  },
+  "dropped": []
+}

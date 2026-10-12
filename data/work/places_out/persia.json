@@ -1,0 +1,104 @@
+{
+  "id": "persia",
+  "places": [
+    {
+      "t": "Faris (Persis)",
+      "ar": "فارس",
+      "kind": "daerah",
+      "note": "Wilayah luas; batasnya dari arah Iraq Arrajan, dari arah Kirman as-Sirjan, di pesisir Sirāf, ke arah Sind Makran",
+      "src": [
+        "Mu'jam al-Buldan 4/226"
+      ],
+      "quote": [
+        "فارس: ولاية واسعة وإقليم فسيح، أول حدودها من جهة العراق أرجان"
+      ],
+      "qid": "Q1004666",
+      "lat": 29.625,
+      "lon": 52.5317,
+      "precision": "tepat"
+    },
+    {
+      "t": "al-Mada'in (Ctesiphon), Iwan Kisra",
+      "ar": "المدائن",
+      "kind": "kota",
+      "note": "Mada'in Kisra di Iraq; Iwan Kisra di sana termasuk bangunan teragung, dibangun beberapa raja",
+      "src": [
+        "Mu'jam al-Buldan 1/294"
+      ],
+      "quote": [
+        "وإيوان كسرى الذي بالمدائن، مدائن كسرى: زعموا أنه تعاون على بنائه عدة ملوك"
+      ],
+      "qid": "Q1378794",
+      "lat": 33.1,
+      "lon": 44.5833,
+      "precision": "tepat"
+    },
+    {
+      "t": "Jayy (Ashbahan)",
+      "ar": "جي",
+      "kind": "desa",
+      "note": "Desa asal Salman al-Farisi di Ashbahan; ayahnya dihqan di negerinya",
+      "src": [
+        "Ibnu Sa'd 7/318"
+      ],
+      "quote": [
+        "كنت رجلا من أهل أصبهان من أهل قرية يقال: لها جي"
+      ],
+      "qid": "R6556962",
+      "lat": 32.566,
+      "lon": 51.7912,
+      "precision": "tepat"
+    },
+    {
+      "t": "Ramhurmuz",
+      "ar": "رامهرمز",
+      "kind": "kota",
+      "note": "Riwayat lain: Salman al-Farisi berasal dari Ramhurmuz",
+      "src": [
+        "Ibnu Sa'd 7/318"
+      ],
+      "quote": [
+        "أتعلم مكان رامهرمز؟ قلت: نعم، قال: فإني من أهلها"
+      ],
+      "qid": "Q888697",
+      "lat": 31.28,
+      "lon": 49.6036,
+      "precision": "tepat"
+    },
+    {
+      "t": "Nahr al-Asawirah, Bashrah",
+      "ar": "نهر الأساورة",
+      "kind": "distrik",
+      "note": "Pasukan Asawirah Persia masuk Islam, bersekutu dengan Bani Tamim di Bashrah, diberi khiththah dan menggali sungai mereka",
+      "src": [
+        "Mu'jam al-Buldan 5/317"
+      ],
+      "quote": [
+        "فقيل بنو تميم فحالفوهم ثم خططت خططهم فنزلوها وحفروا نهرهم المعروف بنهر الأساورة"
+      ],
+      "qid": "Q48195",
+      "lat": 30.515,
+      "lon": 47.81,
+      "precision": "perkiraan",
+      "near": "Bashrah"
+    },
+    {
+      "t": "Shan'a (al-Abna')",
+      "ar": "صنعاء",
+      "kind": "kota",
+      "note": "Al-Abna', sisa pasukan Persia di Yaman; Abu Bakar memerintahkan Thahir bin Abi Halah turun ke Shan'a membantu al-Abna'",
+      "src": [
+        "Sirah Ibnu Hisyam 1/68",
+        "Tarikh ath-Thabari 3/328"
+      ],
+      "quote": [
+        "فمن بقية ذلك الجيش من الفرس الأبناء الذين باليمن اليوم",
+        "كتب إلى طاهر بن أبي هالة بالنزول إلى صنعاء وإعانة الأبناء"
+      ],
+      "qid": "Q2471",
+      "lat": 15.35,
+      "lon": 44.2,
+      "precision": "tepat"
+    }
+  ]
+}

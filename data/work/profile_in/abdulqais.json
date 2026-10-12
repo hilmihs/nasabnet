@@ -1,0 +1,30 @@
+{
+ "id": "abdulqais",
+ "name": "Abdul Qais",
+ "ar": "عبد القيس",
+ "group": "arab",
+ "umum": {
+  "nama_arti": "Nama Abdul Qais berarti 'hamba Qais', kemungkinan merujuk pada tokoh atau sesembahan bernama Qais pada masa jahiliah, meski detail pastinya tidak disepakati secara luas.",
+  "titik_temu": "Abdul Qais termasuk rumpun Rabi'ah (Adnan); bertemu dengan kabilah Rabi'ah lain seperti Bakr bin Wa'il pada leluhur bersama Asad bin Rabi'ah.",
+  "wilayah": "Mendiami wilayah Bahrain (pesisir timur Jazirah Arab) sejak masa pra-Islam; sebagian menetap pula di Bashrah pasca-Islam.",
+  "peran_sosial": "Dikenal sebagai salah satu kabilah pertama di kawasan timur Arab yang mengirim delegasi menerima Islam, dipimpin antara lain oleh al-Jarud bin Hanasy bin al-Mu'alla.",
+  "dinamika": "Keturunan al-Jarud tetap menjadi tokoh terpandang di Bashrah hingga masa Bani Umayyah dan Abbasiyah."
+ },
+ "already_cited": {
+  "leluhur": {
+   "t": "Abdul Qais bin Afsha bin Du'mi bin Jadilah bin Asad bin Rabi'ah bin Nizar.",
+   "src": [
+    "Jamharat Ansab al-'Arab, hlm. 295"
+   ]
+  },
+  "struktur": {
+   "t": "Dua kabilah utama: Syann dan Lakiz (anak Afsha); dari Lakiz lahir Wadi'ah, Shabah, dan Nukrah, dengan tokoh terkenal al-Jarud bin Hanasy bin al-Mu'alla dan keturunannya yang menjadi pemuka di Bashrah.",
+   "src": [
+    "Jamharat Ansab al-'Arab, hlm. 295"
+   ]
+  }
+ },
+ "roles_umum": [
+  "sosial[0]"
+ ]
+}

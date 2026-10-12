@@ -1,0 +1,75 @@
+{
+  "id": "aslam",
+  "nama_arti": {
+    "t": "Nama diambil dari leluhur eponim, Aslam bin Afsha.",
+    "src": [
+      "Jamharat Ansab al-'Arab, hlm. 240"
+    ],
+    "quote": [
+      "وهؤلاء بنو أسلم بن أفصى بن عامر ولد أسلم بن أفصى: سلامان"
+    ],
+    "status": "ok"
+  },
+  "titik_temu": {
+    "t": "Satu rumpun dengan Khuza'ah: Afsha bin 'Amir bin Qam'ah adalah saudara Luhayy (Rabi'ah) bin 'Amir, leluhur Khuza'ah; Aslam termasuk yang bergabung (takhazza'a) dengan Khuza'ah dan disebut \"saudara Khuza'ah\". Ibnu Sa'd menasabkan Afsha kepada Haritsah bin 'Amr.",
+    "src": [
+      "Jamharat Ansab al-'Arab, hlm. 240",
+      "Jamharat Ansab al-'Arab, hlm. 240",
+      "Jamharat Ansab al-'Arab, hlm. 240",
+      "al-Isytiqaq, hlm. 35",
+      "Ibnu Sa'd 4/241"
+    ],
+    "quote": [
+      "وهؤلاء بنو أفصى بن عامر بن قمعة بن الياس بن مضر وهو أخو لحىّ",
+      "مضى بنو عمرو بن عامر بن لحىّ، وهو ربيعة بن عامر بن قمعة",
+      "وهؤلاء الثلاثة ممّن تخزّع، فهم مع خزاعة",
+      "وسمَّوا أسلَمَ، وهو أبو قبيلةٍ عظيمة إخوةُ خُزاعة",
+      "وأسلم فيمن انخزع من بطون خزاعة هو وأخوه مالك وملكان ابنا أفصى بن حارثة"
+    ],
+    "status": "rewritten"
+  },
+  "wilayah": {
+    "t": "Hijaz antara Makkah dan Madinah: Jumdan (antara Qudaid dan 'Usfan), al-'Arj, dan Yain (sebarid dari Madinah) termasuk negeri Aslam; belakangan sebagian bermukim di Andalusia (Elche dan sekitarnya).",
+    "src": [
+      "Mu'jam ma Ista'jam 1/3",
+      "Mu'jam ma Ista'jam 3/931",
+      "Mu'jam al-Buldan 5/454",
+      "Jamharat Ansab al-'Arab, hlm. 240"
+    ],
+    "quote": [
+      "وهو جبل فى الحجاز بين قديد وعسفان، من منازل بنى أسلم",
+      "والعرج من بلاد أسلم",
+      "يين ناحية من أعراض المدينة على بريد منها وهي منازل أسلم",
+      "ودارهم بالأندلس: ألش وأعمالها وما حواليها"
+    ],
+    "status": "rewritten"
+  },
+  "peran_sosial": {
+    "t": "Banyak menyumbang sahabat Nabi ﷺ, antara lain Buraidah bin al-Hushaib dan Salamah bin al-Akwa'; dua bersaudara Malik dan an-Nu'man bin Khalaf menjadi pengintai Nabi ﷺ di Uhud dan gugur di sana.",
+    "src": [
+      "Jamharat Ansab al-'Arab, hlm. 240",
+      "Jamharat Ansab al-'Arab, hlm. 240",
+      "Jamharat Ansab al-'Arab, hlm. 240"
+    ],
+    "quote": [
+      "وبريدة بن الحصيب الأسلمىّ",
+      "وسلمة بن الأكوع، واسم الأكوع سنان",
+      "كانا طليعتين للنبىّﷺيوم أحد، قتلا فدفنا في قبر واحد"
+    ],
+    "status": "rewritten"
+  },
+  "dinamika": {
+    "t": "Nabi ﷺ mendoakan \"Aslam, salamahallah\" (semoga Allah menyelamatkan Aslam); Ma'iz bin Malik al-Aslami dirajam pada masa Nabi ﷺ, lalu beliau bersabda \"mohonkanlah ampun untuk Ma'iz\".",
+    "src": [
+      "Usdul Ghabah 2/178",
+      "al-Ishabah 5/521",
+      "al-Ishabah 5/522"
+    ],
+    "quote": [
+      "غِفَارُ غَفَرَ اللَّهُ لَهَا، وَأَسْلَمُ سَالَمَهَا اللَّهُ",
+      "ماعز بن مالك الأسلمي . قال ابن حبّان: له صحبة . وهو الّذي رجم في عهد النبي",
+      "وفي حديث بريدة أن النبي ﵌ قال: «استغفروا لماعز»"
+    ],
+    "status": "rewritten"
+  }
+}

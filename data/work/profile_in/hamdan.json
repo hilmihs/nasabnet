@@ -1,0 +1,34 @@
+{
+ "id": "hamdan",
+ "name": "Hamdan",
+ "ar": "همدان",
+ "group": "arab",
+ "umum": {
+  "nama_arti": "Nama diambil dari leluhur eponim, Hamdan bin Malik; tidak ada makna khusus yang disepakati secara luas.",
+  "wilayah": "Salah satu kabilah besar di dataran tinggi Yaman (sekitar Shan'a dan Sha'dah); nama Hasyid dan Bakil tetap dikenal hingga kini sebagai konfederasi suku besar Yaman.",
+  "peran_sosial": "Dikenal sebagai salah satu kabilah Yaman paling besar dan berpengaruh sejak masa pra-Islam hingga sekarang, dengan sejumlah ulama dan tokoh yang lahir darinya.",
+  "dinamika": "Hamdan melahirkan sejumlah ulama tabi'in yang dikenal luas dalam sejarah periwayatan ilmu di Kufah."
+ },
+ "already_cited": {
+  "leluhur": {
+   "t": "Hamdan bin Malik bin Zaid bin Ausalah bin Rabi'ah bin al-Khiyar bin Malik bin Zaid bin Kahlan bin Saba'.",
+   "src": [
+    "Jamharat Ansab al-'Arab, hlm. 392"
+   ]
+  },
+  "titik_temu": {
+   "t": "Bertemu dengan kabilah Qahthan lain pada Zaid bin Kahlan dan Saba'.",
+   "src": [
+    "Jamharat Ansab al-'Arab, hlm. 392"
+   ]
+  },
+  "struktur": {
+   "t": "Keturunan Hamdan terpusat pada dua kabilah besar, Hasyid dan Bakil (anak-anak Jusyam bin Khairan bin Nauf bin Hamdan), yang mencakup banyak bathn seperti Bani Wadi'ah dan Bani Yam.",
+   "src": [
+    "Jamharat Ansab al-'Arab, hlm. 392",
+    "Jamharat Ansab al-'Arab, hlm. 475"
+   ]
+  }
+ },
+ "roles_umum": []
+}

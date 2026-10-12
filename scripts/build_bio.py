@@ -2,7 +2,7 @@
 """Merge extracted 10-point biographies and tribe profiles into web/public/data/bio.json.
 
 Inputs: data/work/extracted/{bio,tribe}_*.json (see data/work/BIO_SPEC.md),
-plus data/tribe_roles.json (curated location + strategic roles per tribe).
+plus data/tribe_profile_src.json (cited profile points) and data/tribe_roles.json (location + strategic roles per tribe).
 Only ids that exist in nasabnet.json are kept; empty points are dropped.
 """
 import glob
@@ -78,6 +78,18 @@ def main():
             if pid in verified:
                 b["v"] = True
             persons[pid] = b
+    extra_f = ROOT / "data" / "bio_extra.json"  # role points moved here from tribe profiles (scripts/compile_moved.py)
+    for pid, pts in (json.loads(extra_f.read_text()) if extra_f.exists() else {}).items():
+        if pid not in pids:
+            print("!! bio_extra for missing person", pid)
+            continue
+        b = persons.setdefault(pid, {})
+        peran = b.get("peran") or {"t": "", "src": []}
+        for x in pts:
+            if x["t"] not in peran["t"]:
+                peran["t"] = (peran["t"].rstrip(" .") + ". " if peran["t"] else "") + x["t"].rstrip(" .") + "."
+                peran["src"] = list(dict.fromkeys((peran.get("src") or []) + x["src"]))
+        b["peran"] = peran
     tribes = {}
     tdrafts, tverified = load("tribe"), load("tribeV")
     print(f"tribe drafts {len(tdrafts)}, verified {len(tverified)}")
@@ -90,6 +102,15 @@ def main():
             if tid in tverified:
                 t["v"] = True
             tribes[tid] = t
+    psrc_f = ROOT / "data" / "tribe_profile_src.json"  # cited "umum" profile points (scripts/compile_profile.py)
+    for tid, r in (json.loads(psrc_f.read_text()) if psrc_f.exists() else {}).items():
+        if tid not in tribes:
+            continue
+        for k, v in r.items():
+            if v is None:
+                tribes[tid].pop(k, None)
+            else:
+                tribes[tid][k] = clean_point({**v, "basis": "sumber" if v.get("src") else "umum"})
     roles = json.loads((ROOT / "data" / "tribe_roles.json").read_text())
     for tid, r in roles.items():
         if tid not in tids:
@@ -103,6 +124,10 @@ def main():
         peran = {k: v for k, v in peran.items() if v}
         if peran:
             t["peran"] = peran
+    places_f = ROOT / "data" / "tribe_places.json"  # cited map places (scripts/compile_places.py)
+    for tid, rows in (json.loads(places_f.read_text()) if places_f.exists() else {}).items():
+        if tid in tids and rows:
+            tribes.setdefault(tid, {})["tempat"] = rows
     (WEB / "bio.json").write_text(json.dumps({"persons": persons, "tribes": tribes}, ensure_ascii=False, separators=(",", ":")))
     print(f"bio.json: {len(persons)} persons, {len(tribes)} tribes, {round((WEB / 'bio.json').stat().st_size / 1024)} KB")
 

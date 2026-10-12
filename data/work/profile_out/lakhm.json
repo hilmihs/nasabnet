@@ -1,0 +1,81 @@
+{
+  "id": "lakhm",
+  "nama_arti": {
+    "t": "Nama diambil dari leluhur eponim, Lakhm, yaitu Malik bin 'Adi.",
+    "src": [
+      "Jamharat Ansab al-'Arab, hlm. 422"
+    ],
+    "quote": [
+      "وهؤلاء بنو أخيه لخم، وهو مالك، بن عدىّ بن الحارث بن مرّة"
+    ],
+    "status": "rewritten"
+  },
+  "titik_temu": {
+    "t": "Lakhm (Malik), Judzam ('Amr), 'Amilah (al-Harits), dan 'Ufair ayah Kindah adalah putra-putra 'Adi bin al-Harits bin Murrah bin Udad; bermuara ke Kahlan bin Saba', saudara Himyar bin Saba' bin Yasyjub bin Ya'rub bin Qahthan, dan dihitung di antara kabilah Yaman.",
+    "src": [
+      "Jamharat Ansab al-'Arab, hlm. 419",
+      "Jamharat Ansab al-'Arab, hlm. 432",
+      "Jamharat Ansab al-'Arab, hlm. 485"
+    ],
+    "quote": [
+      "وعمرو بن عدىّ، وهو جذام؛ ومالك بن عدىّ؛ وهو لخم؛ وعفير بن عدىّ، وهو والد كندة",
+      "ومضى بنو كهلان بن سبأ. وهؤلاء بنو حمير بن سبأ بن يشجب بن يعرب بن قحطان",
+      "وبنو لخم، وهو مالك بن عدىّ بن الحارث بن مرّة بن أدد"
+    ],
+    "status": "rewritten"
+  },
+  "wilayah": {
+    "t": "Hirah di Irak: raja-raja Hirah (Al al-Mundzir) berasal dari Bani Nashr bin Rabi'ah dari Lakhm, dan raja pertama mereka yang menjadikan Hirah tempat tinggal adalah 'Amr bin 'Adi; sebagian Lakhm berada di Palestina.",
+    "src": [
+      "Jamharat Ansab al-'Arab, hlm. 422",
+      "al-Muhabbar, hlm. 358",
+      "Tarikh ath-Thabari 5/531"
+    ],
+    "quote": [
+      "ومنهم: بنو نصر بن ربيعة بن عمرو بن الحارث بن مسعود",
+      "وهو أول من اتخذ الحيرة منزلا من ملوك العرب",
+      "إِنِّي مُسْتَخْلِفُكَ عَلَى فِلَسْطِينَ، وَأَدْخُلَ هَذَا الْحَيَّ مِنْ لَخْمٍ وَجُذَامٍ"
+    ],
+    "status": "rewritten"
+  },
+  "peran_sosial": {
+    "t": "Dikenal lewat Tamim ad-Dari (Bani ad-Dar dari Lakhm), sahabat yang kisah al-Jassasah dan Dajjal darinya diceritakan Nabi ﷺ di mimbar, serta lewat raja-raja Hirah yang menjadi 'amil Kisra atas Hirah dan wilayah Arab di Irak.",
+    "src": [
+      "Jamharat Ansab al-'Arab, hlm. 422",
+      "al-Ishabah 1/488",
+      "Tarikh ath-Thabari 2/139"
+    ],
+    "quote": [
+      "الدار بن هانئ، رهط تميم الدّارى صاحب رسول الله",
+      "وذكر النبي ﷺ قصة الجساسة والدجال، فحدّث النبي ﷺ عنه بذلك على المنبر",
+      "وهو عامل كسرى على الحيرة وما يليها من أرض العرب من العراق"
+    ],
+    "status": "rewritten"
+  },
+  "hilf": {
+    "t": "Raja Hirah dari Lakhm berkedudukan sebagai 'amil Kisra (Persia); di pihak lain Ghassan di Syam terikat perjanjian dengan raja Romawi agar tidak memihak Persia.",
+    "src": [
+      "Tarikh ath-Thabari 2/139",
+      "al-Muhabbar, hlm. 371"
+    ],
+    "quote": [
+      "وهو عامل كسرى على الحيرة وما يليها من أرض العرب من العراق",
+      "فعليكم عشرون ألف مقاتل على أن لا تدخلوا بيننا وبين فارس"
+    ],
+    "status": "rewritten"
+  },
+  "dinamika": {
+    "t": "Sesudah Al al-Mundzir, Kisra mengangkat Iyas bin Qabishah ath-Tha'i atas Hirah. Keturunan Lakhm kemudian menetap pula di Andalusia, antara lain di Qarthamah (Rayyah) dan Isybiliyah.",
+    "src": [
+      "Jamharat Ansab al-'Arab, hlm. 400",
+      "Jamharat Ansab al-'Arab, hlm. 423",
+      "Jamharat Ansab al-'Arab, hlm. 423"
+    ],
+    "quote": [
+      "وهو الذي ملّك كسرى على الحيرة بعد آل المنذر",
+      "لهم بقيّة ضخمة بقرطمة من ريّة",
+      "ودار ثوابة بالأندلس: إشبيلية"
+    ],
+    "status": "rewritten"
+  }
+}

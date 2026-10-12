@@ -1,18 +1,105 @@
 {
   "id": "thayyi",
-  "lokasi": {"t": "Jabal Aja' dan Salma (Jabal Thayyi'), Najd utara", "src": ["Sirah Ibnu Hisyam 1/87"], "quote": ["لطيئ ومن يليها بجبلي طيئ، يعني سلمى وأجأ"], "status": "ok"},
+  "lokasi": {
+    "t": "Jabal Aja' dan Salma (Jabal Thayyi'), Najd utara",
+    "src": [
+      "Sirah Ibnu Hisyam 1/87"
+    ],
+    "quote": [
+      "لطيئ ومن يليها بجبلي طيئ، يعني سلمى وأجأ"
+    ],
+    "status": "ok"
+  },
   "militer": [
-    {"t": "Pada masa Riddah kebanyakan Thayyi' sempat bergabung dengan Thulaihah; 'Adi bin Hatim membujuk mereka kembali kepada Islam sebelum Khalid menyerang, dan seribu penunggang dari Thayyi' bergabung dengan kaum Muslimin", "src": ["Tarikh ath-Thabari 3/242", "Tarikh ath-Thabari 3/253", "Tarikh ath-Thabari 3/254"], "quote": ["واجتمع على طليحة عوام طيئ وأسد", "فعاد عدي بإسلامهم إلى خالد", "ولحق بالمسلمين منهم ألف راكب"], "status": "rewritten"}
+    {
+      "t": "Pada masa Riddah kebanyakan Thayyi' sempat bergabung dengan Thulaihah; 'Adi bin Hatim membujuk mereka kembali kepada Islam sebelum Khalid menyerang, dan seribu penunggang dari Thayyi' bergabung dengan kaum Muslimin",
+      "src": [
+        "Tarikh ath-Thabari 3/242",
+        "Tarikh ath-Thabari 3/253",
+        "Tarikh ath-Thabari 3/254"
+      ],
+      "quote": [
+        "واجتمع على طليحة عوام طيئ وأسد",
+        "فعاد عدي بإسلامهم إلى خالد",
+        "ولحق بالمسلمين منهم ألف راكب"
+      ],
+      "status": "rewritten"
+    },
+    {
+      "t": "Sariyah 'Ali bin Abi Thalib (Rabi'ul Akhir 9 H) menyerbu pemukiman keluarga Hatim dari Thayyi' dan menghancurkan al-Fals, berhala Thayyi'",
+      "src": [
+        "Ibnu Sa'd 2/164",
+        "Ibnu Sa'd 2/164"
+      ],
+      "quote": [
+        "إلى الفلس صنم طيء ليهدمه في شهر ربيع الآخر سنة تسع",
+        "فشنوا الغارة على محلة آل حاتم مع الفجر فهدموا الفلس وخربوه"
+      ],
+      "status": "new"
+    }
   ],
   "diplomasi": [
-    {"t": "Adi bin Hatim, yang sebelumnya Nasrani, datang ke Madinah lalu masuk Islam", "src": ["Usdul Ghabah 4/8", "Sirah Ibnu Hisyam 2/580"], "quote": ["فأسلم وكان نصرانيا", "فقلت: عدي بن حاتم، فقام رسول الله ﷺ"], "status": "rewritten"},
-    {"t": "Zaid al-Khail ath-Tha'i memimpin delegasi Thayyi' ke Madinah dan diberi nama Zaid al-Khair oleh Nabi ﷺ", "src": ["Ibnu Sa'd 1/321", "Sirah Ibnu Hisyam 2/577"], "quote": ["رأسهم وسيدهم زيد الخير، وهو زيد الخيل بن مهلهل من بني نبهان", "ثم سماه رسول الله ﷺ زيد الخير"], "status": "rewritten"}
+    {
+      "t": "Delegasi Thayyi' (lima belas orang) datang ke Madinah dipimpin pemuka mereka Zaid al-Khail dari Bani Nabhan",
+      "src": [
+        "Ibnu Sa'd 1/321"
+      ],
+      "quote": [
+        "قدم وفد طيء على رسول الله، ﷺ، خمسة عشر رجلًا، رأسهم وسيدهم زيد الخير"
+      ],
+      "status": "rewritten"
+    },
+    {
+      "t": "Pada masa Riddah utusan Thayyi', bersama Asad, Ghathafan dan Hawazin, datang ke Madinah menawarkan tetap salat asal dibebaskan dari zakat, tetapi ditolak Abu Bakar",
+      "src": [
+        "Tarikh ath-Thabari 3/258",
+        "Tarikh ath-Thabari 3/258",
+        "Tarikh ath-Thabari 3/258"
+      ],
+      "quote": [
+        "وَقَدِمَتْ عَلَيْهِ وُفُودُ بَنِي أَسَدٍ وَغَطَفَانَ وَهَوَازِنَ وَطَيِّئٍ",
+        "فَعَرَضُوا الصَّلاةَ عَلَى أَنْ يُعْفَوْا مِنَ الزَّكَاةِ",
+        "فَإِنَّهُ أَبَى إِلا ما كان رسول الله ص يَأْخُذُ، وَأَبَوْا، فَرَدَّهُمْ"
+      ],
+      "status": "new"
+    }
   ],
   "ekonomi": [
-    {"t": "Adi bin Hatim menyerahkan zakat kaumnya kepada Abu Bakar di masa Riddah", "src": ["Usdul Ghabah 4/9"], "quote": ["قدم على أبي بكر الصديق في وقت الردة بصدقة قومه"], "status": "ok"}
+    {
+      "t": "Zakat Thayyi' dibawa 'Adi bin Hatim kepada Abu Bakar pada masa Riddah; 'Umar menyebutnya sedekah pertama yang menggembirakan para sahabat",
+      "src": [
+        "Usdul Ghabah 4/9",
+        "al-Ishabah 4/388"
+      ],
+      "quote": [
+        "قدم على أبي بكر الصديق في وقت الردة بصدقة قومه",
+        "إنّ أول صدقة بيضت وجوه أصحاب رسول اللَّه ﷺ صدقة طيِّئ"
+      ],
+      "status": "rewritten"
+    }
   ],
   "sosial": [
-    {"t": "Hatim ath-Tha'i, simbol kedermawanan Arab", "src": ["Usdul Ghabah 4/8"], "quote": ["وأبوه حاتم هو الجواد الموصوف بالجود، الذي يضرب به المثل"], "status": "ok"}
+    {
+      "t": "Pada masa jahiliah Thayyi' menyembah berhala al-Fals di Najd, dekat Faid; juru kuncinya Bani Bulan",
+      "src": [
+        "al-Muhabbar, hlm. 316",
+        "al-Muhabbar, hlm. 316"
+      ],
+      "quote": [
+        "وكان الفَلْس بنجد تعبده طيئ. وكان قريبا من فَيد",
+        "وكان سدنته بني [١] بولان"
+      ],
+      "status": "new"
+    }
   ],
-  "dropped": []
+  "dropped": [
+    {
+      "t": "Adi bin Hatim, yang sebelumnya Nasrani, datang ke Madinah lalu masuk Islam",
+      "reason": "already in biography of n4341"
+    },
+    {
+      "t": "Hatim ath-Tha'i, simbol kedermawanan Arab",
+      "reason": "moved to biography of x394933ef"
+    }
+  ]
 }

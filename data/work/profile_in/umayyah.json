@@ -1,0 +1,32 @@
+{
+ "id": "umayyah",
+ "name": "Bani Umayyah / Abdu Syams",
+ "ar": "بنو أمية (عبد شمس)",
+ "group": "quraisy",
+ "umum": {
+  "nama_arti": "Nama diambil dari leluhur eponim, Umayyah al-Akbar bin Abdi Syams, dibedakan dari Umayyah al-Ashghar.",
+  "titik_temu": "Bertemu dengan Bani Hasyim, Bani al-Muththalib, dan Bani Naufal pada Abdu Manaf bin Qushay.",
+  "wilayah": "Makkah; setelah menjadi khalifah, pusat kekuasaan keturunan Umayyah berpindah ke Damaskus (Syam).",
+  "peran_sosial": "Klan pedagang kaya dan berpengaruh di Makkah pra-Islam; setelah Fathu Makkah banyak anggotanya masuk Islam dan sebagian menjadi pemimpin, termasuk mendirikan Daulah Umayyah.",
+  "dinamika": "Persaingan Bani Umayyah dengan Bani Hasyim berlanjut hingga masa kekhalifahan, memuncak pada pendirian Daulah Umayyah oleh Mu'awiyah bin Abi Sufyan setelah 'Am al-Jama'ah (41 H)."
+ },
+ "already_cited": {
+  "leluhur": {
+   "t": "Umayyah (al-Akbar) bin Abdi Syams bin Abdi Manaf bin Qushay.",
+   "src": [
+    "Jamharat Ansab al-'Arab, hlm. 74"
+   ]
+  },
+  "struktur": {
+   "t": "Anak-anak Abdu Syams: Habib, Umayyah al-Akbar (pemegang kedudukan dan keturunan terbanyak), Umayyah al-Ashghar, Abdu Umayyah, Naufal, Abdul 'Uzza, dan Rabi'ah; Abdullah bin Abdu Syams tidak berketurunan.",
+   "src": [
+    "Jamharat Ansab al-'Arab, hlm. 74",
+    "Jamharat Ansab al-'Arab, hlm. 75"
+   ]
+  }
+ },
+ "roles_umum": [
+  "lokasi",
+  "sosial[0]"
+ ]
+}

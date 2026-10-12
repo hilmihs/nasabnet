@@ -1,0 +1,142 @@
+{
+  "id": "muharib",
+  "places": [
+    {
+      "t": "Taiman",
+      "ar": "تيمن",
+      "kind": "gunung",
+      "note": "Bukit merah di diyar Muharib dekat ar-Rabadzah",
+      "src": [
+        "Mu'jam al-Buldan 2/68"
+      ],
+      "quote": [
+        "وتيمن أيضا: هضبة حمراء في ديار محارب قرب الرّبذة"
+      ],
+      "qid": "Q3303516",
+      "lat": 24.6319,
+      "lon": 41.2906,
+      "precision": "perkiraan",
+      "near": "ar-Rabadzah"
+    },
+    {
+      "t": "Dhil' al-Janfa'",
+      "ar": "الجنفاء",
+      "kind": "daerah",
+      "note": "Tempat antara ar-Rabadzah dan Dhariyyah di diyar Muharib, di jalur al-Yamamah–Madinah",
+      "src": [
+        "Mu'jam al-Buldan 2/172"
+      ],
+      "quote": [
+        "بين الرّبذة وضربة من ديار محارب على جادة اليمامة إلى المدينة"
+      ],
+      "qid": "Q3303516",
+      "lat": 24.6319,
+      "lon": 41.2906,
+      "precision": "perkiraan",
+      "near": "ar-Rabadzah"
+    },
+    {
+      "t": "al-Gharid",
+      "ar": "الغرد",
+      "kind": "gunung",
+      "note": "Gunung antara Dhariyyah dan ar-Rabadzah di tepi al-Jarib al-Aqsha, milik Bani Muharib dan Fazarah",
+      "src": [
+        "Mu'jam al-Buldan 4/193"
+      ],
+      "quote": [
+        "وهو جبل بين ضرية والربذة بشاطئ الجريب الأقصى لبني محارب وفزارة"
+      ],
+      "qid": "Q3303516",
+      "lat": 24.6319,
+      "lon": 41.2906,
+      "precision": "perkiraan",
+      "near": "ar-Rabadzah"
+    },
+    {
+      "t": "Adhakh",
+      "ar": "أضاخ",
+      "kind": "gunung",
+      "note": "Menurut Abu 'Ubaidah, Adhakh di asy-Syarabbah termasuk diyar Bani Muharib bin Khashafah",
+      "src": [
+        "Mu'jam ma Ista'jam 1/164"
+      ],
+      "quote": [
+        "أضاخ من الشّربة، من ديار بنى محارب بن خصفة"
+      ],
+      "lat": 25.2461,
+      "lon": 43.92,
+      "qid": "N1236435333",
+      "precision": "tepat"
+    },
+    {
+      "t": "Bass",
+      "ar": "بس",
+      "kind": "gunung",
+      "note": "Gunung di negeri Muharib bin Khashafah (ada pendapat lain tentang letaknya)",
+      "src": [
+        "Mu'jam al-Buldan 1/421"
+      ],
+      "quote": [
+        "جبل في بلاد محارب بن خصفة"
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "t": "Balas",
+      "ar": "بلس",
+      "kind": "gunung",
+      "note": "Gunung merah di negeri Muharib bin Khashafah",
+      "src": [
+        "Mu'jam al-Buldan 1/484"
+      ],
+      "quote": [
+        "جبل أحمر في بلاد محارب بن خصفة"
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "t": "Dzu Jaufar",
+      "ar": "ذو جوفر",
+      "kind": "lembah",
+      "note": "Lembah milik Bani Muharib bin Khashafah",
+      "src": [
+        "Mu'jam al-Buldan 2/187"
+      ],
+      "quote": [
+        "ذو جوفر: واد لبني محارب بن خصفة"
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "t": "al-Ghubair",
+      "ar": "الغبير",
+      "kind": "mata air",
+      "note": "Mata air milik Muharib bin Khashafah",
+      "src": [
+        "Mu'jam al-Buldan 4/186"
+      ],
+      "quote": [
+        "والغبير أيضا: ماء لمحارب بن خصفة"
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "t": "Nakhl dan al-Mughitsah",
+      "ar": "نخل",
+      "kind": "daerah",
+      "note": "Di jalur petugas zakat dari Madinah: Khudhr Muharib membayar zakat di Nakhl, Bani Muharib lainnya di al-Mughitsah",
+      "src": [
+        "Mu'jam ma Ista'jam 3/1016"
+      ],
+      "quote": [
+        "ثم ينزل نخلا، فتصدّق الخضر خضر محارب، ثم ينزل المغيثة، فتصدّق سائر بنى محارب"
+      ],
+      "lat": null,
+      "lon": null
+    }
+  ]
+}

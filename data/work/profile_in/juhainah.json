@@ -1,0 +1,34 @@
+{
+ "id": "juhainah",
+ "name": "Juhainah",
+ "ar": "جهينة",
+ "group": "arab",
+ "umum": {
+  "nama_arti": "Nama diambil dari leluhur eponim, Juhainah bin Zaid.",
+  "titik_temu": "Termasuk rumpun Qudha'ah; bertemu dengan kabilah Qudha'ah lain seperti Bali dan Kalb pada Qudha'ah.",
+  "wilayah": "Sebelah barat Madinah, di jalur antara Madinah dan Laut Merah.",
+  "peran_sosial": "Kabilah yang banyak bersekutu dengan kaum Anshar dan ikut dalam ekspedisi-ekspedisi awal Islam.",
+  "dinamika": "Juhainah dikenal lewat tokoh Ausajah bin Harmalah yang diberi wewenang oleh Nabi ﷺ memimpin seribu orang dari kaumnya; mereka juga terkait peristiwa tewasnya seorang muallaf oleh pasukan Usamah bin Zaid yang kemudian ditegur Nabi ﷺ."
+ },
+ "already_cited": {
+  "leluhur": {
+   "t": "Juhainah bin Zaid bin Laits bin Sud bin Aslam bin al-Hafi bin Qudha'ah.",
+   "src": [
+    "Jamharat Ansab al-'Arab, hlm. 444"
+   ]
+  },
+  "struktur": {
+   "t": "Dua anak Juhainah: Qais dan Maudu'ah; dari Qais lahir cabang Ghathafan dan Ghayyan—yang terakhir ini diganti nama oleh Nabi ﷺ menjadi Bani Rasydan.",
+   "src": [
+    "Jamharat Ansab al-'Arab, hlm. 444"
+   ]
+  },
+  "hilf": {
+   "t": "Sebagian anggota Juhainah, seperti Rabi'ah bin 'Amr, tercatat sebagai sekutu (hilf) Bani an-Najjar dari Anshar dan ikut Perang Badar.",
+   "src": [
+    "Jamharat Ansab al-'Arab, hlm. 444"
+   ]
+  }
+ },
+ "roles_umum": []
+}

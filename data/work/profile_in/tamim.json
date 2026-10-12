@@ -1,0 +1,30 @@
+{
+ "id": "tamim",
+ "name": "Bani Tamim",
+ "ar": "بنو تميم",
+ "group": "arab",
+ "umum": {
+  "nama_arti": "Nama diambil dari leluhur eponim, Tamim bin Murr.",
+  "titik_temu": "Bertemu dengan kabilah-kabilah Mudhar lain, seperti Hudzail dan Asad bin Khuzaimah, pada Ilyas bin Mudhar.",
+  "wilayah": "Najd bagian timur dan tengah; sebagian besar menetap di Bashrah pasca-Islam.",
+  "peran_sosial": "Salah satu kabilah Mudhar terbesar; banyak anggotanya menjadi ulama dan tokoh penting di Bashrah pada masa tabi'in.",
+  "dinamika": "Tamim dikenal lewat Khabbab bin al-Arat, salah satu sahabat awal yang disiksa karena keislamannya; keturunan Tamim kemudian banyak menetap di Bashrah dan berperan dalam riwayat hadis serta ilmu nahwu."
+ },
+ "already_cited": {
+  "leluhur": {
+   "t": "Tamim bin Murr bin Udd.",
+   "src": [
+    "Jamharat Ansab al-'Arab, hlm. 207"
+   ]
+  },
+  "struktur": {
+   "t": "Anak-anak Tamim: al-Harits, 'Amr, dan Zaid Manah; dari 'Amr lahir cabang al-'Anbar, al-Hujaim, Usaiyyid, Malik, al-Harits (al-Habithat), dan Ka'b.",
+   "src": [
+    "Jamharat Ansab al-'Arab, hlm. 207"
+   ]
+  }
+ },
+ "roles_umum": [
+  "lokasi"
+ ]
+}

@@ -1,0 +1,43 @@
+[
+ {
+  "pid": "n2507",
+  "t": "Pada masa 'Utsman (24 H) dikirim memimpin 12.000 pasukan ke Armenia; kemudian menyerang Balanjar dan gugur syahid di sana",
+  "src": [
+   "Tarikh ath-Thabari 4/247",
+   "Ibnu Sa'd 6/131",
+   "Tarikh ath-Thabari 4/247"
+  ],
+  "quote": [
+   "بعث سلمان بن رَبِيعَة الباهلي إِلَى أرمينية فِي اثني عشر ألفا",
+   "وغزا سلمان بن ربيعة بلنجر في خلافة عثمان بن عفان فقتل بها شهيدا",
+   "فِي اثني عشر ألفا، سنة أربع وعشرين"
+  ],
+  "from": "militer"
+ },
+ {
+  "pid": "n2507",
+  "t": "Mengurus pembagian ghanimah Jalula'; karena ia mendahulukan bagian kuda, orang Arab menjulukinya Salman al-Khail",
+  "src": [
+   "Tarikh ath-Thabari 4/29",
+   "Tarikh ath-Thabari 4/29"
+  ],
+  "quote": [
+   "وولي قسم ذلك بين المسلمين سلمان بْن ربيعة",
+   "وكانت العرب تسميه لذلك سلمان الخيل"
+  ],
+  "from": "ekonomi"
+ },
+ {
+  "pid": "n2895",
+  "t": "Tinggal di Mesir lalu pindah ke Hims dan wafat di sana; termasuk sahabat yang banyak meriwayatkan hadis, kebanyakan haditsnya pada orang-orang Syam",
+  "src": [
+   "Usdul Ghabah 6/14",
+   "Usdul Ghabah 6/14"
+  ],
+  "quote": [
+   "فسكن حمص من الشام، ومات بها، وكان من المكثرين في الرواية",
+   "سكن مصر، ثُمَّ انتقل منها فسكن حمص من الشام، ومات بِهَا، وَكَانَ من المكثرين فِي الرواية، وأكثر حديثه عند الشاميين"
+  ],
+  "from": "sosial"
+ }
+]

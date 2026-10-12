@@ -1,35 +1,97 @@
 {
-  "id": "muharib",
-  "lokasi": {"t": "Najd",
-    "src": ["Sirah Ibnu Hisyam 2/203"],
-    "quote": ["ثُمَّ غَزَا نَجْدًا يُرِيدُ بَنِي مُحَارِبٍ"],
-    "status": "ok"},
-  "militer": [
-    {"t": "Ghazwah Dzatur Riqa' ke Najd diarahkan kepada Bani Muharib dan Bani Tsa'labah dari Ghathafan",
-     "src": ["Sirah Ibnu Hisyam 2/203"],
-     "quote": ["يُرِيدُ بَنِي مُحَارِبٍ وَبَنِيَّ ثَعْلَبَةَ مِنْ غَطَفَانَ"],
-     "status": "ok"},
-    {"t": "Ghaurats, seorang dari Bani Muharib, menghunus pedang Nabi ﷺ hendak membunuh beliau, tetapi Allah menggagalkannya",
-     "src": ["Sirah Ibnu Hisyam 2/205", "Sirah Ibnu Hisyam 2/205"],
-     "quote": ["أَنَّ رَجُلًا مِنْ بَنِي مُحَارِبٍ، يُقَالُ لَهُ: غُوْرَثُ", "فَأَخَذَهُ فَاسْتَلَّهُ، ثُمَّ جَعَلَ يَهُزُّهُ، وَيَهُمُّ فَيَكْبِتُهُ اللَّهُ"],
-     "status": "rewritten"}
+ "id": "muharib",
+ "lokasi": {
+  "t": "Najd",
+  "src": [
+   "Sirah Ibnu Hisyam 2/203"
   ],
-  "diplomasi": [
-    {"t": "Muharib bin Khashafah termasuk kabilah yang didatangi Nabi ﷺ di Makkah untuk diajak kepada Islam",
-     "src": ["Ibnu Sa'd 1/216"],
-     "quote": ["بنو عامر بن صعصعة، ومحارب بن خصفة، وفزارة"],
-     "status": "new"},
-    {"t": "Delegasi Muharib (10 orang) datang pada Haji Wada' tahun 10 H dan masuk Islam; sebelumnya mereka paling kasar terhadap Nabi ﷺ di musim-musim haji",
-     "src": ["Ibnu Sa'd 1/299", "Ibnu Sa'd 1/299"],
-     "quote": ["قدم وفد محارب سنة عشر في حجة الوداع وهم عشرة نفر", "ولم يكن أحد في تلك المواسم أفظ ولا أغلظ على رسول الله"],
-     "status": "new"}
+  "quote": [
+   "ثُمَّ غَزَا نَجْدًا يُرِيدُ بَنِي مُحَارِبٍ"
   ],
-  "ekonomi": [],
-  "sosial": [
-    {"t": "Sawwar bin Hamdun al-Ilbiri dari Muharib memimpin seruan kaum Arab di Andalusia ketika kaum muwalladun bangkit melawan mereka",
-     "src": ["Jamharat Ansab al-'Arab, hlm. 260"],
-     "quote": ["سوار بن حمدون بن يحيى الإلبيري، القائم بدعوة العرب بالأندلس"],
-     "status": "new"}
-  ],
-  "dropped": []
+  "status": "ok"
+ },
+ "militer": [
+  {
+   "t": "Ghazwah Dzatur Riqa' ke Najd diarahkan kepada Bani Muharib dan Bani Tsa'labah dari Ghathafan",
+   "src": [
+    "Sirah Ibnu Hisyam 2/203"
+   ],
+   "quote": [
+    "يُرِيدُ بَنِي مُحَارِبٍ وَبَنِيَّ ثَعْلَبَةَ مِنْ غَطَفَانَ"
+   ],
+   "status": "ok"
+  },
+  {
+   "t": "Bersama Bani Tsa'labah berkumpul di Dzu Amarr hendak menyerang pinggiran Madinah, dan pada 6 H bersama Tsa'labah dan Anmar berniat merampas ternak Madinah hingga diserbu sariyah Abu 'Ubaidah ke Dzul Qashshah",
+   "src": [
+    "Ibnu Sa'd 2/34",
+    "Ibnu Sa'd 2/86"
+   ],
+   "quote": [
+    "أن جمعا من بني ثعلبة ومحارب بذي أمر قد تجمعوا يريدون أن يصيبوا من أطراف رسول الله",
+    "وأجمعوا أن يغيروا على سرح المدينة"
+   ],
+   "status": "new"
+  }
+ ],
+ "diplomasi": [
+  {
+   "t": "Muharib bin Khashafah termasuk kabilah yang didatangi Nabi ﷺ di Makkah untuk diajak kepada Islam",
+   "src": [
+    "Ibnu Sa'd 1/216"
+   ],
+   "quote": [
+    "بنو عامر بن صعصعة، ومحارب بن خصفة، وفزارة"
+   ],
+   "status": "new"
+  },
+  {
+   "t": "Delegasi Muharib (10 orang) datang pada Haji Wada' tahun 10 H dan masuk Islam; sebelumnya mereka paling kasar terhadap Nabi ﷺ di musim-musim haji",
+   "src": [
+    "Ibnu Sa'd 1/299",
+    "Ibnu Sa'd 1/299"
+   ],
+   "quote": [
+    "قدم وفد محارب سنة عشر في حجة الوداع وهم عشرة نفر",
+    "ولم يكن أحد في تلك المواسم أفظ ولا أغلظ على رسول الله"
+   ],
+   "status": "new"
+  }
+ ],
+ "ekonomi": [
+  {
+   "t": "Kabilah penggembala: ketika negeri mereka kering, Bani Muharib bersama Tsa'labah dan Anmar berpindah mengikuti awan hujan ke al-Maradh, 36 mil dari Madinah",
+   "src": [
+    "Ibnu Sa'd 2/86"
+   ],
+   "quote": [
+    "فسارت بنو محارب وثعلبة وأنمار إلى تلك السحابة"
+   ],
+   "status": "new"
+  }
+ ],
+ "sosial": [
+  {
+   "t": "Pada masa Ibnu Hazm, menurut orang Badui Thayyi', Bani Muharib dan Bani Asyja' termasuk kabilah Qais yang paling lemah di pedalaman",
+   "src": [
+    "Jamharat Ansab al-'Arab, hlm. 259",
+    "Jamharat Ansab al-'Arab, hlm. 259"
+   ],
+   "quote": [
+    "أنّ بنى محارب وبنى أشجع بن ريث أذلّ قبائل",
+    "قيس بالبادية اليوم"
+   ],
+   "status": "new"
+  }
+ ],
+ "dropped": [
+  {
+   "t": "Ghaurats, seorang dari Bani Muharib, menghunus pedang Nabi ﷺ hendak membunuh beliau, tetapi Allah menggagalkannya",
+   "reason": "deed of one man (Ghaurats), not in the dataset; no clan role"
+  },
+  {
+   "t": "Sawwar bin Hamdun al-Ilbiri dari Muharib memimpin seruan kaum Arab di Andalusia ketika kaum muwalladun bangkit melawan mereka",
+   "reason": "deed of one man (Sawwar bin Hamdun, Andalusia), not in the dataset; no clan role"
+  }
+ ]
 }

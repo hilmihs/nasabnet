@@ -1,0 +1,31 @@
+{
+ "id": "bakr",
+ "name": "Bakr bin Wa'il",
+ "ar": "بكر بن وائل",
+ "group": "arab",
+ "umum": {
+  "nama_arti": "Kata 'bakr' berarti unta muda dalam bahasa Arab; nama ini diambil dari leluhur eponim mereka, Bakr bin Wa'il.",
+  "titik_temu": "Bakr bin Wa'il termasuk rumpun Rabi'ah (Adnan); bersaudara dengan Taghlib bin Wa'il, sama-sama keturunan Wa'il bin Qasith.",
+  "wilayah": "Mendiami wilayah Jazirah Arab timur dan utara (termasuk sekitar Irak dan al-Yamamah); termasuk sub-kabilah besar seperti Syaiban, Sadus, 'Ijl, dan Hanifah.",
+  "peran_sosial": "Kabilah besar Rabi'ah yang terkenal lewat Perang Dzi Qar melawan Persia menjelang masa Islam; berbagai sub-kabilahnya berperan dalam penaklukan Irak pasca-Islam.",
+  "dinamika": "Sebagian Bakr bin Wa'il, seperti Bani Hanifah, sempat terlibat kemurtadan di bawah Musailamah al-Kadzdzab sebelum ditundukkan kembali pada masa Abu Bakar."
+ },
+ "already_cited": {
+  "leluhur": {
+   "t": "Bakr bin Wa'il bin Qasith.",
+   "src": [
+    "Jamharat Ansab al-'Arab, hlm. 307"
+   ]
+  },
+  "struktur": {
+   "t": "Anak-anak Bakr: Ali (leluhur Syaiban), Yasykur, dan Badn (bergabung ke Yasykur); Bani Yasykur melahirkan penyair pra-Islam terkenal al-Harits bin Hallizah.",
+   "src": [
+    "Jamharat Ansab al-'Arab, hlm. 307",
+    "Jamharat Ansab al-'Arab, hlm. 308"
+   ]
+  }
+ },
+ "roles_umum": [
+  "lokasi"
+ ]
+}

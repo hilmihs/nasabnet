@@ -1,0 +1,74 @@
+{
+  "id": "himyar",
+  "nama_arti": {
+    "t": "Nama diambil dari leluhur eponim, Himyar bin Saba' (nama lainnya al-'Aranjaj); bersama Kahlan, keturunannya menjadi bagian terbesar anak-cucu Saba'.",
+    "src": [
+      "Jamharat Ansab al-'Arab, hlm. 329",
+      "Jamharat Ansab al-'Arab, hlm. 432"
+    ],
+    "quote": [
+      "فولد سبأ: كهلان؛ والعرنجج، وهو حمير؛ وفيهما العدد والجمهرة",
+      "وهؤلاء بنو حمير بن سبأ بن يشجب بن يعرب بن قحطان"
+    ],
+    "status": "rewritten"
+  },
+  "wilayah": {
+    "t": "Yaman: menurut satu riwayat, kota Zhafar dibangun oleh raja Himyar Syamir bin al-Amlul; Himyar memiliki rumah peribadatan Ri'am di Shan'a; 'Adan Abyan dinisbahkan kepada Abyan bin Zuhair dari Himyar. Hadhramaut mencakup kampung-kampung seperti Tarim, an-Nujair, Tan'ah, dan Syabwah.",
+    "src": [
+      "Tarikh ath-Thabari 1/442",
+      "Sirah Ibnu Hisyam 1/87",
+      "Jamharat Ansab al-'Arab, hlm. 432",
+      "al-Muhabbar, hlm. 185"
+    ],
+    "quote": [
+      "وهو الذي بنى مدينة ظفار باليمن",
+      "وَكَانَ لِحِمْيَرَ وَأَهْلِ الْيَمَنِ بَيْتٌ بِصَنْعَاءَ",
+      "أبين بن زهير بن الغوث بن أيمن بن الهميسع بن حمير؛ إليه نسبت عدن أبين",
+      "فكن متفرقات في قرى حضرموت بتريم ومَشطة والنُجير وتنعة وشبوة"
+    ],
+    "status": "rewritten"
+  },
+  "peran_sosial": {
+    "t": "Para raja Tubba' (at-Tababi'ah) dan raja-raja Himyar berasal dari keturunan Shaifi bin Saba' al-Ashghar; salah satunya, Tubban As'ad Abu Karib, datang ke Madinah, memakmurkan Baitul Haram, dan memberinya kiswah.",
+    "src": [
+      "Jamharat Ansab al-'Arab, hlm. 438",
+      "Sirah Ibnu Hisyam 1/20",
+      "Sirah Ibnu Hisyam 1/20"
+    ],
+    "quote": [
+      "وكانت التّبابعة وملوك خمير من ولد صيفى بن سبأ الأصغر",
+      "وَتُبَّانُ أَسْعَدُ أَبُو كَرِبٍ الَّذِي قَدِمَ الْمَدِينَةَ",
+      "وَعَمَّرَ الْبَيْتَ الْحَرَامَ وَكَسَاهُ"
+    ],
+    "status": "rewritten"
+  },
+  "hilf": {
+    "t": "Pada Perang Shiffin, Himyar di bawah Dzul Kala' berperang di barisan Mu'awiyah bersama 'Ubaidullah bin 'Umar dan para qurra' Syam; Mu'awiyah mengundi lawan mereka di antara kabilah-kabilah Irak.",
+    "src": [
+      "Tarikh ath-Thabari 5/34",
+      "Tarikh ath-Thabari 5/34"
+    ],
+    "quote": [
+      "فأقبل ذو الكلاع فِي حمير ومن تعلقها، ومعهم عُبَيْد اللَّهِ بن عُمَرَ",
+      "وضرب مُعَاوِيَة لحمير بسهمهم عَلَى ثلاث قبائل"
+    ],
+    "status": "rewritten"
+  },
+  "dinamika": {
+    "t": "Raja-raja Himyar mengirim surat keislaman kepada Nabi ﷺ sepulang beliau dari Tabuk; pada masa Abu Bakr, Dzul Kala' termasuk rombongan pertama dari Yaman yang datang untuk berangkat ke Syam, lalu memimpin satu kurdus di Yarmuk; ia gugur dalam Perang Shiffin di pihak Mu'awiyah.",
+    "src": [
+      "Tarikh ath-Thabari 3/120",
+      "Tarikh ath-Thabari 3/389",
+      "Tarikh ath-Thabari 3/397",
+      "Tarikh ath-Thabari 5/36"
+    ],
+    "quote": [
+      "كِتَابُ مُلُوكِ حِمْيَرَ مَقْدَمَهُ مِنْ تَبُوكَ",
+      "أَوَائِلُ مُسْتَنْفِرِي الْيَمَنِ وَمَنْ بَيْنَ مَكَّةَ وَالْيَمَنِ، وَفِيهِمْ ذو الكلاع",
+      "وَذُو الْكلاعِ عَلَى كُرْدُوسٍ",
+      "فما لبثنا إلا قليلا حَتَّى أصيب ذو الكلاع"
+    ],
+    "status": "rewritten"
+  },
+  "dropped": []
+}

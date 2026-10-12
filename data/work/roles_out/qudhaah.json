@@ -1,16 +1,115 @@
 {
-  "id": "qudhaah",
-  "lokasi": {"t": "Wilayah Qudha'ah bersambung dengan Syam dan negeri Bani 'Adnan, tidak bersambung dengan Yaman; kecuali cabang Mahrah di pesisir asy-Syihr (Yaman)", "src": ["Jamharat Ansab al-'Arab, hlm. 8", "Jamharat Ansab al-'Arab, hlm. 8", "Jamharat Ansab al-'Arab, hlm. 440"], "quote": ["وبلاد قضاعة متّصلة بالشأم", "وببلاد بنى عدنان، ولا تتّصل ببلاد اليمن أصلا", "وبلاد مهرة في ناحية الشحر من اليمن"], "status": "rewritten"},
-  "militer": [
-    {"t": "Sebagian kabilah Qudha'ah (Bali, al-Qain, dan Bahra') berada di pihak Romawi pada Perang Mu'tah, dipimpin Malik bin Zafilah dari Bali", "src": ["Sirah Ibnu Hisyam 2/375", "Sirah Ibnu Hisyam 2/375"], "quote": ["وانضمّ إِلَيْهِم مل لَخْمٍ وَجُذَامٍ وَالْقَيْنِ وبهراء وبلىّ مائَة أَلْفٍ مِنْهُمْ", "عَلَيْهِمْ رَجُلٌ مِنْ بَلِيٍّ ثُمَّ أَحَدُ إرَاشَةَ"], "status": "rewritten"},
-    {"t": "Sariyah Dzatus Salasil (8 H) diarahkan ke wilayah Qudha'ah, setelah sekelompok Qudha'ah berhimpun hendak mendekati pinggiran Madinah", "src": ["Tarikh ath-Thabari 3/31", "Ibnu Sa'd 2/131"], "quote": ["تَوْجِيهُ رسول الله ص عَمْرَو بْنَ الْعَاصِ فِي جُمَادَى الآخِرَةِ إِلَى السلاسل من بلاد قضاعه", "بلغ رسول الله، ﷺ، أن جمعا من قضاعة قد تجمعوا"], "status": "rewritten"}
+ "id": "qudhaah",
+ "lokasi": {
+  "t": "Wilayah Qudha'ah bersambung dengan Syam dan negeri Bani 'Adnan, tidak bersambung dengan Yaman; kecuali cabang Mahrah di pesisir asy-Syihr (Yaman)",
+  "src": [
+   "Jamharat Ansab al-'Arab, hlm. 8",
+   "Jamharat Ansab al-'Arab, hlm. 8",
+   "Jamharat Ansab al-'Arab, hlm. 440"
   ],
-  "diplomasi": [
-    {"t": "Delegasi 'Udzrah (12 orang, Shafar 9 H), Bali (Rabi'ul Awwal 9 H), dan Bahra' (13 orang) datang ke Madinah menyatakan Islam", "src": ["Ibnu Sa'd 1/331", "Ibnu Sa'd 1/330", "Ibnu Sa'd 1/331"], "quote": ["قدم على رسول الله، ﷺ، في صفر سنة تسع وفدنا اثنا عشر رجلًا", "قدم وفد قومي في شهر ربيع الأول سنة تسع", "قدم وفد بهراء من اليمن وهم ثلاثة عشر رجلًا"], "status": "rewritten"}
+  "quote": [
+   "وبلاد قضاعة متّصلة بالشأم",
+   "وببلاد بنى عدنان، ولا تتّصل ببلاد اليمن أصلا",
+   "وبلاد مهرة في ناحية الشحر من اليمن"
   ],
-  "ekonomi": [],
-  "sosial": [
-    {"t": "Bani 'Udzrah melahirkan penyair Jamil bin 'Abdullah bin Ma'mar, kekasih Butsainah", "src": ["Jamharat Ansab al-'Arab, hlm. 449", "Jamharat Ansab al-'Arab, hlm. 449"], "quote": ["وبنو حنّ بن ربيعة أخى رزاح بن ربيعة لأبيه وأمه، وهما قبيلا عذرة", "الشاعر جميل بن عبد الله بن معمر"], "status": "rewritten"}
-  ],
-  "dropped": []
+  "status": "rewritten"
+ },
+ "militer": [
+  {
+   "t": "Sebagian kabilah Qudha'ah (Bali, al-Qain, dan Bahra') berada di pihak Romawi pada Perang Mu'tah, dipimpin Malik bin Zafilah dari Bali",
+   "src": [
+    "Sirah Ibnu Hisyam 2/375",
+    "Sirah Ibnu Hisyam 2/375"
+   ],
+   "quote": [
+    "وانضمّ إِلَيْهِم مل لَخْمٍ وَجُذَامٍ وَالْقَيْنِ وبهراء وبلىّ مائَة أَلْفٍ مِنْهُمْ",
+    "عَلَيْهِمْ رَجُلٌ مِنْ بَلِيٍّ ثُمَّ أَحَدُ إرَاشَةَ"
+   ],
+   "status": "rewritten"
+  },
+  {
+   "t": "Sariyah Dzatus Salasil (8 H) diarahkan ke wilayah Qudha'ah, setelah sekelompok Qudha'ah berhimpun hendak mendekati pinggiran Madinah",
+   "src": [
+    "Tarikh ath-Thabari 3/31",
+    "Ibnu Sa'd 2/131"
+   ],
+   "quote": [
+    "تَوْجِيهُ رسول الله ص عَمْرَو بْنَ الْعَاصِ فِي جُمَادَى الآخِرَةِ إِلَى السلاسل من بلاد قضاعه",
+    "بلغ رسول الله، ﷺ، أن جمعا من قضاعة قد تجمعوا"
+   ],
+   "status": "rewritten"
+  }
+ ],
+ "diplomasi": [
+  {
+   "t": "Delegasi 'Udzrah (12 orang, Shafar 9 H), Bali (Rabi'ul Awwal 9 H), dan Bahra' (13 orang) datang ke Madinah menyatakan Islam",
+   "src": [
+    "Ibnu Sa'd 1/331",
+    "Ibnu Sa'd 1/330",
+    "Ibnu Sa'd 1/331"
+   ],
+   "quote": [
+    "قدم على رسول الله، ﷺ، في صفر سنة تسع وفدنا اثنا عشر رجلًا",
+    "قدم وفد قومي في شهر ربيع الأول سنة تسع",
+    "قدم وفد بهراء من اليمن وهم ثلاثة عشر رجلًا"
+   ],
+   "status": "rewritten"
+  },
+  {
+   "t": "Bersekutu dengan Qushai bin Kilab: Qudha'ah di bawah Rizah bin Rabi'ah, saudara Qushai, ikut bersamanya merebut urusan haji dari Shufah dan memerangi Khuza'ah serta Bani Bakr hingga Qushai menguasai Makkah",
+   "src": [
+    "Sirah Ibnu Hisyam 1/123",
+    "Sirah Ibnu Hisyam 1/124"
+   ],
+   "quote": [
+    "فأتاهم قصي بن كلاب بمن معه من قومه من قريش وكنانة وقضاعة عند العقبة",
+    "وثبت معه أخوه رزاح بن ربيعة بمن معه من قومه من قضاعة"
+   ],
+   "status": "new"
+  }
+ ],
+ "ekonomi": [
+  {
+   "t": "Kalb (cabang Qudha'ah) bertetangga dengan pasar Dumat al-Jandal antara Syam dan Hijaz; penguasaan pasar itu bergantian antara Ukaidir dan Qunafah al-Kalbi",
+   "src": [
+    "al-Muhabbar, hlm. 263"
+   ],
+   "quote": [
+    "وكانت كلب وجديلة طيئ جيرانها. وكان ملكها بين اكيدر العبادي ثم السكوني وبين قنافة الكلبي"
+   ],
+   "status": "new"
+  }
+ ],
+ "sosial": [
+  {
+   "t": "Pada masa jahiliah Bani Wabrah (Kalb) menyembah Wadd di Dumat al-Jandal, sedangkan Sa'd Hudzaim dan Qudha'ah lainnya menyembah as-Sa'idah dan Manat",
+   "src": [
+    "al-Muhabbar, hlm. 316",
+    "Sirah Ibnu Hisyam 1/78"
+   ],
+   "quote": [
+    "وكانت سعد هذيم وسائر قضاعة إلا بني وبرة يعبدون السعيدة ومناة",
+    "وكلب بن وبرة من قضاعة، اتخذوا ودا بدومة الجندل"
+   ],
+   "status": "new"
+  },
+  {
+   "t": "Nasabnya diperselisihkan: Ibnu Ishaq menyebut Qudha'ah putra Ma'add bin 'Adnan, sedangkan orang Yaman dan Qudha'ah sendiri menasabkannya kepada Malik bin Himyar",
+   "src": [
+    "Sirah Ibnu Hisyam 1/10",
+    "Sirah Ibnu Hisyam 1/10"
+   ],
+   "quote": [
+    "نزار بن معد، وقضاعة ابن معد",
+    "فقالت اليمن وقضاعة: قضاعة بن مالك بن حمير"
+   ],
+   "status": "new"
+  }
+ ],
+ "dropped": [
+  {
+   "t": "Bani 'Udzrah melahirkan penyair Jamil bin 'Abdullah bin Ma'mar, kekasih Butsainah",
+   "reason": "person-level (a poet); Jamil bin 'Abdullah is not in the dataset and the source names no clan role"
+  }
+ ]
 }

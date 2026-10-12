@@ -1,37 +1,141 @@
 {
-  "id": "habasyah",
-  "lokasi": {"t": "Habasyah (Ethiopia) dan Tanduk Afrika; banyak menetap di Makkah dan Madinah", "status": "umum"},
-  "militer": [
-    {"t": "Wahsyi bin Harb, dengan tombak yang dulu membunuh Hamzah, ikut membunuh Musailimah al-Kadzdzab bersama seorang Anshar dalam Perang Yamamah",
-     "src": ["Tarikh ath-Thabari 3/290", "Sirah Ibnu Hisyam 2/72"],
-     "quote": ["وَاشْتَرَكَ فِي قَتْلِهِ وَحْشِيٌّ مَوْلَى جُبَيْرِ بْنِ مُطْعَمٍ وَرَجُلٌ مِنَ الأَنْصَارِ", "وَأَخَذْتُ حَرْبَتِي الَّتِي قَتَلْتُ بِهَا حَمْزَةَ"],
-     "status": "rewritten"}
+ "id": "habasyah",
+ "lokasi": {
+  "t": "Negeri Habasyah (Ethiopia) dan Nubia; di Jazirah Arab sebagian di Makkah lalu Madinah, seperti Bilal yang hijrah ke Madinah",
+  "src": [
+   "Tarikh ath-Thabari 2/328",
+   "Ibnu Sa'd 1/498",
+   "Ibnu Sa'd 3/233"
   ],
-  "diplomasi": [
-    {"t": "an-Najasyi melindungi Muhajirin Habasyah dan menolak menyerahkan mereka kepada utusan Quraisy",
-     "src": ["Sirah Ibnu Hisyam 1/335"],
-     "quote": ["فَغَضِبَ النَّجَاشِيُّ، ثُمَّ قَالَ: لَاهَا اللَّهِ، إذَنْ لَا أُسْلِمُهُمْ إلَيْهِمَا"],
-     "status": "ok"},
-    {"t": "an-Najasyi menikahkan Nabi ﷺ dengan Ummu Habibah di Habasyah dan membayarkan maharnya 400 dinar atas nama beliau",
-     "src": ["Sirah Ibnu Hisyam 1/224"],
-     "quote": ["فَخَطَبَهَا عَلَيْهِ النَّجَاشِيُّ، فَزَوَّجَهُ إيَّاهَا، وَأَصْدَقَهَا عَنْ رَسُولِ اللَّهِ"],
-     "status": "rewritten"}
+  "quote": [
+   "وَكَانَ بِالْحَبَشَةِ مَلِكٌ صَالِحٌ يُقَالُ لَهُ النَّجَاشِيُّ",
+   "وكان يسار عبدا نوبيا",
+   "لما هاجر بلال إلى المدينة نزل على سعد بن خيثمة"
   ],
-  "ekonomi": [
-    {"t": "Negeri Habasyah menjadi tempat berdagang kaum Quraisy",
-     "src": ["Tarikh ath-Thabari 2/328"],
-     "quote": ["وَكَانَتْ أَرْضُ الْحَبَشَةِ مَتْجَرًا لِقُرَيْشٍ يَتْجَرُونَ فِيهَا"],
-     "status": "rewritten"}
-  ],
-  "sosial": [
-    {"t": "Bilal bin Rabah, muazin pertama dalam Islam",
-     "src": ["Ibnu Sa'd 3/234"],
-     "quote": ["عن القاسم بن عبد الرحمن قال: أول من أذن بلال"],
-     "status": "ok"},
-    {"t": "Ummu Aiman (Barakah), pengasuh Nabi ﷺ sejak kecil",
-     "src": ["Ibnu Sa'd 1/100"],
-     "quote": ["فكانت أم أيمن تحضنه وأسمها بركة"],
-     "status": "ok"}
-  ],
-  "dropped": []
+  "status": "rewritten"
+ },
+ "militer": [
+  {
+   "t": "Atas permintaan Kaisar, an-Najasyi mengirim 70.000 orang Habasyah di bawah Aryath; mereka mengalahkan Dzu Nuwas dan menguasai Yaman hingga diusir Persia, 72 tahun kemudian",
+   "src": [
+    "Sirah Ibnu Hisyam 1/37",
+    "Sirah Ibnu Hisyam 1/37",
+    "Sirah Ibnu Hisyam 1/68"
+   ],
+   "quote": [
+    "فَبَعَثَ مَعَهُ سَبْعِينَ أَلْفًا مِنْ الْحَبَشَةِ، وَأَمَّرَ عَلَيْهِمْ رَجُلًا مِنْهُمْ يُقَالُ لَهُ أَرْيَاطُ",
+    "وَدَخَلَ أَرْيَاطُ الْيَمَنَ، فَمَلَكَهَا",
+    "إلَى أَنْ قَتَلَتْ الْفُرْسُ مَسْرُوقَ بْنَ أَبْرَهَةَ وَأُخْرِجَتْ الْحَبَشَةُ، اثْنَتَيْنِ وَسَبْعِينَ سَنَةً"
+   ],
+   "status": "new"
+  },
+  {
+   "t": "Pasukan Habasyah di bawah Abrahah bergerak membawa gajah untuk menghancurkan Ka'bah (Tahun Gajah)",
+   "src": [
+    "Sirah Ibnu Hisyam 1/45"
+   ],
+   "quote": [
+    "ثُمَّ أَمَرَ الْحَبَشَةَ فَتَهَيَّأَتْ وَتَجَهَّزَتْ، ثُمَّ سَارَ وَخَرَجَ مَعَهُ بِالْفِيلِ"
+   ],
+   "status": "new"
+  }
+ ],
+ "diplomasi": [
+  {
+   "t": "Kerajaan Habasyah di bawah an-Najasyi melindungi kaum Muhajirin dan menolak menyerahkan mereka kepada utusan Quraisy",
+   "src": [
+    "Sirah Ibnu Hisyam 1/335"
+   ],
+   "quote": [
+    "فَغَضِبَ النَّجَاشِيُّ، ثُمَّ قَالَ: لَاهَا اللَّهِ، إذَنْ لَا أُسْلِمُهُمْ إلَيْهِمَا"
+   ],
+   "status": "rewritten"
+  },
+  {
+   "t": "Nabi ﷺ menyurati an-Najasyi al-Ashham, raja Habasyah, tentang Ja'far dan kaum Muslim; raja itu membalas, menyatakan berbaiat dan masuk Islam",
+   "src": [
+    "Tarikh ath-Thabari 2/652",
+    "Tarikh ath-Thabari 2/653"
+   ],
+   "quote": [
+    "إِلَى النَّجَاشِيِّ الأَصْحَمِ مَلِكِ الْحَبَشَةِ",
+    "وَقَدْ بَايَعْتُكَ وَبَايَعْتُ ابْنَ عَمِّكَ، وَأَسْلَمْتُ عَلَى يَدَيْهِ"
+   ],
+   "status": "new"
+  },
+  {
+   "t": "An-Najasyi mengirim putranya bersama 60 orang Habasyah dengan kapal kepada Nabi ﷺ; kapal itu tenggelam di tengah laut",
+   "src": [
+    "Tarikh ath-Thabari 2/653"
+   ],
+   "quote": [
+    "أَنَّ النَّجَاشِيَّ بَعَثَ ابْنَهُ فِي ستين من الحبشه في سفينه"
+   ],
+   "status": "new"
+  }
+ ],
+ "ekonomi": [
+  {
+   "t": "Negeri Habasyah menjadi tempat berdagang kaum Quraisy",
+   "src": [
+    "Tarikh ath-Thabari 2/328"
+   ],
+   "quote": [
+    "وَكَانَتْ أَرْضُ الْحَبَشَةِ مَتْجَرًا لِقُرَيْشٍ يَتْجَرُونَ فِيهَا"
+   ],
+   "status": "rewritten"
+  },
+  {
+   "t": "Raja Habasyah mengikat perjanjian (hilf) dengan Quraisy bagi perdagangan mereka; menurut Ibnu Sa'd diurus al-Muththalib bin 'Abdi Manaf",
+   "src": [
+    "Ibnu Sa'd 1/81"
+   ],
+   "quote": [
+    "وهو الذي عقد الحلف لقريش من النجاشي في متجرها"
+   ],
+   "status": "new"
+  }
+ ],
+ "sosial": [
+  {
+   "t": "Raja Habasyah seagama dengan Kaisar Romawi (Nasrani), sehingga Kaisar memintanya menolong korban Dzu Nuwas di Yaman",
+   "src": [
+    "Sirah Ibnu Hisyam 1/37"
+   ],
+   "quote": [
+    "فَإِنَّهُ عَلَى هَذَا الدِّينِ، وَهُوَ أَقْرَبُ إلَى بِلَادِكَ"
+   ],
+   "status": "new"
+  },
+  {
+   "t": "Di bawah kekuasaan Habasyah, Abrahah membangun gereja al-Qullais di Shan'a' untuk an-Najasyi, hendak memalingkan haji bangsa Arab ke sana",
+   "src": [
+    "Sirah Ibnu Hisyam 1/43",
+    "Sirah Ibnu Hisyam 1/43"
+   ],
+   "quote": [
+    "إنِّي قَدْ بَنَيْتُ لَكَ أَيُّهَا الْمَلِكُ كَنِيسَةً",
+    "أَصْرِفَ إلَيْهَا حَجَّ الْعَرَبِ"
+   ],
+   "status": "new"
+  }
+ ],
+ "dropped": [
+  {
+   "t": "Wahsyi bin Harb, dengan tombak yang dulu membunuh Hamzah, ikut membunuh Musailimah al-Kadzdzab bersama seorang Anshar dalam Perang Yamamah",
+   "reason": "already in biography of n6779"
+  },
+  {
+   "t": "an-Najasyi menikahkan Nabi ﷺ dengan Ummu Habibah di Habasyah dan membayarkan maharnya 400 dinar atas nama beliau",
+   "reason": "already in biography of n2020 (Ummu Habibah)"
+  },
+  {
+   "t": "Bilal bin Rabah, muazin pertama dalam Islam",
+   "reason": "moved to biography of s491"
+  },
+  {
+   "t": "Ummu Aiman (Barakah), pengasuh Nabi ﷺ sejak kecil",
+   "reason": "already in biography of s4365"
+  }
+ ]
 }

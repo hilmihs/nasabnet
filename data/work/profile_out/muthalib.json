@@ -1,0 +1,75 @@
+{
+  "id": "muthalib",
+  "nama_arti": {
+    "t": "Nama diambil dari leluhur eponim, al-Muththalib bin Abdi Manaf.",
+    "src": [
+      "Jamharat Ansab al-'Arab, hlm. 72"
+    ],
+    "quote": [
+      "وهؤلاء بنو المطّلب بن عبد مناف ولد المطّلب بن عبد مناف: مخرمة"
+    ],
+    "status": "ok"
+  },
+  "titik_temu": {
+    "t": "Bertemu dengan Bani Hasyim, Bani Abdi Syams (termasuk Bani Umayyah bin Abdi Syams), dan Bani Naufal pada Abdu Manaf bin Qushay, yang berputra empat: Hasyim, Abdu Syams, al-Muththalib, dan Naufal.",
+    "src": [
+      "Sirah Ibnu Hisyam 1/106",
+      "Sirah Ibnu Hisyam 1/106",
+      "Sirah Ibnu Hisyam 1/106"
+    ],
+    "quote": [
+      "فَوَلَدَ عَبْدُ مَنَافٍ- وَاسْمُهُ الْمُغِيرَةُ بْنُ قُصَيٍّ- أَرْبَعَةَ نَفَرٍ: هَاشِمَ",
+      "وَنَوْفَلَ بْنَ عَبْدِ مَنَافٍ، وَأُمُّهُ وَاقِدَةُ بِنْتُ عَمْرٍو",
+      "مَا وَقع بَين بنى هَاشم وَبنى أُميَّة بن عبد شمس"
+    ],
+    "status": "rewritten"
+  },
+  "wilayah": {
+    "t": "Makkah; Bani al-Muththalib termasuk kabilah yang bersumpah dalam Hilf al-Fudhul bahwa tidak seorang pun boleh dizalimi di Makkah.",
+    "src": [
+      "al-Munammaq, hlm. 53",
+      "al-Munammaq, hlm. 53"
+    ],
+    "quote": [
+      "ثم إن بني هاشم وبني المطلب وبني زهرة وبني تيم",
+      "لا يظلم بمكة أحد إلا كنا جميعا مع المظلوم"
+    ],
+    "status": "rewritten"
+  },
+  "peran_sosial": {
+    "t": "Bersama Bani Hasyim memenuhi ajakan Abu Thalib untuk melindungi Nabi ﷺ; ketika Quraisy memboikot, Bani al-Muththalib ikut bergabung dengan Abu Thalib masuk ke syi'ibnya.",
+    "src": [
+      "Sirah Ibnu Hisyam 1/269",
+      "Sirah Ibnu Hisyam 1/351"
+    ],
+    "quote": [
+      "فِي بَنِي هَاشِمٍ وَبَنِيَّ الْمُطَّلِبِ، فَدَعَاهُمْ إلَى مَا هُوَ عَلَيْهِ، مِنْ مَنْعِ رَسُولِ اللَّهِ ﷺ",
+      "انْحَازَتْ بَنُو هَاشِمٍ وَبَنُو الْمُطَّلِبِ إلَى أَبِي طَالِبِ بْنِ عَبْدِ الْمُطَّلِبِ، فَدَخَلُوا مَعَهُ فِي شِعْبِهِ"
+    ],
+    "status": "rewritten"
+  },
+  "hilf": {
+    "t": "Nabi ﷺ membagikan bagian (khumus) kepada Bani Hasyim dan Bani al-Muththalib; ketika Jubair bin Muth'im (Naufal) dan Utsman (Abdu Syams) meminta bagian serupa, beliau menolak dan bersabda: \"Bani Hasyim dan Bani al-Muththalib adalah satu.\"",
+    "src": [
+      "al-Ishabah 1/571",
+      "al-Ishabah 1/571"
+    ],
+    "quote": [
+      "فسألاه أن يقسم لهم كما قسم لبني هاشم والمطلب",
+      "فأبى وقال: إنما بنو هاشم وبنو المطلب شيء واحد"
+    ],
+    "status": "rewritten"
+  },
+  "dinamika": {
+    "t": "Dalam sirah, Bani al-Muththalib selalu disebut bersama Bani Hasyim: piagam boikot Quraisy ditulis atas keduanya, dan daftar peserta Badar menggabungkan keduanya dalam satu kelompok.",
+    "src": [
+      "Sirah Ibnu Hisyam 1/350",
+      "Sirah Ibnu Hisyam 1/677"
+    ],
+    "quote": [
+      "يَتَعَاقَدُونَ فِيهِ عَلَى بَنِي هَاشِمٍ، وَبَنِيَّ الْمُطَّلِبِ، عَلَى أَنْ لَا يُنْكِحُوا إلَيْهِمْ",
+      "بَنِي هَاشِمِ بْنِ عَبْدِ مَنَافٍ وَبَنِي الْمُطَّلِبِ بْنِ عَبْدِ مَنَافِ بْنِ قُصَيِّ"
+    ],
+    "status": "rewritten"
+  }
+}

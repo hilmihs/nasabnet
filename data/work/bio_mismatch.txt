@@ -111,3 +111,11 @@ n7270	f3	data	record merges Mujibah al-Bahiliyyah and her father/uncle (the comp
 n10729	f3	data	Qais al-Kilabi: Ibnu Hajar says companionship is a mistake
 n6601	f3	data	Namlah bin Abi Namlah tabi'i
 n6579	f3	data	Nu'aim bin Abi Hind tabi'i
+- n754 / n755 Ummul 'Ala' al-Anshariyyah: same woman entered twice (find_f5, 2026-10-12)
+- n6569 an-Nu'man bin Abi 'Ayyash: tabi'i, not a companion (find_z4)
+- n4205 / n7273: names confused in the books, check they are two people (find_z4)
+- n355 Abu Malik al-Asy'ari: matched al-Ishabah 7/295 = a different Abu Malik ('آخر' entry) (verify f5)
+- n785 / s4458 Ummu Kurz: same woman twice (find_f4)
+- n796 / s4459 Ummu Ma'qal: same woman twice (find_f4)
+- n9223 Ummu Hunaidah: excerpts are her son Hunaidah's entry (verify f4)
+- n4112: al-Ishabah 7/37 excerpt is Abu Bashrah's entry (verify f4)

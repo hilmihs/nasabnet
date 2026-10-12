@@ -1,44 +1,139 @@
 {
   "id": "tsaqif",
-  "lokasi": {"t": "Tha'if (Hijaz)",
-    "src": ["Sirah Ibnu Hisyam 2/478"],
-    "quote": ["ثَقِيفٍ الطَّائِفَ أَغْلَقُوا عَلَيْهِمْ أَبْوَابَ مَدِينَتِهَا"],
-    "status": "ok"},
+  "lokasi": {
+    "t": "Tha'if (Hijaz)",
+    "src": [
+      "Sirah Ibnu Hisyam 2/478"
+    ],
+    "quote": [
+      "ثَقِيفٍ الطَّائِفَ أَغْلَقُوا عَلَيْهِمْ أَبْوَابَ مَدِينَتِهَا"
+    ],
+    "status": "ok"
+  },
   "militer": [
-    {"t": "Bertahan di benteng Tha'if saat dikepung kaum Muslimin setelah Hunain (Syawal 8 H)",
-     "src": ["Ibnu Sa'd 2/158", "Ibnu Sa'd 2/158"],
-     "quote": ["غزوة رسول الله، ﷺ، الطائف في شوال سنة ثمان من مهاجره", "فلما انهزموا من أوطاس دخلوا حصنهم وأغلقوه عليهم وتهيأوا للقتال"],
-     "status": "ok"},
-    {"t": "Abu 'Ubaid bin Mas'ud ats-Tsaqafi diangkat 'Umar memimpin pasukan ke Irak dan gugur diinjak gajah dalam Perang Jisr",
-     "src": ["Tarikh ath-Thabari 3/445", "Tarikh ath-Thabari 3/456", "Tarikh ath-Thabari 3/457"],
-     "quote": ["فأمر أبا عبيد على الجيش", "فعقد ابن صلوبا الجسر للفريقين جميعا", "فلما بصر الناس بأبي عبيد تحت الفيل"],
-     "status": "rewritten"}
+    {
+      "t": "Bertahan di benteng Tha'if saat dikepung kaum Muslimin setelah Hunain (Syawal 8 H)",
+      "src": [
+        "Ibnu Sa'd 2/158",
+        "Ibnu Sa'd 2/158"
+      ],
+      "quote": [
+        "غزوة رسول الله، ﷺ، الطائف في شوال سنة ثمان من مهاجره",
+        "فلما انهزموا من أوطاس دخلوا حصنهم وأغلقوه عليهم وتهيأوا للقتال"
+      ],
+      "status": "ok"
+    },
+    {
+      "t": "Dalam Perang Jisr, setelah panglima Abu 'Ubaid bin Mas'ud ats-Tsaqafi tewas diinjak gajah, tujuh orang Tsaqif berturut-turut memegang panji dan bertempur hingga gugur",
+      "src": [
+        "Tarikh ath-Thabari 3/457",
+        "Tarikh ath-Thabari 3/457"
+      ],
+      "quote": [
+        "فلما بصر الناس بأبي عبيد تحت الفيل",
+        "وَتَتَابَعَ سَبْعَةٌ مِنْ ثَقِيفٍ، كُلُّهُمْ يَأْخُذُ اللِّوَاءَ فَيُقَاتِلُ حَتَّى يَمُوتَ"
+      ],
+      "status": "rewritten"
+    }
   ],
   "diplomasi": [
-    {"t": "'Urwah bin Mas'ud ats-Tsaqafi menjadi utusan Quraisy dalam perundingan Hudaibiyah",
-     "src": ["Sirah Ibnu Hisyam 2/313"],
-     "quote": ["ثم بعثوا إلى رسول الله ﷺ عروة بن مسعود الثقفي"],
-     "status": "ok"},
-    {"t": "Delegasi Tsaqif datang ke Madinah dan menyatakan masuk Islam (Ramadhan 9 H)",
-     "src": ["Sirah Ibnu Hisyam 2/537"],
-     "quote": ["أمر وفد ثقيف وإسلامها في شهر رمضان سنة تسع"],
-     "status": "ok"},
-    {"t": "al-Mughirah bin Syu'bah termasuk 'duhat al-'Arab' (ahli siasat Arab) dan diutus menemui Rustum menjelang Qadisiyah",
-     "src": ["al-Muhabbar, hlm. 184", "Tarikh ath-Thabari 3/521"],
-     "quote": ["و(المغيرة) ابن شعبة الثقفي", "فبعثوا إليهم المغيرة بن شعبة"],
-     "status": "ok"}
+    {
+      "t": "Delegasi Tsaqif datang ke Madinah dan menyatakan masuk Islam (Ramadhan 9 H)",
+      "src": [
+        "Sirah Ibnu Hisyam 2/537"
+      ],
+      "quote": [
+        "أمر وفد ثقيف وإسلامها في شهر رمضان سنة تسع"
+      ],
+      "status": "ok"
+    },
+    {
+      "t": "Nabi ﷺ menulis surat bagi Tsaqif yang menjamin mereka dzimmah Allah dan dzimmah Muhammad",
+      "src": [
+        "Ibnu Sa'd 1/284"
+      ],
+      "quote": [
+        "وكتب رسول الله، ﷺ، لثقيف كتابًا أن لهم ذمة الله وذمة محمد بن عبد الله"
+      ],
+      "status": "new"
+    },
+    {
+      "t": "Ketika Abrahah melewati Tha'if, para lelaki Tsaqif menyatakan tunduk kepadanya agar al-Lata tidak diusik, lalu mengirim Abu Righal sebagai penunjuk jalan ke Makkah",
+      "src": [
+        "Sirah Ibnu Hisyam 1/46",
+        "Sirah Ibnu Hisyam 1/47"
+      ],
+      "quote": [
+        "إنَّمَا نَحْنُ عَبِيدُكَ سَامِعُونَ لَكَ مُطِيعُونَ",
+        "فبعثوا مَعَه أبار غال يَدُلُّهُ عَلَى الطَّرِيقِ إلَى مَكَّةَ"
+      ],
+      "status": "new"
+    }
   ],
   "ekonomi": [
-    {"t": "Tha'if berkebun anggur: Nabi ﷺ sempat memerintahkan kebun anggur Tsaqif ditebang saat pengepungan; hartawan Quraisy ('Utbah dan Syaibah bin Rabi'ah) juga memiliki kebun di sana",
-     "src": ["Tarikh ath-Thabari 3/84", "Sirah Ibnu Hisyam 1/420"],
-     "quote": ["فأمر رسول الله بقطع أعناب ثقيف", "لِعُتْبَةَ بْنِ رَبِيعَةَ وَشَيْبَةَ بْنِ رَبِيعَةَ، وَهُمَا فِيهِ"],
-     "status": "rewritten"}
+    {
+      "t": "Tha'if berkebun anggur: Nabi ﷺ sempat memerintahkan kebun anggur Tsaqif ditebang saat pengepungan; hartawan Quraisy ('Utbah dan Syaibah bin Rabi'ah) juga memiliki kebun di sana",
+      "src": [
+        "Tarikh ath-Thabari 3/84",
+        "Sirah Ibnu Hisyam 1/420"
+      ],
+      "quote": [
+        "فأمر رسول الله بقطع أعناب ثقيف",
+        "لِعُتْبَةَ بْنِ رَبِيعَةَ وَشَيْبَةَ بْنِ رَبِيعَةَ، وَهُمَا فِيهِ"
+      ],
+      "status": "rewritten"
+    },
+    {
+      "t": "Atas permintaan delegasi Tsaqif, Nabi ﷺ menetapkan Wajj (lembah Tha'if) sebagai tanah larangan: pohon berduri dan binatang buruannya tidak boleh ditebang dan diburu",
+      "src": [
+        "Ibnu Sa'd 1/285",
+        "Ibnu Sa'd 1/285"
+      ],
+      "quote": [
+        "وسأل وفد ثقيف رسول الله، ﷺ، أن يحرم لهم وجًا",
+        "ان عضاه وجٍ وصيده لا يعضد"
+      ],
+      "status": "new"
+    }
   ],
   "sosial": [
-    {"t": "Pemuja berhala al-Lata di Tha'if (juru kuncinya Bani Mu'attib), yang dihancurkan Abu Sufyan dan al-Mughirah atas perintah Nabi ﷺ",
-     "src": ["Sirah Ibnu Hisyam 1/85", "al-Muhabbar, hlm. 315"],
-     "quote": ["لِثَقِيفِ بِالطَّائِفِ، وَكَانَ سَدَنَتَهَا وَحُجَّابَهَا بَنُو مُعَتِّبٍ", "فبعث رسول الله صلى الله عليه أبا سفيان بن حرب والمغيرة بن شعبة فهدماه"],
-     "status": "rewritten"}
+    {
+      "t": "Pemuja berhala al-Lata di Tha'if (juru kuncinya Bani Mu'attib), yang dihancurkan Abu Sufyan dan al-Mughirah atas perintah Nabi ﷺ",
+      "src": [
+        "Sirah Ibnu Hisyam 1/85",
+        "al-Muhabbar, hlm. 315"
+      ],
+      "quote": [
+        "لِثَقِيفِ بِالطَّائِفِ، وَكَانَ سَدَنَتَهَا وَحُجَّابَهَا بَنُو مُعَتِّبٍ",
+        "فبعث رسول الله صلى الله عليه أبا سفيان بن حرب والمغيرة بن شعبة فهدماه"
+      ],
+      "status": "rewritten"
+    },
+    {
+      "t": "Ketika kabilah-kabilah Arab murtad sepeninggal Nabi ﷺ, Tsaqif bersama Quraisy tetap dalam Islam; sebagian Hawazin (Jadilah dan al-A'jaz) mengikuti mereka",
+      "src": [
+        "Tarikh ath-Thabari 3/242",
+        "Tarikh ath-Thabari 3/242"
+      ],
+      "quote": [
+        "وارتدت من كل قبيلة عامة أو خاصه الا قريشا وثقيفا",
+        "الا ما كان من ثقيف ولفها، فإنهم اقتدى بهم عوام جديلة والأعجاز"
+      ],
+      "status": "new"
+    }
   ],
-  "dropped": []
+  "dropped": [
+    {
+      "t": "Abu 'Ubaid bin Mas'ud ats-Tsaqafi diangkat 'Umar memimpin pasukan ke Irak dan gugur diinjak gajah dalam Perang Jisr",
+      "reason": "moved to biography of x7d8564b6; bagian Jisr ditulis ulang ke tingkat kabilah (tujuh orang Tsaqif gugur memegang panji)"
+    },
+    {
+      "t": "'Urwah bin Mas'ud ats-Tsaqafi menjadi utusan Quraisy dalam perundingan Hudaibiyah",
+      "reason": "moved to biography of xd5fcdc9e"
+    },
+    {
+      "t": "al-Mughirah bin Syu'bah termasuk 'duhat al-'Arab' (ahli siasat Arab) dan diutus menemui Rustum menjelang Qadisiyah",
+      "reason": "already in biography of n6305"
+    }
+  ]
 }

@@ -1,0 +1,43 @@
+{
+  "id": "khatsam",
+  "nama_arti": {
+    "t": "Nama diambil dari leluhur eponim, Khath'am bin Anmar (disebut juga Aqil; menurut Ibnu Duraid namanya Aftal). Asal namanya tidak satu: Ibnu Duraid menukil dari Ibnul Kalbi bahwa mereka menyembelih seekor unta lalu berlumur darahnya (takhath'amu), dan juga bahwa mereka dinamai menurut seekor unta bernama Khath'am.",
+    "src": ["Jamharat Ansab al-'Arab, hlm. 390", "al-Isytiqaq, hlm. 520", "al-Isytiqaq, hlm. 515"],
+    "quote": [
+      "وهؤلاء بنو خثعم بن أنمار، وهو أقيل",
+      "واشتقاق خثعم فيما ذكر ابنُ الكلبي أنَّهم نَحَروا جزورًا فتخثعَموا عليه بالدَّم",
+      "وإنَّما سُمُّوا خثعَمَ بجملٍ يقال له خَثعم"
+    ],
+    "status": "rewritten"
+  },
+  "wilayah": {
+    "t": "Negeri Khath'am bersama saudara mereka Bajilah berada di pegunungan Sarawat Yaman dan Hijaz; pada masa penaklukan mereka menyebar ke berbagai negeri, dan keturunan Nufail bin Habib bermukim di Ilbirah (Andalusia).",
+    "src": ["Nihayat al-Arab al-Qalqasyandi, hlm. 243", "Nihayat al-Arab al-Qalqasyandi, hlm. 243", "Jamharat Ansab al-'Arab, hlm. 391"],
+    "quote": [
+      "وبلاد خثعم مع أخوتهم بجيلة بسروات اليمن والحجاز",
+      "وقد افترقوا في الآفاق أيام الفتح فلم يبق منهم في مواطنهم إلا القليل",
+      "ومن ولده بالأندلس، بإلبيرة"
+    ],
+    "status": "rewritten"
+  },
+  "peran_sosial": {
+    "t": "Dikenal lewat Asma' binti 'Umais, istri Ja'far bin Abi Thalib yang kemudian menikah dengan Abu Bakar ash-Shiddiq (lalu 'Ali), dan saudarinya Salma yang menikah dengan Hamzah bin Abdul Muththalib.",
+    "src": ["Jamharat Ansab al-'Arab, hlm. 391", "Jamharat Ansab al-'Arab, hlm. 391"],
+    "quote": [
+      "تزوّج أسماء جعفر بن أبي طالب؛ فولدت له عبد الله، ومحمّدا، وعونا؛ ثمّ تزوّجها أبو بكر الصديق",
+      "وتزوّج سلمى حمزة بن عبد المطّلب"
+    ],
+    "status": "ok"
+  },
+  "dinamika": {
+    "t": "Pada masa penaklukan Khath'am menyebar ke berbagai negeri; di antara tokohnya Bisyr bin Rabi'ah yang ikut di Qadisiyah, dan Malik bin 'Abdullah yang memimpin ekspedisi musim panas (shawa'if) selama empat puluh tahun pada masa Mu'awiyah, Yazid, dan 'Abdullah; sebagian keturunannya bermukim di Andalusia.",
+    "src": ["Nihayat al-Arab al-Qalqasyandi, hlm. 243", "Jamharat Ansab al-'Arab, hlm. 391", "Jamharat Ansab al-'Arab, hlm. 391", "Jamharat Ansab al-'Arab, hlm. 391"],
+    "quote": [
+      "وقد افترقوا في الآفاق أيام الفتح",
+      "شهد القادسية وكان شريفا، وإليه تنسب جبّانة بشر بالكوفة",
+      "قاد الصوائف أربعين سنة أيام معاوية ويزيد وعبد الله",
+      "ومن ولده بالأندلس، بإلبيرة"
+    ],
+    "status": "rewritten"
+  }
+}

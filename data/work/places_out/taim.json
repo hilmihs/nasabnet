@@ -1,0 +1,23 @@
+{"id": "taim", "places": [
+  {"t": "Makkah (Dar 'Abdullah bin Jud'an)", "ar": "مكة", "kind": "kota", "note": "Kabilah-kabilah Quraisy berkumpul untuk Hilf al-Fudhul di rumah 'Abdullah bin Jud'an at-Taimi di Makkah",
+   "src": ["Sirah Ibnu Hisyam 1/133"], "quote": ["فاجتمعوا له في دار عبد الله بن جدعان"],
+   "qid": "Q5806", "lat": 21.4225, "lon": 39.8261, "precision": "tepat"},
+  {"t": "al-Bithah (lembah Makkah)", "ar": "البطاح", "kind": "lembah", "note": "Bani Taim bin Murrah termasuk Quraisy al-Bithah, yang masuk ke al-Bithah bersama Qushay",
+   "src": ["al-Muhabbar, hlm. 167"], "quote": ["وبنو زهرة بن كلاب. وبنو تيم بن مرة"],
+   "qid": "Q5806", "lat": 21.4225, "lon": 39.8261, "precision": "perkiraan", "near": "Makkah"},
+  {"t": "Sumur ats-Tsurayya", "ar": "الثريا", "kind": "mata air", "note": "Sumur di Makkah milik Bani Taim bin Murrah; menurut al-Waqidi milik 'Abdullah bin Jud'an",
+   "src": ["Mu'jam al-Buldan 2/77"], "quote": ["وثريا: اسم بئر بمكة لبني تيم بن مرة"],
+   "qid": "Q5806", "lat": 21.4225, "lon": 39.8261, "precision": "perkiraan", "near": "Makkah"},
+  {"t": "Sumur al-Hafr / al-Jafr", "ar": "الحفر", "kind": "mata air", "note": "Sumur Bani Taim bin Murrah di Makkah (al-Hazimi membacanya al-Jafr)",
+   "src": ["Mu'jam al-Buldan 2/275"], "quote": ["وحفر: بئر لبني تيم ابن مرة بمكة"],
+   "qid": "Q5806", "lat": 21.4225, "lon": 39.8261, "precision": "perkiraan", "near": "Makkah"},
+  {"t": "Madinah (rumah Abu Bakr dan Thalhah)", "ar": "المدينة", "kind": "kota", "note": "Nabi ﷺ memberi Thalhah bin 'Ubaidillah lahan rumah-rumahnya dan Abu Bakr lahan rumahnya dekat masjid",
+   "src": ["Mu'jam al-Buldan 5/86"], "quote": ["وجعل لطلحة بن عبيد الله موضع دوره ولأبي بكر"],
+   "qid": "Q35484", "lat": 24.47, "lon": 39.61, "precision": "tepat"},
+  {"t": "as-Sunh", "ar": "السنح", "kind": "desa", "note": "Permukiman Bani al-Harits bin al-Khazraj di Madinah, satu mil dari rumah Nabi ﷺ; Abu Bakr tinggal di sana",
+   "src": ["Mu'jam ma Ista'jam 3/760"], "quote": ["وكان أبو بكر هناك نازلا"],
+   "qid": "Q35484", "lat": 24.47, "lon": 39.61, "precision": "perkiraan", "near": "Madinah"},
+  {"t": "Bustan Ibnu Ma'mar", "ar": "بستان ابن معمر", "kind": "lembah", "note": "Pertemuan dua wadi Nakhlah (al-Yamaniyah dan asy-Syamiyah); kebun milik 'Umar bin 'Ubaidillah bin Ma'mar at-Taimi",
+   "src": ["Mu'jam al-Buldan 1/414"], "quote": ["بستان ابن عامر انما هو لعمر بن عبيد الله بن معمر"],
+   "lat": null, "lon": null}
+]}

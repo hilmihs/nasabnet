@@ -1,0 +1,34 @@
+{
+  "id": "azd",
+  "nama_arti": {
+    "t": "Nama diambil dari leluhur eponim, al-Azd (nama aslinya Adad) bin al-Ghauts; menurut Ibnu Duraid, nama al-Asd (ejaan lain al-Azd) berasal dari asida ar-rajul, yakni berlaku seperti singa.",
+    "src": ["Jamharat Ansab al-'Arab, hlm. 330", "al-Isytiqaq, hlm. 435"],
+    "quote": ["فولد الغوث: أدد، وهو الأزد؛ وعمرو", "اشتقاق الأسْد من قولهم: أسِدَ الرجل يَأسَدُ أَسَدًا، إذا تشبّه بالأسَد"],
+    "status": "rewritten"
+  },
+  "titik_temu": {
+    "t": "al-Azd termasuk rumpun Kahlan bin Saba' (Qahthan); bersaudara terdekat dengan Khats'am dan Bajilah (keturunan 'Amr bin al-Ghauts), bertemu dengan Hamdan pada Malik bin Zaid bin Kahlan (Azd dari Nabt, Hamdan dari al-Khiyar), dan dengan Himyar baru pada Saba'.",
+    "src": ["Jamharat Ansab al-'Arab, hlm. 330", "Jamharat Ansab al-'Arab, hlm. 330", "Jamharat Ansab al-'Arab, hlm. 392", "Jamharat Ansab al-'Arab, hlm. 329"],
+    "quote": ["فولد الغوث: أدد، وهو الأزد؛ وعمرو. فمن ولد عمرو: خثعم، وبجيلة", "ولد مالك بن زيد بن كهلان: الخيار؛ ونبت", "وهؤلاء بنو همدان بن مالك بن زيد بن أوسلة بن ربيعة بن الخيار", "فولد سبأ: كهلان؛ والعرنجج، وهو حمير"],
+    "status": "rewritten"
+  },
+  "wilayah": {
+    "t": "Awalnya di Yaman; menjelang runtuhnya bendungan Ma'rib, al-Azd keluar bersama 'Amr bin 'Amir lalu berpencar: Al Jafnah (Ghassan) ke Syam, al-Aus dan al-Khazraj ke Yatsrib, Khuza'ah ke Marr, Azd as-Sarah ke as-Sarah, dan Azd 'Uman ke Oman.",
+    "src": ["Sirah Ibnu Hisyam 1/13", "Sirah Ibnu Hisyam 1/13", "Sirah Ibnu Hisyam 1/13", "Sirah Ibnu Hisyam 1/13"],
+    "quote": ["وَقَالَتْ الْأَزْدُ: لَا نَتَخَلَّفُ عَنْ عَمْرِو بْنِ عَامِرٍ", "فَنَزَلَ آلُ جَفْنَةَ بْنِ عَمْرِو بْنِ عَامِرٍ الشَّامَ، وَنَزَلَتْ الْأَوْسُ وَالْخَزْرَجُ يَثْرِبَ", "وَنَزَلَتْ أَزْد السّراة السَّرَاةَ", "وَنَزَلَتْ أَزْدُ عَمَّانَ عُمَانَ، ثُمَّ أَرْسَلَ اللَّهُ تَعَالَى عَلَى السَّدِّ السَّيْلَ"],
+    "status": "rewritten"
+  },
+  "peran_sosial": {
+    "t": "Induk banyak kabilah besar: al-Aus dan al-Khazraj (dari Tsa'labah al-'Anqa' bin 'Amr Muzaiqiya'), Ghassan (anak-anak 'Amr Muzaiqiya'), dan Daus (dari Nashr bin al-Azd); menurut satu pendapat, Khuza'ah juga dari Azd.",
+    "src": ["Jamharat Ansab al-'Arab, hlm. 331", "Jamharat Ansab al-'Arab, hlm. 331", "Jamharat Ansab al-'Arab, hlm. 473", "Jamharat Ansab al-'Arab, hlm. 331"],
+    "quote": ["وثعلبة العنقاء بن عمرو، من ولده الأوس والخزرج", "فغسّان هم: بنو الحارث، وجفنة، ومالك، وكعب، بنى عمرو مزيقياء فقط", "مالك بن نصر بن الأزد بن الغوث؛ ولدوس بطون، منها بنو سليمة", "وحارثة بن عمرو، وقيل: من ولده خزاعة"],
+    "status": "rewritten"
+  },
+  "dinamika": {
+    "t": "Dari Bani al-'Atik, cabang al-Azd, lahir al-Muhallab bin Abi Shufrah, yang diangkat al-Hajjaj menjadi gubernur Khurasan pada 78 H; keturunannya tersebar di Bashrah dan tempat lain.",
+    "src": ["Jamharat Ansab al-'Arab, hlm. 367", "Tarikh ath-Thabari 6/322", "Jamharat Ansab al-'Arab, hlm. 368"],
+    "quote": ["وهؤلاء ولد العتيك بن الأزد بن عمرو مزيقياء منهم: المهلّب بن أبي صفرة", "لما ولى الحجاج المهلب خراسان، وعبيد الله بن أبي بكرة سجستان", "أعقب منهم تسعة عشر، وأعقابهم بالبصرة وبغيرها"],
+    "status": "rewritten"
+  },
+  "dropped": []
+}

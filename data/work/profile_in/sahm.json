@@ -1,0 +1,35 @@
+{
+ "id": "sahm",
+ "name": "Bani Sahm",
+ "ar": "بنو سهم",
+ "group": "quraisy",
+ "umum": {
+  "nama_arti": "Nama diambil dari leluhur eponim, Sahm bin 'Amr.",
+  "wilayah": "Makkah.",
+  "peran_sosial": "Klan 'Amr bin al-'Ash, penakluk Mesir dan gubernurnya yang pertama pada masa Umar bin al-Khaththab.",
+  "dinamika": "'Amr bin al-'Ash awalnya menentang Islam sebelum masuk Islam menjelang Fathu Makkah, lalu menjadi panglima penakluk Mesir dan gubernurnya pada masa Umar dan kemudian Mu'awiyah."
+ },
+ "already_cited": {
+  "leluhur": {
+   "t": "Sahm bin 'Amr bin Hushaish bin Ka'b.",
+   "src": [
+    "Jamharat Ansab al-'Arab, hlm. 163"
+   ]
+  },
+  "titik_temu": {
+   "t": "Bersaudara dengan Bani Jumah, keduanya anak 'Amr bin Hushaish bin Ka'b; bersama 'Adi dan Murrah bertemu pada Ka'b bin Lu'ay, namun dengan seluruh Quraisy bertemu pada Fihr bin Malik.",
+   "src": [
+    "Jamharat Ansab al-'Arab, hlm. 163"
+   ]
+  },
+  "struktur": {
+   "t": "Dua anak Sahm: Sa'd dan Sa'id; dari Sa'id lahir cabang al-'Ash bin Wa'il, ayah 'Amr bin al-'Ash; dari Sa'd lahir cabang Shubairah dan al-Harits, ayah al-Muththalib Abu Sufyan.",
+   "src": [
+    "Jamharat Ansab al-'Arab, hlm. 163"
+   ]
+  }
+ },
+ "roles_umum": [
+  "lokasi"
+ ]
+}

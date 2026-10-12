@@ -1,0 +1,99 @@
+{
+  "id": "aslam",
+  "places": [
+    {
+      "t": "Yayin",
+      "ar": "يين",
+      "kind": "daerah",
+      "note": "Kawasan di pinggiran Madinah sejauh satu barid; manazil Aslam bin Khuza'ah",
+      "src": [
+        "Mu'jam al-Buldan 5/454"
+      ],
+      "quote": [
+        "يين ناحية من أعراض المدينة على بريد منها وهي منازل أسلم بن خزاعة"
+      ],
+      "qid": "Q35484",
+      "lat": 24.47,
+      "lon": 39.61,
+      "precision": "perkiraan",
+      "near": "al-Madinah"
+    },
+    {
+      "t": "Yayin (Rabi'ah bin Ka'b)",
+      "ar": "يين",
+      "kind": "daerah",
+      "note": "Setelah Nabi ﷺ wafat, Rabi'ah bin Ka'b al-Aslami keluar dari Madinah dan tinggal di Yayin, negeri Aslam",
+      "src": [
+        "Ibnu Sa'd 4/313"
+      ],
+      "quote": [
+        "فخرج ربيعة من المدينة فنزل يين، وهى من بلاد أسلم"
+      ],
+      "qid": "Q35484",
+      "lat": 24.47,
+      "lon": 39.61,
+      "precision": "perkiraan",
+      "near": "al-Madinah"
+    },
+    {
+      "t": "Jumdan",
+      "ar": "جمدان",
+      "kind": "gunung",
+      "note": "Termasuk manazil Aslam, antara Qudaid dan 'Usfan",
+      "src": [
+        "Mu'jam al-Buldan 2/161"
+      ],
+      "quote": [
+        "وهو من منازل أسلم بين قديد وعسفان"
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "t": "al-'Arj",
+      "ar": "العرج",
+      "kind": "desa",
+      "note": "Termasuk negeri Aslam; 17 mil dari as-Suqya",
+      "src": [
+        "Mu'jam ma Ista'jam 3/931"
+      ],
+      "quote": [
+        "والعرج من بلاد أسلم"
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "t": "Marr azh-Zhahran",
+      "ar": "مر الظهران",
+      "kind": "lembah",
+      "note": "Satu marhalah dari Makkah; banyak mata air, kurma, dan pohon ara milik Aslam, Hudzail, dan Ghadhirah",
+      "src": [
+        "Mu'jam al-Buldan 5/104",
+        "Mu'jam al-Buldan 5/104"
+      ],
+      "quote": [
+        "موضع على مرحلة من مكة",
+        "وبمرّ عيون كثيرة ونخل وجميز وهو لأسلم وهذيل وغاضرة"
+      ],
+      "qid": "W495723064",
+      "lat": 21.6136,
+      "lon": 39.7103,
+      "precision": "tepat"
+    },
+    {
+      "t": "Dhajnan",
+      "ar": "ضجنان",
+      "kind": "gunung",
+      "note": "Milik Aslam, Hudzail, dan Ghadhirah; menurut al-Waqidi 25 mil dari Makkah",
+      "src": [
+        "Mu'jam al-Buldan 3/453"
+      ],
+      "quote": [
+        "بين ضجنان ومكّة خمسة وعشرون ميلا، وهي لأسلم وهذيل وغاضرة"
+      ],
+      "lat": null,
+      "lon": null
+    }
+  ]
+}

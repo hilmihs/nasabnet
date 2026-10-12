@@ -1,0 +1,56 @@
+{
+ "id": "adi",
+ "places": [
+  {
+   "t": "Bathha' Makkah",
+   "ar": "بطحاء مكة",
+   "kind": "lembah",
+   "note": "Bani 'Adi bin Ka'b termasuk Quraisy al-Bithah, kabilah-kabilah Ka'b bin Lu'ai yang menempati Bathha' Makkah",
+   "src": [
+    "Mu'jam ma Ista'jam 1/257"
+   ],
+   "quote": [
+    "وبنو سهم ابنى عمرو بن هصيص بن كعب، وبنو عدىّ بن كعب"
+   ],
+   "qid": "Q5806",
+   "lat": 21.4225,
+   "lon": 39.8261,
+   "precision": "perkiraan",
+   "near": "Makkah"
+  },
+  {
+   "t": "Asfal ats-Tsaniyyah (Makkah)",
+   "ar": "أسفل الثنية",
+   "kind": "distrik",
+   "note": "Bagian Bani 'Adi dalam pembagian Makkah oleh Qushai: bagian bawah ats-Tsaniyyah, antara Bani Jumah dan Bani Sahm",
+   "src": [
+    "Mu'jam ma Ista'jam 1/258"
+   ],
+   "quote": [
+    "ولبنى عدىّ أسفل الثنيّة، فيما بين بنى جمح وبنى سهم"
+   ],
+   "qid": "Q5806",
+   "lat": 21.4225,
+   "lon": 39.8261,
+   "precision": "perkiraan",
+   "near": "Makkah"
+  },
+  {
+   "t": "Ghuran (dekat 'Usfan)",
+   "ar": "غران",
+   "kind": "lembah",
+   "note": "Tempat di arah 'Usfan yang ditempati Bani Suraqah bin Mu'tamir dari Bani 'Adi bin Ka'b; mereka punya banyak harta di sana",
+   "src": [
+    "Mu'jam ma Ista'jam 3/992"
+   ],
+   "quote": [
+    "موضع بناحية عسفان، ينزله بنو سراقة بن معتمر، من بنى عدىّ بن كعب، ولهم بها أموال كثيرة"
+   ],
+   "lat": 21.9224,
+   "lon": 39.3536,
+   "qid": "N538716313",
+   "precision": "perkiraan",
+   "near": "'Usfan"
+  }
+ ]
+}

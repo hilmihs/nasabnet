@@ -106,3 +106,55 @@ body {
     animation: none;
   }
 }
+
+/* tribe map popups (components/TribeMap.tsx) */
+.leaflet-container {
+  font-family: var(--font-sans);
+}
+.nm-pop {
+  font-size: 13px;
+  line-height: 1.45;
+  color: var(--color-tinta, #1f2a24);
+}
+.nm-entry + .nm-entry {
+  margin-top: 10px;
+  padding-top: 10px;
+  border-top: 1px solid var(--color-krem-200, #eee5cf);
+}
+.nm-head strong {
+  color: var(--color-hijau-900, #0b2c22);
+}
+.nm-ar {
+  font-family: var(--font-arab);
+  font-size: 15px;
+}
+.nm-meta {
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: var(--color-emas-600);
+  margin: 1px 0 3px;
+}
+.nm-src {
+  margin-top: 3px;
+  font-size: 11px;
+  color: #5d6b63;
+}
+.nm-src a {
+  color: var(--color-hijau-700, #1d5c45);
+}
+.nm-tribe {
+  margin-top: 6px;
+  border: 1.5px solid;
+  border-radius: 999px;
+  padding: 3px 10px;
+  font-size: 12px;
+  font-weight: 600;
+  color: var(--color-hijau-800);
+  background: #fff;
+  cursor: pointer;
+}
+.nm-tribe:hover {
+  background: var(--color-krem-50);
+}

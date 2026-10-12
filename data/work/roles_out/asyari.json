@@ -1,20 +1,131 @@
 {
   "id": "asyari",
-  "lokasi": {"t": "Dataran rendah Yaman (Tihamah, sekitar Zabid)", "status": "umum"},
+  "lokasi": {
+    "t": "Dataran rendah Yaman (Tihamah, sekitar Zabid)",
+    "src": [
+      "Shifat Jazirat al-'Arab, hlm. 119",
+      "Tarikh ath-Thabari 3/320"
+    ],
+    "quote": [
+      "ثم ديار الأشعريين من حدود بني مجيد بأرض الشّقاق فإلى حيس فزبيد",
+      "وكان أول منتقض بعد النبي ص بتهامة عك والأشعرون"
+    ],
+    "status": "ok"
+  },
   "militer": [
-    {"t": "Abu Musa al-Asy'ari memimpin pasukan Bashrah dalam pengepungan Tustar dan as-Sus", "src": ["Tarikh ath-Thabari 4/84", "Tarikh ath-Thabari 4/90"], "quote": ["وعلى أهل البصرة أبو موسى", "وأبو موسى محاصر السوس"], "status": "rewritten"},
-    {"t": "Abu 'Amir al-Asy'ari diutus Nabi ﷺ mengejar musuh ke Authas dan gugur; panji lalu diambil Abu Musa, sepupunya", "src": ["Sirah Ibnu Hisyam 2/454", "Sirah Ibnu Hisyam 2/454"], "quote": ["قبل أوطاس أبا عامر الأشعري", "فأخذ الراية أبو موسى الأشعري"], "status": "new"}
+    {
+      "t": "Sepeninggal Nabi ﷺ, gerombolan Asy'ariyyun bergabung dengan 'Akk—yang pertama memberontak di Tihamah—dan bertahan di al-A'lab di jalur pesisir, lalu ditumpas ath-Thahir bin Abi Halah",
+      "src": [
+        "Tarikh ath-Thabari 3/320",
+        "Tarikh ath-Thabari 3/320"
+      ],
+      "quote": [
+        "وكان أول منتقض بعد النبي ص بتهامة عك والأشعرون",
+        "فأقبل إليهم طخارير من الأشعرين وخضم فانضموا إليهم"
+      ],
+      "status": "new"
+    },
+    {
+      "t": "Pada Perang Shiffin, Mu'awiyah menghadang serangan al-Asytar dengan pasukan 'Akk dan Asy'ariyyun; al-Asytar menugaskan Kindah menghadapi Asy'ariyyun",
+      "src": [
+        "Tarikh ath-Thabari 5/24",
+        "Tarikh ath-Thabari 5/24"
+      ],
+      "quote": [
+        "فاستقبله مُعَاوِيَة بعك والأشعرين",
+        "وَقَالَ لكندة: اكفونا الأشعرين"
+      ],
+      "status": "new"
+    }
   ],
   "diplomasi": [
-    {"t": "Lebih dari lima puluh orang Asy'ariyyun hijrah dari Yaman dan tiba bersama Ja'far dan Muhajirin Habasyah saat Nabi ﷺ di Khaibar", "src": ["Ibnu Sa'd 4/106", "Ibnu Sa'd 4/105"], "quote": ["هاجرنا من اليمن في بضعة وخمسين رجلا من قومي", "فوافق قدومهم قدوم أهل السفينتين جعفر وأصحابه من أرض الحبشة"], "status": "rewritten"},
-    {"t": "Abu Musa menjadi hakam pihak Ali dalam tahkim", "src": ["Tarikh ath-Thabari 5/57"], "quote": ["فاختار أهل العراق أبا موسى الأشعري"], "status": "ok"}
+    {
+      "t": "Lebih dari lima puluh orang Asy'ariyyun hijrah dari Yaman dan tiba bersama Ja'far dan Muhajirin Habasyah saat Nabi ﷺ di Khaibar",
+      "src": [
+        "Ibnu Sa'd 4/106",
+        "Ibnu Sa'd 4/105"
+      ],
+      "quote": [
+        "هاجرنا من اليمن في بضعة وخمسين رجلا من قومي",
+        "فوافق قدومهم قدوم أهل السفينتين جعفر وأصحابه من أرض الحبشة"
+      ],
+      "status": "rewritten"
+    }
   ],
   "ekonomi": [
-    {"t": "Nabi ﷺ memuji kebiasaan Asy'ariyyun mengumpulkan bekal bersama lalu membaginya rata ketika kekurangan", "status": "umum"}
+    {
+      "t": "Nabi ﷺ memuji kebiasaan Asy'ariyyun: bila bekal mereka habis dalam peperangan atau makanan keluarga mereka di Madinah menipis, mereka mengumpulkan semua yang ada dalam satu kain lalu membaginya rata; beliau bersabda, \"mereka dari golonganku dan aku dari golongan mereka\"",
+      "src": [
+        "Shahih al-Bukhari 3/138",
+        "Shahih al-Bukhari 3/138"
+      ],
+      "quote": [
+        "إِنَّ الْأَشْعَرِيِّينَ إِذَا أَرْمَلُوا فِي الْغَزْوِ، أَوْ قَلَّ طَعَامُ عِيَالِهِمْ بِالْمَدِينَةِ",
+        "ثُمَّ اقْتَسَمُوهُ بَيْنَهُمْ فِي إِنَاءٍ وَاحِدٍ بِالسَّوِيَّةِ، فَهُمْ مِنِّي وَأَنَا مِنْهُمْ"
+      ],
+      "status": "rewritten"
+    },
+    {
+      "t": "Rombongan Asy'ariyyun yang menyusul Nabi ﷺ ke Khaibar diikutkan dalam pembagian ghanimah atas permintaan beliau kepada para sahabat",
+      "src": [
+        "Ibnu Sa'd 2/108"
+      ],
+      "quote": [
+        "وقدم الأشعريون ورسول الله، ﷺ، بخيبر فلحقوه بها فكلم رسول الله، ﷺ، أصحابه فيهم أن يشركوهم في الغنيمة ففعلوا"
+      ],
+      "status": "new"
+    }
   ],
   "sosial": [
-    {"t": "Abu Musa al-Asy'ari terkenal dengan suara merdunya membaca Al-Qur'an", "src": ["Ibnu Sa'd 4/107"], "quote": ["لقد أوتي هذا من مزامير آل داود"], "status": "ok"},
-    {"t": "Nabi ﷺ menyebut mereka kaum yang lebih lembut hatinya dan mengibaratkan Asy'ariyyun di tengah manusia seperti kantong berisi kesturi", "src": ["Ibnu Sa'd 4/106", "Ibnu Sa'd 1/349"], "quote": ["يقدم عليكم أقوام هم أرق منكم", "الأشعرون في الناس كصرة فيها مسك"], "status": "new"}
+    {
+      "t": "Nabi ﷺ menyebut mereka kaum yang lebih lembut hatinya dan mengibaratkan Asy'ariyyun di tengah manusia seperti kantong berisi kesturi",
+      "src": [
+        "Ibnu Sa'd 4/106",
+        "Ibnu Sa'd 1/349"
+      ],
+      "quote": [
+        "يقدم عليكم أقوام هم أرق منكم",
+        "الأشعرون في الناس كصرة فيها مسك"
+      ],
+      "status": "new"
+    },
+    {
+      "t": "Nabi ﷺ mengenali suara rombongan Asy'ariyyun membaca Al-Qur'an pada malam hari, dan mengenali tempat singgah mereka dari bacaan itu",
+      "src": [
+        "Shahih al-Bukhari 5/138"
+      ],
+      "quote": [
+        "إِنِّي لَأَعْرِفُ أَصْوَاتَ رُفْقَةِ الْأَشْعَرِيِّينَ بِالْقُرْآنِ حِينَ يَدْخُلُونَ بِاللَّيْلِ"
+      ],
+      "status": "new"
+    },
+    {
+      "t": "Pada masa jahiliah menyembah al-Munthabiq, berhala tembaga milik as-Salaf, 'Akk, dan Asy'ariyyun",
+      "src": [
+        "Mu'jam al-Buldan 5/212"
+      ],
+      "quote": [
+        "المنطبق: صنم كان للسلف وعك والأشعرين وهو من نحاس"
+      ],
+      "status": "new"
+    }
   ],
-  "dropped": []
+  "dropped": [
+    {
+      "t": "Abu Musa al-Asy'ari memimpin pasukan Bashrah dalam pengepungan Tustar dan as-Sus",
+      "reason": "moved to biography of n3856"
+    },
+    {
+      "t": "Abu 'Amir al-Asy'ari diutus Nabi ﷺ mengejar musuh ke Authas dan gugur; panji lalu diambil Abu Musa, sepupunya",
+      "reason": "already in biography of s1095"
+    },
+    {
+      "t": "Abu Musa menjadi hakam pihak Ali dalam tahkim",
+      "reason": "already in biography of n3856"
+    },
+    {
+      "t": "Abu Musa al-Asy'ari terkenal dengan suara merdunya membaca Al-Qur'an",
+      "reason": "already in biography of n3856"
+    }
+  ]
 }

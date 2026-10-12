@@ -1,0 +1,47 @@
+{
+  "id": "asad-k",
+  "nama_arti": {
+    "t": "Nama diambil dari leluhur eponim, Asad bin Khuzaimah.",
+    "src": ["Jamharat Ansab al-'Arab, hlm. 190"],
+    "quote": ["وهؤلاء بنو أسد بن خزيمة ولد أسد بن خزيمة: دودان، وكاهل"],
+    "status": "rewritten"
+  },
+  "titik_temu": {
+    "t": "Asad bersaudara dengan Kinanah dan al-Hun, putra-putra Khuzaimah bin Mudrikah bin Ilyas bin Mudhar bin Nizar bin Ma'add bin 'Adnan; bertemu dengan Quraisy dan Kinanah pada Khuzaimah, karena Quraisy berasal dari an-Nadhr bin Kinanah.",
+    "src": ["Jamharat Ansab al-'Arab, hlm. 11", "Jamharat Ansab al-'Arab, hlm. 11"],
+    "quote": [
+      "فولد خزيمة بن مدركة بن الياس بن مضر بن نزار بن معدّ بن عدنان: كنانة ابن خزيمة: وأسد بن خزيمة",
+      "ولد كنانة بن خزيمة بن مدركة: النّضر، وملك، وملكان، وعبد مناة"
+    ],
+    "status": "rewritten"
+  },
+  "wilayah": {
+    "t": "Negeri mereka di dekat al-Karkh di tanah Najd, bertetangga dengan Thayyi'; di Kufah ada permukiman Bani Asad di al-Kunasah; keturunan Bani Ghanm bin Dudan bermukim di Wadi 'Abdullah, Jayyan (Andalusia).",
+    "src": ["Nihayat al-Arab al-Qalqasyandi, hlm. 37", "Ibnu Sa'd 7/50", "Jamharat Ansab al-'Arab, hlm. 192"],
+    "quote": [
+      "وبلادهم مما يلي الكرخ من أرض نجد في مجاورة طي",
+      "فأشترى بها دورا في بني أسد بالكناسة",
+      "ولهم في وادى عبد الله بجيّان، من بلاد الأندلس، بقية وعدد"
+    ],
+    "status": "rewritten"
+  },
+  "peran_sosial": {
+    "t": "Melahirkan Ummul Mukminin Zainab binti Jahsy dan sejumlah ahli Badar seperti 'Ukkasyah bin Mihshan, yang disebut dalam hadis tujuh puluh ribu orang yang masuk surga tanpa hisab.",
+    "src": ["Sirah Ibnu Hisyam 2/644", "Jamharat Ansab al-'Arab, hlm. 192", "al-Ishabah 4/440"],
+    "quote": [
+      "وَتَزَوَّجَ رَسُولُ اللَّهِ ﷺ زَيْنَبَ بِنْتَ جَحْشِ بْنِ رِئَابٍ الْأَسْدِيَةَ",
+      "وعكّاشة، وسنان، وأبو سنان، بدريون، وأخوهم شجاع، بنو محصن",
+      "في السبعين ألفا الذين يدخلون الجنة بغير حساب، فقال عكاشة: ادع اللَّه أن يجعلني منهم"
+    ],
+    "status": "ok"
+  },
+  "dinamika": {
+    "t": "'Ubaidullah bin Jahsy al-Asadi hijrah ke Habasyah bersama istrinya Ummu Habibah binti Abi Sufyan, lalu masuk Nasrani dan wafat di sana; Nabi ﷺ kemudian meminta an-Najasyi menikahkan beliau dengan Ummu Habibah.",
+    "src": ["Ibnu Sa'd 1/259", "Ibnu Sa'd 1/259"],
+    "quote": [
+      "وكانت قد هاجرت إلى أرض الحبشة مع زوجها عبيد الله بن جحش الأسدي فتنصر هناك ومات",
+      "وفي الكتاب الآخر يأمره أن يزوجه أم حبيبة بنت أبي سفيان بن حرب"
+    ],
+    "status": "rewritten"
+  }
+}

@@ -1,22 +1,137 @@
 {
-  "id": "hasyim",
-  "lokasi": {"t": "Makkah (Hijaz); setelah hijrah sebagian di Madinah", "status": "umum"},
-  "militer": [
-    {"t": "Hamzah bin Abdil Muththalib dan Ali bin Abi Thalib (bersama 'Ubaidah bin al-Harits) maju dalam duel pembuka Perang Badar", "src": ["Sirah Ibnu Hisyam 1/625"], "quote": ["قم يا عبيدة بن الحارث، وقم يا حمزة، وقم يا علي"], "status": "rewritten"},
-    {"t": "Ja'far bin Abi Thalib gugur sebagai salah satu panglima Perang Mu'tah (Jumada al-Ula 8 H)", "src": ["Sirah Ibnu Hisyam 2/373", "Sirah Ibnu Hisyam 2/373"], "quote": ["إن أصيب زيد فجعفر بن أبي طالب على الناس", "ومقتل جعفر وزيد وعبد الله بن رواحة"], "status": "rewritten"}
+ "id": "hasyim",
+ "lokasi": {
+  "t": "Makkah, negeri Hasyim bin Abdi Manaf",
+  "src": [
+   "Sirah Ibnu Hisyam 1/136"
   ],
-  "diplomasi": [
-    {"t": "Abu Thalib melindungi Nabi ﷺ dari tekanan Quraisy di Makkah hingga wafatnya", "src": ["Sirah Ibnu Hisyam 1/264", "Sirah Ibnu Hisyam 1/416"], "quote": ["على رسول الله ﷺ عمه أبو طالب، ومنعه وقام دونه", "فلما هلك أبو طالب، نالت قريش من رسول الله ﷺ من الأذى"], "status": "ok"},
-    {"t": "Ja'far bin Abi Thalib menjadi juru bicara kaum Muslimin di hadapan an-Najasyi di Habasyah", "src": ["Sirah Ibnu Hisyam 1/336"], "quote": ["فكان الذي كلمه جعفر بن أبي طالب"], "status": "ok"},
-    {"t": "al-Abbas bin Abdil Muththalib, meski masih di atas agama kaumnya, mendampingi Nabi ﷺ pada Bai'at 'Aqabah kedua untuk memastikan jaminan bagi beliau", "src": ["Sirah Ibnu Hisyam 1/441"], "quote": ["وهو يومئذ على دين قومه، إلا أنه أحب أن يحضر أمر ابن أخيه ويتوثق له"], "status": "rewritten"}
+  "quote": [
+   "وَأَوَّلَ مَنْ أَطْعَمَ الثَّرِيدَ بِمَكَّةَ"
   ],
-  "ekonomi": [
-    {"t": "Hasyim bin Abdi Manaf memegang siqayah (air minum) dan rifadah (jamuan) jamaah haji; siqayah Zamzam kemudian dipegang al-Abbas dan ditetapkan Nabi ﷺ padanya saat Fathu Makkah", "src": ["Tarikh ath-Thabari 2/252", "Sirah Ibnu Hisyam 1/178", "Ibnu Sa'd 2/137"], "quote": ["ولى هاشم بعد أبيه عبد مناف السقاية والرفادة", "ولي زمزم والسقاية عليها", "ودفع السقاية إلى العباس بن عبد المطلب"], "status": "rewritten"},
-    {"t": "Hasyim mengambil perjanjian keamanan (ilaf) bagi kafilah Quraisy dari raja-raja Syam, Romawi, dan Ghassan, dan disebut perintis dua perjalanan dagang musim dingin dan musim panas", "src": ["Tarikh ath-Thabari 2/252", "al-Muhabbar, hlm. 162"], "quote": ["أخذ لهم هاشم حبلا من ملوك الشام والروم وغسان", "فكان متجر (هاشم) إلى الشأم. فهلك بغزة. وكان هاشم أول من رحل الرحلتين"], "status": "rewritten"}
-  ],
-  "sosial": [
-    {"t": "Klan Nabi Muhammad ﷺ (Muhammad bin Abdillah bin Abdil Muththalib bin Hasyim)", "src": ["Sirah Ibnu Hisyam 1/1"], "quote": ["بن هاشم، واسم هاشم: عمرو بن عبد مناف"], "status": "rewritten"},
-    {"t": "Bersama Bani al-Muththalib diboikot Quraisy dan berkumpul di Syi'ib Abi Thalib karena melindungi Nabi ﷺ", "src": ["Sirah Ibnu Hisyam 1/351"], "quote": ["انحازت بنو هاشم وبنو المطلب إلى أبي طالب بن عبد المطلب، فدخلوا معه في شعبه"], "status": "rewritten"}
-  ],
-  "dropped": [{"t": "Klan Nabi Muhammad ﷺ; keturunannya dikenal sebagai Ahlulbait", "reason": "Bagian 'keturunannya dikenal sebagai Ahlulbait' tidak ditemukan dalam sumber dan cakupan istilah Ahlulbait diperselisihkan; bagian klan Nabi dipertahankan dengan sitasi"}]
+  "status": "rewritten"
+ },
+ "militer": [
+  {
+   "t": "Pada Perang Badar sebagian lelaki Bani Hasyim ikut keluar bersama pasukan Quraisy karena dipaksa; Nabi ﷺ melarang para sahabat membunuh orang Bani Hasyim yang mereka temui",
+   "src": [
+    "Sirah Ibnu Hisyam 1/629",
+    "Sirah Ibnu Hisyam 1/629"
+   ],
+   "quote": [
+    "إني قد عرفت أن رجالا من بني هاشم وغيرهم قد أخرجوا كرها",
+    "فمن لقي منكم أحدا من بني هاشم فلا يقتله"
+   ],
+   "status": "new"
+  },
+  {
+   "t": "Pada Perang Hunain, ketika pasukan Muslim tercerai-berai, orang-orang Bani Hasyim dari ahli bait Nabi ﷺ ('Ali, al-'Abbas, Abu Sufyan bin al-Harits dan putranya, al-Fadhl bin al-'Abbas, Rabi'ah bin al-Harits) termasuk yang bertahan bersama beliau",
+   "src": [
+    "Sirah Ibnu Hisyam 2/443"
+   ],
+   "quote": [
+    "ومن أهل بيته علي بن أبي طالب والعباس بن عبد المطلب، وأبو سفيان بن الحارث، وابنه، والفضل بن العباس، وربيعة بن الحارث"
+   ],
+   "status": "new"
+  }
+ ],
+ "diplomasi": [
+  {
+   "t": "Atas seruan Abu Thalib, Bani Hasyim dan Bani al-Muththalib berhimpun melindungi Nabi ﷺ dari tekanan Quraisy di Makkah, kecuali Abu Lahab",
+   "src": [
+    "Sirah Ibnu Hisyam 1/269",
+    "Sirah Ibnu Hisyam 1/269"
+   ],
+   "quote": [
+    "فدعاهم إلى ما هو عليه، من منع رسول الله ﷺ، والقيام دونه، فاجتمعوا إليه، وقاموا معه",
+    "إلا ما كان من أبي لهب"
+   ],
+   "status": "rewritten"
+  },
+  {
+   "t": "Termasuk klan Quraisy yang mengikat Hilf al-Fudhul di rumah 'Abdullah bin Jud'an (bersama Bani al-Muththalib, Asad, Zuhrah, dan Taim) untuk membela setiap orang yang dizalimi di Makkah",
+   "src": [
+    "Sirah Ibnu Hisyam 1/133"
+   ],
+   "quote": [
+    "فكان حلفهم عنده: بنو هاشم، وبنو المطلب، وأسد بن عبد العزى، وزهرة ابن كلاب، وتيم بن مرة"
+   ],
+   "status": "new"
+  }
+ ],
+ "ekonomi": [
+  {
+   "t": "Bani Hasyim memegang siqayah (air minum) dan rifadah (jamuan) jamaah haji (dipegang Hasyim bin 'Abdi Manaf, lalu keturunannya); siqayah Zamzam kemudian di tangan al-'Abbas dan ditetapkan Nabi ﷺ padanya saat Fathu Makkah",
+   "src": [
+    "Tarikh ath-Thabari 2/252",
+    "Sirah Ibnu Hisyam 1/178",
+    "Ibnu Sa'd 2/137"
+   ],
+   "quote": [
+    "ولى هاشم بعد أبيه عبد مناف السقاية والرفادة",
+    "ولي زمزم والسقاية عليها",
+    "ودفع السقاية إلى العباس بن عبد المطلب"
+   ],
+   "status": "rewritten"
+  },
+  {
+   "t": "Leluhur klan, Hasyim bin 'Abdi Manaf, mengambil perjanjian keamanan (ilaf) bagi kafilah Quraisy dari raja-raja Syam, Romawi, dan Ghassan, dan disebut perintis dua perjalanan dagang musim dingin dan musim panas",
+   "src": [
+    "Tarikh ath-Thabari 2/252",
+    "al-Muhabbar, hlm. 162"
+   ],
+   "quote": [
+    "أخذ لهم هاشم حبلا من ملوك الشام والروم وغسان",
+    "فكان متجر (هاشم) إلى الشأم. فهلك بغزة. وكان هاشم أول من رحل الرحلتين"
+   ],
+   "status": "rewritten"
+  }
+ ],
+ "sosial": [
+  {
+   "t": "Klan Nabi Muhammad ﷺ (Muhammad bin Abdillah bin Abdil Muththalib bin Hasyim)",
+   "src": [
+    "Sirah Ibnu Hisyam 1/1"
+   ],
+   "quote": [
+    "بن هاشم، واسم هاشم: عمرو بن عبد مناف"
+   ],
+   "status": "rewritten"
+  },
+  {
+   "t": "Bersama Bani al-Muththalib diboikot Quraisy dan berkumpul di Syi'ib Abi Thalib karena melindungi Nabi ﷺ",
+   "src": [
+    "Sirah Ibnu Hisyam 1/351"
+   ],
+   "quote": [
+    "انحازت بنو هاشم وبنو المطلب إلى أبي طالب بن عبد المطلب، فدخلوا معه في شعبه"
+   ],
+   "status": "rewritten"
+  }
+ ],
+ "dropped": [
+  {
+   "t": "Klan Nabi Muhammad ﷺ; keturunannya dikenal sebagai Ahlulbait",
+   "reason": "Bagian 'keturunannya dikenal sebagai Ahlulbait' tidak ditemukan dalam sumber dan cakupan istilah Ahlulbait diperselisihkan; bagian klan Nabi dipertahankan dengan sitasi"
+  },
+  {
+   "t": "Hamzah bin Abdil Muththalib dan Ali bin Abi Thalib (bersama 'Ubaidah bin al-Harits) maju dalam duel pembuka Perang Badar",
+   "reason": "duel Hamzah already in biography of n15330; Ali's duel moved to biography of n4500"
+  },
+  {
+   "t": "Ja'far bin Abi Thalib gugur sebagai salah satu panglima Perang Mu'tah (Jumada al-Ula 8 H)",
+   "reason": "already in biography of n9286"
+  },
+  {
+   "t": "Abu Thalib melindungi Nabi ﷺ dari tekanan Quraisy di Makkah hingga wafatnya",
+   "reason": "rewritten to clan level (Bani Hasyim & al-Muththalib); Abu Thalib's personal protection moved to biography of c-abutalib"
+  },
+  {
+   "t": "Ja'far bin Abi Thalib menjadi juru bicara kaum Muslimin di hadapan an-Najasyi di Habasyah",
+   "reason": "moved to biography of n9286"
+  },
+  {
+   "t": "al-Abbas bin Abdil Muththalib, meski masih di atas agama kaumnya, mendampingi Nabi ﷺ pada Bai'at 'Aqabah kedua untuk memastikan jaminan bagi beliau",
+   "reason": "already in biography of n3138"
+  }
+ ]
 }

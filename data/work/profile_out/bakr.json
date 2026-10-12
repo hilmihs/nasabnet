@@ -1,0 +1,73 @@
+{
+  "id": "bakr",
+  "nama_arti": {
+    "t": "Nama diambil dari leluhur eponim, Bakr bin Wa'il bin Qasith; menurut Ibnu Duraid, \"bakr\" berasal dari al-bakr, yaitu unta muda.",
+    "src": [
+      "Jamharat Ansab al-'Arab, hlm. 307",
+      "al-Isytiqaq, hlm. 49"
+    ],
+    "quote": [
+      "وهؤلاء بنو بكر بن وائل بن قاسط ولد بكر بن وائل: على؛ ويشكر",
+      "واشتقاق بكر من البَكْر، وهو الفَتِيُّ من الإبلِ"
+    ],
+    "status": "ok"
+  },
+  "titik_temu": {
+    "t": "Bakr bersaudara dengan Taghlib (Ditsar) dan 'Anz, sama-sama putra Wa'il bin Qasith bin Hinb bin Afsha bin Du'mi bin Jadilah bin Asad bin Rabi'ah bin Nizar.",
+    "src": [
+      "Jamharat Ansab al-'Arab, hlm. 302",
+      "Jamharat Ansab al-'Arab, hlm. 302"
+    ],
+    "quote": [
+      "وهؤلاء بنو وائل بن قاسط بن هنب بن أفصى بن دعمىّ ابن جديلة بن أسد بن ربيعة بن نزار",
+      "ولد وائل بن قاسط: بكر؛ ودثار، وهو تغلب؛ وعبد الله، وهو عنز"
+    ],
+    "status": "rewritten"
+  },
+  "wilayah": {
+    "t": "Bani Hanifah adalah penduduk al-Yamamah (pemilik kebun kurma dan ladang); menjelang Islam Bakr bin Wa'il singgah di Hinw Dzi Qar; negeri Diyar Bakr (sekitar Amid dan Mayyafariqin, barat Dijlah) dinisbatkan kepada Bakr bin Wa'il. Cabang-cabangnya antara lain Hanifah dan 'Ijl (putra Lujaim) serta Sadus bin Syaiban.",
+    "src": [
+      "Jamharat Ansab al-'Arab, hlm. 309",
+      "Tarikh ath-Thabari 2/207",
+      "Mu'jam al-Buldan 2/494",
+      "Jamharat Ansab al-'Arab, hlm. 317"
+    ],
+    "quote": [
+      "وهؤلاء بنو حنيفة بن لجيم بن صعب وهم أهل اليمامة، وهم أصحاب نخل وزرع",
+      "جاءت بكر بن وائل فنزلت الحنو، حنو ذي قار",
+      "هي بلاد كبيرة واسعة تنسب إلى بكر ابن وائل بن قاسط",
+      "ولد شيبان بن ذهل بن ثعلبة: سدوس"
+    ],
+    "status": "rewritten"
+  },
+  "peran_sosial": {
+    "t": "Kabilah Rabi'ah yang mengalahkan pasukan Kisra di Dzi Qar, yang disebut Nabi ﷺ hari pertama bangsa Arab menang atas 'Ajam; pada masa Abu Bakar, al-Mutsanna bin Haritsah asy-Syaibani memimpin kaumnya memerangi Persia di Irak.",
+    "src": [
+      "Tarikh ath-Thabari 2/193",
+      "Tarikh ath-Thabari 2/209",
+      "Tarikh ath-Thabari 3/344"
+    ],
+    "quote": [
+      "هذا أول يوم انتصف العرب من العجم، وبي نصروا",
+      "فصبحتهم بكر بن وائل، والظعن واقفة يذمرن الرجال على القتال",
+      "أَمِّرْنِي عَلَى مَنْ قَبْلِي مِنْ قَوْمِي، أُقَاتِلُ مَنْ يَلِينِي مِنْ أَهْلِ فَارِسٍ"
+    ],
+    "status": "rewritten"
+  },
+  "dinamika": {
+    "t": "Bani Hanifah mengikuti Musailimah; Abu Bakar mengirim Khalid bin al-Walid, Bani Hanifah dikalahkan hingga Hadiqat al-Maut, dan perdamaian Yamamah terjadi lewat Mujja'ah bin Mararah. Di Bahrain, al-Huthm bin Dhubai'ah murtad bersama pengikutnya dari Bakr bin Wa'il.",
+    "src": [
+      "Tarikh ath-Thabari 3/287",
+      "Tarikh ath-Thabari 3/294",
+      "Jamharat Ansab al-'Arab, hlm. 312",
+      "Tarikh ath-Thabari 3/304"
+    ],
+    "quote": [
+      "فَبَعَثَ إِلَيْهِمْ أَبُو بَكْرٍ خَالِدًا",
+      "وانحازت بنو حنيفة تبعهم المسلمون يقتلونهم، حتى بلغوا بهم إلى حديقة الموت",
+      "أسره خالد بن الوليد، وعلى يده كان صلح أهل اليمامة",
+      "خرج الحطم بْن ضبيعة أخو بني قيس بْن ثعلبة فيمن اتبعه من بكر بْن وائل على الردة"
+    ],
+    "status": "rewritten"
+  }
+}

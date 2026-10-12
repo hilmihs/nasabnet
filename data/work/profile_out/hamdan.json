@@ -1,0 +1,58 @@
+{
+  "id": "hamdan",
+  "nama_arti": {
+    "t": "Nama diambil dari leluhur eponim, Hamdan bin Malik; menurut Ibnu Duraid, hamdan berpola fa'lan dari hamadat an-nar, yakni api yang padam nyalanya.",
+    "src": [
+      "Jamharat Ansab al-'Arab, hlm. 392",
+      "al-Isytiqaq, hlm. 419"
+    ],
+    "quote": [
+      "وهؤلاء بنو همدان بن مالك بن زيد بن أوسلة بن ربيعة بن الخيار",
+      "وهَمْدان: فَعْلان من قولهم: هَمَدت النارُ، إذا سكن اشتعالُها"
+    ],
+    "status": "rewritten"
+  },
+  "wilayah": {
+    "t": "Negeri Hamdan terbentang di dataran tinggi (Najd dan as-Sarah) antara al-Gha'ith dan Tihamah di utara Shan'a, antara Shan'a dan Sha'dah (negeri Khaulan); bagian timurnya milik Bakil dan bagian baratnya milik Hasyid.",
+    "src": [
+      "Shifat Jazirat al-'Arab, hlm. 109",
+      "Shifat Jazirat al-'Arab, hlm. 109"
+    ],
+    "quote": [
+      "أما بلد همدان فإنه آخذ لما بين الغائط وتهامة من نجد والسّراة في شمالي صنعاء",
+      "منقسم بخط عرضّي ما بين صنعاء وصعدة فشرقيّه لبكيل وغربيّه لحاشد"
+    ],
+    "status": "rewritten"
+  },
+  "peran_sosial": {
+    "t": "Negeri mereka disebut yang paling terlindung dan paling mulia di Yaman; pada Perang Shiffin, Hamdan termasuk tiga kabilah Irak yang paling banyak jumlahnya. Hamdan masuk Islam seluruhnya dalam satu hari ketika 'Ali membacakan surat Nabi ﷺ, dan beliau bersujud lalu berkata: \"Salam atas Hamdan\".",
+    "src": [
+      "Shifat Jazirat al-'Arab, hlm. 113",
+      "Tarikh ath-Thabari 5/34",
+      "al-Isti'ab 3/1121",
+      "al-Isti'ab 3/1121"
+    ],
+    "quote": [
+      "همدان على حد الاختصار وهي ستة أيام في ستة وهي امنع ديار اليمن واعزها",
+      "لم تكن لأهل العراق قبائل أكثر عددا منها يَوْمَئِذٍ: عَلَى رَبِيعَة وهمدان ومذحج",
+      "فأسلمت همدان كلها في يوم واحد",
+      "فلما قرأ كتابه خر ساجدا، ثم جلس، فقال السلام على همدان"
+    ],
+    "status": "rewritten"
+  },
+  "dinamika": {
+    "t": "Hamdan melahirkan sejumlah fuqaha masyhur, antara lain Masruq bin al-Ajda' (dari Wadi'ah yang masuk ke Hamdan), Abu Ishaq as-Sabi'i (Jabbanah as-Sabi' di Kufah dinisbahkan kepada leluhurnya), dan asy-Sya'bi al-Kufi yang terhitung dalam Hamdan.",
+    "src": [
+      "Jamharat Ansab al-'Arab, hlm. 394",
+      "Jamharat Ansab al-'Arab, hlm. 395",
+      "Jamharat Ansab al-'Arab, hlm. 433"
+    ],
+    "quote": [
+      "ومنهم: الفقيه الجليل مسروق بن الأجدع بن مالك بن أميّة",
+      "وإلى السّبيع هذا تنسب جبّانة السّبيع بالكوفة؛ ومنهم: الفقيه أبو إسحاق",
+      "الفقيه أبو عمرو عامر ابن شراحيل بن عبد ذى كبار الكوفىّ، وعداده في همدان"
+    ],
+    "status": "rewritten"
+  },
+  "dropped": []
+}

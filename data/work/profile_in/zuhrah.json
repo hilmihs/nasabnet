@@ -1,0 +1,28 @@
+{
+ "id": "zuhrah",
+ "name": "Bani Zuhrah",
+ "ar": "بنو زهرة",
+ "group": "quraisy",
+ "umum": {
+  "nama_arti": "Nama diambil dari leluhur eponim, Zuhrah bin Kilab.",
+  "titik_temu": "Bertemu dengan Bani Qushay (dan karenanya klan-klan besar Quraisy lain) pada Kilab bin Murrah; dengan Bani Taim dan Bani Makhzum pada Murrah bin Ka'b.",
+  "wilayah": "Makkah.",
+  "peran_sosial": "Klan ibunda Nabi ﷺ, Aminah binti Wahb; melahirkan dua dari sepuluh sahabat yang dijamin surga (al-'Asyrah al-Mubasysyarin): Sa'd bin Abi Waqqash dan Abdurrahman bin 'Auf.",
+  "dinamika": "Kedekatan nasab dengan ibunda Nabi ﷺ menjadikan Bani Zuhrah dihormati di Makkah; Sa'd bin Abi Waqqash kemudian memimpin penaklukan Persia (Qadisiyyah) pada masa Umar bin al-Khaththab."
+ },
+ "already_cited": {
+  "leluhur": {
+   "t": "Zuhrah bin Kilab bin Murrah.",
+   "src": [
+    "Jamharat Ansab al-'Arab, hlm. 128"
+   ]
+  },
+  "struktur": {
+   "t": "Anak-anak Zuhrah: al-Harits dan Abdu Manaf; dari Abdu Manaf lahir Wahb, ayah Aminah (ibunda Nabi ﷺ), dan Wuhaib, kakek Sa'd bin Abi Waqqash (lewat anaknya, Malik Abu Waqqash).",
+   "src": [
+    "Jamharat Ansab al-'Arab, hlm. 128"
+   ]
+  }
+ },
+ "roles_umum": []
+}

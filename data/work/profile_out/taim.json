@@ -1,0 +1,9 @@
+{
+  "id": "taim",
+  "nama_arti": {"t": "Nama diambil dari leluhur eponim, Taim bin Murrah.", "src": ["Jamharat Ansab al-'Arab, hlm. 135"], "quote": ["وهؤلاء بنو تيم بن مرّة ولد تيم بن مرّة: سعد بن تيم"], "status": "ok"},
+  "titik_temu": {"t": "Bertemu dengan Bani Zuhrah (lewat Kilab bin Murrah) dan Bani Makhzum (lewat Yaqazhah bin Murrah) pada Murrah bin Ka'b; dengan seluruh Quraisy pada Fihr bin Malik.", "src": ["Jamharat Ansab al-'Arab, hlm. 13", "Jamharat Ansab al-'Arab, hlm. 14", "Jamharat Ansab al-'Arab, hlm. 141", "Jamharat Ansab al-'Arab, hlm. 12"], "quote": ["فولد مرّة بن كعب بن لؤى: كلاب بن مرة، وفيه البيت والشرف؛ وتيم بن مرة: ويقظة بن مرّة", "فولد كلاب بن مرّة: قصى بن كلاب، وفيه البيت والشرف؛ وزهرة بن كلاب", "فولد يقظة بن مرة: مخزوم", "وهم قريش لا قريش غيرهم؛ ولا يكون قريشىّ إلاّ منهم"], "status": "rewritten"},
+  "wilayah": {"t": "Makkah; di sana terdapat sumur milik Bani Taim bin Murrah bernama al-Hafr.", "src": ["Mu'jam al-Buldan 2/275"], "quote": ["وحفر: بئر لبني تيم ابن مرّة بمكة"], "status": "rewritten"},
+  "peran_sosial": {"t": "Klan Abu Bakar ash-Shiddiq, \"khalifah Rasulullah ﷺ\"; juga melahirkan Thalhah bin 'Ubaidillah, salah satu al-'Asyarah (sepuluh sahabat yang dijamin surga), dan pada masa jahiliah Abdullah bin Jud'an, pemuka Quraisy pada zamannya.", "src": ["Jamharat Ansab al-'Arab, hlm. 136", "al-Ishabah 3/430", "Jamharat Ansab al-'Arab, hlm. 136"], "quote": ["أبو بكر الصديقرضي الله عنه-واسمه عبد الله، خليفة", "القرشيّ التيميّ، أبو محمد، أحد العشرة", "فولد جدعان: عبد الله بن جدعان، سيد قريش في زمانه"], "status": "rewritten"},
+  "dinamika": {"t": "Dari klan ini lahir Abu Bakar ash-Shiddiq, yang dibaiat sebagai pemimpin umat pada hari wafatnya Nabi ﷺ.", "src": ["Tarikh ath-Thabari 3/200"], "quote": ["وَبُويِعَ أَبُو بَكْرٍ يَوْمَ الاثْنَيْنِ فِي الْيَوْمِ الَّذِي قُبِضَ فِيهِ النَّبِيُّ"], "status": "rewritten"},
+  "dropped": []
+}

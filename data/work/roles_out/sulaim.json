@@ -1,33 +1,99 @@
 {
   "id": "sulaim",
-  "lokasi": {"t": "Harrat Bani Sulaim, timur laut Madinah ke arah Najd", "status": "umum"},
+  "lokasi": {
+    "t": "Harrat Bani Sulaim, di dataran tinggi ('Aliyah) Najd",
+    "src": [
+      "Mu'jam al-Buldan 2/246"
+    ],
+    "quote": [
+      "قال أبو منصور: حرة ليلى وحرة شوران وحرة بني سليم في عالية نجد"
+    ],
+    "status": "rewritten"
+  },
   "militer": [
-    {"t": "Pada tahun Fathu Makkah Bani Sulaim (900–1.000 orang) menemui Nabi ﷺ, masuk Islam, meminta ditempatkan di barisan depan, lalu ikut Fathu Makkah, Tha'if, dan Hunain",
-     "src": ["Ibnu Sa'd 1/307", "Ibnu Sa'd 1/307", "Ibnu Sa'd 1/307"],
-     "quote": ["فلما كان عام الفتح خرجت بنو سليم إلى رسول الله", "وقالوا: اجعلنا في مقدمتك، واجعل لواءنا أحمر", "فشهدوا معه الفتح والطائف وحنينًا"],
-     "status": "rewritten"},
-    {"t": "Sebagian Bani Sulaim ('Ushayyah, Ri'l, dan Dzakwan) terlibat peristiwa Bi'r Ma'unah (Shafar 4 H)",
-     "src": ["Sirah Ibnu Hisyam 2/183", "Sirah Ibnu Hisyam 2/185"],
-     "quote": ["حَدِيثُ بِئْرِ مَعُونَةَ فِي صَفَرٍ سَنَةَ أَرْبَعٍ", "عُصَيَّةَ وَرِعْلٍ وَذَكْوَانَ، فَأَجَابُوهُ إلَى ذَلِكَ"],
-     "status": "rewritten"}
+    {
+      "t": "Pada tahun Fathu Makkah Bani Sulaim (900–1.000 orang) menemui Nabi ﷺ, masuk Islam, meminta ditempatkan di barisan depan, lalu ikut Fathu Makkah, Tha'if, dan Hunain",
+      "src": [
+        "Ibnu Sa'd 1/307",
+        "Ibnu Sa'd 1/307",
+        "Ibnu Sa'd 1/307"
+      ],
+      "quote": [
+        "فلما كان عام الفتح خرجت بنو سليم إلى رسول الله",
+        "وقالوا: اجعلنا في مقدمتك، واجعل لواءنا أحمر",
+        "فشهدوا معه الفتح والطائف وحنينًا"
+      ],
+      "status": "rewritten"
+    },
+    {
+      "t": "Sebagian Bani Sulaim ('Ushayyah, Ri'l, dan Dzakwan) terlibat peristiwa Bi'r Ma'unah (Shafar 4 H)",
+      "src": [
+        "Sirah Ibnu Hisyam 2/183",
+        "Sirah Ibnu Hisyam 2/185"
+      ],
+      "quote": [
+        "حَدِيثُ بِئْرِ مَعُونَةَ فِي صَفَرٍ سَنَةَ أَرْبَعٍ",
+        "عُصَيَّةَ وَرِعْلٍ وَذَكْوَانَ، فَأَجَابُوهُ إلَى ذَلِكَ"
+      ],
+      "status": "rewritten"
+    }
   ],
   "diplomasi": [
-    {"t": "al-'Abbas bin Mirdas as-Sulami, penyair, masuk Islam sebelum Fathu Makkah dan datang bersama 900 orang kaumnya",
-     "src": ["Ibnu Sa'd 4/271", "Usdul Ghabah 3/168"],
-     "quote": ["أسلم قبل فتح مكة ووافى رسول الله، ﷺ، في تسعمائة من قومه", "وكان شاعرًا محسنًا، وشجاعًا، ومشهورًا"],
-     "status": "rewritten"}
+    {
+      "t": "Saat utusan Hawazin meminta kembali tawanan mereka sesudah Hunain, Bani Sulaim menyerahkan bagian mereka kepada Nabi ﷺ, meski pemimpin mereka al-'Abbas bin Mirdas menolak",
+      "src": [
+        "Sirah Ibnu Hisyam 2/489",
+        "Sirah Ibnu Hisyam 2/489"
+      ],
+      "quote": [
+        "وقال عباس بن مرداس: أما أنا وبنو سليم فلا",
+        "فقالت بنو سليم: بلى، ما كان لنا فهو لرسول الله ﷺ"
+      ],
+      "status": "new"
+    }
   ],
   "ekonomi": [
-    {"t": "Wilayahnya memiliki tambang (Ma'din Bani Sulaim), yang dibuka pada masa Abu Bakr dan zakatnya dikirim ke Baitul Mal",
-     "src": ["Ibnu Sa'd 3/213"],
-     "quote": ["وانفتح معدن بني سليم في خلافة أبي بكر فقدم عليه منه بصدقته"],
-     "status": "rewritten"}
+    {
+      "t": "Wilayahnya memiliki tambang (Ma'din Bani Sulaim), yang dibuka pada masa Abu Bakr dan zakatnya dikirim ke Baitul Mal",
+      "src": [
+        "Ibnu Sa'd 3/213"
+      ],
+      "quote": [
+        "وانفتح معدن بني سليم في خلافة أبي بكر فقدم عليه منه بصدقته"
+      ],
+      "status": "rewritten"
+    }
   ],
   "sosial": [
-    {"t": "al-Khansa', penyair perempuan terkenal, berasal dari Bani Sulaim",
-     "src": ["al-Ishabah 8/110", "al-Ishabah 8/111"],
-     "quote": ["قدمت على النبي ﷺ مع قومها من بني سليم، فأسلمت معهم", "وأجمع أهل العلم بالشعر أنه لم تكن امرأة قبلها ولا بعدها أشعر منها"],
-     "status": "ok"}
+    {
+      "t": "Bani Syaiban dari Bani Sulaim, sekutu Bani Hasyim, menjadi juru kunci dan penjaga (sadanah dan hijabah) berhala al-'Uzza di Nakhlah, hingga dihancurkan Khalid bin al-Walid",
+      "src": [
+        "Sirah Ibnu Hisyam 2/436",
+        "Sirah Ibnu Hisyam 2/436"
+      ],
+      "quote": [
+        "ثُمَّ بَعَثَ رَسُولُ اللَّهِ ﷺ خَالِدَ بْنَ الْوَلِيدِ إلَى الْعُزَّى",
+        "وَكَانَتْ سَدَنَتُهَا وَحُجَّابُهَا بَنِي شَيْبَانَ مِنْ بَنِي سُلَيْمٍ حَلْفَاءِ بَنِي هَاشِمٍ"
+      ],
+      "status": "new"
+    },
+    {
+      "t": "Dari Bani Sulaim lahir al-Khansa', yang disepakati ahli syair sebagai penyair perempuan terbesar; ia datang kepada Nabi ﷺ bersama kaumnya dan masuk Islam bersama mereka",
+      "src": [
+        "al-Ishabah 8/110",
+        "al-Ishabah 8/111"
+      ],
+      "quote": [
+        "قدمت على النبي ﷺ مع قومها من بني سليم، فأسلمت معهم",
+        "وأجمع أهل العلم بالشعر أنه لم تكن امرأة قبلها ولا بعدها أشعر منها"
+      ],
+      "status": "rewritten"
+    }
   ],
-  "dropped": []
+  "dropped": [
+    {
+      "t": "al-'Abbas bin Mirdas as-Sulami, penyair, masuk Islam sebelum Fathu Makkah dan datang bersama 900 orang kaumnya",
+      "reason": "already in biography of n3146"
+    }
+  ]
 }

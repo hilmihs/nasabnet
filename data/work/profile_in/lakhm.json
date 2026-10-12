@@ -1,0 +1,29 @@
+{
+ "id": "lakhm",
+ "name": "Lakhm",
+ "ar": "لخم",
+ "group": "arab",
+ "umum": {
+  "nama_arti": "Nama diambil dari leluhur eponim, Lakhm (Malik bin 'Adi); makna pastinya tidak disepakati secara luas.",
+  "titik_temu": "Lakhm termasuk rumpun Qahthan (keturunan Udad); bersaudara dekat dengan Judzam.",
+  "wilayah": "Lakhm terkenal sebagai pendiri Kerajaan Hirah di Irak (dinasti Al-Mundzir), vassal Persia Sasaniyah; sebagian lain menetap di Palestina/Syam.",
+  "peran_sosial": "Dikenal lewat Tamim ad-Dari, sahabat yang memberikan kesaksian terkait kisah Jassasah dan Dajjal, serta lewat kerajaan Hirah yang menjadi kekuatan Arab penting di perbatasan Persia sebelum Islam.",
+  "hilf": "Kerajaan Hirah (Lakhm) secara historis menjadi sekutu/vassal Kekaisaran Persia Sasaniyah, berseberangan dengan Ghassaniyyun yang menjadi sekutu Romawi.",
+  "dinamika": "Setelah runtuhnya Hirah oleh Persia dan kemudian oleh penaklukan Islam, keturunan Lakhm menyebar termasuk ke Andalusia."
+ },
+ "already_cited": {
+  "leluhur": {
+   "t": "Lakhm, yaitu Malik bin Adi bin al-Harits bin Murrah bin Udad.",
+   "src": [
+    "Jamharat Ansab al-'Arab, hlm. 422"
+   ]
+  },
+  "struktur": {
+   "t": "Anak Malik (Lakhm): Jazilah dan Namarah; dari jalur Namarah lahir Bani ad-Dar, leluhur Tamim ad-Dari, serta Bani Nashr, leluhur raja-raja Hirah (Al-Mundzir).",
+   "src": [
+    "Jamharat Ansab al-'Arab, hlm. 422"
+   ]
+  }
+ },
+ "roles_umum": []
+}

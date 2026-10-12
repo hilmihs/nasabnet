@@ -1,18 +1,131 @@
 {
-  "id": "ghathafan",
-  "lokasi": {"t": "Najd; cabang Tsa'labah, Murrah, dan 'Abs di al-Abraq dekat ar-Rabadzah; cukup dekat Khaibar sehingga dapat membantu penduduknya", "src": ["Sirah Ibnu Hisyam 2/46", "Tarikh ath-Thabari 3/243", "Sirah Ibnu Hisyam 2/330"], "quote": ["ثم غزا نجدا، يريد غطفان", "واجتمعت ثعلبة بن سعد ومن يليهم من مرة وعبس بالأبرق من الربذة", "فنزل بينهم وبين غطفان، ليحول بينهم وبين أن يمدوا أهل خيبر"], "status": "rewritten"},
-  "militer": [
-    {"t": "Ikut koalisi Ahzab menyerang Madinah (5 H) di bawah 'Uyainah bin Hishn al-Fazari", "src": ["Sirah Ibnu Hisyam 2/215", "Sirah Ibnu Hisyam 2/214"], "quote": ["وخرجت غطفان، وقائدها عيينة بن حصن", "ثم كانت غزوة الخندق في شوال سنة خمس"], "status": "ok"},
-    {"t": "Pada masa Riddah, 'Abs dan Dzubyan dikalahkan Abu Bakar di Dzul Qashshah dan al-Abraq lalu bergabung dengan Thulaihah di Buzakhah; di sana Fazarah (700 orang di bawah 'Uyainah) berperang bersama Thulaihah dan kalah", "src": ["Tarikh ath-Thabari 3/246", "Tarikh ath-Thabari 3/248", "Tarikh ath-Thabari 3/256", "Tarikh ath-Thabari 3/256"], "quote": ["واتبعهم أبو بكر، حتى نزل بذي القصة", "ولما فضت عبس وذبيان أرزوا إلى طليحة وقد نزل طليحة على بزاخة", "قاتل عيينه مع طليحة في سبعمائة من بني فزارة", "فلما أوقع الله بطليحة وفزارة ما أوقع"], "status": "rewritten"}
+ "id": "ghathafan",
+ "lokasi": {
+  "t": "Najd; cabang Tsa'labah, Murrah, dan 'Abs di al-Abraq dekat ar-Rabadzah; cukup dekat Khaibar sehingga dapat membantu penduduknya",
+  "src": [
+   "Sirah Ibnu Hisyam 2/46",
+   "Tarikh ath-Thabari 3/243",
+   "Sirah Ibnu Hisyam 2/330"
   ],
-  "diplomasi": [
-    {"t": "Saat Khandaq, Nabi ﷺ merundingkan pemberian sepertiga hasil buah Madinah kepada 'Uyainah bin Hishn dan al-Harits bin 'Auf, dua pemimpin Ghathafan, agar mundur; naskahnya batal setelah Sa'd bin Mu'adz dan Sa'd bin 'Ubadah menolak", "src": ["Sirah Ibnu Hisyam 2/223", "Sirah Ibnu Hisyam 2/223"], "quote": ["فأعطاهما ثلث ثمار المدينة على أن يرجعا بمن معهما", "فتناول سعد بن معاذ الصحيفة، فمحا ما فيها من الكتاب"], "status": "rewritten"}
+  "quote": [
+   "ثم غزا نجدا، يريد غطفان",
+   "واجتمعت ثعلبة بن سعد ومن يليهم من مرة وعبس بالأبرق من الربذة",
+   "فنزل بينهم وبين غطفان، ليحول بينهم وبين أن يمدوا أهل خيبر"
   ],
-  "ekonomi": [
-    {"t": "Kabilah penggembala yang berpindah mengikuti hujan: ketika negeri Bani Tsa'labah dan Anmar paceklik (6 H), mereka bergerak ke padang yang dituruni hujan", "src": ["Ibnu Sa'd 2/86", "Ibnu Sa'd 2/86"], "quote": ["أجدبت بلاد بني ثعلبة وأنمار", "فسارت بنو محارب وثعلبة وأنمار إلى تلك السحابة"], "status": "rewritten"}
-  ],
-  "sosial": [
-    {"t": "Antarah bin Syaddad, penyair-ksatria jahiliah dari Bani 'Abs", "src": ["Sirah Ibnu Hisyam 1/670", "Jamharat Ansab al-'Arab, hlm. 290"], "quote": ["ولرب قرن قد تركت مجدلا", "دعا عنترة بن شداد العبسى إلى المبارزة"], "status": "ok"}
-  ],
-  "dropped": []
+  "status": "rewritten"
+ },
+ "militer": [
+  {
+   "t": "Ikut koalisi Ahzab menyerang Madinah (5 H) di bawah 'Uyainah bin Hishn al-Fazari",
+   "src": [
+    "Sirah Ibnu Hisyam 2/215",
+    "Sirah Ibnu Hisyam 2/214"
+   ],
+   "quote": [
+    "وخرجت غطفان، وقائدها عيينة بن حصن",
+    "ثم كانت غزوة الخندق في شوال سنة خمس"
+   ],
+   "status": "ok"
+  },
+  {
+   "t": "Pada masa Riddah, 'Abs dan Dzubyan dikalahkan Abu Bakar di Dzul Qashshah dan al-Abraq lalu bergabung dengan Thulaihah di Buzakhah; di sana Fazarah (700 orang di bawah 'Uyainah) berperang bersama Thulaihah dan kalah",
+   "src": [
+    "Tarikh ath-Thabari 3/246",
+    "Tarikh ath-Thabari 3/248",
+    "Tarikh ath-Thabari 3/256",
+    "Tarikh ath-Thabari 3/256"
+   ],
+   "quote": [
+    "واتبعهم أبو بكر، حتى نزل بذي القصة",
+    "ولما فضت عبس وذبيان أرزوا إلى طليحة وقد نزل طليحة على بزاخة",
+    "قاتل عيينه مع طليحة في سبعمائة من بني فزارة",
+    "فلما أوقع الله بطليحة وفزارة ما أوقع"
+   ],
+   "status": "rewritten"
+  },
+  {
+   "t": "Perang Dahis (jahiliah): sengketa pacuan kuda Dahis milik Qais bin Zuhair al-'Absi dan al-Ghabra' milik Hudzaifah bin Badr al-Fazari berujung perang antara 'Abs dan Fazarah",
+   "src": [
+    "Sirah Ibnu Hisyam 1/286",
+    "Sirah Ibnu Hisyam 1/287"
+   ],
+   "quote": [
+    "أن داحسا فرس كان لقيس بن زهير",
+    "فوقعت الحرب بين عبس وفزارة"
+   ],
+   "status": "new"
+  }
+ ],
+ "diplomasi": [
+  {
+   "t": "Saat Khandaq, Nabi ﷺ merundingkan pemberian sepertiga hasil buah Madinah kepada 'Uyainah bin Hishn dan al-Harits bin 'Auf, dua pemimpin Ghathafan, agar mundur; naskahnya batal setelah Sa'd bin Mu'adz dan Sa'd bin 'Ubadah menolak",
+   "src": [
+    "Sirah Ibnu Hisyam 2/223",
+    "Sirah Ibnu Hisyam 2/223"
+   ],
+   "quote": [
+    "فأعطاهما ثلث ثمار المدينة على أن يرجعا بمن معهما",
+    "فتناول سعد بن معاذ الصحيفة، فمحا ما فيها من الكتاب"
+   ],
+   "status": "rewritten"
+  },
+  {
+   "t": "Menjadi sekutu Yahudi Khaibar melawan Nabi ﷺ; saat Khaibar dikepung (7 H) Ghathafan berhimpun hendak membantu, tetapi Nabi ﷺ berkemah di ar-Raji' untuk menghalangi mereka",
+   "src": [
+    "Sirah Ibnu Hisyam 2/330",
+    "Sirah Ibnu Hisyam 2/330"
+   ],
+   "quote": [
+    "فنزل بينهم وبين غطفان، ليحول بينهم وبين أن يمدوا أهل خيبر، وكانوا لهم مظاهرين على رسول الله ﷺ",
+    "فبلغني أن غطفان لما سمعت بمنزل رسول الله ﷺ من خيبر جمعوا له"
+   ],
+   "status": "new"
+  }
+ ],
+ "ekonomi": [
+  {
+   "t": "Kabilah penggembala yang berpindah mengikuti hujan: ketika negeri Bani Tsa'labah dan Anmar paceklik (6 H), mereka bergerak ke padang yang dituruni hujan",
+   "src": [
+    "Ibnu Sa'd 2/86",
+    "Ibnu Sa'd 2/86"
+   ],
+   "quote": [
+    "أجدبت بلاد بني ثعلبة وأنمار",
+    "فسارت بنو محارب وثعلبة وأنمار إلى تلك السحابة"
+   ],
+   "status": "rewritten"
+  }
+ ],
+ "sosial": [
+  {
+   "t": "Bani Murrah (Dzubyan) terpandang di Ghathafan dan seluruh Qais; mereka memiliki al-basl, delapan bulan haram setiap tahun yang diakui bangsa Arab",
+   "src": [
+    "Sirah Ibnu Hisyam 1/102",
+    "Sirah Ibnu Hisyam 1/102"
+   ],
+   "quote": [
+    "قوم لهم صيت وذكر في غطفان وقيس كلها",
+    "أشهر حرم، لهم من كل سنة من بين العرب قد عرفت ذلك لهم العرب"
+   ],
+   "status": "new"
+  },
+  {
+   "t": "Menurut Ibnu Ishaq, Bani Murrah adalah keturunan 'Auf bin Lu'ayy (Quraisy) yang tertinggal di negeri Ghathafan lalu dinasabkan kepada Dzubyan; Bani Murrah tidak mengingkari nasab itu",
+   "src": [
+    "Sirah Ibnu Hisyam 1/98",
+    "Sirah Ibnu Hisyam 1/99"
+   ],
+   "quote": [
+    "فإنه خرج- فيما يزعمون- في ركب من قريش، حتى إذا كان بأرض غطفان",
+    "وهم يقولون إذا ذكر لهم هذا النسب: ما ننكره وما نجحده"
+   ],
+   "status": "new"
+  }
+ ],
+ "dropped": [
+  {
+   "t": "Antarah bin Syaddad, penyair-ksatria jahiliah dari Bani 'Abs",
+   "reason": "person-level (a poet-knight); 'Antarah bin Syaddad is not in the dataset (s795 is a different 'Antarah) and the source names no clan role"
+  }
+ ]
 }

@@ -1,0 +1,23 @@
+{
+  "id": "zuhrah",
+  "nama_arti": {"t": "Nama diambil dari leluhur eponim, Zuhrah bin Kilab.",
+    "src": ["Jamharat Ansab al-'Arab, hlm. 128"],
+    "quote": ["وهؤلاء بنو زهرة بن كلاب ولد زهرة بن كلاب: الحارث، وعبد مناف"],
+    "status": "ok"},
+  "titik_temu": {"t": "Bertemu dengan Bani Qushay (dan karenanya klan-klan besar Quraisy lain) pada Kilab bin Murrah; dengan Bani Taim dan Bani Makhzum (keturunan Yaqazhah) pada Murrah bin Ka'b.",
+    "src": ["Jamharat Ansab al-'Arab, hlm. 14", "Jamharat Ansab al-'Arab, hlm. 13", "Jamharat Ansab al-'Arab, hlm. 141"],
+    "quote": ["ولد كلاب بن مرّة: قصى بن كلاب، وفيه البيت والشرف؛ وزهرة بن كلاب", "فولد مرّة بن كعب بن لؤى: كلاب بن مرة، وفيه البيت والشرف؛ وتيم بن مرة: ويقظة بن مرّة", "فولد يقظة بن مرة: مخزوم"],
+    "status": "ok"},
+  "wilayah": {"t": "Makkah; termasuk kabilah \"Quraisy al-Bithah\" (Abthahiyyun), yaitu yang masuk ke lembah Makkah bersama Qushay.",
+    "src": ["al-Muhabbar, hlm. 167", "al-Muhabbar, hlm. 168"],
+    "quote": ["وبنو زهرة بن كلاب. وبنو تيم بن مرة", "سموا «أبطحيين» لأنهم دخلوا مع قصي البطاح"],
+    "status": "rewritten"},
+  "peran_sosial": {"t": "Klan ibunda Nabi ﷺ, Aminah binti Wahb; melahirkan Sa'd bin Abi Waqqash dan Abdurrahman bin 'Auf, dua dari sepuluh sahabat yang disebut Nabi ﷺ di surga.",
+    "src": ["Jamharat Ansab al-'Arab, hlm. 128", "Jamharat Ansab al-'Arab, hlm. 129", "Usdul Ghabah 3/475", "Usdul Ghabah 3/477"],
+    "quote": ["فولد وهب: آمنة، أم رسول الله", "وولد وهيب بن عبد مناف بن زهرة: نوفل؛ ومالك، وهو أبو وقّاص", "عَبْد الرَّحْمَن بْن عوف بْن عَبْد عوف بْن عَبْد بْن الحارث بْن زهرة بْن كلاب", "وعبد الرَّحْمَن بْن عوف فِي الجنة، وسعد بْن أَبِي وقاص فِي الجنة"],
+    "status": "rewritten"},
+  "dinamika": {"t": "Karena Aminah seorang Zuhriyyah, Nabi ﷺ menyebut Sa'd bin Abi Waqqash \"pamanku (khal)\"; menjelang Badar seluruh Bani Zuhrah pulang bersama sekutu mereka al-Akhnas bin Syariq sehingga tak seorang pun dari mereka ikut berperang; kelak Umar mengutus Sa'd memimpin pasukan ke Irak, dan ia menjadi amir di Qadisiyyah.",
+    "src": ["Usdul Ghabah 2/453", "Sirah Ibnu Hisyam 1/619", "Tarikh ath-Thabari 3/472", "al-Ishabah 1/467"],
+    "quote": ["وَإِنَّمَا قَالَ هَذَا لأَنَّ سَعْدًا زُهْرِيٌّ، وَأُمُّ رَسُول اللَّهِ ﷺ زُهْرِيَّةٌ", "فَرَجَعَتْ بَنُو زُهْرَةَ مَعَ الْأَخْنَسِ بْنِ شَرِيقٍ، فَلَمْ يَشْهَدْ بَدْرًا", "وَقَدْ وَجَّهَ عُمَرُ سَعْدَ بْنَ أَبِي وَقَّاصٍ إِلَى الْعِرَاقِ فِي سِتَّةِ آلافِ، أَمَّرَهُ عَلَيْهِمْ", "أنخت بباب القادسيّة ناقتي ... وسعد بن وقّاص عليّ أمير"],
+    "status": "rewritten"}
+}

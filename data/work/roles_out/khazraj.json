@@ -1,22 +1,145 @@
 {
-  "id": "khazraj",
-  "lokasi": {"t": "Yatsrib/Madinah", "src": ["Sirah Ibnu Hisyam 1/13"], "quote": ["وَنَزَلَتْ الْأَوْسُ وَالْخَزْرَجُ يَثْرِبَ"], "status": "rewritten"},
-  "militer": [
-    {"t": "Berperang melawan Aus pada hari Bu'ats sebelum hijrah; Khazraj dipimpin 'Amr bin an-Nu'man al-Bayadhi dan kalah dalam pertempuran itu", "src": ["Sirah Ibnu Hisyam 1/555", "Sirah Ibnu Hisyam 1/556"], "quote": ["وَكَانَ يَوْمُ بُعَاثَ يَوْمًا اقْتَتَلَتْ فِيهِ الْأَوْسُ وَالْخَزْرَجُ", "لِلْأَوْسِ عَلَى الْخَزْرَجِ، وَكَانَ عَلَى الْأَوْسِ يَوْمئِذٍ حُضَيْرُ بْنُ سِمَاكٍ الْأَشْهَلِيُّ، أَبُو أُسَيْدِ بْنُ حُضَيْرٍ، وَعَلَى الْخَزْرَجِ عَمْرُو بْنُ النُّعْمَانِ البَيَاضِيُّ"], "status": "rewritten"},
-    {"t": "Sa'd bin 'Ubadah memegang panji Anshar; pada Fathu Makkah panji itu diambil darinya dan menurut satu riwayat diserahkan kepada putranya Qais (riwayat lain: kepada 'Ali atau az-Zubair)", "src": ["al-Ishabah 3/55", "Usdul Ghabah 2/443", "Sirah Ibnu Hisyam 2/407"], "quote": ["ومع سعد بن عبادة راية الأنصار", "فاخذ رسول اللَّه اللواء من سعد، وأعطاءه ابنه قيسًا", "أَدْرِكْهُ، فَخُذْ الرَّايَةَ مِنْهُ فَكُنْ أَنْتَ الَّذِي تَدْخُلُ بِهَا"], "status": "rewritten"}
+ "id": "khazraj",
+ "lokasi": {
+  "t": "Yatsrib/Madinah",
+  "src": [
+   "Sirah Ibnu Hisyam 1/13"
   ],
-  "diplomasi": [
-    {"t": "Awal Islamnya Anshar: enam orang Khazraj bertemu Nabi ﷺ di 'Aqabah pada musim haji lalu beriman", "src": ["Sirah Ibnu Hisyam 1/428", "Sirah Ibnu Hisyam 1/429"], "quote": ["فَبَيْنَمَا هُوَ عِنْدَ الْعَقَبَةِ لَقِيَ رَهْطًا مِنْ الْخَزْرَجِ", "سِتَّةُ نَفَرٍ مِنْ الْخَزْرَجِ، مِنْهُمْ مِنْ بَنِي النَّجَّارِ"], "status": "rewritten"},
-    {"t": "Sembilan dari dua belas naqib Bai'at 'Aqabah kedua berasal dari Khazraj", "src": ["Sirah Ibnu Hisyam 1/443"], "quote": ["تِسْعَةً مِنْ الْخَزْرَجِ، وَثَلَاثَةً مِنْ الْأَوْسِ"], "status": "ok"},
-    {"t": "Setelah Nabi ﷺ wafat, kaum Anshar berkumpul bersama Sa'd bin 'Ubadah di Saqifah Bani Sa'idah (cabang Khazraj) membahas urusan kepemimpinan", "src": ["Sirah Ibnu Hisyam 2/656", "Sirah Ibnu Hisyam 1/444"], "quote": ["انْحَازَ هَذَا الْحَيُّ مِنْ الْأَنْصَارِ إلَى سَعْدِ بْنِ عُبَادَةَ فِي سَقِيفَةِ بَنِي سَاعِدَةَ", "طَرِيفِ بْنِ الْخَزْرَجِ بْنِ سَاعِدَةَ بْنِ كَعْبِ بْنِ الْخَزْرَجِ"], "status": "rewritten"}
+  "quote": [
+   "وَنَزَلَتْ الْأَوْسُ وَالْخَزْرَجُ يَثْرِبَ"
   ],
-  "ekonomi": [
-    {"t": "Hidup dari kebun kurma Madinah: kurma menjadi makanan pokok penduduknya, dan kaum Anshar sibuk mengurus harta (kebun) mereka", "src": ["Ibnu Sa'd 1/409", "Ibnu Sa'd 2/363"], "quote": ["هي بلاد ظلف لا زرع فيها، إنما طعام أهلها التمر", "وإن إخواننا من الأنصار كان يشغلهم العمل في أموالهم"], "status": "rewritten"},
-    {"t": "Sa'd bin 'Ubadah masyhur dermawan; setiap hari ia mengirim nampan besar (jafnah) berisi tsarid kepada Nabi ﷺ", "src": ["al-Ishabah 3/55", "Ibnu Sa'd 3/614"], "quote": ["وكان مشهورا بالجود هو وأبوه وجده وولده", "يبعث إليه كل يوم جفنة فيها ثريد بلحم"], "status": "rewritten"}
-  ],
-  "sosial": [
-    {"t": "Bani 'Adi bin an-Najjar adalah kerabat Nabi ﷺ dari pihak ibu 'Abdul Muththalib (Salma binti 'Amr); setiba di Madinah Nabi ﷺ singgah di rumah Abu Ayyub al-Anshari (Bani Malik bin an-Najjar) sampai masjid dan tempat tinggalnya selesai dibangun", "src": ["Sirah Ibnu Hisyam 1/495", "Sirah Ibnu Hisyam 1/498", "Ibnu Sa'd 3/484"], "quote": ["وَهُمْ أَخْوَالُهُ دِنْيَا- أُمُّ عَبْدِ الْمُطَّلِبِ، سَلْمَى بِنْتُ عَمْرٍو، إحْدَى نِسَائِهِمْ", "فَأَقَامَ رَسُولُ اللَّهِ ﷺ فِي بَيْتِ أَبِي أَيُّوبَ، حَتَّى بُنِيَ لَهُ مَسْجِدُهُ وَمَسَاكِنُهُ", "ثم من بني مالك بن النجار ثم من بني غنم بن مالك بن النجار أبو أيوب"], "status": "rewritten"},
-    {"t": "Zaid bin Tsabit menulis wahyu untuk Nabi ﷺ dan termasuk yang ditugasi 'Utsman menghimpun Al-Qur'an", "src": ["al-Ishabah 4/4", "Ibnu Sa'd 3/502"], "quote": ["واستكتب أيضا زيد بن ثابت، وكان يكتب الوحي", "فيهم أبي بن كعب وزيد بن ثابت في جمع القرآن"], "status": "rewritten"}
-  ],
-  "dropped": []
+  "status": "rewritten"
+ },
+ "militer": [
+  {
+   "t": "Berperang melawan Aus pada hari Bu'ats sebelum hijrah; Khazraj dipimpin 'Amr bin an-Nu'man al-Bayadhi dan kalah dalam pertempuran itu",
+   "src": [
+    "Sirah Ibnu Hisyam 1/555",
+    "Sirah Ibnu Hisyam 1/556"
+   ],
+   "quote": [
+    "وَكَانَ يَوْمُ بُعَاثَ يَوْمًا اقْتَتَلَتْ فِيهِ الْأَوْسُ وَالْخَزْرَجُ",
+    "لِلْأَوْسِ عَلَى الْخَزْرَجِ، وَكَانَ عَلَى الْأَوْسِ يَوْمئِذٍ حُضَيْرُ بْنُ سِمَاكٍ الْأَشْهَلِيُّ، أَبُو أُسَيْدِ بْنُ حُضَيْرٍ، وَعَلَى الْخَزْرَجِ عَمْرُو بْنُ النُّعْمَانِ البَيَاضِيُّ"
+   ],
+   "status": "rewritten"
+  },
+  {
+   "t": "Bersaing dengan Aus dalam membela Nabi ﷺ: setelah Aus membunuh Ka'b bin al-Asyraf, Khazraj meminta izin membunuh Ibnu Abil Huqaiq di Khaibar, lalu lima orang Bani Salimah (Khazraj) berangkat melaksanakannya",
+   "src": [
+    "Sirah Ibnu Hisyam 2/274",
+    "Sirah Ibnu Hisyam 2/274"
+   ],
+   "quote": [
+    "ولما أصابت الأوس كعب بن الأشرف في عداوته لرسول الله ﷺ قالت الخزرج",
+    "فخرج إليه من الخزرج من بني سلمة خمسة نفر"
+   ],
+   "status": "new"
+  },
+  {
+   "t": "Menurut Ibnu Ishaq, 170 orang Khazraj ikut Perang Badar (dari 314 peserta)",
+   "src": [
+    "Sirah Ibnu Hisyam 1/706"
+   ],
+   "quote": [
+    "فجميع من شهد بدرا من الخزرج مائة وسبعون رجلا"
+   ],
+   "status": "new"
+  }
+ ],
+ "diplomasi": [
+  {
+   "t": "Awal Islamnya Anshar: enam orang Khazraj bertemu Nabi ﷺ di 'Aqabah pada musim haji lalu beriman",
+   "src": [
+    "Sirah Ibnu Hisyam 1/428",
+    "Sirah Ibnu Hisyam 1/429"
+   ],
+   "quote": [
+    "فَبَيْنَمَا هُوَ عِنْدَ الْعَقَبَةِ لَقِيَ رَهْطًا مِنْ الْخَزْرَجِ",
+    "سِتَّةُ نَفَرٍ مِنْ الْخَزْرَجِ، مِنْهُمْ مِنْ بَنِي النَّجَّارِ"
+   ],
+   "status": "rewritten"
+  },
+  {
+   "t": "Sembilan dari dua belas naqib Bai'at 'Aqabah kedua berasal dari Khazraj",
+   "src": [
+    "Sirah Ibnu Hisyam 1/443"
+   ],
+   "quote": [
+    "تِسْعَةً مِنْ الْخَزْرَجِ، وَثَلَاثَةً مِنْ الْأَوْسِ"
+   ],
+   "status": "ok"
+  },
+  {
+   "t": "Setelah Nabi ﷺ wafat, kaum Anshar berkumpul bersama Sa'd bin 'Ubadah di Saqifah Bani Sa'idah (cabang Khazraj) membahas urusan kepemimpinan",
+   "src": [
+    "Sirah Ibnu Hisyam 2/656",
+    "Sirah Ibnu Hisyam 1/444"
+   ],
+   "quote": [
+    "انْحَازَ هَذَا الْحَيُّ مِنْ الْأَنْصَارِ إلَى سَعْدِ بْنِ عُبَادَةَ فِي سَقِيفَةِ بَنِي سَاعِدَةَ",
+    "طَرِيفِ بْنِ الْخَزْرَجِ بْنِ سَاعِدَةَ بْنِ كَعْبِ بْنِ الْخَزْرَجِ"
+   ],
+   "status": "rewritten"
+  }
+ ],
+ "ekonomi": [
+  {
+   "t": "Hidup dari kebun kurma Madinah: kurma menjadi makanan pokok penduduknya, dan kaum Anshar sibuk mengurus harta (kebun) mereka",
+   "src": [
+    "Ibnu Sa'd 1/409",
+    "Ibnu Sa'd 2/363"
+   ],
+   "quote": [
+    "هي بلاد ظلف لا زرع فيها، إنما طعام أهلها التمر",
+    "وإن إخواننا من الأنصار كان يشغلهم العمل في أموالهم"
+   ],
+   "status": "rewritten"
+  }
+ ],
+ "sosial": [
+  {
+   "t": "Saat Nabi ﷺ tiba di Madinah, klan-klan Khazraj — Bani Sa'idah, Bani al-Harits bin al-Khazraj, dan Bani 'Adi bin an-Najjar (kerabat beliau dari pihak ibu 'Abdul Muththalib, Salma binti 'Amr) — bergantian menawarkan jumlah, kekuatan, dan perlindungan; untanya menderum di perkampungan Bani Malik bin an-Najjar, di tempat masjid beliau",
+   "src": [
+    "Sirah Ibnu Hisyam 1/495",
+    "Sirah Ibnu Hisyam 1/495",
+    "Sirah Ibnu Hisyam 1/495"
+   ],
+   "quote": [
+    "في رجال من بني الحارث ابن الخزرج فقالوا: يا رسول الله هلم إلينا إلى العدد والعدة والمنعة",
+    "وَهُمْ أَخْوَالُهُ دِنْيَا- أُمُّ عَبْدِ الْمُطَّلِبِ، سَلْمَى بِنْتُ عَمْرٍو، إحْدَى نِسَائِهِمْ",
+    "حتى إذا أتت دار بني مالك بن النجار، بركت على باب مسجده"
+   ],
+   "status": "rewritten"
+  },
+  {
+   "t": "Pada masa jahiliah menyembah berhala Manat di al-Musyallal (Qudaid), bersama Aus dan penduduk Yatsrib yang seagama dengan mereka; dihancurkan atas perintah Nabi ﷺ saat Fathu Makkah",
+   "src": [
+    "Sirah Ibnu Hisyam 1/85",
+    "Ibnu Sa'd 2/147"
+   ],
+   "quote": [
+    "لِلْأَوْسِ وَالْخَزْرَجِ، وَمَنْ دَانَ بِدِينِهِمْ مِنْ أَهْلِ يَثْرِبَ",
+    "إلى مناة، وكانت بالمشلل للأوس والخزرج وغسان"
+   ],
+   "status": "new"
+  }
+ ],
+ "dropped": [
+  {
+   "t": "Sa'd bin 'Ubadah memegang panji Anshar; pada Fathu Makkah panji itu diambil darinya dan menurut satu riwayat diserahkan kepada putranya Qais (riwayat lain: kepada 'Ali atau az-Zubair)",
+   "reason": "panji Anshar already in biography of n2305; Fathu Makkah detail moved to biography of n2305"
+  },
+  {
+   "t": "Sa'd bin 'Ubadah masyhur dermawan; setiap hari ia mengirim nampan besar (jafnah) berisi tsarid kepada Nabi ﷺ",
+   "reason": "moved to biography of n2305 (generosity already there; daily jafnah added)"
+  },
+  {
+   "t": "Zaid bin Tsabit menulis wahyu untuk Nabi ﷺ dan termasuk yang ditugasi 'Utsman menghimpun Al-Qur'an",
+   "reason": "moved to biography of n2177 (katib wahyu already there; Qur'an compilation added)"
+  },
+  {
+   "t": "Setiba di Madinah Nabi ﷺ singgah di rumah Abu Ayyub al-Anshari sampai masjid dan tempat tinggalnya selesai dibangun",
+   "reason": "already in biography of n1731; rest of bullet rewritten to clan level"
+  }
+ ]
 }

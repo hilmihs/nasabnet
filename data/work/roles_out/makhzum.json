@@ -1,22 +1,118 @@
 {
   "id": "makhzum",
-  "lokasi": {"t": "Makkah (Hijaz), di lembah al-Abthah; termasuk Quraisy al-Bithah", "src": ["Ibnu Sa'd 1/71", "al-Muhabbar, hlm. 167"], "quote": ["وأدخل قصي بطون قريش كلها الأبطح فسموا قريش البطاح", "وبنو مخزوم بن يقظه بن مرة"], "status": "rewritten"},
+  "lokasi": {
+    "t": "Makkah (Hijaz), di lembah al-Abthah; termasuk Quraisy al-Bithah",
+    "src": [
+      "Ibnu Sa'd 1/71",
+      "al-Muhabbar, hlm. 167"
+    ],
+    "quote": [
+      "وأدخل قصي بطون قريش كلها الأبطح فسموا قريش البطاح",
+      "وبنو مخزوم بن يقظه بن مرة"
+    ],
+    "status": "rewritten"
+  },
   "militer": [
-    {"t": "Khalid bin al-Walid memegang al-qubbah (kemah perbekalan pasukan) dan a'innah al-khail (komando pasukan berkuda) Quraisy pada masa Jahiliyah", "src": ["Usdul Ghabah 2/140"], "quote": ["وكان إليه القبة وأعنة الخيل في الجاهلية"], "status": "rewritten"},
-    {"t": "Khalid bin al-Walid (Saifullah) memimpin pasukan di Mu'tah, Riddah, Irak, dan Yarmuk", "src": ["Ibnu Sa'd 4/37", "Sirah Ibnu Hisyam 2/380", "Tarikh ath-Thabari 3/249", "Tarikh ath-Thabari 3/343", "Tarikh ath-Thabari 3/396"], "quote": ["ثم أخذها سيف من سيوف الله خالد بن الوليد ففتح الله عليه", "فَلَمَّا أَخَذَ الرَّايَةَ دَافَعَ الْقَوْمَ", "عَقَدَ لِخَالِدِ بْنِ الْوَلِيدِ وَأَمَرَهُ بِطُلَيْحَةَ بْنِ خُوَيْلِدٍ", "كَتَبَ إِلَى خَالِدِ بْنِ الْوَلِيدِ يَأْمُرُهُ أَنْ يَسِيرَ إِلَى الْعِرَاقِ", "وَدَعُونِي أَلِيكُمُ الْيَوْمَ. فَأَمَّرُوهُ"], "status": "ok"},
-    {"t": "Sebelum masuk Islam, Khalid memimpin sayap kanan Quraisy di Uhud; melihat bukit ditinggalkan para pemanah, ia berbalik menyerang dengan pasukan berkuda", "src": ["Ibnu Sa'd 2/40", "Ibnu Sa'd 2/41"], "quote": ["واستعملوا على الميمنة خالد بن الوليد", "ونظر خالد بن الوليد إلى خلاء الجبل وقلة أهله فكر بالخيل"], "status": "rewritten"}
+    {
+      "t": "Bani Makhzum memegang al-qubbah (kemah tempat perbekalan pasukan dihimpun) dan al-a'innah (komando pasukan berkuda Quraisy), salah satu kehormatan Quraisy yang diwarisi sepuluh klan; menjelang Islam dipegang Khalid bin al-Walid",
+      "src": [
+        "al-'Iqd al-Farid 3/267",
+        "al-'Iqd al-Farid 3/268",
+        "Usdul Ghabah 2/140"
+      ],
+      "quote": [
+        "ومن بني مخزوم: خالد بن الوليد، وكانت إليه القبة والأعنة",
+        "إلى هؤلاء العشرة من هذه البطون العشرة",
+        "وكان إليه القبة وأعنة الخيل في الجاهلية"
+      ],
+      "status": "rewritten"
+    },
+    {
+      "t": "Dalam Perang Fijar, pasukan Bani Makhzum dipimpin Hisyam bin al-Mughirah",
+      "src": [
+        "al-Muhabbar, hlm. 169",
+        "al-Muhabbar, hlm. 169"
+      ],
+      "quote": [
+        "رؤساء حرب الفجار من قريش",
+        "وعلى (بني مخزوم) هشام بن المغيرة"
+      ],
+      "status": "new"
+    }
   ],
   "diplomasi": [
-    {"t": "Di Hudaibiyah, ketika para sahabat belum mau menyembelih, Ummu Salamah menyarankan Nabi ﷺ keluar tanpa berbicara lalu menyembelih hadyu dan bercukur lebih dahulu; para sahabat pun mengikutinya", "src": ["Tarikh ath-Thabari 2/637", "Tarikh ath-Thabari 2/637"], "quote": ["اخْرُجْ ثُمَّ لا تُكَلِّمْ أَحَدًا مِنْهُمْ كَلِمَةً حَتَّى تَنْحَرَ بَدَنَتَكَ", "فَلَمَّا رَأَوْا ذَلِكَ قَامُوا فَنَحَرُوا"], "status": "rewritten"}
+    {
+      "t": "Termasuk al-Ahlaf (La'aqat ad-Dam): bersama Bani Sahm, Jumah, dan 'Adi bersekutu dengan Bani 'Abdud-Dar menghadapi al-Muthayyabun dalam sengketa jabatan Ka'bah",
+      "src": [
+        "al-Muhabbar, hlm. 166",
+        "Ansab al-Asyraf 1/63"
+      ],
+      "quote": [
+        "قبائل الأحلاف من قريش وهم لعقة الدم عبد الدار بن قصي",
+        "بنو مخزوم، وبنو جمح، وبنو سهم، وبنو عدي بن كعب"
+      ],
+      "status": "new"
+    },
+    {
+      "t": "Ketika Abu Salamah meminta perlindungan (jiwar) Abu Thalib, para lelaki Bani Makhzum mendatangi Abu Thalib menuntut agar ia dilepaskan",
+      "src": [
+        "Sirah Ibnu Hisyam 1/371"
+      ],
+      "quote": [
+        "مَشَى إلَيْهِ رِجَالٌ مِنْ بَنِي مَخْزُومٍ، فَقَالُوا (لَهُ) [١]: يَا أَبَا طَالِبٍ"
+      ],
+      "status": "new"
+    }
   ],
-  "ekonomi": [
-    {"t": "al-Walid bin al-Mughirah, yang menurut Ibnu Ishaq menjadi sebab turunnya ayat \"Aku jadikan baginya harta yang melimpah\" (al-Muddatstsir: 12)", "src": ["Sirah Ibnu Hisyam 1/271", "Sirah Ibnu Hisyam 1/271"], "quote": ["فَأَنْزَلَ اللَّهُ تَعَالَى فِي الْوَلِيدِ بْنِ الْمُغِيرَةِ", "وَجَعَلْتُ لَهُ مَالًا مَمْدُودًا وَبَنِينَ شُهُودًا"], "status": "rewritten"}
-  ],
+  "ekonomi": [],
   "sosial": [
-    {"t": "al-Arqam bin Abi al-Arqam menyediakan rumahnya di Shafa (Dar al-Arqam) sebagai tempat Nabi ﷺ berdakwah di awal Islam", "src": ["Ibnu Sa'd 3/242", "Ibnu Sa'd 3/242"], "quote": ["وكانت داره بمكة على الصفا", "وفيها دعا الناس إلى الإسلام وأسلم فيها قوم كثير"], "status": "ok"},
-    {"t": "Klan Ummu Salamah, Ummul Mukminin", "src": ["Usdul Ghabah 7/329"], "quote": ["أم سلمة بنت أبي أمية بن المغيرة بن عبد الله بن عمر بن مخزوم القرشية المخزومية"], "status": "ok"}
+    {
+      "t": "Klan Ummu Salamah, Ummul Mukminin",
+      "src": [
+        "Usdul Ghabah 7/329"
+      ],
+      "quote": [
+        "أم سلمة بنت أبي أمية بن المغيرة بن عبد الله بن عمر بن مخزوم القرشية المخزومية"
+      ],
+      "status": "ok"
+    },
+    {
+      "t": "Bani Makhzum menyiksa keluarga Yasir (sekutu mereka) di padang panas Makkah karena masuk Islam; Sumayyah, ibu 'Ammar, mereka bunuh",
+      "src": [
+        "Sirah Ibnu Hisyam 1/319",
+        "Sirah Ibnu Hisyam 1/320"
+      ],
+      "quote": [
+        "وَكَانَتْ بَنُو مَخْزُومٍ يَخْرُجُونَ بِعَمَّارِ",
+        "فَأَمَّا أُمُّهُ فَقَتَلُوهَا، وَهِيَ تَأْبَى إلَّا الْإِسْلَامَ"
+      ],
+      "status": "new"
+    }
   ],
   "dropped": [
-    {"t": "Salah satu klan terkaya Quraisy (bagian awal bullet ekonomi)", "reason": "Tidak ditemukan pernyataan bahwa Bani Makhzum termasuk klan terkaya Quraisy di 8 kitab; bullet dipersempit ke al-Walid bin al-Mughirah sesuai Ibnu Hisyam 1/271."}
+    {
+      "t": "Salah satu klan terkaya Quraisy (bagian awal bullet ekonomi)",
+      "reason": "Tidak ditemukan pernyataan bahwa Bani Makhzum termasuk klan terkaya Quraisy di 8 kitab; bullet dipersempit ke al-Walid bin al-Mughirah sesuai Ibnu Hisyam 1/271."
+    },
+    {
+      "t": "Khalid bin al-Walid (Saifullah) memimpin pasukan di Mu'tah, Riddah, Irak, dan Yarmuk",
+      "reason": "Mu'tah dan Syam already in biography of n1764; Riddah, Irak, Yarmuk moved to biography of n1764"
+    },
+    {
+      "t": "Sebelum masuk Islam, Khalid memimpin sayap kanan Quraisy di Uhud; melihat bukit ditinggalkan para pemanah, ia berbalik menyerang dengan pasukan berkuda",
+      "reason": "moved to biography of n1764"
+    },
+    {
+      "t": "Di Hudaibiyah, ketika para sahabat belum mau menyembelih, Ummu Salamah menyarankan Nabi ﷺ keluar tanpa berbicara lalu menyembelih hadyu dan bercukur lebih dahulu; para sahabat pun mengikutinya",
+      "reason": "moved to biography of n6741"
+    },
+    {
+      "t": "al-Walid bin al-Mughirah, yang menurut Ibnu Ishaq menjadi sebab turunnya ayat \"Aku jadikan baginya harta yang melimpah\" (al-Muddatstsir: 12)",
+      "reason": "moved to biography of x858eeae7"
+    },
+    {
+      "t": "al-Arqam bin Abi al-Arqam menyediakan rumahnya di Shafa (Dar al-Arqam) sebagai tempat Nabi ﷺ berdakwah di awal Islam",
+      "reason": "already in biography of s494"
+    }
   ]
 }

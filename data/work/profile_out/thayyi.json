@@ -1,0 +1,28 @@
+{
+  "id": "thayyi",
+  "nama_arti": {
+    "t": "Thayyi' adalah julukan bagi Julhumah bin Udad; maknanya diperselisihkan: al-Khalil menyebut akar katanya dari tha'-wau-ya', sedangkan Ibnul Kalbi berkata ia dinamai Thayyi' karena dialah orang pertama yang 'thawa al-manahil' (menembok sumur-sumur mata air).",
+    "src": ["al-Isytiqaq, hlm. 380", "al-Isytiqaq, hlm. 380", "al-Isytiqaq, hlm. 380"],
+    "quote": ["ولدُ طيّئ بن أدَد، واسمُه جُلهُمة", "قال الخليل: أصل بناء طَيٍّ من طاءٍ وواو", "وكان ابنُ الكلبيّ يقول: سمِّي طيِّئًا لأنَّه أوَّلُ مَن طوَى المناهل"],
+    "status": "rewritten"
+  },
+  "wilayah": {
+    "t": "Berasal dari Yaman, lalu keluar dan menguasai dua gunung Aja' dan Salma (Jabal Thayyi') yang kemudian menjadi negeri mereka.",
+    "src": ["Nihayat al-Arab al-Qalqasyandi, hlm. 326", "Nihayat al-Arab al-Qalqasyandi, hlm. 326", "Sirah Ibnu Hisyam 1/87"],
+    "quote": ["وكانت منازلهم باليمن فخرجوا منه", "ثم غلبوهم على اجاء وسلمى، وهما جبلان في بلادهم", "بِجَبَلَيْ طيِّئ، يَعْنِي سَلْمَى وَأَجَأَ"],
+    "status": "rewritten"
+  },
+  "peran_sosial": {
+    "t": "Dikenal lewat Hatim ath-Tha'i yang masyhur karena kedermawanannya, dan putranya 'Adi bin Hatim, bangsawan Nasrani yang memungut mirba' (seperempat ghanimah) dari kaumnya lalu masuk Islam di hadapan Nabi ﷺ; pada awal Islam mereka menyebar dalam penaklukan-penaklukan.",
+    "src": ["Nihayat al-Arab al-Qalqasyandi, hlm. 326", "Sirah Ibnu Hisyam 2/578", "Sirah Ibnu Hisyam 2/578", "Sirah Ibnu Hisyam 2/581", "Nihayat al-Arab al-Qalqasyandi, hlm. 326"],
+    "quote": ["وإليهم ينسب حاتم الطائي المشهور بالكرم", "أَمَا أَنَا فَكُنْتُ امْرَأً شَرِيفًا، وَكُنْتُ نَصْرَانِيًّا", "أَسِير بالمرباع: أَي آخذ الرّبع من الْغَنَائِم، لِأَنِّي سيدهم", "قَدْ فُتِحَتْ عَلَيْهِمْ، قَالَ: فَأَسْلَمْتُ", "فاستمروا وافترقوا في أول الإسلام في الفتوحات"],
+    "status": "rewritten"
+  },
+  "dinamika": {
+    "t": "Keturunan al-Harits bin Thayyi' tinggal di tengah Mahrah bin Haidan, paman-paman mereka dari pihak ibu; dari jalur ini lahir penyair Habib bin Aus (Abu Tammam). Keturunan Sa'd bin Fithrah, kecuali Bani Ruman, meninggalkan dua gunung Thayyi' dalam Perang al-Fasad dan pindah ke Halab dan Hadhir Thayyi'.",
+    "src": ["Jamharat Ansab al-'Arab, hlm. 398", "Jamharat Ansab al-'Arab, hlm. 399", "Jamharat Ansab al-'Arab, hlm. 399"],
+    "quote": ["فأمّا ولد الحارث بن طيئ، فهو في مهرة بن حيدان؛ وكانوا أخواله", "ومن ولده كان الشاعر حبيب بن أوس بن الحارث بن قيس", "جلوا كلهم عن الجبلين في حرب الفساد، فلحقوا بحلب وحاضر طيئ"],
+    "status": "rewritten"
+  },
+  "dropped": []
+}

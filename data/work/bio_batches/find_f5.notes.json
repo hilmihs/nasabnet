@@ -1,0 +1,7 @@
+{
+ "not_found": {},
+ "skipped": {
+  "n11390": "Record itself is unresolved ('Zainab, said to be bint Jahsh, or said to be the wife of Ibn Mas'ud'); searched Isabah/Usd for an unattributed Zainab entry (زينب غير منسوبة, امرأة ابن مسعود) - no entry identifies this exact person; cannot pick one without guessing.",
+  "n9886": "Bare name 'al-Harits' with no father, tribe, nisba, kunya, death or place; dozens of companions named al-Harith in Isabah/Usd - impossible to identify."
+ }
+}

@@ -1,4 +1,4 @@
-import { useMemo, useState } from 'react'
+import { lazy, Suspense, useMemo, useState } from 'react'
 import { Empty, PersonChip, SectionTitle, SmartFilter } from '../components/bits'
 import { GraphCanvas, Legend, type GEdge, type GNode } from '../components/GraphCanvas'
 import { Icon } from '../components/Icon'
@@ -7,6 +7,8 @@ import { useStore } from '../lib/data'
 import { pushHistory, toggleBookmark, useSaved } from '../lib/store'
 import { CATEGORY_LABEL, type Category, type Person, type Tribe } from '../lib/types'
 import { useUI } from '../lib/ui'
+
+const TribeMap = lazy(() => import('../components/TribeMap'))
 
 const GROUPS: { id: Tribe['group']; title: string; desc: string }[] = [
   { id: 'quraisy', title: 'Quraisy', desc: 'Keturunan Fihr bin Malik di Makkah — mayoritas Muhajirin berasal dari klan-klan ini.' },
@@ -30,7 +32,8 @@ export function TribesView() {
   const store = useStore()
   const { g, tribes, membersByTribe, tribeColorById } = store
   const { route, go, filters, openProfile } = useUI()
-  const [mode, setMode] = useState<'kartu' | 'peta'>('kartu')
+  const mode = (['peta', 'wilayah'] as const).find((m) => m === route.params.m) ?? 'kartu'
+  const setMode = (m: 'kartu' | 'peta' | 'wilayah') => go('kabilah', { ...route.params, m: m === 'kartu' ? '' : m })
   const selected = route.params.t && tribes.has(route.params.t) ? tribes.get(route.params.t)! : null
 
   const pass = (p: Person) => filters.length === 0 || filters.some((c) => p.cats.includes(c))
@@ -49,7 +52,7 @@ export function TribesView() {
 
   const select = (t: Tribe) => {
     pushHistory({ kind: 'tribe', ref: t.id, label: t.name })
-    go('kabilah', { t: t.id })
+    go('kabilah', { t: t.id, m: route.params.m ?? '' })
   }
 
   return (
@@ -62,9 +65,9 @@ export function TribesView() {
       <div className="mb-5 flex flex-wrap items-center justify-between gap-3">
         <SmartFilter counts={counts} />
         <div className="inline-flex rounded-full border border-krem-300 bg-white p-1 text-xs font-semibold">
-          {(['kartu', 'peta'] as const).map((m) => (
+          {(['kartu', 'wilayah', 'peta'] as const).map((m) => (
             <button key={m} type="button" onClick={() => setMode(m)} className={`rounded-full px-3 py-1.5 ${mode === m ? 'bg-hijau-800 text-krem-50' : 'text-hijau-800'}`}>
-              {m === 'kartu' ? 'Kartu kabilah' : 'Peta jaringan antarkabilah'}
+              {m === 'kartu' ? 'Kartu kabilah' : m === 'wilayah' ? 'Peta wilayah' : 'Peta jaringan antarkabilah'}
             </button>
           ))}
         </div>
@@ -75,13 +78,17 @@ export function TribesView() {
           tribe={selected}
           members={selectedMembers}
           tab={route.params.tab === 'profil' ? 'profil' : 'jejaring'}
-          onTab={(tab) => go('kabilah', { t: selected.id, tab })}
-          onClose={() => go('kabilah')}
+          onTab={(tab) => go('kabilah', { t: selected.id, tab, m: route.params.m ?? '' })}
+          onClose={() => go('kabilah', { m: route.params.m ?? '' })}
           onOpen={openProfile}
         />
       )}
 
-      {mode === 'peta' ? (
+      {mode === 'wilayah' ? (
+        <Suspense fallback={<p className="py-10 text-center text-sm text-tinta-soft">Memuat peta…</p>}>
+          <TribeMap focus={selected?.id} onSelect={(id) => tribes.has(id) && select(tribes.get(id)!)} />
+        </Suspense>
+      ) : mode === 'peta' ? (
         <TribeNetwork onSelect={select} />
       ) : (
         <div className="space-y-8">

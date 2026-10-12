@@ -1,0 +1,36 @@
+{
+ "id": "ghathafan",
+ "name": "Ghathafan",
+ "ar": "غطفان",
+ "group": "arab",
+ "umum": {
+  "nama_arti": "Nama diambil dari leluhur eponim, Ghathafan bin Sa'd.",
+  "wilayah": "Najd, di wilayah antara Madinah dan Syam.",
+  "peran_sosial": "Kabilah besar yang beberapa cabangnya ikut dalam koalisi menyerang Madinah pada Perang Khandaq, namun belakangan banyak anggotanya masuk Islam.",
+  "hilf": "Sebagian Ghathafan bersekutu dengan Quraisy dan Yahudi Madinah dalam koalisi al-Ahzab menyerang Madinah pada Perang Khandaq (5 H).",
+  "dinamika": "Nu'aim bin Mas'ud, tokoh Ghathafan yang masuk Islam, berperan memecah belah koalisi al-Ahzab dari dalam atas perintah Nabi ﷺ saat Perang Khandaq."
+ },
+ "already_cited": {
+  "leluhur": {
+   "t": "Ghathafan bin Sa'd bin Qais 'Ailan bin Mudhar.",
+   "src": [
+    "Jamharat Ansab al-'Arab, hlm. 248"
+   ]
+  },
+  "titik_temu": {
+   "t": "Bertemu dengan Hawazin dan Tsaqif pada Qais 'Ailan; mencakup beberapa kabilah besar seperti Fazarah, 'Abs, dan Dzubyan.",
+   "src": [
+    "Jamharat Ansab al-'Arab, hlm. 248",
+    "Jamharat Ansab al-'Arab, hlm. 249"
+   ]
+  },
+  "struktur": {
+   "t": "Dua anak Ghathafan: Raits dan Abdul 'Uzza, yang diganti nama oleh Nabi ﷺ menjadi Abdullah; dari Raits lahir cabang Ahwan, Mazin, Asyja', dan Bughaidh, leluhur Fazarah, 'Abs, dan Dzubyan.",
+   "src": [
+    "Jamharat Ansab al-'Arab, hlm. 248",
+    "Jamharat Ansab al-'Arab, hlm. 249"
+   ]
+  }
+ },
+ "roles_umum": []
+}

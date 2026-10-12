@@ -1,0 +1,35 @@
+{
+ "id": "sulaim",
+ "name": "Bani Sulaim",
+ "ar": "بنو سليم",
+ "group": "arab",
+ "umum": {
+  "nama_arti": "Nama Sulaim adalah bentuk tashghir (pengecilan) dari kata 'salim' (sehat/aman), diambil dari nama leluhur mereka.",
+  "wilayah": "Mendiami wilayah antara Makkah dan Madinah, sekitar Harrah dan Khaibar; wilayahnya menjadi lokasi tragedi Bi'r Ma'unah.",
+  "peran_sosial": "Sebagian Bani Sulaim (terutama Bani 'Ushayyah) terlibat dalam pembunuhan para sahabat di Bi'r Ma'unah sehingga dilaknat oleh Nabi ﷺ; namun banyak pula anggotanya yang masuk Islam dan menjadi sahabat terkemuka.",
+  "dinamika": "Bani Sulaim juga berperan dalam penaklukan Khurasan pasca-Islam lewat keturunan tokoh seperti Abdullah bin Khazim."
+ },
+ "already_cited": {
+  "leluhur": {
+   "t": "Sulaim bin Manshur bin 'Ikrimah bin Khashafah bin Qais 'Ailan.",
+   "src": [
+    "Jamharat Ansab al-'Arab, hlm. 261"
+   ]
+  },
+  "titik_temu": {
+   "t": "Bertemu dengan Hawazin dan kabilah Qais lain pada Manshur bin 'Ikrimah bin Khashafah bin Qais 'Ailan.",
+   "src": [
+    "Jamharat Ansab al-'Arab, hlm. 261"
+   ]
+  },
+  "struktur": {
+   "t": "Anak Sulaim, Bahtsah, berketurunan al-Harits, Tsa'labah, Imru'ul Qais, Auf, dan Mu'awiyah; dari Imru'ul Qais lahir Bani 'Ushayyah dan Bani 'Umairah, termasuk keluarga penyair al-Khansa' dan saudaranya Shakhr.",
+   "src": [
+    "Jamharat Ansab al-'Arab, hlm. 261"
+   ]
+  }
+ },
+ "roles_umum": [
+  "lokasi"
+ ]
+}

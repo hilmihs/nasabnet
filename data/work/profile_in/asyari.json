@@ -1,0 +1,36 @@
+{
+ "id": "asyari",
+ "name": "al-Asy'ariyyun",
+ "ar": "الأشعريون",
+ "group": "arab",
+ "umum": {
+  "nama_arti": "Julukan al-Asy'ar (nama asli Nabt) menurut riwayat merujuk pada kondisi fisiknya yang lahir dengan rambut lebat (dari kata 'sya'r', rambut).",
+  "wilayah": "Kabilah Yaman yang bermukim di dataran tinggi Yaman; terkenal lewat Abu Musa al-Asy'ari yang menjadi gubernur Kufah dan Bashrah.",
+  "peran_sosial": "Dikenal lewat Abu Musa al-Asy'ari, sahabat terkemuka, ahli Al-Qur'an, dan salah satu hakim pada peristiwa tahkim antara Ali dan Muawiyah.",
+  "dinamika": "Peran Abu Musa al-Asy'ari dalam peristiwa tahkim Shiffin menjadi salah satu episode penting fitnah pada masa Ali bin Abi Thalib."
+ },
+ "already_cited": {
+  "leluhur": {
+   "t": "al-Asy'ar, yaitu Nabt bin Udad bin Zaid bin Yasyjub bin 'Uraib bin Zaid bin Kahlan bin Saba'.",
+   "src": [
+    "Jamharat Ansab al-'Arab, hlm. 397"
+   ]
+  },
+  "titik_temu": {
+   "t": "Bertemu dengan kabilah Qahthan lain, termasuk Thayyi' dan Madzhij, pada Zaid bin Kahlan dan Saba'.",
+   "src": [
+    "Jamharat Ansab al-'Arab, hlm. 397"
+   ]
+  },
+  "struktur": {
+   "t": "Keturunan terkenal dari jalur ini adalah keluarga Abu Musa al-Asy'ari, yang cucu-cucunya menetap di Andalusia (Ishbiliyah).",
+   "src": [
+    "Jamharat Ansab al-'Arab, hlm. 397"
+   ]
+  }
+ },
+ "roles_umum": [
+  "lokasi",
+  "ekonomi[0]"
+ ]
+}

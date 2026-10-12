@@ -19,3 +19,6 @@ data/work/ibnsad_sections.json
 
 # local browser-test artefacts
 .playwright-mcp/
+
+# Wikidata/OSM lookup cache (scripts/geo.py)
+data/work/geo_cache/

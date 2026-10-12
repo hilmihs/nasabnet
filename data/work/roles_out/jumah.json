@@ -1,18 +1,105 @@
 {
   "id": "jumah",
-  "lokasi": {"t": "Makkah (Hijaz)", "status": "umum"},
+  "lokasi": {
+    "t": "Makkah (Hijaz); rumah-rumah Bani Mazh'un dari Bani Jumah di Makkah ditinggalkan terkunci saat hijrah",
+    "src": [
+      "Sirah Ibnu Hisyam 1/499",
+      "Sirah Ibnu Hisyam 1/499"
+    ],
+    "quote": [
+      "بَنُو مَظْعُونٍ مِنْ بَنِي جُمَحٍ",
+      "فَإِنَّ دُورَهُمْ غُلِّقَتْ بِمَكَّةَ هِجْرَةً"
+    ],
+    "status": "rewritten"
+  },
   "militer": [
-    {"t": "Umayyah bin Khalaf, penyiksa Bilal karena keislamannya, terbunuh dalam Perang Badar", "src": ["Sirah Ibnu Hisyam 1/317", "Sirah Ibnu Hisyam 1/713"], "quote": ["وكان أمية بن خلف بن وهب بن حذافة بن جمح يخرجه", "ومن بني جمح بن عمرو بن هصيص بن كعب بن لؤي: أمية بن خلف"], "status": "rewritten"}
+    {
+      "t": "Ikut Perang Fijar di barisan Quraisy; Bani Jumah dipimpin Umayyah bin Khalaf",
+      "src": [
+        "al-Muhabbar, hlm. 169",
+        "al-Muhabbar, hlm. 170"
+      ],
+      "quote": [
+        "رؤساء حرب الفجار من قريش",
+        "وعلى «بني جمح» امية بن خلف"
+      ],
+      "status": "new"
+    },
+    {
+      "t": "Pada Perang Badar lima lelaki Bani Jumah (keluarga Mazh'un dan Ma'mar bin al-Harits) di pihak Muslim; di pihak musyrik tiga orang Bani Jumah terbunuh, di antaranya Umayyah bin Khalaf dan putranya 'Ali",
+      "src": [
+        "Sirah Ibnu Hisyam 1/684",
+        "Sirah Ibnu Hisyam 1/713"
+      ],
+      "quote": [
+        "وَمَعْمَرُ بْنُ الْحَارِثِ بْنِ مَعْمَرِ بْنِ حَبِيبِ ابْن وَهْبِ بْنِ حُذَافَةَ بْنِ جُمَحَ. خَمْسَةُ نَفَرٍ",
+        "وَمِنْ بَنِي جُمَحَ بْنِ عَمْرِو بْنِ هُصَيْصِ بْنِ كَعْبِ بْنِ لُؤَيٍّ: أُمَيَّةُ بْنُ خَلَفِ"
+      ],
+      "status": "rewritten"
+    }
   ],
   "diplomasi": [
-    {"t": "Setelah Fathu Makkah, Shafwan bin Umayyah diberi aman oleh Nabi ﷺ dengan masa pilih empat bulan, lalu masuk Islam", "src": ["Sirah Ibnu Hisyam 2/418", "Sirah Ibnu Hisyam 2/418"], "quote": ["فاجعلني فيه بالخيار شهرين، قال: أنت بالخيار فيه أربعة أشهر", "فلما أسلم عكرمة وصفوان أقرهما رسول الله ﷺ"], "status": "rewritten"}
+    {
+      "t": "Termasuk kabilah al-Ahlaf (La'aqat ad-Dam) bersama 'Abdud-Dar, Sahm, Makhzum, dan 'Adi, yang membela hak Bani 'Abdid-Dar atas jabatan-jabatan Makkah melawan al-Muthayyabun",
+      "src": [
+        "al-Muhabbar, hlm. 166",
+        "al-Muhabbar, hlm. 166"
+      ],
+      "quote": [
+        "قبائل الأحلاف من قريش وهم لعقة الدم عبد الدار بن قصي. وسهم، وجمح",
+        "فأبى بنو عبد الدار أن يتجافوا عن هذه الأشياء لهم. فتحازبت قريش"
+      ],
+      "status": "new"
+    }
   ],
   "ekonomi": [
-    {"t": "Shafwan bin Umayyah, ketika masih musyrik, meminjamkan seratus baju besi beserta senjatanya kepada Nabi ﷺ untuk menghadapi Hawazin di Hunain", "src": ["Sirah Ibnu Hisyam 2/440"], "quote": ["بل عارية ومضمونة حتى نؤديها إليك، قال: ليس بهذا بأس، فأعطاه مائة درع"], "status": "rewritten"}
+    {
+      "t": "Tiga lelaki Bani Jumah (Shafwan dan Uhaihah putra Umayyah bin Khalaf, serta 'Umair bin Wahb) termasuk orang Quraisy yang berbaiat dan diberi bagian ghanimah Hunain di al-Ji'ranah",
+      "src": [
+        "Sirah Ibnu Hisyam 2/494",
+        "Sirah Ibnu Hisyam 2/495"
+      ],
+      "quote": [
+        "فَأَعْطَاهُمْ يَوْمَ الْجِعْرَانَةِ مِنْ غَنَائِمِ حُنَيْنٍ",
+        "وَمِنْ بَنِي جُمَحِ بْنِ عَمْرٍو: صَفْوَانُ بْنُ أُمَيَّةَ بْنِ خَلَفٍ، وَأُحَيْحَةُ بْنُ أُمَيَّةَ"
+      ],
+      "status": "new"
+    }
   ],
   "sosial": [
-    {"t": "Utsman bin Madh'un, menurut sebagian ahli ilmu pemimpin rombongan pertama muhajir Habasyah, dan Muslim pertama yang dimakamkan di Baqi'", "src": ["Sirah Ibnu Hisyam 1/323", "Ibnu Sa'd 3/397"], "quote": ["وكان عليهم عثمان بن مظعون، فيما ذكر لي بعض أهل العلم", "أول من دفن بالبقيع من المسلمين عثمان بن مظعون"], "status": "rewritten"},
-    {"t": "Bilal bin Rabah pernah menjadi budak milik sebagian Bani Jumah dan disiksa Umayyah bin Khalaf", "src": ["Sirah Ibnu Hisyam 1/317"], "quote": ["لبعض بني جمح، مولدا من مولديهم، وهو بلال بن رباح"], "status": "rewritten"}
+    {
+      "t": "Sejumlah keluarga Bani Jumah ikut hijrah ke Habasyah: 'Utsman bin Mazh'un dan putranya as-Sa'ib, Qudamah dan 'Abdullah bin Mazh'un, serta Hathib dan Haththab bin al-Harits bersama istri-istri mereka",
+      "src": [
+        "Sirah Ibnu Hisyam 1/327",
+        "Sirah Ibnu Hisyam 1/327"
+      ],
+      "quote": [
+        "مَنْ هَاجَرَ إلَى الْحَبَشَةِ مِنْ بَنِي جُمَحٍ",
+        "وَأَخُوهُ حَطَّابُ بْنُ الْحَارِثِ، مَعَهُ امْرَأَتُهُ فُكَيْهَةُ بِنْتُ يَسَارٍ"
+      ],
+      "status": "new"
+    }
   ],
-  "dropped": []
+  "dropped": [
+    {
+      "t": "Umayyah bin Khalaf, penyiksa Bilal karena keislamannya, terbunuh dalam Perang Badar",
+      "reason": "rewritten to clan level (Bani Jumah at Badar); torture of Bilal already in biography of s491"
+    },
+    {
+      "t": "Setelah Fathu Makkah, Shafwan bin Umayyah diberi aman oleh Nabi ﷺ dengan masa pilih empat bulan, lalu masuk Islam",
+      "reason": "already in biography of n2903"
+    },
+    {
+      "t": "Shafwan bin Umayyah, ketika masih musyrik, meminjamkan seratus baju besi beserta senjatanya kepada Nabi ﷺ untuk menghadapi Hawazin di Hunain",
+      "reason": "already in biography of n2903"
+    },
+    {
+      "t": "Utsman bin Madh'un, menurut sebagian ahli ilmu pemimpin rombongan pertama muhajir Habasyah, dan Muslim pertama yang dimakamkan di Baqi'",
+      "reason": "Baqi' burial already in biography of n12706; leading the first Habasyah group moved to biography of n12706"
+    },
+    {
+      "t": "Bilal bin Rabah pernah menjadi budak milik sebagian Bani Jumah dan disiksa Umayyah bin Khalaf",
+      "reason": "already in biography of s491"
+    }
+  ]
 }

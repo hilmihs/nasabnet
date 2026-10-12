@@ -1,0 +1,33 @@
+{
+ "id": "khatsam",
+ "name": "Khats'am",
+ "ar": "خثعم",
+ "group": "arab",
+ "umum": {
+  "nama_arti": "Nama diambil dari leluhur eponim, Khath'am (juga dikenal sebagai Aqil); makna pastinya tidak disepakati secara luas.",
+  "wilayah": "Mendiami wilayah pegunungan Sarat antara Yaman dan Hijaz; sebagian keturunannya kemudian menetap di Andalusia.",
+  "peran_sosial": "Dikenal lewat Asma' binti 'Umais, istri Ja'far bin Abi Thalib yang kemudian menikah dengan Abu Bakar ash-Shiddiq, dan saudarinya Salma yang menikah dengan Hamzah bin Abdul Muththalib.",
+  "dinamika": "Keturunan Khath'am turut berperan dalam penaklukan-penaklukan Islam awal dan migrasi ke Andalusia pasca penaklukan."
+ },
+ "already_cited": {
+  "leluhur": {
+   "t": "Khath'am bin Anmar, juga dikenal sebagai Aqil.",
+   "src": [
+    "Jamharat Ansab al-'Arab, hlm. 390"
+   ]
+  },
+  "titik_temu": {
+   "t": "Bersaudara dengan Bajilah, sama-sama dari Anmar bin Iras bin Amr bin al-Ghauts bin Nabt bin Malik (rumpun Qahthan).",
+   "src": [
+    "Jamharat Ansab al-'Arab, hlm. 390"
+   ]
+  },
+  "struktur": {
+   "t": "Dari Khath'am lahir Hilf, lalu 'Ifras, dengan dua cabang besar: Nahis dan Syahran; dari jalur Syahran lahir keluarga Asma' binti 'Umais dan saudarinya Salma binti 'Umais.",
+   "src": [
+    "Jamharat Ansab al-'Arab, hlm. 390"
+   ]
+  }
+ },
+ "roles_umum": []
+}

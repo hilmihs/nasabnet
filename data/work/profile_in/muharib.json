@@ -1,0 +1,28 @@
+{
+ "id": "muharib",
+ "name": "Muharib",
+ "ar": "محارب",
+ "group": "arab",
+ "umum": {
+  "nama_arti": "Nama Muharib berarti 'pejuang/yang berperang' dalam bahasa Arab, diambil dari nama leluhur mereka.",
+  "titik_temu": "Bersaudara dekat dengan Sulaim dan Hawazin (sama-sama keturunan Khashafah bin Qais 'Ailan); termasuk rumpun Qais 'Ailan.",
+  "wilayah": "Mendiami wilayah Najd; sebagian keturunannya kemudian menetap di Andalusia.",
+  "peran_sosial": "Dikenal lewat riwayat bahwa salah satu anggotanya pernah mengucapkan perkataan kasar kepada Nabi ﷺ saat diminta untanya, menggambarkan sikap sebagian kabilah ini sebelum Islam meluas.",
+  "dinamika": "Keturunan Muharib tercatat pula berperan dalam gerakan-gerakan Arab di Andalusia pada masa kekuasaan Umayyah di sana."
+ },
+ "already_cited": {
+  "leluhur": {
+   "t": "Muharib bin Khashafah bin Qais 'Ailan.",
+   "src": [
+    "Jamharat Ansab al-'Arab, hlm. 259"
+   ]
+  },
+  "struktur": {
+   "t": "Keturunan Muharib mencakup Bani Fazarah bin Dzuhl bin Tharif bin Khalaf bin Muharib dan Bani Ali bin Jisr, dengan tokoh dikenal seperti Amir bin Wahb yang terlibat konflik dengan Bahilah pada peristiwa yang disebut 'Hari Kiyyat al-'Ajab'.",
+   "src": [
+    "Jamharat Ansab al-'Arab, hlm. 259"
+   ]
+  }
+ },
+ "roles_umum": []
+}

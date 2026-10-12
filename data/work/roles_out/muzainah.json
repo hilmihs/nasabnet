@@ -2,16 +2,20 @@
   "id": "muzainah",
   "lokasi": {"t": "Sekitar Madinah: antara lain an-Naqi' (dua malam dari Madinah) serta al-Asy'ar dan al-Ajrad di balik Madinah", "src": ["Sirah Ibnu Hisyam 2/635", "Usdul Ghabah 1/414"], "quote": ["النقيع: موضع ببلاد مزينة على ليلتين من المدينة", "وكان ينزل الأشعر، والأجرد وراء المدينة"], "status": "rewritten"},
   "militer": [
-    {"t": "an-Nu'man bin Muqarrin memimpin kaum Muslimin pada Perang Nahawand (21 H menurut Ibnu Ishaq dan al-Waqidi) dan gugur di sana", "src": ["Tarikh ath-Thabari 4/126", "Tarikh ath-Thabari 4/114", "Tarikh ath-Thabari 4/116"], "quote": ["فقال: النعمان بن مقرن المزنى فقالوا: هولها", "وفيها كانت وقعة نهاوند في قول ابن إسحاق", "واستشهد النعمان ابن مقرن"], "status": "rewritten"}
+    {"t": "Menurut riwayat seorang Muzani, lebih dari seribu orang Muzainah ikut bersama Nabi ﷺ pada Fathu Makkah dan Hunain", "src": ["Ibnu Sa'd 2/139", "Ibnu Sa'd 2/139"], "quote": ["غزونا مع رسول الله، ﷺ، عام الفتح ونحن ألف ونيف، يعني قومه مزينة", "ففتح الله له مكة وحنينا"], "status": "new"}
   ],
   "diplomasi": [
     {"t": "Delegasi pertama dari Mudhar yang datang kepada Nabi ﷺ: 400 orang Muzainah pada Rajab 5 H; Nabi ﷺ menetapkan mereka tetap berstatus muhajir di negeri sendiri", "src": ["Ibnu Sa'd 1/291", "Ibnu Sa'd 1/291"], "quote": ["من مضر أربعمائة من مزينة، وذلك في رجب سنة خمس", "أنتم مهاجرون حيث كنتم فارجعوا إلى أموالكم"], "status": "rewritten"}
   ],
   "ekonomi": [
-    {"t": "Pada awal 9 H 'Abbad bin Bisyr diutus memungut zakat Sulaim dan Muzainah", "src": ["Ibnu Sa'd 2/160"], "quote": ["وبعث عباد بن بشر الأشهلي إلى سليم ومزينة"], "status": "new"}
+    {"t": "Pada awal 9 H 'Abbad bin Bisyr diutus memungut zakat Sulaim dan Muzainah", "src": ["Ibnu Sa'd 2/160"], "quote": ["وبعث عباد بن بشر الأشهلي إلى سليم ومزينة"], "status": "new"},
+    {"t": "Muzainah mendapat bagian tanah Khaibar: bagian kelima di Nathah, Na'im, untuk Bani 'Auf bin al-Khazraj, Muzainah, dan sekutu mereka", "src": ["Sirah Ibnu Hisyam 2/350", "Sirah Ibnu Hisyam 2/351"], "quote": ["ثُمَّ كَانَ الْخَامِسُ سَهْمَ نَاعِمٍ لِبَنِي عَوْفِ", "ابْن الْخَزْرَجِ وَمُزَيْنَةَ وَشُرَكَائِهِمْ"], "status": "new"}
   ],
   "sosial": [
-    {"t": "Bani Muqarrin: tujuh bersaudara yang semuanya berhijrah dan menjadi sahabat Nabi ﷺ", "src": ["Usdul Ghabah 5/223"], "quote": ["وكانوا سبعة إخوة، كلهم هاجر وصحب النبي"], "status": "rewritten"}
+    {"t": "Bani Muqarrin: tujuh bersaudara yang semuanya berhijrah dan menjadi sahabat Nabi ﷺ", "src": ["Usdul Ghabah 5/223"], "quote": ["وكانوا سبعة إخوة، كلهم هاجر وصحب النبي"], "status": "rewritten"},
+    {"t": "Di Kufah Muzainah ditempatkan di sisi timur masjid bersama kaum Anshar, masing-masing di satu jalan", "src": ["Tarikh ath-Thabari 4/45"], "quote": ["وَأَنْزَلَ فِي شَرْقِيِّ الصَّحْنِ الأَنْصَارَ، وَمُزَيْنَةَ عَلَى طَرِيقٍ"], "status": "new"}
   ],
-  "dropped": []
+  "dropped": [
+    {"t": "an-Nu'man bin Muqarrin memimpin kaum Muslimin pada Perang Nahawand (21 H menurut Ibnu Ishaq dan al-Waqidi) dan gugur di sana", "reason": "death at Nahawand already in biography of n6577; command at Nahawand moved to biography of n6577"}
+  ]
 }

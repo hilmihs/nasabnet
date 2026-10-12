@@ -1,0 +1,28 @@
+{
+ "id": "makhzum",
+ "name": "Bani Makhzum",
+ "ar": "بنو مخزوم",
+ "group": "quraisy",
+ "umum": {
+  "nama_arti": "Nama diambil dari leluhur eponim, Makhzum bin Yaqazhah.",
+  "titik_temu": "Bertemu dengan Bani Taim dan Bani Zuhrah pada Murrah bin Ka'b; dengan seluruh Quraisy pada Fihr bin Malik.",
+  "wilayah": "Makkah.",
+  "peran_sosial": "Klan militer terkemuka Quraisy, melahirkan panglima Khalid bin al-Walid dan Ummu Salamah, istri Nabi ﷺ; dikenal pula lewat 'Amr bin Hisyam (Abu Jahl), penentang keras dakwah Nabi ﷺ.",
+  "dinamika": "Meski banyak tokoh Makhzum awalnya menentang Islam, termasuk Abu Jahl, klan ini kemudian melahirkan sejumlah panglima penting pasca-Fathu Makkah, terutama lewat Khalid bin al-Walid dalam penaklukan Syam dan Irak."
+ },
+ "already_cited": {
+  "leluhur": {
+   "t": "Makhzum bin Yaqazhah bin Murrah bin Ka'b bin Lu'ay.",
+   "src": [
+    "Jamharat Ansab al-'Arab, hlm. 141"
+   ]
+  },
+  "struktur": {
+   "t": "Tiga cabang utama dari Makhzum: 'Umar, 'Amir, dan 'Imran; dari 'Imran lahir 'A'idz lalu 'Amr bin 'A'idz, yang berputra Wahb, Abu Wahb, dan Fathimah; Fathimah binti 'Amr adalah ibu dari 'Abdullah bin Abdul Muththalib (ayah Nabi ﷺ), sehingga 'Amr bin 'A'idz adalah kakek dari pihak ibu bagi 'Abdullah; dari jalur Abu Wahb (anaknya Hazn, lalu al-Musayyib) lahir tabi'in fakih Sa'id bin al-Musayyib.",
+   "src": [
+    "Jamharat Ansab al-'Arab, hlm. 141"
+   ]
+  }
+ },
+ "roles_umum": []
+}

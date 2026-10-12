@@ -1,19 +1,105 @@
 {
-  "id": "zuhrah",
-  "lokasi": {"t": "Makkah (Hijaz), di lembah al-Abthah; termasuk Quraisy al-Bithah", "src": ["Ibnu Sa'd 1/71", "al-Muhabbar, hlm. 167"], "quote": ["وأدخل قصي بطون قريش كلها الأبطح فسموا قريش البطاح", "وبنو عبد بن قصي بن كلاب. وبنو زهرة بن كلاب"], "status": "rewritten"},
-  "militer": [
-    {"t": "Sa'd bin Abi Waqqash memimpin penaklukan Irak: memimpin kaum Muslimin pada Perang Qadisiyah, lalu masuk ke Mada'in dan menerima penduduknya dengan jizyah", "src": ["al-Ishabah 3/62", "Tarikh ath-Thabari 3/572", "Tarikh ath-Thabari 4/14"], "quote": ["وكان رأس من فتح العراق، وولى الكوفة لعمر وهو الّذي بناها", "يَوْمَ الْقَادِسِيَّةِ مَعَ سَعْدِ بْنِ أَبِي وَقَّاصٍ", "فَاسْتَجَابُوا لِسَعْدٍ عَلَى الْجَزَاءِ وَالذِّمَّةِ"], "status": "rewritten"}
+ "id": "zuhrah",
+ "lokasi": {
+  "t": "Makkah (Hijaz), di lembah al-Abthah; termasuk Quraisy al-Bithah",
+  "src": [
+   "Ibnu Sa'd 1/71",
+   "al-Muhabbar, hlm. 167"
   ],
-  "diplomasi": [
-    {"t": "Abdurrahman bin 'Auf termasuk enam anggota syura; para anggota menyerahkan pemilihan kepadanya hingga ia membaiat Utsman bin 'Affan", "src": ["al-Ishabah 4/290", "Ibnu Sa'd 3/62"], "quote": ["وأحد الستة أصحاب الشّورى", "فلما جعلوا أمرهم إلى عبد الرحمن بن عوف يختار لهم منهم"], "status": "rewritten"},
-    {"t": "Termasuk klan peserta Hilf al-Fudhul", "src": ["Sirah Ibnu Hisyam 1/133", "al-Muhabbar, hlm. 167"], "quote": ["وَأَسَدُ بْنُ عَبْدِ الْعُزَّى، وَزُهْرَةُ ابْن كِلَابٍ، وَتَيْمُ بْنُ مُرَّةَ", "قبائل حلف الفضول بنو هاشم. وبنو المطلب أحلافهم. وبنو زهرة"], "status": "ok"}
+  "quote": [
+   "وأدخل قصي بطون قريش كلها الأبطح فسموا قريش البطاح",
+   "وبنو عبد بن قصي بن كلاب. وبنو زهرة بن كلاب"
   ],
-  "ekonomi": [
-    {"t": "Abdurrahman bin 'Auf berdagang di pasar Madinah sejak hijrah dan sebagian besar hartanya dari perdagangan; bersedekah 40.000 dinar dan menyumbang 500 kuda serta 500 unta di jalan Allah", "src": ["Ibnu Sa'd 3/126", "al-Ishabah 4/291", "al-Ishabah 4/291"], "quote": ["دلوني على السوق، فدلوه على السوق فاشترى وباع فربح", "ثم تصدق بعد بأربعين ألف دينار، ثم حمل على خمسمائة فرس في سبيل اللَّه", "وكان أكثر ماله من التجارة"], "status": "rewritten"}
-  ],
-  "sosial": [
-    {"t": "Klan Aminah binti Wahb, ibunda Nabi ﷺ", "src": ["Ibnu Sa'd 3/7"], "quote": ["وأمه آمنة بنت وهب بن عبد مناف بن زهرة بن كلاب"], "status": "ok"},
-    {"t": "Melahirkan dua dari sepuluh sahabat yang dijamin surga: Abdurrahman bin 'Auf dan Sa'd bin Abi Waqqash", "src": ["al-Ishabah 4/290", "al-Ishabah 3/62"], "quote": ["أحد العشرة المشهود لهم بالجنة", "الزهريّ، أبو إسحاق، بن أبي وقاص: أحد العشرة وآخرهم موتا"], "status": "rewritten"}
-  ],
-  "dropped": []
+  "status": "rewritten"
+ },
+ "militer": [
+  {
+   "t": "Ikut berangkat bersama Quraisy menjelang Badar, tetapi di al-Juhfah kembali ke Makkah atas saran sekutu mereka al-Akhnas bin Syariq, sehingga tak seorang Zuhri pun ikut Badar di pihak Quraisy",
+   "src": [
+    "Sirah Ibnu Hisyam 1/619"
+   ],
+   "quote": [
+    "فَرَجَعَتْ بَنُو زُهْرَةَ مَعَ الْأَخْنَسِ بْنِ شَرِيقٍ، فَلَمْ يَشْهَدْ بَدْرًا"
+   ],
+   "status": "new"
+  }
+ ],
+ "diplomasi": [
+  {
+   "t": "Termasuk klan peserta Hilf al-Fudhul",
+   "src": [
+    "Sirah Ibnu Hisyam 1/133",
+    "al-Muhabbar, hlm. 167"
+   ],
+   "quote": [
+    "وَأَسَدُ بْنُ عَبْدِ الْعُزَّى، وَزُهْرَةُ ابْن كِلَابٍ، وَتَيْمُ بْنُ مُرَّةَ",
+    "قبائل حلف الفضول بنو هاشم. وبنو المطلب أحلافهم. وبنو زهرة"
+   ],
+   "status": "ok"
+  },
+  {
+   "t": "Bergabung dengan Bani 'Abdi Manaf dalam Hilf al-Muthayyabin melawan blok al-Ahlaf (Bani 'Abdid Dar dan sekutunya)",
+   "src": [
+    "al-Muhabbar, hlm. 166",
+    "Sirah Ibnu Hisyam 1/131"
+   ],
+   "quote": [
+    "قبائل المطيبين من قريش بنو عبد مناف بن قصى. وبنو أسد بن عبد العزى بن قصى. وبنو زهرة بن كلاب",
+    "وَبَنُو زُهْرَةَ بْنِ كِلَابٍ، وَبَنُو تَيْمِ بْنِ مُرَّةَ بْنِ كَعْبٍ"
+   ],
+   "status": "new"
+  }
+ ],
+ "ekonomi": [
+  {
+   "t": "Memiliki harta dalam kafilah dagang Quraisy yang dibawa Makhramah bin Naufal az-Zuhri; untuk melindunginya mereka berangkat menjelang Badar",
+   "src": [
+    "Sirah Ibnu Hisyam 1/619"
+   ],
+   "quote": [
+    "يَا بَنِي زُهْرَةَ، قَدْ نَجَّى اللَّهُ لَكُمْ أَمْوَالَكُمْ"
+   ],
+   "status": "new"
+  }
+ ],
+ "sosial": [
+  {
+   "t": "Klan ibu Nabi ﷺ: Aminah binti Wahb adalah putri Wahb bin 'Abdi Manaf, pemimpin Bani Zuhrah",
+   "src": [
+    "Ibnu Sa'd 3/7",
+    "Sirah Ibnu Hisyam 1/156"
+   ],
+   "quote": [
+    "وأمه آمنة بنت وهب بن عبد مناف بن زهرة بن كلاب",
+    "وَهُوَ يَوْمَئِذٍ سَيِّدُ بَنِي زُهْرَةَ نَسَبًا وَشَرَفًا، فَزَوَّجَهُ ابْنَتَهُ آمِنَةَ"
+   ],
+   "status": "rewritten"
+  },
+  {
+   "t": "Melahirkan dua dari sepuluh sahabat yang dijamin surga: Abdurrahman bin 'Auf dan Sa'd bin Abi Waqqash",
+   "src": [
+    "al-Ishabah 4/290",
+    "al-Ishabah 3/62"
+   ],
+   "quote": [
+    "أحد العشرة المشهود لهم بالجنة",
+    "الزهريّ، أبو إسحاق، بن أبي وقاص: أحد العشرة وآخرهم موتا"
+   ],
+   "status": "rewritten"
+  }
+ ],
+ "dropped": [
+  {
+   "t": "Sa'd bin Abi Waqqash memimpin penaklukan Irak: memimpin kaum Muslimin pada Perang Qadisiyah, lalu masuk ke Mada'in dan menerima penduduknya dengan jizyah",
+   "reason": "moved to biography of n2289 (conquest of Iraq/Kufah already there; Qadisiyah and Mada'in added)"
+  },
+  {
+   "t": "Abdurrahman bin 'Auf termasuk enam anggota syura; para anggota menyerahkan pemilihan kepadanya hingga ia membaiat Utsman bin 'Affan",
+   "reason": "moved to biography of n3378"
+  },
+  {
+   "t": "Abdurrahman bin 'Auf berdagang di pasar Madinah sejak hijrah dan sebagian besar hartanya dari perdagangan; bersedekah 40.000 dinar dan menyumbang 500 kuda serta 500 unta di jalan Allah",
+   "reason": "already in biography of n3378"
+  }
+ ]
 }

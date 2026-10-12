@@ -1,19 +1,115 @@
 {
   "id": "muthalib",
-  "lokasi": {"t": "Makkah (Hijaz)", "status": "umum"},
+  "lokasi": {
+    "t": "Makkah (Hijaz)",
+    "src": [
+      "al-Munammaq, hlm. 53",
+      "al-Munammaq, hlm. 53"
+    ],
+    "quote": [
+      "ثم إن بني هاشم وبني المطلب وبني زهرة وبني تيم",
+      "لا يظلم بمكة أحد إلا كنا جميعا مع المظلوم"
+    ],
+    "status": "ok"
+  },
   "militer": [
-    {"t": "Ubaidah bin al-Harits memimpin salah satu sariyah pertama, lalu maju dalam duel pembuka Perang Badar dan wafat karena lukanya", "src": ["Sirah Ibnu Hisyam 1/595", "Sirah Ibnu Hisyam 1/625", "Sirah Ibnu Hisyam 1/706"], "quote": ["فكانت راية عبيدة بن الحارث", "قم يا عبيدة بن الحارث، وقم يا حمزة، وقم يا علي", "قتله عتبة بن ربيعة، قطع رجله، فمات بالصفراء"], "status": "ok"}
+    {
+      "t": "Empat lelaki Bani al-Muththalib ikut Perang Badar di pihak Muslim: 'Ubaidah, ath-Thufail, dan al-Hushain (putra-putra al-Harits), serta Misthah bin Utsatsah",
+      "src": [
+        "Sirah Ibnu Hisyam 1/677",
+        "Sirah Ibnu Hisyam 1/678"
+      ],
+      "quote": [
+        "مَنْ حَضَرَ بَدْرًا مِنْ الْمُسْلِمِينَ (مِنْ بنى هَاشم وَالْمطلب)",
+        "وَأَخَوَاهُ الطُّفَيْلُ بْنُ الْحَارِثِ، وَالْحُصَيْنُ بْنُ الْحَارِثِ، وَمِسْطَحٌ"
+      ],
+      "status": "new"
+    },
+    {
+      "t": "Di barisan musyrik Quraisy pada Perang Badar, dua lelaki Bani al-Muththalib tertawan: as-Sa'ib bin 'Ubaid dan Nu'man bin 'Amr",
+      "src": [
+        "Sirah Ibnu Hisyam 2/3"
+      ],
+      "quote": [
+        "وَمِنْ بَنِي الْمُطَّلِبِ بْنِ عَبْدِ مَنَافٍ: السَّائِبُ بْنُ عُبَيْدِ بْنِ عَبْدِ يَزِيدَ"
+      ],
+      "status": "new"
+    }
   ],
   "diplomasi": [
-    {"t": "Bersama Bani Hasyim memenuhi ajakan Abu Thalib untuk melindungi Nabi ﷺ dari Quraisy", "src": ["Sirah Ibnu Hisyam 1/269"], "quote": ["فدعاهم إلى ما هو عليه، من منع رسول الله ﷺ، والقيام دونه، فاجتمعوا إليه"], "status": "rewritten"}
+    {
+      "t": "Bersama Bani Hasyim memenuhi ajakan Abu Thalib untuk melindungi Nabi ﷺ dari Quraisy",
+      "src": [
+        "Sirah Ibnu Hisyam 1/269"
+      ],
+      "quote": [
+        "فدعاهم إلى ما هو عليه، من منع رسول الله ﷺ، والقيام دونه، فاجتمعوا إليه"
+      ],
+      "status": "rewritten"
+    },
+    {
+      "t": "Termasuk klan Quraisy yang mengikat Hilf al-Fudhul di rumah 'Abdullah bin Jud'an (bersama Bani Hasyim, Asad, Zuhrah, dan Taim) untuk membela setiap orang yang dizalimi di Makkah",
+      "src": [
+        "Sirah Ibnu Hisyam 1/133"
+      ],
+      "quote": [
+        "فَكَانَ حِلْفُهُمْ عِنْدَهُ: بَنُو هَاشِمٍ، وَبَنُو الْمُطَّلِبِ"
+      ],
+      "status": "new"
+    }
   ],
   "ekonomi": [
-    {"t": "al-Muththalib bin Abdi Manaf memegang siqayah dan rifadah sepeninggal Hasyim", "src": ["Sirah Ibnu Hisyam 1/137"], "quote": ["فولي السقاية والرفادة من بعده المطلب بن عبد مناف"], "status": "ok"},
-    {"t": "al-Muththalib mengambil perjanjian keamanan (ilaf) kafilah Quraisy dari raja-raja Himyar ke Yaman; riwayat lain menyebut dari an-Najasyi", "src": ["Tarikh ath-Thabari 2/252", "Ibnu Sa'd 1/75"], "quote": ["وأخذ لهم المطلب حبلا من ملوك حمير، فاختلفوا بذلك السبب إلى اليمن", "وهو الذي عقد الحلف لقريش من النجاشي"], "status": "rewritten"}
+    {
+      "t": "Klan ini memegang siqayah (air minum) dan rifadah (jamuan) jamaah haji melalui leluhurnya, al-Muththalib bin 'Abdi Manaf, sepeninggal Hasyim",
+      "src": [
+        "Sirah Ibnu Hisyam 1/137"
+      ],
+      "quote": [
+        "فولي السقاية والرفادة من بعده المطلب بن عبد مناف"
+      ],
+      "status": "rewritten"
+    },
+    {
+      "t": "Leluhur klan, al-Muththalib bin 'Abdi Manaf, mengambil perjanjian keamanan (ilaf) kafilah Quraisy dari raja-raja Himyar ke Yaman; riwayat lain menyebut dari an-Najasyi",
+      "src": [
+        "Tarikh ath-Thabari 2/252",
+        "Ibnu Sa'd 1/75"
+      ],
+      "quote": [
+        "وأخذ لهم المطلب حبلا من ملوك حمير، فاختلفوا بذلك السبب إلى اليمن",
+        "وهو الذي عقد الحلف لقريش من النجاشي"
+      ],
+      "status": "rewritten"
+    }
   ],
   "sosial": [
-    {"t": "Nabi ﷺ memberi mereka bagian bersama Bani Hasyim (tidak kepada Bani Naufal dan Abdu Syams), dengan sabda: Bani Hasyim dan Bani al-Muththalib adalah satu", "src": ["al-Ishabah 1/571", "al-Ishabah 1/571"], "quote": ["فسألاه أن يقسم لهم كما قسم لبني هاشم والمطلب", "إنما بنو هاشم وبنو المطلب شيء واحد"], "status": "rewritten"},
-    {"t": "Ikut diboikot Quraisy dan berkumpul bersama Bani Hasyim di Syi'ib Abi Thalib", "src": ["Sirah Ibnu Hisyam 1/351"], "quote": ["انحازت بنو هاشم وبنو المطلب إلى أبي طالب بن عبد المطلب، فدخلوا معه في شعبه"], "status": "rewritten"}
+    {
+      "t": "Nabi ﷺ memberi mereka bagian bersama Bani Hasyim (tidak kepada Bani Naufal dan Abdu Syams), dengan sabda: Bani Hasyim dan Bani al-Muththalib adalah satu",
+      "src": [
+        "al-Ishabah 1/571",
+        "al-Ishabah 1/571"
+      ],
+      "quote": [
+        "فسألاه أن يقسم لهم كما قسم لبني هاشم والمطلب",
+        "إنما بنو هاشم وبنو المطلب شيء واحد"
+      ],
+      "status": "rewritten"
+    },
+    {
+      "t": "Ikut diboikot Quraisy dan berkumpul bersama Bani Hasyim di Syi'ib Abi Thalib",
+      "src": [
+        "Sirah Ibnu Hisyam 1/351"
+      ],
+      "quote": [
+        "انحازت بنو هاشم وبنو المطلب إلى أبي طالب بن عبد المطلب، فدخلوا معه في شعبه"
+      ],
+      "status": "rewritten"
+    }
   ],
-  "dropped": []
+  "dropped": [
+    {
+      "t": "Ubaidah bin al-Harits memimpin salah satu sariyah pertama, lalu maju dalam duel pembuka Perang Badar dan wafat karena lukanya",
+      "reason": "already in biography of s405"
+    }
+  ]
 }

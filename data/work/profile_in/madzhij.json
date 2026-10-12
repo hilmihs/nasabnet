@@ -1,0 +1,33 @@
+{
+ "id": "madzhij",
+ "name": "Madzhij",
+ "ar": "مذحج",
+ "group": "arab",
+ "umum": {
+  "nama_arti": "Nama diambil dari julukan leluhur eponim mereka, Malik bin Udad yang disebut Madzhij; tidak ada makna khusus yang disepakati secara luas.",
+  "wilayah": "Kabilah besar Yaman yang mencakup sub-kabilah seperti Nakha', Ju'fi, 'Ans, dan Murad, tersebar di wilayah Yaman tengah.",
+  "peran_sosial": "Dikenal lewat keluarga Ammar bin Yasir, sahabat yang disiksa karena Islam bersama kedua orang tuanya, Yasir dan Sumayyah, yang menjadi martir pertama dalam Islam.",
+  "dinamika": "Keturunan Ammar bin Yasir tetap dikenal dalam sejarah awal Islam, termasuk putranya Muhammad bin Ammar yang terbunuh pada masa fitnah."
+ },
+ "already_cited": {
+  "leluhur": {
+   "t": "Madzhij, yaitu Malik bin Udad bin Zaid bin Yasyjub bin 'Uraib bin Zaid bin Kahlan bin Saba'.",
+   "src": [
+    "Jamharat Ansab al-'Arab, hlm. 405"
+   ]
+  },
+  "titik_temu": {
+   "t": "Bertemu dengan kabilah Qahthan lain pada Zaid bin Kahlan dan Saba'.",
+   "src": [
+    "Jamharat Ansab al-'Arab, hlm. 405"
+   ]
+  },
+  "struktur": {
+   "t": "Anak-anak Madzhij: Jald, Yahabir (Murad), Zaid (Anas), Sa'd al-'Asyirah, dan Lamis; dari Anas lahir marga Yam yang melahirkan keluarga Ammar bin Yasir.",
+   "src": [
+    "Jamharat Ansab al-'Arab, hlm. 405"
+   ]
+  }
+ },
+ "roles_umum": []
+}

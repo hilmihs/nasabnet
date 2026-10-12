@@ -1,33 +1,145 @@
 {
-  "id": "persia",
-  "lokasi": {"t": "Persia (Kekaisaran Sasaniyah); sebagian menetap di Madinah dan Yaman", "status": "umum"},
-  "militer": [
-    {"t": "Salman al-Farisi mengusulkan penggalian parit dalam Perang Khandaq",
-     "src": ["Ibnu Sa'd 2/66", "Sirah Ibnu Hisyam 2/224"],
-     "quote": ["فأشار عليه سلمان الفارسي بالخندق", "يُقَالُ: إنَّ سَلْمَانَ الْفَارِسِيَّ أَشَارَ بِهِ عَلَى رَسُولِ اللَّهِ"],
-     "status": "ok"},
-    {"t": "Kaum Abna' di Yaman, dipimpin Fairuz dan Dadzawaih, menumpas al-Aswad al-'Ansi; Fairuz ad-Dailami yang membunuhnya",
-     "src": ["Tarikh ath-Thabari 3/230", "Tarikh ath-Thabari 11/547"],
-     "quote": ["وَأَسْنَدَ أَمْرَ الأَبْنَاءِ إِلَى فَيْروزٍ وَدَاذُوَيْهِ", "وفيروز هو الذى قتل العنسي الأسود بن كعب الكذاب"],
-     "status": "rewritten"}
+ "id": "persia",
+ "lokasi": {
+  "t": "Negeri Persia; sebagian menetap di Madinah (Salman) dan Yaman (kaum Abna')",
+  "src": [
+   "Usdul Ghabah 2/510",
+   "Sirah Ibnu Hisyam 1/218",
+   "Tarikh ath-Thabari 2/656"
   ],
-  "diplomasi": [
-    {"t": "Salman al-Farisi menjadi amir Mada'in dan wafat di sana pada masa 'Utsman",
-     "src": ["Ibnu Sa'd 7/319", "Ibnu Sa'd 7/319"],
-     "quote": ["قال: كان سلمان أميرا على المدائن", "توفي سلمان الفارسي في خلافة عثمان بن عفان بالمدائن"],
-     "status": "rewritten"}
+  "quote": [
+   "أصله من فارس، من رامهرمز",
+   "فَابْتَاعَنِي مِنْهُ، فَاحْتَمَلَنِي إِلَى الْمَدِينَة",
+   "وَأَسْلَمَتِ الأَبْنَاءُ مَعَهُ مِنْ فَارِسَ مَنْ كَانَ مِنْهُمْ بِالْيَمَنِ"
   ],
-  "ekonomi": [
-    {"t": "Salman menebus kemerdekaannya lewat mukatabah: menghidupkan 300 pohon kurma dan 40 uqiyah, dibantu para sahabat",
-     "src": ["Sirah Ibnu Hisyam 1/220"],
-     "quote": ["فَكَاتَبْتُ صَاحِبِي عَلَى ثَلَاثِ ماِئَةِ نَخْلَةٍ أُحْيِيهَا لَهُ بِالْفَقِيرِ"],
-     "status": "rewritten"}
-  ],
-  "sosial": [
-    {"t": "Salman al-Farisi dari Ashbahan berpindah dari guru ke guru hingga 'Ammuriyah, lalu dijual sebagai budak di Wadil Qura dan sampai ke Madinah, tempat ia masuk Islam",
-     "src": ["Sirah Ibnu Hisyam 1/214", "Sirah Ibnu Hisyam 1/218"],
-     "quote": ["كُنْتُ رَجُلًا فَارِسِيًّا مِنْ أَهْلِ أَصْبَهَانَ", "حَتَّى إذَا بَلَغُوا وَادِيَ الْقُرَى ظَلَمُونِي، فَبَاعُونِي مِنْ رَجُلٍ يَهُودِيٍّ عَبْدًا"],
-     "status": "rewritten"}
-  ],
-  "dropped": []
+  "status": "rewritten"
+ },
+ "militer": [
+  {
+   "t": "Kisra mengirim 800 orang Persia bersama Saif bin Dzi Yazan ke Yaman; pasukan Persia membunuh Masruq bin Abrahah dan mengusir Habasyah, lalu menetap di sana — sisa pasukan itulah kaum Abna' di Yaman",
+   "src": [
+    "Sirah Ibnu Hisyam 1/63",
+    "Sirah Ibnu Hisyam 1/68",
+    "Sirah Ibnu Hisyam 1/68"
+   ],
+   "quote": [
+    "فَبَعَثَ مَعَهُ كِسْرَى مَنْ كَانَ فِي سجونه، وَكَانُوا ثَمَان مائَة رَجُلٍ",
+    "إلَى أَنْ قَتَلَتْ الْفُرْسُ مَسْرُوقَ بْنَ أَبْرَهَةَ وَأُخْرِجَتْ الْحَبَشَةُ",
+    "فَمِنْ بَقِيَّةِ ذَلِكَ الْجَيْشِ مِنْ الْفُرْسِ الْأَبْنَاءُ الَّذِينَ بِالْيَمَنِ الْيَوْمَ"
+   ],
+   "status": "new"
+  },
+  {
+   "t": "Kaum Abna' (keturunan Persia di Yaman) sempat dikalahkan al-Aswad al-'Ansi yang merebut Shan'a'; urusan mereka lalu dipegang Fairuz dan Dadzawaih, dan Fairuz ad-Dailami yang membunuh al-Aswad",
+   "src": [
+    "Tarikh ath-Thabari 3/229",
+    "Tarikh ath-Thabari 3/230",
+    "Tarikh ath-Thabari 11/547"
+   ],
+   "quote": [
+    "وَهَزَمَ الأَبْنَاءَ، وَغَلَبَ عَلَى صَنْعَاءَ",
+    "وَأَسْنَدَ أَمْرَ الأَبْنَاءِ إِلَى فَيْروزٍ وَدَاذُوَيْهِ",
+    "وفيروز هو الذى قتل العنسي الأسود بن كعب الكذاب"
+   ],
+   "status": "rewritten"
+  },
+  {
+   "t": "Kerajaan Persia di bawah Yazdajird menyerahkan perang melawan kaum Muslim di Qadisiyah kepada Rustam bin al-Farrukhzadz",
+   "src": [
+    "Tarikh ath-Thabari 3/495",
+    "Tarikh ath-Thabari 3/503"
+   ],
+   "quote": [
+    "بأن الملك قد ولى رستم بْن الفرخزاذ الأرمني حربه",
+    "فصف لي العرب وفعلهم منذ نزلوا القادسية"
+   ],
+   "status": "new"
+  }
+ ],
+ "diplomasi": [
+  {
+   "t": "Kisra merobek surat Nabi ﷺ, lalu memerintahkan Badzan, gubernurnya di Yaman, mengirim dua utusan untuk membawa beliau",
+   "src": [
+    "Tarikh ath-Thabari 2/655",
+    "Tarikh ath-Thabari 2/655"
+   ],
+   "quote": [
+    "فَلَمَّا قَرَأَهُ مَزَّقَهُ، وَقَالَ: يَكْتُبُ إِلَيَّ هَذَا وَهُوَ عَبْدِي",
+    "ثُمَّ كَتَبَ كِسْرَى إِلَى بَاذَانَ، وَهُوَ عَلَى الْيَمَنِ"
+   ],
+   "status": "new"
+  },
+  {
+   "t": "Raja-raja Persia mengangkat penguasa Arab bawahan: Bani Nashr di Hirah, Bani al-Mustakbir di 'Uman, dan kerabat al-Mundzir bin Sawa (Tamim) di Hajar",
+   "src": [
+    "al-Muhabbar, hlm. 265"
+   ],
+   "quote": [
+    "كانت ملوك فارس تستعملهم عليها، بنى نصر على الحيرة وبني المستكبر على عُمان"
+   ],
+   "status": "new"
+  }
+ ],
+ "ekonomi": [
+  {
+   "t": "Pedagang Persia menyeberangi laut membawa dagangan ke pasar al-Musyaqqar di Hajar",
+   "src": [
+    "al-Muhabbar, hlm. 265"
+   ],
+   "quote": [
+    "فتوافي بها فارس يقطعون البحر إليها ببياعاتهم"
+   ],
+   "status": "new"
+  },
+  {
+   "t": "Yaman di bawah Persia mengirim harta dan barang berharga kepada Kisra",
+   "src": [
+    "Tarikh ath-Thabari 2/169"
+   ],
+   "quote": [
+    "بَعَثَ وَهْرِزٌ بِأَمْوَالٍ وَطرفٍ مِنْ طرفِ الْيَمَنِ إِلَى كِسْرَى"
+   ],
+   "status": "new"
+  }
+ ],
+ "sosial": [
+  {
+   "t": "Badzan dan kaum Abna' Persia di Yaman masuk Islam",
+   "src": [
+    "Tarikh ath-Thabari 2/656"
+   ],
+   "quote": [
+    "وَأَسْلَمَتِ الأَبْنَاءُ مَعَهُ مِنْ فَارِسَ مَنْ كَانَ مِنْهُمْ بِالْيَمَنِ"
+   ],
+   "status": "new"
+  },
+  {
+   "t": "Rakyat Kisra beragama Majusi: surat Nabi ﷺ menanggungkan dosa kaum Majusi kepadanya bila menolak Islam",
+   "src": [
+    "Tarikh ath-Thabari 2/655"
+   ],
+   "quote": [
+    "فَإِنْ أَبَيْتَ، فَإِنَّ إِثْمَ الْمَجُوسِ عَلَيْكَ"
+   ],
+   "status": "new"
+  }
+ ],
+ "dropped": [
+  {
+   "t": "Salman al-Farisi mengusulkan penggalian parit dalam Perang Khandaq",
+   "reason": "moved to biography of s872"
+  },
+  {
+   "t": "Salman al-Farisi menjadi amir Mada'in dan wafat di sana pada masa 'Utsman",
+   "reason": "moved to biography of s872"
+  },
+  {
+   "t": "Salman menebus kemerdekaannya lewat mukatabah: menghidupkan 300 pohon kurma dan 40 uqiyah, dibantu para sahabat",
+   "reason": "moved to biography of s872"
+  },
+  {
+   "t": "Salman al-Farisi dari Ashbahan berpindah dari guru ke guru hingga 'Ammuriyah, lalu dijual sebagai budak di Wadil Qura dan sampai ke Madinah, tempat ia masuk Islam",
+   "reason": "already in biography of s872"
+  }
+ ]
 }

@@ -1,18 +1,110 @@
 {
-  "id": "adi",
-  "lokasi": {"t": "Makkah (Hijaz)", "status": "umum"},
-  "militer": [
-    {"t": "Pada masa kekhalifahan Umar bin al-Khaththab ditaklukkan Irak, Azerbaijan, Ahwaz, Faris, Syam (kecuali Ajnadain), al-Jazirah, Mosul, Mesir, dan Iskandariyah", "src": ["Ibnu Sa'd 3/282", "Ibnu Sa'd 3/282"], "quote": ["وهو أول من فتح الفتوح وهي الأرضون والكور التي فيها الخراج والفيء، فتح العراق كله", "وفتح عمر كور الجزيرة والموصل ومصر والإسكندرية"], "status": "rewritten"}
+ "id": "adi",
+ "lokasi": {
+  "t": "Makkah (Hijaz)",
+  "src": [
+   "Sirah Ibnu Hisyam 2/315"
   ],
-  "diplomasi": [
-    {"t": "Memegang sifarah (utusan dan juru runding) Quraisy pada masa jahiliah, dipegang Umar bin al-Khaththab", "src": ["Usdul Ghabah 4/138"], "quote": ["وكان من أشرف قريش، وإليه كانت السفارة في الجاهلية"], "status": "ok"}
+  "quote": [
+   "وَلَيْسَ بِمَكَّةَ مِنْ بَنِي عَدِيِّ بْنِ كَعْبٍ أَحَدٌ يَمْنَعُنِي"
   ],
-  "ekonomi": [
-    {"t": "Umar bin al-Khaththab menyusun diwan, mencatat orang menurut kabilahnya, dan menetapkan 'atha' dari harta fai'", "src": ["Ibnu Sa'd 3/282"], "quote": ["وهو أول من دون الديوان وكتب الناس على قبائلهم وفرض لهم الأعطية من الفيء"], "status": "rewritten"}
-  ],
-  "sosial": [
-    {"t": "Klan Hafshah binti Umar, Ummul Mukminin", "src": ["Ibnu Sa'd 8/219"], "quote": ["وحفصة بنت عمر بن الخطاب من بني عدي بن كعب"], "status": "ok"},
-    {"t": "Abdullah bin Umar berfatwa kepada manusia selama enam puluh tahun setelah Nabi ﷺ wafat", "src": ["Usdul Ghabah 3/339"], "quote": ["قد أقام ابن عمر بعد النبي ﷺ ستين سنة يفتي الناس في الموسم"], "status": "rewritten"}
-  ],
-  "dropped": []
+  "status": "ok"
+ },
+ "militer": [
+  {
+   "t": "Hari Nakhlah (jahiliah): ketika Asad Syanu'ah membunuh seorang lelaki Bani 'Adi — satu-satunya klan Quraisy yang tidak punya sayyid penuntut darah — Bani 'Adi keluar bersama Quraisy dan bertempur sengit melawan Asad di Nakhlah, lalu berdamai dengan diat",
+   "src": [
+    "al-Munammaq, hlm. 129",
+    "al-Munammaq, hlm. 130"
+   ],
+   "quote": [
+    "ولم يكن من قريش قبيلة إلا وفيها سيد يقوم بأمرها ويطلب بثأرها إلا عدي بن كعب",
+    "وخرجت معهم بنو عدي فيهم عمر وزيد ابنا الخطاب غلامان شابان وجمعت لهم الأسد فالتقوا بنخلة"
+   ],
+   "status": "new"
+  },
+  {
+   "t": "Pada Perang Badar tidak seorang pun dari Bani 'Adi ikut keluar bersama pasukan Quraisy",
+   "src": [
+    "Sirah Ibnu Hisyam 1/619"
+   ],
+   "quote": [
+    "إلا بني عدي بن كعب، لم يخرج منهم رجل واحد"
+   ],
+   "status": "new"
+  }
+ ],
+ "diplomasi": [
+  {
+   "t": "Bani 'Adi memegang sifarah Quraisy pada masa jahiliah — bila Quraisy berperang atau ditantang bermufakharah, utusannya dari klan ini (dipegang 'Umar bin al-Khaththab)",
+   "src": [
+    "al-'Iqd al-Farid 3/268",
+    "Usdul Ghabah 4/138"
+   ],
+   "quote": [
+    "ومن بني عدي: عمر بن الخطاب، وكانت إليه السفارة في الجاهلية",
+    "وكان من أشرف قريش، وإليه كانت السفارة في الجاهلية"
+   ],
+   "status": "rewritten"
+  },
+  {
+   "t": "Termasuk al-Ahlaf, persekutuan bersama Bani 'Abdid Dar melawan al-Muthayyabin; Bani 'Adi ikut menjilat darah sembelihan sehingga dijuluki La'qat ad-Dam",
+   "src": [
+    "Sirah Ibnu Hisyam 1/131",
+    "al-Munammaq, hlm. 190"
+   ],
+   "quote": [
+    "وبنو عدي بن كعب، مع بني عبد الدار",
+    "ولعق رجل من بني عدي يقال له الأسود بن حارثة لعقة من دم ولعقوا منه فسموا لعقة الدم"
+   ],
+   "status": "new"
+  }
+ ],
+ "ekonomi": [],
+ "sosial": [
+  {
+   "t": "Klan Hafshah binti Umar, Ummul Mukminin",
+   "src": [
+    "Ibnu Sa'd 8/219"
+   ],
+   "quote": [
+    "وحفصة بنت عمر بن الخطاب من بني عدي بن كعب"
+   ],
+   "status": "ok"
+  },
+  {
+   "t": "Saat Quraisy membagi pembangunan ulang Ka'bah, sisi Hijr (al-Hathim) menjadi bagian Bani 'Abdid Dar, Bani Asad, dan Bani 'Adi",
+   "src": [
+    "Sirah Ibnu Hisyam 1/195"
+   ],
+   "quote": [
+    "وكان شق الحجر لبني عبد الدار بن قصي، ولبني أسد بن العزى بن قصي، ولبني عدي بن كعب بن لؤي"
+   ],
+   "status": "new"
+  },
+  {
+   "t": "Menjelang Hudaibiyah tidak ada lagi orang Bani 'Adi di Makkah yang dapat melindungi 'Umar, sehingga 'Utsman yang diutus ke Quraisy",
+   "src": [
+    "Sirah Ibnu Hisyam 2/315"
+   ],
+   "quote": [
+    "وليس بمكة من بني عدي بن كعب أحد يمنعني"
+   ],
+   "status": "new"
+  }
+ ],
+ "dropped": [
+  {
+   "t": "Pada masa kekhalifahan Umar bin al-Khaththab ditaklukkan Irak, Azerbaijan, Ahwaz, Faris, Syam (kecuali Ajnadain), al-Jazirah, Mosul, Mesir, dan Iskandariyah",
+   "reason": "moved to biography of n4677"
+  },
+  {
+   "t": "Umar bin al-Khaththab menyusun diwan, mencatat orang menurut kabilahnya, dan menetapkan 'atha' dari harta fai'",
+   "reason": "moved to biography of n4677"
+  },
+  {
+   "t": "Abdullah bin Umar berfatwa kepada manusia selama enam puluh tahun setelah Nabi ﷺ wafat",
+   "reason": "moved to biography of n3807"
+  }
+ ]
 }

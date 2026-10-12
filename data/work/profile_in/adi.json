@@ -1,0 +1,31 @@
+{
+ "id": "adi",
+ "name": "Bani 'Adi",
+ "ar": "بنو عدي",
+ "group": "quraisy",
+ "umum": {
+  "nama_arti": "Nama diambil dari leluhur eponim, 'Adi bin Ka'b.",
+  "titik_temu": "Bertemu dengan Bani Taim, Bani Zuhrah, dan Bani Makhzum pada Ka'b bin Lu'ay.",
+  "wilayah": "Makkah.",
+  "peran_sosial": "Klan Umar bin al-Khaththab, khalifah kedua, dan Sa'id bin Zaid, salah satu sepuluh sahabat yang dijamin surga.",
+  "dinamika": "Ayah Umar, al-Khaththab, dikenal keras menentang Islam pada awalnya; sementara kerabatnya Zaid bin 'Amr bin Nufail dikenal sebagai hanif yang menolak penyembahan berhala sebelum masa kenabian."
+ },
+ "already_cited": {
+  "leluhur": {
+   "t": "'Adi bin Ka'b bin Lu'ay.",
+   "src": [
+    "Jamharat Ansab al-'Arab, hlm. 150"
+   ]
+  },
+  "struktur": {
+   "t": "Dua anak 'Adi: Rizah dan 'Uwaij; dari Rizah lewat Qurth-Abdullah-Riyah-Abdul 'Uzza-Nufail lahir al-Khaththab (ayah Umar bin al-Khaththab) dan Zaid bin 'Amr bin Nufail, seorang hanif pra-Islam; dari 'Uwaij lahir cabang 'Ubaid.",
+   "src": [
+    "Jamharat Ansab al-'Arab, hlm. 150",
+    "Jamharat Ansab al-'Arab, hlm. 156"
+   ]
+  }
+ },
+ "roles_umum": [
+  "lokasi"
+ ]
+}

@@ -28,13 +28,23 @@
       "status": "rewritten"
     },
     {
-      "t": "Setelah masuk Islam, tokoh-tokohnya memimpin penaklukan Syam, Irak, dan Mesir",
-      "status": "umum"
+      "t": "Bersama Kinanah memerangi Qais 'Ailan dalam Perang Fijar; di akhir hari Quraisy dan Kinanah unggul, lalu berdamai dengan Quraisy membayar diyat selisih korban Qais",
+      "src": [
+        "Sirah Ibnu Hisyam 1/184",
+        "Ibnu Sa'd 1/128",
+        "Ibnu Sa'd 1/128"
+      ],
+      "quote": [
+        "هَاجَتْ حَرْبُ الْفُجَّارِ بَيْنَ قُرَيْشٍ، وَمَنْ مَعَهُمْ مِنْ كِنَانَةَ، وَبَيْنَ قَيْسِ عَيْلَانَ",
+        "ثم صارت الدبرة آخر النهار لقريش وكنانة على قيس",
+        "وودت قريش لقيس ما قتلت فضلًا عن قتلاهم"
+      ],
+      "status": "new"
     }
   ],
   "diplomasi": [
     {
-      "t": "Putra-putra Abdu Manaf mengikat perjanjian keamanan (ilaf) bagi kafilah Quraisy dengan raja-raja Syam/Romawi/Ghassan, an-Najasyi, Kisra, dan raja-raja Himyar",
+      "t": "Kafilah Quraisy memperoleh jaminan keamanan (ilaf) dari raja-raja Syam/Romawi/Ghassan, an-Najasyi, Kisra, dan raja-raja Himyar, yang diikat oleh putra-putra 'Abdu Manaf",
       "src": [
         "Tarikh ath-Thabari 2/252",
         "al-Muhabbar, hlm. 163"
@@ -46,11 +56,13 @@
       "status": "rewritten"
     },
     {
-      "t": "Melalui Suhail bin 'Amr menandatangani Perjanjian Hudaibiyah dengan Nabi ﷺ: gencatan perang sepuluh tahun",
+      "t": "Quraisy mengutus Suhail bin 'Amr untuk berdamai dengan Nabi ﷺ di Hudaibiyah: gencatan perang sepuluh tahun",
       "src": [
+        "Sirah Ibnu Hisyam 2/316",
         "Sirah Ibnu Hisyam 2/317"
       ],
       "quote": [
+        "ثُمَّ بَعَثَتْ قُرَيْشٌ سُهَيْلَ بْنَ عَمْرٍو، أَخَا بَنِي عَامِرِ ابْن لُؤَيٍّ",
         "اصطلحا على وضع الحرب عن الناس عشر سنين"
       ],
       "status": "rewritten"
@@ -84,7 +96,7 @@
   ],
   "sosial": [
     {
-      "t": "Penjaga agama dan pemegang amanah kiblat bangsa Arab; sejak Qushay bin Kilab memegang hijabah, siqayah, rifadah, nadwah, dan liwa' di Makkah",
+      "t": "Penjaga agama dan pemegang amanah kiblat bangsa Arab; jabatan hijabah, siqayah, rifadah, nadwah, dan liwa' di Makkah berada di tangan Quraisy sejak Qushay bin Kilab",
       "src": [
         "al-Muhabbar, hlm. 182",
         "Tarikh ath-Thabari 2/258"
@@ -97,8 +109,19 @@
     },
     {
       "t": "Suku Nabi ﷺ",
-      "status": "umum"
+      "src": [
+        "Ibnu Sa'd 1/20"
+      ],
+      "quote": [
+        "واصطفى من بني كنانة قريشا واصطفى من قريش بني هاشم واصطفاني من بني هاشم"
+      ],
+      "status": "ok"
     }
   ],
-  "dropped": []
+  "dropped": [
+    {
+      "t": "Setelah masuk Islam, tokoh-tokohnya memimpin penaklukan: Khalid bin al-Walid lalu Sa'd di Irak (Qadisiyah), Abu 'Ubaidah menggantikan Khalid di Syam (Damaskus), 'Amr bin al-'Ash di Mesir",
+      "reason": "Perbuatan perorangan, bukan peran kabilah: Sa'd (Irak/Qadisiyah) dan Abu 'Ubaidah menggantikan Khalid di Syam already in biography of n2289, n3078, n1764; Khalid di Irak moved to biography of n1764 (lihat moved_out/makhzum.json); 'Amr bin al-'Ash di Mesir moved to biography of n4844"
+    }
+  ]
 }

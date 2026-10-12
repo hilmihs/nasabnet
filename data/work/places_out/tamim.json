@@ -1,0 +1,111 @@
+{
+  "id": "tamim",
+  "places": [
+    {
+      "t": "ad-Dahna'",
+      "ar": "الدهناء",
+      "kind": "daerah",
+      "note": "Gurun pasir yang terkenal sebagai diyar Bani Tamim; tujuh punggung bukit pasir, kaya padang rumput",
+      "src": [
+        "Mu'jam al-Buldan 2/493"
+      ],
+      "quote": [
+        "قال أبو منصور: الدهناء من ديار بني تميم معروفة"
+      ],
+      "qid": "Q1973934",
+      "lat": 24.1,
+      "lon": 45.4333,
+      "precision": "tepat"
+    },
+    {
+      "t": "ash-Shamman",
+      "ar": "الصمان",
+      "kind": "daerah",
+      "note": "Dahulu milik Bani Hanzhalah (Tamim); berbatasan dengan ad-Dahna'",
+      "src": [
+        "Mu'jam al-Buldan 3/423"
+      ],
+      "quote": [
+        "وكانت الصمان في قديم الدهر لبني حنظلة والحزن لبني يربوع والدهناء لجماعتهم والصمان متاخم للدهناء"
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "t": "al-Buthah",
+      "ar": "البطاح",
+      "kind": "daerah",
+      "note": "Tanah di negeri Bani Tamim; di sana Khalid bin al-Walid memerangi kaum murtad dan Malik bin Nuwairah terbunuh",
+      "src": [
+        "Mu'jam ma Ista'jam 1/256"
+      ],
+      "quote": [
+        "وهى أرض فى بلاد بنى تميم، وهناك قاتل خالد بن الوليد أهل الردة"
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "t": "'Adan (pesisir Kazhimah)",
+      "ar": "عدان",
+      "kind": "daerah",
+      "note": "Tempat di diyar Bani Tamim di pesisir Kazhimah; disebut juga mata air Sa'd bin Zaid Manah bin Tamim",
+      "src": [
+        "Mu'jam al-Buldan 4/88"
+      ],
+      "quote": [
+        "عدان موضع في ديار بني تميم بسيف كاظمة"
+      ],
+      "qid": "Q6381345",
+      "lat": 29.3929,
+      "lon": 47.6713,
+      "precision": "perkiraan",
+      "near": "Kazhimah"
+    },
+    {
+      "t": "Jabal Bulbul",
+      "ar": "بلبول",
+      "kind": "gunung",
+      "note": "Gunung di al-Yamamah, di negeri Bani Tamim; Yaum Bulbul termasuk hari-hari perang Arab",
+      "src": [
+        "Mu'jam al-Buldan 1/478"
+      ],
+      "quote": [
+        "بلبول جبل باليمامة في بلاد بني تميم"
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "t": "ad-Dau",
+      "ar": "الدو",
+      "kind": "daerah",
+      "note": "Negeri milik Bani Tamim, antara Bashrah dan al-Yamamah",
+      "src": [
+        "Mu'jam ma Ista'jam 2/566"
+      ],
+      "quote": [
+        "بلد لبنى تميم، وهو ما بين البصرة واليمامة"
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "t": "Kawasan Bani Tamim di Bashrah",
+      "ar": "بنو تميم بالبصرة",
+      "kind": "distrik",
+      "note": "Bani Tamim bermukim di Bashrah; pasukan Asawirah Persia turun di tengah mereka dan membuat khiththah",
+      "src": [
+        "Mu'jam al-Buldan 1/191"
+      ],
+      "quote": [
+        "الأساورة من الفرس كانوا نزلوا في بني تميم بالبصرة واختطوا بها خطة"
+      ],
+      "qid": "Q48195",
+      "lat": 30.515,
+      "lon": 47.81,
+      "precision": "perkiraan",
+      "near": "Bashrah"
+    }
+  ]
+}

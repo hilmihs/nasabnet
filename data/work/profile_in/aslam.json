@@ -1,0 +1,28 @@
+{
+ "id": "aslam",
+ "name": "Aslam",
+ "ar": "أسلم",
+ "group": "arab",
+ "umum": {
+  "nama_arti": "Nama diambil dari leluhur eponim, Aslam bin Afsha.",
+  "titik_temu": "Satu rumpun dengan Khuza'ah lewat jalur 'Amir bin Qam'ah/Afsha; sebagian riwayat memasukkan Aslam ke dalam Khuza'ah.",
+  "wilayah": "Sekitar Madinah.",
+  "peran_sosial": "Kabilah pendukung awal yang banyak menyumbang sahabat Nabi ﷺ; terkenal lewat doa Nabi ﷺ untuk keselamatan mereka.",
+  "dinamika": "Kabilah Aslam dikenal lewat doa Nabi ﷺ \"Aslam, salamahaLlahu\" (semoga Allah menyelamatkan Aslam), serta kisah Ma'iz bin Malik yang mengakui dosanya di hadapan Nabi ﷺ sebagai teladan taubat."
+ },
+ "already_cited": {
+  "leluhur": {
+   "t": "Aslam bin Afsha bin 'Amir bin Qam'ah bin Ilyas bin Mudhar.",
+   "src": [
+    "Jamharat Ansab al-'Arab, hlm. 240"
+   ]
+  },
+  "struktur": {
+   "t": "Dua anak Aslam: Salaman dan Hawazin; kutipan Jamharah yang tersedia hanya merinci cabang Salaman, yang melahirkan Buraidah bin al-Hushaib serta Bani al-Akwa' (Salamah dan 'Amir).",
+   "src": [
+    "Jamharat Ansab al-'Arab, hlm. 240"
+   ]
+  }
+ },
+ "roles_umum": []
+}

@@ -1,0 +1,4885 @@
+{
+ "abduddar": [
+  {
+   "t": "al-Abthah, Makkah",
+   "ar": "الأبطح",
+   "kind": "lembah",
+   "note": "Qushay memasukkan seluruh puak Quraisy ke al-Abthah sehingga disebut Quraisy al-Bithah; Bani Abdid-Dar termasuk Quraisy al-Bithah",
+   "src": [
+    "Ibnu Sa'd 1/71",
+    "al-Muhabbar, hlm. 167"
+   ],
+   "lat": 21.4225,
+   "lon": 39.8261,
+   "precision": "perkiraan",
+   "near": "Makkah"
+  },
+  {
+   "t": "Dar an-Nadwah",
+   "ar": "دار الندوة",
+   "kind": "distrik",
+   "note": "Balai musyawarah Quraisy di Makkah yang dibangun Qushay, lalu diberikan kepada Abdud-Dar; tetap di tangan Bani Abdid-Dar hingga dijual 'Ikrimah bin 'Amir kepada Mu'awiyah; kini bagian dari Masjidil Haram",
+   "src": [
+    "Mu'jam al-Buldan 2/423",
+    "Ibnu Sa'd 1/77",
+    "Mu'jam al-Buldan 5/279"
+   ],
+   "lat": 21.4225,
+   "lon": 39.8261,
+   "precision": "perkiraan",
+   "near": "Masjidil Haram"
+  },
+  {
+   "t": "Ka'bah (hijabah)",
+   "ar": "الكعبة",
+   "kind": "distrik",
+   "note": "Hijabah (penjagaan Ka'bah), liwa' dan nadwah tetap milik Bani Abdid-Dar setelah perdamaian dengan Bani Abdu Manaf; saat Fathu Makkah Nabi ﷺ mengambil kunci Ka'bah dari Utsman bin Thalhah lalu mengembalikannya",
+   "src": [
+    "Sirah Ibnu Hisyam 1/132",
+    "Sirah Ibnu Hisyam 2/411",
+    "Sirah Ibnu Hisyam 2/412"
+   ],
+   "lat": 21.4225,
+   "lon": 39.8262,
+   "precision": "tepat"
+  }
+ ],
+ "abdulqais": [
+  {
+   "t": "al-Bahrain",
+   "ar": "البحرين",
+   "kind": "daerah",
+   "note": "Amr bin al-Ju'aid (Bani Syann) yang menggiring Abdul Qais dari Tihamah ke al-Bahrain",
+   "src": [
+    "Jamharat Ansab al-'Arab, hlm. 299"
+   ]
+  },
+  {
+   "t": "Juwatsa",
+   "ar": "جواثاء",
+   "kind": "benteng",
+   "note": "Benteng Abdul Qais di al-Bahrain, ditaklukkan al-'Ala' bin al-Hadhrami masa Abu Bakar (12 H); konon masjid pertama setelah Masjid Madinah dibangun di sini",
+   "src": [
+    "Mu'jam al-Buldan 2/174",
+    "Mu'jam ma Ista'jam 4/1282"
+   ],
+   "lat": 25.4697,
+   "lon": 49.6786,
+   "precision": "perkiraan",
+   "near": "Masjid Jawatha"
+  },
+  {
+   "t": "al-Qathif",
+   "ar": "القطيف",
+   "kind": "kota",
+   "note": "Desa milik Judzaimah Abdul Qais; kemudian kota terbesar al-Bahrain",
+   "src": [
+    "Mu'jam al-Buldan 4/378"
+   ],
+   "lat": 26.5752,
+   "lon": 49.9969,
+   "precision": "tepat"
+  },
+  {
+   "t": "Samahij",
+   "ar": "سماهيج",
+   "kind": "desa",
+   "note": "Tempat di al-Bahrain milik Abdul Qais",
+   "src": [
+    "Mu'jam ma Ista'jam 4/1282"
+   ],
+   "lat": 26.283,
+   "lon": 50.6335,
+   "precision": "tepat"
+  },
+  {
+   "t": "al-Musyaqqar",
+   "ar": "المشقر",
+   "kind": "benteng",
+   "note": "Benteng besar Abdul Qais di al-Bahrain, bersebelahan dengan benteng ash-Shafa sebelum kota Hajar; di sana masjid jami'",
+   "src": [
+    "Mu'jam al-Buldan 5/134"
+   ]
+  },
+  {
+   "t": "al-Mirdaa' (Hajar)",
+   "ar": "المرداء",
+   "kind": "daerah",
+   "note": "Tempat di Hajar, salah satu dari dua kota al-Bahrain; manazil Abdul Qais",
+   "src": [
+    "Mu'jam ma Ista'jam 4/1211"
+   ]
+  },
+  {
+   "t": "al-Khath",
+   "ar": "الخط",
+   "kind": "desa",
+   "note": "Desa di pesisir al-Bahrain milik Abdul Qais; terkenal dengan tombak-tombaknya",
+   "src": [
+    "Mu'jam ma Ista'jam 2/503"
+   ]
+  }
+ ],
+ "adi": [
+  {
+   "t": "Bathha' Makkah",
+   "ar": "بطحاء مكة",
+   "kind": "lembah",
+   "note": "Bani 'Adi bin Ka'b termasuk Quraisy al-Bithah, kabilah-kabilah Ka'b bin Lu'ai yang menempati Bathha' Makkah",
+   "src": [
+    "Mu'jam ma Ista'jam 1/257"
+   ],
+   "lat": 21.4225,
+   "lon": 39.8261,
+   "precision": "perkiraan",
+   "near": "Makkah"
+  },
+  {
+   "t": "Asfal ats-Tsaniyyah (Makkah)",
+   "ar": "أسفل الثنية",
+   "kind": "distrik",
+   "note": "Bagian Bani 'Adi dalam pembagian Makkah oleh Qushai: bagian bawah ats-Tsaniyyah, antara Bani Jumah dan Bani Sahm",
+   "src": [
+    "Mu'jam ma Ista'jam 1/258"
+   ],
+   "lat": 21.4225,
+   "lon": 39.8261,
+   "precision": "perkiraan",
+   "near": "Makkah"
+  },
+  {
+   "t": "Ghuran (dekat 'Usfan)",
+   "ar": "غران",
+   "kind": "lembah",
+   "note": "Tempat di arah 'Usfan yang ditempati Bani Suraqah bin Mu'tamir dari Bani 'Adi bin Ka'b; mereka punya banyak harta di sana",
+   "src": [
+    "Mu'jam ma Ista'jam 3/992"
+   ],
+   "lat": 21.9224,
+   "lon": 39.3536,
+   "precision": "perkiraan",
+   "near": "'Usfan"
+  }
+ ],
+ "amir": [
+  {
+   "t": "Zhawahir Makkah",
+   "ar": "ظواهر مكة",
+   "kind": "daerah",
+   "note": "Kebanyakan Bani 'Amir bin Lu'ay termasuk penghuni pinggiran (zhawahir) Makkah; hanya sebagian mereka yang tinggal di al-Bithah bersama klan-klan Ka'b",
+   "src": [
+    "Mu'jam ma Ista'jam 1/257"
+   ],
+   "lat": 21.4225,
+   "lon": 39.8261,
+   "precision": "perkiraan",
+   "near": "Makkah"
+  },
+  {
+   "t": "Sumur an-Naq' (Makkah)",
+   "ar": "النقع",
+   "kind": "mata air",
+   "note": "Sumur di Makkah yang digali Bani 'Amir bin Lu'ay",
+   "src": [
+    "Futuh al-Buldan, hlm. 58"
+   ],
+   "lat": 21.4225,
+   "lon": 39.8261,
+   "precision": "perkiraan",
+   "near": "Makkah"
+  },
+  {
+   "t": "Sumur Huwaithib (Makkah)",
+   "ar": "بئر حويطب",
+   "kind": "mata air",
+   "note": "Sumur Huwaithib bin 'Abdul 'Uzza dari Bani 'Amir bin Lu'ay, di halaman rumahnya di Bathn al-Wadi",
+   "src": [
+    "Futuh al-Buldan, hlm. 58"
+   ],
+   "lat": 21.4225,
+   "lon": 39.8261,
+   "precision": "perkiraan",
+   "near": "Makkah"
+  },
+  {
+   "t": "Wadi al-Ahrar (Mauzan, al-Jazirah)",
+   "ar": "وادي الأحرار",
+   "kind": "lembah",
+   "note": "Lembah di al-Jazirah, di Mauzan, tempat Bani 'Amir bin Lu'ay; dinamai Yazid bin Mu'awiyah ketika singgah pada mereka. Tall Mauzan: negeri tua antara Ra's 'Ain dan Saruj, sekitar 10 mil dari Ra's 'Ain",
+   "src": [
+    "Mu'jam al-Buldan 5/343",
+    "Mu'jam al-Buldan 2/45"
+   ],
+   "lat": 36.8504,
+   "lon": 40.0696,
+   "precision": "perkiraan",
+   "near": "Ra's al-'Ain"
+  }
+ ],
+ "anshar": [
+  {
+   "t": "Yatsrib (al-Madinah)",
+   "ar": "يثرب",
+   "kind": "kota",
+   "note": "Yang memilih dan menempati Yatsrib adalah Anshar, yaitu Aus dan Khazraj",
+   "src": [
+    "Mu'jam al-Buldan 5/85"
+   ],
+   "lat": 24.47,
+   "lon": 39.61,
+   "precision": "tepat"
+  },
+  {
+   "t": "Quba'",
+   "ar": "قباء",
+   "kind": "desa",
+   "note": "Saat hijrah Nabi ﷺ singgah di Quba' pada Bani 'Amr bin 'Auf dan tinggal di tengah mereka beberapa hari",
+   "src": [
+    "Mu'jam al-Buldan 5/124"
+   ],
+   "lat": 24.4,
+   "lon": 39.65,
+   "precision": "tepat"
+  },
+  {
+   "t": "Saqifah Bani Sa'idah",
+   "ar": "سقيفة بني ساعدة",
+   "kind": "distrik",
+   "note": "Setelah Nabi ﷺ wafat, kaum Anshar berhimpun kepada Sa'd bin 'Ubadah di Saqifah Bani Sa'idah",
+   "src": [
+    "Sirah Ibnu Hisyam 2/656"
+   ],
+   "lat": 24.4702,
+   "lon": 39.6068,
+   "precision": "tepat"
+  },
+  {
+   "t": "al-'Aqabah (Mina)",
+   "ar": "العقبة",
+   "kind": "daerah",
+   "note": "Awal Islamnya Anshar: Nabi ﷺ bertemu serombongan Khazraj di al-'Aqabah pada musim haji",
+   "src": [
+    "Sirah Ibnu Hisyam 1/428"
+   ],
+   "lat": 21.4247,
+   "lon": 39.8675,
+   "precision": "perkiraan",
+   "near": "Masjid al-Bai'ah (Mina)"
+  },
+  {
+   "t": "Yanbu'",
+   "ar": "ينبع",
+   "kind": "desa",
+   "note": "Desa bermata air di jalan Madinah–laut; dihuni Anshar, Juhainah dan Laits",
+   "src": [
+    "Mu'jam al-Buldan 5/450"
+   ],
+   "lat": 24.3217,
+   "lon": 38.415,
+   "precision": "tepat"
+  },
+  {
+   "t": "ash-Shafra'",
+   "ar": "الصفراء",
+   "kind": "desa",
+   "note": "Desa banyak kurma dan mata air di atas Yanbu' ke arah Madinah; milik Juhainah, Anshar, Bani Fihr dan Nahd",
+   "src": [
+    "Mu'jam al-Buldan 3/412"
+   ],
+   "lat": 23.8536,
+   "lon": 38.9001,
+   "precision": "tepat"
+  },
+  {
+   "t": "ar-Rihdhiyyah",
+   "ar": "الرحضية",
+   "kind": "desa",
+   "note": "Desa dari kawasan Madinah, milik Anshar dan Bani Sulaim, di Najd; bersumur, banyak tanaman dan kurma",
+   "src": [
+    "Mu'jam al-Buldan 3/37",
+    "Mu'jam ma Ista'jam 3/907"
+   ],
+   "lat": 24.47,
+   "lon": 39.61,
+   "precision": "perkiraan",
+   "near": "al-Madinah"
+  },
+  {
+   "t": "al-Jaunah",
+   "ar": "الجونة",
+   "kind": "desa",
+   "note": "Desa antara Makkah dan Tha'if milik Anshar",
+   "src": [
+    "Mu'jam al-Buldan 2/189"
+   ]
+  },
+  {
+   "t": "Sumur Sumaihah",
+   "ar": "سميحة",
+   "kind": "mata air",
+   "note": "Sumur di diyar Anshar; di sana Aus dan Khazraj saling mengajak berdamai soal darah Abjar bin Sumair",
+   "src": [
+    "Mu'jam ma Ista'jam 3/757"
+   ]
+  },
+  {
+   "t": "Ru'am",
+   "ar": "رؤام",
+   "kind": "daerah",
+   "note": "Tempat di diyar Anshar; salah satu tempat hari-hari perang antara Aus dan Khazraj",
+   "src": [
+    "Mu'jam ma Ista'jam 2/621"
+   ]
+  }
+ ],
+ "asad": [
+  {
+   "t": "Makkah (Dar Hakim bin Hizam)",
+   "ar": "مكة",
+   "kind": "kota",
+   "note": "Rumah Hakim bin Hizam di Makkah bagian bawah; saat Fathu Makkah siapa yang memasukinya dijamin aman",
+   "src": [
+    "Tarikh ath-Thabari 3/55"
+   ],
+   "lat": 21.4225,
+   "lon": 39.8261,
+   "precision": "tepat"
+  },
+  {
+   "t": "al-Bithah (lembah Makkah)",
+   "ar": "البطاح",
+   "kind": "lembah",
+   "note": "Bani 'Abdul 'Uzza termasuk Quraisy al-Bithah, yang masuk ke al-Bithah bersama Qushay",
+   "src": [
+    "al-Muhabbar, hlm. 167"
+   ],
+   "lat": 21.4225,
+   "lon": 39.8261,
+   "precision": "perkiraan",
+   "near": "Makkah"
+  },
+  {
+   "t": "Sumur Suqayyah",
+   "ar": "سقية",
+   "kind": "mata air",
+   "note": "Sumur Bani Asad bin 'Abdul 'Uzza di Makkah, mereka yang menggalinya",
+   "src": [
+    "Sirah Ibnu Hisyam 1/149"
+   ],
+   "lat": 21.4225,
+   "lon": 39.8261,
+   "precision": "perkiraan",
+   "near": "Makkah"
+  },
+  {
+   "t": "Dar an-Nadwah",
+   "ar": "دار الندوة",
+   "kind": "distrik",
+   "note": "Balai pertemuan Quraisy di Makkah; berpindah ke tangan Hakim bin Hizam yang lalu menjualnya kepada Mu'awiyah seharga 100.000 dirham",
+   "src": [
+    "Mu'jam al-Buldan 2/423"
+   ],
+   "lat": 21.4225,
+   "lon": 39.8261,
+   "precision": "perkiraan",
+   "near": "Makkah"
+  },
+  {
+   "t": "Madinah (kavling az-Zubair)",
+   "ar": "المدينة",
+   "kind": "kota",
+   "note": "Nabi ﷺ memberi az-Zubair bin al-'Awwam sebidang tanah lapang yang luas di Madinah",
+   "src": [
+    "Mu'jam al-Buldan 5/86"
+   ],
+   "lat": 24.47,
+   "lon": 39.61,
+   "precision": "tepat"
+  },
+  {
+   "t": "Jabal Shafar (Farsy Malal)",
+   "ar": "صفر",
+   "kind": "gunung",
+   "note": "Gunung di Farsy Malal dekat Madinah, kediaman Abu 'Ubaidah bin 'Abdullah bin Zam'ah al-Asadi",
+   "src": [
+    "Mu'jam al-Buldan 3/413"
+   ],
+   "lat": 24.5957,
+   "lon": 39.2475,
+   "precision": "perkiraan",
+   "near": "Malal"
+  },
+  {
+   "t": "Fusthath (Dar az-Zubair)",
+   "ar": "الفسطاط",
+   "kind": "kota",
+   "note": "Rumah az-Zubair bin al-'Awwam di Fusthath, yang kemudian, konon, dimasukkan ke dalam Masjid Jami' oleh gubernur Bani Hasyim",
+   "src": [
+    "Mu'jam al-Buldan 4/265"
+   ],
+   "lat": 30.0101,
+   "lon": 31.2332,
+   "precision": "perkiraan",
+   "near": "Mosque of Amr ibn al-As (Fusthath)"
+  }
+ ],
+ "asad-k": [
+  {
+   "t": "Buzakhah",
+   "ar": "بزاخة",
+   "kind": "mata air",
+   "note": "Mata air Bani Asad di Najd; tempat pertempuran besar melawan Thulaihah bin Khuwailid pada masa Abu Bakar",
+   "src": [
+    "Mu'jam al-Buldan 1/408"
+   ],
+   "lat": 27.1897,
+   "lon": 41.3833,
+   "precision": "tepat"
+  },
+  {
+   "t": "ar-Rass",
+   "ar": "الرس",
+   "kind": "mata air",
+   "note": "Mata air Bani Munqidz bin A'ya' dari Bani Asad",
+   "src": [
+    "Mu'jam al-Buldan 3/44"
+   ],
+   "lat": 25.8667,
+   "lon": 43.5,
+   "precision": "tepat"
+  },
+  {
+   "t": "Zubalah",
+   "ar": "زبالة",
+   "kind": "desa",
+   "note": "Persinggahan di jalan Kufah–Makkah; ada benteng dan masjid jami' milik Bani Ghadhirah dari Bani Asad",
+   "src": [
+    "Mu'jam al-Buldan 3/129"
+   ],
+   "lat": 29.3914,
+   "lon": 43.5583,
+   "precision": "tepat"
+  },
+  {
+   "t": "Jufaf ath-Thair (ats-Tsa'labiyyah)",
+   "ar": "جفاف الطير",
+   "kind": "daerah",
+   "note": "Kawasan di negeri Bani Asad; ats-Tsa'labiyyah dekat Kufah termasuk di dalamnya",
+   "src": [
+    "Mu'jam al-Buldan 2/146"
+   ],
+   "lat": 28.2704,
+   "lon": 43.2387,
+   "precision": "perkiraan",
+   "near": "ats-Tsa'labiyyah"
+  },
+  {
+   "t": "Wadi ar-Rummah (bagian hilir)",
+   "ar": "الرمة",
+   "kind": "lembah",
+   "note": "Bagian hilir Wadi ar-Rummah milik Bani Asad dan 'Abs",
+   "src": [
+    "Mu'jam al-Buldan 3/72"
+   ],
+   "lat": 25.8061,
+   "lon": 42.8731,
+   "precision": "perkiraan",
+   "near": "Wadi ar-Rummah"
+  },
+  {
+   "t": "Aban al-Aswad",
+   "ar": "أبان الأسود",
+   "kind": "gunung",
+   "note": "Salah satu dari dua gunung Abanan yang diapit Wadi ar-Rummah; milik Bani Asad, lalu Bani Walibah, lalu al-Harits bin Tsa'labah",
+   "src": [
+    "Mu'jam al-Buldan 1/62"
+   ]
+  },
+  {
+   "t": "al-Habs dan al-Qanan",
+   "ar": "القنان",
+   "kind": "gunung",
+   "note": "Termasuk negeri Bani Asad menurut al-Ashma'i",
+   "src": [
+    "Mu'jam al-Buldan 2/213"
+   ]
+  },
+  {
+   "t": "Abraq al-'Azzaf",
+   "ar": "أبرق العزاف",
+   "kind": "mata air",
+   "note": "Mata air terkenal milik Bani Asad bin Khuzaimah",
+   "src": [
+    "Mu'jam al-Buldan 1/68"
+   ]
+  },
+  {
+   "t": "al-Kunasah (Kufah)",
+   "ar": "الكناسة",
+   "kind": "distrik",
+   "note": "Permukiman Bani Asad di Kufah; Samurah bin Jundab membeli rumah-rumah di sana",
+   "src": [
+    "Ibnu Sa'd 7/50"
+   ],
+   "lat": 32.03,
+   "lon": 44.4,
+   "precision": "perkiraan",
+   "near": "Kufah"
+  }
+ ],
+ "aslam": [
+  {
+   "t": "Yayin",
+   "ar": "يين",
+   "kind": "daerah",
+   "note": "Kawasan di pinggiran Madinah sejauh satu barid; manazil Aslam bin Khuza'ah",
+   "src": [
+    "Mu'jam al-Buldan 5/454"
+   ],
+   "lat": 24.47,
+   "lon": 39.61,
+   "precision": "perkiraan",
+   "near": "al-Madinah"
+  },
+  {
+   "t": "Yayin (Rabi'ah bin Ka'b)",
+   "ar": "يين",
+   "kind": "daerah",
+   "note": "Setelah Nabi ﷺ wafat, Rabi'ah bin Ka'b al-Aslami keluar dari Madinah dan tinggal di Yayin, negeri Aslam",
+   "src": [
+    "Ibnu Sa'd 4/313"
+   ],
+   "lat": 24.47,
+   "lon": 39.61,
+   "precision": "perkiraan",
+   "near": "al-Madinah"
+  },
+  {
+   "t": "Jumdan",
+   "ar": "جمدان",
+   "kind": "gunung",
+   "note": "Termasuk manazil Aslam, antara Qudaid dan 'Usfan",
+   "src": [
+    "Mu'jam al-Buldan 2/161"
+   ]
+  },
+  {
+   "t": "al-'Arj",
+   "ar": "العرج",
+   "kind": "desa",
+   "note": "Termasuk negeri Aslam; 17 mil dari as-Suqya",
+   "src": [
+    "Mu'jam ma Ista'jam 3/931"
+   ]
+  },
+  {
+   "t": "Marr azh-Zhahran",
+   "ar": "مر الظهران",
+   "kind": "lembah",
+   "note": "Satu marhalah dari Makkah; banyak mata air, kurma, dan pohon ara milik Aslam, Hudzail, dan Ghadhirah",
+   "src": [
+    "Mu'jam al-Buldan 5/104"
+   ],
+   "lat": 21.6136,
+   "lon": 39.7103,
+   "precision": "tepat"
+  },
+  {
+   "t": "Dhajnan",
+   "ar": "ضجنان",
+   "kind": "gunung",
+   "note": "Milik Aslam, Hudzail, dan Ghadhirah; menurut al-Waqidi 25 mil dari Makkah",
+   "src": [
+    "Mu'jam al-Buldan 3/453"
+   ]
+  }
+ ],
+ "asyari": [
+  {
+   "t": "al-Hashib (Zabid)",
+   "ar": "الحصيب",
+   "kind": "kota",
+   "note": "Al-Hashib, yaitu kota Zabid di Tihamah Yaman, milik al-Asy'ariyyun; belakangan Bani Waqid dari Tsaqif berbaur dengan mereka",
+   "src": [
+    "Shifat Jazirat al-'Arab, hlm. 53",
+    "Mu'jam al-Buldan 2/266"
+   ],
+   "lat": 14.2,
+   "lon": 43.3167,
+   "precision": "tepat"
+  },
+  {
+   "t": "Hais",
+   "ar": "حيس",
+   "kind": "desa",
+   "note": "Desa di lembah Zabid, milik ar-Rakb dari al-Asy'ar; diyar al-Asy'ariyyin di Tihamah Yaman membentang dari batas Bani Majid hingga Hais dan Zabid",
+   "src": [
+    "Shifat Jazirat al-'Arab, hlm. 53",
+    "Shifat Jazirat al-'Arab, hlm. 119"
+   ],
+   "lat": 13.931,
+   "lon": 43.4806,
+   "precision": "tepat"
+  },
+  {
+   "t": "al-Qahmah",
+   "ar": "القحمة",
+   "kind": "desa",
+   "note": "Desa di lembah Zabid milik al-Asya'irah",
+   "src": [
+    "Shifat Jazirat al-'Arab, hlm. 53"
+   ]
+  },
+  {
+   "t": "Rima'",
+   "ar": "رمع",
+   "kind": "lembah",
+   "note": "Desa Abu Musa di negeri al-Asy'ariyyin di Yaman, dekat Ghassan dan Zabid; lembah sesudah Wadi Zabid",
+   "src": [
+    "Mu'jam al-Buldan 3/68"
+   ],
+   "lat": 14.2,
+   "lon": 43.3167,
+   "precision": "perkiraan",
+   "near": "Zabid"
+  },
+  {
+   "t": "Bashrah",
+   "ar": "البصرة",
+   "kind": "kota",
+   "note": "Keturunan al-Asy'ar (keluarga Abu Musa) banyak jumlahnya di Bashrah dan Kufah",
+   "src": [
+    "Jamharat Ansab al-'Arab, hlm. 398"
+   ],
+   "lat": 30.515,
+   "lon": 47.81,
+   "precision": "tepat"
+  },
+  {
+   "t": "Kufah",
+   "ar": "الكوفة",
+   "kind": "kota",
+   "note": "Keturunan al-Asy'ar (keluarga Abu Musa) banyak jumlahnya di Bashrah dan Kufah",
+   "src": [
+    "Jamharat Ansab al-'Arab, hlm. 398"
+   ],
+   "lat": 32.03,
+   "lon": 44.4,
+   "precision": "tepat"
+  },
+  {
+   "t": "Qum",
+   "ar": "قم",
+   "kind": "kota",
+   "note": "Dimiserkan masa al-Hajjaj (83 H): putra-putra Sa'd bin Malik bin 'Amir al-Asy'ari menaklukkan tujuh desa di sana, menetap, lalu kerabat mereka berkumpul; keturunan mereka memegang kepemimpinan di Qum",
+   "src": [
+    "Mu'jam al-Buldan 4/397",
+    "Jamharat Ansab al-'Arab, hlm. 398"
+   ],
+   "lat": 34.64,
+   "lon": 50.8764,
+   "precision": "tepat"
+  },
+  {
+   "t": "Rayyah (Andalusia)",
+   "ar": "رية",
+   "kind": "daerah",
+   "note": "Dar Bani al-Asy'ar di Andalusia; keturunan Abu Musa (Bani Balj) tinggal di Isybiliyah",
+   "src": [
+    "Jamharat Ansab al-'Arab, hlm. 398"
+   ]
+  }
+ ],
+ "asyja": [
+  {
+   "t": "Syi'b Sal' (Madinah)",
+   "ar": "شعب سلع",
+   "kind": "lembah",
+   "note": "Delegasi Asyja' (100 orang, dipimpin Mas'ud bin Rukhailah) turun di Syi'b Sal'; mereka berkata tak ada kaum mereka yang lebih dekat tempat tinggalnya kepada Nabi ﷺ",
+   "src": [
+    "Ibnu Sa'd 1/306"
+   ],
+   "lat": 24.475,
+   "lon": 39.5994,
+   "precision": "perkiraan",
+   "near": "Jabal Sal'"
+  },
+  {
+   "t": "Asymadzan",
+   "ar": "أشمذان",
+   "kind": "gunung",
+   "note": "Dua gunung milik Asyja' di hadapan Khaibar; persinggahan Asyja' di jalan Madinah–Taima'",
+   "src": [
+    "Mu'jam ma Ista'jam 1/159",
+    "Mu'jam ma Ista'jam 1/329"
+   ],
+   "lat": 25.6986,
+   "lon": 39.2925,
+   "precision": "perkiraan",
+   "near": "Khaibar"
+  },
+  {
+   "t": "ash-Shahba'",
+   "ar": "الصهباء",
+   "kind": "daerah",
+   "note": "Persinggahan milik Asyja' di jalan dari Madinah ke Taima'",
+   "src": [
+    "Mu'jam ma Ista'jam 1/329"
+   ],
+   "lat": 25.711,
+   "lon": 39.2746,
+   "precision": "tepat"
+  },
+  {
+   "t": "Idham",
+   "ar": "إضم",
+   "kind": "lembah",
+   "note": "Wadi (atau gunung) milik Asyja' dan Juhainah; membelah Hijaz hingga ke laut",
+   "src": [
+    "Mu'jam al-Buldan 1/215",
+    "Mu'jam ma Ista'jam 1/166"
+   ]
+  },
+  {
+   "t": "Dzayalah",
+   "ar": "ذيالة",
+   "kind": "gunung",
+   "note": "Puncak di harrah milik Bani Tsa'labah bin Dzubyan dan Asyja', antara Nakhl dan Khaibar; Halif juga gunung milik mereka",
+   "src": [
+    "Mu'jam ma Ista'jam 2/619"
+   ],
+   "lat": 25.1714,
+   "lon": 39.9272,
+   "precision": "perkiraan",
+   "near": "Wadi Dzayalah"
+  },
+  {
+   "t": "ats-Tsamiliyyah",
+   "ar": "الثاملية",
+   "kind": "mata air",
+   "note": "Mata air milik Asyja' antara ash-Shirad dan Rahrahan; al-Marwrat di dekatnya juga gunung milik Asyja'",
+   "src": [
+    "Mu'jam ma Ista'jam 1/334"
+   ]
+  },
+  {
+   "t": "Khabirah (hima ar-Rabadzah)",
+   "ar": "خبرة",
+   "kind": "mata air",
+   "note": "Mata air Bani Tsa'labah bin Sa'd di hima ar-Rabadzah; di dekatnya ada sumur (qalib) milik Asyja'",
+   "src": [
+    "Mu'jam al-Buldan 2/344"
+   ],
+   "lat": 24.6319,
+   "lon": 41.2906,
+   "precision": "perkiraan",
+   "near": "ar-Rabadzah"
+  },
+  {
+   "t": "al-Jarr (Hijaz)",
+   "ar": "الجر",
+   "kind": "daerah",
+   "note": "Tempat di Hijaz dalam diyar Asyja'; pernah terjadi pertempuran antara mereka dan Bani Sulaim",
+   "src": [
+    "Mu'jam al-Buldan 2/124"
+   ]
+  },
+  {
+   "t": "Shahn al-Hail (Iliya')",
+   "ar": "صحن الحيل",
+   "kind": "daerah",
+   "note": "Tempat yang menjadi permukiman Asyja' di Iliya' (Baitul Maqdis), menurut tulisan at-Tibrizi",
+   "src": [
+    "Mu'jam al-Buldan 3/394"
+   ],
+   "lat": 31.7767,
+   "lon": 35.2342,
+   "precision": "perkiraan",
+   "near": "Jerusalem (Iliya')"
+  }
+ ],
+ "aus": [
+  {
+   "t": "Madinah (Yatsrib)",
+   "ar": "المدينة",
+   "kind": "kota",
+   "note": "Setelah Abu Jubailah menundukkan Hijaz dan Madinah untuk Aus dan Khazraj, mereka menyebar di 'Aliyah dan Safilah Madinah",
+   "src": [
+    "Mu'jam al-Buldan 5/86"
+   ],
+   "lat": 24.47,
+   "lon": 39.61,
+   "precision": "tepat"
+  },
+  {
+   "t": "Quba'",
+   "ar": "قباء",
+   "kind": "desa",
+   "note": "Desa yang dinamai dari sebuah sumur; permukiman Bani 'Amr bin 'Auf dari Anshar",
+   "src": [
+    "Mu'jam al-Buldan 4/301"
+   ],
+   "lat": 24.4,
+   "lon": 39.65,
+   "precision": "tepat"
+  },
+  {
+   "t": "Ghurrah (Masjid Quba')",
+   "ar": "غرة",
+   "kind": "benteng",
+   "note": "Uthum (benteng) Bani 'Amr bin 'Auf; di tempatnya dibangun menara Masjid Quba'. Nabi ﷺ singgah di Quba' pada Bani 'Amr bin 'Auf saat hijrah",
+   "src": [
+    "Mu'jam al-Buldan 4/196",
+    "Mu'jam al-Buldan 5/124"
+   ],
+   "lat": 24.4392,
+   "lon": 39.6172,
+   "precision": "tepat"
+  },
+  {
+   "t": "Harrah Bani Haritsah",
+   "ar": "حرة بني حارثة",
+   "kind": "daerah",
+   "note": "Lahar batu di Madinah, tempat harta (kebun) Bani Haritsah; dilalui Nabi ﷺ menuju Uhud",
+   "src": [
+    "Mu'jam ma Ista'jam 1/118"
+   ],
+   "lat": 24.47,
+   "lon": 39.61,
+   "precision": "perkiraan",
+   "near": "Madinah"
+  },
+  {
+   "t": "Mirba'",
+   "ar": "مربع",
+   "kind": "desa",
+   "note": "Kebun di Madinah di wilayah Bani Haritsah, dahulu ada uthum di sana",
+   "src": [
+    "Mu'jam al-Buldan 5/99"
+   ],
+   "lat": 24.47,
+   "lon": 39.61,
+   "precision": "perkiraan",
+   "near": "Madinah"
+  },
+  {
+   "t": "al-Jadr",
+   "ar": "الجدر",
+   "kind": "desa",
+   "note": "Tempat di Madinah, permukiman Bani Zhafar",
+   "src": [
+    "Mu'jam ma Ista'jam 2/371"
+   ],
+   "lat": 24.47,
+   "lon": 39.61,
+   "precision": "perkiraan",
+   "near": "Madinah"
+  },
+  {
+   "t": "'Adzq",
+   "ar": "عذق",
+   "kind": "benteng",
+   "note": "Uthum di Madinah milik Bani Umayyah bin Zaid; dahulu bernama as-Sair",
+   "src": [
+    "Mu'jam al-Buldan 4/91"
+   ],
+   "lat": 24.47,
+   "lon": 39.61,
+   "precision": "perkiraan",
+   "near": "Madinah"
+  },
+  {
+   "t": "Murayd",
+   "ar": "مريد",
+   "kind": "benteng",
+   "note": "Uthum di Madinah milik Bani Khathmah",
+   "src": [
+    "Mu'jam al-Buldan 5/117"
+   ],
+   "lat": 24.47,
+   "lon": 39.61,
+   "precision": "perkiraan",
+   "near": "Madinah"
+  }
+ ],
+ "azd": [
+  {
+   "t": "Ma'rib (bendungan Ma'rib)",
+   "ar": "مأرب",
+   "kind": "kota",
+   "note": "Negeri asal di Yaman; ketika 'Amr bin 'Amir meninggalkan Yaman karena bendungan Ma'rib akan runtuh, al-Azd menjual harta dan ikut keluar bersamanya",
+   "src": [
+    "Sirah Ibnu Hisyam 1/13"
+   ],
+   "lat": 15.4625,
+   "lon": 45.3258,
+   "precision": "tepat"
+  },
+  {
+   "t": "as-Sarah (Azd as-Sarah)",
+   "ar": "السراة",
+   "kind": "daerah",
+   "note": "Setelah berpencar, Azd as-Sarah turun di pegunungan as-Sarah",
+   "src": [
+    "Sirah Ibnu Hisyam 1/13"
+   ],
+   "lat": 18.2672,
+   "lon": 42.3681,
+   "precision": "tepat"
+  },
+  {
+   "t": "'Uman (Azd 'Uman)",
+   "ar": "عمان",
+   "kind": "daerah",
+   "note": "Setelah berpencar, Azd 'Uman turun di 'Uman",
+   "src": [
+    "Sirah Ibnu Hisyam 1/13"
+   ],
+   "lat": 21.0,
+   "lon": 57.0,
+   "precision": "tepat"
+  },
+  {
+   "t": "Jabal Bariq dan Jabal Syann",
+   "ar": "بارق",
+   "kind": "gunung",
+   "note": "Gunung-gunung as-Sarah milik Khats'am; al-Azd yang lewat dari negeri Saba' memerangi dan mengusir mereka, lalu Azd Syanu'ah (Ghamid, Bariq, Daus) menempatinya",
+   "src": [
+    "Mu'jam al-Buldan 1/319"
+   ],
+   "lat": 18.9322,
+   "lon": 41.9439,
+   "precision": "perkiraan",
+   "near": "Bariq"
+  },
+  {
+   "t": "Tsaruq (desa Daus)",
+   "ar": "ثروق",
+   "kind": "desa",
+   "note": "Desa besar milik Bani Daus dari al-Azd, bermimbar; ath-Thufail bin 'Amr singgah di sana sepulang masuk Islam",
+   "src": [
+    "Mu'jam al-Buldan 2/77"
+   ],
+   "lat": 20.2147,
+   "lon": 41.2004,
+   "precision": "tepat"
+  },
+  {
+   "t": "Tanumah (Sarah al-Hijr)",
+   "ar": "تنومة",
+   "kind": "kota",
+   "note": "Sarah al-Hijr bin al-Hanu bin al-Azd; kotanya al-Jahwah, di antaranya Tanumah",
+   "src": [
+    "Shifat Jazirat al-'Arab, hlm. 119"
+   ],
+   "lat": 18.9472,
+   "lon": 42.1764,
+   "precision": "tepat"
+  },
+  {
+   "t": "Tandahah (lembah Jurasy)",
+   "ar": "تندحة",
+   "kind": "lembah",
+   "note": "Lembah dari lembah-lembah Jurasy, ada anggur dan sumur; dihuni Bani Usamah dari al-Azd",
+   "src": [
+    "Shifat Jazirat al-'Arab, hlm. 118"
+   ],
+   "lat": 18.3451,
+   "lon": 42.8452,
+   "precision": "tepat"
+  },
+  {
+   "t": "Dar al-Azd (Bashrah)",
+   "ar": "دار الأزد",
+   "kind": "distrik",
+   "note": "Kawasan al-Azd di Bashrah; di tempatnya kaum Muslimin awal membangun tiga dari tujuh daskarah",
+   "src": [
+    "Mu'jam al-Buldan 1/431"
+   ],
+   "lat": 30.515,
+   "lon": 47.81,
+   "precision": "perkiraan",
+   "near": "Bashrah"
+  }
+ ],
+ "bahilah": [
+  {
+   "t": "Jabal Yadzbul",
+   "ar": "يذبل",
+   "kind": "gunung",
+   "note": "Gunung terkenal di Najd; menurut Abu Ziyad gunung milik Bahilah",
+   "src": [
+    "Mu'jam al-Buldan 5/433"
+   ]
+  },
+  {
+   "t": "Jabal Syammam",
+   "ar": "شمام",
+   "kind": "gunung",
+   "note": "Gunung milik Bahilah, berpuncak dua yang disebut Ibna Syammam",
+   "src": [
+    "Mu'jam al-Buldan 3/361"
+   ]
+  },
+  {
+   "t": "Muraifiq (Sawad Bahilah, al-Yamamah)",
+   "ar": "مريفق",
+   "kind": "desa",
+   "note": "Desa di Sawad Bahilah di tanah al-Yamamah",
+   "src": [
+    "Mu'jam al-Buldan 5/118"
+   ]
+  },
+  {
+   "t": "al-'Aqqar",
+   "ar": "العقار",
+   "kind": "daerah",
+   "note": "Tempat di diyar Bahilah di sekitar al-Yamamah",
+   "src": [
+    "Mu'jam al-Buldan 4/133"
+   ]
+  },
+  {
+   "t": "al-Hufair (dekat Bashrah)",
+   "ar": "الحفير",
+   "kind": "mata air",
+   "note": "Mata air milik Bahilah, empat mil dari Bashrah; titik keluar jamaah haji dari Bashrah",
+   "src": [
+    "Mu'jam al-Buldan 2/277"
+   ],
+   "lat": 30.515,
+   "lon": 47.81,
+   "precision": "perkiraan",
+   "near": "Bashrah"
+  },
+  {
+   "t": "Tsajr",
+   "ar": "ثجر",
+   "kind": "mata air",
+   "note": "Mata air di diyar Bahilah, di belakang Tabalah, di jalur Yaman dari Makkah",
+   "src": [
+    "Mu'jam ma Ista'jam 4/1292"
+   ],
+   "lat": 19.9978,
+   "lon": 42.2297,
+   "precision": "perkiraan",
+   "near": "Tabalah"
+  },
+  {
+   "t": "Jabal Badr dan Armam",
+   "ar": "بدر وأرمام",
+   "kind": "gunung",
+   "note": "Badr: gunung di negeri Bahilah bin A'shur; di sana pula Gunung Armam",
+   "src": [
+    "Mu'jam al-Buldan 1/358"
+   ]
+  },
+  {
+   "t": "'Ausajah (tambang perak)",
+   "ar": "عوسجة",
+   "kind": "daerah",
+   "note": "Salah satu tambang perak di negeri Bahilah",
+   "src": [
+    "Mu'jam al-Buldan 4/168"
+   ]
+  }
+ ],
+ "bajilah": [
+  {
+   "t": "Sarat Bajilah (as-Sarat al-Wustha)",
+   "ar": "سراة بجيلة",
+   "kind": "daerah",
+   "note": "Dari tiga Sarawat yang menghadap Tihamah, Bajilah menempati Sarat tengah, sebagian dimasuki Tsaqif; Sarat menjadi milik Bajilah hingga hulu Wadi Turabah",
+   "src": [
+    "Mu'jam al-Buldan 3/205",
+    "Mu'jam ma Ista'jam 1/59"
+   ],
+   "lat": 21.2142,
+   "lon": 41.6331,
+   "precision": "perkiraan",
+   "near": "Turabah"
+  },
+  {
+   "t": "Tabalah (Dzul Khalashah)",
+   "ar": "تبالة",
+   "kind": "kota",
+   "note": "Dzul Khalashah, rumah berhala Daus, Khats'am, Bajilah dan Arab di negeri mereka, berada di Tabalah; dibakar Jarir bin 'Abdullah al-Bajali atas utusan Nabi ﷺ",
+   "src": [
+    "Mu'jam al-Buldan 2/383"
+   ],
+   "lat": 19.9978,
+   "lon": 42.2297,
+   "precision": "tepat"
+  },
+  {
+   "t": "Hadhrat ath-Tha'if",
+   "ar": "حضرة الطائف",
+   "kind": "daerah",
+   "note": "Tsaqif dan Bajilah turun di sekitar Tha'if",
+   "src": [
+    "Mu'jam ma Ista'jam 1/90"
+   ],
+   "lat": 21.2667,
+   "lon": 40.4167,
+   "precision": "perkiraan",
+   "near": "ath-Tha'if"
+  },
+  {
+   "t": "Jabalah (Najd)",
+   "ar": "جبلة",
+   "kind": "gunung",
+   "note": "Gunung/hadbah panjang dengan syi'b luas; di sana tinggal 'Uraynah, bathn dari Bajilah, sekutu Bani Kilab",
+   "src": [
+    "Mu'jam al-Buldan 2/104"
+   ]
+  },
+  {
+   "t": "Raudhah Ra'm",
+   "ar": "روضة رعم",
+   "kind": "daerah",
+   "note": "Raudhah (padang rumput) di diyar Bajilah; Ra'm nama gunung di diyar Bajilah",
+   "src": [
+    "Mu'jam al-Buldan 3/90",
+    "Mu'jam al-Buldan 3/52"
+   ]
+  },
+  {
+   "t": "Wadi 'Aradat",
+   "ar": "عردات",
+   "kind": "lembah",
+   "note": "Wadi milik Bani Bajilah, panjangnya setengah hari perjalanan",
+   "src": [
+    "Mu'jam al-Buldan 4/99"
+   ]
+  },
+  {
+   "t": "Kufah",
+   "ar": "الكوفة",
+   "kind": "kota",
+   "note": "Jarir bin 'Abdullah al-Bajali menetap di Kufah dan membangun rumah di lingkungan Bajilah; ia wafat di as-Sarat",
+   "src": [
+    "Ibnu Sa'd 6/22"
+   ],
+   "lat": 32.03,
+   "lon": 44.4,
+   "precision": "tepat"
+  },
+  {
+   "t": "Sawad Iraq",
+   "ar": "السواد",
+   "kind": "daerah",
+   "note": "Jarir datang dari as-Sarat bersama Bajilah ke Iraq; 'Umar memberi Bajilah seperempat Sawad, mereka mengambilnya tiga tahun",
+   "src": [
+    "Futuh al-Buldan, hlm. 249",
+    "Futuh al-Buldan, hlm. 263"
+   ]
+  }
+ ],
+ "bakr": [
+  {
+   "t": "Diyar Bakr (Jazirah)",
+   "ar": "ديار بكر",
+   "kind": "daerah",
+   "note": "Negeri luas yang dinisbatkan kepada Bakr bin Wa'il, di barat Dijlah; di antaranya Hishn Kaifa, Amid dan Mayyafariqin",
+   "src": [
+    "Mu'jam al-Buldan 2/494"
+   ],
+   "lat": 37.9819,
+   "lon": 40.2106,
+   "precision": "perkiraan",
+   "near": "Amid"
+  },
+  {
+   "t": "Diyar Bakr bin Wa'il (Arabia timur)",
+   "ar": "ديار بكر بن وائل",
+   "kind": "daerah",
+   "note": "Dari al-Yamamah ke al-Bahrain, ke pesisir Kazhimah dan laut, hingga tepi Sawad Irak, al-Ubullah dan Hit",
+   "src": [
+    "Shifat Jazirat al-'Arab, hlm. 169"
+   ]
+  },
+  {
+   "t": "Dzu Qar",
+   "ar": "ذو قار",
+   "kind": "mata air",
+   "note": "Mata air milik Bakr bin Wa'il dekat Kufah, antara Kufah dan Wasith; tempat pertempuran terkenal Bakr melawan Persia",
+   "src": [
+    "Mu'jam al-Buldan 4/293"
+   ],
+   "lat": 32.03,
+   "lon": 44.4,
+   "precision": "perkiraan",
+   "near": "Kufah"
+  },
+  {
+   "t": "Hajr al-Yamamah",
+   "ar": "حجر",
+   "kind": "kota",
+   "note": "Kota induk al-Yamamah, tempat wali; dimiliki bersama tetapi asalnya milik Bani Hanifah",
+   "src": [
+    "Mu'jam al-Buldan 2/221"
+   ],
+   "lat": 24.6383,
+   "lon": 46.715,
+   "precision": "perkiraan",
+   "near": "ar-Riyadh"
+  },
+  {
+   "t": "al-'Irdh (Wadi al-Yamamah)",
+   "ar": "العرض",
+   "kind": "lembah",
+   "note": "Seluruh al-'Irdh milik Bani Hanifah kecuali sebagian kecil milik Bani al-A'raj dari Tamim",
+   "src": [
+    "Mu'jam al-Buldan 4/103"
+   ],
+   "lat": 24.5892,
+   "lon": 46.7061,
+   "precision": "tepat"
+  },
+  {
+   "t": "Manfuhah",
+   "ar": "منفوحة",
+   "kind": "desa",
+   "note": "Desa terkenal di al-Yamamah, tempat tinggal dan makam al-A'sya; milik Bani Qais bin Tsa'labah dari Bakr bin Wa'il yang turun di sana setelah Musailamah terbunuh",
+   "src": [
+    "Mu'jam al-Buldan 5/214"
+   ],
+   "lat": 24.5961,
+   "lon": 46.7272,
+   "precision": "tepat"
+  },
+  {
+   "t": "Kalawatan",
+   "ar": "كلاوتان",
+   "kind": "mata air",
+   "note": "Dua mata air milik Bakr bin Wa'il di pedalaman Bashrah ke arah Kazhimah",
+   "src": [
+    "Mu'jam al-Buldan 4/475"
+   ],
+   "lat": 29.3929,
+   "lon": 47.6713,
+   "precision": "perkiraan",
+   "near": "Kazhimah"
+  },
+  {
+   "t": "al-Qulaib / al-Uqailibah (al-Qadisiyyah)",
+   "ar": "القلب",
+   "kind": "mata air",
+   "note": "Saat Sa'd di al-Qadisiyyah, Bakr bin Wa'il ditempatkan di al-Qulaib dan menggali sumur di sana",
+   "src": [
+    "Mu'jam al-Buldan 1/239"
+   ]
+  },
+  {
+   "t": "Quhistan (Khurasan)",
+   "ar": "قوهستان",
+   "kind": "daerah",
+   "note": "Negeri Bakr bin Wa'il hingga masa al-Baladzuri",
+   "src": [
+    "Futuh al-Buldan, hlm. 390"
+   ]
+  }
+ ],
+ "daus": [
+  {
+   "t": "Sarat Daus (as-Sarah)",
+   "ar": "سراة دوس",
+   "kind": "gunung",
+   "note": "Pegunungan as-Sarah; keturunan Minhab bin Daus tinggal di as-Sarah; Sarat Daus terletak setelah Sarat Ghamid",
+   "src": [
+    "Jamharat Ansab al-'Arab, hlm. 379",
+    "Shifat Jazirat al-'Arab, hlm. 119"
+   ],
+   "lat": 20.2147,
+   "lon": 41.2004,
+   "precision": "perkiraan",
+   "near": "Tsaruq"
+  },
+  {
+   "t": "Tsaruq",
+   "ar": "ثروق",
+   "kind": "desa",
+   "note": "Desa besar milik Daus yang memiliki mimbar; ath-Thufail bin 'Amr singgah di sana sepulang masuk Islam",
+   "src": [
+    "Mu'jam al-Buldan 2/77"
+   ],
+   "lat": 20.2147,
+   "lon": 41.2004,
+   "precision": "tepat"
+  },
+  {
+   "t": "Dzul Khalashah (Tabalah)",
+   "ar": "ذو الخلصة",
+   "kind": "daerah",
+   "note": "Rumah berhala di diyar Daus; kini menjadi ambang pintu masjid Tabalah",
+   "src": [
+    "Mu'jam al-Buldan 2/384"
+   ],
+   "lat": 19.9978,
+   "lon": 42.2297,
+   "precision": "perkiraan",
+   "near": "Tabalah"
+  },
+  {
+   "t": "Ra's Dhan",
+   "ar": "رأس ضان",
+   "kind": "gunung",
+   "note": "Gunung di negeri Daus, disebut dalam hadits Abu Hurairah",
+   "src": [
+    "Mu'jam al-Buldan 3/14"
+   ]
+  },
+  {
+   "t": "Qiran",
+   "ar": "قران",
+   "kind": "daerah",
+   "note": "Kawasan di as-Sarah, negeri Daus; pernah terjadi pertempuran di sana",
+   "src": [
+    "Mu'jam al-Buldan 4/319"
+   ],
+   "lat": 20.2147,
+   "lon": 41.2004,
+   "precision": "perkiraan",
+   "near": "Tsaruq"
+  },
+  {
+   "t": "Oman",
+   "ar": "عمان",
+   "kind": "daerah",
+   "note": "Keturunan Malik bin Fahm bin Ghanm bin Daus kebanyakan tinggal di Oman",
+   "src": [
+    "Jamharat Ansab al-'Arab, hlm. 379"
+   ],
+   "lat": 21,
+   "lon": 57,
+   "precision": "tepat"
+  },
+  {
+   "t": "al-Hirah (Iraq)",
+   "ar": "الحيرة",
+   "kind": "kota",
+   "note": "Dari Azd, yang mendiami al-Hirah dan Iraq adalah Daus",
+   "src": [
+    "Shifat Jazirat al-'Arab, hlm. 211"
+   ],
+   "lat": 31.98,
+   "lon": 44.39,
+   "precision": "tepat"
+  },
+  {
+   "t": "Bashrah (al-Jahadhim)",
+   "ar": "البصرة",
+   "kind": "kota",
+   "note": "Bani Jahdham bin 'Auf bin Malik bin Fahm (al-Jahadhim) di Bashrah; Bani Syababah di Bashrah dan as-Sarah",
+   "src": [
+    "Jamharat Ansab al-'Arab, hlm. 380"
+   ],
+   "lat": 30.515,
+   "lon": 47.81,
+   "precision": "tepat"
+  }
+ ],
+ "dhabbah": [
+  {
+   "t": "Ta'syar",
+   "ar": "تعشار",
+   "kind": "mata air",
+   "note": "Tempat di ad-Dahna'; disebut mata air milik Bani Dhabbah",
+   "src": [
+    "Mu'jam al-Buldan 2/34"
+   ]
+  },
+  {
+   "t": "Muhjan",
+   "ar": "محجن",
+   "kind": "daerah",
+   "note": "Tempat milik Bani Dhabbah di ad-Dahna'",
+   "src": [
+    "Mu'jam al-Buldan 5/60"
+   ]
+  },
+  {
+   "t": "Qasa",
+   "ar": "قسا",
+   "kind": "gunung",
+   "note": "Penanda (bukit kecil) di ad-Dahna' milik Bani Dhabbah",
+   "src": [
+    "Mu'jam ma Ista'jam 3/1073"
+   ]
+  },
+  {
+   "t": "al-Bakarat",
+   "ar": "البكرات",
+   "kind": "mata air",
+   "note": "Mata air milik Dhabbah di tanah al-Yamamah; bukit-bukit kecil di bagian bawah al-Wasym",
+   "src": [
+    "Mu'jam al-Buldan 1/475"
+   ],
+   "lat": 25.3251,
+   "lon": 45.7675,
+   "precision": "tepat"
+  },
+  {
+   "t": "Silla",
+   "ar": "سلى",
+   "kind": "mata air",
+   "note": "Mata air milik Bani Dhabbah di al-Yamamah",
+   "src": [
+    "Mu'jam al-Buldan 3/231"
+   ]
+  },
+  {
+   "t": "Lughath",
+   "ar": "لغاط",
+   "kind": "lembah",
+   "note": "Lembah milik Bani Dhabbah (menurut Abu Muhammad al-Aswad); di sana dua mata air al-Amlahan",
+   "src": [
+    "Mu'jam al-Buldan 5/19",
+    "Mu'jam al-Buldan 1/255"
+   ]
+  },
+  {
+   "t": "asy-Syawajin",
+   "ar": "الشواجن",
+   "kind": "lembah",
+   "note": "Lembah di diyar Dhabbah",
+   "src": [
+    "Mu'jam al-Buldan 1/395"
+   ]
+  },
+  {
+   "t": "at-Tasrir",
+   "ar": "التسرير",
+   "kind": "lembah",
+   "note": "Di lekukan at-Tasrir ada bagian milik Bani Dhabbah dengan mata air dan permukiman luas",
+   "src": [
+    "Mu'jam al-Buldan 2/31"
+   ],
+   "lat": 25.0817,
+   "lon": 44.2846,
+   "precision": "tepat"
+  },
+  {
+   "t": "al-Munib",
+   "ar": "المنيب",
+   "kind": "mata air",
+   "note": "Salah satu mata air Bani Dhabbah di Najd, di timur al-Hazir milik Ghani",
+   "src": [
+    "Mu'jam al-Buldan 5/217"
+   ]
+  },
+  {
+   "t": "Khiththah Bani Dhabbah di Bashrah",
+   "ar": "خطة بني ضبة",
+   "kind": "distrik",
+   "note": "Kawasan (khiththah) Bani Dhabbah di Bashrah, dekat Qashr 'Asl",
+   "src": [
+    "Mu'jam al-Buldan 4/124"
+   ],
+   "lat": 30.515,
+   "lon": 47.81,
+   "precision": "perkiraan",
+   "near": "Bashrah"
+  }
+ ],
+ "fihr": [
+  {
+   "t": "Zhawahir Makkah (Quraisy azh-Zhawahir)",
+   "ar": "ظواهر مكة",
+   "kind": "daerah",
+   "note": "Muharib dan al-Harits, dua putra Fihr, termasuk Quraisy azh-Zhawahir (pinggiran Makkah)",
+   "src": [
+    "Mu'jam ma Ista'jam 1/89"
+   ],
+   "lat": 21.4225,
+   "lon": 39.8261,
+   "precision": "perkiraan",
+   "near": "Makkah"
+  },
+  {
+   "t": "al-Abthah (Makkah)",
+   "ar": "الأبطح",
+   "kind": "lembah",
+   "note": "Kecuali rombongan Abu 'Ubaidah bin al-Jarrah dan rombongan Sahl dan Suhail putra al-Baidha' (Bani al-Harits bin Fihr) yang masuk ke al-Abthah bersama Qushay",
+   "src": [
+    "Mu'jam ma Ista'jam 1/89"
+   ],
+   "lat": 21.4416,
+   "lon": 39.837,
+   "precision": "tepat"
+  }
+ ],
+ "ghani": [
+  {
+   "t": "Imarrah",
+   "ar": "إمرة",
+   "kind": "mata air",
+   "note": "Salah satu mata air Ghani bin A'shur, persinggahan haji Bashrah; Hima Imarrah milik Ghani dan Asad, terdekat dari Hima Dhariyyah",
+   "src": [
+    "Mu'jam al-Buldan 1/253"
+   ],
+   "lat": 25.3866,
+   "lon": 43.3527,
+   "precision": "tepat"
+  },
+  {
+   "t": "al-Jathjathah",
+   "ar": "الجثجاثة",
+   "kind": "mata air",
+   "note": "Salah satu mata air Ghani, di sisi Hima Dhariyyah arah selatan, di timur Hima Dhariyyah",
+   "src": [
+    "Mu'jam al-Buldan 2/110"
+   ],
+   "lat": 24.7141,
+   "lon": 42.9437,
+   "precision": "perkiraan",
+   "near": "Dhariyyah"
+  },
+  {
+   "t": "Mina (Hima Dhariyyah)",
+   "ar": "منى",
+   "kind": "daerah",
+   "note": "Mina di diyar Ghani, dekat Thikhfah, di Hima Dhariyyah",
+   "src": [
+    "Shifat Jazirat al-'Arab, hlm. 175"
+   ],
+   "lat": 24.7141,
+   "lon": 42.9437,
+   "precision": "perkiraan",
+   "near": "Dhariyyah"
+  },
+  {
+   "t": "Tsahmad",
+   "ar": "ثهمد",
+   "kind": "gunung",
+   "note": "Gunung merah menyendiri di kawasan Hima, dikelilingi banyak abariq di diyar Ghani",
+   "src": [
+    "Mu'jam al-Buldan 2/89"
+   ]
+  },
+  {
+   "t": "Abatir",
+   "ar": "أباتر",
+   "kind": "lembah",
+   "note": "Lembah-lembah dan bukit-bukit di Najd di diyar Ghani",
+   "src": [
+    "Mu'jam al-Buldan 1/59"
+   ]
+  },
+  {
+   "t": "Wadi 'Aqil (bagian atas)",
+   "ar": "عاقل",
+   "kind": "lembah",
+   "note": "Lembah di Najd dari Hazir Adhakh; bagian atasnya milik Ghani, bawahnya milik Asad, Dhabbah, dan Aban bin Darim",
+   "src": [
+    "Mu'jam al-Buldan 4/68"
+   ]
+  },
+  {
+   "t": "Arainibah",
+   "ar": "أرينبة",
+   "kind": "mata air",
+   "note": "Mata air milik Ghani bin A'shur",
+   "src": [
+    "Mu'jam al-Buldan 1/167"
+   ]
+  },
+  {
+   "t": "Dzu Bihar",
+   "ar": "ذو بحار",
+   "kind": "mata air",
+   "note": "Mata air milik Ghani di timur an-Nir (ada pendapat lain: di Yaman)",
+   "src": [
+    "Mu'jam al-Buldan 1/341"
+   ]
+  },
+  {
+   "t": "al-Kufah (cabang Bahtsah)",
+   "ar": "الكوفة",
+   "kind": "kota",
+   "note": "Bani Bahtsah bin Ghanm dari Ghani berada di al-Jazirah dan al-Kufah",
+   "src": [
+    "Jamharat Ansab al-'Arab, hlm. 247"
+   ],
+   "lat": 32.03,
+   "lon": 44.4,
+   "precision": "tepat"
+  }
+ ],
+ "ghathafan": [
+  {
+   "t": "Hijaz",
+   "ar": "الحجاز",
+   "kind": "daerah",
+   "note": "Saat Islam datang, Ghathafan (bersama 'Abs, Fazarah, Asad dll.) telah menempati Hijaz",
+   "src": [
+    "Mu'jam ma Ista'jam 1/90"
+   ],
+   "lat": 23.5036,
+   "lon": 40.8597,
+   "precision": "tepat"
+  },
+  {
+   "t": "al-Abraq (ar-Rabadzah)",
+   "ar": "الأبرق",
+   "kind": "daerah",
+   "note": "Tsa'labah bin Sa'd, Murrah dan 'Abs berkumpul di al-Abraq dekat ar-Rabadzah saat Riddah; itu permukiman Bani Tsa'labah, lalu dijadikan hima oleh Abu Bakr",
+   "src": [
+    "Tarikh ath-Thabari 3/243",
+    "Tarikh ath-Thabari 3/248"
+   ],
+   "lat": 24.6319,
+   "lon": 41.2906,
+   "precision": "perkiraan",
+   "near": "ar-Rabadzah"
+  },
+  {
+   "t": "asy-Syarabbah",
+   "ar": "الشربة",
+   "kind": "daerah",
+   "note": "Kawasan antara Wadi ar-Rumah dan al-Jarib, membentang sampai dekat ar-Rabadzah; termasuk negeri Ghathafan, bagian Najd yang paling dingin",
+   "src": [
+    "Mu'jam al-Buldan 3/333"
+   ],
+   "lat": 24.6319,
+   "lon": 41.2906,
+   "precision": "perkiraan",
+   "near": "ar-Rabadzah"
+  },
+  {
+   "t": "Dzu Amarr",
+   "ar": "ذو أمر",
+   "kind": "daerah",
+   "note": "Tempat di Najd dari diyar Ghathafan, arah an-Nukhail; tujuan ghazwah Nabi ﷺ tahun 3 H",
+   "src": [
+    "Mu'jam al-Buldan 1/252"
+   ]
+  },
+  {
+   "t": "Harrat an-Nar",
+   "ar": "حرة النار",
+   "kind": "daerah",
+   "note": "Menurut Nashr: harrah antara Wadi al-Qura dan Taima' dari diyar Ghathafan; kini dihuni 'Anazah",
+   "src": [
+    "Mu'jam al-Buldan 2/248"
+   ]
+  },
+  {
+   "t": "Raml 'Alij",
+   "ar": "رمل عالج",
+   "kind": "daerah",
+   "note": "Penghuni terbanyak 'Alij adalah Thayyi' dan Ghathafan; Fazarah, Murrah dan Tsa'labah (anak Dzubyan) di tepi baratnya",
+   "src": [
+    "Mu'jam ma Ista'jam 3/914"
+   ]
+  },
+  {
+   "t": "Hazm Bani 'Uwal",
+   "ar": "حزم بني عوال",
+   "kind": "gunung",
+   "note": "Gunung di pinggiran Hijaz, di jalan menuju Madinah, milik Ghathafan",
+   "src": [
+    "Mu'jam al-Buldan 2/253"
+   ]
+  }
+ ],
+ "ghifar": [
+  {
+   "t": "Ghaiqah",
+   "ar": "غيقة",
+   "kind": "daerah",
+   "note": "Ghaiqah milik Bani Ghifar bin Mulail, antara Makkah dan Madinah; keluarga Khufaf bin Ima' tinggal di Ghaiqah dari negeri Ghifar",
+   "src": [
+    "Mu'jam ma Ista'jam 3/737",
+    "Usdul Ghabah 2/178"
+   ]
+  },
+  {
+   "t": "Adznab ash-Shafra'",
+   "ar": "أذناب الصفراء",
+   "kind": "mata air",
+   "note": "al-Bughaibighah, Ghaiqah dan Adznab ash-Shafra' dahulu adalah mata air milik Bani Ghifar dari Bani Dhamrah",
+   "src": [
+    "Mu'jam ma Ista'jam 2/659"
+   ],
+   "lat": 24.0128,
+   "lon": 38.9228,
+   "precision": "perkiraan",
+   "near": "Wadi ash-Shafra'"
+  },
+  {
+   "t": "Bu'al (dekat 'Usfan)",
+   "ar": "بعال",
+   "kind": "lembah",
+   "note": "Tanah/syi'b milik Bani Ghifar dekat 'Usfan, bersambung dengan Ghaiqah",
+   "src": [
+    "Mu'jam al-Buldan 1/452"
+   ],
+   "lat": 21.9224,
+   "lon": 39.3536,
+   "precision": "perkiraan",
+   "near": "'Usfan"
+  },
+  {
+   "t": "Adha'at Bani Ghifar",
+   "ar": "أضاءة بني غفار",
+   "kind": "mata air",
+   "note": "Kolam air dekat Makkah, di atas Sarif dekat at-Tanadhub; disebut dalam kisah hijrah 'Umar",
+   "src": [
+    "Mu'jam al-Buldan 1/214",
+    "Mu'jam al-Buldan 2/47"
+   ],
+   "lat": 21.4225,
+   "lon": 39.8261,
+   "precision": "perkiraan",
+   "near": "Makkah"
+  },
+  {
+   "t": "'Ain al-Ghifariyyin (an-Najh)",
+   "ar": "عين الغفاريين",
+   "kind": "mata air",
+   "note": "Mata air orang-orang Ghifar bernama an-Najh, di sebelah kiri al-Jar (pelabuhan Madinah)",
+   "src": [
+    "Mu'jam al-Buldan 1/444"
+   ],
+   "lat": 23.6508,
+   "lon": 38.5194,
+   "precision": "perkiraan",
+   "near": "al-Jar"
+  },
+  {
+   "t": "Syadakh",
+   "ar": "شدخ",
+   "kind": "daerah",
+   "note": "Salah satu permukiman Ghifar dan Aslam di Hijaz",
+   "src": [
+    "Mu'jam al-Buldan 3/328"
+   ]
+  },
+  {
+   "t": "Bi'r Rumah (Madinah)",
+   "ar": "بئر رومة",
+   "kind": "mata air",
+   "note": "Sumur milik seorang dari Bani Ghifar di Madinah yang menjual airnya; lalu dibeli 'Utsman untuk kaum Muslimin",
+   "src": [
+    "Mu'jam al-Buldan 1/299"
+   ],
+   "lat": 24.4929,
+   "lon": 39.5775,
+   "precision": "tepat"
+  },
+  {
+   "t": "ar-Rabadzah",
+   "ar": "الربذة",
+   "kind": "desa",
+   "note": "Desa Madinah di jalan Hijaz; Abu Dzar al-Ghifari pindah ke sana dan wafat serta dikubur di sana tahun 32 H",
+   "src": [
+    "Mu'jam al-Buldan 3/24"
+   ],
+   "lat": 24.6319,
+   "lon": 41.2906,
+   "precision": "tepat"
+  }
+ ],
+ "habasyah": [
+  {
+   "t": "Ardh al-Habasyah (Kerajaan Aksum)",
+   "ar": "أرض الحبشة",
+   "kind": "daerah",
+   "note": "Negeri tujuan hijrah pertama; Nabi ﷺ menyebut di sana ada raja yang tidak menzalimi siapa pun",
+   "src": [
+    "Sirah Ibnu Hisyam 1/321"
+   ],
+   "lat": 14.1284,
+   "lon": 38.7173,
+   "precision": "tepat"
+  },
+  {
+   "t": "Jarma (kota raja Habasyah)",
+   "ar": "جرمى",
+   "kind": "kota",
+   "note": "Disebut sebagai kota penguasa Habasyah",
+   "src": [
+    "Mu'jam al-Buldan 1/29"
+   ]
+  },
+  {
+   "t": "Raba'at",
+   "ar": "ربعات",
+   "kind": "kota",
+   "note": "Kota terbesar Habasyah; Habasyah menyerang pada masa Umar dan dikirim 'Alqamah bin Mujazziz (tahun 20 H)",
+   "src": [
+    "Mu'jam ma Ista'jam 2/632"
+   ]
+  },
+  {
+   "t": "Zaila'",
+   "ar": "زيلع",
+   "kind": "kota",
+   "note": "Desa di pesisir laut di arah negeri Habasyah; kaum Zaila' di ujung tanah Habasyah, Muslim",
+   "src": [
+    "Mu'jam al-Buldan 3/164"
+   ],
+   "lat": 11.3539,
+   "lon": 43.4739,
+   "precision": "tepat"
+  },
+  {
+   "t": "Dumqulah/Dunqulah (Nubia)",
+   "ar": "دمقلة",
+   "kind": "kota",
+   "note": "Kota Nubia, kediaman raja di tepi Nil; 40 malam perjalanan ke Aswan",
+   "src": [
+    "Mu'jam al-Buldan 5/309"
+   ],
+   "lat": 18.2231,
+   "lon": 30.7439,
+   "precision": "tepat"
+  },
+  {
+   "t": "Shan'a (al-Qullais Abrahah)",
+   "ar": "صنعاء",
+   "kind": "kota",
+   "note": "Masa kekuasaan Habasyah di Yaman: Abrahah membangun gereja al-Qullais di Shan'a",
+   "src": [
+    "Sirah Ibnu Hisyam 1/43"
+   ],
+   "lat": 15.35,
+   "lon": 44.2,
+   "precision": "tepat"
+  }
+ ],
+ "hamdan": [
+  {
+   "t": "Bilad Hamdan (utara Shan'a)",
+   "ar": "بلد همدان",
+   "kind": "daerah",
+   "note": "Negeri Hamdan di dataran tinggi (Najd dan as-Sarah) antara al-Gha'ith dan Tihamah, di utara Shan'a hingga Sha'dah; timurnya milik Bakil, baratnya milik Hasyid",
+   "src": [
+    "Shifat Jazirat al-'Arab, hlm. 109"
+   ]
+  },
+  {
+   "t": "Khaiwan",
+   "ar": "خيوان",
+   "kind": "kota",
+   "note": "Kurah (distrik) terbesar Hasyid dari Hamdan",
+   "src": [
+    "Shifat Jazirat al-'Arab, hlm. 112"
+   ],
+   "lat": 16.2798,
+   "lon": 44.0659,
+   "precision": "tepat"
+  },
+  {
+   "t": "Hajjah",
+   "ar": "حجة",
+   "kind": "kota",
+   "note": "Hajjah dan Mautak milik Hasyid (Hamdan), banyak penduduknya",
+   "src": [
+    "Shifat Jazirat al-'Arab, hlm. 113"
+   ],
+   "lat": 15.695,
+   "lon": 43.5975,
+   "precision": "tepat"
+  },
+  {
+   "t": "Na'ith",
+   "ar": "ناعط",
+   "kind": "benteng",
+   "note": "Istana di atas dua gunung di Yaman milik Hamdan (Yaqut juga mencatat Na'ith sebagai benteng kuno dekat 'Adan)",
+   "src": [
+    "Mu'jam al-Buldan 5/253"
+   ],
+   "lat": 15.7806,
+   "lon": 44.1297,
+   "precision": "tepat"
+  },
+  {
+   "t": "Jabbanat as-Sabi' (Kufah)",
+   "ar": "جبانة السبيع",
+   "kind": "distrik",
+   "note": "Lapangan di Kufah yang dinisbahkan kepada anak-cucu as-Sabi' bin Sab' bin Sha'b al-Hamdani",
+   "src": [
+    "Futuh al-Buldan, hlm. 276"
+   ],
+   "lat": 32.03,
+   "lon": 44.4,
+   "precision": "perkiraan",
+   "near": "Kufah"
+  },
+  {
+   "t": "al-Mayanij dan Khalbatsa (Adzarbaijan)",
+   "ar": "الميانج",
+   "kind": "kota",
+   "note": "Permukiman orang Hamdan di Adzarbaijan; 'Abdullah bin Ja'far al-Hamdani menjadikan kawasannya di al-Mayanij kota bermimbar",
+   "src": [
+    "Futuh al-Buldan, hlm. 322"
+   ],
+   "lat": 37.4284,
+   "lon": 47.7058,
+   "precision": "tepat"
+  }
+ ],
+ "hasyim": [
+  {
+   "t": "Syi'b Abi Thalib (Makkah)",
+   "ar": "شعب أبي طالب",
+   "kind": "lembah",
+   "note": "Saat boikot Quraisy, Bani Hasyim dan Bani al-Muththalib berkumpul kepada Abu Thalib dan masuk ke syi'bnya",
+   "src": [
+    "Sirah Ibnu Hisyam 1/351"
+   ],
+   "lat": 21.4225,
+   "lon": 39.8261,
+   "precision": "perkiraan",
+   "near": "Makkah"
+  },
+  {
+   "t": "Zamzam",
+   "ar": "زمزم",
+   "kind": "mata air",
+   "note": "Digali kembali oleh 'Abdul Muththalib, yang lalu menegakkan siqayah Zamzam bagi jamaah haji",
+   "src": [
+    "Mu'jam al-Buldan 3/149"
+   ],
+   "lat": 21.4226,
+   "lon": 39.8265,
+   "precision": "tepat"
+  },
+  {
+   "t": "Sumur Bidzar (Makkah)",
+   "ar": "بذر",
+   "kind": "mata air",
+   "note": "Sumur yang digali Hasyim bin 'Abd Manaf di ujung Jabal al-Khandamah, di mulut Syi'b Abi Thalib",
+   "src": [
+    "Mu'jam al-Buldan 1/361"
+   ],
+   "lat": 21.4225,
+   "lon": 39.8261,
+   "precision": "perkiraan",
+   "near": "Makkah"
+  },
+  {
+   "t": "Ghazzah (Ghazzah Hasyim)",
+   "ar": "غزة",
+   "kind": "kota",
+   "note": "Hasyim bin 'Abd Manaf wafat dan dikubur di Ghazzah, karena itu disebut Ghazzah Hasyim",
+   "src": [
+    "Mu'jam al-Buldan 4/202"
+   ],
+   "lat": 31.5075,
+   "lon": 34.4597,
+   "precision": "tepat"
+  },
+  {
+   "t": "al-Ma'mal (Wadi Bisyah)",
+   "ar": "المعمل",
+   "kind": "desa",
+   "note": "Desa dari wilayah Makkah; milik Bani Hasyim di Wadi Bisyah",
+   "src": [
+    "Mu'jam al-Buldan 5/158"
+   ],
+   "lat": 20.0,
+   "lon": 42.6,
+   "precision": "perkiraan",
+   "near": "Bisyah"
+  },
+  {
+   "t": "al-Hasyimiyyah (dekat Kufah)",
+   "ar": "الهاشمية",
+   "kind": "kota",
+   "note": "Kota yang dibangun as-Saffah di Kufah dan dinamai al-Hasyimiyyah; lalu ditempati al-Manshur sebelum membangun Baghdad",
+   "src": [
+    "Mu'jam al-Buldan 5/389"
+   ],
+   "lat": 32.03,
+   "lon": 44.4,
+   "precision": "perkiraan",
+   "near": "Kufah"
+  }
+ ],
+ "hawazin": [
+  {
+   "t": "Authas",
+   "ar": "أوطاس",
+   "kind": "lembah",
+   "note": "Lembah di diyar Hawazin; di sana terjadi peristiwa Hunain antara Nabi ﷺ dan Bani Hawazin; Authas terletak tepat di jalan (dari Dzat 'Irq)",
+   "src": [
+    "Mu'jam al-Buldan 1/281"
+   ],
+   "lat": 22.0566,
+   "lon": 40.6153,
+   "precision": "tepat"
+  },
+  {
+   "t": "Hunain",
+   "ar": "حنين",
+   "kind": "mata air",
+   "note": "Mata air milik Hawazin; Hawazin dan Tsaqif berkemah di Authas lalu bertemu kaum Muslimin di Hunain",
+   "src": [
+    "Mu'jam ma Ista'jam 1/212"
+   ],
+   "lat": 21.5142,
+   "lon": 40.0752,
+   "precision": "tepat"
+  },
+  {
+   "t": "'Ukazh dan al-'Abr",
+   "ar": "عكاظ",
+   "kind": "pasar",
+   "note": "Sisi Najd dari as-Sarah Tha'if adalah diyar Hawazin, dari 'Ukazh sampai al-'Abr; di 'Ukazh ada berhala Hawazin bernama Jihar",
+   "src": [
+    "Shifat Jazirat al-'Arab, hlm. 71",
+    "Mu'jam al-Buldan 2/193"
+   ],
+   "lat": 21.4738,
+   "lon": 40.6461,
+   "precision": "tepat"
+  },
+  {
+   "t": "Wadi Liyyah",
+   "ar": "لية",
+   "kind": "lembah",
+   "note": "Lembah di sebelah timur Tha'if, dihuni Bani Nashr dari Hawazin",
+   "src": [
+    "Shifat Jazirat al-'Arab, hlm. 121"
+   ],
+   "lat": 21.2779,
+   "lon": 40.5507,
+   "precision": "tepat"
+  },
+  {
+   "t": "Jaldzan",
+   "ar": "جلذان",
+   "kind": "daerah",
+   "note": "Tempat dekat Tha'if antara Liyyah dan Sabal, dihuni Bani Nashr bin Mu'awiyah dari Hawazin",
+   "src": [
+    "Mu'jam al-Buldan 2/151"
+   ],
+   "lat": 21.2667,
+   "lon": 40.4167,
+   "precision": "perkiraan",
+   "near": "ath-Tha'if"
+  },
+  {
+   "t": "Lafluf dan al-Mudhayyih",
+   "ar": "المضيح",
+   "kind": "gunung",
+   "note": "Dua gunung di negeri Hawazin; menurut pendapat lain al-Mudhayyih bukit dan mata air di barat Hima Dhariyyah di diyar Hawazin",
+   "src": [
+    "Mu'jam al-Buldan 5/146"
+   ],
+   "lat": 24.4158,
+   "lon": 42.1819,
+   "precision": "tepat"
+  }
+ ],
+ "himyar": [
+  {
+   "t": "Zhafar (dekat Shan'a)",
+   "ar": "ظفار",
+   "kind": "kota",
+   "note": "Kota di Yaman dekat Shan'a, tempat kediaman raja-raja Himyar",
+   "src": [
+    "Mu'jam al-Buldan 4/60"
+   ],
+   "lat": 14.2139,
+   "lon": 44.4029,
+   "precision": "tepat"
+  },
+  {
+   "t": "Himyar (barat Shan'a)",
+   "ar": "حمير",
+   "kind": "daerah",
+   "note": "Permukiman Himyar bin al-Ghauth di Yaman, di tempat bernama Himyar di sebelah barat Shan'a",
+   "src": [
+    "Mu'jam al-Buldan 2/307"
+   ],
+   "lat": 15.35,
+   "lon": 44.2,
+   "precision": "perkiraan",
+   "near": "Shan'a"
+  },
+  {
+   "t": "Hishn al-Midhmar",
+   "ar": "المضمار",
+   "kind": "benteng",
+   "note": "Benteng Himyar di Yaman, satu setengah mil dari Shan'a",
+   "src": [
+    "Mu'jam al-Buldan 5/146"
+   ],
+   "lat": 15.35,
+   "lon": 44.2,
+   "precision": "perkiraan",
+   "near": "Shan'a"
+  },
+  {
+   "t": "Dzamar",
+   "ar": "ذمار",
+   "kind": "kota",
+   "note": "Kota yang penduduknya dari Himyar, ditambah sejumlah orang al-Abna'",
+   "src": [
+    "Shifat Jazirat al-'Arab, hlm. 55"
+   ],
+   "lat": 14.55,
+   "lon": 44.4017,
+   "precision": "tepat"
+  },
+  {
+   "t": "Haql Jahran",
+   "ar": "جهران",
+   "kind": "daerah",
+   "note": "Dataran di utara Dzamar; penduduk Jahran dari Himyar",
+   "src": [
+    "Shifat Jazirat al-'Arab, hlm. 104"
+   ],
+   "lat": 14.7331,
+   "lon": 44.3142,
+   "precision": "tepat"
+  },
+  {
+   "t": "Rada'",
+   "ar": "رداع",
+   "kind": "kota",
+   "note": "Kota yang dihuni campuran Himyar (al-Aswadiyyun), Khaulan dan lainnya",
+   "src": [
+    "Shifat Jazirat al-'Arab, hlm. 55"
+   ],
+   "lat": 14.4158,
+   "lon": 44.8422,
+   "precision": "tepat"
+  },
+  {
+   "t": "Jaisyan",
+   "ar": "جيشان",
+   "kind": "kota",
+   "note": "Kota yang dihuni campuran Himyar: Ru'aini, Rada'i, Sharari dan lainnya",
+   "src": [
+    "Shifat Jazirat al-'Arab, hlm. 54"
+   ]
+  },
+  {
+   "t": "Jaba' (al-Ma'afir)",
+   "ar": "جبأ",
+   "kind": "kota",
+   "note": "Kota al-Ma'afir, milik Al al-Karandi dari Bani Tsumamah, keturunan Himyar al-Ashghar",
+   "src": [
+    "Shifat Jazirat al-'Arab, hlm. 54"
+   ]
+  }
+ ],
+ "hudzail": [
+  {
+   "t": "ar-Raji'",
+   "ar": "الرجيع",
+   "kind": "mata air",
+   "note": "Mata air milik Hudzail di arah Hijaz, di hulu al-Had'ah antara Makkah dan Thaif; tempat pengkhianatan terhadap tujuh utusan Nabi ﷺ",
+   "src": [
+    "Sirah Ibnu Hisyam 2/170",
+    "Mu'jam al-Buldan 3/29"
+   ]
+  },
+  {
+   "t": "al-Jauz (pegunungan as-Sarat dekat Thaif)",
+   "ar": "الجوز",
+   "kind": "gunung",
+   "note": "Pegunungan as-Sarat yang dekat Thaif adalah negeri Hudzail, disebut al-Jauz",
+   "src": [
+    "Mu'jam al-Buldan 2/183"
+   ],
+   "lat": 21.2667,
+   "lon": 40.4167,
+   "precision": "perkiraan",
+   "near": "ath-Tha'if"
+  },
+  {
+   "t": "Jabal Kabkab",
+   "ar": "كبكب",
+   "kind": "gunung",
+   "note": "Gunung milik Hudzail yang menghadap mauqif 'Arafah",
+   "src": [
+    "Mu'jam al-Buldan 4/434"
+   ],
+   "lat": 21.4183,
+   "lon": 40.1128,
+   "precision": "tepat"
+  },
+  {
+   "t": "Saulah (Wadi Nakhlah)",
+   "ar": "سولة",
+   "kind": "benteng",
+   "note": "Benteng di atas bukit di Wadi Nakhlah, ada mata air dan kebun kurma; milik Bani Mas'ud, cabang Hudzail",
+   "src": [
+    "Mu'jam al-Buldan 3/285"
+   ]
+  },
+  {
+   "t": "al-Huqab (Nu'man)",
+   "ar": "الحقاب",
+   "kind": "daerah",
+   "note": "Tempat di Nu'man, termasuk manazil Bani Hudzail",
+   "src": [
+    "Mu'jam al-Buldan 2/278"
+   ]
+  },
+  {
+   "t": "Wadi Rahath",
+   "ar": "رهاط",
+   "kind": "lembah",
+   "note": "Tiga malam dari Makkah; sebagian mengatakan Wadi Rahath di negeri Hudzail",
+   "src": [
+    "Mu'jam al-Buldan 3/107"
+   ],
+   "lat": 22.0868,
+   "lon": 40.0187,
+   "precision": "tepat"
+  },
+  {
+   "t": "Jabal Syamanshir",
+   "ar": "شمنصير",
+   "kind": "gunung",
+   "note": "Gunung di negeri Hudzail",
+   "src": [
+    "Mu'jam al-Buldan 3/364"
+   ],
+   "lat": 22.3277,
+   "lon": 39.96,
+   "precision": "tepat"
+  },
+  {
+   "t": "Wadi adh-Dhajn",
+   "ar": "الضجن",
+   "kind": "lembah",
+   "note": "Lembah di negeri Hudzail di Tihamah; bagian hilirnya milik Kinanah",
+   "src": [
+    "Mu'jam al-Buldan 3/453"
+   ]
+  },
+  {
+   "t": "Gharan (Bani Lihyan)",
+   "ar": "غران",
+   "kind": "lembah",
+   "note": "Manazil Bani Lihyan (Hudzail), lembah antara Amaj dan 'Usfan; mereka berlindung di puncak gunung saat diserang",
+   "src": [
+    "Sirah Ibnu Hisyam 2/280"
+   ],
+   "lat": 22.0129,
+   "lon": 39.3899,
+   "precision": "tepat"
+  }
+ ],
+ "juhainah": [
+  {
+   "t": "Jabal Radhwa",
+   "ar": "رضوى",
+   "kind": "gunung",
+   "note": "Gunung dekat Yanbu' milik Juhainah, antara Yanbu' dan al-Haura'; banyak syi'b, mata air dan pepohonan",
+   "src": [
+    "Mu'jam al-Buldan 3/51"
+   ],
+   "lat": 24.524,
+   "lon": 38.36,
+   "precision": "tepat"
+  },
+  {
+   "t": "Jabal al-Asy'ar",
+   "ar": "الأشعر",
+   "kind": "gunung",
+   "note": "Gunung Juhainah yang menurun ke arah Yanbu'; al-Asy'ar dan al-Ajrad dua gunung Juhainah antara Madinah dan Syam",
+   "src": [
+    "Mu'jam al-Buldan 1/198"
+   ],
+   "lat": 24.0646,
+   "lon": 39.2769,
+   "precision": "tepat"
+  },
+  {
+   "t": "Pegunungan Juhainah (al-Asy'ar, al-Ajrad, Qudsh, Arah, Radhwa, Shandad)",
+   "ar": "جبال جهينة",
+   "kind": "daerah",
+   "note": "Kabilah-kabilah Juhainah (sekitar dua puluh bathn) tersebar di gunung-gunung ini beserta lembah dan syi'bnya; lalu turun ke Bathn Idham",
+   "src": [
+    "Mu'jam ma Ista'jam 1/37"
+   ]
+  },
+  {
+   "t": "Qudsh dan Arah",
+   "ar": "قدس وآرة",
+   "kind": "gunung",
+   "note": "Dua gunung milik Juhainah antara Harrah Bani Sulaim dan Madinah",
+   "src": [
+    "Mu'jam ma Ista'jam 1/91"
+   ]
+  },
+  {
+   "t": "Buwath",
+   "ar": "بواط",
+   "kind": "gunung",
+   "note": "Gunung dari gunung-gunung Juhainah di arah Radhwa; Nabi ﷺ berangkat ke sana tahun 2 H mencari Quraisy",
+   "src": [
+    "Mu'jam al-Buldan 1/503"
+   ],
+   "lat": 24.6725,
+   "lon": 38.9967,
+   "precision": "perkiraan",
+   "near": "Badiyah Buwath"
+  },
+  {
+   "t": "Yanbu' (Yanbu' an-Nakhl)",
+   "ar": "ينبع",
+   "kind": "desa",
+   "note": "Desa subur bermata air dan bermimbar, satu malam dari Radhwa; dihuni Anshar, Juhainah dan Laits",
+   "src": [
+    "Mu'jam al-Buldan 5/450"
+   ],
+   "lat": 24.3217,
+   "lon": 38.415,
+   "precision": "tepat"
+  },
+  {
+   "t": "ash-Shafra'",
+   "ar": "الصفراء",
+   "kind": "desa",
+   "note": "Desa banyak kurma dan mata air di atas Yanbu' ke arah Madinah; milik Juhainah, Anshar, Bani Fihr dan Nahd",
+   "src": [
+    "Mu'jam al-Buldan 3/412"
+   ],
+   "lat": 23.8536,
+   "lon": 38.9001,
+   "precision": "tepat"
+  },
+  {
+   "t": "Wadi Idham",
+   "ar": "إضم",
+   "kind": "lembah",
+   "note": "Wadi yang membelah Hijaz hingga ke laut; disebut wadi milik Asyja' dan Juhainah",
+   "src": [
+    "Mu'jam al-Buldan 1/215"
+   ]
+  },
+  {
+   "t": "Dzu al-Marwah",
+   "ar": "ذو المروة",
+   "kind": "daerah",
+   "note": "Sebagian Juhainah turun di Dzu al-Marwah dan sekitarnya hingga Faif; kemudian Asyja' dan Muzainah menjadi tetangga mereka",
+   "src": [
+    "Mu'jam ma Ista'jam 1/38"
+   ]
+  },
+  {
+   "t": "al-'Ish (pesisir)",
+   "ar": "العيص",
+   "kind": "daerah",
+   "note": "Pesisir laut di arah al-'Ish termasuk tanah Juhainah; tujuan sariyyah Hamzah bin 'Abdul Muththalib",
+   "src": [
+    "Tarikh ath-Thabari 2/404"
+   ],
+   "lat": 25.06,
+   "lon": 38.1081,
+   "precision": "perkiraan",
+   "near": "al-'Ish"
+  },
+  {
+   "t": "Khiththah di Mesir (al-Fusthath)",
+   "ar": "خطة بأرض مصر",
+   "kind": "distrik",
+   "note": "Juhainah termasuk kabilah yang menyertai 'Amr bin al-'Ash; tiap kabilah membuat khiththah di tanah Mesir",
+   "src": [
+    "Mu'jam al-Buldan 3/22"
+   ],
+   "lat": 30.005,
+   "lon": 31.2375,
+   "precision": "perkiraan",
+   "near": "al-Fusthath"
+  }
+ ],
+ "jumah": [
+  {
+   "t": "Bathha' Makkah",
+   "ar": "بطحاء مكة",
+   "kind": "lembah",
+   "note": "Bani Jumah termasuk Quraisy al-Bithah, yang mendiami Bathha' Makkah",
+   "src": [
+    "Mu'jam ma Ista'jam 1/257"
+   ],
+   "lat": 21.4225,
+   "lon": 39.8261,
+   "precision": "perkiraan",
+   "near": "Makkah"
+  },
+  {
+   "t": "al-Masfalah (Makkah)",
+   "ar": "المسفلة",
+   "kind": "distrik",
+   "note": "Saat Qushay membagi Makkah kepada Quraisy, Bani Jumah mendapat al-Masfalah; Bani 'Adi di bawah ats-Tsaniyyah, antara Bani Jumah dan Bani Sahm",
+   "src": [
+    "Mu'jam ma Ista'jam 1/258"
+   ],
+   "lat": 21.405,
+   "lon": 39.8223,
+   "precision": "tepat"
+  },
+  {
+   "t": "Radm Bani Jumah (Makkah)",
+   "ar": "ردم بني جمح",
+   "kind": "distrik",
+   "note": "Tempat di Makkah; dinamai demikian karena perang Bani Jumah dengan Bani Muharib bin Fihr di sana, banyak korban Bani Jumah tertimbun",
+   "src": [
+    "Mu'jam al-Buldan 3/40",
+    "Mu'jam ma Ista'jam 2/649"
+   ],
+   "lat": 21.4225,
+   "lon": 39.8261,
+   "precision": "perkiraan",
+   "near": "Makkah"
+  },
+  {
+   "t": "Sumur as-Sunbulah (Makkah)",
+   "ar": "سنبلة",
+   "kind": "mata air",
+   "note": "Sumur yang digali Bani Jumah di Makkah, yaitu sumur Khalaf bin Wahb",
+   "src": [
+    "Mu'jam al-Buldan 3/261"
+   ],
+   "lat": 21.4225,
+   "lon": 39.8261,
+   "precision": "perkiraan",
+   "near": "Makkah"
+  },
+  {
+   "t": "Dar Bani Jumah (Mesir)",
+   "ar": "دار بني جمح",
+   "kind": "distrik",
+   "note": "Wahb bin 'Umair al-Jumahi ikut fath Mesir; 'Amr bin al-'Ash membuat khiththah untuknya di sampingnya, di bekas kolam, lalu menjadi Dar Bani Jumah",
+   "src": [
+    "al-Ishabah 6/491",
+    "al-Ishabah 6/492"
+   ],
+   "lat": 30.005,
+   "lon": 31.2375,
+   "precision": "perkiraan",
+   "near": "al-Fusthath"
+  }
+ ],
+ "kalb": [
+  {
+   "t": "Dumat al-Jandal",
+   "ar": "دومة الجندل",
+   "kind": "benteng",
+   "note": "Benteng dan desa-desa antara Syam dan Madinah dekat dua gunung Thayyi'; dihuni Bani Kinanah dari Kalb",
+   "src": [
+    "Mu'jam al-Buldan 2/487"
+   ],
+   "lat": 29.8114,
+   "lon": 39.8683,
+   "precision": "tepat"
+  },
+  {
+   "t": "as-Samawah",
+   "ar": "السماوة",
+   "kind": "daerah",
+   "note": "Padang luas antara Kufah dan Syam, termasuk tanah Kalb; tak ada kabilah lain yang bercampur dengan Kalb di sana",
+   "src": [
+    "Mu'jam ma Ista'jam 3/754",
+    "Shifat Jazirat al-'Arab, hlm. 132"
+   ]
+  },
+  {
+   "t": "Tadmur (Palmyra)",
+   "ar": "تدمر",
+   "kind": "kota",
+   "note": "Termasuk desa/kota yang berada di diyar Kalb, di tepi as-Samawah",
+   "src": [
+    "Shifat Jazirat al-'Arab, hlm. 132"
+   ],
+   "lat": 34.56,
+   "lon": 38.2672,
+   "precision": "tepat"
+  },
+  {
+   "t": "Salamiyah",
+   "ar": "سلمية",
+   "kind": "kota",
+   "note": "Termasuk desa/kota yang berada di diyar Kalb",
+   "src": [
+    "Shifat Jazirat al-'Arab, hlm. 132"
+   ],
+   "lat": 35.0111,
+   "lon": 37.0531,
+   "precision": "tepat"
+  },
+  {
+   "t": "Hims",
+   "ar": "حمص",
+   "kind": "kota",
+   "note": "Disebut di antara kota di diyar Kalb (Hims sendiri disebut Himyariyah)",
+   "src": [
+    "Shifat Jazirat al-'Arab, hlm. 132"
+   ],
+   "lat": 34.7333,
+   "lon": 36.7167,
+   "precision": "tepat"
+  },
+  {
+   "t": "Hamah",
+   "ar": "حماه",
+   "kind": "kota",
+   "note": "Milik Kinanah dari Kalb, bersama Syaizar dan Kafr Thab",
+   "src": [
+    "Shifat Jazirat al-'Arab, hlm. 132"
+   ],
+   "lat": 35.135,
+   "lon": 36.75,
+   "precision": "tepat"
+  },
+  {
+   "t": "Syaizar",
+   "ar": "شيزر",
+   "kind": "kota",
+   "note": "Milik Kinanah dari Kalb, bersama Hamah dan Kafr Thab",
+   "src": [
+    "Shifat Jazirat al-'Arab, hlm. 132"
+   ],
+   "lat": 35.2678,
+   "lon": 36.5667,
+   "precision": "tepat"
+  },
+  {
+   "t": "Manbij",
+   "ar": "منبج",
+   "kind": "kota",
+   "note": "Kota Kinanah-Kalb di arah as-Samawah dan Furat; dimiliki bersama Bani Kilab",
+   "src": [
+    "Shifat Jazirat al-'Arab, hlm. 132"
+   ],
+   "lat": 36.5333,
+   "lon": 37.95,
+   "precision": "tepat"
+  },
+  {
+   "t": "Khabt",
+   "ar": "خبت",
+   "kind": "mata air",
+   "note": "Mata air/daerah di diyar Kalb (syair Burj bin Mushir: antara Khabt dan al-Masah)",
+   "src": [
+    "Mu'jam ma Ista'jam 2/486"
+   ]
+  },
+  {
+   "t": "Raml 'Alij",
+   "ar": "عالج",
+   "kind": "daerah",
+   "note": "Gurun pasir 'Alij, di diyar Kalb",
+   "src": [
+    "Mu'jam ma Ista'jam 3/913"
+   ]
+  },
+  {
+   "t": "Quraqir",
+   "ar": "قراقر",
+   "kind": "daerah",
+   "note": "Tempat di diyar Kalb",
+   "src": [
+    "Mu'jam ma Ista'jam 3/1057"
+   ],
+   "lat": 31.2629,
+   "lon": 37.7709,
+   "precision": "tepat"
+  }
+ ],
+ "khatsam": [
+  {
+   "t": "Tabalah",
+   "ar": "تبالة",
+   "kind": "kota",
+   "note": "Diyar Khats'am: Turabah, Bisyah dan punggung Tabalah",
+   "src": [
+    "Mu'jam ma Ista'jam 1/90"
+   ],
+   "lat": 19.9978,
+   "lon": 42.2297,
+   "precision": "tepat"
+  },
+  {
+   "t": "Bisyah",
+   "ar": "بيشة",
+   "kind": "lembah",
+   "note": "Khats'am turun antara Bisyah dan Turabah serta sekitarnya hingga datangnya Islam",
+   "src": [
+    "Mu'jam ma Ista'jam 1/63"
+   ],
+   "lat": 20.0,
+   "lon": 42.6,
+   "precision": "tepat"
+  },
+  {
+   "t": "Wadi Turabah",
+   "ar": "تربة",
+   "kind": "lembah",
+   "note": "Wadi di Hijaz; bagian bawah milik Hilal, adh-Dhibab dan Salul, bagian atas milik Khats'am",
+   "src": [
+    "Mu'jam ma Ista'jam 4/1156"
+   ],
+   "lat": 21.2142,
+   "lon": 41.6331,
+   "precision": "tepat"
+  },
+  {
+   "t": "Turj",
+   "ar": "ترج",
+   "kind": "lembah",
+   "note": "Termasuk diyar Khats'am",
+   "src": [
+    "Mu'jam ma Ista'jam 1/293"
+   ],
+   "lat": 19.1934,
+   "lon": 42.3263,
+   "precision": "tepat"
+  },
+  {
+   "t": "al-'Abla' / al-'Ablat (Dzul Khalasah)",
+   "ar": "العبلاء",
+   "kind": "desa",
+   "note": "Negeri milik Khats'am di tanah Tabalah, tempat rumah berhala Dzul Khalasah",
+   "src": [
+    "Mu'jam al-Buldan 4/80"
+   ],
+   "lat": 20.1648,
+   "lon": 41.9169,
+   "precision": "tepat"
+  },
+  {
+   "t": "Ya'ra",
+   "ar": "يعرى",
+   "kind": "lembah",
+   "note": "Wadi milik Julaihah dari Khats'am, berkebun kurma dan bersumur",
+   "src": [
+    "Shifat Jazirat al-'Arab, hlm. 254"
+   ],
+   "lat": 18.6989,
+   "lon": 42.9827,
+   "precision": "tepat"
+  },
+  {
+   "t": "Tsaj",
+   "ar": "ثاج",
+   "kind": "mata air",
+   "note": "Mata air Bani al-Fuzu' dari Khats'am, salah satu mata air Bisyah",
+   "src": [
+    "Mu'jam ma Ista'jam 1/333"
+   ],
+   "lat": 20.0,
+   "lon": 42.6,
+   "precision": "perkiraan",
+   "near": "Bisyah"
+  },
+  {
+   "t": "Rasib",
+   "ar": "راسب",
+   "kind": "desa",
+   "note": "Desa milik Khats'am antara Makkah dan ath-Tha'if",
+   "src": [
+    "Mu'jam al-Buldan 3/13"
+   ],
+   "lat": 21.2667,
+   "lon": 40.4167,
+   "precision": "perkiraan",
+   "near": "ath-Tha'if"
+  },
+  {
+   "t": "Da'anim",
+   "ar": "دعانيم",
+   "kind": "mata air",
+   "note": "Mata air Bani al-Hulais dari Khats'am, tetangga Bani Salul di Hijaz",
+   "src": [
+    "Mu'jam al-Buldan 2/457"
+   ]
+  },
+  {
+   "t": "al-Maraghah",
+   "ar": "المراغة",
+   "kind": "daerah",
+   "note": "Termasuk negeri Khats'am bersama Bisyah, Turj dan Tabalah",
+   "src": [
+    "Shifat Jazirat al-'Arab, hlm. 119"
+   ]
+  }
+ ],
+ "khazraj": [
+  {
+   "t": "Yatsrib (al-Madinah)",
+   "ar": "يثرب",
+   "kind": "kota",
+   "note": "Yatsrib yang memilih dan menempatinya adalah Anshar, yaitu Aus dan Khazraj",
+   "src": [
+    "Mu'jam al-Buldan 5/85"
+   ],
+   "lat": 24.47,
+   "lon": 39.61,
+   "precision": "tepat"
+  },
+  {
+   "t": "as-Sunh",
+   "ar": "السنح",
+   "kind": "distrik",
+   "note": "Permukiman Bani al-Harits bin al-Khazraj di 'Awali Madinah, satu mil dari rumah Nabi ﷺ; tempat tinggal Abu Bakr",
+   "src": [
+    "Mu'jam al-Buldan 3/265"
+   ],
+   "lat": 24.47,
+   "lon": 39.61,
+   "precision": "perkiraan",
+   "near": "al-Madinah"
+  },
+  {
+   "t": "Budha'ah (sumur Bani Sa'idah)",
+   "ar": "بضاعة",
+   "kind": "mata air",
+   "note": "Dar Bani Sa'idah di Madinah dengan sumurnya yang terkenal",
+   "src": [
+    "Mu'jam al-Buldan 1/442"
+   ],
+   "lat": 24.4724,
+   "lon": 39.608,
+   "precision": "tepat"
+  },
+  {
+   "t": "Saqifah Bani Sa'idah",
+   "ar": "سقيفة بني ساعدة",
+   "kind": "distrik",
+   "note": "Naungan tempat Bani Sa'idah (cabang Khazraj) duduk di Madinah; tempat bai'at Abu Bakr",
+   "src": [
+    "Mu'jam al-Buldan 3/228",
+    "Mu'jam al-Buldan 3/229"
+   ],
+   "lat": 24.4702,
+   "lon": 39.6068,
+   "precision": "tepat"
+  },
+  {
+   "t": "Khazba (Dar Bani Salimah)",
+   "ar": "خزبى",
+   "kind": "distrik",
+   "note": "Tempat di depan Masjid al-Qiblatain, di kaki harrah; dar Bani Salimah dari Anshar, dinamai Nabi ﷺ \"Shalihah\"",
+   "src": [
+    "Mu'jam ma Ista'jam 2/498"
+   ],
+   "lat": 24.4841,
+   "lon": 39.5789,
+   "precision": "perkiraan",
+   "near": "Masjid al-Qiblatain"
+  },
+  {
+   "t": "Masjid Bani Salim bin 'Auf (Wadi Ranuna')",
+   "ar": "مسجد بني سالم بن عوف",
+   "kind": "lembah",
+   "note": "Masjid Bani Salim bin 'Auf bin al-Khazraj, tempat Jum'at pertama Nabi ﷺ setelah dari Quba'",
+   "src": [
+    "Mu'jam al-Buldan 4/302",
+    "Mu'jam ma Ista'jam 2/693"
+   ],
+   "lat": 24.4455,
+   "lon": 39.6152,
+   "precision": "tepat"
+  },
+  {
+   "t": "Bi'r Dzarwan (Bani Zuraiq)",
+   "ar": "ذروان",
+   "kind": "mata air",
+   "note": "Sumur milik Bani Zuraiq di Madinah; Bani Zuraiq dari Jusyam bin al-Khazraj",
+   "src": [
+    "Mu'jam al-Buldan 3/5",
+    "Mu'jam al-Buldan 3/140"
+   ],
+   "lat": 24.4657,
+   "lon": 39.6128,
+   "precision": "tepat"
+  },
+  {
+   "t": "Uthum al-'Uryan (Bani an-Najjar)",
+   "ar": "عريان",
+   "kind": "benteng",
+   "note": "Uthum (benteng) di Madinah milik Bani an-Najjar dari Khazraj, di arah kiblat, milik keluarga an-Nadhr (kerabat Anas bin Malik)",
+   "src": [
+    "Mu'jam al-Buldan 4/113"
+   ],
+   "lat": 24.47,
+   "lon": 39.61,
+   "precision": "perkiraan",
+   "near": "al-Madinah"
+  }
+ ],
+ "khuzaah": [
+  {
+   "t": "Marr azh-Zhahran (Marr)",
+   "ar": "مر الظهران",
+   "kind": "lembah",
+   "note": "Marr adalah permukiman Khuza'ah; ketika al-Azd berpencar, Khuza'ah memisahkan diri dan turun di Marr dan sekitarnya",
+   "src": [
+    "Mu'jam ma Ista'jam 2/625"
+   ],
+   "lat": 21.32,
+   "lon": 39.2994,
+   "precision": "tepat"
+  },
+  {
+   "t": "Makkah (perwalian Ka'bah)",
+   "ar": "مكة",
+   "kind": "kota",
+   "note": "Khuza'ah memegang perwalian Baitullah turun-temurun hingga Hulail bin Hubsyiyyah, sebelum Qushay mengambil alih",
+   "src": [
+    "Sirah Ibnu Hisyam 1/117"
+   ],
+   "lat": 21.4225,
+   "lon": 39.8261,
+   "precision": "tepat"
+  },
+  {
+   "t": "al-Watir",
+   "ar": "الوتير",
+   "kind": "mata air",
+   "note": "Mata air di bagian bawah Makkah milik Khuza'ah",
+   "src": [
+    "Mu'jam al-Buldan 5/360"
+   ],
+   "lat": 21.4225,
+   "lon": 39.8261,
+   "precision": "perkiraan",
+   "near": "Makkah"
+  },
+  {
+   "t": "Qudaid",
+   "ar": "قديد",
+   "kind": "desa",
+   "note": "Desa besar yang banyak air dan kebun; milik Khuza'ah",
+   "src": [
+    "Mu'jam ma Ista'jam 3/1054"
+   ],
+   "lat": 22.3404,
+   "lon": 39.3205,
+   "precision": "tepat"
+  },
+  {
+   "t": "al-Muraisi'",
+   "ar": "المريسيع",
+   "kind": "mata air",
+   "note": "Mata air di arah Qudaid ke pesisir; di sana Nabi ﷺ mendapati Bani al-Mushthaliq dari Khuza'ah",
+   "src": [
+    "Mu'jam al-Buldan 5/118"
+   ],
+   "lat": 22.4165,
+   "lon": 39.3503,
+   "precision": "perkiraan",
+   "near": "Masjid Qudaid"
+  },
+  {
+   "t": "al-Abwa'",
+   "ar": "الأبواء",
+   "kind": "gunung",
+   "note": "Gunung tinggi di al-Abwa' milik Khuza'ah dan Dhamrah; al-Abwa' desa dari wilayah al-Fur', 23 mil dari al-Juhfah",
+   "src": [
+    "Mu'jam al-Buldan 1/79"
+   ],
+   "lat": 23.1093,
+   "lon": 39.0943,
+   "precision": "tepat"
+  },
+  {
+   "t": "Wadi Ghazal",
+   "ar": "غزال",
+   "kind": "lembah",
+   "note": "Salah satu dari tiga lembah antara Tsaniyyah Harsya dan al-Juhfah; khusus milik Khuza'ah, merekalah penghuninya",
+   "src": [
+    "Mu'jam al-Buldan 4/201"
+   ],
+   "lat": 22.7406,
+   "lon": 39.1367,
+   "precision": "perkiraan",
+   "near": "al-Juhfah"
+  },
+  {
+   "t": "Dzu Dauran",
+   "ar": "ذو دوران",
+   "kind": "lembah",
+   "note": "Lembah antara Qudaid dan al-Juhfah dengan dua sumur; milik Khuza'ah",
+   "src": [
+    "Mu'jam al-Buldan 2/480"
+   ],
+   "lat": 22.5502,
+   "lon": 39.5049,
+   "precision": "tepat"
+  }
+ ],
+ "kinanah": [
+  {
+   "t": "Waddan (al-Abwa')",
+   "ar": "ودان",
+   "kind": "desa",
+   "note": "Ekspedisi pertama Nabi ﷺ ke Waddan (Ghazwah al-Abwa') menuju Quraisy dan Bani Dhamrah bin Bakr bin Abdi Manah bin Kinanah, yang lalu berdamai dengan beliau",
+   "src": [
+    "Sirah Ibnu Hisyam 1/591"
+   ],
+   "lat": 23.1093,
+   "lon": 39.0943,
+   "precision": "perkiraan",
+   "near": "al-Abwa'"
+  },
+  {
+   "t": "Dzul 'Usyairah",
+   "ar": "ذو العشيرة",
+   "kind": "daerah",
+   "note": "Milik Bani Mudlij di kawasan Yanbu'; di sana Nabi ﷺ berdamai dengan Bani Mudlij dan sekutunya Bani Dhamrah",
+   "src": [
+    "Ibnu Sa'd 2/10"
+   ],
+   "lat": 24.0894,
+   "lon": 38.0619,
+   "precision": "perkiraan",
+   "near": "Yanbu'"
+  },
+  {
+   "t": "at-Tala'ah",
+   "ar": "التلاعة",
+   "kind": "mata air",
+   "note": "Mata air milik Bani Kinanah di Hijaz",
+   "src": [
+    "Mu'jam al-Buldan 2/40"
+   ]
+  },
+  {
+   "t": "Baidh",
+   "ar": "بيض",
+   "kind": "daerah",
+   "note": "Salah satu manazil Bani Kinanah di Hijaz",
+   "src": [
+    "Mu'jam al-Buldan 1/531"
+   ]
+  },
+  {
+   "t": "Tadhra'",
+   "ar": "تضرع",
+   "kind": "gunung",
+   "note": "Gunung milik Kinanah dekat Makkah",
+   "src": [
+    "Mu'jam al-Buldan 2/32"
+   ],
+   "lat": 21.4225,
+   "lon": 39.8261,
+   "precision": "perkiraan",
+   "near": "Makkah"
+  },
+  {
+   "t": "Tadhari'",
+   "ar": "تضارع",
+   "kind": "gunung",
+   "note": "Gunung di Tihamah milik Bani Kinanah (menurut al-Waqidi: gunung di al-'Aqiq)",
+   "src": [
+    "Mu'jam al-Buldan 2/32"
+   ]
+  },
+  {
+   "t": "Ihlil",
+   "ar": "إحليل",
+   "kind": "lembah",
+   "note": "Lembah di negeri Kinanah, kemudian milik Bani Nufatsah dari mereka",
+   "src": [
+    "Mu'jam al-Buldan 1/117"
+   ]
+  },
+  {
+   "t": "Khaniq",
+   "ar": "خانق",
+   "kind": "daerah",
+   "note": "Tempat Mudhar dan Rabi'ah mengalahkan Iyad di Tihamah; kini termasuk negeri Kinanah bin Khuzaimah",
+   "src": [
+    "Mu'jam al-Buldan 2/340"
+   ]
+  },
+  {
+   "t": "Jabal as-Salam",
+   "ar": "السلام",
+   "kind": "gunung",
+   "note": "Gunung di Hijaz di diyar Kinanah",
+   "src": [
+    "Mu'jam al-Buldan 3/234"
+   ]
+  },
+  {
+   "t": "Hali",
+   "ar": "حلي",
+   "kind": "kota",
+   "note": "Hali disebut termasuk tanah Kinanah (dalam daftar tempat paling berangin)",
+   "src": [
+    "Shifat Jazirat al-'Arab, hlm. 154"
+   ],
+   "lat": 18.6982,
+   "lon": 41.3218,
+   "precision": "tepat"
+  }
+ ],
+ "kindah": [
+  {
+   "t": "Hadhramaut",
+   "ar": "حضرموت",
+   "kind": "daerah",
+   "note": "Kindah menetap di Hadhramaut setelah terusir dari al-Bahrain, al-Musyaqqar dan Ghamr Dzi Kindah pada masa jahiliah; lebih dari 30.000 jiwa pindah",
+   "src": [
+    "Shifat Jazirat al-'Arab, hlm. 88"
+   ],
+   "lat": 15.9823,
+   "lon": 49.0196,
+   "precision": "tepat"
+  },
+  {
+   "t": "Dammun",
+   "ar": "دمون",
+   "kind": "kota",
+   "note": "Kota ash-Shadif; tempat tinggal al-Harits bin 'Amr bin Hujr Akil al-Murar (raja Kindah); disebut dalam syair Imru'ul Qais",
+   "src": [
+    "Mu'jam al-Buldan 2/472"
+   ],
+   "lat": 16.0706,
+   "lon": 49.0117,
+   "precision": "tepat"
+  },
+  {
+   "t": "Benteng an-Nujair",
+   "ar": "النجير",
+   "kind": "benteng",
+   "note": "Benteng Kindah di Hadhramaut; tempat al-Asy'ats dan kaumnya berlindung dan dikepung pada perang Riddah",
+   "src": [
+    "Mu'jam al-Buldan 2/271"
+   ]
+  },
+  {
+   "t": "al-Bahrain dan al-Musyaqqar",
+   "ar": "المشقر",
+   "kind": "daerah",
+   "note": "Negeri Kindah pada masa jahiliah sebelum mereka terusir ke Hadhramaut",
+   "src": [
+    "Shifat Jazirat al-'Arab, hlm. 88"
+   ]
+  },
+  {
+   "t": "Ghamr Dzi Kindah (Bustan al-Ghumair)",
+   "ar": "غمر ذي كندة",
+   "kind": "daerah",
+   "note": "Pada masa jahiliah disebut Ghamr Dzi Kindah; kemudian orang Bani Makhzum mengambil tanah di sana sehingga disebut Bustan al-Ghumair",
+   "src": [
+    "Mu'jam al-Buldan 1/414"
+   ]
+  },
+  {
+   "t": "Darat Juljul",
+   "ar": "دارة جلجل",
+   "kind": "daerah",
+   "note": "Tempat di diyar Kindah, disebut juga al-Hima (Yaum Darat Juljul dalam syair Imru'ul Qais)",
+   "src": [
+    "Mu'jam ma Ista'jam 2/389"
+   ]
+  },
+  {
+   "t": "ats-Tsarma'",
+   "ar": "الثرماء",
+   "kind": "mata air",
+   "note": "Mata air yang dikenal milik Kindah",
+   "src": [
+    "Mu'jam al-Buldan 2/76"
+   ]
+  },
+  {
+   "t": "Qarqara (al-Yamamah)",
+   "ar": "قرقرى",
+   "kind": "benteng",
+   "note": "Tanah di al-Yamamah berisi desa dan kebun kurma; di sana ada empat benteng: satu milik Kindah",
+   "src": [
+    "Mu'jam al-Buldan 4/326"
+   ]
+  },
+  {
+   "t": "Jabbanat Kindah (Kufah)",
+   "ar": "جبانة كندة",
+   "kind": "distrik",
+   "note": "Salah satu kawasan (jabbanah) di Kufah yang dinamai menurut kabilah; Jabbanat Kindah terkenal",
+   "src": [
+    "Mu'jam al-Buldan 2/99"
+   ],
+   "lat": 32.03,
+   "lon": 44.4,
+   "precision": "perkiraan",
+   "near": "Kufah"
+  }
+ ],
+ "lakhm": [
+  {
+   "t": "al-Hirah",
+   "ar": "الحيرة",
+   "kind": "kota",
+   "note": "Kota tiga mil dari Kufah; tempat tinggal raja-raja Arab jahiliah sejak masa Nashr, lalu dari Lakhm: an-Nu'man dan leluhurnya",
+   "src": [
+    "Mu'jam al-Buldan 2/328"
+   ],
+   "lat": 31.98,
+   "lon": 44.39,
+   "precision": "tepat"
+  },
+  {
+   "t": "al-Khawarnaq",
+   "ar": "الخورنق",
+   "kind": "benteng",
+   "note": "Istana di belakang al-Hirah; menurut al-Haitsam bin 'Adi dibangun atas perintah an-Nu'man bin Imri'il Qais dari Lakhm",
+   "src": [
+    "Mu'jam al-Buldan 2/401"
+   ],
+   "lat": 31.98,
+   "lon": 44.39,
+   "precision": "perkiraan",
+   "near": "al-Hirah"
+  },
+  {
+   "t": "ad-Darum (Diyar Lakhm di selatan Palestina)",
+   "ar": "الداروم",
+   "kind": "daerah",
+   "note": "Diyar Lakhm membentang dari al-Mughar, lalu ad-Darum, lalu al-Jifar (padang pasir) hingga batas al-Farama",
+   "src": [
+    "Shifat Jazirat al-'Arab, hlm. 130"
+   ],
+   "lat": 31.4167,
+   "lon": 34.35,
+   "precision": "perkiraan",
+   "near": "Deir al-Balah"
+  },
+  {
+   "t": "Rafah",
+   "ar": "رفح",
+   "kind": "kota",
+   "note": "Kota makmur dengan pasar, masjid jami' dan penginapan; penduduknya dari Lakhm dan Judzam",
+   "src": [
+    "Mu'jam al-Buldan 3/54"
+   ],
+   "lat": 31.2886,
+   "lon": 34.2519,
+   "precision": "tepat"
+  },
+  {
+   "t": "Sekitar ar-Ramlah hingga Nablus",
+   "ar": "الرملة",
+   "kind": "daerah",
+   "note": "Milik Lakhm dan Kinanah yang bercampur dengan mereka: sekitar ar-Ramlah hingga Nablus",
+   "src": [
+    "Shifat Jazirat al-'Arab, hlm. 131"
+   ],
+   "lat": 31.9275,
+   "lon": 34.8625,
+   "precision": "perkiraan",
+   "near": "ar-Ramlah"
+  },
+  {
+   "t": "Zughar",
+   "ar": "زغر",
+   "kind": "kota",
+   "note": "Milik Lakhm juga wilayah dari Tabuk hingga Zughar, negeri kurma",
+   "src": [
+    "Shifat Jazirat al-'Arab, hlm. 131"
+   ],
+   "lat": 31.0469,
+   "lon": 35.5025,
+   "precision": "tepat"
+  },
+  {
+   "t": "al-Jaulan",
+   "ar": "الجولان",
+   "kind": "daerah",
+   "note": "Milik Lakhm juga al-Jaulan dan sekitarnya: Nawa, al-Batsaniyyah dan sebagian Hauran",
+   "src": [
+    "Shifat Jazirat al-'Arab, hlm. 131"
+   ],
+   "lat": 33,
+   "lon": 35.75,
+   "precision": "tepat"
+  },
+  {
+   "t": "Nawa",
+   "ar": "نوى",
+   "kind": "kota",
+   "note": "Termasuk negeri sekitar al-Jaulan milik Lakhm",
+   "src": [
+    "Shifat Jazirat al-'Arab, hlm. 131"
+   ],
+   "lat": 32.8909,
+   "lon": 36.0397,
+   "precision": "tepat"
+  },
+  {
+   "t": "Hadas",
+   "ar": "حدس",
+   "kind": "daerah",
+   "note": "Negeri di Syam yang didiami sekelompok orang Lakhm",
+   "src": [
+    "Mu'jam al-Buldan 2/229"
+   ]
+  },
+  {
+   "t": "Jabal Yasykur (Mesir)",
+   "ar": "جبل يشكر",
+   "kind": "gunung",
+   "note": "Bukit Yasykur bin Juzailah dari Lakhm, tempat Ahmad bin Thulun membangun masjid jami'nya, antara Mishr dan Kairo",
+   "src": [
+    "Mu'jam al-Buldan 4/264"
+   ],
+   "lat": 30.0287,
+   "lon": 31.2495,
+   "precision": "perkiraan",
+   "near": "Masjid Ibnu Thulun"
+  },
+  {
+   "t": "al-Baqqarah",
+   "ar": "البقارة",
+   "kind": "daerah",
+   "note": "Tempat turun Bani Rasyidah dari Lakhm",
+   "src": [
+    "Shifat Jazirat al-'Arab, hlm. 129"
+   ]
+  }
+ ],
+ "madzhij": [
+  {
+   "t": "Tatslits",
+   "ar": "تثليث",
+   "kind": "lembah",
+   "note": "Tatslits termasuk diyar Madzhij; dari negeri Madzhij, Tatslits dan sekitarnya ke arah Faid termasuk Hijaz",
+   "src": [
+    "Mu'jam ma Ista'jam 1/305",
+    "Mu'jam al-Buldan 2/137"
+   ],
+   "lat": 19.5339,
+   "lon": 43.5024,
+   "precision": "tepat"
+  },
+  {
+   "t": "Turj dan 'Atstsar",
+   "ar": "ترج",
+   "kind": "lembah",
+   "note": "Dahulu diyar Madzhij (dekat Tabalah) sebelum mereka diusir; menurut syair al-Ja'di mereka \"ahl Turj wa 'Atstsar\"",
+   "src": [
+    "Mu'jam ma Ista'jam 1/309"
+   ],
+   "lat": 19.026,
+   "lon": 42.1693,
+   "precision": "tepat"
+  },
+  {
+   "t": "Hubaunan (Habuna)",
+   "ar": "حبونن",
+   "kind": "lembah",
+   "note": "Menurut al-Hamdani, Hubaunan (juga Jasy, Mari', Yabanbam) termasuk diyar Madzhij; kini milik Bani Nahd",
+   "src": [
+    "Mu'jam ma Ista'jam 2/421"
+   ],
+   "lat": 17.7833,
+   "lon": 44.2,
+   "precision": "tepat"
+  },
+  {
+   "t": "Najran (Bani al-Harits bin Ka'b)",
+   "ar": "نجران",
+   "kind": "kota",
+   "note": "Najran dibagi antara Balharits (Bani al-Harits bin Ka'b) dan Hamdan; Bani al-Harits bin Ka'b termasuk Madzhij menurut Ibnul Kalbi",
+   "src": [
+    "Shifat Jazirat al-'Arab, hlm. 125",
+    "Mu'jam al-Buldan 5/89"
+   ],
+   "lat": 17.4917,
+   "lon": 44.1322,
+   "precision": "tepat"
+  },
+  {
+   "t": "al-Jauf (Yaman)",
+   "ar": "الجوف",
+   "kind": "daerah",
+   "note": "al-Jauf dibagi antara Hamdan dan Madzhij",
+   "src": [
+    "Shifat Jazirat al-'Arab, hlm. 125"
+   ],
+   "lat": 16.7833,
+   "lon": 45.5167,
+   "precision": "tepat"
+  },
+  {
+   "t": "Ma'rib",
+   "ar": "مأرب",
+   "kind": "kota",
+   "note": "Ma'rib dibagi antara Saba' dan Madzhij; di Mikhlaf Ma'rib, al-Jabal milik Bani Malik dari Murad",
+   "src": [
+    "Shifat Jazirat al-'Arab, hlm. 125",
+    "Shifat Jazirat al-'Arab, hlm. 102"
+   ],
+   "lat": 15.4625,
+   "lon": 45.3258,
+   "precision": "tepat"
+  },
+  {
+   "t": "Bayhan (Murad)",
+   "ar": "بيحان",
+   "kind": "lembah",
+   "note": "Penduduk Bayhan adalah Murad sampai al-'Athf; para pemuka Murad Bayhan dari Al al-Makraman",
+   "src": [
+    "Shifat Jazirat al-'Arab, hlm. 98"
+   ],
+   "lat": 14.8,
+   "lon": 45.7333,
+   "precision": "tepat"
+  },
+  {
+   "t": "Mikhlaf Rada' wa Tsat",
+   "ar": "رداع",
+   "kind": "daerah",
+   "note": "Mikhlaf Rada' (Rada', Tsat, Radman dll.) dihuni hanya oleh bathn-bathn Madzhij dan sedikit sisa Himyar",
+   "src": [
+    "Shifat Jazirat al-'Arab, hlm. 102"
+   ],
+   "lat": 14.4158,
+   "lon": 44.8422,
+   "precision": "tepat"
+  },
+  {
+   "t": "Bilad 'Ans (timur Dzamar)",
+   "ar": "بلد عنس",
+   "kind": "daerah",
+   "note": "Awal negeri Madzhij, dua farsakh di timur Dzamar: tanah 'Ans; kini dihuni sebagian kabilah 'Ans bin Madzhij",
+   "src": [
+    "Shifat Jazirat al-'Arab, hlm. 92",
+    "Shifat Jazirat al-'Arab, hlm. 104"
+   ],
+   "lat": 14.55,
+   "lon": 44.4017,
+   "precision": "perkiraan",
+   "near": "Dzamar"
+  },
+  {
+   "t": "Sarw Madzhij",
+   "ar": "سرو مذحج",
+   "kind": "daerah",
+   "note": "Sarw Madzhij baru belakangan didiami Madzhij; asalnya negeri Dzu Ru'ain",
+   "src": [
+    "Shifat Jazirat al-'Arab, hlm. 90"
+   ]
+  }
+ ],
+ "makhzum": [
+  {
+   "t": "Ajyad (Makkah)",
+   "ar": "أجياد",
+   "kind": "distrik",
+   "note": "Qushay memberikan Ajyad (Ajyadain) kepada Bani Makhzum saat membagi Makkah",
+   "src": [
+    "Mu'jam ma Ista'jam 1/258"
+   ],
+   "lat": 21.4194,
+   "lon": 39.8306,
+   "precision": "tepat"
+  },
+  {
+   "t": "Bathha' Makkah (Quraisy al-Bithah)",
+   "ar": "بطحاء مكة",
+   "kind": "distrik",
+   "note": "Bani Makhzum termasuk Quraisy al-Bithah, kabilah-kabilah keturunan Ka'b bin Lu'ay di lembah Makkah",
+   "src": [
+    "Mu'jam ma Ista'jam 1/257"
+   ],
+   "lat": 21.4225,
+   "lon": 39.8261,
+   "precision": "perkiraan",
+   "near": "Makkah"
+  },
+  {
+   "t": "Jabal an-Nufai' (Makkah)",
+   "ar": "النفيع",
+   "kind": "gunung",
+   "note": "Gunung di Makkah tempat al-Harits bin 'Ubaid bin 'Umar bin Makhzum menahan orang-orang bodoh dari kaumnya",
+   "src": [
+    "Mu'jam al-Buldan 5/297"
+   ],
+   "lat": 21.4225,
+   "lon": 39.8261,
+   "precision": "perkiraan",
+   "near": "Makkah"
+  },
+  {
+   "t": "Bi'r al-Aswad (Makkah)",
+   "ar": "بئر الأسود",
+   "kind": "mata air",
+   "note": "Sumur di Makkah yang dinisbatkan kepada al-Aswad bin Sufyan bin 'Abdul Asad al-Makhzumi",
+   "src": [
+    "Mu'jam al-Buldan 1/298"
+   ],
+   "lat": 21.4225,
+   "lon": 39.8261,
+   "precision": "perkiraan",
+   "near": "Makkah"
+  },
+  {
+   "t": "Bi'r al-'Asir (Madinah)",
+   "ar": "العسير",
+   "kind": "mata air",
+   "note": "Sumur di Madinah milik Abu Umayyah al-Makhzumi; Rasulullah ﷺ menamainya al-Yasirah",
+   "src": [
+    "Mu'jam al-Buldan 4/125"
+   ],
+   "lat": 24.47,
+   "lon": 39.61,
+   "precision": "perkiraan",
+   "near": "Madinah"
+  },
+  {
+   "t": "Bustan al-Ghumair",
+   "ar": "بستان الغمير",
+   "kind": "daerah",
+   "note": "Pada masa jahiliah disebut Ghamr Dzi Kindah; sebagian Bani Makhzum mengambil tanah di sana",
+   "src": [
+    "Mu'jam al-Buldan 1/414"
+   ]
+  },
+  {
+   "t": "Benteng al-Qarn (al-Maraghah)",
+   "ar": "القرن",
+   "kind": "benteng",
+   "note": "Salah satu dari dua benteng di al-Maraghah, milik Makhzum",
+   "src": [
+    "Shifat Jazirat al-'Arab, hlm. 119"
+   ]
+  },
+  {
+   "t": "Wadi al-'Amud (Mikhlaf 'Atstsar, Yaman)",
+   "ar": "وادي العمود",
+   "kind": "lembah",
+   "note": "Wadi milik Khaulan, Kinanah dan al-Azd; para penguasanya dari Bani Makhzum dan budak-budak mereka",
+   "src": [
+    "Shifat Jazirat al-'Arab, hlm. 120"
+   ]
+  }
+ ],
+ "muharib": [
+  {
+   "t": "Taiman",
+   "ar": "تيمن",
+   "kind": "gunung",
+   "note": "Bukit merah di diyar Muharib dekat ar-Rabadzah",
+   "src": [
+    "Mu'jam al-Buldan 2/68"
+   ],
+   "lat": 24.6319,
+   "lon": 41.2906,
+   "precision": "perkiraan",
+   "near": "ar-Rabadzah"
+  },
+  {
+   "t": "Dhil' al-Janfa'",
+   "ar": "الجنفاء",
+   "kind": "daerah",
+   "note": "Tempat antara ar-Rabadzah dan Dhariyyah di diyar Muharib, di jalur al-Yamamah–Madinah",
+   "src": [
+    "Mu'jam al-Buldan 2/172"
+   ],
+   "lat": 24.6319,
+   "lon": 41.2906,
+   "precision": "perkiraan",
+   "near": "ar-Rabadzah"
+  },
+  {
+   "t": "al-Gharid",
+   "ar": "الغرد",
+   "kind": "gunung",
+   "note": "Gunung antara Dhariyyah dan ar-Rabadzah di tepi al-Jarib al-Aqsha, milik Bani Muharib dan Fazarah",
+   "src": [
+    "Mu'jam al-Buldan 4/193"
+   ],
+   "lat": 24.6319,
+   "lon": 41.2906,
+   "precision": "perkiraan",
+   "near": "ar-Rabadzah"
+  },
+  {
+   "t": "Adhakh",
+   "ar": "أضاخ",
+   "kind": "gunung",
+   "note": "Menurut Abu 'Ubaidah, Adhakh di asy-Syarabbah termasuk diyar Bani Muharib bin Khashafah",
+   "src": [
+    "Mu'jam ma Ista'jam 1/164"
+   ],
+   "lat": 25.2461,
+   "lon": 43.92,
+   "precision": "tepat"
+  },
+  {
+   "t": "Bass",
+   "ar": "بس",
+   "kind": "gunung",
+   "note": "Gunung di negeri Muharib bin Khashafah (ada pendapat lain tentang letaknya)",
+   "src": [
+    "Mu'jam al-Buldan 1/421"
+   ]
+  },
+  {
+   "t": "Balas",
+   "ar": "بلس",
+   "kind": "gunung",
+   "note": "Gunung merah di negeri Muharib bin Khashafah",
+   "src": [
+    "Mu'jam al-Buldan 1/484"
+   ]
+  },
+  {
+   "t": "Dzu Jaufar",
+   "ar": "ذو جوفر",
+   "kind": "lembah",
+   "note": "Lembah milik Bani Muharib bin Khashafah",
+   "src": [
+    "Mu'jam al-Buldan 2/187"
+   ]
+  },
+  {
+   "t": "al-Ghubair",
+   "ar": "الغبير",
+   "kind": "mata air",
+   "note": "Mata air milik Muharib bin Khashafah",
+   "src": [
+    "Mu'jam al-Buldan 4/186"
+   ]
+  },
+  {
+   "t": "Nakhl dan al-Mughitsah",
+   "ar": "نخل",
+   "kind": "daerah",
+   "note": "Di jalur petugas zakat dari Madinah: Khudhr Muharib membayar zakat di Nakhl, Bani Muharib lainnya di al-Mughitsah",
+   "src": [
+    "Mu'jam ma Ista'jam 3/1016"
+   ]
+  }
+ ],
+ "muthalib": [
+  {
+   "t": "Bathha' Makkah",
+   "ar": "بطحاء مكة",
+   "kind": "lembah",
+   "note": "Bathha' Makkah, tempat Quraisy al-Bithah: kabilah-kabilah Ka'b bin Lu'ay, yaitu Bani 'Abdi Manaf dan lainnya",
+   "src": [
+    "Mu'jam ma Ista'jam 1/257"
+   ],
+   "lat": 21.4225,
+   "lon": 39.8261,
+   "precision": "perkiraan",
+   "near": "Makkah"
+  },
+  {
+   "t": "Dar 'Abdullah bin Jud'an (Makkah)",
+   "ar": "دار عبد الله بن جدعان",
+   "kind": "distrik",
+   "note": "Bani al-Muththalib bersama Bani Hasyim, Zuhrah dan Taim berkumpul di sini dan bersumpah (Hilf al-Fudhul) bahwa tak seorang pun boleh dizalimi di Makkah",
+   "src": [
+    "al-Munammaq, hlm. 53"
+   ],
+   "lat": 21.4225,
+   "lon": 39.8261,
+   "precision": "perkiraan",
+   "near": "Makkah"
+  },
+  {
+   "t": "Syi'b Abi Thalib (Makkah)",
+   "ar": "شعب أبي طالب",
+   "kind": "lembah",
+   "note": "Saat boikot Quraisy, Bani Hasyim dan Bani al-Muththalib berkumpul kepada Abu Thalib dan masuk ke syi'bnya",
+   "src": [
+    "Sirah Ibnu Hisyam 1/351"
+   ],
+   "lat": 21.4225,
+   "lon": 39.8261,
+   "precision": "perkiraan",
+   "near": "Makkah"
+  },
+  {
+   "t": "Khaibar (al-Wathih)",
+   "ar": "خيبر",
+   "kind": "daerah",
+   "note": "Dari bagian Nabi ﷺ di Khaibar, Bani al-Muththalib bin 'Abdi Manaf diberi jatah sejumlah wasaq tertentu; al-Wathih di Khaibar memuat jatah istri-istri Nabi ﷺ dan Bani al-Muththalib",
+   "src": [
+    "Futuh al-Buldan, hlm. 37",
+    "Mu'jam ma Ista'jam 2/521"
+   ],
+   "lat": 25.6986,
+   "lon": 39.2925,
+   "precision": "perkiraan",
+   "near": "Khaibar"
+  },
+  {
+   "t": "Radman (Yaman)",
+   "ar": "ردمان",
+   "kind": "daerah",
+   "note": "Tempat di Yaman; kubur al-Muththalib bin 'Abdi Manaf, leluhur klan, ada di Radman",
+   "src": [
+    "Mu'jam al-Buldan 3/40"
+   ]
+  }
+ ],
+ "muzainah": [
+  {
+   "t": "Jabal Radhwa",
+   "ar": "رضوى",
+   "kind": "gunung",
+   "note": "Muzainah bin Udd menempati pegunungan Radhwa, Quds dan Arah serta sekitarnya di Hijaz",
+   "src": [
+    "Mu'jam ma Ista'jam 1/88"
+   ],
+   "lat": 24.524,
+   "lon": 38.36,
+   "precision": "tepat"
+  },
+  {
+   "t": "Jabal Quds dan Arah",
+   "ar": "قدس وآرة",
+   "kind": "gunung",
+   "note": "Dua gunung milik Muzainah, berhadapan dengan Suqya Muzainah; dua Quds (putih dan hitam) dekat Warqan",
+   "src": [
+    "Mu'jam al-Buldan 4/311"
+   ],
+   "lat": 23.9765,
+   "lon": 39.2821,
+   "precision": "perkiraan",
+   "near": "Jabal Warqan"
+  },
+  {
+   "t": "Jabal Warqan",
+   "ar": "ورقان",
+   "kind": "gunung",
+   "note": "Gunung yang didiami Bani Aus bin Muzainah, kaum penghuni kemah",
+   "src": [
+    "Mu'jam al-Buldan 5/372"
+   ],
+   "lat": 23.9765,
+   "lon": 39.2821,
+   "precision": "tepat"
+  },
+  {
+   "t": "ar-Rauha'",
+   "ar": "الروحاء",
+   "kind": "desa",
+   "note": "Desa besar milik Muzainah, dua malam (41 mil) dari Madinah",
+   "src": [
+    "Mu'jam ma Ista'jam 2/681"
+   ],
+   "lat": 24.0783,
+   "lon": 39.1615,
+   "precision": "tepat"
+  },
+  {
+   "t": "an-Naqi'",
+   "ar": "النقيع",
+   "kind": "lembah",
+   "note": "Dekat Madinah; dijadikan hima (cagar) kuda oleh Nabi ﷺ, ada masjid bernama Muqammal; termasuk diyar Muzainah",
+   "src": [
+    "Mu'jam al-Buldan 5/301"
+   ],
+   "lat": 23.8844,
+   "lon": 39.7403,
+   "precision": "tepat"
+  },
+  {
+   "t": "al-Fur'",
+   "ar": "الفرع",
+   "kind": "desa",
+   "note": "Desa besar di wilayah Madinah, kiri as-Suqya, berminbar, kebun kurma dan banyak air; milik Quraisy, Anshar dan Muzainah",
+   "src": [
+    "Mu'jam al-Buldan 4/252"
+   ],
+   "lat": 23.3476,
+   "lon": 39.6637,
+   "precision": "tepat"
+  },
+  {
+   "t": "al-'Aqiq (yang terbesar)",
+   "ar": "العقيق",
+   "kind": "lembah",
+   "note": "Salah satu al-'Aqiq, termasuk negeri Muzainah; diberikan Nabi ﷺ kepada Bilal bin al-Harits al-Muzani",
+   "src": [
+    "Mu'jam al-Buldan 4/139"
+   ]
+  },
+  {
+   "t": "Jabal al-Asy'ar",
+   "ar": "الأشعر",
+   "kind": "gunung",
+   "note": "Gunung di sisi selatan di balik Madinah, didiami sekelompok Muzainah",
+   "src": [
+    "Mu'jam ma Ista'jam 1/154"
+   ],
+   "lat": 24.0646,
+   "lon": 39.2769,
+   "precision": "tepat"
+  },
+  {
+   "t": "Khiththah Muzainah (Bashrah)",
+   "ar": "خطة مزينة",
+   "kind": "distrik",
+   "note": "Khiththah Muzainah di Bashrah; kawasan Huddar di dekatnya",
+   "src": [
+    "Mu'jam al-Buldan 2/229"
+   ],
+   "lat": 30.515,
+   "lon": 47.81,
+   "precision": "perkiraan",
+   "near": "Bashrah"
+  },
+  {
+   "t": "Nahr Ma'qil (Bashrah)",
+   "ar": "نهر معقل",
+   "kind": "daerah",
+   "note": "Sungai di Bashrah yang digali atas perintah 'Umar melalui Ma'qil bin Yasar al-Muzani sehingga dinisbatkan kepadanya",
+   "src": [
+    "Mu'jam al-Buldan 5/324"
+   ],
+   "lat": 30.515,
+   "lon": 47.81,
+   "precision": "perkiraan",
+   "near": "Bashrah"
+  }
+ ],
+ "naufal": [
+  {
+   "t": "Makkah (al-Bithah)",
+   "ar": "مكة",
+   "kind": "kota",
+   "note": "Bani Abdi Manaf (termasuk Naufal) tergolong Quraisy al-Bithah, yang masuk ke lembah Makkah bersama Qushay",
+   "src": [
+    "al-Muhabbar, hlm. 167",
+    "al-Muhabbar, hlm. 168"
+   ],
+   "lat": 21.4225,
+   "lon": 39.8261,
+   "precision": "tepat"
+  },
+  {
+   "t": "al-Madinah",
+   "ar": "المدينة",
+   "kind": "kota",
+   "note": "Jubair bin Muth'im bin 'Adi bin Naufal masuk Islam sebelum Fathu Makkah, turun di Madinah dan wafat di sana pada masa Mu'awiyah",
+   "src": [
+    "Tarikh ath-Thabari 11/553"
+   ],
+   "lat": 24.47,
+   "lon": 39.61,
+   "precision": "tepat"
+  },
+  {
+   "t": "as-Suwariqiyyah",
+   "ar": "السوارقية",
+   "kind": "desa",
+   "note": "Desa besar; menurut az-Zubair, ditinggali Hisyam bin al-Walid dari keturunan al-Khiyar bin 'Adi bin Naufal",
+   "src": [
+    "Mu'jam ma Ista'jam 3/764"
+   ]
+  },
+  {
+   "t": "as-Salman",
+   "ar": "السلمان",
+   "kind": "mata air",
+   "note": "Mata air kuno jahiliah di jalur Irak–Tihamah; di sana makam Naufal bin Abdi Manaf",
+   "src": [
+    "Mu'jam al-Buldan 3/239"
+   ],
+   "lat": 30.5044,
+   "lon": 44.5392,
+   "precision": "tepat"
+  }
+ ],
+ "persia": [
+  {
+   "t": "Faris (Persis)",
+   "ar": "فارس",
+   "kind": "daerah",
+   "note": "Wilayah luas; batasnya dari arah Iraq Arrajan, dari arah Kirman as-Sirjan, di pesisir Sirāf, ke arah Sind Makran",
+   "src": [
+    "Mu'jam al-Buldan 4/226"
+   ],
+   "lat": 29.625,
+   "lon": 52.5317,
+   "precision": "tepat"
+  },
+  {
+   "t": "al-Mada'in (Ctesiphon), Iwan Kisra",
+   "ar": "المدائن",
+   "kind": "kota",
+   "note": "Mada'in Kisra di Iraq; Iwan Kisra di sana termasuk bangunan teragung, dibangun beberapa raja",
+   "src": [
+    "Mu'jam al-Buldan 1/294"
+   ],
+   "lat": 33.1,
+   "lon": 44.5833,
+   "precision": "tepat"
+  },
+  {
+   "t": "Jayy (Ashbahan)",
+   "ar": "جي",
+   "kind": "desa",
+   "note": "Desa asal Salman al-Farisi di Ashbahan; ayahnya dihqan di negerinya",
+   "src": [
+    "Ibnu Sa'd 7/318"
+   ],
+   "lat": 32.566,
+   "lon": 51.7912,
+   "precision": "tepat"
+  },
+  {
+   "t": "Ramhurmuz",
+   "ar": "رامهرمز",
+   "kind": "kota",
+   "note": "Riwayat lain: Salman al-Farisi berasal dari Ramhurmuz",
+   "src": [
+    "Ibnu Sa'd 7/318"
+   ],
+   "lat": 31.28,
+   "lon": 49.6036,
+   "precision": "tepat"
+  },
+  {
+   "t": "Nahr al-Asawirah, Bashrah",
+   "ar": "نهر الأساورة",
+   "kind": "distrik",
+   "note": "Pasukan Asawirah Persia masuk Islam, bersekutu dengan Bani Tamim di Bashrah, diberi khiththah dan menggali sungai mereka",
+   "src": [
+    "Mu'jam al-Buldan 5/317"
+   ],
+   "lat": 30.515,
+   "lon": 47.81,
+   "precision": "perkiraan",
+   "near": "Bashrah"
+  },
+  {
+   "t": "Shan'a (al-Abna')",
+   "ar": "صنعاء",
+   "kind": "kota",
+   "note": "Al-Abna', sisa pasukan Persia di Yaman; Abu Bakar memerintahkan Thahir bin Abi Halah turun ke Shan'a membantu al-Abna'",
+   "src": [
+    "Sirah Ibnu Hisyam 1/68",
+    "Tarikh ath-Thabari 3/328"
+   ],
+   "lat": 15.35,
+   "lon": 44.2,
+   "precision": "tepat"
+  }
+ ],
+ "qudhaah": [
+  {
+   "t": "Tihamah (al-Ghaur)",
+   "ar": "تهامة",
+   "kind": "daerah",
+   "note": "Negeri awal Qudha'ah; setelah kalah melawan Nizar bin Ma'add mereka diusir dari seluruh al-Ghaur menuju Syam",
+   "src": [
+    "Mu'jam ma Ista'jam 1/20"
+   ],
+   "lat": 22.0,
+   "lon": 40.0,
+   "precision": "tepat"
+  },
+  {
+   "t": "Hajar (al-Bahrain)",
+   "ar": "هجر",
+   "kind": "kota",
+   "note": "Taim al-Lat bin Asad bin Wabrah dan sebagian Bani Rufaidah (Kalb) dari Qudha'ah pergi ke al-Bahrain sampai Hajar dan mengusir kaum Nabath",
+   "src": [
+    "Mu'jam ma Ista'jam 1/21"
+   ],
+   "lat": 25.4294,
+   "lon": 49.6219,
+   "precision": "tepat"
+  },
+  {
+   "t": "al-Hirah",
+   "ar": "الحيرة",
+   "kind": "kota",
+   "note": "Tanukh (dari Qudha'ah) pindah dari al-Bahrain ke al-Hirah; merekalah yang pertama membangunnya",
+   "src": [
+    "Mu'jam ma Ista'jam 1/24"
+   ],
+   "lat": 31.98,
+   "lon": 44.39,
+   "precision": "tepat"
+  },
+  {
+   "t": "al-Hadhr (Hatra)",
+   "ar": "الحضر",
+   "kind": "kota",
+   "note": "Setelah dikalahkan Sabur, sebagian besar Tanukh dipimpin adh-Dhaizan bin Mu'awiyah pindah ke al-Hadhr di al-Jazirah",
+   "src": [
+    "Mu'jam ma Ista'jam 1/24"
+   ],
+   "lat": 35.5881,
+   "lon": 42.7183,
+   "precision": "tepat"
+  },
+  {
+   "t": "'Abqar (al-Jazirah)",
+   "ar": "عبقر",
+   "kind": "daerah",
+   "note": "Bani Tazid bin Hulwan dari Qudha'ah turun di 'Abqar, negeri al-Jazirah; asal karpet 'abqariyyah",
+   "src": [
+    "Mu'jam ma Ista'jam 1/22"
+   ]
+  },
+  {
+   "t": "Palestina (Salih)",
+   "ar": "فلسطين",
+   "kind": "daerah",
+   "note": "Salih bin 'Amr bin al-Haf bin Qudha'ah turun di arah Palestina, di tengah Bani Udzainah dari 'Amilah",
+   "src": [
+    "Mu'jam ma Ista'jam 1/23"
+   ],
+   "lat": 31.6253,
+   "lon": 35.1453,
+   "precision": "tepat"
+  },
+  {
+   "t": "Wadi al-Qura",
+   "ar": "وادي القرى",
+   "kind": "lembah",
+   "note": "Wadi al-Qura, al-Hijr dan al-Janab adalah permukiman Qudha'ah, lalu Juhainah, 'Udzrah dan Baliy; antara Syam dan Madinah",
+   "src": [
+    "Mu'jam al-Buldan 4/338"
+   ],
+   "lat": 26.5,
+   "lon": 37.5,
+   "precision": "tepat"
+  },
+  {
+   "t": "al-Hijr",
+   "ar": "الحجر",
+   "kind": "daerah",
+   "note": "Aslam bin al-Haf ('Udzrah, Nahd, Hautakah, Juhainah) turun dari al-Hijr sampai Wadi al-Qura",
+   "src": [
+    "Mu'jam ma Ista'jam 1/23"
+   ],
+   "lat": 26.8142,
+   "lon": 37.9475,
+   "precision": "tepat"
+  },
+  {
+   "t": "as-Samawah",
+   "ar": "السماوة",
+   "kind": "daerah",
+   "note": "Kalb, Jarm dan al-'Ilaf dari Qudha'ah, setelah diserang Bani Kinanah, pindah ke as-Samawah; itulah permukiman mereka",
+   "src": [
+    "Mu'jam ma Ista'jam 1/24"
+   ]
+  },
+  {
+   "t": "Raml 'Alij (sisi Syam)",
+   "ar": "رمل عالج",
+   "kind": "daerah",
+   "note": "Qudha'ah memiliki bagian Raml 'Alij yang menghadap Syam dan arah utara",
+   "src": [
+    "Mu'jam ma Ista'jam 3/914"
+   ]
+  },
+  {
+   "t": "asy-Syihr (Mahrah)",
+   "ar": "الشحر",
+   "kind": "kota",
+   "note": "Menurut Qudha'ah, Mahrah (bin Haidan bin 'Imran bin al-Haf) menetap di Yaman dan permukimannya menjadi asy-Syihr",
+   "src": [
+    "Mu'jam ma Ista'jam 1/27"
+   ],
+   "lat": 14.7608,
+   "lon": 49.6069,
+   "precision": "tepat"
+  },
+  {
+   "t": "Mikhlaf Khaulan (Yaman)",
+   "ar": "مخلاف خولان",
+   "kind": "daerah",
+   "note": "Menurut Qudha'ah, Khaulan (bin 'Amr bin al-Haf) menetap di Yaman di Mikhlaf Khaulan; nasab Yaman menolaknya",
+   "src": [
+    "Mu'jam ma Ista'jam 1/27"
+   ]
+  }
+ ],
+ "quraisy": [
+  {
+   "t": "Makkah",
+   "ar": "مكة",
+   "kind": "kota",
+   "note": "Setelah Qushay menguasai Makkah dan mengusir Khuza'ah, ia membaginya di antara Quraisy",
+   "src": [
+    "Mu'jam ma Ista'jam 1/257"
+   ],
+   "lat": 21.4225,
+   "lon": 39.8261,
+   "precision": "tepat"
+  },
+  {
+   "t": "Bathha' Makkah (Quraisy al-Bithah)",
+   "ar": "بطحاء مكة",
+   "kind": "distrik",
+   "note": "Lembah Makkah yang dilalui banjir; Quraisy al-Bithah adalah kabilah-kabilah keturunan Ka'b bin Lu'ay",
+   "src": [
+    "Mu'jam ma Ista'jam 1/257"
+   ],
+   "lat": 21.4225,
+   "lon": 39.8261,
+   "precision": "perkiraan",
+   "near": "Makkah"
+  },
+  {
+   "t": "Zhawahir Makkah (Quraisy azh-Zhawahir)",
+   "ar": "ظواهر مكة",
+   "kind": "daerah",
+   "note": "Pinggiran Makkah milik Quraisy lainnya: Bani Muharib, Bani al-Harits bin Fihr, Bani al-Adram dan sebagian besar Bani 'Amir bin Lu'ay",
+   "src": [
+    "Mu'jam ma Ista'jam 1/257"
+   ],
+   "lat": 21.4225,
+   "lon": 39.8261,
+   "precision": "perkiraan",
+   "near": "Makkah"
+  },
+  {
+   "t": "Wadi al-'Aqiq (Madinah)",
+   "ar": "العقيق",
+   "kind": "lembah",
+   "note": "Di al-'Aqiq terdapat istana-istana dan kediaman para bangsawan Quraisy dan lainnya",
+   "src": [
+    "Mu'jam ma Ista'jam 4/1331"
+   ],
+   "lat": 24.4599,
+   "lon": 39.5767,
+   "precision": "tepat"
+  },
+  {
+   "t": "Burmah",
+   "ar": "برمة",
+   "kind": "mata air",
+   "note": "Mata air dan kebun kurma milik Quraisy, antara Khaibar dan Wadi al-Qura",
+   "src": [
+    "Mu'jam al-Buldan 1/478"
+   ],
+   "lat": 25.6986,
+   "lon": 39.2925,
+   "precision": "perkiraan",
+   "near": "Khaibar"
+  },
+  {
+   "t": "al-Fur'",
+   "ar": "الفرع",
+   "kind": "desa",
+   "note": "Desa besar di wilayah Madinah, delapan barid dari Madinah di jalan Makkah; milik Quraisy, Anshar dan Muzainah",
+   "src": [
+    "Mu'jam al-Buldan 4/252"
+   ]
+  },
+  {
+   "t": "al-Marabid",
+   "ar": "المرابد",
+   "kind": "mata air",
+   "note": "Mata air berkebun kurma milik Quraisy dan Bani Laits, di bagian bawah Jarajir (wadi Juhainah)",
+   "src": [
+    "Mu'jam ma Ista'jam 4/1310"
+   ]
+  },
+  {
+   "t": "al-Maraghah",
+   "ar": "المراغة",
+   "kind": "daerah",
+   "note": "Kebanyakan penduduknya Quraisy; di sana ada dua benteng: al-Qarn milik Makhzum dan al-Barqah milik Sahm",
+   "src": [
+    "Shifat Jazirat al-'Arab, hlm. 119"
+   ]
+  },
+  {
+   "t": "Ma'din al-Buram",
+   "ar": "معدن البرام",
+   "kind": "daerah",
+   "note": "Didiami Quraisy dan Tsaqif",
+   "src": [
+    "Shifat Jazirat al-'Arab, hlm. 121"
+   ]
+  }
+ ],
+ "rum": [
+  {
+   "t": "Qusthanthiniyyah (Konstantinopel)",
+   "ar": "القسطنطينية",
+   "kind": "kota",
+   "note": "Dibangun Konstantinus di Byzantium; ibu kota kerajaan Romawi hingga masa penulis",
+   "src": [
+    "Mu'jam al-Buldan 4/347"
+   ],
+   "lat": 41.0122,
+   "lon": 28.976,
+   "precision": "tepat"
+  },
+  {
+   "t": "Hims",
+   "ar": "حمص",
+   "kind": "kota",
+   "note": "Qaishar sedang berada di Hims ketika surat Nabi ﷺ yang dibawa Dihyah al-Kalbi sampai kepadanya",
+   "src": [
+    "Ibnu Sa'd 1/259"
+   ],
+   "lat": 34.7333,
+   "lon": 36.7167,
+   "precision": "tepat"
+  },
+  {
+   "t": "Bushra",
+   "ar": "بصرى",
+   "kind": "kota",
+   "note": "Dihyah diperintah menyerahkan surat Nabi ﷺ kepada pembesar Bushra untuk diteruskan kepada Qaishar",
+   "src": [
+    "Ibnu Sa'd 1/259"
+   ],
+   "lat": 32.5167,
+   "lon": 36.4833,
+   "precision": "tepat"
+  },
+  {
+   "t": "Iliya' (Baitul Maqdis)",
+   "ar": "إيلياء",
+   "kind": "kota",
+   "note": "Qaishar bernazar berjalan tanpa alas kaki dari Konstantinopel ke Iliya' jika Romawi mengalahkan Persia",
+   "src": [
+    "Ibnu Sa'd 1/259"
+   ],
+   "lat": 31.7767,
+   "lon": 35.2342,
+   "precision": "tepat"
+  },
+  {
+   "t": "Ma'ab (al-Balqa')",
+   "ar": "مآب",
+   "kind": "kota",
+   "note": "Menjelang Mu'tah, Heraklius turun di Ma'ab, negeri al-Balqa', dengan 100.000 tentara Romawi",
+   "src": [
+    "Sirah Ibnu Hisyam 2/375"
+   ]
+  },
+  {
+   "t": "'Ammuriyah (Amorium)",
+   "ar": "عمورية",
+   "kind": "kota",
+   "note": "Dua raja Romawi pernah bersemayam di 'Ammuriyah, sebelum Konstantinopel menjadi ibu kota",
+   "src": [
+    "Mu'jam al-Buldan 4/347"
+   ],
+   "lat": 39.0225,
+   "lon": 31.295,
+   "precision": "tepat"
+  },
+  {
+   "t": "al-Iskandariyah",
+   "ar": "الإسكندرية",
+   "kind": "kota",
+   "note": "Negeri al-Muqauqis, penerima surat Nabi ﷺ yang dibawa Hathib bin Abi Balta'ah",
+   "src": [
+    "Sirah Ibnu Hisyam 2/607"
+   ],
+   "lat": 31.1975,
+   "lon": 29.8925,
+   "precision": "tepat"
+  },
+  {
+   "t": "Hafn (kurah Anshina), Mesir",
+   "ar": "حفن",
+   "kind": "desa",
+   "note": "Kampung asal Mariyah al-Qibthiyyah, di distrik Anshina",
+   "src": [
+    "Ibnu Sa'd 8/214"
+   ],
+   "lat": 27.8075,
+   "lon": 30.8728,
+   "precision": "perkiraan",
+   "near": "Anshina (Antinoopolis)"
+  },
+  {
+   "t": "Rumiyah (Roma)",
+   "ar": "رومية",
+   "kind": "kota",
+   "note": "Dahulu ibu kota Romawi dengan 19 raja sebelum dipindah ke Konstantinopel (di luar cakupan peta)",
+   "src": [
+    "Mu'jam al-Buldan 4/347"
+   ]
+  }
+ ],
+ "sahm": [
+  {
+   "t": "ats-Tsaniyyah (Makkah)",
+   "ar": "الثنية",
+   "kind": "distrik",
+   "note": "Saat Qushay membagi Makkah, Bani Sahm mendapat ats-Tsaniyyah; Bani 'Adi di bawahnya, antara Bani Jumah dan Bani Sahm",
+   "src": [
+    "Mu'jam ma Ista'jam 1/258"
+   ],
+   "lat": 21.4225,
+   "lon": 39.8261,
+   "precision": "perkiraan",
+   "near": "Makkah"
+  },
+  {
+   "t": "Sumur al-Ghamr (Makkah)",
+   "ar": "الغمر",
+   "kind": "mata air",
+   "note": "Sumur yang digali Bani Sahm untuk jamaah haji; sumur al-'Ash bin Wa'il",
+   "src": [
+    "Futuh al-Buldan, hlm. 58"
+   ],
+   "lat": 21.4225,
+   "lon": 39.8261,
+   "precision": "perkiraan",
+   "near": "Makkah"
+  },
+  {
+   "t": "al-Wahth (Tha'if)",
+   "ar": "الوهط",
+   "kind": "desa",
+   "note": "Desa di Tha'if, tiga mil dari Wajj; kebun anggur milik 'Amr bin al-'Ash",
+   "src": [
+    "Mu'jam al-Buldan 5/386"
+   ],
+   "lat": 21.1915,
+   "lon": 40.3506,
+   "precision": "tepat"
+  },
+  {
+   "t": "as-Sab' (Palestina)",
+   "ar": "السبع",
+   "kind": "desa",
+   "note": "Desa 'Amr bin al-'Ash di Palestina, Syam; sebagian keluarganya tinggal di sana",
+   "src": [
+    "Mu'jam ma Ista'jam 3/717"
+   ]
+  },
+  {
+   "t": "Hishn al-Barqah (al-Maraghah)",
+   "ar": "البرقة",
+   "kind": "benteng",
+   "note": "Al-Maraghah di negeri Khats'am kebanyakan dihuni Quraisy; satu dari dua bentengnya, al-Barqah, milik Bani Sahm",
+   "src": [
+    "Shifat Jazirat al-'Arab, hlm. 119"
+   ]
+  }
+ ],
+ "sulaim": [
+  {
+   "t": "Harrat Bani Sulaim",
+   "ar": "حرة بني سليم",
+   "kind": "daerah",
+   "note": "Harrah (padang lava) milik Bani Sulaim, disebut juga Ummu Shabbar; di 'Aliyah Najd; ada tambang batu dahnaj",
+   "src": [
+    "Mu'jam al-Buldan 2/246"
+   ]
+  },
+  {
+   "t": "as-Suwariqiyyah (as-Suwairiqiyyah)",
+   "ar": "السوارقية",
+   "kind": "desa",
+   "note": "Desa besar antara Makkah dan Madinah, khusus milik Bani Sulaim; ada mimbar, masjid jami' dan pasar, kebun kurma dan buah",
+   "src": [
+    "Mu'jam al-Buldan 3/276"
+   ],
+   "lat": 23.35,
+   "lon": 40.3167,
+   "precision": "tepat"
+  },
+  {
+   "t": "Ma'din Bani Sulaim (Ma'din Faran)",
+   "ar": "معدن بني سليم",
+   "kind": "mata air",
+   "note": "Tambang/mata air Bani Sulaim, disebut Ma'din Faran; termasuk wilayah Madinah di jalan ke Najd",
+   "src": [
+    "Mu'jam al-Buldan 5/154",
+    "Mu'jam al-Buldan 4/245"
+   ],
+   "lat": 24.47,
+   "lon": 39.61,
+   "precision": "perkiraan",
+   "near": "al-Madinah"
+  },
+  {
+   "t": "Pegunungan Abla",
+   "ar": "أبلى",
+   "kind": "gunung",
+   "note": "Gunung-gunung di jalan dari Madinah ke Makkah; mata airnya (Bi'r Ma'unah, Dzu Sa'idah, al-Wasba' dll.) milik Bani Sulaim",
+   "src": [
+    "Mu'jam al-Buldan 1/78"
+   ],
+   "lat": 23.6593,
+   "lon": 40.4765,
+   "precision": "tepat"
+  },
+  {
+   "t": "Bi'r Ma'unah",
+   "ar": "بئر معونة",
+   "kind": "mata air",
+   "note": "Antara tanah Bani 'Amir dan Harrat Bani Sulaim, lebih dekat ke Harrah; menurut 'Arram di pegunungan Abla dan milik Bani Sulaim",
+   "src": [
+    "Mu'jam al-Buldan 1/302"
+   ],
+   "lat": 23.6593,
+   "lon": 40.4765,
+   "precision": "perkiraan",
+   "near": "Jabal Abla"
+  },
+  {
+   "t": "al-Kudr (Qarqarat al-Kudr)",
+   "ar": "الكدر",
+   "kind": "mata air",
+   "note": "Salah satu mata air Bani Sulaim; Nabi ﷺ menyerang Bani Sulaim dan tinggal di sana tiga malam; di arah Ma'din Bani Sulaim",
+   "src": [
+    "Sirah Ibnu Hisyam 2/43",
+    "Ibnu Sa'd 2/31"
+   ],
+   "lat": 24.4717,
+   "lon": 40.0967,
+   "precision": "tepat"
+  },
+  {
+   "t": "Buhran",
+   "ar": "بحران",
+   "kind": "daerah",
+   "note": "Di arah al-Fur', delapan barid dari Madinah; Nabi ﷺ menyerang himpunan besar Bani Sulaim di sana",
+   "src": [
+    "Ibnu Sa'd 2/35"
+   ]
+  },
+  {
+   "t": "al-Jamum",
+   "ar": "الجموم",
+   "kind": "daerah",
+   "note": "Tanah Bani Sulaim di arah Bathn Nakhl; sasaran sariyyah Zaid bin Haritsah",
+   "src": [
+    "Sirah Ibnu Hisyam 2/612",
+    "Ibnu Sa'd 2/86"
+   ]
+  },
+  {
+   "t": "ad-Dathinah",
+   "ar": "الدثينة",
+   "kind": "daerah",
+   "note": "Persinggahan milik Bani Sulaim di jalan Bashrah–Makkah, sesudah Faljah",
+   "src": [
+    "Mu'jam al-Buldan 2/440"
+   ]
+  }
+ ],
+ "taim": [
+  {
+   "t": "Makkah (Dar 'Abdullah bin Jud'an)",
+   "ar": "مكة",
+   "kind": "kota",
+   "note": "Kabilah-kabilah Quraisy berkumpul untuk Hilf al-Fudhul di rumah 'Abdullah bin Jud'an at-Taimi di Makkah",
+   "src": [
+    "Sirah Ibnu Hisyam 1/133"
+   ],
+   "lat": 21.4225,
+   "lon": 39.8261,
+   "precision": "tepat"
+  },
+  {
+   "t": "al-Bithah (lembah Makkah)",
+   "ar": "البطاح",
+   "kind": "lembah",
+   "note": "Bani Taim bin Murrah termasuk Quraisy al-Bithah, yang masuk ke al-Bithah bersama Qushay",
+   "src": [
+    "al-Muhabbar, hlm. 167"
+   ],
+   "lat": 21.4225,
+   "lon": 39.8261,
+   "precision": "perkiraan",
+   "near": "Makkah"
+  },
+  {
+   "t": "Sumur ats-Tsurayya",
+   "ar": "الثريا",
+   "kind": "mata air",
+   "note": "Sumur di Makkah milik Bani Taim bin Murrah; menurut al-Waqidi milik 'Abdullah bin Jud'an",
+   "src": [
+    "Mu'jam al-Buldan 2/77"
+   ],
+   "lat": 21.4225,
+   "lon": 39.8261,
+   "precision": "perkiraan",
+   "near": "Makkah"
+  },
+  {
+   "t": "Sumur al-Hafr / al-Jafr",
+   "ar": "الحفر",
+   "kind": "mata air",
+   "note": "Sumur Bani Taim bin Murrah di Makkah (al-Hazimi membacanya al-Jafr)",
+   "src": [
+    "Mu'jam al-Buldan 2/275"
+   ],
+   "lat": 21.4225,
+   "lon": 39.8261,
+   "precision": "perkiraan",
+   "near": "Makkah"
+  },
+  {
+   "t": "Madinah (rumah Abu Bakr dan Thalhah)",
+   "ar": "المدينة",
+   "kind": "kota",
+   "note": "Nabi ﷺ memberi Thalhah bin 'Ubaidillah lahan rumah-rumahnya dan Abu Bakr lahan rumahnya dekat masjid",
+   "src": [
+    "Mu'jam al-Buldan 5/86"
+   ],
+   "lat": 24.47,
+   "lon": 39.61,
+   "precision": "tepat"
+  },
+  {
+   "t": "as-Sunh",
+   "ar": "السنح",
+   "kind": "desa",
+   "note": "Permukiman Bani al-Harits bin al-Khazraj di Madinah, satu mil dari rumah Nabi ﷺ; Abu Bakr tinggal di sana",
+   "src": [
+    "Mu'jam ma Ista'jam 3/760"
+   ],
+   "lat": 24.47,
+   "lon": 39.61,
+   "precision": "perkiraan",
+   "near": "Madinah"
+  },
+  {
+   "t": "Bustan Ibnu Ma'mar",
+   "ar": "بستان ابن معمر",
+   "kind": "lembah",
+   "note": "Pertemuan dua wadi Nakhlah (al-Yamaniyah dan asy-Syamiyah); kebun milik 'Umar bin 'Ubaidillah bin Ma'mar at-Taimi",
+   "src": [
+    "Mu'jam al-Buldan 1/414"
+   ]
+  }
+ ],
+ "tamim": [
+  {
+   "t": "ad-Dahna'",
+   "ar": "الدهناء",
+   "kind": "daerah",
+   "note": "Gurun pasir yang terkenal sebagai diyar Bani Tamim; tujuh punggung bukit pasir, kaya padang rumput",
+   "src": [
+    "Mu'jam al-Buldan 2/493"
+   ],
+   "lat": 24.1,
+   "lon": 45.4333,
+   "precision": "tepat"
+  },
+  {
+   "t": "ash-Shamman",
+   "ar": "الصمان",
+   "kind": "daerah",
+   "note": "Dahulu milik Bani Hanzhalah (Tamim); berbatasan dengan ad-Dahna'",
+   "src": [
+    "Mu'jam al-Buldan 3/423"
+   ]
+  },
+  {
+   "t": "al-Buthah",
+   "ar": "البطاح",
+   "kind": "daerah",
+   "note": "Tanah di negeri Bani Tamim; di sana Khalid bin al-Walid memerangi kaum murtad dan Malik bin Nuwairah terbunuh",
+   "src": [
+    "Mu'jam ma Ista'jam 1/256"
+   ]
+  },
+  {
+   "t": "'Adan (pesisir Kazhimah)",
+   "ar": "عدان",
+   "kind": "daerah",
+   "note": "Tempat di diyar Bani Tamim di pesisir Kazhimah; disebut juga mata air Sa'd bin Zaid Manah bin Tamim",
+   "src": [
+    "Mu'jam al-Buldan 4/88"
+   ],
+   "lat": 29.3929,
+   "lon": 47.6713,
+   "precision": "perkiraan",
+   "near": "Kazhimah"
+  },
+  {
+   "t": "Jabal Bulbul",
+   "ar": "بلبول",
+   "kind": "gunung",
+   "note": "Gunung di al-Yamamah, di negeri Bani Tamim; Yaum Bulbul termasuk hari-hari perang Arab",
+   "src": [
+    "Mu'jam al-Buldan 1/478"
+   ]
+  },
+  {
+   "t": "ad-Dau",
+   "ar": "الدو",
+   "kind": "daerah",
+   "note": "Negeri milik Bani Tamim, antara Bashrah dan al-Yamamah",
+   "src": [
+    "Mu'jam ma Ista'jam 2/566"
+   ]
+  },
+  {
+   "t": "Kawasan Bani Tamim di Bashrah",
+   "ar": "بنو تميم بالبصرة",
+   "kind": "distrik",
+   "note": "Bani Tamim bermukim di Bashrah; pasukan Asawirah Persia turun di tengah mereka dan membuat khiththah",
+   "src": [
+    "Mu'jam al-Buldan 1/191"
+   ],
+   "lat": 30.515,
+   "lon": 47.81,
+   "precision": "perkiraan",
+   "near": "Bashrah"
+  }
+ ],
+ "thayyi": [
+  {
+   "t": "Jabal Aja'",
+   "ar": "أجأ",
+   "kind": "gunung",
+   "note": "Salah satu dari dua gunung Thayyi', di barat Faid sejauh dua malam perjalanan, banyak desanya; permukiman Thayyi' di kedua gunung itu",
+   "src": [
+    "Mu'jam al-Buldan 1/94"
+   ],
+   "lat": 27.1349,
+   "lon": 42.345,
+   "precision": "tepat"
+  },
+  {
+   "t": "Jabal Salma",
+   "ar": "سلمى",
+   "kind": "gunung",
+   "note": "Gunung kedua Thayyi'; dekat Faid di kanan orang yang menuju Makkah, milik Bani Nabhan",
+   "src": [
+    "Mu'jam al-Buldan 3/238"
+   ],
+   "lat": 27.1353,
+   "lon": 42.1656,
+   "precision": "tepat"
+  },
+  {
+   "t": "Jabal Rumman",
+   "ar": "رمان",
+   "kind": "gunung",
+   "note": "Gunung di negeri Thayyi' di barat Salma; ke sanalah sisa pasukan murtad lari setelah Buzakhah",
+   "src": [
+    "Mu'jam al-Buldan 3/67"
+   ],
+   "lat": 26.7494,
+   "lon": 41.6047,
+   "precision": "tepat"
+  },
+  {
+   "t": "Taima'",
+   "ar": "تيماء",
+   "kind": "kota",
+   "note": "Antara al-Hijr dan Taima' dihuni Bani Shakhr, Bani 'Amr dan sebagian Buhtur dari Thayyi'; pusat Taima' kini milik Thayyi'",
+   "src": [
+    "Shifat Jazirat al-'Arab, hlm. 131"
+   ],
+   "lat": 27.6261,
+   "lon": 38.5476,
+   "precision": "tepat"
+  },
+  {
+   "t": "Diyar Buhtur (Taima'–Kufah)",
+   "ar": "ديار بحتر",
+   "kind": "daerah",
+   "note": "Dari Taima' menuju Kufah orang melewati diyar Buhtur dari Thayyi' hingga diyar Bani Asad, lima hari sebelum Kufah",
+   "src": [
+    "Shifat Jazirat al-'Arab, hlm. 131"
+   ]
+  },
+  {
+   "t": "Wadi ash-Shudarah (Baihan)",
+   "ar": "الصدارة",
+   "kind": "lembah",
+   "note": "Lembah yang mengalir ke Baihan di Yaman; penghuninya ar-Ridhawiyyun dari Thayyi' (Bani 'Abd Ridha)",
+   "src": [
+    "Shifat Jazirat al-'Arab, hlm. 98"
+   ],
+   "lat": 14.8,
+   "lon": 45.7333,
+   "precision": "perkiraan",
+   "near": "Baihan"
+  }
+ ],
+ "tsaqif": [
+  {
+   "t": "ath-Tha'if (Wadi Wajj)",
+   "ar": "الطائف",
+   "kind": "kota",
+   "note": "Wadi Wajj, negeri Tsaqif; 12 farsakh dari Makkah",
+   "src": [
+    "Mu'jam al-Buldan 4/9"
+   ],
+   "lat": 21.2667,
+   "lon": 40.4167,
+   "precision": "tepat"
+  },
+  {
+   "t": "Wadi Liyyah",
+   "ar": "لية",
+   "kind": "lembah",
+   "note": "Wadi dekat ath-Tha'if; bagian atasnya milik Tsaqif, bagian bawahnya milik Nashr bin Mu'awiyah",
+   "src": [
+    "Mu'jam al-Buldan 5/30"
+   ],
+   "lat": 21.2247,
+   "lon": 40.5086,
+   "precision": "tepat"
+  },
+  {
+   "t": "Wadi Jafn",
+   "ar": "جفن",
+   "kind": "lembah",
+   "note": "Wadi milik Tsaqif di sisi selatan ath-Tha'if, antara ath-Tha'if dan Ma'din al-Buram",
+   "src": [
+    "Shifat Jazirat al-'Arab, hlm. 121"
+   ],
+   "lat": 21.2667,
+   "lon": 40.4167,
+   "precision": "perkiraan",
+   "near": "ath-Tha'if"
+  },
+  {
+   "t": "Ma'din al-Buram",
+   "ar": "معدن البرام",
+   "kind": "daerah",
+   "note": "Didiami Quraisy dan Tsaqif",
+   "src": [
+    "Shifat Jazirat al-'Arab, hlm. 121"
+   ]
+  },
+  {
+   "t": "Wadi Tudha'",
+   "ar": "تضاع",
+   "kind": "lembah",
+   "note": "Wadi di Hijaz milik Tsaqif dan Hawazin",
+   "src": [
+    "Mu'jam al-Buldan 2/32"
+   ]
+  },
+  {
+   "t": "Qarqara (al-Yamamah)",
+   "ar": "قرقرى",
+   "kind": "benteng",
+   "note": "Tanah di al-Yamamah dengan empat benteng; dua di antaranya milik Tsaqif",
+   "src": [
+    "Mu'jam al-Buldan 4/326"
+   ]
+  },
+  {
+   "t": "Khiththah Tsaqif di Kufah",
+   "ar": "الكوفة",
+   "kind": "distrik",
+   "note": "Saat pembagian khiththah Kufah, as-Sa'ib bin al-Aqra' memetakan lahan Tsaqif antara sungai dan Dar al-Imarah",
+   "src": [
+    "Mu'jam al-Buldan 4/492"
+   ],
+   "lat": 32.03,
+   "lon": 44.4,
+   "precision": "perkiraan",
+   "near": "Kufah"
+  },
+  {
+   "t": "Nahr Azza (Bashrah)",
+   "ar": "نهر أزى",
+   "kind": "daerah",
+   "note": "Kanal kuno di Bashrah, Irak, milik sebagian orang Tsaqif",
+   "src": [
+    "Mu'jam al-Buldan 5/317"
+   ],
+   "lat": 30.515,
+   "lon": 47.81,
+   "precision": "perkiraan",
+   "near": "Bashrah"
+  },
+  {
+   "t": "al-Hushaib (Zabid)",
+   "ar": "الحصيب",
+   "kind": "desa",
+   "note": "Desa Zabid di Yaman milik al-Asy'ariyyin; belakangan Bani Wafid dari Tsaqif bercampur dengan mereka",
+   "src": [
+    "Mu'jam al-Buldan 2/266"
+   ],
+   "lat": 14.2,
+   "lon": 43.3167,
+   "precision": "perkiraan",
+   "near": "Zabid"
+  }
+ ],
+ "umayyah": [
+  {
+   "t": "Makkah (Dar Abi Sufyan)",
+   "ar": "مكة",
+   "kind": "kota",
+   "note": "Rumah Abu Sufyan di Makkah bagian atas; saat Fathu Makkah siapa yang memasukinya dijamin aman",
+   "src": [
+    "Tarikh ath-Thabari 3/55"
+   ],
+   "lat": 21.4225,
+   "lon": 39.8261,
+   "precision": "tepat"
+  },
+  {
+   "t": "Sumur ath-Thawi",
+   "ar": "الطوي",
+   "kind": "mata air",
+   "note": "Sumur yang digali 'Abd Syams bin 'Abd Manaf, di Makkah bagian atas dekat al-Baidha'",
+   "src": [
+    "Sirah Ibnu Hisyam 1/148"
+   ],
+   "lat": 21.4225,
+   "lon": 39.8261,
+   "precision": "perkiraan",
+   "near": "Makkah"
+  },
+  {
+   "t": "Sumur al-Hafr",
+   "ar": "الحفر",
+   "kind": "mata air",
+   "note": "Sumur di Makkah yang digali Umayyah bin 'Abd Syams untuk dirinya",
+   "src": [
+    "Sirah Ibnu Hisyam 1/149"
+   ],
+   "lat": 21.4225,
+   "lon": 39.8261,
+   "precision": "perkiraan",
+   "near": "Makkah"
+  },
+  {
+   "t": "Madinah (kavling 'Utsman bin 'Affan)",
+   "ar": "المدينة",
+   "kind": "kota",
+   "note": "Nabi ﷺ memberi 'Utsman bin 'Affan dan sahabat lain lahan untuk rumah mereka di Madinah",
+   "src": [
+    "Mu'jam al-Buldan 5/86"
+   ],
+   "lat": 24.47,
+   "lon": 39.61,
+   "precision": "tepat"
+  },
+  {
+   "t": "Damaskus",
+   "ar": "دمشق",
+   "kind": "kota",
+   "note": "Kedudukan Yazid bin Mu'awiyah; Mu'awiyah wafat di Damaskus",
+   "src": [
+    "Tarikh ath-Thabari 5/459"
+   ],
+   "lat": 33.5131,
+   "lon": 36.2919,
+   "precision": "tepat"
+  },
+  {
+   "t": "Harlan (Ghuthah Damaskus)",
+   "ar": "حرلان",
+   "kind": "daerah",
+   "note": "Kawasan di Ghuthah Damaskus berisi beberapa desa; dihuni para bangsawan Bani Umayyah",
+   "src": [
+    "Mu'jam al-Buldan 2/243"
+   ],
+   "lat": 33.5,
+   "lon": 36.4208,
+   "precision": "perkiraan",
+   "near": "Ghouta"
+  },
+  {
+   "t": "al-Jami' (Ghuthah)",
+   "ar": "الجامع",
+   "kind": "desa",
+   "note": "Desa di Ghuthah yang dihuni sekelompok Bani Umayyah, antara lain al-Walid bin Tammam",
+   "src": [
+    "Mu'jam al-Buldan 2/96"
+   ],
+   "lat": 33.5,
+   "lon": 36.4208,
+   "precision": "perkiraan",
+   "near": "Ghouta"
+  },
+  {
+   "t": "Dair Sim'an",
+   "ar": "دير سمعان",
+   "kind": "desa",
+   "note": "Di wilayah Damaskus; dikelilingi istana dan kebun Bani Umayyah; makam 'Umar bin 'Abdul 'Aziz",
+   "src": [
+    "Mu'jam ma Ista'jam 2/585"
+   ]
+  },
+  {
+   "t": "ar-Rushafah (Rushafah Hisyam)",
+   "ar": "رصافة هشام",
+   "kind": "kota",
+   "note": "Dibangun Hisyam bin 'Abdul Malik di barat ar-Raqqah (4 farsakh); tempat tinggalnya di musim panas",
+   "src": [
+    "Mu'jam al-Buldan 3/47"
+   ],
+   "lat": 35.6278,
+   "lon": 38.7564,
+   "precision": "tepat"
+  },
+  {
+   "t": "Madinat az-Zahra' (dekat Cordoba)",
+   "ar": "الزهراء",
+   "kind": "kota",
+   "note": "Kota kecil dekat Cordoba (Andalus) yang dibangun 'Abdurrahman an-Nashir al-Umawi tahun 325 H",
+   "src": [
+    "Mu'jam al-Buldan 3/161"
+   ]
+  }
+ ],
+ "zuhrah": [
+  {
+   "t": "Makkah (al-Bithah)",
+   "ar": "مكة",
+   "kind": "kota",
+   "note": "Bani Zuhrah bin Kilab tergolong Quraisy al-Bithah, yang masuk ke lembah Makkah bersama Qushay",
+   "src": [
+    "al-Muhabbar, hlm. 167",
+    "al-Muhabbar, hlm. 168"
+   ],
+   "lat": 21.4225,
+   "lon": 39.8261,
+   "precision": "tepat"
+  },
+  {
+   "t": "Khiththah Bani Zuhrah di Madinah",
+   "ar": "خطة بني زهرة",
+   "kind": "distrik",
+   "note": "Saat hijrah, Nabi ﷺ membagikan kavling di Madinah; untuk Bani Zuhrah di sisi belakang Masjid, di sana benteng milik Abdurrahman bin 'Auf",
+   "src": [
+    "Mu'jam al-Buldan 5/86"
+   ],
+   "lat": 24.47,
+   "lon": 39.61,
+   "precision": "perkiraan",
+   "near": "al-Madinah"
+  },
+  {
+   "t": "Kaidamah",
+   "ar": "كيدمة",
+   "kind": "daerah",
+   "note": "Tempat di Madinah, bagian Abdurrahman bin 'Auf dari tanah Bani an-Nadhir",
+   "src": [
+    "Mu'jam al-Buldan 4/497"
+   ],
+   "lat": 24.47,
+   "lon": 39.61,
+   "precision": "perkiraan",
+   "near": "al-Madinah"
+  },
+  {
+   "t": "Qashr Sa'd di Hamra' al-Asad",
+   "ar": "حمراء الأسد",
+   "kind": "benteng",
+   "note": "Sa'd bin Abi Waqqash mengasingkan diri di tepi Hamra' al-Asad dalam istana yang ia bangun, wafat di sana dan dimakamkan di Madinah",
+   "src": [
+    "Mu'jam ma Ista'jam 3/956"
+   ],
+   "lat": 24.3799,
+   "lon": 39.5211,
+   "precision": "tepat"
+  }
+ ]
+}

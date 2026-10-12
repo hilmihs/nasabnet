@@ -1,0 +1,23 @@
+{
+  "id": "dhabbah",
+  "nama_arti": {"t": "Nama diambil dari leluhur eponim, Dhabbah bin Udd; menurut Ibnu Duraid, kata dhabbah berasal dari salah satu dari dua hal: dhabbah betina (kadal gurun) atau dhabbah dari besi (pelat/kancing besi).",
+    "src": ["Jamharat Ansab al-'Arab, hlm. 203", "al-Isytiqaq, hlm. 189"],
+    "quote": ["وهؤلاء بنو ضبّة بن أدّ ولد ضبّة بن أدّ: سعد بن ضبّة", "اشتقاق ضَبّة من شيئين: إمّا من الضَّبّة الأنثى، أو من الضَّبّة الحديدِ"],
+    "status": "rewritten"},
+  "titik_temu": {"t": "Rumpun Mudhar: Dhabbah bin Udd bin Thabikhah bin Ilyas, bersaudara dengan Murr (ayah Tamim), 'Amr (Muzainah), dan Abdu Manah bin Udd (induk ar-Ribab); bertemu dengan Kinanah dan Quraisy (keturunan Mudrikah) pada Ilyas bin Mudhar. Dhabbah pernah bersekutu dengan ar-Ribab melawan Tamim lalu keluar dari persekutuan itu, meski Ibnu Duraid tetap menghitungnya dalam ar-Ribab.",
+    "src": ["Jamharat Ansab al-'Arab, hlm. 198", "Jamharat Ansab al-'Arab, hlm. 198", "Jamharat Ansab al-'Arab, hlm. 10", "Jamharat Ansab al-'Arab, hlm. 198", "Jamharat Ansab al-'Arab, hlm. 198", "al-Isytiqaq, hlm. 180"],
+    "quote": ["ولد طابخة بن إلياس: أدّ بن طابخة", "فولد أدّ بن طابخة: مرّ بن أد، وضبّة بن أدّ، وعمرو بن أدّ، وعبد مناة بن أدّ", "فولد الياس بن مضر بن نزار بن معد بن عدنان: عامر، وهو مدركة؛ وعمرو، وهو طابخة", "وهؤلاء هم الرّباب، لأنّهم تحالفوا مع بنى عمهم ضبّة على بنى عمهم تميم بن مرّ", "ثمّ خرجت عنهم ضبّة، واكتفت بعددها", "فالرِّباب: تيمٌ، وعديٌّ، وعُكْل، ومُزَينة، وضَبَّة"],
+    "status": "rewritten"},
+  "wilayah": {"t": "Najd: antara lain Ta'syar (air milik Bani Dhabbah di Najd), al-Bakarat (air milik Dhabbah di Yamamah, di bagian bawah al-Wasym), dan lembah asy-Syawajin; sebagian Dhabbah tergolong penghuni al-'Aliyah. Kemudian mereka memiliki khiththah (permukiman) di Bashrah.",
+    "src": ["Mu'jam ma Ista'jam 1/314", "Mu'jam al-Buldan 1/475", "Mu'jam al-Buldan 1/395", "Mu'jam al-Buldan 4/71", "Mu'jam al-Buldan 4/124"],
+    "quote": ["وقال الخليل: ماء لبنى ضبّة بنجد", "البكرات ماء لضبّة بأرض اليمامة، وهي قارات بأسفل الوشم", "الشواجن: واد في ديار ضبّة", "وطائفة من بني ضبّة وعامر كلّها وغنيّ وباهلة", "وقصر عسل: بالبصرة بقرب خطة بني ضبّة"],
+    "status": "rewritten"},
+  "peran_sosial": {"t": "Dharar bin 'Amr adalah sayyid Bani Dhabbah; pada hari al-Qurnatain ia hadir bersama delapan belas putranya. Keturunannya kemudian termasuk tokoh terpandang Bashrah.",
+    "src": ["Jamharat Ansab al-'Arab, hlm. 203", "Jamharat Ansab al-'Arab, hlm. 204"],
+    "quote": ["سيد بنى ضبّة، شهد يوم القرنتين، ومعه ثمانية عشر ذكرا من ولده", "ومثجور بن غيلان بن خرشة بن عمرو بن ضرار، من أشراف أهل البصرة"],
+    "status": "rewritten"},
+  "dinamika": {"t": "Pada Perang Jamal, al-Hushain bin Dharar gugur di depan Aisyah bersama tujuh ratus orang Bani Dhabbah; Aisyah berkata untanya tetap tegak hingga suara Bani Dhabbah tak terdengar lagi.",
+    "src": ["Jamharat Ansab al-'Arab, hlm. 203", "Tarikh ath-Thabari 4/518"],
+    "quote": ["وقتل ابن ضبة بين يدى عائشةرضي الله عنها-فى سبعمائة من بنى ضبّة", "ما زال جملي معتدلا حتى فقدت أصوات بني ضبة"],
+    "status": "rewritten"}
+}

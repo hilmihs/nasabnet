@@ -1,0 +1,28 @@
+{
+ "id": "hudzail",
+ "name": "Hudzail",
+ "ar": "هذيل",
+ "group": "arab",
+ "umum": {
+  "nama_arti": "Nama diambil dari leluhur eponim, Hudzail bin Mudrikah.",
+  "titik_temu": "Bersaudara dengan Khuzaimah (leluhur Kinanah dan Quraisy), keduanya anak Mudrikah bin Ilyas; dengan Quraisy bertemu pada Ilyas bin Mudhar.",
+  "wilayah": "Pegunungan di sekitar Makkah.",
+  "peran_sosial": "Klan Abdullah bin Mas'ud, sahabat ahli Al-Qur'an dan qari terkemuka; kabilah ini juga dikenal luas dalam sejarah sastra Arab pra-Islam, memiliki banyak penyair ternama.",
+  "dinamika": "Abdullah bin Mas'ud dikenal sebagai salah satu sahabat paling menguasai bacaan Al-Qur'an sesuai pengakuan Nabi ﷺ, dan menjadi rujukan utama qira'at serta fiqih di Kufah."
+ },
+ "already_cited": {
+  "leluhur": {
+   "t": "Hudzail bin Mudrikah bin Ilyas bin Mudhar.",
+   "src": [
+    "Jamharat Ansab al-'Arab, hlm. 196"
+   ]
+  },
+  "struktur": {
+   "t": "Dua anak Hudzail: Sa'd dan Lihyan; dari Sa'd lewat Tamim-Mu'awiyah lahir Abdullah bin Mas'ud dan saudara-saudaranya, 'Utbah dan 'Umais.",
+   "src": [
+    "Jamharat Ansab al-'Arab, hlm. 196"
+   ]
+  }
+ },
+ "roles_umum": []
+}

@@ -1,17 +1,125 @@
 {
   "id": "azd",
-  "lokasi": {"t": "Asalnya Yaman; setelah keluar bersama 'Amr bin 'Amir: Al Jafnah ke Syam, Aus dan Khazraj ke Yatsrib, Azd as-Sarah di as-Sarah, Azd 'Uman di Oman", "src": ["Sirah Ibnu Hisyam 1/13", "Sirah Ibnu Hisyam 1/13", "Sirah Ibnu Hisyam 1/13"], "quote": ["فَنَزَلَ آلُ جَفْنَةَ بْنِ عَمْرِو بْنِ عَامِرٍ الشَّامَ، وَنَزَلَتْ الْأَوْسُ وَالْخَزْرَجُ يَثْرِبَ", "وَنَزَلَتْ أَزْد السّراة السَّرَاةَ", "وَنَزَلَتْ أَزْدُ عَمَّانَ عُمَانَ"], "status": "rewritten"},
+  "lokasi": {
+    "t": "Asalnya Yaman; setelah keluar bersama 'Amr bin 'Amir: Al Jafnah ke Syam, Aus dan Khazraj ke Yatsrib, Azd as-Sarah di as-Sarah, Azd 'Uman di Oman",
+    "src": [
+      "Sirah Ibnu Hisyam 1/13",
+      "Sirah Ibnu Hisyam 1/13",
+      "Sirah Ibnu Hisyam 1/13"
+    ],
+    "quote": [
+      "فَنَزَلَ آلُ جَفْنَةَ بْنِ عَمْرِو بْنِ عَامِرٍ الشَّامَ، وَنَزَلَتْ الْأَوْسُ وَالْخَزْرَجُ يَثْرِبَ",
+      "وَنَزَلَتْ أَزْد السّراة السَّرَاةَ",
+      "وَنَزَلَتْ أَزْدُ عَمَّانَ عُمَانَ"
+    ],
+    "status": "rewritten"
+  },
   "militer": [
-    {"t": "al-Muhallab bin Abi Shufrah (Bani al-'Atik dari Azd) ditunjuk Abdul Malik bin Marwan memerangi Khawarij Azariqah", "src": ["Jamharat Ansab al-'Arab, hlm. 367", "Tarikh ath-Thabari 6/195"], "quote": ["وهؤلاء ولد العتيك بن الأزد بن عمرو مزيقياء منهم: المهلّب بن أبي صفرة", "وفي هذه السنة ولي المهلب حرب الأزارقة من قبل عبد الملك"], "status": "rewritten"}
+    {
+      "t": "Pada Perang Jamal Azd (Bashrah) bersama Dhabbah mengelilingi unta 'Aisyah, dan dua ribu orang Azd termasuk yang terbunuh di sekitar unta; Azd dari Kufah berada di pihak 'Ali dengan panji mereka dipegang Mikhnaf bin Sulaim",
+      "src": [
+        "Tarikh ath-Thabari 4/523",
+        "Tarikh ath-Thabari 4/539",
+        "Tarikh ath-Thabari 4/521"
+      ],
+      "quote": [
+        "أطافت ضبة والأزد بعائشة يوم الجمل",
+        "كَانَ قتلى الجمل حول الجمل عشرة آلاف، نصفهم من أَصْحَاب علي، ونصفهم من أَصْحَاب عَائِشَة، من الأزد ألفان",
+        "كَانَتْ راية الأزد من أهل الْكُوفَة مع مخنف بن سليم"
+      ],
+      "status": "new"
+    },
+    {
+      "t": "Kaum Azd yang masuk Islam dijadikan pasukan oleh Nabi ﷺ di bawah Shurad bin 'Abdullah untuk memerangi kabilah musyrik Yaman di sekitar mereka; mereka mengepung dan mengalahkan penduduk Jurasy",
+      "src": [
+        "Ibnu Sa'd 1/338",
+        "Ibnu Sa'd 1/338"
+      ],
+      "quote": [
+        "فأمره رسول الله، ﷺ، على من أسلم من قومه، وأمره أن يجاهد بهم من يليه من أهل الشرك",
+        "فخرج حتى نزل جرش، وهي مدينة حصينة مغلقة"
+      ],
+      "status": "new"
+    }
   ],
   "diplomasi": [
-    {"t": "Ghassan (keturunan Mazin bin al-Azd) mengikat perjanjian dengan raja Romawi di Syam: Romawi membantu 40.000 prajurit bila Ghassan diserang Arab, dan sebaliknya Ghassan 20.000", "src": ["al-Muhabbar, hlm. 370", "al-Muhabbar, hlm. 371", "al-Muhabbar, hlm. 371"], "quote": ["سبب ملك غسان مع الروم", "ورئيس غسان يومئذ ثعلبة بن عمرو بن المجالد", "إن دهِمكم دهم من العرب أمددتكم بأربعين ألف مقاتل من الروم"], "status": "rewritten"}
+    {
+      "t": "Ghassan (keturunan Mazin bin al-Azd) mengikat perjanjian dengan raja Romawi di Syam: Romawi membantu 40.000 prajurit bila Ghassan diserang Arab, dan sebaliknya Ghassan 20.000",
+      "src": [
+        "al-Muhabbar, hlm. 370",
+        "al-Muhabbar, hlm. 371",
+        "al-Muhabbar, hlm. 371"
+      ],
+      "quote": [
+        "سبب ملك غسان مع الروم",
+        "ورئيس غسان يومئذ ثعلبة بن عمرو بن المجالد",
+        "إن دهِمكم دهم من العرب أمددتكم بأربعين ألف مقاتل من الروم"
+      ],
+      "status": "rewritten"
+    },
+    {
+      "t": "Delegasi Azd (belasan orang dipimpin Shurad bin 'Abdullah) datang kepada Nabi ﷺ; delegasi Azd 'Uman juga datang dan meminta seorang utusan untuk mengurus urusan mereka",
+      "src": [
+        "Ibnu Sa'd 1/337",
+        "Ibnu Sa'd 1/351",
+        "Ibnu Sa'd 1/351"
+      ],
+      "quote": [
+        "قدم صرد بن عبد الله الأزدي في بضعة عشر رجلًا من قومه وفدًا",
+        "وفد أزد عُمان",
+        "فسألوه أن يبعث معهم رجلًا يقيم أمرهم"
+      ],
+      "status": "new"
+    }
   ],
   "ekonomi": [
-    {"t": "Menurut Ibnu Ishaq, 'Amr bin 'Amir meninggalkan Yaman setelah melihat Bendungan Ma'rib akan jebol; al-Azd menjual harta mereka dan ikut bermigrasi", "src": ["Sirah Ibnu Hisyam 1/13", "Sirah Ibnu Hisyam 1/13"], "quote": ["يَحْفِرُ فِي سَدِّ مَأْرِبٍ، الَّذِي كَانَ يَحْبِسُ عَلَيْهِمْ الْمَاءَ", "وَقَالَتْ الْأَزْدُ: لَا نَتَخَلَّفُ عَنْ عَمْرِو بْنِ عَامِرٍ، فَبَاعُوا أَمْوَالَهُمْ"], "status": "rewritten"}
+    {
+      "t": "Menurut Ibnu Ishaq, 'Amr bin 'Amir meninggalkan Yaman setelah melihat Bendungan Ma'rib akan jebol; al-Azd menjual harta mereka dan ikut bermigrasi",
+      "src": [
+        "Sirah Ibnu Hisyam 1/13",
+        "Sirah Ibnu Hisyam 1/13"
+      ],
+      "quote": [
+        "يَحْفِرُ فِي سَدِّ مَأْرِبٍ، الَّذِي كَانَ يَحْبِسُ عَلَيْهِمْ الْمَاءَ",
+        "وَقَالَتْ الْأَزْدُ: لَا نَتَخَلَّفُ عَنْ عَمْرِو بْنِ عَامِرٍ، فَبَاعُوا أَمْوَالَهُمْ"
+      ],
+      "status": "rewritten"
+    }
   ],
   "sosial": [
-    {"t": "Induk dari Aus, Khazraj, Ghassan, dan Daus; juga Khuza'ah menurut sebagian ahli nasab (yang lain menasabkannya ke Mudhar)", "src": ["Sirah Ibnu Hisyam 1/13", "Sirah Ibnu Hisyam 1/13", "Jamharat Ansab al-'Arab, hlm. 382", "Sirah Ibnu Hisyam 1/76"], "quote": ["فَنَزَلَ آلُ جَفْنَةَ بْنِ عَمْرِو بْنِ عَامِرٍ الشَّامَ، وَنَزَلَتْ الْأَوْسُ وَالْخَزْرَجُ يَثْرِبَ", "وَنَزَلَتْ خُزَاعَةُ مَرًّا", "بن عبد الله بن مالك بن نصر بن الأزد", "فَيَزْعُمُ نُسَّابُ مُضَرَ: أَنَّ خُزَاعَةَ مِنْ وَلَدِ عَمْرِو بْنِ لُحَيِّ"], "status": "ok"}
+    {
+      "t": "Induk dari Aus, Khazraj, Ghassan, dan Daus; juga Khuza'ah menurut sebagian ahli nasab (yang lain menasabkannya ke Mudhar)",
+      "src": [
+        "Sirah Ibnu Hisyam 1/13",
+        "Sirah Ibnu Hisyam 1/13",
+        "Jamharat Ansab al-'Arab, hlm. 382",
+        "Sirah Ibnu Hisyam 1/76"
+      ],
+      "quote": [
+        "فَنَزَلَ آلُ جَفْنَةَ بْنِ عَمْرِو بْنِ عَامِرٍ الشَّامَ، وَنَزَلَتْ الْأَوْسُ وَالْخَزْرَجُ يَثْرِبَ",
+        "وَنَزَلَتْ خُزَاعَةُ مَرًّا",
+        "بن عبد الله بن مالك بن نصر بن الأزد",
+        "فَيَزْعُمُ نُسَّابُ مُضَرَ: أَنَّ خُزَاعَةَ مِنْ وَلَدِ عَمْرِو بْنِ لُحَيِّ"
+      ],
+      "status": "ok"
+    },
+    {
+      "t": "Pada masa jahiliah Azd Syanu'ah dan Azd lainnya, bersama Anshar, menyembah Manat di pesisir; juru kuncinya al-Ghatharif dari Azd",
+      "src": [
+        "al-Muhabbar, hlm. 316",
+        "al-Muhabbar, hlm. 316"
+      ],
+      "quote": [
+        "وكانت الأنصار وأزد شنوءة وغيرهم من الأزد يعبدون مناة",
+        "سدنته الغطاريف من الأزد"
+      ],
+      "status": "new"
+    }
   ],
-  "dropped": []
+  "dropped": [
+    {
+      "t": "al-Muhallab bin Abi Shufrah (Bani al-'Atik dari Azd) ditunjuk Abdul Malik bin Marwan memerangi Khawarij Azariqah",
+      "reason": "person-level (al-Muhallab bin Abi Shufrah, tabi'i, not in dataset); no tribe-level role cited"
+    }
+  ]
 }

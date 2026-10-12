@@ -1,29 +1,122 @@
 {
   "id": "hawazin",
-  "lokasi": {"t": "Sekitar Tha'if dan Najd bagian barat", "status": "umum"},
+  "lokasi": {
+    "t": "Sisi Najd dari pegunungan Tha'if, meliputi 'Ukazh dan al-'Abr; lembah Authas (tempat Perang Hunain) termasuk negeri mereka",
+    "src": [
+      "Shifat Jazirat al-'Arab, hlm. 71",
+      "Mu'jam al-Buldan 1/281"
+    ],
+    "quote": [
+      "ثم سراة الطائف غورها مكة ونجدها ديار هوازن من عكاظ والعبر",
+      "وأوطاس: واد في ديار هوازن فيه كانت وقعة حنين"
+    ],
+    "status": "rewritten"
+  },
   "militer": [
-    {"t": "Mengerahkan pasukan besar melawan kaum Muslimin di Hunain (8 H) di bawah Malik bin 'Auf an-Nashri, bersama seluruh Tsaqif",
-     "src": ["Sirah Ibnu Hisyam 2/437", "Sirah Ibnu Hisyam 2/437"],
-     "quote": ["غزوة حنين في سنة ثمان بعد الفتح", "جَمَعَهَا مَالِكُ بْنُ عَوْفٍ النَّصْرِيُّ، فَاجْتَمَعَ إلَيْهِ مَعَ هَوَازِنَ ثَقِيفٌ كُلُّهَا"],
-     "status": "rewritten"}
+    {
+      "t": "Mengerahkan pasukan besar melawan kaum Muslimin di Hunain (8 H) di bawah Malik bin 'Auf an-Nashri, bersama seluruh Tsaqif",
+      "src": [
+        "Sirah Ibnu Hisyam 2/437",
+        "Sirah Ibnu Hisyam 2/437"
+      ],
+      "quote": [
+        "غزوة حنين في سنة ثمان بعد الفتح",
+        "جَمَعَهَا مَالِكُ بْنُ عَوْفٍ النَّصْرِيُّ، فَاجْتَمَعَ إلَيْهِ مَعَ هَوَازِنَ ثَقِيفٌ كُلُّهَا"
+      ],
+      "status": "rewritten"
+    },
+    {
+      "t": "Hawazin (dari Qais 'Ailan) berperang melawan Quraisy dan Kinanah dalam Perang Fijar, yang dimulai di 'Ukazh pada bulan haram; Nabi ﷺ menyaksikan sebagian harinya bersama paman-pamannya",
+      "src": [
+        "Sirah Ibnu Hisyam 1/186",
+        "Sirah Ibnu Hisyam 1/186",
+        "Sirah Ibnu Hisyam 1/186"
+      ],
+      "quote": [
+        "نُشُوبُ الْحَرْبِ بَيْنَ قُرَيْشٍ وَهَوَازِنَ",
+        "فَأَدْرَكُوهُمْ قَبْلَ أَنْ يَدْخُلُوا الْحَرَمَ، فَاقْتَتَلُوا حَتَّى جَاءَ اللَّيْلُ",
+        "وَشَهِدَ رَسُولُ اللَّهِ ﷺ بَعْضَ أَيَّامِهِمْ، أَخْرَجَهُ أَعْمَامُهُ مَعَهُمْ"
+      ],
+      "status": "new"
+    }
   ],
   "diplomasi": [
-    {"t": "Delegasi Hawazin menemui Nabi ﷺ di Ji'ranah meminta keluarga mereka dikembalikan; Nabi ﷺ, kaum Muhajirin, dan Anshar membebaskan para tawanan",
-     "src": ["Sirah Ibnu Hisyam 2/488", "Ibnu Sa'd 1/115"],
-     "quote": ["ثم أتاه وفد هوازن بالجعرانة", "فرد عليهم رسول الله، ﷺ، ما كان له ولبني عبد المطلب، ورد المهاجرون ورد الأنصار"],
-     "status": "rewritten"}
+    {
+      "t": "Delegasi Hawazin menemui Nabi ﷺ di Ji'ranah meminta keluarga mereka dikembalikan; Nabi ﷺ, kaum Muhajirin, dan Anshar membebaskan para tawanan",
+      "src": [
+        "Sirah Ibnu Hisyam 2/488",
+        "Ibnu Sa'd 1/115"
+      ],
+      "quote": [
+        "ثم أتاه وفد هوازن بالجعرانة",
+        "فرد عليهم رسول الله، ﷺ، ما كان له ولبني عبد المطلب، ورد المهاجرون ورد الأنصار"
+      ],
+      "status": "rewritten"
+    },
+    {
+      "t": "Saat Riddah Hawazin bimbang dan menahan zakat; utusan mereka bersama Asad, Ghathafan dan Thayyi' datang ke Madinah menawarkan tetap salat asal dibebaskan dari zakat, tetapi ditolak Abu Bakar",
+      "src": [
+        "Tarikh ath-Thabari 3/242",
+        "Tarikh ath-Thabari 3/258",
+        "Tarikh ath-Thabari 3/258",
+        "Tarikh ath-Thabari 3/258"
+      ],
+      "quote": [
+        "وقدمت هَوَازِن رجلا وأخرت رجلا أمسكوا الصدقه",
+        "وَقَدِمَتْ عَلَيْهِ وُفُودُ بَنِي أَسَدٍ وَغَطَفَانَ وَهَوَازِنَ وَطَيِّئٍ",
+        "فَعَرَضُوا الصَّلاةَ عَلَى أَنْ يُعْفَوْا مِنَ الزَّكَاةِ",
+        "فَإِنَّهُ أَبَى إِلا ما كان رسول الله ص يَأْخُذُ، وَأَبَوْا، فَرَدَّهُمْ"
+      ],
+      "status": "new"
+    }
   ],
   "ekonomi": [
-    {"t": "Ghanimah Hunain dikumpulkan di Ji'ranah: 6.000 tawanan, 24.000 unta, lebih dari 40.000 kambing, dan 4.000 uqiyah perak, lalu dibagikan kepada pasukan",
-     "src": ["Ibnu Sa'd 2/152", "Ibnu Sa'd 2/152", "Ibnu Sa'd 2/153"],
-     "quote": ["فجمع ذلك كله وحدروه إلى الجعرانة", "وكان السبي ستة آلاف رأس، والإبل أربعة وعشرين ألف بعير، والغنم أكثر من أربعين ألف شاة", "ثم أمر زيد بن ثابت بإحصاء الناس والغنائم ثم فضها على الناس"],
-     "status": "rewritten"}
+    {
+      "t": "Ghanimah Hunain dikumpulkan di Ji'ranah: 6.000 tawanan, 24.000 unta, lebih dari 40.000 kambing, dan 4.000 uqiyah perak, lalu dibagikan kepada pasukan",
+      "src": [
+        "Ibnu Sa'd 2/152",
+        "Ibnu Sa'd 2/152",
+        "Ibnu Sa'd 2/153"
+      ],
+      "quote": [
+        "فجمع ذلك كله وحدروه إلى الجعرانة",
+        "وكان السبي ستة آلاف رأس، والإبل أربعة وعشرين ألف بعير، والغنم أكثر من أربعين ألف شاة",
+        "ثم أمر زيد بن ثابت بإحصاء الناس والغنائم ثم فضها على الناس"
+      ],
+      "status": "rewritten"
+    },
+    {
+      "t": "Hawazin, bersama Quraisy dan kabilah lain, singgah dan berniaga di pasar 'Ukazh, salah satu pasar terbesar Arab",
+      "src": [
+        "al-Muhabbar, hlm. 267"
+      ],
+      "quote": [
+        "وكانت عكاظ من أعظم أسواق العرب. وكانت قريش تنزلها وهوازن"
+      ],
+      "status": "new"
+    }
   ],
   "sosial": [
-    {"t": "Halimah as-Sa'diyyah, ibu susu Nabi ﷺ, dari Bani Sa'd bin Bakr (Hawazin)",
-     "src": ["Sirah Ibnu Hisyam 1/160"],
-     "quote": ["امْرَأَةً مِنْ بَنِي سَعْدِ بْنِ بَكْرٍ، يُقَالُ لَهَا: حَلِيمَةُ ابْنَةُ أَبِي ذُؤَيْبٍ"],
-     "status": "ok"}
+    {
+      "t": "Nabi ﷺ disusukan di kalangan Bani Sa'd bin Bakr (Hawazin), pada Halimah binti Abi Dzu'aib",
+      "src": [
+        "Sirah Ibnu Hisyam 1/160"
+      ],
+      "quote": [
+        "فَاسْتَرْضَعَ لَهُ [٣] امْرَأَةً مِنْ بَنِي سَعْدِ بْنِ بَكْرٍ، يُقَالُ لَهَا: حَلِيمَةُ ابْنَةُ أَبِي ذُؤَيْبٍ"
+      ],
+      "status": "rewritten"
+    },
+    {
+      "t": "Berhala Jihar di 'Ukazh milik Hawazin; juru kuncinya keluarga 'Auf an-Nashri, dan Muharib ikut bersama mereka",
+      "src": [
+        "al-Muhabbar, hlm. 315"
+      ],
+      "quote": [
+        "وكان جهار لهوازن بعكاظ. وكان سدنتها آل عوف النصريون"
+      ],
+      "status": "new"
+    }
   ],
   "dropped": []
 }

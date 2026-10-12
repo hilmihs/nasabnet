@@ -1,0 +1,29 @@
+{
+ "id": "kindah",
+ "name": "Kindah",
+ "ar": "كندة",
+ "group": "arab",
+ "umum": {
+  "nama_arti": "Nama diambil dari leluhur eponim, Kindah (Tsaur bin 'Ufair); makna pastinya tidak disepakati secara luas.",
+  "titik_temu": "Kindah termasuk rumpun Qahthan (Kahlan); dikenal sebagai salah satu kerajaan Arab Yaman yang berpengaruh sebelum Islam.",
+  "wilayah": "Pusat kekuasaan historis di Najd dan Hadhramaut; kerajaan Kindah pra-Islam pernah menyatukan sejumlah kabilah Arab di bawah dinasti Akil al-Murar hingga sekitar abad ke-6 M.",
+  "peran_sosial": "Dikenal lewat al-Asy'ats bin Qais, pemimpin Kindah yang masuk Islam lalu sempat terlibat kemurtadan pasca wafat Nabi ﷺ sebelum kembali memeluk Islam; keturunannya berperan dalam sejarah politik awal Islam.",
+  "dinamika": "Pasca wafat Nabi ﷺ, sebagian Kindah terlibat kemurtadan di bawah al-Asy'ats sebelum ditundukkan kembali; keturunan Kindah kemudian tersebar di Syam, Irak, dan sebagian ke Andalusia."
+ },
+ "already_cited": {
+  "leluhur": {
+   "t": "Kindah, yaitu Tsaur bin 'Ufair bin Adi bin al-Harits.",
+   "src": [
+    "Jamharat Ansab al-'Arab, hlm. 425"
+   ]
+  },
+  "struktur": {
+   "t": "Dua anak utama Kindah: Mu'awiyah dan Asyras; dari Mu'awiyah lahir marga besar termasuk Bani al-Harits (leluhur al-Asy'ats bin Qais), dan dari Asyras lahir as-Sakun dan as-Sakasik.",
+   "src": [
+    "Jamharat Ansab al-'Arab, hlm. 425",
+    "Jamharat Ansab al-'Arab, hlm. 429"
+   ]
+  }
+ },
+ "roles_umum": []
+}

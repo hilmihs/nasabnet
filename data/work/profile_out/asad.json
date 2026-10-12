@@ -1,0 +1,72 @@
+{
+  "id": "asad",
+  "nama_arti": {
+    "t": "Nama diambil dari leluhur eponim, Asad bin Abdul 'Uzza bin Qushay.",
+    "src": [
+      "Jamharat Ansab al-'Arab, hlm. 117"
+    ],
+    "quote": [
+      "ولد عبد العزّى بن قصى: أسد بن عبد العزى"
+    ],
+    "status": "rewritten"
+  },
+  "titik_temu": {
+    "t": "Termasuk Quraisy al-Bithah; bertemu dengan Bani Abdu Manaf (Hasyim, al-Muththalib, Umayyah, Naufal) dan Bani Abdud Dar pada Qushay bin Kilab, ayah Abdu Manaf, Abdul 'Uzza, dan Abdud Dar; dengan seluruh Quraisy pada Fihr bin Malik.",
+    "src": [
+      "al-Muhabbar, hlm. 167",
+      "Jamharat Ansab al-'Arab, hlm. 14",
+      "Jamharat Ansab al-'Arab, hlm. 12"
+    ],
+    "quote": [
+      "قبائل قريش البطاح بنو عبد مناف. وبنو عبد الدار. وبنو عبد العزى",
+      "فولد قصى بن كلاب: عبد مناف، وفيه البيت والشرف؛ وعبد العزّى؛ وعبد الدار",
+      "وهم قريش لا قريش غيرهم؛ ولا يكون قريشىّ إلاّ منهم"
+    ],
+    "status": "rewritten"
+  },
+  "wilayah": {
+    "t": "Makkah; sebagai Quraisy al-Bithah mereka disebut \"Abthahiyyun\" karena masuk ke al-Bithah bersama Qushay.",
+    "src": [
+      "al-Muhabbar, hlm. 167",
+      "al-Muhabbar, hlm. 168"
+    ],
+    "quote": [
+      "قبائل قريش البطاح بنو عبد مناف. وبنو عبد الدار. وبنو عبد العزى",
+      "سموا «أبطحيين» لأنهم دخلوا مع قصي البطاح"
+    ],
+    "status": "rewritten"
+  },
+  "peran_sosial": {
+    "t": "Klan Khadijah binti Khuwailid, Ummul Mukminin, ibu semua anak Nabi ﷺ kecuali Ibrahim; melahirkan sahabat seperti az-Zubair bin al-'Awwam dan Hakim bin Hizam.",
+    "src": [
+      "Jamharat Ansab al-'Arab, hlm. 16",
+      "al-Isytiqaq, hlm. 92",
+      "Jamharat Ansab al-'Arab, hlm. 121"
+    ],
+    "quote": [
+      "أمّ جميع ولده ﷺ، حاشى إبراهيم: خديجة أمّ المؤمنين، بنت خويلد بن أسد",
+      "ومن رجال بني عبد العزّى: الزُبير بن العوّام",
+      "وأمّا حزام بن خويلد، فولد حكيم بن حزام"
+    ],
+    "status": "rewritten"
+  },
+  "dinamika": {
+    "t": "Khadijah adalah orang pertama yang beriman kepada Allah dan Rasul-Nya, membenarkan dan membantu beliau, dan menjadi penopang setia Islam hingga wafat; sepupunya, Waraqah bin Naufal bin Asad, menyatakan kepada Nabi ﷺ: \"Engkau adalah nabi umat ini.\"",
+    "src": [
+      "Sirah Ibnu Hisyam 1/240",
+      "Sirah Ibnu Hisyam 1/240",
+      "Sirah Ibnu Hisyam 1/416",
+      "Sirah Ibnu Hisyam 1/238",
+      "Jamharat Ansab al-'Arab, hlm. 120"
+    ],
+    "quote": [
+      "وَكَانَتْ أَوَّلَ مَنْ آمَنْ باللَّه وَبِرَسُولِهِ",
+      "وَصَدَّقَتْ بِمَا جَاءَهُ مِنْ اللَّهِ، وَوَازَرَتْهُ عَلَى أَمْرِهِ",
+      "بِهُلْكِ خَدِيجَةَ، وَكَانَتْ لَهُ وَزِيرَ صِدْقٍ عَلَى الْإِسْلَامِ",
+      "إنَّكَ لَنَبِيُّ هَذِهِ الْأُمَّةِ",
+      "وولد نوفل بن أسد بن عبد العزّى: ورقة، الذي تنصّر"
+    ],
+    "status": "rewritten"
+  },
+  "dropped": []
+}

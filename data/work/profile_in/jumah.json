@@ -1,0 +1,30 @@
+{
+ "id": "jumah",
+ "name": "Bani Jumah",
+ "ar": "بنو جمح",
+ "group": "quraisy",
+ "umum": {
+  "nama_arti": "Nama diambil dari leluhur eponim, Jumah bin 'Amr, yang nama aslinya Taim.",
+  "struktur": "Rincian percabangan generasi berikutnya Bani Jumah tidak tercakup dalam kutipan Jamharah yang tersedia; tokoh terkenalnya adalah Utsman bin Madh'un dan Shafwan bin Umayyah bin Khalaf.",
+  "wilayah": "Makkah.",
+  "peran_sosial": "Klan Utsman bin Madh'un, salah satu muhajir awal ke Habasyah, dan Shafwan bin Umayyah, tokoh Quraisy yang masuk Islam setelah Fathu Makkah.",
+  "dinamika": "Utsman bin Madh'un dikenal menjalani hidup zuhud yang ketat hingga ditegur Nabi ﷺ untuk bersikap moderat; ia wafat pada masa awal di Madinah."
+ },
+ "already_cited": {
+  "leluhur": {
+   "t": "Jumah bin 'Amr bin Hushaish bin Ka'b.",
+   "src": [
+    "Jamharat Ansab al-'Arab, hlm. 159"
+   ]
+  },
+  "titik_temu": {
+   "t": "Bersaudara dengan Bani Sahm, keduanya anak 'Amr bin Hushaish bin Ka'b; bersama 'Adi dan Murrah bertemu pada Ka'b bin Lu'ay, namun dengan seluruh Quraisy bertemu pada Fihr bin Malik.",
+   "src": [
+    "Jamharat Ansab al-'Arab, hlm. 159"
+   ]
+  }
+ },
+ "roles_umum": [
+  "lokasi"
+ ]
+}

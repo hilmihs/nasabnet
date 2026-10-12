@@ -1,0 +1,144 @@
+{
+  "id": "hudzail",
+  "places": [
+    {
+      "t": "ar-Raji'",
+      "ar": "الرجيع",
+      "kind": "mata air",
+      "note": "Mata air milik Hudzail di arah Hijaz, di hulu al-Had'ah antara Makkah dan Thaif; tempat pengkhianatan terhadap tujuh utusan Nabi ﷺ",
+      "src": [
+        "Sirah Ibnu Hisyam 2/170",
+        "Mu'jam al-Buldan 3/29"
+      ],
+      "quote": [
+        "على الرجيع، ماء لهذيل بناحية الحجاز، على صدور الهدأة",
+        "الرجيع ماء لهذيل قرب الهدأة بين مكة والطائف"
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "t": "al-Jauz (pegunungan as-Sarat dekat Thaif)",
+      "ar": "الجوز",
+      "kind": "gunung",
+      "note": "Pegunungan as-Sarat yang dekat Thaif adalah negeri Hudzail, disebut al-Jauz",
+      "src": [
+        "Mu'jam al-Buldan 2/183"
+      ],
+      "quote": [
+        "جبال السراة المقاربة للطائف وهي بلاد هذيل يقال لها الجوز"
+      ],
+      "qid": "Q182640",
+      "lat": 21.2667,
+      "lon": 40.4167,
+      "precision": "perkiraan",
+      "near": "ath-Tha'if"
+    },
+    {
+      "t": "Jabal Kabkab",
+      "ar": "كبكب",
+      "kind": "gunung",
+      "note": "Gunung milik Hudzail yang menghadap mauqif 'Arafah",
+      "src": [
+        "Mu'jam al-Buldan 4/434"
+      ],
+      "quote": [
+        "ولهذيل جبل يقال له كبكب وهو مشرف على موقف عرفة"
+      ],
+      "qid": "N1237963654",
+      "lat": 21.4183,
+      "lon": 40.1128,
+      "precision": "tepat"
+    },
+    {
+      "t": "Saulah (Wadi Nakhlah)",
+      "ar": "سولة",
+      "kind": "benteng",
+      "note": "Benteng di atas bukit di Wadi Nakhlah, ada mata air dan kebun kurma; milik Bani Mas'ud, cabang Hudzail",
+      "src": [
+        "Mu'jam al-Buldan 3/285"
+      ],
+      "quote": [
+        "قلعة على رابية بوادي نخلة تحتها عين جارية ونخل، وهي لبني مسعود بطن من هذيل"
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "t": "al-Huqab (Nu'man)",
+      "ar": "الحقاب",
+      "kind": "daerah",
+      "note": "Tempat di Nu'man, termasuk manazil Bani Hudzail",
+      "src": [
+        "Mu'jam al-Buldan 2/278"
+      ],
+      "quote": [
+        "والحقاب: موضع بنعمان من منازل بني هذيل"
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "t": "Wadi Rahath",
+      "ar": "رهاط",
+      "kind": "lembah",
+      "note": "Tiga malam dari Makkah; sebagian mengatakan Wadi Rahath di negeri Hudzail",
+      "src": [
+        "Mu'jam al-Buldan 3/107"
+      ],
+      "quote": [
+        "موضع على ثلاث ليال من مكة، وقال قوم: وادي رهاط في بلاد هذيل"
+      ],
+      "lat": 22.0868,
+      "lon": 40.0187,
+      "qid": "N1237964694",
+      "precision": "tepat"
+    },
+    {
+      "t": "Jabal Syamanshir",
+      "ar": "شمنصير",
+      "kind": "gunung",
+      "note": "Gunung di negeri Hudzail",
+      "src": [
+        "Mu'jam al-Buldan 3/364"
+      ],
+      "quote": [
+        "وراء: اسم جبل في بلاد هذيل"
+      ],
+      "lat": 22.3277,
+      "lon": 39.96,
+      "qid": "N11162279828",
+      "precision": "tepat"
+    },
+    {
+      "t": "Wadi adh-Dhajn",
+      "ar": "الضجن",
+      "kind": "lembah",
+      "note": "Lembah di negeri Hudzail di Tihamah; bagian hilirnya milik Kinanah",
+      "src": [
+        "Mu'jam al-Buldan 3/453"
+      ],
+      "quote": [
+        "واد في بلاد هذيل بتهامة أسفله لكنانة"
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "t": "Gharan (Bani Lihyan)",
+      "ar": "غران",
+      "kind": "lembah",
+      "note": "Manazil Bani Lihyan (Hudzail), lembah antara Amaj dan 'Usfan; mereka berlindung di puncak gunung saat diserang",
+      "src": [
+        "Sirah Ibnu Hisyam 2/280"
+      ],
+      "quote": [
+        "حتى نزل على غران، وهي منازل بني لحيان، وغران واد بين أمج وعسفان"
+      ],
+      "lat": 22.0129,
+      "lon": 39.3899,
+      "qid": "W648881027",
+      "precision": "tepat"
+    }
+  ]
+}

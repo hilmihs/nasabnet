@@ -1,4 +1,4 @@
-# Biography expansion — paused after batch f3 (2026-10-11)
+# Biography expansion — f4/f5/z4 done (2026-10-12)
 
 Narrative bios now cover 1,720 of 1,804 companions (bio.json rebuilt locally, NOT yet committed/deployed).
 
@@ -8,10 +8,8 @@ Done (drafted + verified):
 - f1–f3: companions whose entries were found by a manual search agent (data/work/FIND_SPEC.md,
   scripts/check_found.py checks every excerpt verbatim against the page)
 
-Still to do (one agent at a time, the user's wish):
-- find_f4, find_f5: search → bio_f4/bio_f5 → Draft → Verify
-- find_z4: re-search 19 companions whose Usdul Ghabah entry was a heading or a namesake (results override u1–u3)
-- then: build_bio → UI check → ask before commit/deploy/push
+- f4 (39), f5 (24), z4 (19, re-found entries override u1–u3) — found, drafted, verified 2026-10-12
+  (skipped: n11414 Ummu Ma'bad, n11390 Zainab, n9886 al-Harits — record too ambiguous)
 
 Also uncommitted: display-name disambiguation in scripts/build_dataset.py (206 names, e.g.
 "Khalid bin al-Walid bin 'Uqbah"); nasabnet.json was rebuilt with it (ids/edges unchanged).

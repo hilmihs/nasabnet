@@ -1,0 +1,31 @@
+{
+ "id": "muthalib",
+ "name": "Bani al-Muththalib",
+ "ar": "بنو المطلب",
+ "group": "quraisy",
+ "umum": {
+  "nama_arti": "Nama diambil dari leluhur eponim, al-Muththalib bin Abdi Manaf.",
+  "titik_temu": "Bertemu dengan Bani Hasyim, Bani Umayyah, dan Bani Naufal pada Abdu Manaf bin Qushay.",
+  "wilayah": "Makkah.",
+  "peran_sosial": "Bani al-Muththalib dikenal setia mendukung Bani Hasyim; ikut diboikot bersama di Syi'ib Abi Thalib karena menolak menyerahkan Nabi ﷺ.",
+  "hilf": "Bani al-Muththalib dan Bani Hasyim dianggap satu golongan dalam pembagian seperlima rampasan perang (dzawil qurba) karena kesetiaan mereka pada masa jahiliah.",
+  "dinamika": "Kedekatan dengan Bani Hasyim membuat Bani al-Muththalib dianggap satu kesatuan dalam sejarah awal Islam, termasuk saat pemboikotan Quraisy di Syi'ib."
+ },
+ "already_cited": {
+  "leluhur": {
+   "t": "al-Muththalib bin Abdi Manaf bin Qushay bin Kilab.",
+   "src": [
+    "Jamharat Ansab al-'Arab, hlm. 72"
+   ]
+  },
+  "struktur": {
+   "t": "Anak-anak al-Muththalib: Makhramah, Abu Rahm al-Akbar, Anis (Abu Rahm al-Ashghar), Hasyim, Abu 'Amr, Abu Syamran, al-Harits, 'Amr, 'Abbad, Mihshan, dan 'Alqamah; dari jalur al-Harits lahir 'Ubaidah, ath-Thufail, dan al-Hushain, muhajir Badar.",
+   "src": [
+    "Jamharat Ansab al-'Arab, hlm. 72"
+   ]
+  }
+ },
+ "roles_umum": [
+  "lokasi"
+ ]
+}

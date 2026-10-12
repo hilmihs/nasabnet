@@ -1,17 +1,121 @@
 {
   "id": "juhainah",
-  "lokasi": {"t": "Antara Madinah dan pesisir Laut Merah: pegunungan sekitar Radhwa/Buwath (±4 barid dari Madinah) hingga pesisir sekitar al-'Ish", "src": ["Ibnu Sa'd 2/9", "Tarikh ath-Thabari 2/404"], "quote": ["بواط، وهي جبال من جبال جهينة من ناحية رضوى", "إلى سيف البحر من ناحية العيص في ثلاثين راكبا من المهاجرين، وهي من أرض جهينة"], "status": "rewritten"},
+  "lokasi": {
+    "t": "Antara Madinah dan pesisir Laut Merah: pegunungan sekitar Radhwa/Buwath (±4 barid dari Madinah) hingga pesisir sekitar al-'Ish",
+    "src": [
+      "Ibnu Sa'd 2/9",
+      "Tarikh ath-Thabari 2/404"
+    ],
+    "quote": [
+      "بواط، وهي جبال من جبال جهينة من ناحية رضوى",
+      "إلى سيف البحر من ناحية العيص في ثلاثين راكبا من المهاجرين، وهي من أرض جهينة"
+    ],
+    "status": "rewritten"
+  },
   "militer": [
-    {"t": "Mengirim 1.400 orang dalam pasukan Fathu Makkah, dengan empat panji yang diikatkan Nabi ﷺ", "src": ["Tarikh ath-Thabari 3/65", "Ibnu Sa'd 4/347"], "quote": ["ومن جهينة الف وأربعمائة رجل", "أحد الأربعة الذين حملوا ألوية جهينة التي عقدها لهم رسول الله"], "status": "rewritten"}
+    {
+      "t": "Mengirim 1.400 orang dalam pasukan Fathu Makkah, dengan empat panji yang diikatkan Nabi ﷺ",
+      "src": [
+        "Tarikh ath-Thabari 3/65",
+        "Ibnu Sa'd 4/347"
+      ],
+      "quote": [
+        "ومن جهينة الف وأربعمائة رجل",
+        "أحد الأربعة الذين حملوا ألوية جهينة التي عقدها لهم رسول الله"
+      ],
+      "status": "rewritten"
+    },
+    {
+      "t": "Saat memasuki Makkah pada Fathu Makkah, Juhainah berada di sayap kanan di bawah Khalid bin al-Walid bersama Aslam, Sulaim, Ghifar, dan Muzainah",
+      "src": [
+        "Sirah Ibnu Hisyam 2/407"
+      ],
+      "quote": [
+        "وكان خالد على المجنبة اليمنى، وفيها أسلم وسليم وغفار ومزينة وجهينة"
+      ],
+      "status": "new"
+    }
   ],
   "diplomasi": [
-    {"t": "Majdi bin Amr al-Juhani, yang terikat perjanjian dengan kedua pihak, melerai pasukan Hamzah dan rombongan Quraisy di Saif al-Bahr (sariyah Hamzah, salah satu sariyah pertama)", "src": ["Sirah Ibnu Hisyam 1/595", "Ibnu Sa'd 2/6"], "quote": ["فحجز بينهم مجدي بن عمرو الجهني", "وكان حليفا للفريقين جميعا"], "status": "rewritten"}
+    {
+      "t": "Nabi ﷺ menulis jaminan bagi Bani Zur'ah dan Bani ar-Rab'ah dari Juhainah: aman atas jiwa dan harta, serta berhak dibela dari yang menzalimi atau memerangi mereka, kecuali dalam urusan agama dan keluarga",
+      "src": [
+        "Ibnu Sa'd 1/270"
+      ],
+      "quote": [
+        "وكتب رسول الله، ﷺ، لبني زرعة وبني الربعة من جهينة أنهم آمنون على أنفسهم وأموالهم"
+      ],
+      "status": "new"
+    },
+    {
+      "t": "Utusan Juhainah dari Bani ar-Rab'ah datang ketika Nabi ﷺ tiba di Madinah; beliau mengganti nama mereka dari Bani Ghayyan menjadi Bani Rasydan dan menggariskan masjid mereka, masjid pertama yang digariskan di Madinah",
+      "src": [
+        "Ibnu Sa'd 1/333",
+        "Ibnu Sa'd 1/333"
+      ],
+      "quote": [
+        "قالوا: بنو غيان، قال: أنتم بنو رشدان",
+        "وخط لهم مسجدهم، وهو أول مسجد خط بالمدينة"
+      ],
+      "status": "new"
+    }
   ],
   "ekonomi": [
-    {"t": "Pesisir (Saif al-Bahr) di wilayahnya dilalui kafilah Quraisy dari Syam menuju Makkah", "src": ["Ibnu Sa'd 2/6", "Tarikh ath-Thabari 2/404"], "quote": ["يعترض لعير قريش قد جاءت من الشام تريد مكة", "وهي من أرض جهينة"], "status": "rewritten"}
+    {
+      "t": "Pesisir (Saif al-Bahr) di wilayahnya dilalui kafilah Quraisy dari Syam menuju Makkah",
+      "src": [
+        "Ibnu Sa'd 2/6",
+        "Tarikh ath-Thabari 2/404"
+      ],
+      "quote": [
+        "يعترض لعير قريش قد جاءت من الشام تريد مكة",
+        "وهي من أرض جهينة"
+      ],
+      "status": "rewritten"
+    },
+    {
+      "t": "Dalam pembagian ghanimah Khaibar, Juhainah dihimpun dalam bagian (sahm) al-Lafif bersama orang Arab lain yang hadir di Khaibar",
+      "src": [
+        "Sirah Ibnu Hisyam 2/351"
+      ],
+      "quote": [
+        "اللَّفِيفِ، جَمَعَتْ إلَيْهِ جُهَيْنَةُ وَمَنْ حَضَرَ خَيْبَرَ مِنْ سَائِرِ الْعَرَبِ"
+      ],
+      "status": "new"
+    }
   ],
   "sosial": [
-    {"t": "Uqbah bin 'Amir al-Juhani, ahli qira'ah dan gubernur Mesir", "src": ["al-Ishabah 4/429", "al-Ishabah 4/429"], "quote": ["كان قارئا عالما بالفرائض والفقه", "وأمره بعد ذلك على مصر"], "status": "ok"}
+    {
+      "t": "Nabi ﷺ menyebut Quraisy, Anshar, Juhainah, Muzainah, Aslam, Asyja', dan Ghifar sebagai maula (penolong) beliau yang tidak punya maula selain Allah dan Rasul-Nya",
+      "src": [
+        "Shahih al-Bukhari 4/179"
+      ],
+      "quote": [
+        "قريش والأنصار وجهينة ومزينة وأسلم وأشجع وغفار موالي ليس لهم مولى دون الله ورسوله"
+      ],
+      "status": "new"
+    },
+    {
+      "t": "Sebagian Juhainah menyembah berhala yang dijaga 'Amr bin Murrah al-Juhani; setelah ia menghancurkannya dan masuk Islam, ia diutus Nabi ﷺ kepada kaumnya dan mereka menerima Islam kecuali seorang",
+      "src": [
+        "Ibnu Sa'd 1/333",
+        "Ibnu Sa'd 1/334"
+      ],
+      "quote": [
+        "كان لنا صنم وكنا نعظمه، وكنت سادنه",
+        "ثم بعثه رسول الله، ﷺ، إلى قومه يدعوهم إلى الإسلام، فأجابوه إلا رجلا واحدا"
+      ],
+      "status": "new"
+    }
   ],
-  "dropped": []
+  "dropped": [
+    {
+      "t": "Majdi bin Amr al-Juhani, yang terikat perjanjian dengan kedua pihak, melerai pasukan Hamzah dan rombongan Quraisy di Saif al-Bahr (sariyah Hamzah, salah satu sariyah pertama)",
+      "reason": "person-level (Majdi bin 'Amr al-Juhani, not in dataset; the source names no Juhainah group role)"
+    },
+    {
+      "t": "Uqbah bin 'Amir al-Juhani, ahli qira'ah dan gubernur Mesir",
+      "reason": "already in biography of n4428"
+    }
+  ]
 }

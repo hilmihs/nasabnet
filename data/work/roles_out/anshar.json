@@ -1,17 +1,135 @@
 {
   "id": "anshar",
-  "lokasi": {"t": "Yatsrib/Madinah", "src": ["Sirah Ibnu Hisyam 1/13"], "quote": ["وَنَزَلَتْ الْأَوْسُ وَالْخَزْرَجُ يَثْرِبَ"], "status": "ok"},
+  "lokasi": {
+    "t": "Yatsrib/Madinah",
+    "src": [
+      "Sirah Ibnu Hisyam 1/13"
+    ],
+    "quote": [
+      "وَنَزَلَتْ الْأَوْسُ وَالْخَزْرَجُ يَثْرِبَ"
+    ],
+    "status": "ok"
+  },
   "militer": [
-    {"t": "Menjadi bagian terbesar pasukan Badar: menurut satu riwayat 236 orang Anshar dan 77 Muhajirin", "src": ["Tarikh ath-Thabari 2/431", "Sirah Ibnu Hisyam 1/615"], "quote": ["كَانَ الْمُهَاجِرُونَ يَوْمَ بَدْرٍ سَبْعَةً وَسَبْعِينَ رَجُلا، وَكَانَ الأَنْصَارُ مِائَتَيْنِ وَسِتَّةً وَثَلاثِينَ رَجُلا", "وَإِنَّمَا يُرِيدُ الْأَنْصَارَ، وَذَلِكَ أَنَّهُمْ عَدَدُ النَّاسِ"], "status": "rewritten"}
+    {
+      "t": "Menjadi bagian terbesar pasukan Badar: menurut satu riwayat 236 orang Anshar dan 77 Muhajirin",
+      "src": [
+        "Tarikh ath-Thabari 2/431",
+        "Sirah Ibnu Hisyam 1/615"
+      ],
+      "quote": [
+        "كَانَ الْمُهَاجِرُونَ يَوْمَ بَدْرٍ سَبْعَةً وَسَبْعِينَ رَجُلا، وَكَانَ الأَنْصَارُ مِائَتَيْنِ وَسِتَّةً وَثَلاثِينَ رَجُلا",
+        "وَإِنَّمَا يُرِيدُ الْأَنْصَارَ، وَذَلِكَ أَنَّهُمْ عَدَدُ النَّاسِ"
+      ],
+      "status": "rewritten"
+    },
+    {
+      "t": "Pada Perang Hunain, ketika pasukan Muslim tercerai-berai, Anshar menyambut seruan \"Ya ma'syar al-Anshar\"; seratus orang dari mereka berkumpul kembali di sekitar Nabi ﷺ lalu menghadang musuh",
+      "src": [
+        "Sirah Ibnu Hisyam 2/445",
+        "Sirah Ibnu Hisyam 2/445"
+      ],
+      "quote": [
+        "يَا عَبَّاسُ، اُصْرُخْ، يَا مَعْشَرَ الْأَنْصَارِ",
+        "حَتَّى إذَا اجْتَمَعَ إلَيْهِ مِنْهُمْ مِائَةٌ، اسْتَقْبَلُوا النَّاسَ، فَاقْتَتَلُوا"
+      ],
+      "status": "new"
+    }
   ],
   "diplomasi": [
-    {"t": "Bai'at 'Aqabah: berjanji melindungi Nabi ﷺ setibanya di negeri mereka seperti melindungi anak dan istri sendiri", "src": ["Sirah Ibnu Hisyam 1/615"], "quote": ["فَأَنْتَ فِي ذِمَّتِنَا نَمْنَعُكَ مِمَّا نَمْنَعُ مِنْهُ أَبْنَاءَنَا وَنِسَاءَنَا"], "status": "rewritten"}
+    {
+      "t": "Bai'at 'Aqabah: berjanji melindungi Nabi ﷺ setibanya di negeri mereka seperti melindungi anak dan istri sendiri",
+      "src": [
+        "Sirah Ibnu Hisyam 1/615"
+      ],
+      "quote": [
+        "فَأَنْتَ فِي ذِمَّتِنَا نَمْنَعُكَ مِمَّا نَمْنَعُ مِنْهُ أَبْنَاءَنَا وَنِسَاءَنَا"
+      ],
+      "status": "rewritten"
+    },
+    {
+      "t": "Sepeninggal Nabi ﷺ, Anshar berhimpun kepada Sa'd bin 'Ubadah di Saqifah Bani Sa'idah (Usaid bin Hudhair dan Bani 'Abdil Asyhal bergabung dengan Abu Bakr) dan mengusulkan \"dari kami seorang amir dan dari kalian seorang amir\"; akhirnya mereka membaiat Abu Bakr setelah Muhajirin",
+      "src": [
+        "Sirah Ibnu Hisyam 2/656",
+        "Sirah Ibnu Hisyam 2/656",
+        "Sirah Ibnu Hisyam 2/660",
+        "Sirah Ibnu Hisyam 2/660"
+      ],
+      "quote": [
+        "انْحَازَ هَذَا الْحَيُّ مِنْ الْأَنْصَارِ إلَى سَعْدِ بْنِ عُبَادَةَ فِي سَقِيفَةِ بَنِي سَاعِدَةَ",
+        "وَانْحَازَ مَعَهُمْ أُسَيْدُ بْنُ حُضَيْرٍ، فِي بَنِي عَبْدِ الْأَشْهَلِ",
+        "مِنَّا أَمِيرٌ وَمِنْكُمْ أَمِيرٌ يَا مَعْشَرَ قُرَيْشٍ",
+        "ثُمَّ بَايَعَهُ الْمُهَاجِرُونَ، ثُمَّ بَايَعَهُ الْأَنْصَارُ"
+      ],
+      "status": "new"
+    }
   ],
   "ekonomi": [
-    {"t": "Berbagi harta dengan Muhajirin melalui mu'akhah; misalnya Sa'd bin ar-Rabi' menawarkan separuh kebunnya kepada 'Abdurrahman bin 'Auf", "src": ["Sirah Ibnu Hisyam 1/505", "Ibnu Sa'd 3/523"], "quote": ["تَآخَوْا فِي اللَّهِ أَخَوَيْنِ أَخَوَيْنِ", "هلم إلى حديقتي أشاطركها"], "status": "rewritten"}
+    {
+      "t": "Anshar meminta Nabi ﷺ membagi kebun kurma mereka dengan saudara-saudara Muhajirin; beliau menolak, lalu disepakati Muhajirin menanggung kerja kebun dan berbagi hasil buahnya",
+      "src": [
+        "Shahih al-Bukhari 3/104",
+        "Shahih al-Bukhari 3/104"
+      ],
+      "quote": [
+        "قَالَتِ الْأَنْصَارُ لِلنَّبِيِّ ﷺ: اقْسِمْ بَيْنَنَا وَبَيْنَ إِخْوَانِنَا النَّخِيلَ",
+        "قَالَ: لَا، فَقَالُوا: تَكْفُونَا الْمَؤْنَةَ"
+      ],
+      "status": "rewritten"
+    },
+    {
+      "t": "Tidak mendapat bagian dari pemberian besar ghanimah Hunain yang dibagikan kepada Quraisy dan kabilah Arab lain; Nabi ﷺ menghimpun mereka dan bersabda: orang-orang pulang membawa kambing dan unta, sedangkan kalian pulang membawa Rasulullah",
+      "src": [
+        "Sirah Ibnu Hisyam 2/499",
+        "Sirah Ibnu Hisyam 2/499"
+      ],
+      "quote": [
+        "وَلَمْ يَكُ فِي هَذَا الْحَيِّ مِنْ الْأَنْصَارِ مِنْهَا شَيْءٌ",
+        "أَنْ يَذْهَبَ النَّاسُ بِالشَّاةِ وَالْبَعِيرِ، وَتَرْجِعُوا بِرَسُولِ اللَّهِ"
+      ],
+      "status": "new"
+    }
   ],
   "sosial": [
-    {"t": "Islam tersebar di Madinah sebelum hijrah: hampir setiap rumah Anshar memiliki pemeluk Islam, dan shalat Jum'at pertama di Madinah diselenggarakan As'ad bin Zurarah", "src": ["Sirah Ibnu Hisyam 1/437", "Sirah Ibnu Hisyam 1/435"], "quote": ["حَتَّى لَمْ تَبْقَ دَارٌ مِنْ دُورِ الْأَنْصَارِ إلَّا وَفِيهَا رِجَالٌ وَنِسَاءٌ مُسْلِمُونَ", "أَسْعَدُ بْنُ زُرَارَةَ وَإِقَامَةُ أَوَّلِ جُمُعَةٍ بِالْمَدِينَةِ"], "status": "rewritten"}
+    {
+      "t": "Islam tersebar di Madinah sebelum hijrah hingga hampir setiap rumah Anshar memiliki lelaki dan perempuan Muslim",
+      "src": [
+        "Sirah Ibnu Hisyam 1/437"
+      ],
+      "quote": [
+        "حَتَّى لَمْ تَبْقَ دَارٌ مِنْ دُورِ الْأَنْصَارِ إلَّا وَفِيهَا رِجَالٌ وَنِسَاءٌ مُسْلِمُونَ"
+      ],
+      "status": "rewritten"
+    },
+    {
+      "t": "Dipersaudarakan (mu'akhah) dengan Muhajirin, dua orang-dua orang, setelah Nabi ﷺ tiba di Madinah",
+      "src": [
+        "Sirah Ibnu Hisyam 1/505"
+      ],
+      "quote": [
+        "تَآخَوْا فِي اللَّهِ أَخَوَيْنِ أَخَوَيْنِ"
+      ],
+      "status": "rewritten"
+    },
+    {
+      "t": "Nabi ﷺ bersabda: tanda iman adalah mencintai Anshar dan tanda nifak adalah membenci Anshar",
+      "src": [
+        "Shahih al-Bukhari 1/12"
+      ],
+      "quote": [
+        "آيَةُ الْإِيمَانِ حُبُّ الْأَنْصَارِ، وَآيَةُ النِّفَاقِ بُغْضُ الْأَنْصَارِ"
+      ],
+      "status": "new"
+    }
   ],
-  "dropped": []
+  "dropped": [
+    {
+      "t": "Berbagi harta dengan Muhajirin melalui mu'akhah; misalnya Sa'd bin ar-Rabi' menawarkan separuh kebunnya kepada 'Abdurrahman bin 'Auf",
+      "reason": "rewritten to group level; Sa'd bin ar-Rabi''s offer to 'Abdurrahman already in biography of n15136"
+    },
+    {
+      "t": "Islam tersebar di Madinah sebelum hijrah: hampir setiap rumah Anshar memiliki pemeluk Islam, dan shalat Jum'at pertama di Madinah diselenggarakan As'ad bin Zurarah",
+      "reason": "rewritten to group level; As'ad bin Zurarah's first Jumu'ah already in biography of n7746"
+    }
+  ]
 }

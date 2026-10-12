@@ -2,107 +2,28 @@
   "id": "aus",
   "lokasi": {
     "t": "Yatsrib/Madinah; cabang 'Auf bin Malik bin al-Aus adalah penduduk Quba",
-    "src": [
-      "Sirah Ibnu Hisyam 1/13",
-      "Jamharat Ansab al-'Arab, hlm. 332"
-    ],
-    "quote": [
-      "وَنَزَلَتْ الْأَوْسُ وَالْخَزْرَجُ يَثْرِبَ",
-      "عوف بن مالك بن الأوس، وهم أهل قباء"
-    ],
+    "src": ["Sirah Ibnu Hisyam 1/13", "Jamharat Ansab al-'Arab, hlm. 332"],
+    "quote": ["وَنَزَلَتْ الْأَوْسُ وَالْخَزْرَجُ يَثْرِبَ", "عوف بن مالك بن الأوس، وهم أهل قباء"],
     "status": "rewritten"
   },
   "militer": [
-    {
-      "t": "Berperang melawan Khazraj pada hari Bu'ats sebelum hijrah; kemenangan di pihak Aus, yang dipimpin Hudhair bin Simak al-Asyhali",
-      "src": [
-        "Sirah Ibnu Hisyam 1/555",
-        "Sirah Ibnu Hisyam 1/556"
-      ],
-      "quote": [
-        "وَكَانَ يَوْمُ بُعَاثَ يَوْمًا اقْتَتَلَتْ فِيهِ الْأَوْسُ وَالْخَزْرَجُ",
-        "لِلْأَوْسِ عَلَى الْخَزْرَجِ، وَكَانَ عَلَى الْأَوْسِ يَوْمئِذٍ حُضَيْرُ بْنُ سِمَاكٍ الْأَشْهَلِيُّ"
-      ],
-      "status": "rewritten"
-    },
-    {
-      "t": "Sa'd bin Mu'adz meneguhkan kesiapan Anshar berperang menjelang Badar",
-      "src": [
-        "Sirah Ibnu Hisyam 1/615"
-      ],
-      "quote": [
-        "لَوْ اسْتَعْرَضْتَ بِنَا هَذَا الْبَحْرَ فَخُضْتَهُ لَخُضْنَاهُ مَعَكَ"
-      ],
-      "status": "ok"
-    }
+    {"t": "Berperang melawan Khazraj pada hari Bu'ats sebelum hijrah; kemenangan di pihak Aus, yang dipimpin Hudhair bin Simak al-Asyhali", "src": ["Sirah Ibnu Hisyam 1/555", "Sirah Ibnu Hisyam 1/556"], "quote": ["وَكَانَ يَوْمُ بُعَاثَ يَوْمًا اقْتَتَلَتْ فِيهِ الْأَوْسُ وَالْخَزْرَجُ", "لِلْأَوْسِ عَلَى الْخَزْرَجِ، وَكَانَ عَلَى الْأَوْسِ يَوْمئِذٍ حُضَيْرُ بْنُ سِمَاكٍ الْأَشْهَلِيُّ"], "status": "rewritten"},
+    {"t": "Menurut Ibnu Ishaq, 61 orang Aus ikut Perang Badar (termasuk yang diberi bagian walau tidak hadir)", "src": ["Sirah Ibnu Hisyam 1/691", "Sirah Ibnu Hisyam 1/691"], "quote": ["فَجَمِيعُ مَنْ شَهِدَ بَدْرًا مِنْ الْأَوْسِ مَعَ رَسُولِ اللَّهِ ﷺ", "وَمَنْ ضُرِبَ لَهُ بِسَهْمِهِ وَأَجْرِهِ، أَحَدٌ وَسِتُّونَ رَجُلًا"], "status": "new"},
+    {"t": "Orang-orang Aus membunuh Ka'b bin al-Asyraf karena permusuhannya kepada Nabi ﷺ, yang kemudian memacu Khazraj untuk menandinginya", "src": ["Sirah Ibnu Hisyam 2/274"], "quote": ["ولما أصابت الأوس كعب بن الأشرف في عداوته لرسول الله ﷺ قالت الخزرج"], "status": "new"}
   ],
   "diplomasi": [
-    {
-      "t": "Tiga dari dua belas naqib Bai'at 'Aqabah kedua berasal dari Aus: Usaid bin Hudhair, Sa'd bin Khaitsamah, dan Rifa'ah bin 'Abd al-Mundzir (sebagian ulama menyebut Abu al-Haitsam bin at-Tayyihan sebagai ganti Rifa'ah)",
-      "src": [
-        "Sirah Ibnu Hisyam 1/443",
-        "Sirah Ibnu Hisyam 1/444",
-        "Sirah Ibnu Hisyam 1/445"
-      ],
-      "quote": [
-        "تِسْعَةً مِنْ الْخَزْرَجِ، وَثَلَاثَةً مِنْ الْأَوْسِ",
-        "وَمِنْ الْأَوْسِ: أُسَيْدُ بْنُ حُضَيْرِ بْنِ سِمَاكِ",
-        "وَأَهْلُ الْعِلْمِ يَعُدُّونَ فِيهِمْ أَبَا الْهَيْثَمِ بْنَ التَّيِّهَانِ، وَلَا يَعُدُّونَ رِفَاعَةَ"
-      ],
-      "status": "rewritten"
-    },
-    {
-      "t": "Sekutu Bani Quraizhah dan Bani an-Nadhir sebelum Islam; pada perang Bani Quraizhah (5 H) Nabi ﷺ menyerahkan keputusan atas mereka kepada Sa'd bin Mu'adz dari Aus",
-      "src": [
-        "Sirah Ibnu Hisyam 1/540",
-        "Sirah Ibnu Hisyam 2/233",
-        "Sirah Ibnu Hisyam 2/239"
-      ],
-      "quote": [
-        "وَالنَّضِيرُ وَقُرَيْظَةَ وَلَفُّهُمْ، حُلَفَاءُ الْأَوْسِ",
-        "غَزْوَةُ بَنِي قُرَيْظَةَ فِي سَنَةِ خَمْسٍ",
-        "أَنْ يَحْكُمَ فِيهِمْ رَجُلٌ مِنْكُمْ؟ قَالُوا: بَلَى"
-      ],
-      "status": "rewritten"
-    }
+    {"t": "Tiga dari dua belas naqib Bai'at 'Aqabah kedua berasal dari Aus: Usaid bin Hudhair, Sa'd bin Khaitsamah, dan Rifa'ah bin 'Abd al-Mundzir (sebagian ulama menyebut Abu al-Haitsam bin at-Tayyihan sebagai ganti Rifa'ah)", "src": ["Sirah Ibnu Hisyam 1/443", "Sirah Ibnu Hisyam 1/444", "Sirah Ibnu Hisyam 1/445"], "quote": ["تِسْعَةً مِنْ الْخَزْرَجِ، وَثَلَاثَةً مِنْ الْأَوْسِ", "وَمِنْ الْأَوْسِ: أُسَيْدُ بْنُ حُضَيْرِ بْنِ سِمَاكِ", "وَأَهْلُ الْعِلْمِ يَعُدُّونَ فِيهِمْ أَبَا الْهَيْثَمِ بْنَ التَّيِّهَانِ، وَلَا يَعُدُّونَ رِفَاعَةَ"], "status": "rewritten"},
+    {"t": "Sekutu Bani Quraizhah dan Bani an-Nadhir sebelum Islam; setelah Quraizhah menyerah (5 H), Aus memohon kepada Nabi ﷺ bagi sekutu mereka, lalu beliau menyerahkan keputusan kepada seorang dari Aus (Sa'd bin Mu'adz)", "src": ["Sirah Ibnu Hisyam 1/540", "Sirah Ibnu Hisyam 2/233", "Sirah Ibnu Hisyam 2/239", "Sirah Ibnu Hisyam 2/239"], "quote": ["وَالنَّضِيرُ وَقُرَيْظَةَ وَلَفُّهُمْ، حُلَفَاءُ الْأَوْسِ", "غَزْوَةُ بَنِي قُرَيْظَةَ فِي سَنَةِ خَمْسٍ", "فَتَوَاثَبَتْ الْأَوْسُ، فَقَالُوا: يَا رَسُولَ اللَّهِ", "أَنْ يَحْكُمَ فِيهِمْ رَجُلٌ مِنْكُمْ؟ قَالُوا: بَلَى"], "status": "rewritten"}
   ],
   "ekonomi": [
-    {
-      "t": "Hidup dari kebun kurma Madinah: kurma menjadi makanan pokok penduduknya, dan kaum Anshar sibuk mengurus harta (kebun) mereka",
-      "src": [
-        "Ibnu Sa'd 1/409",
-        "Ibnu Sa'd 2/363"
-      ],
-      "quote": [
-        "هي بلاد ظلف لا زرع فيها، إنما طعام أهلها التمر",
-        "وإن إخواننا من الأنصار كان يشغلهم العمل في أموالهم"
-      ],
-      "status": "rewritten"
-    }
+    {"t": "Hidup dari kebun kurma Madinah: kurma menjadi makanan pokok penduduknya, dan kaum Anshar sibuk mengurus harta (kebun) mereka", "src": ["Ibnu Sa'd 1/409", "Ibnu Sa'd 2/363"], "quote": ["هي بلاد ظلف لا زرع فيها، إنما طعام أهلها التمر", "وإن إخواننا من الأنصار كان يشغلهم العمل في أموالهم"], "status": "rewritten"}
   ],
   "sosial": [
-    {
-      "t": "Dalam mu'akhah, tokoh Aus dipersaudarakan dengan Muhajirin, antara lain Sa'd bin Mu'adz dengan Abu 'Ubaidah bin al-Jarrah",
-      "src": [
-        "Sirah Ibnu Hisyam 1/505"
-      ],
-      "quote": [
-        "وَسَعْدُ بْنُ مُعَاذِ بْنِ النُّعْمَانِ، أَخُو بَنِي عَبْدِ الْأَشْهَلِ، أَخَوَيْنِ"
-      ],
-      "status": "rewritten"
-    },
-    {
-      "t": "Sa'd bin Mu'adz dan Usaid bin Hudhair, pemimpin Bani 'Abd al-Asyhal, masuk Islam lewat dakwah Mush'ab bin 'Umair; sore itu seluruh Bani 'Abd al-Asyhal memeluk Islam",
-      "src": [
-        "Sirah Ibnu Hisyam 1/436",
-        "Sirah Ibnu Hisyam 1/437"
-      ],
-      "quote": [
-        "وَسَعْدُ بْنُ مُعَاذٍ، وَأُسَيْدُ بْنُ حُضَيْرٍ، يَوْمَئِذٍ سَيِّدَا قَوْمِهِمَا مِنْ بَنِي عَبْدِ الْأَشْهَلِ",
-        "مَا أَمْسَى فِي دَارِ بَنِي عَبْدِ الْأَشْهَلِ رَجُلٌ وَلَا امْرَأَةٌ إلَّا مُسْلِمًا وَمُسْلِمَةً"
-      ],
-      "status": "rewritten"
-    }
+    {"t": "Sa'd bin Mu'adz dan Usaid bin Hudhair, pemimpin Bani 'Abd al-Asyhal, masuk Islam lewat dakwah Mush'ab bin 'Umair; sore itu seluruh Bani 'Abd al-Asyhal memeluk Islam", "src": ["Sirah Ibnu Hisyam 1/436", "Sirah Ibnu Hisyam 1/437"], "quote": ["وَسَعْدُ بْنُ مُعَاذٍ، وَأُسَيْدُ بْنُ حُضَيْرٍ، يَوْمَئِذٍ سَيِّدَا قَوْمِهِمَا مِنْ بَنِي عَبْدِ الْأَشْهَلِ", "مَا أَمْسَى فِي دَارِ بَنِي عَبْدِ الْأَشْهَلِ رَجُلٌ وَلَا امْرَأَةٌ إلَّا مُسْلِمًا وَمُسْلِمَةً"], "status": "rewritten"},
+    {"t": "Bani 'Amr bin 'Auf (Aus) di Quba menampung para Muhajirin yang tiba, lalu menerima Nabi ﷺ saat hijrah; beliau tinggal di tengah mereka beberapa hari dan mendirikan masjidnya di sana", "src": ["Sirah Ibnu Hisyam 1/474", "Sirah Ibnu Hisyam 1/494", "Sirah Ibnu Hisyam 1/494"], "quote": ["فَلَمَّا قَدِمْنَا الْمَدِينَةَ نَزَلْنَا فِي بَنِي عَمْرِو بْنِ عَوْفٍ بقُباءٍ", "فَأَقَامَ رَسُولُ اللَّهِ ﷺ بقُباءٍ، فِي بَنِي عَمْرِو بْنِ عَوْفٍ", "وَيَوْمَ الْخَمِيسِ، وَأَسَّسَ مَسْجِدَهُ"], "status": "new"}
   ],
-  "dropped": []
+  "dropped": [
+    {"t": "Sa'd bin Mu'adz meneguhkan kesiapan Anshar berperang menjelang Badar", "reason": "moved to biography of n10121"},
+    {"t": "Dalam mu'akhah, tokoh Aus dipersaudarakan dengan Muhajirin, antara lain Sa'd bin Mu'adz dengan Abu 'Ubaidah bin al-Jarrah", "reason": "already in biography of n10121"}
+  ]
 }

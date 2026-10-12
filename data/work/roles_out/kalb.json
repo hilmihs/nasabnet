@@ -2,18 +2,23 @@
   "id": "kalb",
   "lokasi": {"t": "Badiyah Syam (as-Samawah, antara Kufah dan Damaskus) hingga sekitar Dumat al-Jandal", "src": ["Tarikh ath-Thabari 10/95", "al-Muhabbar, hlm. 263"], "quote": ["وكانت جماعه من كلب تخفر الطريق على البر بالسماوة فيما بين الكوفه ودمشق", "وِكانت كلب وجديلة طيئ جيرانها"], "status": "rewritten"},
   "militer": [
-    {"t": "Sariyah Abdurrahman bin 'Auf ke Kalb di Dumat al-Jandal (Sya'ban 6 H)", "src": ["Ibnu Sa'd 2/89", "Ibnu Sa'd 2/89"], "quote": ["ثم سرية عبد الرحمن بن عوف إلى دومة الجندل في شعبان سنة ست", "وبعثه إلى كلب بدومة الجندل"], "status": "rewritten"}
+    {"t": "Sariyah Abdurrahman bin 'Auf ke Kalb di Dumat al-Jandal (Sya'ban 6 H)", "src": ["Ibnu Sa'd 2/89", "Ibnu Sa'd 2/89"], "quote": ["ثم سرية عبد الرحمن بن عوف إلى دومة الجندل في شعبان سنة ست", "وبعثه إلى كلب بدومة الجندل"], "status": "rewritten"},
+    {"t": "Saat Nabi ﷺ wafat, amil beliau atas Kalb adalah Imru'ul Qais bin al-Ashbagh; dalam Riddah sebagian Kalb murtad mengikuti Wadi'ah al-Kalbi, sementara Imru'ul Qais tetap Islam dan diperintah Abu Bakar menghadapinya", "src": ["Tarikh ath-Thabari 3/243", "Tarikh ath-Thabari 3/243"], "quote": ["وعلى كلب امرؤ القيس بْن الأصبغ الكلبي من بني عبد الله", "فارتد وديعة الكلبي فيمن آزره من كلب، وبقي امرؤ القيس على دينه"], "status": "new"},
+    {"t": "Kalb bersama Bahra', Ghassan, dan Tanukh membela Dumat al-Jandal melawan Khalid bin al-Walid; setelah kalah, tawanan Kalb tidak dibunuh karena dilindungi Bani Tamim, sekutu mereka", "src": ["Tarikh ath-Thabari 3/378", "Tarikh ath-Thabari 3/378", "Tarikh ath-Thabari 3/379"], "quote": ["بعثوا إلى أحزابهم من بهراء وكلب وغسان وتنوخ والضجاعم", "يا بني تميم، حلفاؤكم كلب، آسوهم واجيروهم", "ودعا بالأسرى فضرب أعناقهم إلا أسارى كلب"], "status": "new"}
   ],
   "diplomasi": [
-    {"t": "Dihyah al-Kalbi diutus Nabi ﷺ membawa surat kepada Heraklius", "src": ["Sirah Ibnu Hisyam 2/607"], "quote": ["فَبَعَثَ دِحْيَةَ بْنَ خَلِيفَةَ الْكَلْبِيَّ إلَى قَيْصَرَ، مَلِكِ الرُّومِ"], "status": "ok"},
     {"t": "Pemimpin Kalb di Dumat al-Jandal, al-Ashbagh bin 'Amr yang Nasrani, masuk Islam bersama banyak kaumnya (sebagian tetap membayar jizyah); Abdurrahman bin 'Auf menikahi putrinya, Tumadhir", "src": ["Ibnu Sa'd 2/89", "Ibnu Sa'd 2/89", "Ibnu Sa'd 2/89"], "quote": ["فأسلم الأصبغ بن عمرو الكلبي، وكان نصرانيا وكان رأسهم", "وأقام من أقام على إعطاء الجزية", "وتزوج عبد الرحمن تماضر بنت الأصبغ"], "status": "rewritten"},
     {"t": "Kalb menyokong Bani Umayyah di Syam: Maisun binti Bahdal al-Kalbiyyah ibu Yazid bin Mu'awiyah; cucu Bahdal, Hassan bin Malik, mengangkat Marwan pada Marj Rahith, dengan pasukan Kalb dari Yordania", "src": ["Tarikh ath-Thabari 5/329", "Jamharat Ansab al-'Arab, hlm. 457", "Tarikh ath-Thabari 5/537"], "quote": ["ميسون بنت بحدل بن أنيف بن ولجة بن قنافة بن عدى ابن زهير بن حَارِثَة بن جناب الكلبي، ولدت لَهُ يَزِيد", "حسّان بن مالك بن بحدل، الذى قام بمروان يوم مرج راهط", "حَتَّى نزل مرج راهط عَلَى الضحاك فِي أهل الأردن من كلب"], "status": "rewritten"}
   ],
   "ekonomi": [
-    {"t": "Pasar Dumat al-Jandal (antara Syam dan Hijaz) bertetangga dengan Kalb; kekuasaan atas pasar bergantian antara Ukaidir dan Qunafah al-Kalbi", "src": ["al-Muhabbar, hlm. 263", "al-Muhabbar, hlm. 263"], "quote": ["فمنها سوق (دُومة الَجندل) وهي فيما بين الشأم والحجاز", "وكان ملكها بين اكيدر العبادي ثم السكوني وبين قُنافة الكلبي"], "status": "rewritten"}
+    {"t": "Pasar Dumat al-Jandal (antara Syam dan Hijaz) bertetangga dengan Kalb; kekuasaan atas pasar bergantian antara Ukaidir dan Qunafah al-Kalbi", "src": ["al-Muhabbar, hlm. 263", "al-Muhabbar, hlm. 263"], "quote": ["فمنها سوق (دُومة الَجندل) وهي فيما بين الشأم والحجاز", "وكان ملكها بين اكيدر العبادي ثم السكوني وبين قُنافة الكلبي"], "status": "rewritten"},
+    {"t": "Kalb di Dumat al-Jandal berkebun kurma: surat Nabi ﷺ untuk penduduk Dumat dan suku-suku Kalb di sekitarnya menetapkan kebun kurma bagi mereka, dengan zakat sepersepuluh atas yang diairi aliran air dan seperdua puluh atas yang lain", "src": ["Ibnu Sa'd 1/335", "Ibnu Sa'd 1/335"], "quote": ["لأهل دومة الجندل وما يليها من طوائف كلبٍ مع حارثة بن قطن", "ولكم الضامنة من النخل، على الجارية العشر وعلى الغائرة نصف العشر"], "status": "new"}
   ],
   "sosial": [
-    {"t": "Zaid bin Haritsah al-Kalbi, anak angkat Nabi ﷺ", "src": ["Ibnu Sa'd 3/43", "Ibnu Sa'd 3/42"], "quote": ["عن زيد بن حارثة الكلبي مولى رسول الله", "اشهدوا أن زيدا ابني أرثه ويرثني"], "status": "ok"}
+    {"t": "Pada masa jahiliah Kalb bin Wabrah dari Qudha'ah menyembah berhala Wadd di Dumat al-Jandal", "src": ["Sirah Ibnu Hisyam 1/78"], "quote": ["وَكَلْبُ بْنُ وَبْرَةَ مِنْ قُضَاعَةَ، اتَّخَذُوا وَدًّا بِدَوْمَةِ الْجَنْدَلِ"], "status": "new"}
   ],
-  "dropped": []
+  "dropped": [
+    {"t": "Dihyah al-Kalbi diutus Nabi ﷺ membawa surat kepada Heraklius", "reason": "moved to biography of n1884"},
+    {"t": "Zaid bin Haritsah al-Kalbi, anak angkat Nabi ﷺ", "reason": "already in biography of n2180"}
+  ]
 }

@@ -1,0 +1,35 @@
+{
+ "id": "fihr",
+ "name": "Bani al-Harits bin Fihr",
+ "ar": "بنو الحارث بن فهر",
+ "group": "quraisy",
+ "umum": {
+  "nama_arti": "Nama diambil dari leluhur eponim, al-Harits bin Fihr; \"Fihr\" sendiri adalah nama lain bagi Quraisy.",
+  "wilayah": "Makkah.",
+  "peran_sosial": "Klan Abu 'Ubaidah bin al-Jarrah, salah satu sepuluh sahabat yang dijamin surga dan digelari \"Amin al-Ummah\" (kepercayaan umat).",
+  "dinamika": "Abu 'Ubaidah bin al-Jarrah memimpin penaklukan Syam dan wafat karena wabah Amwas pada masa Umar bin al-Khaththab."
+ },
+ "already_cited": {
+  "leluhur": {
+   "t": "al-Harits bin Fihr bin Malik bin an-Nadhr.",
+   "src": [
+    "Jamharat Ansab al-'Arab, hlm. 176"
+   ]
+  },
+  "titik_temu": {
+   "t": "Bertemu dengan seluruh Quraisy pada Fihr bin Malik, eponim Quraisy.",
+   "src": [
+    "Jamharat Ansab al-'Arab, hlm. 176"
+   ]
+  },
+  "struktur": {
+   "t": "Anak-anak al-Harits: Wadi'ah, Dhabbah, azh-Zharib, Dhabab, dan Qais (keturunannya disebut al-Khalaj); dari Dhabbah lewat Uhaib-Hilal lahir Abu 'Ubaidah 'Amir bin Abdullah bin al-Jarrah.",
+   "src": [
+    "Jamharat Ansab al-'Arab, hlm. 176"
+   ]
+  }
+ },
+ "roles_umum": [
+  "lokasi"
+ ]
+}

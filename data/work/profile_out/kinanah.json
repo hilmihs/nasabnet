@@ -1,0 +1,55 @@
+{
+  "id": "kinanah",
+  "nama_arti": {
+    "t": "Nama diambil dari leluhur eponim, Kinanah bin Khuzaimah bin Mudrikah; kata kinanah berarti wadah anak panah (dari kulit).",
+    "src": [
+      "Jamharat Ansab al-'Arab, hlm. 11",
+      "al-Isytiqaq, hlm. 27"
+    ],
+    "quote": [
+      "هؤلاء ولد كنانة بن خزيمة بن مدركة بن الياس بن مضر",
+      "والكِنانة: كنانة النَّبل. إذا كانت من أدَم فهي كنانة"
+    ],
+    "status": "ok"
+  },
+  "wilayah": {
+    "t": "Di antaranya Bani Dhamrah di sekitar Waddan (al-Abwa') dan Bani Mudlij di Dzul 'Usyairah, dekat Yanbu'; cabang Bakr bin Abdi Manah meliputi Bani Laits, ad-Du'il, dan Dhamrah.",
+    "src": [
+      "Sirah Ibnu Hisyam 1/591",
+      "Ibnu Sa'd 2/10",
+      "Jamharat Ansab al-'Arab, hlm. 465"
+    ],
+    "quote": [
+      "يُرِيدُ قُرَيْشًا وَبَنِيَّ ضَمْرَةَ بْنِ بَكْرِ بْنِ عَبْدِ مَنَاةَ بْنِ كِنَانَةَ، فَوَادَعَتْهُ فِيهَا بَنُو ضَمْرَةَ",
+      "فبلغ ذا العشيرة، وهي لبني مدلج بناحية ينبع",
+      "بنو ليث ابن بكر بن عبد مناة بن كنانة؛ وبنو الدّئل بن بكر بن عبد مناة بن كنان"
+    ],
+    "status": "rewritten"
+  },
+  "peran_sosial": {
+    "t": "Quraisy adalah Bani an-Nadhr bin Kinanah; Kinanah lainnya berperang bersama Quraisy melawan Qais 'Ailan dalam Perang Fijar.",
+    "src": [
+      "Jamharat Ansab al-'Arab, hlm. 465",
+      "Sirah Ibnu Hisyam 1/184"
+    ],
+    "quote": [
+      "وهذه بطون كنانة وهم بنو النّضر بن كنانة، وهم قريش",
+      "هَاجَتْ حَرْبُ الْفُجَّارِ بَيْنَ قُرَيْشٍ، وَمَنْ مَعَهُمْ مِنْ كِنَانَةَ، وَبَيْنَ قَيْسِ عَيْلَانَ"
+    ],
+    "status": "rewritten"
+  },
+  "dinamika": {
+    "t": "Bani Dhamrah mengikat perjanjian damai dengan Nabi ﷺ di Waddan; pada Perjanjian Hudaibiyah Bani Bakr masuk ikatan Quraisy (Khuza'ah ke ikatan Nabi ﷺ), lalu di masa gencatan itu Bani ad-Du'il dari Bani Bakr menyerang Khuza'ah.",
+    "src": [
+      "Sirah Ibnu Hisyam 1/591",
+      "Sirah Ibnu Hisyam 2/390",
+      "Sirah Ibnu Hisyam 2/390"
+    ],
+    "quote": [
+      "فَوَادَعَتْهُ فِيهَا بَنُو ضَمْرَةَ",
+      "فَدَخَلَتْ بَنُو بَكْرٍ فِي عَقْدِ قُرَيْشٍ وَعَهْدِهِمْ، وَدَخَلَتْ خُزَاعَةُ فِي عَقْدِ رَسُولِ اللَّهِ ﷺ",
+      "فَخَرَجَ نَوْفَلُ بْنُ مُعَاوِيَةَ الدِّيلِيُّ فِي بَنِي الدِّيلِ"
+    ],
+    "status": "rewritten"
+  }
+}

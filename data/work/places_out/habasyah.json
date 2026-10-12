@@ -1,0 +1,20 @@
+{"id": "habasyah", "places": [
+  {"t": "Ardh al-Habasyah (Kerajaan Aksum)", "ar": "أرض الحبشة", "kind": "daerah", "note": "Negeri tujuan hijrah pertama; Nabi ﷺ menyebut di sana ada raja yang tidak menzalimi siapa pun",
+   "src": ["Sirah Ibnu Hisyam 1/321"], "quote": ["لو خرجتم إلى أرض الحبشة فإن بها ملكا لا يظلم عنده أحد"],
+   "qid": "Q139377", "lat": 14.1284, "lon": 38.7173, "precision": "tepat"},
+  {"t": "Jarma (kota raja Habasyah)", "ar": "جرمى", "kind": "kota", "note": "Disebut sebagai kota penguasa Habasyah",
+   "src": ["Mu'jam al-Buldan 1/29"], "quote": ["ومدينة صاحب الحبشة جرمى، ومدينة النوبة دمقلة"],
+   "lat": null, "lon": null},
+  {"t": "Raba'at", "ar": "ربعات", "kind": "kota", "note": "Kota terbesar Habasyah; Habasyah menyerang pada masa Umar dan dikirim 'Alqamah bin Mujazziz (tahun 20 H)",
+   "src": ["Mu'jam ma Ista'jam 2/632"], "quote": ["مدينة الحبشة العظمى. ولما أغارت الحبشة زمن عمر ابن الخطاب، بعث إليهم علقمة بن مجزز"],
+   "lat": null, "lon": null},
+  {"t": "Zaila'", "ar": "زيلع", "kind": "kota", "note": "Desa di pesisir laut di arah negeri Habasyah; kaum Zaila' di ujung tanah Habasyah, Muslim",
+   "src": ["Mu'jam al-Buldan 3/164"], "quote": ["وزيلع، بالعين المهملة: قرية على ساحل البحر من ناحية الحبش"],
+   "qid": "Q157800", "lat": 11.3539, "lon": 43.4739, "precision": "tepat"},
+  {"t": "Dumqulah/Dunqulah (Nubia)", "ar": "دمقلة", "kind": "kota", "note": "Kota Nubia, kediaman raja di tepi Nil; 40 malam perjalanan ke Aswan",
+   "src": ["Mu'jam al-Buldan 5/309"], "quote": ["ومدينة النوبة: اسمها دمقلة وهي منزل الملك على ساحل النيل"],
+   "qid": "Q433112", "lat": 18.2231, "lon": 30.7439, "precision": "tepat"},
+  {"t": "Shan'a (al-Qullais Abrahah)", "ar": "صنعاء", "kind": "kota", "note": "Masa kekuasaan Habasyah di Yaman: Abrahah membangun gereja al-Qullais di Shan'a",
+   "src": ["Sirah Ibnu Hisyam 1/43"], "quote": ["بصنعاء، فبنى كنيسة لم ير مثلها في زمانها بشيء من الأرض"],
+   "qid": "Q2471", "lat": 15.35, "lon": 44.2, "precision": "tepat"}
+]}

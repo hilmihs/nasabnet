@@ -2,95 +2,27 @@
   "id": "asad",
   "lokasi": {
     "t": "Makkah (Hijaz), di lembah al-Abthah; termasuk Quraisy al-Bithah",
-    "src": [
-      "Ibnu Sa'd 1/71",
-      "al-Muhabbar, hlm. 167"
-    ],
-    "quote": [
-      "وأدخل قصي بطون قريش كلها الأبطح فسموا قريش البطاح",
-      "قبائل قريش البطاح بنو عبد مناف. وبنو عبد الدار. وبنو عبد العزى"
-    ],
+    "src": ["Ibnu Sa'd 1/71", "al-Muhabbar, hlm. 167"],
+    "quote": ["وأدخل قصي بطون قريش كلها الأبطح فسموا قريش البطاح", "قبائل قريش البطاح بنو عبد مناف. وبنو عبد الدار. وبنو عبد العزى"],
     "status": "rewritten"
   },
   "militer": [
-    {
-      "t": "az-Zubair bin al-'Awwam, hawari Nabi ﷺ, ikut Badar, Uhud, dan seluruh peperangan bersama Nabi ﷺ; terluka di Yarmuk dan termasuk yang pertama naik ke benteng saat penaklukan Mesir",
-      "src": [
-        "Ibnu Sa'd 3/105",
-        "Ibnu Sa'd 3/104",
-        "al-Ishabah 2/459",
-        "al-Ishabah 3/307",
-        "Tarikh ath-Thabari 4/107"
-      ],
-      "quote": [
-        "لكل نبي حواري وإن حواريي الزبير",
-        "وشهد الزبير بن العوام بدرا وأحدا والمشاهد كلها مع رسول الله",
-        "ثنتين يوم بدر، وواحدة يوم اليرموك",
-        "وكان هو والزبير أول من طلع الحصن حين فتحت مصر",
-        "حَتَّى انْتَهَى إِلَى باب اليون، وَاتَّبَعَهُ الزُّبَيْرُ، فَاجْتَمَعَا"
-      ],
-      "status": "rewritten"
-    }
+    {"t": "Pada Perang Fijar Bani Asad bin 'Abd al-'Uzza bertempur sebagai satu pasukan klan di bawah Khuwailid bin Asad dan 'Utsman bin al-Huwairits", "src": ["al-Muhabbar, hlm. 169", "al-Muhabbar, hlm. 170"], "quote": ["رؤساء حرب الفجار من قريش", "وعلى (بني أسد بن عبد العزي) خويلد بن أسد، وعثمان بن الحويرث بن أسد"], "status": "new"},
+    {"t": "Di Badar Bani Asad berada di pihak musyrikin Quraisy; lima orang mereka terbunuh, antara lain Zam'ah bin al-Aswad, Abu al-Bakhtari, dan Naufal bin Khuwailid", "src": ["Sirah Ibnu Hisyam 1/709", "Sirah Ibnu Hisyam 1/709"], "quote": ["وَمِنْ بَنِي أَسَدِ بْنِ عَبْدِ الْعُزَّى بْنِ قُصَيٍّ: زَمَعَةُ بْنُ الْأَسْوَدِ", "وَكَانَ مِنْ شَيَاطِينِ قُرَيْشٍ- قَتَلَهُ عَلِيُّ بْنُ أَبِي طَالِبٍ. خَمْسَةُ نَفَرٍ"], "status": "new"}
   ],
   "diplomasi": [
-    {
-      "t": "Termasuk klan peserta Hilf al-Fudhul, pakta membela orang yang dizalimi di Makkah",
-      "src": [
-        "Sirah Ibnu Hisyam 1/133"
-      ],
-      "quote": [
-        "وَبَنُو الْمُطَّلِبِ، وَأَسَدُ بْنُ عَبْدِ الْعُزَّى، وَزُهْرَةُ ابْن كِلَابٍ"
-      ],
-      "status": "ok"
-    }
+    {"t": "Termasuk klan peserta Hilf al-Fudhul, pakta membela orang yang dizalimi di Makkah", "src": ["Sirah Ibnu Hisyam 1/133"], "quote": ["وَبَنُو الْمُطَّلِبِ، وَأَسَدُ بْنُ عَبْدِ الْعُزَّى، وَزُهْرَةُ ابْن كِلَابٍ"], "status": "ok"},
+    {"t": "Termasuk kabilah al-Muthayyabun: dalam sengketa jabatan Qushay, Bani Asad berpihak kepada Bani 'Abd Manaf, dan saat kedua kubu bersiaga Bani Asad berhadapan dengan Bani 'Abd ad-Dar", "src": ["Sirah Ibnu Hisyam 1/131", "al-Muhabbar, hlm. 166", "al-Munammaq, hlm. 33"], "quote": ["فَكَانَ بَنُو أَسَدِ بْنِ عَبْدِ الْعُزَّى بْنِ قُصَيٍّ، وَبَنُو زُهْرَةَ بْنِ كِلَابٍ", "وبنو أسد بن عبد العزى بن قصى. وبنو زهرة بن كلاب", "وبنو عبد الدار لبني أسد"], "status": "new"}
   ],
-  "ekonomi": [
-    {
-      "t": "Khadijah binti Khuwailid, saudagar kaya yang kafilahnya berdagang ke Syam, mempercayakan dagangannya kepada Nabi ﷺ ke Syam bersama Maisarah",
-      "src": [
-        "Ibnu Sa'd 8/16",
-        "Ibnu Sa'd 8/16"
-      ],
-      "quote": [
-        "كانت خديجة ذات شرف ومال كثير وتجارة تبعث إلى الشام",
-        "تسأله الخروج إلى الشام في تجارتها مع غلامها ميسرة"
-      ],
-      "status": "rewritten"
-    },
-    {
-      "t": "Hakim bin Hizam memegang Dar an-Nadwah, menjualnya kepada Mu'awiyah seharga 100.000 dirham lalu menyedekahkan hasilnya",
-      "src": [
-        "Usdul Ghabah 2/58",
-        "Usdul Ghabah 2/58"
-      ],
-      "quote": [
-        "وكانت بيده دار الندوة، فباعها من معاوية بمائة ألف درهم",
-        "ذهبت المكارم إلا التقوى، وتصدق بثمنها"
-      ],
-      "status": "rewritten"
-    }
-  ],
+  "ekonomi": [],
   "sosial": [
-    {
-      "t": "Klan Khadijah binti Khuwailid, istri pertama Nabi ﷺ",
-      "src": [
-        "Ibnu Sa'd 3/7"
-      ],
-      "quote": [
-        "خويلد بن أسد بن عبد العزى بن قصي، وهي أول امرأة تزوجها رسول الله"
-      ],
-      "status": "ok"
-    },
-    {
-      "t": "Waraqah bin Naufal membenarkan wahyu pertama: yang datang kepada Nabi ﷺ adalah an-Namus al-Akbar yang dahulu datang kepada Musa",
-      "src": [
-        "Sirah Ibnu Hisyam 1/238"
-      ],
-      "quote": [
-        "إنَّكَ لَنَبِيُّ هَذِهِ الْأُمَّةِ، وَلَقَدْ جَاءَكَ النَّامُوسُ الْأَكْبَرُ الَّذِي جَاءَ مُوسَى"
-      ],
-      "status": "rewritten"
-    }
+    {"t": "Klan Khadijah binti Khuwailid, istri pertama Nabi ﷺ", "src": ["Ibnu Sa'd 3/7"], "quote": ["خويلد بن أسد بن عبد العزى بن قصي، وهي أول امرأة تزوجها رسول الله"], "status": "ok"},
+    {"t": "Empat orang Bani Asad ikut hijrah ke Habasyah, di antaranya az-Zubair bin al-'Awwam dan al-Aswad bin Naufal", "src": ["Sirah Ibnu Hisyam 1/324", "Sirah Ibnu Hisyam 1/324"], "quote": ["وَمِنْ بَنِي أَسَدِ بْنِ عَبْدِ الْعُزَّى بْنِ قُصَيٍّ: الزُّبَيْرُ بْنُ الْعَوَّامِ", "وَعَمْرُو بْنُ أُمَيَّةَ بْنِ الْحَارِثِ بْنِ أَسَدٍ، أَرْبَعَةُ نَفَرٍ"], "status": "new"}
   ],
-  "dropped": []
+  "dropped": [
+    {"t": "az-Zubair bin al-'Awwam, hawari Nabi ﷺ, ikut Badar, Uhud, dan seluruh peperangan bersama Nabi ﷺ; terluka di Yarmuk dan termasuk yang pertama naik ke benteng saat penaklukan Mesir", "reason": "Badar and Yarmuk wound already in biography of n2065; hawari hadith, all campaigns and Egypt moved to biography of n2065"},
+    {"t": "Khadijah binti Khuwailid, saudagar kaya yang kafilahnya berdagang ke Syam, mempercayakan dagangannya kepada Nabi ﷺ ke Syam bersama Maisarah", "reason": "already in biography of n15205"},
+    {"t": "Hakim bin Hizam memegang Dar an-Nadwah, menjualnya kepada Mu'awiyah seharga 100.000 dirham lalu menyedekahkan hasilnya", "reason": "moved to biography of n1596"},
+    {"t": "Waraqah bin Naufal membenarkan wahyu pertama: yang datang kepada Nabi ﷺ adalah an-Namus al-Akbar yang dahulu datang kepada Musa", "reason": "one person's deed; Waraqah not in dataset and no clan role"}
+  ]
 }

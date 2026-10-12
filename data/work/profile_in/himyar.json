@@ -1,0 +1,37 @@
+{
+ "id": "himyar",
+ "name": "Himyar & Hadhramaut",
+ "ar": "حمير وحضرموت",
+ "group": "arab",
+ "umum": {
+  "nama_arti": "Nama diambil dari leluhur eponim, Himyar bin Saba'; tidak ada makna khusus yang disepakati secara luas selain sebagai nama diri yang kemudian menjadi nama kerajaan besar.",
+  "wilayah": "Himyar adalah kerajaan dan kabilah besar di Yaman selatan, berpusat sekitar Dzafar dan San'a, dengan para penguasa bergelar Tubba'; Hadhramaut mencakup wilayah pesisir tenggara Yaman.",
+  "peran_sosial": "Dikenal sebagai salah satu kerajaan Arab kuno terbesar sebelum Islam (Kerajaan Himyar), dengan sejarah panjang hubungan dagang dan politik di Jazirah Arab selatan.",
+  "hilf": "Tokoh-tokoh Himyar seperti Dzul Kala' bersekutu dengan Muawiyah bin Abi Sufyan pada Perang Shiffin.",
+  "dinamika": "Pasca-Islam, keturunan bangsawan Himyar seperti Dzul Kala' dan keluarganya tetap berpengaruh pada masa Umayyah, termasuk dalam Perang Shiffin."
+ },
+ "already_cited": {
+  "leluhur": {
+   "t": "Himyar bin Saba' bin Yasyjub bin Ya'rub bin Qahthan.",
+   "src": [
+    "Jamharat Ansab al-'Arab, hlm. 432"
+   ]
+  },
+  "titik_temu": {
+   "t": "Bertemu dengan rumpun Kahlan (termasuk Hamdan, Madzhij, dan Azd) pada Saba' bin Yasyjub.",
+   "src": [
+    "Jamharat Ansab al-'Arab, hlm. 432"
+   ]
+  },
+  "struktur": {
+   "t": "Anak-anak Himyar: al-Hamaisa', Malik, Zaid, 'Uraib, Wa'il, Masruh, 'Amikarib, Aus, dan Murrah; dari jalur ini lahir pula marga Dzu Ra'in dan Dzu Kala' yang terkenal pada masa khilafah.",
+   "src": [
+    "Jamharat Ansab al-'Arab, hlm. 432",
+    "Jamharat Ansab al-'Arab, hlm. 478"
+   ]
+  }
+ },
+ "roles_umum": [
+  "ekonomi[0]"
+ ]
+}

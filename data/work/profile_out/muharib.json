@@ -1,0 +1,23 @@
+{
+  "id": "muharib",
+  "nama_arti": {"t": "Nama diambil dari leluhur eponim, Muharib bin Khashafah bin Qais 'Ailan.",
+    "src": ["Jamharat Ansab al-'Arab, hlm. 259"],
+    "quote": ["وهؤلاء بنو محارب بن خصفة بن قيس عيلان"],
+    "status": "rewritten"},
+  "titik_temu": {"t": "Bersaudara dekat dengan Sulaim dan Hawazin: Khashafah berputra 'Ikrimah dan Muharib, dan dari 'Ikrimah (lewat Manshur) lahir Hawazin dan Sulaim; termasuk rumpun Qais 'Ailan.",
+    "src": ["Jamharat Ansab al-'Arab, hlm. 259", "Jamharat Ansab al-'Arab, hlm. 260"],
+    "quote": ["ولد خصفة بن قيس عيلان: عكرمة", "ولد عكرمة بن خصفة: منصور. فولد منصور: مازن؛ وهوازن؛ وسليم"],
+    "status": "ok"},
+  "wilayah": {"t": "Najd: seluruh Muharib disebut termasuk penghuni al-'Aliyah (\"'alawiyyun najdiyyun\"); sebagian keturunannya kemudian di Andalusia (Ilbira).",
+    "src": ["Mu'jam al-Buldan 4/71", "Jamharat Ansab al-'Arab, hlm. 260"],
+    "quote": ["ومحارب كلها وغطفان كلها علويون نجديون", "ومنهم كان سوار بن حمدون بن يحيى الإلبيرى، القائم بدعوة العرب بالأندلس"],
+    "status": "rewritten"},
+  "peran_sosial": {"t": "Jamharah mencatat salah seorang dari mereka, Sabu' bin Luwarith (Malik bin 'Amr), yang berkata kepada Rasulullah ﷺ: \"Untaku lebih kucintai daripada Tuhanmu!\"; tokoh lain, Dzur-Rumhain 'Amir bin Wahb, adalah pemimpin kaumnya.",
+    "src": ["Jamharat Ansab al-'Arab, hlm. 260", "Jamharat Ansab al-'Arab, hlm. 260", "Jamharat Ansab al-'Arab, hlm. 260"],
+    "quote": ["ومنهم: سبع [بن] لوارث، وهو مالك، بن عمرو بن حارثة", "الذي قال لرسول اللهﷺ-: «جملى أحبّ إلىّ من ربك!»", "عامر بن زيد بن بكر بن عميرة بن علىّ بن جسر بن محارب، وكان سيّد قومه"],
+    "status": "rewritten"},
+  "dinamika": {"t": "Muharib bin Khashafah termasuk kabilah yang didatangi dan diajak Nabi ﷺ pada musim-musim haji sebelum hijrah; di Andalusia, Sawwar bin Hamdun al-Ilbiri dari Muharib memimpin seruan kaum Arab ketika kaum muwalladun bangkit melawan mereka.",
+    "src": ["Ibnu Sa'd 1/216", "Jamharat Ansab al-'Arab, hlm. 260"],
+    "quote": ["ودعاهم وعرض نفسه عليهم: بنو عامر بن صعصعة، ومحارب بن خصفة", "القائم بدعوة العرب بالأندلس، إذ قام عليهم المولّدون"],
+    "status": "rewritten"}
+}

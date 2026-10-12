@@ -1,20 +1,131 @@
 {
   "id": "lakhm",
-  "lokasi": {"t": "Hirah (Irak); sebagian di Syam dan Palestina", "src": ["al-Muhabbar, hlm. 358", "Tarikh ath-Thabari 5/531", "Jamharat Ansab al-'Arab, hlm. 422"], "quote": ["وهو أول من اتخذ الحيرة منزلا من ملوك العرب", "إِنِّي مُسْتَخْلِفُكَ عَلَى فِلَسْطِينَ، وَأَدْخُلَ هَذَا الْحَيَّ مِنْ لَخْمٍ وَجُذَامٍ", "وأقطعهما النبىّ -ﷺبيت حبرين وبيت عينون"], "status": "ok"},
+  "lokasi": {
+    "t": "Hirah (Irak); sebagian di Syam dan Palestina",
+    "src": [
+      "al-Muhabbar, hlm. 358",
+      "Tarikh ath-Thabari 5/531",
+      "Jamharat Ansab al-'Arab, hlm. 422"
+    ],
+    "quote": [
+      "وهو أول من اتخذ الحيرة منزلا من ملوك العرب",
+      "إِنِّي مُسْتَخْلِفُكَ عَلَى فِلَسْطِينَ، وَأَدْخُلَ هَذَا الْحَيَّ مِنْ لَخْمٍ وَجُذَامٍ",
+      "وأقطعهما النبىّ -ﷺبيت حبرين وبيت عينون"
+    ],
+    "status": "ok"
+  },
   "militer": [
-    {"t": "Lakhm termasuk kabilah Arab yang bergabung dengan pasukan Heraklius di Mu'tah", "src": ["Sirah Ibnu Hisyam 2/375"], "quote": ["وانضمّ إِلَيْهِم مل لَخْمٍ وَجُذَامٍ"], "status": "new"}
+    {
+      "t": "Bergabung dengan pasukan Heraklius di Mu'tah, dan menjelang Tabuk kembali berhimpun bersama Romawi hingga al-Balqa'",
+      "src": [
+        "Sirah Ibnu Hisyam 2/375",
+        "Ibnu Sa'd 2/165"
+      ],
+      "quote": [
+        "وانضمّ إِلَيْهِم مل لَخْمٍ وَجُذَامٍ",
+        "وأجلبت معه لخم وجذام وعاملة وغسان"
+      ],
+      "status": "rewritten"
+    },
+    {
+      "t": "Di Yarmuk (Rajab 15 H), sebagian orang Lakhm dan Judham yang bergabung dengan kaum Muslimin lari ketika pertempuran memuncak",
+      "src": [
+        "Tarikh ath-Thabari 3/571"
+      ],
+      "quote": [
+        "وقد كان انضم إلى المسلمين حين ساروا إلى الروم ناس من لخم وجذام، فلما رأوا جد القتال فروا"
+      ],
+      "status": "new"
+    }
   ],
   "diplomasi": [
-    {"t": "Raja-raja Hirah dari Lakhm (Al al-Mundzir) berkuasa sebagai 'amil Kisra atas Hirah dan wilayah Arab di Irak", "src": ["Jamharat Ansab al-'Arab, hlm. 422", "Tarikh ath-Thabari 2/139"], "quote": ["رهط آل المنذر ملوك الحيرة", "وهو عامل كسرى على الحيرة وما يليها من أرض العرب من العراق"], "status": "rewritten"},
-    {"t": "Hirah, bekas ibu kota raja-raja Lakhmi, berdamai dengan Khalid bin al-Walid (12 H) dengan membayar jizyah 190.000 dirham per tahun", "src": ["Tarikh ath-Thabari 3/343", "Tarikh ath-Thabari 3/364"], "quote": ["ثم كانت سنة اثنتي عشرة من الهجرة مسير خالد الى العراق وصلح الحيرة", "عَاهَدَهُمْ عَلَى تِسْعِينَ وَمِائَةِ أَلْفِ دِرْهَمٍ، تُقْبَلُ فِي كُلِّ سَنَةٍ"], "status": "rewritten"}
+    {
+      "t": "Raja-raja Hirah dari Lakhm (Al al-Mundzir) berkuasa sebagai 'amil Kisra atas Hirah dan wilayah Arab di Irak",
+      "src": [
+        "Jamharat Ansab al-'Arab, hlm. 422",
+        "Tarikh ath-Thabari 2/139"
+      ],
+      "quote": [
+        "رهط آل المنذر ملوك الحيرة",
+        "وهو عامل كسرى على الحيرة وما يليها من أرض العرب من العراق"
+      ],
+      "status": "rewritten"
+    },
+    {
+      "t": "Delegasi ad-Dariyyin (Bani ad-Dar dari Lakhm), sepuluh orang, datang kepada Nabi ﷺ sepulang dari Tabuk lalu masuk Islam",
+      "src": [
+        "Ibnu Sa'd 1/343",
+        "Ibnu Sa'd 1/343"
+      ],
+      "quote": [
+        "قدم وفد الداريين على رسول الله، ﷺ، منصرفه من تبوك، وهم عشرة نفر",
+        "بن الدار بن هانئ بن حبيب بن نمارة بن لخم"
+      ],
+      "status": "new"
+    },
+    {
+      "t": "Nabi ﷺ menulis surat jaminan (dzimmah) bagi orang Hadas dari Lakhm yang masuk Islam, mendirikan salat, dan membayar zakat",
+      "src": [
+        "Ibnu Sa'd 1/266"
+      ],
+      "quote": [
+        "وكتب رسول الله، ﷺ، لمن أسلم من حدسٍ من لخم وأقام الصلاة وآتى الزكاة"
+      ],
+      "status": "new"
+    }
   ],
   "ekonomi": [
-    {"t": "an-Nu'man bin al-Mundzir, raja Hirah, tiap tahun mengirim kafilah dagang (lathimah) ke musim pasar 'Ukazh; di Hirah pula orang Arab belajar tulisan", "src": ["al-Muhabbar, hlm. 195", "Jamharat Ansab al-'Arab, hlm. 429"], "quote": ["وكان للنعمان لطيمة يبعث بها كل عام للتجارة إلى موسم عكاظ", "تعلم الخطّ بالحيرة"], "status": "rewritten"}
+    {
+      "t": "Nabi ﷺ mewasiatkan bagi kaum ad-Dariyyin (Bani ad-Dar dari Lakhm) hasil panen 100 wasaq dari Khaibar",
+      "src": [
+        "Ibnu Sa'd 1/344",
+        "Sirah Ibnu Hisyam 2/354"
+      ],
+      "quote": [
+        "وأقام وفد الداريين حتى توفي رسول الله، ﷺ، وأوصى لهم بحاد مائة وسق",
+        "الدَّارِيِّينَ الَّذِينَ أَوْصَى لَهُمْ رَسُولُ اللَّهِ ﷺ مِنْ خَيْبَرَ"
+      ],
+      "status": "new"
+    }
   ],
   "sosial": [
-    {"t": "Tamim ad-Dari (Bani ad-Dar dari Lakhm), sahabat yang kisah al-Jassasah darinya diceritakan Nabi ﷺ di mimbar", "src": ["Jamharat Ansab al-'Arab, hlm. 422", "al-Ishabah 1/488"], "quote": ["الدار بن هانئ، رهط تميم الدّارى صاحب رسول الله", "فحدّث النبي ﷺ عنه بذلك على المنبر"], "status": "rewritten"}
+    {
+      "t": "Bani ad-Dar bin Hani' dari Lakhm, klan Tamim ad-Dari",
+      "src": [
+        "Jamharat Ansab al-'Arab, hlm. 422"
+      ],
+      "quote": [
+        "الدار بن هانئ، رهط تميم الدّارى صاحب رسول الله"
+      ],
+      "status": "rewritten"
+    },
+    {
+      "t": "Menurut hadits tentang Saba', Lakhm termasuk empat kabilah keturunan Saba' yang berpindah ke arah Syam, bersama Judham, Ghassan, dan 'Amilah",
+      "src": [
+        "Ibnu Sa'd 1/45"
+      ],
+      "quote": [
+        "فأما الذين تشاءموا فلخم وجذام وغسان وعاملة"
+      ],
+      "status": "new"
+    }
   ],
   "dropped": [
-    {"t": "Raja-raja Lakhmi di Hirah menjadi penyangga militer Persia terhadap Romawi dan kabilah Arab", "reason": "Peran 'penyangga militer' tidak ditemukan; sumber hanya menyebut mereka 'amil Kisra atas Hirah — ditulis ulang dan dipindah ke diplomasi"}
+    {
+      "t": "Raja-raja Lakhmi di Hirah menjadi penyangga militer Persia terhadap Romawi dan kabilah Arab",
+      "reason": "Peran 'penyangga militer' tidak ditemukan; sumber hanya menyebut mereka 'amil Kisra atas Hirah — ditulis ulang dan dipindah ke diplomasi"
+    },
+    {
+      "t": "Hirah, bekas ibu kota raja-raja Lakhmi, berdamai dengan Khalid bin al-Walid (12 H) dengan membayar jizyah 190.000 dirham per tahun",
+      "reason": "Subjeknya kota Hirah (penduduknya tidak disebut sebagai Lakhm), bukan kabilah Lakhm"
+    },
+    {
+      "t": "an-Nu'man bin al-Mundzir, raja Hirah, tiap tahun mengirim kafilah dagang (lathimah) ke musim pasar 'Ukazh; di Hirah pula orang Arab belajar tulisan",
+      "reason": "Perbuatan perorangan an-Nu'man bin al-Mundzir (bukan sahabat, tidak di dataset); Hirah sebagai tempat belajar tulisan bukan peran kabilah"
+    },
+    {
+      "t": "Tamim ad-Dari (Bani ad-Dar dari Lakhm), sahabat yang kisah al-Jassasah darinya diceritakan Nabi ﷺ di mimbar",
+      "reason": "al-Jassasah already in biography of n1029; klan Bani ad-Dar tetap disebut"
+    }
   ]
 }

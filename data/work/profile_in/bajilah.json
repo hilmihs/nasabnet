@@ -1,0 +1,29 @@
+{
+ "id": "bajilah",
+ "name": "Bajilah",
+ "ar": "بجيلة",
+ "group": "arab",
+ "umum": {
+  "nama_arti": "Nama diambil dari leluhur eponim, Bajilah; makna atau asal-usul nama ini tidak disepakati secara luas dan tidak disebutkan dalam sumber yang tersedia.",
+  "titik_temu": "Bajilah dan Khath'am adalah dua kabilah bersaudara, keduanya dari Anmar; termasuk rumpun Qahthan Yaman.",
+  "wilayah": "Mendiami wilayah pegunungan Sarat dan sekitar Yaman bagian utara menuju Hijaz; sebagian menetap di Kufah pasca-Islam.",
+  "peran_sosial": "Dikenal lewat Jarir bin Abdullah al-Bajali yang mempersatukan Bajilah dan memimpin penghancuran berhala Dzul Khalashah; kabilah ini juga berperan dalam penaklukan-penaklukan awal Islam.",
+  "dinamika": "Setelah Islam, Bajilah banyak menetap di Kufah dan berperan dalam penaklukan Persia; keturunan mereka tersebar hingga Andalusia."
+ },
+ "already_cited": {
+  "leluhur": {
+   "t": "Bajilah berasal dari Anmar, melalui dua jalur utama: Abqar bin Anmar (leluhur Bani Qasr) dan al-Ghauts bin Anmar (leluhur Bani Ahmas).",
+   "src": [
+    "Jamharat Ansab al-'Arab, hlm. 387",
+    "Jamharat Ansab al-'Arab, hlm. 474"
+   ]
+  },
+  "struktur": {
+   "t": "Dua cabang utama: Bani Qasr (dari Malik/Qasr bin Abqar, termasuk marga Jarir bin Abdullah al-Bajali) dan Bani Ahmas (dari al-Ghauts), yang dikenal berjasa pada penghancuran berhala Dzul Khalashah.",
+   "src": [
+    "Jamharat Ansab al-'Arab, hlm. 387"
+   ]
+  }
+ },
+ "roles_umum": []
+}

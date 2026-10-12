@@ -1,0 +1,30 @@
+{
+ "id": "naufal",
+ "name": "Bani Naufal",
+ "ar": "بنو نوفل",
+ "group": "quraisy",
+ "umum": {
+  "nama_arti": "Nama diambil dari leluhur eponim, Naufal bin Abdi Manaf.",
+  "titik_temu": "Bertemu dengan Bani Hasyim, Bani al-Muththalib, dan Bani Umayyah pada Abdu Manaf bin Qushay.",
+  "wilayah": "Makkah.",
+  "peran_sosial": "al-Muth'im bin 'Adi dikenal karena memberi jiwar (perlindungan) kepada Nabi ﷺ sekembalinya dari Thaif, meski ia sendiri wafat sebelum memeluk Islam.",
+  "dinamika": "Keturunan al-Muth'im bin 'Adi dikenang karena jasanya melindungi Nabi ﷺ; Nabi ﷺ pernah menyatakan akan membebaskan tawanan Badar demi al-Muth'im seandainya ia masih hidup dan memintanya."
+ },
+ "already_cited": {
+  "leluhur": {
+   "t": "Naufal bin Abdi Manaf bin Qushay bin Kilab.",
+   "src": [
+    "Jamharat Ansab al-'Arab, hlm. 115"
+   ]
+  },
+  "struktur": {
+   "t": "Anak-anak Naufal: 'Adi, 'Amir, 'Amr, dan Abdu 'Amr; dari 'Adi lahir al-Muth'im bin 'Adi, tokoh terpandang yang melindungi Nabi ﷺ sepulang dari Thaif; dari al-Muth'im lahir Jubair bin Muth'im.",
+   "src": [
+    "Jamharat Ansab al-'Arab, hlm. 115"
+   ]
+  }
+ },
+ "roles_umum": [
+  "lokasi"
+ ]
+}

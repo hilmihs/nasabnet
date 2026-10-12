@@ -36,7 +36,22 @@ export interface TribeProfile {
   lokasi?: Point
   /** strategic roles as bullets, each cited to a book page or marked basis "umum" */
   peran?: Partial<Record<RoleKey, Point[]>>
+  /** cited places for the tribe map (data/tribe_places.json) */
+  tempat?: Place[]
   v?: boolean
+}
+
+/** A place a book ties to a tribe; lat/lon from Wikidata ("perkiraan" = coordinates of the nearby locality it names). */
+export interface Place {
+  t: string
+  ar: string
+  kind: string
+  note: string
+  src: string[]
+  lat?: number
+  lon?: number
+  precision?: 'tepat' | 'perkiraan'
+  near?: string
 }
 
 export type RoleKey = 'militer' | 'diplomasi' | 'ekonomi' | 'sosial'
@@ -76,28 +91,44 @@ export function useBio(): BioData | null {
   return data
 }
 
-/** Turath link for a citation tag such as "al-Ishabah 4/484" or "Ibnu Sa'd 3/265". */
-const MULTI_VOL: [RegExp, number][] = [
-  [/Ishabah/i, 9767],
-  [/Usdul Ghabah/i, 1110],
-  [/Sirah Ibnu Hisyam/i, 23833],
-  [/Thabari/i, 9783],
-  [/Sa'?d/i, 9351],
-]
-const ONE_VOL: [RegExp, number][] = [
-  [/Jamharat Ansab/i, 9793],
-  [/Nasab Quraisy/i, 2922],
-  [/Muhabbar/i, 12205],
+/** Turath link for a citation tag such as "al-Ishabah 4/484" or "Jamharat Ansab al-'Arab, hlm. 150"
+ * (tag prefixes as in scripts/books.py). */
+const BOOK_TAGS: [string, number][] = [
+  ['al-Ishabah ', 9767],
+  ["Ibnu Sa'd ", 9351],
+  ['Usdul Ghabah ', 1110],
+  ['Sirah Ibnu Hisyam ', 23833],
+  ['Tarikh ath-Thabari ', 9783],
+  ["Jamharat Ansab al-'Arab", 9793],
+  ['Nasab Quraisy', 2922],
+  ['al-Muhabbar', 12205],
+  ['Jamharat an-Nasab Ibnul Kalbi', 919],
+  ['Ansab al-Asyraf ', 9773],
+  ['al-Isytiqaq', 9211],
+  ['Nihayat al-Arab al-Qalqasyandi', 31382],
+  ["al-Inbah 'ala Qaba'il ar-Ruwat", 6696],
+  ["al-Ansab as-Sam'ani ", 12317],
+  ['al-Munammaq', 12212],
+  ["al-Isti'ab ", 12288],
+  ["Mu'jam al-Buldan ", 23735],
+  ["Mu'jam ma Ista'jam ", 11802],
+  ["Shifat Jazirat al-'Arab", 12521],
+  ['Futuh al-Buldan', 12221],
+  ['ar-Raudh al-Unuf ', 1514],
+  ["al-'Iqd al-Farid ", 23789],
+  ['al-Kamil fi at-Tarikh ', 21712],
+  ['al-Bidayah wan-Nihayah ', 4445],
+  ['Shahih al-Bukhari ', 1681],
+  ['Shahih Muslim ', 1727],
 ]
 
 export function citationUrl(tag: string): string | undefined {
-  const m = tag.match(/(\d+)\/(\d+)/)
-  const multi = m && MULTI_VOL.find(([re]) => re.test(tag))
-  if (multi) return `https://app.turath.io/book/${multi[1]}?print_page=${m[1]},${m[2]}`
-  const one = ONE_VOL.find(([re]) => re.test(tag))
-  const p = tag.match(/(\d+)\s*$/)
-  if (one && p) return `https://app.turath.io/book/${one[1]}?print_page=1,${p[1]}`
-  return undefined
+  const book = BOOK_TAGS.find(([prefix]) => tag.startsWith(prefix))
+  if (!book) return undefined
+  const multi = tag.match(/(\d+)\/(\d+)\s*$/)
+  if (multi) return `https://app.turath.io/book/${book[1]}?print_page=${multi[1]},${multi[2]}`
+  const one = tag.match(/hlm\.\s*(\d+)\s*$/)
+  return one ? `https://app.turath.io/book/${book[1]}?print_page=1,${one[1]}` : undefined
 }
 
 const NO_SPLIT = /\b(?:hlm|w|no|dkk|dll|dsb|cet|jil|saw|ra)\.$/i

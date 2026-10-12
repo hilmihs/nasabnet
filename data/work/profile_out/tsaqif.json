@@ -1,0 +1,44 @@
+{
+  "id": "tsaqif",
+  "nama_arti": {
+    "t": "\"Tsaqif\" adalah nama Qasiy bin Munabbih, yang kemudian dipakai untuk kabilahnya; menurut Ibnu Duraid dari tsaqiftu asy-syai' (menguasai dan mengokohkan sesuatu), dan menurut al-Qalqasyandi tsaqif dalam bahasa berarti \"yang cakap\" (al-hadziq).",
+    "src": ["al-Isytiqaq, hlm. 301", "al-Isytiqaq, hlm. 301", "Nihayat al-Arab al-Qalqasyandi, hlm. 198"],
+    "quote": [
+      "ثقيف واسمه قَسِيُّ بن منبِّه",
+      "ثقِفْت الشَّيءَ أثقَفُه ثَقْفًا، إذا حَذَقْتَه وأحكمتَه",
+      "واشتهروا باسم أبيهم فيقال: لهم ثقيف"
+    ],
+    "status": "rewritten"
+  },
+  "titik_temu": {
+    "t": "Bertemu dengan kabilah Hawazin lain pada Bakr bin Hawazin bin Manshur bin 'Ikrimah bin Khashafah bin Qais 'Ailan.",
+    "src": ["Jamharat Ansab al-'Arab, hlm. 266"],
+    "quote": ["وهؤلاء بنو منبّه بن بكر بن هوازن بن منصور بن عكرمة ابن خصفة بن قيس عيلان، وهم ثقيف"],
+    "status": "rewritten"
+  },
+  "wilayah": {
+    "t": "Tha'if.",
+    "src": ["Nihayat al-Arab al-Qalqasyandi, hlm. 198"],
+    "quote": ["وكانت منازلهم بالطائف، وهي مدينة من أرض نجد على مرحلتين من مكة"],
+    "status": "ok"
+  },
+  "peran_sosial": {
+    "t": "Penduduk Tha'if; para pemukanya menolak saat Nabi ﷺ datang meminta pertolongan (nushrah) dan perlindungan, lalu delegasi Tsaqif datang dan masuk Islam pada Ramadhan 9 H.",
+    "src": ["Sirah Ibnu Hisyam 1/419", "Sirah Ibnu Hisyam 2/537"],
+    "quote": [
+      "فَخَرَجَ رَسُولُ اللَّهِ ﷺ إلَى الطَّائِفِ، يَلْتَمِسُ النُّصْرَةَ مِنْ ثَقِيفٍ",
+      "أَمْرُ وَفْدِ ثَقِيفٍ وَإِسْلَامُهَا فِي شَهْرِ رَمَضَانَ سَنَةَ تِسْعٍ"
+    ],
+    "status": "rewritten"
+  },
+  "dinamika": {
+    "t": "Saat Nabi ﷺ mengunjungi Tha'if, mereka menghasut orang-orang bodoh dan budak mereka untuk mencaci beliau; pada Syawal 8 H mereka bertahan di benteng Tha'if saat dikepung; pada Ramadhan 9 H delegasi mereka datang dan masuk Islam.",
+    "src": ["Sirah Ibnu Hisyam 1/420", "Ibnu Sa'd 2/158", "Sirah Ibnu Hisyam 2/537"],
+    "quote": [
+      "وَأَغْرَوْا بِهِ سُفَهَاءَهُمْ وَعَبِيدَهُمْ، يَسُبُّونَهُ وَيَصِيحُونَ بِهِ",
+      "فلما انهزموا من أوطاس دخلوا حصنهم وأغلقوه عليهم وتهيأوا للقتال",
+      "أَمْرُ وَفْدِ ثَقِيفٍ وَإِسْلَامُهَا فِي شَهْرِ رَمَضَانَ سَنَةَ تِسْعٍ"
+    ],
+    "status": "rewritten"
+  }
+}

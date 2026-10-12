@@ -1,35 +1,131 @@
 {
-  "id": "tamim",
-  "lokasi": {"t": "Najd bagian timur dan tengah; pasca-Islam banyak di Bashrah", "status": "umum"},
-  "militer": [
-    {"t": "al-Qa'qa' bin 'Amr at-Tamimi tampil menonjol dalam Perang Qadisiyah; pada hari Aghwats ia menewaskan tiga puluh lawan dalam tiga puluh serbuan",
-     "src": ["Tarikh ath-Thabari 3/547", "Tarikh ath-Thabari 3/556"],
-     "quote": ["قتل القعقاع يوم أغواث ثلاثين في ثلاثين حملة", "فأمر بهما سعد القعقاع وعاصما التميميين"],
-     "status": "rewritten"},
-    {"t": "Pada masa Riddah, Malik bin Nuwairah dan Waki' bin Malik dari Bani Hanzhalah (Tamim) berdamai dan bersekutu dengan Sajah, nabi palsu yang datang dari Jazirah",
-     "src": ["Tarikh ath-Thabari 3/269", "Tarikh ath-Thabari 3/270"],
-     "quote": ["راسلت مالك بْن نويرة ودعته إلى الموادعة، فأجابها", "فاجتمع وكيع ومالك وسجاح، وقد وادع بعضهم بعضا"],
-     "status": "rewritten"}
+ "id": "tamim",
+ "lokasi": {
+  "t": "Najd, di sisi Bashrah dan al-Yamamah hingga al-Ghariy (Kufah); berbatasan dengan wilayah Persia; pasca-Islam banyak di Bashrah",
+  "src": [
+   "Nihayat al-Arab al-Qalqasyandi, hlm. 188",
+   "al-Ishabah 7/165",
+   "Tarikh ath-Thabari 5/525"
   ],
-  "diplomasi": [
-    {"t": "Delegasi Bani Tamim (9 H) beradu khatib dan penyair di Madinah; dijawab Tsabit bin Qais dan Hassan bin Tsabit",
-     "src": ["Sirah Ibnu Hisyam 2/560", "Ibnu Sa'd 1/294", "Ibnu Sa'd 1/294"],
-     "quote": ["أَنَّ ذَلِكَ فِي سَنَةِ تِسْعٍ، وَأَنَّهَا كَانَتْ تُسْمَى سَنَةَ الْوُفُودِ", "فقال رسول الله، ﷺ، لثابت بن قيس بن شماس: أجبه، فأجابه", "فقال رسول الله، ﷺ، لحسان بن ثابت: أجبه، فأجابه بمثل شعره"],
-     "status": "ok"}
+  "quote": [
+   "وكانت منازلهم بأرض نجد من هنالك على البصرة وايمامة، وامتدت إلى الغري من أرض الكوفة",
+   "لأن ديار بني تميم كانت مجاورة لديار الفرس",
+   "واجتمعت تميم إِلَى الأحنف بن قيس"
   ],
-  "ekonomi": [
-    {"t": "Saat Nabi ﷺ wafat, zakat Bani Tamim dipegang para petugas dari kalangan mereka sendiri; zakat sebagian cabang dibawa ke Madinah, sedangkan Qais bin 'Ashim sempat membagikan bagiannya kepada kaumnya",
-     "src": ["Tarikh ath-Thabari 3/267", "Tarikh ath-Thabari 3/268", "Tarikh ath-Thabari 3/268"],
-     "quote": ["ان رسول الله ص توفي وقد فرق فيهم عماله", "فاتبع صفوان بصدقات الرباب وعوف والأبناء حَتَّى قدم بِهَا الْمَدِينَة", "فعزم قيس على قسمها فِي المقاعس والبطون"],
-     "status": "rewritten"}
-  ],
-  "sosial": [
-    {"t": "al-Ahnaf bin Qais at-Tamimi, pemuka Bashrah yang terkenal bijak (halim)",
-     "src": ["Usdul Ghabah 3/13"],
-     "quote": ["وكان حليمًا كريمًا ذا دين، وعقل كبير، وذكاء، وفصاحة، وجاه عريض، ونزل البصرة"],
-     "status": "ok"}
-  ],
-  "dropped": [
-    {"t": "Kabilah penggembala di Najd; kemudian menjadi kekuatan utama garnisun Bashrah", "reason": "Tidak ditemukan pernyataan eksplisit di sumber; diganti dengan data zakat Tamim dari Thabari. Bashrah tetap disebut di lokasi (umum)."}
-  ]
+  "status": "rewritten"
+ },
+ "militer": [
+  {
+   "t": "Kelompok-kelompok Bani Tamim ikut dalam pasukan Muslim pada Fathu Makkah",
+   "src": [
+    "Tarikh ath-Thabari 3/65"
+   ],
+   "quote": [
+    "وسائرهم من قريش والأنصار وحلفائهم وطوائف العرب من بني تميم وقيس وأسد"
+   ],
+   "status": "new"
+  },
+  {
+   "t": "Pada masa Riddah sebagian Bani Tamim — Bani Hanzhalah di bawah Malik bin Nuwairah dan Waki' bin Malik — berdamai dan bersekutu dengan Sajah, nabi palsu yang datang dari Jazirah",
+   "src": [
+    "Tarikh ath-Thabari 3/269",
+    "Tarikh ath-Thabari 3/270"
+   ],
+   "quote": [
+    "راسلت مالك بْن نويرة ودعته إلى الموادعة، فأجابها",
+    "فاجتمع وكيع ومالك وسجاح، وقد وادع بعضهم بعضا"
+   ],
+   "status": "rewritten"
+  }
+ ],
+ "diplomasi": [
+  {
+   "t": "Delegasi Bani Tamim (9 H) beradu khatib dan penyair di Madinah; dijawab Tsabit bin Qais dan Hassan bin Tsabit",
+   "src": [
+    "Sirah Ibnu Hisyam 2/560",
+    "Ibnu Sa'd 1/294",
+    "Ibnu Sa'd 1/294"
+   ],
+   "quote": [
+    "أَنَّ ذَلِكَ فِي سَنَةِ تِسْعٍ، وَأَنَّهَا كَانَتْ تُسْمَى سَنَةَ الْوُفُودِ",
+    "فقال رسول الله، ﷺ، لثابت بن قيس بن شماس: أجبه، فأجابه",
+    "فقال رسول الله، ﷺ، لحسان بن ثابت: أجبه، فأجابه بمثل شعره"
+   ],
+   "status": "ok"
+  },
+  {
+   "t": "Di Dumatul Jandal, Bani Tamim memberi jaminan aman kepada tawanan Kalb, sehingga Khalid bin al-Walid melepaskan mereka",
+   "src": [
+    "Tarikh ath-Thabari 3/379"
+   ],
+   "quote": [
+    "فإن عاصما والأقرع وبني تميم قالوا: قد آمناهم، فأطلقهم لهم خالد"
+   ],
+   "status": "new"
+  }
+ ],
+ "ekonomi": [
+  {
+   "t": "Saat Nabi ﷺ wafat, zakat Bani Tamim dipegang para petugas dari kalangan mereka sendiri; zakat sebagian cabang dibawa ke Madinah, sedangkan Qais bin 'Ashim sempat membagikan bagiannya kepada kaumnya",
+   "src": [
+    "Tarikh ath-Thabari 3/267",
+    "Tarikh ath-Thabari 3/268",
+    "Tarikh ath-Thabari 3/268"
+   ],
+   "quote": [
+    "ان رسول الله ص توفي وقد فرق فيهم عماله",
+    "فاتبع صفوان بصدقات الرباب وعوف والأبناء حَتَّى قدم بِهَا الْمَدِينَة",
+    "فعزم قيس على قسمها فِي المقاعس والبطون"
+   ],
+   "status": "rewritten"
+  },
+  {
+   "t": "Pada masa jahiliah Bani Tamim biasa datang ke Hajar (Bahrain) pada musim panen untuk mencari bahan makanan dan memungut kurma",
+   "src": [
+    "Tarikh ath-Thabari 2/169"
+   ],
+   "quote": [
+    "وَكَانَ بَنُو تَمِيمٍ يَصِيرُونَ فِي ذَلِكَ الْوَقْتِ إِلَى هَجَرِ، لِلْمِيرَةِ وَاللِّقَاطِ"
+   ],
+   "status": "new"
+  }
+ ],
+ "sosial": [
+  {
+   "t": "Bani Sa'd bin Zaid Manat (Tamim) mewarisi dari Shufah hak ijazah — memberangkatkan jamaah haji dari Mina; dipegang keluarga Shafwan bin al-Harits bin Syijnah",
+   "src": [
+    "Sirah Ibnu Hisyam 1/120",
+    "Sirah Ibnu Hisyam 1/120"
+   ],
+   "quote": [
+    "فَوَرِثَهُمْ ذَلِكَ مِنْ بَعْدِهِمْ بِالْقُعْدُدِ",
+    "وَكَانَتْ مِنْ بَنِي سَعْدٍ فِي آلِ صَفْوَانَ بْنِ الْحَارِثِ بْنِ شِجْنَةَ"
+   ],
+   "status": "new"
+  },
+  {
+   "t": "Rudha' adalah rumah berhala milik Bani Rabi'ah bin Ka'b bin Sa'd (Tamim); dihancurkan pada masa Islam",
+   "src": [
+    "Sirah Ibnu Hisyam 1/87"
+   ],
+   "quote": [
+    "بَيْتًا لِبَنِي رَبِيعَةَ بْنِ كَعْبِ بْنِ سَعْدِ بْنِ زَيْدِ مَنَاةَ بْنِ تَمِيمٍ"
+   ],
+   "status": "new"
+  }
+ ],
+ "dropped": [
+  {
+   "t": "Kabilah penggembala di Najd; kemudian menjadi kekuatan utama garnisun Bashrah",
+   "reason": "Tidak ditemukan pernyataan eksplisit di sumber; diganti dengan data zakat Tamim dari Thabari. Bashrah tetap disebut di lokasi (umum)."
+  },
+  {
+   "t": "al-Qa'qa' bin 'Amr at-Tamimi tampil menonjol dalam Perang Qadisiyah; pada hari Aghwats ia menewaskan tiga puluh lawan dalam tiga puluh serbuan",
+   "reason": "Perbuatan perorangan (al-Qa'qa' bin 'Amr), bukan peran kabilah; tokoh tidak ada di dataset"
+  },
+  {
+   "t": "al-Ahnaf bin Qais at-Tamimi, pemuka Bashrah yang terkenal bijak (halim)",
+   "reason": "Sifat perorangan (al-Ahnaf bin Qais), bukan peran kabilah; tokoh tidak ada di dataset (Tamim di Bashrah berkumpul kepadanya sudah disebut di lokasi)"
+  }
+ ]
 }

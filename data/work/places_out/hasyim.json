@@ -1,0 +1,105 @@
+{
+ "id": "hasyim",
+ "places": [
+  {
+   "t": "Syi'b Abi Thalib (Makkah)",
+   "ar": "شعب أبي طالب",
+   "kind": "lembah",
+   "note": "Saat boikot Quraisy, Bani Hasyim dan Bani al-Muththalib berkumpul kepada Abu Thalib dan masuk ke syi'bnya",
+   "src": [
+    "Sirah Ibnu Hisyam 1/351"
+   ],
+   "quote": [
+    "انْحَازَتْ بَنُو هَاشِمٍ وَبَنُو الْمُطَّلِبِ إلَى أَبِي طَالِبِ بْنِ عَبْدِ الْمُطَّلِبِ، فَدَخَلُوا مَعَهُ فِي شِعْبِهِ"
+   ],
+   "qid": "Q5806",
+   "lat": 21.4225,
+   "lon": 39.8261,
+   "precision": "perkiraan",
+   "near": "Makkah"
+  },
+  {
+   "t": "Zamzam",
+   "ar": "زمزم",
+   "kind": "mata air",
+   "note": "Digali kembali oleh 'Abdul Muththalib, yang lalu menegakkan siqayah Zamzam bagi jamaah haji",
+   "src": [
+    "Mu'jam al-Buldan 3/149"
+   ],
+   "quote": [
+    "وأقام عبد المطلب سقاية زمزم للحاج"
+   ],
+   "qid": "Q146038",
+   "lat": 21.4226,
+   "lon": 39.8265,
+   "precision": "tepat"
+  },
+  {
+   "t": "Sumur Bidzar (Makkah)",
+   "ar": "بذر",
+   "kind": "mata air",
+   "note": "Sumur yang digali Hasyim bin 'Abd Manaf di ujung Jabal al-Khandamah, di mulut Syi'b Abi Thalib",
+   "src": [
+    "Mu'jam al-Buldan 1/361"
+   ],
+   "quote": [
+    "وحفر هاشم بن عبد مناف بذّر، وهي البئر التي عند خطم الخندمة جبل على فم شعب أبي طالب"
+   ],
+   "qid": "Q5806",
+   "lat": 21.4225,
+   "lon": 39.8261,
+   "precision": "perkiraan",
+   "near": "Makkah"
+  },
+  {
+   "t": "Ghazzah (Ghazzah Hasyim)",
+   "ar": "غزة",
+   "kind": "kota",
+   "note": "Hasyim bin 'Abd Manaf wafat dan dikubur di Ghazzah, karena itu disebut Ghazzah Hasyim",
+   "src": [
+    "Mu'jam al-Buldan 4/202"
+   ],
+   "quote": [
+    "وفيها مات هاشم بن عبد مناف جدّ رسول الله، ﷺ، وبها قبره ولذلك يقال لها غزة هاشم"
+   ],
+   "qid": "Q47492",
+   "lat": 31.5075,
+   "lon": 34.4597,
+   "precision": "tepat"
+  },
+  {
+   "t": "al-Ma'mal (Wadi Bisyah)",
+   "ar": "المعمل",
+   "kind": "desa",
+   "note": "Desa dari wilayah Makkah; milik Bani Hasyim di Wadi Bisyah",
+   "src": [
+    "Mu'jam al-Buldan 5/158"
+   ],
+   "quote": [
+    "لبني هاشم في وادي بيشة ملك يقال له المعمل"
+   ],
+   "qid": "Q97290752",
+   "lat": 20.0,
+   "lon": 42.6,
+   "precision": "perkiraan",
+   "near": "Bisyah"
+  },
+  {
+   "t": "al-Hasyimiyyah (dekat Kufah)",
+   "ar": "الهاشمية",
+   "kind": "kota",
+   "note": "Kota yang dibangun as-Saffah di Kufah dan dinamai al-Hasyimiyyah; lalu ditempati al-Manshur sebelum membangun Baghdad",
+   "src": [
+    "Mu'jam al-Buldan 5/389"
+   ],
+   "quote": [
+    "والهاشمية أيضا: مدينة بناها السفّاح بالكوفة"
+   ],
+   "qid": "Q186234",
+   "lat": 32.03,
+   "lon": 44.4,
+   "precision": "perkiraan",
+   "near": "Kufah"
+  }
+ ]
+}

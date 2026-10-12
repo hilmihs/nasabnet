@@ -1,18 +1,137 @@
 {
-  "id": "kindah",
-  "lokasi": {"t": "Raja-raja Kindah (Akil al-Murar) pernah berkuasa di tanah Ma'add (Najd); setelah kerajaan itu runtuh, Kindah pindah ke Hadhramaut dan menetap di sana", "src": ["al-Muhabbar, hlm. 368", "al-Muhabbar, hlm. 370"], "quote": ["كان تبع أبو كرب لما أقبل يريد العراق، نزل بأرض معد", "فرحلوا فلحقوا بحضرموت فهم بها الى اليوم"], "status": "rewritten"},
-  "militer": [
-    {"t": "al-Asy'ats bin Qais ikut Perang Yarmuk (kehilangan sebelah mata) dan Qadisiyah, datang kepada Sa'd membawa 1.700 orang Yaman, serta berada di pihak Ali di Shiffin", "src": ["Usdul Ghabah 1/250", "Tarikh ath-Thabari 3/487", "Usdul Ghabah 1/250"], "quote": ["وشهد الأشعث اليرموك بالشام، ففقئت عينه، ثم سار إلى العراق، فشهد القادسية", "شراف الاشعث بن قيس في الف وسبعمائة من أهل اليمن", "وسكن الكوفة، وابتنى بها دارا، وشهد صفين مع علي"], "status": "rewritten"}
+ "id": "kindah",
+ "lokasi": {
+  "t": "Raja-raja Kindah (Akil al-Murar) pernah berkuasa di tanah Ma'add (Najd); setelah kerajaan itu runtuh, Kindah pindah ke Hadhramaut dan menetap di sana",
+  "src": [
+   "al-Muhabbar, hlm. 368",
+   "al-Muhabbar, hlm. 370"
   ],
-  "diplomasi": [
-    {"t": "Delegasi Kindah datang ke Madinah (10 H) di bawah al-Asy'ats bin Qais", "src": ["Usdul Ghabah 1/250", "Sirah Ibnu Hisyam 2/585"], "quote": ["وفد إلى النبي ﷺ سنة عشر من الهجرة في وفد كندة", "وقدم على رسول الله ﷺ الأشعث بن قيس، في وفد كندة"], "status": "ok"},
-    {"t": "al-Asy'ats termasuk yang mendesak Ali menerima tahkim di Shiffin, dan menolak Ibnu 'Abbas sebagai hakam karena menuntut seorang hakam dari Yaman", "src": ["Usdul Ghabah 1/250", "Tarikh ath-Thabari 11/544"], "quote": ["وكان ممن ألزم عليا بالتحكيم", "فأبى الاشعث بن قيس، وقال: لا يحكم فيها مضريان، حتى يكون أحدهما يمانيا"], "status": "rewritten"}
+  "quote": [
+   "كان تبع أبو كرب لما أقبل يريد العراق، نزل بأرض معد",
+   "فرحلوا فلحقوا بحضرموت فهم بها الى اليوم"
   ],
-  "ekonomi": [
-    {"t": "Di pasar ar-Rabiyah (Hadhramaut), yang hanya bisa dimasuki dengan jaminan perlindungan, Quraisy berlindung kepada Bani Akil al-Murar dan pedagang lain kepada keluarga Masruq bin Wa'il dari Kindah", "src": ["al-Muhabbar, hlm. 266", "al-Muhabbar, hlm. 267", "al-Muhabbar, hlm. 267"], "quote": ["فالرابية بحضرموت وعكاظ بأعلى نجد", "فكانت قريش تتخفر فيها ببني آكل المرار", "وسائر الناس يتخفرون بآل مسروق بن وائل، من كندة"], "status": "new"}
-  ],
-  "sosial": [
-    {"t": "Penyair Imru'ul Qais adalah putra Hujr, raja dari wangsa Kindah yang ditempatkan atas Bani Asad dan dibunuh oleh mereka", "src": ["al-Muhabbar, hlm. 369", "al-Muhabbar, hlm. 370"], "quote": ["فملك حجرا على بنى أسد بن خزيمة", "فأما بنو أسد، فقتلوا ملكهم حجرا أبا امرئ القيس الشاعر"], "status": "rewritten"}
-  ],
-  "dropped": []
+  "status": "rewritten"
+ },
+ "militer": [
+  {
+   "t": "Kindah murtad sepeninggal Nabi ﷺ; dipimpin al-Asy'ats mereka dikalahkan al-Muhajir bin Abi Umayyah dan Ziyad bin Labid di Mahjar az-Zarqan lalu bertahan di benteng an-Nujair; kemudian 'Umar meringankan tebusan tawanan Kindah dan Hanifah karena banyak lelaki mereka terbunuh",
+   "src": [
+    "Tarikh ath-Thabari 3/331",
+    "Tarikh ath-Thabari 3/335",
+    "Tarikh ath-Thabari 3/335",
+    "Tarikh ath-Thabari 3/340"
+   ],
+   "quote": [
+    "كَانَ سَبَبُ رِدَّةِ كِنْدَةَ إِجَابَتَهُمُ الأَسْوَدِ الْعَنْسِيِّ",
+    "فنهد إلى كندة وعليهم الأشعث، فالتقوا بمحجر الزرقان فاقتتلوا به فهزمت كندة",
+    "فالتجأت إلى النجير وقد رموه وحصنوه",
+    "الا حنيفه وكنده، فَإِنَّهُ خَفَّفَ عَنْهُمْ لِقَتْلِ رِجَالِهِمْ"
+   ],
+   "status": "new"
+  },
+  {
+   "t": "Di al-Qadisiyah pasukan Kindah, dipacu al-Asy'ats bin Qais, menyerbu dan memukul mundur musuh di hadapan mereka",
+   "src": [
+    "Tarikh ath-Thabari 3/539",
+    "Tarikh ath-Thabari 3/539"
+   ],
+   "quote": [
+    "وَقَامَ الأَشْعَثُ بْنُ قَيْسٍ فَقَالَ: يَا مَعْشَرَ كِنْدَةَ",
+    "فَهَا نَحْنُ مَعَكَ فَنَهَدَ وَنَهَدُوا، فَأَزَالُوا الَّذِينَ بِإِزَائِهِمْ"
+   ],
+   "status": "new"
+  }
+ ],
+ "diplomasi": [
+  {
+   "t": "Delegasi Kindah datang ke Madinah (10 H) di bawah al-Asy'ats bin Qais",
+   "src": [
+    "Usdul Ghabah 1/250",
+    "Sirah Ibnu Hisyam 2/585"
+   ],
+   "quote": [
+    "وفد إلى النبي ﷺ سنة عشر من الهجرة في وفد كندة",
+    "وقدم على رسول الله ﷺ الأشعث بن قيس، في وفد كندة"
+   ],
+   "status": "ok"
+  },
+  {
+   "t": "Delegasi Kindah (60 penunggang) datang mengenakan jubah berhias sutra lalu merobek sutranya atas teguran Nabi ﷺ; mereka membanggakan diri sebagai Bani Akil al-Murar karena Kindah dahulu raja-raja",
+   "src": [
+    "Tarikh ath-Thabari 3/138",
+    "Tarikh ath-Thabari 3/139",
+    "Tarikh ath-Thabari 3/139"
+   ],
+   "quote": [
+    "قَدِمَ عَلَى رسول الله ص الاشعث ابن قَيْسٍ فِي سِتِّينَ رَاكِبًا مِنْ كِنْدَةَ",
+    "فَمَا بَالُ هَذَا الْحَرِيرِ فِي أَعْنَاقِكُمْ؟ قَالَ: فَشَقُّوهُ مِنْهَا فَأَلْقَوْهُ",
+    "وَذَلِكَ أَنَّ كنده كانت ملوكا"
+   ],
+   "status": "new"
+  }
+ ],
+ "ekonomi": [
+  {
+   "t": "Di pasar ar-Rabiyah (Hadhramaut), yang hanya bisa dimasuki dengan jaminan perlindungan, Quraisy berlindung kepada Bani Akil al-Murar dan pedagang lain kepada keluarga Masruq bin Wa'il dari Kindah",
+   "src": [
+    "al-Muhabbar, hlm. 266",
+    "al-Muhabbar, hlm. 267",
+    "al-Muhabbar, hlm. 267"
+   ],
+   "quote": [
+    "فالرابية بحضرموت وعكاظ بأعلى نجد",
+    "فكانت قريش تتخفر فيها ببني آكل المرار",
+    "وسائر الناس يتخفرون بآل مسروق بن وائل، من كندة"
+   ],
+   "status": "new"
+  },
+  {
+   "t": "Setelah Kindah dan penduduk Hadhramaut masuk Islam, Nabi ﷺ menetapkan zakat sebagian Hadhramaut disalurkan ke Kindah dan zakat Kindah ke sebagian Hadhramaut; sekelompok Bani Wali'ah menyatakan mereka bukan pemilik unta pengangkut",
+   "src": [
+    "Tarikh ath-Thabari 3/331",
+    "Tarikh ath-Thabari 3/331"
+   ],
+   "quote": [
+    "أَنْ يُوضَعَ صَدَقَةُ بعض حضرموت في كنده، وتوضع صَدَقَةِ كِنْدَةَ فِي بَعْضِ حَضْرَمَوْتَ",
+    "فَقَالَ نَفَرٌ مِنْ بَنِي وَلِيعَةَ: يَا رَسُولَ اللَّهِ، إِنَّا لَسْنَا بِأَصْحَابِ إِبِلٍ"
+   ],
+   "status": "new"
+  }
+ ],
+ "sosial": [
+  {
+   "t": "Wangsa raja Kindah pernah berkuasa atas Bani Asad bin Khuzaimah; raja mereka, Hujr (ayah penyair Imru'ul Qais), dibunuh Bani Asad",
+   "src": [
+    "al-Muhabbar, hlm. 369",
+    "al-Muhabbar, hlm. 370"
+   ],
+   "quote": [
+    "فملك حجرا على بنى أسد بن خزيمة",
+    "فأما بنو أسد، فقتلوا ملكهم حجرا أبا امرئ القيس الشاعر"
+   ],
+   "status": "rewritten"
+  },
+  {
+   "t": "Di Kufah Kindah mendapat kawasan di sisi kiblat masjid, di antara an-Nakha' dan al-Azd; dalam pembagian sepertujuh (asba') Kufah, Kindah satu kelompok dengan Qudha'ah, Bajilah, Khats'am, Hadhramaut, dan al-Azd",
+   "src": [
+    "Tarikh ath-Thabari 4/45",
+    "Tarikh ath-Thabari 4/48"
+   ],
+   "quote": [
+    "وَبَيْنَ النَّخْعِ وَكِنْدَةَ طَرِيقٌ، وَبَيْنَ كِنْدَةَ وَالأَزْدِ طَرِيقٌ",
+    "وصارت قضاعة- ومنهم يومئذ غسان بْن شبام- وبجيلة وخثعم وكندة وحضرموت، والأزد سبعا"
+   ],
+   "status": "new"
+  }
+ ],
+ "dropped": [
+  {
+   "t": "al-Asy'ats bin Qais ikut Perang Yarmuk (kehilangan sebelah mata) dan Qadisiyah, datang kepada Sa'd membawa 1.700 orang Yaman, serta berada di pihak Ali di Shiffin",
+   "reason": "Yarmuk/Qadisiyah/Shiffin already in biography of n730; 1.700 detail moved to biography of n730"
+  },
+  {
+   "t": "al-Asy'ats termasuk yang mendesak Ali menerima tahkim di Shiffin, dan menolak Ibnu 'Abbas sebagai hakam karena menuntut seorang hakam dari Yaman",
+   "reason": "tahkim already in biography of n730; refusal of Ibnu 'Abbas moved to biography of n730"
+  }
+ ]
 }

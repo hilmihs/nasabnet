@@ -1,18 +1,115 @@
 {
   "id": "asad-k",
-  "lokasi": {"t": "Najd bagian utara (mata air Buzakhah termasuk milik Bani Asad); kemudian sebagian menetap di Kufah (kawasan al-Kunasah)", "src": ["Tarikh ath-Thabari 3/254", "Ibnu Sa'd 7/50"], "quote": ["بزاخة، ماء من مياه بني أسد", "فأشترى بها دورا في بني أسد بالكناسة"], "status": "rewritten"},
+  "lokasi": {
+    "t": "Najd bagian utara (mata air Buzakhah termasuk milik Bani Asad); kemudian sebagian menetap di Kufah (kawasan al-Kunasah)",
+    "src": [
+      "Tarikh ath-Thabari 3/254",
+      "Ibnu Sa'd 7/50"
+    ],
+    "quote": [
+      "بزاخة، ماء من مياه بني أسد",
+      "فأشترى بها دورا في بني أسد بالكناسة"
+    ],
+    "status": "rewritten"
+  },
   "militer": [
-    {"t": "Thulaihah bin Khuwailid mengaku nabi sejak masa Nabi ﷺ dan setelah beliau wafat diikuti Asad dan Ghathafan; pasukannya kalah di Buzakhah lalu ia lari ke Syam. Setelah masuk Islam kembali ia ikut ke Irak: menyusup ke perkemahan Rustam menjelang Qadisiyah dan mengintai hingga Nahawand", "src": ["Usdul Ghabah 3/94", "Usdul Ghabah 3/94", "Tarikh ath-Thabari 3/256", "Tarikh ath-Thabari 3/261", "Tarikh ath-Thabari 3/513", "Tarikh ath-Thabari 4/128"], "quote": ["فلما رجعوا تنبأ طليحة في حياة النبي", "وأطاعه الحليفان أسد وغطفان", "فانصرفوا وانهزم الناس فغشوا طليحة يقولون", "ثم رجع إلى دار قومه، فأقام بها حتى خرج إلى العراق", "ومضى طليحة، وعارض المياه على الطفوف، حتى دخل عسكر رستم", "ومضى طليحة حتى انتهى إلى نهاوند"], "status": "rewritten"}
+    {
+      "t": "Bersama Ghathafan mengikuti Thulaihah bin Khuwailid yang mengaku nabi; setelah Nabi ﷺ wafat mereka murtad bersamanya dan dikalahkan di Buzakhah, mata air milik Bani Asad",
+      "src": [
+        "Usdul Ghabah 3/94",
+        "Tarikh ath-Thabari 3/254",
+        "Tarikh ath-Thabari 3/256"
+      ],
+      "quote": [
+        "وأطاعه الحليفان أسد وغطفان",
+        "بزاخة، ماء من مياه بني أسد",
+        "فانصرفوا وانهزم الناس فغشوا طليحة يقولون"
+      ],
+      "status": "rewritten"
+    },
+    {
+      "t": "Dalam Perang Khandaq, sebagian Bani Asad ikut dalam pasukan Ahzab di bawah Thulaihah",
+      "src": [
+        "Ibnu Sa'd 2/71"
+      ],
+      "quote": [
+        "وطليحة ومن تبعه من بني أسد"
+      ],
+      "status": "new"
+    }
   ],
   "diplomasi": [
-    {"t": "Keluarga Jahsy dari Bani Asad adalah sekutu (halif) Bani Abdi Syams (Bani Umayyah) di Makkah", "src": ["Sirah Ibnu Hisyam 1/679", "Sirah Ibnu Hisyam 1/499"], "quote": ["وشهد بدرا من حلفاء بني عبد شمس، ثم من بني أسد بن خزيمة", "وبنو جحش بن رئاب، حلفاء بني أمية"], "status": "ok"}
+    {
+      "t": "Sebagian Bani Asad bin Khuzaimah, antara lain keluarga Jahsy bin Ri'ab, menjadi sekutu (halif) Bani 'Abdi Syams (Bani Umayyah) di Makkah",
+      "src": [
+        "Sirah Ibnu Hisyam 1/679",
+        "Sirah Ibnu Hisyam 1/499"
+      ],
+      "quote": [
+        "وشهد بدرا من حلفاء بني عبد شمس، ثم من بني أسد بن خزيمة",
+        "وبنو جحش بن رئاب، حلفاء بني أمية"
+      ],
+      "status": "rewritten"
+    },
+    {
+      "t": "Delegasi Bani Asad datang kepada Nabi ﷺ (9 H) dan berkata telah datang sebelum diutusi; tentang ucapan mereka turun ayat \"Mereka merasa berjasa kepadamu dengan keislaman mereka\" (al-Hujurat: 17)",
+      "src": [
+        "Tarikh ath-Thabari 3/96",
+        "Tarikh ath-Thabari 3/96"
+      ],
+      "quote": [
+        "وفيها قدم وفد بنى اسد على رسول الله",
+        "قدمنا يَا رَسُولَ اللَّهِ قبل أن ترسل إلينا رسولا"
+      ],
+      "status": "new"
+    }
   ],
   "ekonomi": [
-    {"t": "Karena bersekutu dengan Bani Asad, Thayyi' tidak mengusik para pedagang yang berjalan di bawah perlindungan Quraisy di negeri Mudhar", "src": ["al-Muhabbar, hlm. 264", "al-Muhabbar, hlm. 264"], "quote": ["وكان كل تاجر يخرج من اليمن والحجاز يتخفر بقريش ما داموا في بلاد مضر", "وطيء أيضا لا تهيجهم لحلفهم بنى أسد"], "status": "new"}
+    {
+      "t": "Karena bersekutu dengan Bani Asad, Thayyi' tidak mengusik para pedagang yang berjalan di bawah perlindungan Quraisy di negeri Mudhar",
+      "src": [
+        "al-Muhabbar, hlm. 264",
+        "al-Muhabbar, hlm. 264"
+      ],
+      "quote": [
+        "وكان كل تاجر يخرج من اليمن والحجاز يتخفر بقريش ما داموا في بلاد مضر",
+        "وطيء أيضا لا تهيجهم لحلفهم بنى أسد"
+      ],
+      "status": "new"
+    }
   ],
   "sosial": [
-    {"t": "Zainab binti Jahsy, Ummul Mukminin", "src": ["Sirah Ibnu Hisyam 2/644"], "quote": ["وتزوج رسول الله ﷺ زينب بنت جحش بن رئاب الأسدية"], "status": "ok"},
-    {"t": "Ukkasyah bin Mihshan, ahli Badar", "src": ["Sirah Ibnu Hisyam 1/637"], "quote": ["وقاتل عكاشة بن محصن بن حرثان الأسدي، حليف بني عبد شمس بن عبد مناف، يوم بدر بسيفه"], "status": "ok"}
+    {
+      "t": "Zainab binti Jahsy, Ummul Mukminin",
+      "src": [
+        "Sirah Ibnu Hisyam 2/644"
+      ],
+      "quote": [
+        "وتزوج رسول الله ﷺ زينب بنت جحش بن رئاب الأسدية"
+      ],
+      "status": "ok"
+    },
+    {
+      "t": "Bani Ghanm bin Dudan dari Bani Asad sudah memeluk Islam dan hijrah ke Madinah seluruhnya, laki-laki dan perempuan, meninggalkan rumah-rumah mereka di Makkah terkunci",
+      "src": [
+        "Sirah Ibnu Hisyam 1/472",
+        "Ibnu Sa'd 3/89"
+      ],
+      "quote": [
+        "وَكَانَ بَنُو غَنْمِ ابْنِ دُودَانَ أَهْلَ إسْلَامٍ، قَدْ أَوْعَبُوا",
+        "فخرجوا جميعا وتركوا دورهم مغلقة"
+      ],
+      "status": "new"
+    }
   ],
-  "dropped": []
+  "dropped": [
+    {
+      "t": "Thulaihah bin Khuwailid mengaku nabi sejak masa Nabi ﷺ dan setelah beliau wafat diikuti Asad dan Ghathafan; pasukannya kalah di Buzakhah lalu ia lari ke Syam. Setelah masuk Islam kembali ia ikut ke Irak: menyusup ke perkemahan Rustam menjelang Qadisiyah dan mengintai hingga Nahawand",
+      "reason": "Bagian Asad dan Ghathafan mengikuti Thulaihah serta kekalahan di Buzakhah ditulis ulang ke tingkat kabilah; perbuatan pribadi Thulaihah (lari ke Syam, Qadisiyah, Nahawand) dibuang: tokoh tidak ada di dataset"
+    },
+    {
+      "t": "Ukkasyah bin Mihshan, ahli Badar",
+      "reason": "already in biography of n15241"
+    }
+  ]
 }

@@ -1,17 +1,100 @@
 {
   "id": "fihr",
-  "lokasi": {"t": "Makkah (Hijaz)", "status": "umum"},
+  "lokasi": {
+    "t": "Makkah: termasuk Quraisy azh-Zhawahir di pinggiran Makkah, kecuali rombongan Abu 'Ubaidah bin al-Jarrah yang turun ke al-Abthah",
+    "src": [
+      "Ibnu Sa'd 1/71",
+      "Ibnu Sa'd 1/71"
+    ],
+    "quote": [
+      "وبنو الحارث بن فهر، بظهر مكة، فهؤلاء الظواهر",
+      "إلا أن رهط أبي عبيدة بن الجراح، وهم من بني الحارث بن فهر، نزلوا الأبطح"
+    ],
+    "status": "rewritten"
+  },
   "militer": [
-    {"t": "Setelah Umar menjadi khalifah, Abu 'Ubaidah bin al-Jarrah diangkat memimpin Syam dan menjadi panglima kaum Muslimin di Yarmuk", "src": ["Ibnu Sa'd 7/384"], "quote": ["ولى أبا عبيدة الشام فشهد اليرموك وهو أمير الناس"], "status": "rewritten"}
+    {
+      "t": "Dalam Perang Fijar, Bani al-Harits bin Fihr dipimpin 'Abdullah bin al-Jarrah, ayah Abu 'Ubaidah",
+      "src": [
+        "al-Muhabbar, hlm. 169",
+        "al-Muhabbar, hlm. 170"
+      ],
+      "quote": [
+        "رؤساء حرب الفجار من قريش",
+        "وعلى (بني الحارث بن فهر) عبد الله بن الجراح"
+      ],
+      "status": "new"
+    },
+    {
+      "t": "Lima orang Bani al-Harits bin Fihr ikut Perang Badar di pihak kaum Muslimin, di antaranya Abu 'Ubaidah dan dua putra Baidha'",
+      "src": [
+        "Sirah Ibnu Hisyam 1/685",
+        "Sirah Ibnu Hisyam 1/685"
+      ],
+      "quote": [
+        "وَمِنْ بَنِي الْحَارِثِ بْنِ فِهْرٍ: أَبُو عُبَيْدَةَ بْنُ الْجَرَّاحِ",
+        "وَعَمْرُو بْنُ أَبِي سَرْحِ بْنِ رَبِيعَةَ بْنِ هِلَالِ بْنِ أُهَيْبِ بْنِ ضَبَّةَ بْنِ الْحَارِثِ. خَمْسَةُ نَفَرٍ"
+      ],
+      "status": "new"
+    }
   ],
   "diplomasi": [
-    {"t": "Abu 'Ubaidah diutus Nabi ﷺ kepada penduduk Najran sebagai orang kepercayaan; beliau menyebutnya Amin hadzihil Ummah", "src": ["Ibnu Sa'd 3/412", "Ibnu Sa'd 3/412"], "quote": ["أن ناسا من أهل نجران أتوا النبي، ﷺ، فقالوا: ابعث معنا رجلا أمينا", "وإن أمين هذه الأمة أبو عبيدة بن الجراح"], "status": "rewritten"}
+    {
+      "t": "Termasuk al-Muthayyabun bersama Bani 'Abdu Manaf, Asad, Zuhrah, dan Taim, yang menjadi \"satu tangan dalam saling menolong\"; dalam sengketa dengan al-Ahlaf mereka berhadapan dengan Bani 'Adi",
+      "src": [
+        "al-Muhabbar, hlm. 166",
+        "al-Munammaq, hlm. 33"
+      ],
+      "quote": [
+        "وبنو الحارث بن فهر ابن مالك بن النضر بن كنانة. فهم يد واحدة في التناصر",
+        "وبنو عدي لبني الحارث بن فهر"
+      ],
+      "status": "new"
+    },
+    {
+      "t": "Mengikat persekutuan (hilf) dengan Bani 'Abdu Manaf, yang menurut Ibnu Habib tetap berlaku hingga masanya",
+      "src": [
+        "al-Munammaq, hlm. 267",
+        "al-Munammaq, hlm. 268"
+      ],
+      "quote": [
+        "ومن ذلك حلف بني الحارث بن فهر وعبد مناف",
+        "وقدم بنو الحارث بن فهر فحالفوا معه، فثبت حلف بني الحارث بن فهر إلى يوم الناس هذا"
+      ],
+      "status": "new"
+    }
   ],
-  "ekonomi": [
-    {"t": "Abu 'Ubaidah bin al-Jarrah diutus Nabi ﷺ ke Bahrain dan kembali membawa harta dari sana", "src": ["al-Ishabah 4/552"], "quote": ["أن النبي ﷺ بعث أبا عبيدة بن الجراح، فقدم بمال من البحرين"], "status": "new"}
-  ],
+  "ekonomi": [],
   "sosial": [
-    {"t": "Abu 'Ubaidah bin al-Jarrah termasuk sepuluh sahabat yang dijamin surga", "src": ["Usdul Ghabah 3/477"], "quote": ["وسعيد بن زيد في الجنة، وأبو عبيدة بن الجراح في الجنة"], "status": "ok"}
+    {
+      "t": "Sejumlah orang Bani al-Harits bin Fihr termasuk muhajirin ke Habasyah, di antaranya Abu 'Ubaidah bin al-Jarrah dan Suhail bin Baidha'",
+      "src": [
+        "Sirah Ibnu Hisyam 1/329",
+        "Sirah Ibnu Hisyam 1/330"
+      ],
+      "quote": [
+        "مَنْ هَاجَرَ إلَى الْحَبَشَةِ مِنْ بَنِي الْحَارِثِ",
+        "وَسُهَيْلُ بْنُ بَيْضَاءَ، وَهُوَ سُهَيْلُ بْنُ وَهْبِ بْنِ رَبِيعَةَ"
+      ],
+      "status": "new"
+    }
   ],
-  "dropped": []
+  "dropped": [
+    {
+      "t": "Setelah Umar menjadi khalifah, Abu 'Ubaidah bin al-Jarrah diangkat memimpin Syam dan menjadi panglima kaum Muslimin di Yarmuk",
+      "reason": "moved to biography of n3078 (memimpin Syam sudah ada; Yarmuk sebagai amir ditambahkan)"
+    },
+    {
+      "t": "Abu 'Ubaidah diutus Nabi ﷺ kepada penduduk Najran sebagai orang kepercayaan; beliau menyebutnya Amin hadzihil Ummah",
+      "reason": "already in biography of n3078 (Amin hadzihil Ummah, diutus kepada penduduk Yaman)"
+    },
+    {
+      "t": "Abu 'Ubaidah bin al-Jarrah diutus Nabi ﷺ ke Bahrain dan kembali membawa harta dari sana",
+      "reason": "moved to biography of n3078"
+    },
+    {
+      "t": "Abu 'Ubaidah bin al-Jarrah termasuk sepuluh sahabat yang dijamin surga",
+      "reason": "already in biography of n3078"
+    }
+  ]
 }

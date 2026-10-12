@@ -1,19 +1,111 @@
 {
-  "id": "abdulqais",
-  "lokasi": {"t": "Bahrain (pesisir timur Jazirah Arab); dahulu berpindah ke sana dari Tihamah", "src": ["Jamharat Ansab al-'Arab, hlm. 299"], "quote": ["وهو الذي ساق عبد القيس من تهامة إلى البحرين"], "status": "rewritten"},
-  "militer": [
-    {"t": "Pada masa Riddah sempat goyah setelah wafatnya Nabi ﷺ, lalu kembali teguh dalam Islam berkat al-Jarud, sementara Bakr tetap murtad", "src": ["Tarikh ath-Thabari 3/301", "Tarikh ath-Thabari 3/302"], "quote": ["فأما عبد القيس ففاءت، وأما بكر فتمت على ردتها", "وأنك سيدنا وأفضلنا وثبتوا على إسلامهم"], "status": "rewritten"},
-    {"t": "Ikut pasukan Bahrain yang menyeberangi laut ke Persia (17 H); al-Jarud bin al-Mu'alla gugur di Thawus", "src": ["Tarikh ath-Thabari 4/79", "Tarikh ath-Thabari 4/80"], "quote": ["غزا المسلمون أرض فارس من قبل البحرين", "يا آل عبد القيس للقراع"], "status": "new"}
+ "id": "abdulqais",
+ "lokasi": {
+  "t": "Bahrain (pesisir timur Jazirah Arab); dahulu berpindah ke sana dari Tihamah",
+  "src": [
+   "Jamharat Ansab al-'Arab, hlm. 299"
   ],
-  "diplomasi": [
-    {"t": "Delegasi 'Abdul Qais datang ke Madinah; al-Asyajj dipuji Nabi ﷺ karena santun dan tenang (al-hilm wal-anah)", "src": ["Ibnu Sa'd 1/314", "Ibnu Sa'd 1/314"], "quote": ["مرحبا بهم نعم القوم عبد القيس", "فيك خصلتان يحبهما الله"], "status": "ok"}
+  "quote": [
+   "وهو الذي ساق عبد القيس من تهامة إلى البحرين"
   ],
-  "ekonomi": [
-    {"t": "Bertetangga (bersama Tamim) dengan pasar al-Musyaqqar di Hajar, tempat pedagang Persia datang menyeberangi laut", "src": ["al-Muhabbar, hlm. 265", "al-Muhabbar, hlm. 265"], "quote": ["فتوافي بها فارس يقطعون البحر إليها ببياعاتهم", "وكانت عبد القيس وتميم جيرانها"], "status": "rewritten"}
-  ],
-  "sosial": [
-    {"t": "Masjid Jawatsa di Bahrain menjadi tempat shalat Jumat kedua setelah Madinah", "status": "umum"},
-    {"t": "Sebelum Islam memiliki berhala Dzul Laba di al-Musyaqqar", "src": ["al-Muhabbar, hlm. 317"], "quote": ["وكان ذو اللبا لعبد القيس بالمشقر"], "status": "new"}
-  ],
-  "dropped": []
+  "status": "rewritten"
+ },
+ "militer": [
+  {
+   "t": "Pada masa Riddah sempat goyah setelah wafatnya Nabi ﷺ, lalu kembali teguh dalam Islam berkat al-Jarud, sementara Bakr tetap murtad",
+   "src": [
+    "Tarikh ath-Thabari 3/301",
+    "Tarikh ath-Thabari 3/302"
+   ],
+   "quote": [
+    "فأما عبد القيس ففاءت، وأما بكر فتمت على ردتها",
+    "وأنك سيدنا وأفضلنا وثبتوا على إسلامهم"
+   ],
+   "status": "rewritten"
+  },
+  {
+   "t": "Orang 'Abdul Qais ikut pasukan Bahrain yang menyeberangi laut ke Persia (17 H) dan bertempur di Thawus dengan seruan \"Ya Al 'Abdil Qais\"",
+   "src": [
+    "Tarikh ath-Thabari 4/79",
+    "Tarikh ath-Thabari 4/80",
+    "Tarikh ath-Thabari 4/80"
+   ],
+   "quote": [
+    "غزا المسلمون أرض فارس من قبل البحرين",
+    "فاقتتلوا قتالا شديدا في موضع من الأرض يدعى طاوس",
+    "يا آل عبد القيس للقراع"
+   ],
+   "status": "rewritten"
+  }
+ ],
+ "diplomasi": [
+  {
+   "t": "Delegasi 'Abdul Qais datang ke Madinah dan disambut Nabi ﷺ: \"sebaik-baik kaum adalah 'Abdul Qais\"",
+   "src": [
+    "Ibnu Sa'd 1/314"
+   ],
+   "quote": [
+    "مرحبا بهم نعم القوم عبد القيس"
+   ],
+   "status": "rewritten"
+  }
+ ],
+ "ekonomi": [
+  {
+   "t": "Bertetangga (bersama Tamim) dengan pasar al-Musyaqqar di Hajar, tempat pedagang Persia datang menyeberangi laut",
+   "src": [
+    "al-Muhabbar, hlm. 265",
+    "al-Muhabbar, hlm. 265"
+   ],
+   "quote": [
+    "فتوافي بها فارس يقطعون البحر إليها ببياعاتهم",
+    "وكانت عبد القيس وتميم جيرانها"
+   ],
+   "status": "rewritten"
+  },
+  {
+   "t": "Hajar, kota terbesar Bahrain, adalah pasar Bani Muharib dari 'Abdul Qais; al-Qathif, kawasan kebun kurma di pesisir, didiami Judzaimah dari 'Abdul Qais",
+   "src": [
+    "Shifat Jazirat al-'Arab, hlm. 135",
+    "Shifat Jazirat al-'Arab, hlm. 135"
+   ],
+   "quote": [
+    "مدنية البحرين العظمى هجر وهي سوق بني محارب من عبد القيس",
+    "فالقطيف موضع نخل وقرية عظيمة الشأن وهي ساحل وساكنها جذيمة من عبد القيس"
+   ],
+   "status": "new"
+  }
+ ],
+ "sosial": [
+  {
+   "t": "Masjid 'Abdul Qais di Jawatsa (Bahrain) menjadi tempat shalat Jumat pertama setelah Jumat di Masjid Nabi ﷺ",
+   "src": [
+    "Mu'jam ma Ista'jam 2/402"
+   ],
+   "quote": [
+    "وأوّل جمعة جمعت بعد جمعة فى مسجد رسول الله ﷺ [فى مسجد عبد القيس] ، بجواثى من البحرين"
+   ],
+   "status": "rewritten"
+  },
+  {
+   "t": "Sebelum Islam memiliki berhala Dzul Laba di al-Musyaqqar",
+   "src": [
+    "al-Muhabbar, hlm. 317"
+   ],
+   "quote": [
+    "وكان ذو اللبا لعبد القيس بالمشقر"
+   ],
+   "status": "new"
+  }
+ ],
+ "dropped": [
+  {
+   "t": "al-Jarud bin al-Mu'alla gugur di Thawus (bagian dari: Ikut pasukan Bahrain yang menyeberangi laut ke Persia (17 H); al-Jarud bin al-Mu'alla gugur di Thawus)",
+   "reason": "moved to biography of n1100"
+  },
+  {
+   "t": "al-Asyajj dipuji Nabi ﷺ karena santun dan tenang (al-hilm wal-anah) (bagian dari: Delegasi 'Abdul Qais datang ke Madinah; al-Asyajj dipuji Nabi ﷺ karena santun dan tenang (al-hilm wal-anah))",
+   "reason": "moved to biography of n6345"
+  }
+ ]
 }

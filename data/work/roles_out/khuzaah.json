@@ -30,6 +30,32 @@
         "وَنَقَضُوا مِيثَاقَكَ الْمُوَكَّدَا"
       ],
       "status": "ok"
+    },
+    {
+      "t": "Khuza'ah bersama Bani Bakr memerangi Qushay di al-Abthah hingga banyak korban di kedua pihak; akhirnya mereka diusir dari Makkah",
+      "src": [
+        "Ibnu Sa'd 1/69",
+        "Ibnu Sa'd 1/69"
+      ],
+      "quote": [
+        "فأجمع قصي لحربهم فاقتتلوا قتالًا شديدًا بالأبطح",
+        "لما فرغ قصي ونفى خزاعة وبني بكر عن مكة"
+      ],
+      "status": "new"
+    },
+    {
+      "t": "Bani al-Mushthaliq dari Khuza'ah menghimpun pasukan melawan Nabi ﷺ, lalu dikalahkan di mata air al-Muraisi' (Sya'ban 6 H menurut Ibnu Ishaq)",
+      "src": [
+        "Sirah Ibnu Hisyam 2/289",
+        "Sirah Ibnu Hisyam 2/290",
+        "Sirah Ibnu Hisyam 2/290"
+      ],
+      "quote": [
+        "ثُمَّ غَزَا بَنِي الْمُصْطَلِقِ مِنْ خُزَاعَةَ",
+        "بَلَغَ رَسُولَ اللَّهِ ﷺ أَنَّ بَنِي الْمُصْطَلِقِ يَجْمَعُونَ لَهُ",
+        "فَتَزَاحَفَ النَّاسُ وَاقْتَتَلُوا، فَهَزَمَ اللَّهُ بَنِي الْمُصْطَلِقِ"
+      ],
+      "status": "new"
     }
   ],
   "diplomasi": [
@@ -44,12 +70,14 @@
       "status": "ok"
     },
     {
-      "t": "Budail bin Warqa' bersama orang-orang Khuza'ah menjadi perantara dalam perundingan Hudaibiyah, menyampaikan kepada Quraisy bahwa Nabi ﷺ datang bukan untuk berperang",
+      "t": "Rombongan Khuza'ah bersama Budail bin Warqa' menjadi perantara di Hudaibiyah: menemui Nabi ﷺ lalu menyampaikan kepada Quraisy bahwa beliau datang bukan untuk berperang",
       "src": [
+        "Sirah Ibnu Hisyam 2/311",
         "Sirah Ibnu Hisyam 2/311"
       ],
       "quote": [
-        "أَتَاهُ بُدَيْلُ ابْن وَرْقَاءَ الْخُزَاعِيُّ، فِي رِجَالٍ مِنْ خُزَاعَةَ"
+        "أَتَاهُ بُدَيْلُ ابْن وَرْقَاءَ الْخُزَاعِيُّ، فِي رِجَالٍ مِنْ خُزَاعَةَ",
+        "فَرَجَعُوا إلَى قُرَيْشٍ فَقَالُوا: يَا مَعْشَرَ قُرَيْشٍ، إنَّكُمْ تَعْجَلُونَ عَلَى مُحَمَّدٍ"
       ],
       "status": "rewritten"
     }
@@ -71,17 +99,22 @@
       "status": "rewritten"
     },
     {
-      "t": "'Imran bin Hushain al-Khuza'i, sahabat perawi hadits; diutus 'Umar ke Bashrah untuk mengajarkan agama",
+      "t": "Khuza'ah, baik yang Muslim maupun yang musyrik, adalah kalangan kepercayaan Nabi ﷺ ('aibat nush) yang tidak menyembunyikan dari beliau apa pun yang terjadi di Makkah",
       "src": [
-        "Usdul Ghabah 4/269",
-        "Usdul Ghabah 4/269"
+        "Sirah Ibnu Hisyam 2/312",
+        "Sirah Ibnu Hisyam 2/312"
       ],
       "quote": [
-        "بعثه عمر بن الخطاب إلى البصرة، ليفقه أهلها",
-        "روى عن: النبي ﷺ وروى عنه: الحسن"
+        "وَكَانَتْ خُزَاعَةُ عَيْبَةَ نُصْحِ",
+        "مُسْلِمُهَا وَمُشْرِكُهَا، لَا يُخْفُونَ عَنْهُ شَيْئًا كَانَ بِمَكَّةَ"
       ],
-      "status": "rewritten"
+      "status": "new"
     }
   ],
-  "dropped": []
+  "dropped": [
+    {
+      "t": "'Imran bin Hushain al-Khuza'i, sahabat perawi hadits; diutus 'Umar ke Bashrah untuk mengajarkan agama",
+      "reason": "already in biography of s1004"
+    }
+  ]
 }

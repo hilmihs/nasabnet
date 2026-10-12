@@ -1,49 +1,85 @@
 {
-  "id": "dhabbah",
-  "lokasi": {
-    "t": "Najd tengah; kemudian banyak di Bashrah",
-    "status": "umum"
+ "id": "dhabbah",
+ "lokasi": {
+  "t": "Najd (antara lain air Ta'syar dan al-Bakarat di Yamamah); kemudian memiliki khiththah di Bashrah",
+  "src": [
+   "Mu'jam ma Ista'jam 1/314",
+   "Mu'jam al-Buldan 1/475",
+   "Mu'jam al-Buldan 4/124"
+  ],
+  "quote": [
+   "وقال الخليل: ماء لبنى ضبّة بنجد",
+   "البكرات ماء لضبّة بأرض اليمامة، وهي قارات بأسفل الوشم",
+   "وقصر عسل: بالبصرة بقرب خطة بني ضبّة"
+  ],
+  "status": "rewritten"
+ },
+ "militer": [
+  {
+   "t": "Berada di pihak Aisyah pada Perang Jamal dan bertahan di sekitar untanya hingga banyak yang gugur (seribu orang Bani Dhabbah menurut satu riwayat, delapan ratus menurut riwayat lain)",
+   "src": [
+    "Tarikh ath-Thabari 4/516",
+    "Tarikh ath-Thabari 4/518",
+    "Tarikh ath-Thabari 4/539",
+    "Tarikh ath-Thabari 4/545"
+   ],
+   "quote": [
+    "ما زال رأس الجمل معتدلا حتى قتلت بنو ضبة حولي",
+    "ما زال جملي معتدلا حتى فقدت أصوات بني ضبة",
+    "والف من بنى ضبة",
+    "وثمانمائه من بنى ضبة"
+   ],
+   "status": "rewritten"
   },
-  "militer": [
-    {
-      "t": "Berada di pihak Aisyah pada Perang Jamal dan bertahan di sekitar untanya hingga banyak yang gugur",
-      "src": [
-        "Tarikh ath-Thabari 4/516",
-        "Tarikh ath-Thabari 4/518"
-      ],
-      "quote": [
-        "ما زال رأس الجمل معتدلا حتى قتلت بنو ضبة حولي",
-        "ما زال جملي معتدلا حتى فقدت أصوات بني ضبة"
-      ],
-      "status": "rewritten"
-    }
-  ],
-  "diplomasi": [
-    {
-      "t": "Pada masa Riddah, Bani Dhabbah mengalahkan dan menawan Waki' (sekutu Sajah dari Tamim), lalu berdamai: Dhabbah melepas para tawanan dan korban tewas dibayar diyatnya",
-      "src": [
-        "Tarikh ath-Thabari 3/270",
-        "Tarikh ath-Thabari 3/271"
-      ],
-      "quote": [
-        "فالتقى وكيع وبشر وبنو بكر من بني ضبة، فهزما، وأسر سماعة ووكيع وقعقاع",
-        "لهم ضبة الأسرى، وودوا القتلى، وخرجوا عنهم"
-      ],
-      "status": "new"
-    }
-  ],
-  "ekonomi": [],
-  "sosial": [
-    {
-      "t": "Bagian dari konfederasi ar-Ribab",
-      "src": [
-        "Tarikh ath-Thabari 3/270"
-      ],
-      "quote": [
-        "وسمعت بهذا الرباب فاجتمعوا لها، ضبتها وعبد مناتها"
-      ],
-      "status": "ok"
-    }
-  ],
-  "dropped": []
+  {
+   "t": "Ikut futuh Irak: sekelompok Bani Dhabbah di bawah 'Ishmah bin 'Abdillah adh-Dhabbi dikirim memperkuat al-Mutsanna, dan rombongan Bani Dhabbah lain dijadikan dua pasukan",
+   "src": [
+    "Tarikh ath-Thabari 3/460",
+    "Tarikh ath-Thabari 3/464"
+   ],
+   "quote": [
+    "وَبَعَثَ عِصْمَةَ بْنَ عَبْدِ اللَّهِ مِنْ بَنِي عَبْدِ بْنِ الْحَارِثِ الضَّبِيِّ فِيمَنْ تَبِعَهُ مِنْ بَنِي ضَبَّةَ",
+    "وقدم عليه قوم من بني ضبة، فجعلهم فرقتين"
+   ],
+   "status": "new"
+  }
+ ],
+ "diplomasi": [
+  {
+   "t": "Pada masa Riddah, Bani Dhabbah mengalahkan dan menawan Waki' (sekutu Sajah dari Tamim), lalu berdamai: Dhabbah melepas para tawanan dan korban tewas dibayar diyatnya",
+   "src": [
+    "Tarikh ath-Thabari 3/270",
+    "Tarikh ath-Thabari 3/271"
+   ],
+   "quote": [
+    "فالتقى وكيع وبشر وبنو بكر من بني ضبة، فهزما، وأسر سماعة ووكيع وقعقاع",
+    "لهم ضبة الأسرى، وودوا القتلى، وخرجوا عنهم"
+   ],
+   "status": "new"
+  },
+  {
+   "t": "Mengirim delegasi (wafd Bani Dhabbah) kepada 'Umar bin al-Khaththab, yang memenuhi keperluan mereka",
+   "src": [
+    "Ibnu Sa'd 6/166"
+   ],
+   "quote": [
+    "وفدنا إلى عمر بن الخطاب في وفد بني ضبة، قال فقضوا حوائجهم"
+   ],
+   "status": "new"
+  }
+ ],
+ "ekonomi": [],
+ "sosial": [
+  {
+   "t": "Bagian dari konfederasi ar-Ribab",
+   "src": [
+    "Tarikh ath-Thabari 3/270"
+   ],
+   "quote": [
+    "وسمعت بهذا الرباب فاجتمعوا لها، ضبتها وعبد مناتها"
+   ],
+   "status": "ok"
+  }
+ ],
+ "dropped": []
 }

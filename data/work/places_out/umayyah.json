@@ -1,0 +1,165 @@
+{
+ "id": "umayyah",
+ "places": [
+  {
+   "t": "Makkah (Dar Abi Sufyan)",
+   "ar": "مكة",
+   "kind": "kota",
+   "note": "Rumah Abu Sufyan di Makkah bagian atas; saat Fathu Makkah siapa yang memasukinya dijamin aman",
+   "src": [
+    "Tarikh ath-Thabari 3/55"
+   ],
+   "quote": [
+    "من دخل دار أبي سفيان فهو آمن- وهي بأعلى مكة"
+   ],
+   "qid": "Q5806",
+   "lat": 21.4225,
+   "lon": 39.8261,
+   "precision": "tepat"
+  },
+  {
+   "t": "Sumur ath-Thawi",
+   "ar": "الطوي",
+   "kind": "mata air",
+   "note": "Sumur yang digali 'Abd Syams bin 'Abd Manaf, di Makkah bagian atas dekat al-Baidha'",
+   "src": [
+    "Sirah Ibnu Hisyam 1/148"
+   ],
+   "quote": [
+    "حفر عبد شمس بن عبد مناف الطوي"
+   ],
+   "qid": "Q5806",
+   "lat": 21.4225,
+   "lon": 39.8261,
+   "precision": "perkiraan",
+   "near": "Makkah"
+  },
+  {
+   "t": "Sumur al-Hafr",
+   "ar": "الحفر",
+   "kind": "mata air",
+   "note": "Sumur di Makkah yang digali Umayyah bin 'Abd Syams untuk dirinya",
+   "src": [
+    "Sirah Ibnu Hisyam 1/149"
+   ],
+   "quote": [
+    "وحفر أمية بن عبد شمس الحفر"
+   ],
+   "qid": "Q5806",
+   "lat": 21.4225,
+   "lon": 39.8261,
+   "precision": "perkiraan",
+   "near": "Makkah"
+  },
+  {
+   "t": "Madinah (kavling 'Utsman bin 'Affan)",
+   "ar": "المدينة",
+   "kind": "kota",
+   "note": "Nabi ﷺ memberi 'Utsman bin 'Affan dan sahabat lain lahan untuk rumah mereka di Madinah",
+   "src": [
+    "Mu'jam al-Buldan 5/86"
+   ],
+   "quote": [
+    "وأقطع كل واحد من عثمان بن عفان وخالد بن الوليد والمقداد"
+   ],
+   "qid": "Q35484",
+   "lat": 24.47,
+   "lon": 39.61,
+   "precision": "tepat"
+  },
+  {
+   "t": "Damaskus",
+   "ar": "دمشق",
+   "kind": "kota",
+   "note": "Kedudukan Yazid bin Mu'awiyah; Mu'awiyah wafat di Damaskus",
+   "src": [
+    "Tarikh ath-Thabari 5/459"
+   ],
+   "quote": [
+    "والله انا لعند يزيد ابن معاوية بدمشق"
+   ],
+   "qid": "Q3766",
+   "lat": 33.5131,
+   "lon": 36.2919,
+   "precision": "tepat"
+  },
+  {
+   "t": "Harlan (Ghuthah Damaskus)",
+   "ar": "حرلان",
+   "kind": "daerah",
+   "note": "Kawasan di Ghuthah Damaskus berisi beberapa desa; dihuni para bangsawan Bani Umayyah",
+   "src": [
+    "Mu'jam al-Buldan 2/243"
+   ],
+   "quote": [
+    "ناحية بدمشق بالغوطة فيها عدة قرى، بها قوم من أشراف بني أمية"
+   ],
+   "qid": "Q1522001",
+   "lat": 33.5,
+   "lon": 36.4208,
+   "precision": "perkiraan",
+   "near": "Ghouta"
+  },
+  {
+   "t": "al-Jami' (Ghuthah)",
+   "ar": "الجامع",
+   "kind": "desa",
+   "note": "Desa di Ghuthah yang dihuni sekelompok Bani Umayyah, antara lain al-Walid bin Tammam",
+   "src": [
+    "Mu'jam al-Buldan 2/96"
+   ],
+   "quote": [
+    "الجامع: من قرى الغوطة، سكنها قوم من بني أمية"
+   ],
+   "qid": "Q1522001",
+   "lat": 33.5,
+   "lon": 36.4208,
+   "precision": "perkiraan",
+   "near": "Ghouta"
+  },
+  {
+   "t": "Dair Sim'an",
+   "ar": "دير سمعان",
+   "kind": "desa",
+   "note": "Di wilayah Damaskus; dikelilingi istana dan kebun Bani Umayyah; makam 'Umar bin 'Abdul 'Aziz",
+   "src": [
+    "Mu'jam ma Ista'jam 2/585"
+   ],
+   "quote": [
+    "هو بنواحى دمشق ، حواليه قصور وبساتين لبنى أمية"
+   ],
+   "lat": null,
+   "lon": null
+  },
+  {
+   "t": "ar-Rushafah (Rushafah Hisyam)",
+   "ar": "رصافة هشام",
+   "kind": "kota",
+   "note": "Dibangun Hisyam bin 'Abdul Malik di barat ar-Raqqah (4 farsakh); tempat tinggalnya di musim panas",
+   "src": [
+    "Mu'jam al-Buldan 3/47"
+   ],
+   "quote": [
+    "رصافة هشام بن عبد الملك في غربي الرقة بينهما أربعة فراسخ"
+   ],
+   "qid": "Q631407",
+   "lat": 35.6278,
+   "lon": 38.7564,
+   "precision": "tepat"
+  },
+  {
+   "t": "Madinat az-Zahra' (dekat Cordoba)",
+   "ar": "الزهراء",
+   "kind": "kota",
+   "note": "Kota kecil dekat Cordoba (Andalus) yang dibangun 'Abdurrahman an-Nashir al-Umawi tahun 325 H",
+   "src": [
+    "Mu'jam al-Buldan 3/161"
+   ],
+   "quote": [
+    "مدينة صغيرة قرب قرطبة بالأندلس اختطها عبد الرحمن الناصر"
+   ],
+   "lat": null,
+   "lon": null
+  }
+ ]
+}

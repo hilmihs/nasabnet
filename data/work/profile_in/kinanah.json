@@ -1,0 +1,33 @@
+{
+ "id": "kinanah",
+ "name": "Kinanah",
+ "ar": "كنانة",
+ "group": "arab",
+ "umum": {
+  "nama_arti": "Nama Kinanah berarti 'tempat/sarung anak panah' dalam bahasa Arab, diambil dari leluhur eponim mereka.",
+  "wilayah": "Mendiami wilayah sekitar Makkah dan pesisir Hijaz; termasuk kabilah Bani Laits, Bani Dhamrah, dan ad-Du'il di sekitarnya.",
+  "peran_sosial": "Kinanah dianggap induk besar yang melahirkan Quraisy; beberapa sub-kabilahnya ikut terlibat dalam peristiwa-peristiwa penting Makkah pra-Islam, termasuk Perang Fijar.",
+  "dinamika": "Kedekatan nasab dengan Quraisy membuat beberapa klan Kinanah ikut ambil bagian dalam peristiwa-peristiwa penting Makkah, termasuk sebagai pihak dalam Perjanjian Hudaibiyah karena bersekutu dengan Quraisy."
+ },
+ "already_cited": {
+  "leluhur": {
+   "t": "Kinanah bin Khuzaimah bin Mudrikah bin Ilyas bin Mudhar bin Nizar bin Ma'ad bin Adnan.",
+   "src": [
+    "Jamharat Ansab al-'Arab, hlm. 11"
+   ]
+  },
+  "titik_temu": {
+   "t": "Bertemu dengan seluruh Quraisy pada Fihr bin Malik bin an-Nadhr bin Kinanah, yang disebut sebagai leluhur murni Quraisy.",
+   "src": [
+    "Jamharat Ansab al-'Arab, hlm. 11"
+   ]
+  },
+  "struktur": {
+   "t": "Anak-anak Kinanah: an-Nadhr, Malik, Malikan, dan Abdu Manah; dari an-Nadhr lahir Malik bin an-Nadhr lalu Fihr bin Malik, sedangkan jalur ash-Shalt bin Malik masuk ke Bani Malih dari Khuza'ah.",
+   "src": [
+    "Jamharat Ansab al-'Arab, hlm. 11"
+   ]
+  }
+ },
+ "roles_umum": []
+}

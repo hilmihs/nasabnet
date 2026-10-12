@@ -1,0 +1,28 @@
+{
+ "id": "azd",
+ "name": "al-Azd",
+ "ar": "الأزد",
+ "group": "arab",
+ "umum": {
+  "nama_arti": "Nama diambil dari leluhur eponim, al-Azd bin al-Ghauts; tidak ada makna etimologis yang disepakati secara luas.",
+  "titik_temu": "al-Azd termasuk rumpun Qahthan (Yaman); bertemu dengan kabilah Qahthan lain seperti Himyar, Hamdan, dan Kindah pada leluhur bersama Kahlan bin Saba'.",
+  "wilayah": "Awalnya di Yaman (termasuk Oman dan as-Sarah); sebagian besar bermigrasi ke Hijaz, Syam (Ghassan), dan Bashrah/Oman menurut tradisi Arab setelah runtuhnya bendungan Ma'rib.",
+  "peran_sosial": "Salah satu induk kabilah Qahthan terbesar, mencakup banyak sub-kabilah seperti Daus, Khuza'ah, al-Aus, al-Khazraj, dan Ghassan; berperan besar dalam sejarah Arab pra- dan pasca-Islam.",
+  "dinamika": "Pasca masa kenabian, berbagai cabang Azd menyebar ke Oman, Bashrah, dan Khurasan, dan sejumlah pemimpinnya berperan penting pada masa Umayyah dan Abbasiyah."
+ },
+ "already_cited": {
+  "leluhur": {
+   "t": "al-Azd bin al-Ghauts bin Nabt bin Malik bin Zaid bin Kahlan bin Saba'.",
+   "src": [
+    "Jamharat Ansab al-'Arab, hlm. 330"
+   ]
+  },
+  "struktur": {
+   "t": "Anak-anak al-Azd: Mazin, Nashr, Amr, Abdullah, al-Hunu, dan Qudar; dari Mazin lahir Amr, Adi, Ka'b, dan Tsa'labah.",
+   "src": [
+    "Jamharat Ansab al-'Arab, hlm. 330"
+   ]
+  }
+ },
+ "roles_umum": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "bahilah",
+  "nama_arti": {"t": "Nama Bahilah diambil dari Bahilah binti Sha'b bin Sa'd al-'Asyirah (Madzhij), istri Malik bin A'shur dan ibu Sa'd Manat; sepeninggal Malik ia dinikahi putranya, Ma'n bin Malik, dan mengasuh anak-anak Ma'n dari istri lain, sehingga semuanya dinasabkan kepadanya. Menurut Ibnu Duraid, kata bahilah berasal dari abhaltu an-naqah, 'melepas ikatan ambing unta'.",
+    "src": ["Jamharat Ansab al-'Arab, hlm. 245", "Jamharat Ansab al-'Arab, hlm. 245", "al-Isytiqaq, hlm. 274"],
+    "quote": ["ومعن بن مالك، خلف بعد أبيه على باهلة", "وحضنت سائر ولده من غيرها؛ فنسب جميعهم إلى باهلة", "واشتقاق باهلة من قولهم: أبهلت الناقةَ، إذا حَلَلْتَ صِرارَها"],
+    "status": "rewritten"},
+  "wilayah": {"t": "Bilad/diyar Bahilah mencakup gunung Armam dan berbatasan dengan wilayah al-Yamamah; di sawad Bahilah terdapat kampung, ladang, dan kebun kurma milik mereka. Mereka juga memiliki mata air al-Hufair, empat mil dari Bashrah. Bahilah disebut kabilah yang direndahkan (mardzulah) di kalangan Arab, meski darinya lahir Qutaibah bin Muslim, penguasa Khurasan.",
+    "src": ["Mu'jam al-Buldan 1/154", "Mu'jam al-Buldan 2/210", "Shifat Jazirat al-'Arab, hlm. 147", "Mu'jam al-Buldan 2/277", "al-Bidayah wan-Nihayah 12/619", "Jamharat Ansab al-'Arab, hlm. 246"],
+    "quote": ["أَرْمامٌ: اسم جبل في ديار باهلة بن أعصر", "حائل موضع بين أرض اليمامة وبلاد باهلة", "ونخل لباهلة وعلى عروان والشط كل ذلك قرى ومزارع ونخيل", "والحفير أيضا: ماء لباهلة، بينه وبين البصرة أربعة أميال", "وَأَنَّهَا قَبِيلَةٌ مَرْذُولَةٌ عِنْدَ الْعَرَبِ", "صاحب خراسان، ذو الآثار المشهورة، قتيبة بن مسلم"],
+    "status": "rewritten"},
+  "peran_sosial": {"t": "Dikenal lewat Qutaibah bin Muslim al-Bahili, penguasa Khurasan yang termasyhur jejaknya; ia menyeberangi sungai menuju Bukhara dan menaklukkan Samarkand sepulang dari Khwarizm.",
+    "src": ["Jamharat Ansab al-'Arab, hlm. 246", "Tarikh ath-Thabari 6/439", "Tarikh ath-Thabari 6/472"],
+    "quote": ["صاحب خراسان، ذو الآثار المشهورة، قتيبة بن مسلم", "فقطع النهر، فلقيه السغد وأهل كس ونسف", "غزا قتيبة بن مسلم منصرفه من خوارزم سمرقند، فافتتحها"],
+    "status": "rewritten"},
+  "dinamika": {"t": "Keturunan Qutaibah bin Muslim tetap banyak di Bashrah; Sa'id bin Salm bin Qutaibah memegang berbagai jabatan untuk al-Manshur dan al-Mahdi, dan Ibrahim bin Salm menjadi gubernur Yaman untuk al-Hadi.",
+    "src": ["Jamharat Ansab al-'Arab, hlm. 246", "Jamharat Ansab al-'Arab, hlm. 246", "Jamharat Ansab al-'Arab, hlm. 246"],
+    "quote": ["ولهم بقيّة ضخمة بالبصرة", "وسعيد بن سلم، ولى الولايات للمنصور والمهدىّ", "ولى إبراهيم هذا اليمن للهادى"],
+    "status": "rewritten"},
+  "dropped": []
+}

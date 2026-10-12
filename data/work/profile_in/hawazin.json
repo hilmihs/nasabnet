@@ -1,0 +1,36 @@
+{
+ "id": "hawazin",
+ "name": "Hawazin",
+ "ar": "هوازن",
+ "group": "arab",
+ "umum": {
+  "nama_arti": "Nama diambil dari leluhur eponim Hawazin bin Manshur; tidak ada makna khusus yang disepakati secara luas.",
+  "wilayah": "Mendiami wilayah sekitar Thaif dan Najd bagian barat; kaumnya termasuk Bani 'Amir bin Sha'sha'ah, Bani Hilal, dan Bani Sa'd bin Bakr.",
+  "peran_sosial": "Dikenal lewat Perang Hunain melawan kaum Muslimin pasca Fathu Makkah, serta hubungan erat Nabi ﷺ dengan Bani Sa'd bin Bakr sebagai ibu susuannya, Halimah as-Sa'diyah.",
+  "dinamika": "Setelah kekalahan di Hunain, sebagian besar Hawazin masuk Islam dan tawanan perangnya dibebaskan Nabi ﷺ; keturunan mereka tetap berpengaruh dalam sejarah Arab pasca-Islam."
+ },
+ "already_cited": {
+  "leluhur": {
+   "t": "Hawazin bin Manshur bin 'Ikrimah bin Khashafah bin Qais 'Ailan.",
+   "src": [
+    "Jamharat Ansab al-'Arab, hlm. 264"
+   ]
+  },
+  "titik_temu": {
+   "t": "Bersaudara dengan Sulaim pada Manshur bin 'Ikrimah; termasuk rumpun Qais 'Ailan (Mudhar/Adnan).",
+   "src": [
+    "Jamharat Ansab al-'Arab, hlm. 264"
+   ]
+  },
+  "struktur": {
+   "t": "Anak Hawazin, Bakr, berketurunan Mu'awiyah, Munabbih, Sa'd, dan Zaid; dari Sa'd bin Bakr lahir keluarga ibu susu Nabi ﷺ, Halimah as-Sa'diyah, dan suaminya al-Harits bin Abdul 'Izza.",
+   "src": [
+    "Jamharat Ansab al-'Arab, hlm. 264",
+    "Jamharat Ansab al-'Arab, hlm. 265"
+   ]
+  }
+ },
+ "roles_umum": [
+  "lokasi"
+ ]
+}

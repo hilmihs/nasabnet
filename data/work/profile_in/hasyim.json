@@ -1,0 +1,30 @@
+{
+ "id": "hasyim",
+ "name": "Bani Hasyim",
+ "ar": "بنو هاشم",
+ "group": "quraisy",
+ "umum": {
+  "nama_arti": "Nama \"Hasyim\" berarti \"yang memecah/membagi roti\", dikaitkan dengan kebiasaan Hasyim bin Abdi Manaf membagikan roti tsarid kepada jamaah haji saat musim sulit.",
+  "titik_temu": "Bertemu dengan seluruh Quraisy pada Fihr bin Malik (Quraisy al-Bithah, termasuk Bani Hasyim, berhimpun lebih dekat pada Qushay bin Kilab); dengan Bani al-Muththalib, Bani Umayyah, dan Bani Naufal pada Abdu Manaf bin Qushay.",
+  "wilayah": "Makkah; sebagian keturunan menyebar ke Madinah, Kufah, dan wilayah lain setelah Islam.",
+  "peran_sosial": "Klan terhormat pemegang kehormatan siqayah (penyediaan air minum) bagi jamaah haji di Makkah; klan Nabi Muhammad ﷺ.",
+  "dinamika": "Bani Hasyim dan Bani al-Muththalib bersama-sama diboikot di Syi'ib Abi Thalib oleh Quraisy karena melindungi Nabi ﷺ; keturunan Hasyim lewat Ali bin Abi Thalib dan al-Abbas kemudian memegang kepemimpinan umat, termasuk Daulah Abbasiyah."
+ },
+ "already_cited": {
+  "leluhur": {
+   "t": "Hasyim bin Abdi Manaf bin Qushay bin Kilab.",
+   "src": [
+    "Jamharat Ansab al-'Arab, hlm. 15"
+   ]
+  },
+  "struktur": {
+   "t": "Garis utama Bani Hasyim melalui Abdul Muththalib bin Hasyim lalu Abdullah, ayah Nabi Muhammad ﷺ; dari Nabi ﷺ lahir Qasim, Ibrahim (dari Mariyah al-Qibthiyyah), seorang putra lain yang namanya diperselisihkan (Thahir/Thayyib/Abdullah), serta putri Zainab, Ruqayyah, Fathimah, dan Ummu Kultsum.",
+   "src": [
+    "Jamharat Ansab al-'Arab, hlm. 15"
+   ]
+  }
+ },
+ "roles_umum": [
+  "lokasi"
+ ]
+}

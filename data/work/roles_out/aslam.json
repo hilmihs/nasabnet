@@ -1,18 +1,101 @@
 {
-  "id": "aslam",
-  "lokasi": {"t": "Sekitar Madinah (Hijaz): negeri Aslam sekitar satu barid dari Madinah, antara lain Yayin dan ke arah al-'Arj", "src": ["al-Ishabah 2/395", "Ibnu Sa'd 4/313", "Usdul Ghabah 1/430"], "quote": ["فنزل في بلاد أسلم على بريد من المدينة", "فنزل يين، وهى من بلاد أسلم", "كان ينزل بلاد أسلم من ناحية العرج"], "status": "rewritten"},
-  "militer": [
-    {"t": "Salamah bin al-Akwa' al-Aslami orang pertama yang memergoki perampas unta Nabi ﷺ pada Ghazwah Dzi Qarad, lalu mengejar dan memanah mereka", "src": ["Sirah Ibnu Hisyam 2/281", "Sirah Ibnu Hisyam 2/282"], "quote": ["بهم سلمة بن عمرو بن الأكوع الأسلمي", "فإذا أمكنه الرمي رمى"], "status": "rewritten"}
+ "id": "aslam",
+ "lokasi": {
+  "t": "Sekitar Madinah (Hijaz): negeri Aslam sekitar satu barid dari Madinah, antara lain Yayin dan ke arah al-'Arj",
+  "src": [
+   "al-Ishabah 2/395",
+   "Ibnu Sa'd 4/313",
+   "Usdul Ghabah 1/430"
   ],
-  "diplomasi": [
-    {"t": "Buraidah bin al-Hushaib menemui Nabi ﷺ dalam perjalanan hijrah dan masuk Islam bersama rombongannya, sekitar 80 keluarga", "src": ["Ibnu Sa'd 4/242"], "quote": ["فأسلم هو ومن معه، وكانوا زهاء ثمانين بيتا"], "status": "rewritten"}
+  "quote": [
+   "فنزل في بلاد أسلم على بريد من المدينة",
+   "فنزل يين، وهى من بلاد أسلم",
+   "كان ينزل بلاد أسلم من ناحية العرج"
   ],
-  "ekonomi": [
-    {"t": "Nabi ﷺ menulis surat untuk Aslam berisi ketentuan zakat dan kewajiban pada hewan ternak", "src": ["Ibnu Sa'd 1/354"], "quote": ["كتابًا فيه ذكر الصدقة والفرائض في المواشي"], "status": "new"},
-    {"t": "Pada awal 9 H Buraidah bin al-Hushaib (ada yang menyebut Ka'b bin Malik) diutus memungut zakat Aslam dan Ghifar", "src": ["Ibnu Sa'd 2/160"], "quote": ["وبعث بريدة بن الحصيب إلى أسلم وغفار يصدقهم"], "status": "new"}
-  ],
-  "sosial": [
-    {"t": "Nabi ﷺ mendoakan: Aslam, semoga Allah menyelamatkannya", "src": ["Ibnu Sa'd 1/354"], "quote": ["أسلم سالمها الله وغفار غفر الله لها"], "status": "ok"}
-  ],
-  "dropped": []
+  "status": "rewritten"
+ },
+ "militer": [
+  {
+   "t": "Pada Fathu Makkah Aslam ikut dengan 400 orang; Nabi ﷺ mengikatkan dua panji untuk Aslam (dibawa Najiyah bin al-A'jam dan Buraidah bin al-Hushaib)",
+   "src": [
+    "Sirah Ibnu Hisyam 2/421",
+    "Ibnu Sa'd 4/315"
+   ],
+   "quote": [
+    "وَمِنْ أسلم أَربع مائَة",
+    "وعقد رسول الله، ﷺ، يوم فتح مكة لأسلم لواءين"
+   ],
+   "status": "new"
+  },
+  {
+   "t": "Aslam dipanggil hadir di Madinah pada Ramadhan menjelang penaklukan Makkah, dan dikerahkan pula menjelang Ghazwah Tabuk",
+   "src": [
+    "Ibnu Sa'd 4/322",
+    "Ibnu Sa'd 4/242"
+   ],
+   "quote": [
+    "إلى أسلم يقولان لهم إن رسول الله، ﷺ، يأمركم أن تحضروا رمضان بالمدينة",
+    "حين أراد غزوة تبوك إلى أسلم يستفزهم إلى عدوهم"
+   ],
+   "status": "new"
+  }
+ ],
+ "diplomasi": [
+  {
+   "t": "Delegasi Aslam di bawah 'Umairah bin Afsha menyatakan iman, menyebut diri saudara kaum Anshar, dan berjanji setia serta menolong Nabi ﷺ di masa sulit maupun lapang",
+   "src": [
+    "Ibnu Sa'd 1/354",
+    "Ibnu Sa'd 1/354"
+   ],
+   "quote": [
+    "قدم عميرة بن أقصى في عصابة من أسلم فقالوا: قد آمنا بالله ورسوله",
+    "فإنا إخوة الأنصار ولك علينا الوفاء والنصر في الشدة والرخاء"
+   ],
+   "status": "new"
+  }
+ ],
+ "ekonomi": [
+  {
+   "t": "Nabi ﷺ menulis surat untuk Aslam berisi ketentuan zakat dan kewajiban pada hewan ternak",
+   "src": [
+    "Ibnu Sa'd 1/354"
+   ],
+   "quote": [
+    "كتابًا فيه ذكر الصدقة والفرائض في المواشي"
+   ],
+   "status": "new"
+  },
+  {
+   "t": "Zakat Aslam (bersama Ghifar) dipungut oleh utusan Nabi ﷺ pada awal 9 H, yaitu Buraidah bin al-Hushaib (ada yang menyebut Ka'b bin Malik)",
+   "src": [
+    "Ibnu Sa'd 2/160"
+   ],
+   "quote": [
+    "وبعث بريدة بن الحصيب إلى أسلم وغفار يصدقهم"
+   ],
+   "status": "rewritten"
+  }
+ ],
+ "sosial": [
+  {
+   "t": "Nabi ﷺ mendoakan: Aslam, semoga Allah menyelamatkannya",
+   "src": [
+    "Ibnu Sa'd 1/354"
+   ],
+   "quote": [
+    "أسلم سالمها الله وغفار غفر الله لها"
+   ],
+   "status": "ok"
+  }
+ ],
+ "dropped": [
+  {
+   "t": "Salamah bin al-Akwa' al-Aslami orang pertama yang memergoki perampas unta Nabi ﷺ pada Ghazwah Dzi Qarad, lalu mengejar dan memanah mereka",
+   "reason": "already in biography of s1022"
+  },
+  {
+   "t": "Buraidah bin al-Hushaib menemui Nabi ﷺ dalam perjalanan hijrah dan masuk Islam bersama rombongannya, sekitar 80 keluarga",
+   "reason": "already in biography of n903"
+  }
+ ]
 }

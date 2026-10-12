@@ -1,0 +1,22 @@
+{
+ "id": "asyja",
+ "name": "Asyja'",
+ "ar": "أشجع",
+ "group": "arab",
+ "umum": {
+  "nama_arti": "Nama diambil dari leluhur eponim, Asyja' bin Raits.",
+  "titik_temu": "Cabang dari Ghathafan lewat Raits bin Ghathafan; bertemu dengan Fazarah, 'Abs, dan Dzubyan (keturunan Bughaidh, saudara Asyja') pada Raits bin Ghathafan.",
+  "wilayah": "Sekitar Madinah, berdekatan dengan wilayah Ghathafan lainnya.",
+  "peran_sosial": "Kabilah sekutu dekat Anshar Madinah; sejumlah anggotanya masuk Islam lebih awal dibanding kabilah Ghathafan lain.",
+  "dinamika": "Mi'qal bin Sinan, tokoh Asyja' yang memimpin kaum Muhajirin pada Perang Harrah, gugur syahid di tangan pasukan Muslim bin 'Uqbah."
+ },
+ "already_cited": {
+  "leluhur": {
+   "t": "Asyja' bin Raits bin Ghathafan bin Sa'd bin Qais 'Ailan.",
+   "src": [
+    "Jamharat Ansab al-'Arab, hlm. 249"
+   ]
+  }
+ },
+ "roles_umum": []
+}

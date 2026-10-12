@@ -1,0 +1,19 @@
+{
+  "id": "ghani",
+  "nama_arti": {"t": "Ghani adalah julukan leluhur mereka, 'Amr bin A'shur; kata ghani (pola fa'il) berasal dari al-ghina, yakni kekayaan harta.",
+    "src": ["Jamharat Ansab al-'Arab, hlm. 247", "al-Isytiqaq, hlm. 270"],
+    "quote": ["وهؤلاء بنو عمرو بن أعصر، وهم غنىّ", "غَنِيٍّ وهو فعيل من الغِنَي غِنَي المال"],
+    "status": "ok"},
+  "wilayah": {"t": "Najd: menurut sebagian ahli, Ghani dan Bahilah termasuk penghuni al-'Aliyah (kawasan antara ar-Rummah dan Makkah); di antara tempat mereka Abatir dan Mina dekat Thikhfah (Hima Dhariyyah); cabang Bahtsah bin Ghanm kemudian di Jazirah dan Kufah.",
+    "src": ["Mu'jam al-Buldan 4/71", "Mu'jam al-Buldan 4/71", "Mu'jam al-Buldan 1/59", "Shifat Jazirat al-'Arab, hlm. 175", "Jamharat Ansab al-'Arab, hlm. 247"],
+    "quote": ["وقال قوم: العالية ما جاوز الرمة إلى مكة", "وطائفة من بني ضبّة وعامر كلّها وغنيّ وباهلة", "أودية وهضبات بنجد في ديار غنيّ", "ومنى منوّن من ديار غني قريب من طخفة وهو حمى ضرية", "بهثة بن غنم بن عمرو بن أعصر، وهم بالجزيرة والكوفة"],
+    "status": "rewritten"},
+  "peran_sosial": {"t": "Dikenal lewat Martsad bin Abi Martsad, Muhajirin awal yang memimpin sariyyah ar-Raji' dan gugur syahid di sana.",
+    "src": ["Jamharat Ansab al-'Arab, hlm. 247", "Ibnu Sa'd 3/48"],
+    "quote": ["ابن أعصر بن سعد، من المهاجرين الأوّلين", "وقتل يوم الرجيع شهيدا، وكان أميرا في هذه السرية"],
+    "status": "ok"},
+  "dinamika": {"t": "Sebelum Islam, Ghani dan Bahilah ikut mengagungkan berhala al-'Uzza bersama Quraisy; Nabi ﷺ mengutus Khalid bin al-Walid menghancurkannya.",
+    "src": ["Mu'jam al-Buldan 4/118", "Mu'jam al-Buldan 4/118"],
+    "quote": ["وكانت قريش تعظمها وكانت غنيّ وباهلة يعبدونها معهم", "فبعث النبي، ﷺ، خالد ابن الوليد فقطع الشجر وهدم البيت"],
+    "status": "rewritten"}
+}

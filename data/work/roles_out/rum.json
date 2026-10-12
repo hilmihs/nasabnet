@@ -1,33 +1,121 @@
 {
-  "id": "rum",
-  "lokasi": {"t": "Wilayah Romawi/Bizantium (Syam dan Anatolia) serta Mesir (Qibthi)", "status": "umum"},
-  "militer": [
-    {"t": "Romawi dan sekutu Arabnya (Lakhm, Judzam, al-Qain, Bahra', Baliy) menghadang kaum Muslimin di Mu'tah, lalu bertempur melawan mereka di Yarmuk; ekspedisi Tabuk yang ditujukan kepada Romawi berhenti belasan malam di Tabuk lalu kembali",
-     "src": ["Sirah Ibnu Hisyam 2/375", "Tarikh ath-Thabari 3/435", "Sirah Ibnu Hisyam 2/516", "Sirah Ibnu Hisyam 2/527"],
-     "quote": ["فِي مائَة أَلْفٍ مِنْ الرُّومِ، وانضمّ إِلَيْهِم مل لَخْمٍ وَجُذَامٍ", "وَهُمْ بِالْيَرْمُوكِ، وَقَدِ الْتَحَمَ الْقِتَالُ بَيْنَهُمْ وَبَيْنَ الرُّومِ", "فَأَمَرَ النَّاسَ بِالْجِهَازِ، وَأَخْبَرَهُمْ أَنَّهُ يُرِيدُ الرُّومَ", "فَأَقَامَ رَسُولُ اللَّهِ ﷺ بِتَبُوكَ بِضْعَ عَشْرَةَ لَيْلَةً، لَمْ يُجَاوِزْهَا"],
-     "status": "rewritten"}
+ "id": "rum",
+ "lokasi": {
+  "t": "Bilad ar-Rum berpusat di Konstantinopel dan meliputi Syam (Qaishar berada di Hims); Mesir (Qibthi)",
+  "src": [
+   "Mu'jam al-Buldan 3/97",
+   "Ibnu Sa'd 1/259",
+   "Ibnu Sa'd 1/259",
+   "Mu'jam al-Buldan 4/263"
   ],
-  "diplomasi": [
-    {"t": "Nabi ﷺ mengirim surat kepada Qaishar (Heraklius), raja Romawi, melalui Dihyah al-Kalbi, dan kepada al-Muqauqis, penguasa Iskandariyah, melalui Hathib bin Abi Balta'ah",
-     "src": ["Sirah Ibnu Hisyam 2/607", "Sirah Ibnu Hisyam 2/607"],
-     "quote": ["فَبَعَثَ دِحْيَةَ بْنَ خَلِيفَةَ الْكَلْبِيَّ إلَى قَيْصَرَ، مَلِكِ الرُّومِ", "وَبَعَثَ حَاطِبَ بْنَ أَبِي بَلْتَعَةَ إلَى الْمُقَوْقَسِ، مَلِكِ الْإِسْكَنْدَرِيَّةِ"],
-     "status": "rewritten"},
-    {"t": "al-Muqauqis menghadiahkan Mariyah al-Qibthiyyah dan saudarinya Sirin kepada Nabi ﷺ (7 H)",
-     "src": ["Ibnu Sa'd 8/212"],
-     "quote": ["في سنة سبع من الهجرة بمارية وبأختها سيرين"],
-     "status": "ok"}
+  "quote": [
+   "فولد العيص روم القسطنطينية وملوك الروم",
+   "أن يمشي حافيًا من قسطنطينية إلى إيلياء",
+   "فدفعه عظيم بصرى إليه وهو يومئذ بحمص",
+   "فرض على جميع من بمصر أعلاها وأسفلها من القبط ديناران"
   ],
-  "ekonomi": [
-    {"t": "Shuhaib \"ar-Rumi\" (nasabnya Arab dari an-Namir bin Qasith, besar di negeri Romawi) menyerahkan seluruh hartanya kepada Quraisy demi berhijrah",
-     "src": ["Ibnu Sa'd 3/226", "Sirah Ibnu Hisyam 1/477"],
-     "quote": ["فنشأ صهيب بالروم فصار ألكن", "قَالَ: فَإِنِّي جَعَلْتُ لَكُمْ مَالِي"],
-     "status": "ok"}
-  ],
-  "sosial": [
-    {"t": "Mariyah al-Qibthiyyah, ibu Ibrahim putra Nabi ﷺ",
-     "src": ["Ibnu Sa'd 8/214"],
-     "quote": ["كانت مارية أم إبراهيم أهداها المقوقس"],
-     "status": "ok"}
-  ],
-  "dropped": []
+  "status": "rewritten"
+ },
+ "militer": [
+  {
+   "t": "Romawi dan sekutu Arabnya (Lakhm, Judzam, al-Qain, Bahra', Baliy) menghadang kaum Muslimin di Mu'tah, lalu bertempur melawan mereka di Yarmuk; ekspedisi Tabuk yang ditujukan kepada Romawi berhenti belasan malam di Tabuk lalu kembali",
+   "src": [
+    "Sirah Ibnu Hisyam 2/375",
+    "Tarikh ath-Thabari 3/435",
+    "Sirah Ibnu Hisyam 2/516",
+    "Sirah Ibnu Hisyam 2/527"
+   ],
+   "quote": [
+    "فِي مائَة أَلْفٍ مِنْ الرُّومِ، وانضمّ إِلَيْهِم مل لَخْمٍ وَجُذَامٍ",
+    "وَهُمْ بِالْيَرْمُوكِ، وَقَدِ الْتَحَمَ الْقِتَالُ بَيْنَهُمْ وَبَيْنَ الرُّومِ",
+    "فَأَمَرَ النَّاسَ بِالْجِهَازِ، وَأَخْبَرَهُمْ أَنَّهُ يُرِيدُ الرُّومَ",
+    "فَأَقَامَ رَسُولُ اللَّهِ ﷺ بِتَبُوكَ بِضْعَ عَشْرَةَ لَيْلَةً، لَمْ يُجَاوِزْهَا"
+   ],
+   "status": "rewritten"
+  }
+ ],
+ "diplomasi": [
+  {
+   "t": "Romawi menerima surat dakwah Nabi ﷺ: kepada Qaishar (Heraklius), raja Romawi, dibawa Dihyah al-Kalbi, dan kepada al-Muqauqis, penguasa Iskandariyah, dibawa Hathib bin Abi Balta'ah",
+   "src": [
+    "Sirah Ibnu Hisyam 2/607",
+    "Sirah Ibnu Hisyam 2/607"
+   ],
+   "quote": [
+    "فَبَعَثَ دِحْيَةَ بْنَ خَلِيفَةَ الْكَلْبِيَّ إلَى قَيْصَرَ، مَلِكِ الرُّومِ",
+    "وَبَعَثَ حَاطِبَ بْنَ أَبِي بَلْتَعَةَ إلَى الْمُقَوْقَسِ، مَلِكِ الْإِسْكَنْدَرِيَّةِ"
+   ],
+   "status": "rewritten"
+  },
+  {
+   "t": "Pihak Iskandariyah (al-Muqauqis) membalas dengan hadiah kepada Nabi ﷺ, di antaranya Mariyah al-Qibthiyyah dan saudarinya Sirin (7 H)",
+   "src": [
+    "Ibnu Sa'd 8/212"
+   ],
+   "quote": [
+    "في سنة سبع من الهجرة بمارية وبأختها سيرين"
+   ],
+   "status": "rewritten"
+  }
+ ],
+ "ekonomi": [
+  {
+   "t": "Qaishar memberi kafilah dagang Quraisy surat jaminan keamanan (atas permintaan Hasyim bin 'Abdi Manaf), sehingga mereka datang ke Syam menjual kulit dan kain Hijaz",
+   "src": [
+    "al-Munammaq, hlm. 42",
+    "Ibnu Sa'd 1/78"
+   ],
+   "quote": [
+    "تؤمّنهم وتؤمّن تجارتهم فيقدموا عليك بما يستطرف من أدم الحجاز",
+    "وهو الذي أخذ الحلف لقريش من قيصر لأن تختلف آمنةً"
+   ],
+   "status": "new"
+  },
+  {
+   "t": "Uang emas Romawi dipakai di Makkah: para hartawan Quraisy masing-masing menyumbang 100 mitsqal Hiraqliyyah untuk rifadah haji",
+   "src": [
+    "Ibnu Sa'd 1/78"
+   ],
+   "quote": [
+    "وكان كل إنسان يرسل بمائة مثقال هرقلية"
+   ],
+   "status": "new"
+  }
+ ],
+ "sosial": [
+  {
+   "t": "Romawi adalah Ahli Kitab (Nasrani): kekalahan mereka dari Persia di Adzri'at menyusahkan kaum Muslimin di Makkah dan menggembirakan kaum kafir, lalu turun ayat \"Alif Lam Mim, ghulibat ar-Rum\"",
+   "src": [
+    "Tarikh ath-Thabari 2/184",
+    "Tarikh ath-Thabari 2/184"
+   ],
+   "quote": [
+    "فهزمت الروم، فبلغ ذلك النبي ص وأصحابه وهم بمكة، فشق ذلك عليهم",
+    "أن يظهر الأميون من المجوس على أهل الكتاب من الروم"
+   ],
+   "status": "new"
+  },
+  {
+   "t": "Raja-raja Romawi yang Nasrani memuliakan dan membiayai uskup Najran (Abu Haritsah bin 'Alqamah) serta membangunkan gereja-gereja baginya",
+   "src": [
+    "Sirah Ibnu Hisyam 1/573",
+    "Sirah Ibnu Hisyam 1/573"
+   ],
+   "quote": [
+    "فَكَانَتْ مُلُوكُ الرُّومِ مِنْ النَّصْرَانِيَّةِ قَدْ شَرَّفُوهُ وَمَوَّلُوهُ",
+    "وَبَنَوْا لَهُ الْكَنَائِسَ"
+   ],
+   "status": "new"
+  }
+ ],
+ "dropped": [
+  {
+   "t": "Shuhaib \"ar-Rumi\" (nasabnya Arab dari an-Namir bin Qasith, besar di negeri Romawi) menyerahkan seluruh hartanya kepada Quraisy demi berhijrah",
+   "reason": "already in biography of n2935"
+  },
+  {
+   "t": "Mariyah al-Qibthiyyah, ibu Ibrahim putra Nabi ﷺ",
+   "reason": "already in biography of c-mariyah"
+  }
+ ]
 }

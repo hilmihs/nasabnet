@@ -1,0 +1,138 @@
+{
+ "id": "daus",
+ "places": [
+  {
+   "t": "Sarat Daus (as-Sarah)",
+   "ar": "سراة دوس",
+   "kind": "gunung",
+   "note": "Pegunungan as-Sarah; keturunan Minhab bin Daus tinggal di as-Sarah; Sarat Daus terletak setelah Sarat Ghamid",
+   "src": [
+    "Jamharat Ansab al-'Arab, hlm. 379",
+    "Shifat Jazirat al-'Arab, hlm. 119"
+   ],
+   "quote": [
+    "فولد منهب بالسراة",
+    "ثم يتلوها سراة غامد، ثم سراة دوس"
+   ],
+   "qid": "N10956440457",
+   "lat": 20.2147,
+   "lon": 41.2004,
+   "precision": "perkiraan",
+   "near": "Tsaruq"
+  },
+  {
+   "t": "Tsaruq",
+   "ar": "ثروق",
+   "kind": "desa",
+   "note": "Desa besar milik Daus yang memiliki mimbar; ath-Thufail bin 'Amr singgah di sana sepulang masuk Islam",
+   "src": [
+    "Mu'jam al-Buldan 2/77"
+   ],
+   "quote": [
+    "حتى نزل ثروق، وهي قرية عظيمة لدوس، فيها منبر"
+   ],
+   "lat": 20.2147,
+   "lon": 41.2004,
+   "qid": "N10956440457",
+   "precision": "tepat"
+  },
+  {
+   "t": "Dzul Khalashah (Tabalah)",
+   "ar": "ذو الخلصة",
+   "kind": "daerah",
+   "note": "Rumah berhala di diyar Daus; kini menjadi ambang pintu masjid Tabalah",
+   "src": [
+    "Mu'jam al-Buldan 2/384",
+    "Mu'jam al-Buldan 2/384"
+   ],
+   "quote": [
+    "وهو بيت صنم في ديار دوس",
+    "وذو الخلصة اليوم عتبة باب مسجد تبالة"
+   ],
+   "qid": "Q12202068",
+   "lat": 19.9978,
+   "lon": 42.2297,
+   "precision": "perkiraan",
+   "near": "Tabalah"
+  },
+  {
+   "t": "Ra's Dhan",
+   "ar": "رأس ضان",
+   "kind": "gunung",
+   "note": "Gunung di negeri Daus, disebut dalam hadits Abu Hurairah",
+   "src": [
+    "Mu'jam al-Buldan 3/14"
+   ],
+   "quote": [
+    "رأس ضان: بالضاد المعجمة: جبل في بلاد دوس"
+   ],
+   "lat": null,
+   "lon": null
+  },
+  {
+   "t": "Qiran",
+   "ar": "قران",
+   "kind": "daerah",
+   "note": "Kawasan di as-Sarah, negeri Daus; pernah terjadi pertempuran di sana",
+   "src": [
+    "Mu'jam al-Buldan 4/319"
+   ],
+   "quote": [
+    "ناحية بالسراة من بلاد دوس كان بها وقعة"
+   ],
+   "qid": "N10956440457",
+   "lat": 20.2147,
+   "lon": 41.2004,
+   "precision": "perkiraan",
+   "near": "Tsaruq"
+  },
+  {
+   "t": "Oman",
+   "ar": "عمان",
+   "kind": "daerah",
+   "note": "Keturunan Malik bin Fahm bin Ghanm bin Daus kebanyakan tinggal di Oman",
+   "src": [
+    "Jamharat Ansab al-'Arab, hlm. 379"
+   ],
+   "quote": [
+    "مالك بن فهم، وأكثرهم بعمان"
+   ],
+   "qid": "Q842",
+   "lat": 21,
+   "lon": 57,
+   "precision": "tepat"
+  },
+  {
+   "t": "al-Hirah (Iraq)",
+   "ar": "الحيرة",
+   "kind": "kota",
+   "note": "Dari Azd, yang mendiami al-Hirah dan Iraq adalah Daus",
+   "src": [
+    "Shifat Jazirat al-'Arab, hlm. 211"
+   ],
+   "quote": [
+    "وأما من سكن الحيرة والعراق فدوس"
+   ],
+   "qid": "Q310799",
+   "lat": 31.98,
+   "lon": 44.39,
+   "precision": "tepat"
+  },
+  {
+   "t": "Bashrah (al-Jahadhim)",
+   "ar": "البصرة",
+   "kind": "kota",
+   "note": "Bani Jahdham bin 'Auf bin Malik bin Fahm (al-Jahadhim) di Bashrah; Bani Syababah di Bashrah dan as-Sarah",
+   "src": [
+    "Jamharat Ansab al-'Arab, hlm. 380"
+   ],
+   "quote": [
+    "جهضم. منهم: الجهاضم بالبصرة"
+   ],
+   "qid": "Q48195",
+   "lat": 30.515,
+   "lon": 47.81,
+   "precision": "tepat"
+  }
+ ]
+}

@@ -29,6 +29,25 @@ TAGS = {
     "9793": ("Jamharat Ansab al-'Arab, hlm. {p}", False),
     "2922": ("Nasab Quraisy, hlm. {p}", False),
     "12205": ("al-Muhabbar, hlm. {p}", False),
+    # second tier: use when the books above do not have it
+    "919": ("Jamharat an-Nasab Ibnul Kalbi, hlm. {p}", False),
+    "9773": ("Ansab al-Asyraf {v}/{p}", True),
+    "9211": ("al-Isytiqaq, hlm. {p}", False),
+    "31382": ("Nihayat al-Arab al-Qalqasyandi, hlm. {p}", False),
+    "6696": ("al-Inbah 'ala Qaba'il ar-Ruwat, hlm. {p}", False),
+    "12317": ("al-Ansab as-Sam'ani {v}/{p}", True),
+    "12212": ("al-Munammaq, hlm. {p}", False),
+    "12288": ("al-Isti'ab {v}/{p}", True),
+    "23735": ("Mu'jam al-Buldan {v}/{p}", True),
+    "11802": ("Mu'jam ma Ista'jam {v}/{p}", True),
+    "12521": ("Shifat Jazirat al-'Arab, hlm. {p}", False),
+    "12221": ("Futuh al-Buldan, hlm. {p}", False),
+    "1514": ("ar-Raudh al-Unuf {v}/{p}", True),
+    "23789": ("al-'Iqd al-Farid {v}/{p}", True),
+    "21712": ("al-Kamil fi at-Tarikh {v}/{p}", True),
+    "4445": ("al-Bidayah wan-Nihayah {v}/{p}", True),
+    "1681": ("Shahih al-Bukhari {v}/{p}", True),
+    "1727": ("Shahih Muslim {v}/{p}", True),
 }
 
 TAG = re.compile(r"<[^>]+>")
@@ -133,10 +152,17 @@ def cmd_page(args):
     bid, vol, page = args[:3]
     nxt = int(args[4]) if len(args) > 4 and args[3] == "--next" else 0
     _, pages, _ = load(bid)
-    k = find_page(bid, vol, page)
-    if k is None:
+    ks = find_pages(bid, vol, page)
+    if not ks:
         sys.exit(f"page not found: book {bid} vol {vol} page {page}")
-    for j in range(k, min(k + 1 + nxt, len(pages))):
+    # some dumps split one printed page into several entries (e.g. hadith collections): print whole pages
+    end = ks[-1] + 1
+    for _ in range(nxt + 1):
+        while end < len(pages) and pages[end][:2] == pages[end - 1][:2]:
+            end += 1
+        if _ < nxt and end < len(pages):
+            end += 1
+    for j in range(ks[0], min(end, len(pages))):
         v, p, t = pages[j]
         print(f"=== [{tag(bid, v, p)}] ===\n{t}\n")
 

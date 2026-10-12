@@ -1,0 +1,39 @@
+{
+  "id": "fihr",
+  "nama_arti": {
+    "t": "Nama diambil dari leluhur eponim, al-Harits bin Fihr; Fihr bin Malik sendiri disebut sebagian riwayat sebagai \"Quraisy\".",
+    "src": ["Jamharat Ansab al-'Arab, hlm. 176", "Sirah Ibnu Hisyam 1/93"],
+    "quote": [
+      "وهؤلاء بنو الحارث بن فهر بن مالك ولد الحارث بن فهر: وديعة",
+      "وَيُقَالُ: فِهْرُ بْنُ مَالِكٍ: قُرَيْشٌ، فَمَنْ كَانَ مِنْ وَلَدِهِ فَهُوَ قُرَشِيٌّ"
+    ],
+    "status": "rewritten"
+  },
+  "wilayah": {
+    "t": "Makkah: Bani al-Harits bin Fihr termasuk Quraisy azh-Zhawahir yang tinggal di pinggiran Makkah, kecuali rombongan Abu 'Ubaidah bin al-Jarrah yang turun ke al-Abthah bersama Quraisy al-Bithah.",
+    "src": ["Ibnu Sa'd 1/71", "Ibnu Sa'd 1/71"],
+    "quote": [
+      "وبنو الحارث بن فهر، بظهر مكة، فهؤلاء الظواهر",
+      "إلا أن رهط أبي عبيدة بن الجراح، وهم من بني الحارث بن فهر، نزلوا الأبطح"
+    ],
+    "status": "rewritten"
+  },
+  "peran_sosial": {
+    "t": "Klan Abu 'Ubaidah bin al-Jarrah, salah satu sepuluh sahabat yang dijamin surga dan digelari \"Amin hadzihil Ummah\" (kepercayaan umat ini).",
+    "src": ["Jamharat Ansab al-'Arab, hlm. 176", "Ibnu Sa'd 3/412"],
+    "quote": [
+      "أبو عبيدة عامر بن عبد الله بن الجرّاح ابن هلال بن أهيب بن ضبّة، أمين هذه الأمة وأحد العشرة",
+      "ألا إن لكل أمة أمينا وإن أمين هذه الأمة أبو عبيدة بن الجراح"
+    ],
+    "status": "ok"
+  },
+  "dinamika": {
+    "t": "Setelah 'Umar menjadi khalifah, Abu 'Ubaidah bin al-Jarrah diangkat memimpin Syam dan menjadi amir pasukan di Yarmuk; ia wafat karena wabah 'Amwas tahun 18 H pada masa khilafah 'Umar.",
+    "src": ["Ibnu Sa'd 7/384", "Ibnu Sa'd 7/385"],
+    "quote": [
+      "لما ولي عمر بن الخطاب، ﵁، ولى أبا عبيدة الشام فشهد اليرموك وهو أمير الناس",
+      "ومات في طاعون عمواس سنة ثماني عشرة في خلافة عمر بن الخطاب"
+    ],
+    "status": "rewritten"
+  }
+}

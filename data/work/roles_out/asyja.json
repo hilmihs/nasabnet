@@ -1,15 +1,103 @@
 {
-  "id": "asyja",
-  "lokasi": {"t": "Dekat Madinah, di antara Madinah dan Khaibar (sekitar Asymadzan, bersama Juhainah); Asyja' menyebut diri kaum yang paling dekat tempat tinggalnya dengan Nabi ﷺ", "src": ["Sirah Ibnu Hisyam 1/126", "Ibnu Sa'd 1/306"], "quote": ["جبلان بين المدينة وخيبر تنزلهما جهينة وأشجع", "لا نعلم أحدًا من قومنا أقرب دارًا منك منا"], "status": "rewritten"},
-  "militer": [
-    {"t": "400 orang Asyja' di bawah Mas'ud bin Rukhailah ikut koalisi Ahzab; kemudian Asyja' datang berdamai dengan Nabi ﷺ dan masuk Islam", "src": ["Ibnu Sa'd 2/66", "Ibnu Sa'd 1/306"], "quote": ["وخرجت أشجع وهم أربعمائة يقودهم مسعود بن رخيلة", "فوادعهم ثم أسلموا بعد ذلك"], "status": "rewritten"}
+ "id": "asyja",
+ "lokasi": {
+  "t": "Dekat Madinah, di antara Madinah dan Khaibar (sekitar Asymadzan, bersama Juhainah); Asyja' menyebut diri kaum yang paling dekat tempat tinggalnya dengan Nabi ﷺ",
+  "src": [
+   "Sirah Ibnu Hisyam 1/126",
+   "Ibnu Sa'd 1/306"
   ],
-  "diplomasi": [
-    {"t": "Nu'aim bin Mas'ud al-Asyja'i memecah koalisi Ahzab dengan siasat pada Perang Khandaq", "src": ["Ibnu Sa'd 2/73", "Sirah Ibnu Hisyam 2/231"], "quote": ["فخذل بين الناس فانطلق الأحزاب منهزمين", "إن الذي حدثكم نعيم بن مسعود لحق"], "status": "ok"}
+  "quote": [
+   "جبلان بين المدينة وخيبر تنزلهما جهينة وأشجع",
+   "لا نعلم أحدًا من قومنا أقرب دارًا منك منا"
   ],
-  "ekonomi": [],
-  "sosial": [
-    {"t": "Auf bin Malik al-Asyja'i, sahabat perawi hadits", "src": ["Usdul Ghabah 4/300"], "quote": ["روى عنه من الصحابة: أبو أيوب الأنصاري، وأبو هريرة"], "status": "ok"}
-  ],
-  "dropped": []
+  "status": "rewritten"
+ },
+ "militer": [
+  {
+   "t": "400 orang Asyja' di bawah Mas'ud bin Rukhailah ikut koalisi Ahzab menyerang Madinah",
+   "src": [
+    "Ibnu Sa'd 2/66"
+   ],
+   "quote": [
+    "وخرجت أشجع وهم أربعمائة يقودهم مسعود بن رخيلة"
+   ],
+   "status": "rewritten"
+  },
+  {
+   "t": "Termasuk kabilah Arab sekitar Madinah yang dipanggil Nabi ﷺ untuk Fathu Makkah (bersama Aslam, Ghifar, Muzainah, Juhainah, dan Sulaim)",
+   "src": [
+    "Ibnu Sa'd 2/134",
+    "Ibnu Sa'd 2/135"
+   ],
+   "quote": [
+    "وبعث رسول الله، ﷺ، إلى من حوله من العرب فجلهم أسلم وغفار ومزينة",
+    "وجهينة وأشجع وسليم، فمنهم من وافاه بالمدينة ومنهم من لحقه بالطريق"
+   ],
+   "status": "new"
+  }
+ ],
+ "diplomasi": [
+  {
+   "t": "Pada tahun Khandaq, 100 orang Asyja' di bawah Mas'ud bin Rukhailah datang ke Madinah, berkemah di Syi'b Sal', dan meminta perdamaian karena lelah memerangi Nabi ﷺ; Nabi ﷺ berdamai dengan mereka, lalu mereka masuk Islam",
+   "src": [
+    "Ibnu Sa'd 1/306",
+    "Ibnu Sa'd 1/306"
+   ],
+   "quote": [
+    "وقدمت أشجع على رسول الله، ﷺ، عام الخندق، وهم مائة رأسهم مسعود بن رخيلة",
+    "وقد ضقنا بحربك وبحرب قومك، فجئنا نوادعك، فوادعهم"
+   ],
+   "status": "new"
+  }
+ ],
+ "ekonomi": [
+  {
+   "t": "Sebagian orang Asyja' menyewakan unta kepada Bani an-Nadhir ketika mereka bersiap keluar dari Madinah",
+   "src": [
+    "Ibnu Sa'd 2/57"
+   ],
+   "quote": [
+    "وتكاروا من ناس من أشجع إبلا"
+   ],
+   "status": "new"
+  }
+ ],
+ "sosial": [
+  {
+   "t": "Disebut sebagai 'Arab-nya Madinah' (kabilah badui di sekitar Madinah), dengan sayyid mereka Ma'qil bin Sinan",
+   "src": [
+    "Nihayat al-Arab al-Qalqasyandi, hlm. 40"
+   ],
+   "quote": [
+    "وكانوا هم عرب المدينة النبوية، وكان سيدهم معقل بن سنان الصحابي"
+   ],
+   "status": "new"
+  },
+  {
+   "t": "Kemudian hanya sisa-sisa mereka yang tinggal di sekitar Madinah; satu cabang besar berpindah ke Maghrib al-Aqsha di sekitar Sijilmasah",
+   "src": [
+    "Nihayat al-Arab al-Qalqasyandi, hlm. 40",
+    "Nihayat al-Arab al-Qalqasyandi, hlm. 40"
+   ],
+   "quote": [
+    "وليس الآن أحد منهم بنجد إلا بقايا حول المدينة",
+    "وبالمغرب الأقصى منهم حي عظيم الآن يظعنون مع عرب المعقل بجهات سلجماسة"
+   ],
+   "status": "new"
+  }
+ ],
+ "dropped": [
+  {
+   "t": "kemudian Asyja' datang berdamai dengan Nabi ﷺ dan masuk Islam (bagian dari bullet militer)",
+   "reason": "moved within file to diplomasi (Asyja' delegation)"
+  },
+  {
+   "t": "Nu'aim bin Mas'ud al-Asyja'i memecah koalisi Ahzab dengan siasat pada Perang Khandaq",
+   "reason": "already in biography of n6589"
+  },
+  {
+   "t": "Auf bin Malik al-Asyja'i, sahabat perawi hadits",
+   "reason": "moved to biography of n4955"
+  }
+ ]
 }

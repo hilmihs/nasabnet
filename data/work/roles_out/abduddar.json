@@ -1,89 +1,111 @@
 {
-  "id": "abduddar",
-  "lokasi": {
-    "t": "Makkah (Hijaz), di lembah al-Abthah; termasuk Quraisy al-Bithah",
-    "src": [
-      "Ibnu Sa'd 1/71",
-      "al-Muhabbar, hlm. 167"
-    ],
-    "quote": [
-      "وأدخل قصي بطون قريش كلها الأبطح فسموا قريش البطاح",
-      "قبائل قريش البطاح بنو عبد مناف. وبنو عبد الدار"
-    ],
-    "status": "rewritten"
+ "id": "abduddar",
+ "lokasi": {
+  "t": "Makkah (Hijaz), di lembah al-Abthah; termasuk Quraisy al-Bithah",
+  "src": [
+   "Ibnu Sa'd 1/71",
+   "al-Muhabbar, hlm. 167"
+  ],
+  "quote": [
+   "وأدخل قصي بطون قريش كلها الأبطح فسموا قريش البطاح",
+   "قبائل قريش البطاح بنو عبد مناف. وبنو عبد الدار"
+  ],
+  "status": "rewritten"
+ },
+ "militer": [
+  {
+   "t": "Bani 'Abdid Dar memegang liwa' (panji perang) Quraisy; para pembawa panji dari klan ini gugur bergantian di Uhud",
+   "src": [
+    "Sirah Ibnu Hisyam 1/130",
+    "Sirah Ibnu Hisyam 2/67",
+    "Sirah Ibnu Hisyam 2/127"
+   ],
+   "quote": [
+    "وَأَعْطَاهُ الْحِجَابَةَ واللواء والسقاية",
+    "يَا بَنِي عَبْدِ الدَّارِ، إنَّكُمْ قَدْ وَلَّيْتُمْ لِوَاءَنَا يَوْمَ بَدْرٍ",
+    "ثُمَّ مِنْ بَنِي عَبْدِ الدَّارِ بْنِ قُصَيٍّ مِنْ أَصْحَابِ اللِّوَاءِ"
+   ],
+   "status": "rewritten"
   },
-  "militer": [
-    {
-      "t": "Memegang liwa' (panji perang) Quraisy; para pembawa panji dari klan ini gugur bergantian di Uhud",
-      "src": [
-        "Sirah Ibnu Hisyam 1/130",
-        "Sirah Ibnu Hisyam 2/67",
-        "Sirah Ibnu Hisyam 2/127"
-      ],
-      "quote": [
-        "وَأَعْطَاهُ الْحِجَابَةَ واللواء والسقاية",
-        "يَا بَنِي عَبْدِ الدَّارِ، إنَّكُمْ قَدْ وَلَّيْتُمْ لِوَاءَنَا يَوْمَ بَدْرٍ",
-        "ثُمَّ مِنْ بَنِي عَبْدِ الدَّارِ بْنِ قُصَيٍّ مِنْ أَصْحَابِ اللِّوَاءِ"
-      ],
-      "status": "ok"
-    },
-    {
-      "t": "Mush'ab bin 'Umair membawa panji kaum Muslimin di Badar dan Uhud hingga gugur",
-      "src": [
-        "Ibnu Sa'd 3/120",
-        "Ibnu Sa'd 3/120",
-        "Sirah Ibnu Hisyam 2/73"
-      ],
-      "quote": [
-        "لواء المهاجرين يوم بدر مع مصعب بن عمير",
-        "حمل مصعب بن عمير اللواء يوم أحد",
-        "وَقَاتَلَ مُصْعَبُ بْنُ عُمَيْرٍ دُونَ رَسُولِ اللَّهِ ﷺ حَتَّى قُتِلَ"
-      ],
-      "status": "ok"
-    }
-  ],
-  "diplomasi": [
-    {
-      "t": "Memegang Dar an-Nadwah, balai tempat Quraisy memutuskan urusan mereka; tetap di tangan klan ini hingga dijual kepada Mu'awiyah",
-      "src": [
-        "Sirah Ibnu Hisyam 1/130",
-        "Ibnu Sa'd 1/77"
-      ],
-      "quote": [
-        "فَأَعْطَاهُ دَارَهُ دَارَ النَّدْوَةِ، الَّتِي لَا تَقْضِي قُرَيْشٌ أَمْرًا مِنْ أُمُورِهَا إلَّا فِيهَا",
-        "فلم تزل دار الندوة في يدي بني عبد الدار حتى باعها عكرمة"
-      ],
-      "status": "rewritten"
-    },
-    {
-      "t": "Mush'ab bin 'Umair diutus bersama rombongan Bai'at 'Aqabah pertama ke Yatsrib untuk membacakan Al-Qur'an dan mengajarkan Islam; dijuluki al-Muqri'",
-      "src": [
-        "Sirah Ibnu Hisyam 1/434",
-        "Sirah Ibnu Hisyam 1/434"
-      ],
-      "quote": [
-        "وَأَمَرَهُ أَنْ يُقْرِئَهُمْ الْقُرْآنَ، وَيُعَلِّمَهُمْ الْإِسْلَامَ، وَيُفَقِّهَهُمْ فِي الدِّينِ",
-        "فَكَانَ يُسَمَّى الْمُقْرِئَ بِالْمَدِينَةِ: مُصْعَبٌ"
-      ],
-      "status": "rewritten"
-    }
-  ],
-  "ekonomi": [],
-  "sosial": [
-    {
-      "t": "Memegang hijabah (kunci Ka'bah); saat Fathu Makkah Nabi ﷺ mengembalikan kunci kepada Utsman bin Thalhah, dan Bani Thalhah tetap menjadi pengurus Ka'bah hingga masa Ibnu Hazm",
-      "src": [
-        "Sirah Ibnu Hisyam 2/412",
-        "Ibnu Sa'd 2/137",
-        "Jamharat Ansab al-'Arab, hlm. 127"
-      ],
-      "quote": [
-        "هَاكَ مِفْتَاحَكَ يَا عُثْمَانُ، الْيَوْمُ يَوْمُ بِرٍّ وَوَفَاءٍ",
-        "خذوها يا بني أبي طلحة تالدة خالدة لا ينزعها منكم أحد إلا ظالم",
-        "فبنو طلحة إلى اليوم هم ولاة الكعبة دون سائر بنى عبد الدار"
-      ],
-      "status": "rewritten"
-    }
-  ],
-  "dropped": []
+  {
+   "t": "Di Badar Bani 'Abdid Dar berperang di pihak Quraisy musyrik; dua orang mereka terbunuh, di antaranya an-Nadhr bin al-Harits",
+   "src": [
+    "Sirah Ibnu Hisyam 1/708",
+    "Sirah Ibnu Hisyam 1/710"
+   ],
+   "quote": [
+    "مَنْ قُتِلَ بِبَدْرٍ مِنْ الْمُشْرِكِينَ",
+    "وَمِنْ عَبْدِ الدَّارِ بْنِ قُصَيٍّ: النَّضْرُ بْنُ الْحَارِثِ بْنِ كَلَدَةَ"
+   ],
+   "status": "new"
+  }
+ ],
+ "diplomasi": [
+  {
+   "t": "Memegang Dar an-Nadwah, balai tempat Quraisy memutuskan urusan mereka; tetap di tangan klan ini hingga dijual kepada Mu'awiyah",
+   "src": [
+    "Sirah Ibnu Hisyam 1/130",
+    "Ibnu Sa'd 1/77"
+   ],
+   "quote": [
+    "فَأَعْطَاهُ دَارَهُ دَارَ النَّدْوَةِ، الَّتِي لَا تَقْضِي قُرَيْشٌ أَمْرًا مِنْ أُمُورِهَا إلَّا فِيهَا",
+    "فلم تزل دار الندوة في يدي بني عبد الدار حتى باعها عكرمة"
+   ],
+   "status": "rewritten"
+  },
+  {
+   "t": "Ketika Bani 'Abdi Manaf hendak merebut jabatan mereka, Bani 'Abdid Dar bersama Makhzum, Sahm, Jumah, dan 'Adi mengikat Hilf al-Ahlaf di sisi Ka'bah untuk saling membela",
+   "src": [
+    "Sirah Ibnu Hisyam 1/131",
+    "Sirah Ibnu Hisyam 1/131",
+    "Sirah Ibnu Hisyam 1/132"
+   ],
+   "quote": [
+    "أَجَمَعُوا عَلَى أَنْ يَأْخُذُوا مَا بِأَيْدِي بَنِي عَبْدِ الدَّارِ",
+    "وَكَانَ بَنُو مَخْزُومِ بْنِ يَقَظَةَ بْنِ مُرَّةَ، وَبَنُو سَهْمِ بْنِ عَمْرِو بْنِ هُصَيْصِ بْنِ كَعْبٍ",
+    "وَتَعَاقَدَ بَنُو عَبْدِ الدَّارِ وَتَعَاهَدُوا هُمْ وَحُلَفَاؤُهُمْ عِنْدَ الْكَعْبَةِ حِلْفًا مُؤَكَّدًا"
+   ],
+   "status": "new"
+  }
+ ],
+ "ekonomi": [
+  {
+   "t": "Bani 'Abdid Dar mewarisi dari Qushay siqayah dan rifadah — iuran tahunan Quraisy untuk menjamu jamaah haji; dalam perdamaian dengan Bani 'Abdi Manaf keduanya diserahkan kepada Bani 'Abdi Manaf, sedangkan hijabah, liwa', dan nadwah tetap pada Bani 'Abdid Dar",
+   "src": [
+    "Sirah Ibnu Hisyam 1/130",
+    "Sirah Ibnu Hisyam 1/132"
+   ],
+   "quote": [
+    "وَكَانَتْ الرِّفَادَةُ خَرْجًا تُخْرِجُهُ قُرَيْشٌ فِي كُلِّ مَوْسِمٍ مِنْ أَمْوَالِهَا",
+    "عَلَى أَنْ يُعْطُوا بَنِي عَبْدِ مَنَافٍ السِّقَايَةَ وَالرِّفَادَةَ، وَأَنْ تَكُونَ الْحِجَابَةُ وَاللِّوَاءُ وَالنَّدْوَةُ لِبَنِي عَبْدِ الدَّارِ كَمَا كَانَتْ"
+   ],
+   "status": "new"
+  }
+ ],
+ "sosial": [
+  {
+   "t": "Bani 'Abdid Dar memegang hijabah (kunci Ka'bah); saat Fathu Makkah Nabi ﷺ mengembalikan kunci kepada 'Utsman bin Thalhah, dan Bani Thalhah tetap menjadi pengurus Ka'bah hingga masa Ibnu Hazm",
+   "src": [
+    "Sirah Ibnu Hisyam 2/412",
+    "Ibnu Sa'd 2/137",
+    "Jamharat Ansab al-'Arab, hlm. 127"
+   ],
+   "quote": [
+    "هَاكَ مِفْتَاحَكَ يَا عُثْمَانُ، الْيَوْمُ يَوْمُ بِرٍّ وَوَفَاءٍ",
+    "خذوها يا بني أبي طلحة تالدة خالدة لا ينزعها منكم أحد إلا ظالم",
+    "فبنو طلحة إلى اليوم هم ولاة الكعبة دون سائر بنى عبد الدار"
+   ],
+   "status": "rewritten"
+  }
+ ],
+ "dropped": [
+  {
+   "t": "Mush'ab bin 'Umair membawa panji kaum Muslimin di Badar dan Uhud hingga gugur",
+   "reason": "moved to biography of n13117 (panji Badar; panji Uhud dan syahidnya sudah ada di biografi)"
+  },
+  {
+   "t": "Mush'ab bin 'Umair diutus bersama rombongan Bai'at 'Aqabah pertama ke Yatsrib untuk membacakan Al-Qur'an dan mengajarkan Islam; dijuluki al-Muqri'",
+   "reason": "moved to biography of n13117 (julukan al-Muqri'; tugas mengajar di Madinah sudah ada di biografi)"
+  }
+ ]
 }

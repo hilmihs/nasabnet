@@ -1,18 +1,117 @@
 {
   "id": "bajilah",
-  "lokasi": {"t": "Negeri mereka di sekitar Tabalah (bersama Khats'am dan Daus); setelah Islam banyak menetap di Kufah", "src": ["Sirah Ibnu Hisyam 1/86", "Ibnu Sa'd 6/22"], "quote": ["وَمَنْ كَانَ بِبِلَادِهِمْ مِنْ الْعَرَبِ بِتَبَالَةَ", "ونزل الكوفة بعد ذلك وابتنى بها دارا في بجيلة"], "status": "rewritten"},
+  "lokasi": {
+    "t": "Negeri mereka di sekitar Tabalah (bersama Khats'am dan Daus); setelah Islam banyak menetap di Kufah",
+    "src": [
+      "Sirah Ibnu Hisyam 1/86",
+      "Ibnu Sa'd 6/22"
+    ],
+    "quote": [
+      "وَمَنْ كَانَ بِبِلَادِهِمْ مِنْ الْعَرَبِ بِتَبَالَةَ",
+      "ونزل الكوفة بعد ذلك وابتنى بها دارا في بجيلة"
+    ],
+    "status": "rewritten"
+  },
   "militer": [
-    {"t": "Umar mengangkat Jarir bin Abdillah memimpin seluruh Bajilah dalam perang Irak; di Qadisiyah Bajilah seperempat pasukan dan dihadang 16 gajah Persia", "src": ["al-Ishabah 1/583", "Tarikh ath-Thabari 3/576", "Tarikh ath-Thabari 3/576"], "quote": ["وقدّمه عمر في حروب العراق على جميع بجيلة، وكان لهم أثر عظيم في فتح القادسيّة", "أَنَّ بَأْسَ النَّاسِ فِي الْجَانِبِ الَّذِي بِهِ بَجِيلَةُ قَالَ: وَكُنَّا رُبْعَ النَّاسِ", "فَوَجَّهُوا إِلَيْنَا سِتَّةَ عَشَرَ فِيلا"], "status": "rewritten"},
-    {"t": "Jarir menghancurkan berhala Dzul Khalashah atas perintah Nabi ﷺ, bersama 150 penunggang kuda Bani Ahmas", "src": ["Ibnu Sa'd 6/22", "Jamharat Ansab al-'Arab, hlm. 388"], "quote": ["ووجهه رسول الله، ﷺ، إلى ذي الخلصة فهدمه", "نهض منهم مائة وخمسون فارسا مع جرير بن عبد الله إلى حرق ذى الخلصة"], "status": "rewritten"}
+    {
+      "t": "Dalam perang Irak 'Umar menghimpun seluruh Bajilah di bawah Jarir bin 'Abdillah; di Qadisiyah Bajilah merupakan seperempat pasukan, berada di sisi yang paling berat tekanannya, dan dihadang 16 gajah Persia",
+      "src": [
+        "al-Ishabah 1/583",
+        "Tarikh ath-Thabari 3/576",
+        "Tarikh ath-Thabari 3/576"
+      ],
+      "quote": [
+        "وقدّمه عمر في حروب العراق على جميع بجيلة، وكان لهم أثر عظيم في فتح القادسيّة",
+        "أَنَّ بَأْسَ النَّاسِ فِي الْجَانِبِ الَّذِي بِهِ بَجِيلَةُ قَالَ: وَكُنَّا رُبْعَ النَّاسِ",
+        "فَوَجَّهُوا إِلَيْنَا سِتَّةَ عَشَرَ فِيلا"
+      ],
+      "status": "rewritten"
+    },
+    {
+      "t": "Kaum Jarir dari Bajilah (150 penunggang kuda Bani Ahmas) menghancurkan dan membakar berhala Dzul Khalashah atas perintah Nabi ﷺ, yang lalu mendoakan berkah bagi kuda dan pasukan Ahmas",
+      "src": [
+        "Jamharat Ansab al-'Arab, hlm. 388",
+        "Ibnu Sa'd 1/348"
+      ],
+      "quote": [
+        "نهض منهم مائة وخمسون فارسا مع جرير بن عبد الله إلى حرق ذى الخلصة",
+        "فبرك رسول الله، ﷺ، يومئذ على خيل أحمس ورجالها"
+      ],
+      "status": "rewritten"
+    }
   ],
   "diplomasi": [
-    {"t": "Jarir bin Abdillah diutus Ali kepada Mu'awiyah sebelum Shiffin", "src": ["Tarikh ath-Thabari 4/561"], "quote": ["وجه علي عِنْدَ منصرفه مِنَ الْبَصْرَةِ إِلَى الْكُوفَةِ وفراغه من الجمل جرير بن عَبْدِ اللَّهِ البجلي إِلَى مُعَاوِيَةَ يدعوه إِلَى بيعته"], "status": "ok"}
+    {
+      "t": "Utusan Bajilah datang ke Madinah tahun 10 H: 150 orang bersama Jarir bin 'Abdillah dan 250 orang Ahmas bersama Qais bin 'Azrah; mereka masuk Islam dan berbaiat, dan Nabi ﷺ menyuruh Bilal memberi hadiah kepada rombongan Bajilah, dimulai dari Ahmas",
+      "src": [
+        "Ibnu Sa'd 1/347",
+        "Ibnu Sa'd 1/347",
+        "Ibnu Sa'd 1/347"
+      ],
+      "quote": [
+        "قدم جرير بن عبد الله البجلي سنة عشر المدينة ومعه من قومه مائة وخمسون رجلا",
+        "وقدم قيس بن عزرة الأحمسي في مائتين وخمسين رجلا من أحمس",
+        "أعط ركب بجيلة وابدأ بالأحمسيين"
+      ],
+      "status": "new"
+    }
   ],
   "ekonomi": [
-    {"t": "Umar memberi Jarir dan Bajilah yang dihimpunnya nafal seperempat khumus rampasan perang di Irak", "src": ["Tarikh ath-Thabari 3/460", "Tarikh ath-Thabari 3/470"], "quote": ["فَجَعَلَ لَهُ رُبْعُ خُمُسِ مَا أَفَاءَ اللَّهُ عَلَيْهِمْ فِي غَزَاتِهِمْ هَذِهِ", "ونفل بجيلة يومئذ ربع الخمس بينهم بالسوية"], "status": "new"}
+    {
+      "t": "Umar memberi Jarir dan Bajilah yang dihimpunnya nafal seperempat khumus rampasan perang di Irak",
+      "src": [
+        "Tarikh ath-Thabari 3/460",
+        "Tarikh ath-Thabari 3/470"
+      ],
+      "quote": [
+        "فَجَعَلَ لَهُ رُبْعُ خُمُسِ مَا أَفَاءَ اللَّهُ عَلَيْهِمْ فِي غَزَاتِهِمْ هَذِهِ",
+        "ونفل بجيلة يومئذ ربع الخمس بينهم بالسوية"
+      ],
+      "status": "new"
+    },
+    {
+      "t": "'Umar menetapkan bagi Bajilah seperempat tanah Sawad Irak; mereka mengambilnya selama tiga tahun lalu mengembalikannya atas permintaan 'Umar (satu riwayat: diganti tunjangan 'atha' 2.000)",
+      "src": [
+        "Futuh al-Buldan, hlm. 263",
+        "Futuh al-Buldan, hlm. 263"
+      ],
+      "quote": [
+        "كان عمر أعطى بجيلة ربع السواد فأخذوه ثلاث سنين",
+        "صالح عمر بجيلة من ربع السواد على أن فرض لهم في ألفين من العطاء"
+      ],
+      "status": "new"
+    }
   ],
   "sosial": [
-    {"t": "Bajilah tercerai-berai di berbagai kabilah setelah perang dengan Kalb di al-Fijar; Jarir bin Abdillah menghimpun mereka kembali", "src": ["Jamharat Ansab al-'Arab, hlm. 390", "Jamharat Ansab al-'Arab, hlm. 387", "Tarikh ath-Thabari 3/460"], "quote": ["وكانت بجيلة قد وقع لها حرب شديد مع كلب بن وبرة في موضع يعرف بالفجار فافترقت بجيلة", "وهو الذي جمع بجيلة بعد أن كانوا متفرقين في أحياء العرب", "وَلَمَّا أُعْطِيَ جَرِيرٌ حَاجَتَهُ فِي اسْتِخْرَاجِ بَجِيلَةَ مِنَ النَّاسِ فَجَمَعَهُمْ"], "status": "rewritten"}
+    {
+      "t": "Bajilah tercerai-berai di berbagai kabilah setelah perang dengan Kalb di al-Fijar; Jarir bin Abdillah menghimpun mereka kembali",
+      "src": [
+        "Jamharat Ansab al-'Arab, hlm. 390",
+        "Jamharat Ansab al-'Arab, hlm. 387",
+        "Tarikh ath-Thabari 3/460"
+      ],
+      "quote": [
+        "وكانت بجيلة قد وقع لها حرب شديد مع كلب بن وبرة في موضع يعرف بالفجار فافترقت بجيلة",
+        "وهو الذي جمع بجيلة بعد أن كانوا متفرقين في أحياء العرب",
+        "وَلَمَّا أُعْطِيَ جَرِيرٌ حَاجَتَهُ فِي اسْتِخْرَاجِ بَجِيلَةَ مِنَ النَّاسِ فَجَمَعَهُمْ"
+      ],
+      "status": "rewritten"
+    },
+    {
+      "t": "Pada masa jahiliah menyembah Dzul Khalashah, rumah berhala di al-'Abla' (empat marhalah dari Makkah), bersama Khats'am, al-Harits bin Ka'b, Jarm, Zubaid, dan lainnya",
+      "src": [
+        "al-Muhabbar, hlm. 317"
+      ],
+      "quote": [
+        "وكان ذو الخلصة له بيت تعبده بجيلة"
+      ],
+      "status": "new"
+    }
   ],
-  "dropped": []
+  "dropped": [
+    {
+      "t": "Jarir bin Abdillah diutus Ali kepada Mu'awiyah sebelum Shiffin",
+      "reason": "already in biography of n1133"
+    }
+  ]
 }

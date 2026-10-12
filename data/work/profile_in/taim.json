@@ -1,0 +1,28 @@
+{
+ "id": "taim",
+ "name": "Bani Taim",
+ "ar": "بنو تيم",
+ "group": "quraisy",
+ "umum": {
+  "nama_arti": "Nama diambil dari leluhur eponim, Taim bin Murrah.",
+  "titik_temu": "Bertemu dengan Bani Zuhrah dan Bani Makhzum pada Murrah bin Ka'b; dengan seluruh Quraisy pada Fihr bin Malik.",
+  "wilayah": "Makkah.",
+  "peran_sosial": "Klan Abu Bakar ash-Shiddiq, khalifah pertama; juga melahirkan Thalhah bin 'Ubaidillah, salah satu sepuluh sahabat yang dijamin surga.",
+  "dinamika": "Dari klan ini lahir Abu Bakar ash-Shiddiq, khalifah pertama umat Islam yang menjadi penerus kepemimpinan setelah wafatnya Nabi ﷺ."
+ },
+ "already_cited": {
+  "leluhur": {
+   "t": "Taim bin Murrah bin Ka'b bin Lu'ay.",
+   "src": [
+    "Jamharat Ansab al-'Arab, hlm. 135"
+   ]
+  },
+  "struktur": {
+   "t": "Dari Taim lahir Sa'd, lalu cabang Harithah dan Ka'b; dari Ka'b lewat 'Amr lalu 'Amir bin 'Amr lahir Abu Quhafah 'Utsman bin 'Amir, ayah Abu Bakar ash-Shiddiq.",
+   "src": [
+    "Jamharat Ansab al-'Arab, hlm. 135"
+   ]
+  }
+ },
+ "roles_umum": []
+}

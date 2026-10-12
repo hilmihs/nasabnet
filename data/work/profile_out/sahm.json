@@ -1,0 +1,28 @@
+{
+  "id": "sahm",
+  "nama_arti": {
+    "t": "Nama diambil dari leluhur eponim, Sahm bin 'Amr.",
+    "src": ["Jamharat Ansab al-'Arab, hlm. 163"],
+    "quote": ["وهؤلاء بنو سهم بن عمرو بن هصيص بن كعب ولد سهم بن عمرو: سعد، وسعيد"],
+    "status": "ok"
+  },
+  "wilayah": {
+    "t": "Makkah: Bani Sahm termasuk Quraisy al-Bitah, yang masuk ke lembah (al-Bitah) Makkah bersama Qushay.",
+    "src": ["al-Muhabbar, hlm. 167", "al-Muhabbar, hlm. 168"],
+    "quote": ["وبنو سهم، وبنو جمح ابنا عمرو ابن هصيص بن كعب", "سموا «أبطحيين» لأنهم دخلوا مع قصي البطاح"],
+    "status": "rewritten"
+  },
+  "peran_sosial": {
+    "t": "Klan 'Amr bin al-'Ash, yang menaklukkan Mesir atas perintah 'Umar bin al-Khaththab lalu diangkat 'Umar menjadi gubernurnya.",
+    "src": ["Ibnu Sa'd 7/493", "Ibnu Sa'd 7/493", "Ibnu Sa'd 7/493"],
+    "quote": ["عمرو بن العاص بن وائل بن هاشم بن سعيد بن سهم", "ثم كتب إليه أن يسير إلى مصر فسار إليها في المسلمين", "وولاه عمر بن الخطاب مصر إلى أن مات"],
+    "status": "rewritten"
+  },
+  "dinamika": {
+    "t": "'Amr bin al-'Ash semula diutus Quraisy kepada an-Najasyi untuk meminta kaum Muslimin diserahkan; ia masuk Islam pada Shafar 8 H, enam bulan sebelum Fathu Makkah, lalu menaklukkan Mesir dan menjadi gubernurnya pada masa 'Umar, kemudian lagi pada masa Mu'awiyah.",
+    "src": ["Usdul Ghabah 4/232", "Usdul Ghabah 4/232", "Ibnu Sa'd 7/493", "Ibnu Sa'd 7/493"],
+    "quote": ["وهو الَّذِي أرسلته قريش إِلَى النجاشي ليسلم إليهم من عنده من المسلمين", "كَانَ إسلامه فِي صفر سنة ثمان قبل الفتح بستة أشهر", "ففتح مصر، وولاه عمر بن الخطاب مصر", "ثم ولاه معاوية مصر فخرج إليها فلم يزل بها واليا"],
+    "status": "rewritten"
+  },
+  "dropped": []
+}

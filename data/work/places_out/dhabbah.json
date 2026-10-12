@@ -1,0 +1,154 @@
+{
+  "id": "dhabbah",
+  "places": [
+    {
+      "t": "Ta'syar",
+      "ar": "تعشار",
+      "kind": "mata air",
+      "note": "Tempat di ad-Dahna'; disebut mata air milik Bani Dhabbah",
+      "src": [
+        "Mu'jam al-Buldan 2/34"
+      ],
+      "quote": [
+        "وتعشار: موضع بالدهناء، وقال: هو ماء لبني ضبة"
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "t": "Muhjan",
+      "ar": "محجن",
+      "kind": "daerah",
+      "note": "Tempat milik Bani Dhabbah di ad-Dahna'",
+      "src": [
+        "Mu'jam al-Buldan 5/60"
+      ],
+      "quote": [
+        "وهو موضع لبني ضبّة بالدّهناء"
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "t": "Qasa",
+      "ar": "قسا",
+      "kind": "gunung",
+      "note": "Penanda (bukit kecil) di ad-Dahna' milik Bani Dhabbah",
+      "src": [
+        "Mu'jam ma Ista'jam 3/1073"
+      ],
+      "quote": [
+        "قسا: مقصور: علم بالدّهناء، جبيل صغير لبنى ضبّة"
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "t": "al-Bakarat",
+      "ar": "البكرات",
+      "kind": "mata air",
+      "note": "Mata air milik Dhabbah di tanah al-Yamamah; bukit-bukit kecil di bagian bawah al-Wasym",
+      "src": [
+        "Mu'jam al-Buldan 1/475"
+      ],
+      "quote": [
+        "البكرات ماء لضبّة بأرض اليمامة، وهي قارات بأسفل الوشم"
+      ],
+      "qid": "N6777271989",
+      "lat": 25.3251,
+      "lon": 45.7675,
+      "precision": "tepat"
+    },
+    {
+      "t": "Silla",
+      "ar": "سلى",
+      "kind": "mata air",
+      "note": "Mata air milik Bani Dhabbah di al-Yamamah",
+      "src": [
+        "Mu'jam al-Buldan 3/231"
+      ],
+      "quote": [
+        "اسم ماء لبني ضبّة باليمامة"
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "t": "Lughath",
+      "ar": "لغاط",
+      "kind": "lembah",
+      "note": "Lembah milik Bani Dhabbah (menurut Abu Muhammad al-Aswad); di sana dua mata air al-Amlahan",
+      "src": [
+        "Mu'jam al-Buldan 5/19",
+        "Mu'jam al-Buldan 1/255"
+      ],
+      "quote": [
+        "وقال أبو محمد الأسود: لغاط واد لبني ضبّة",
+        "الأملحان ماءان لبني ضبّة بلغاط"
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "t": "asy-Syawajin",
+      "ar": "الشواجن",
+      "kind": "lembah",
+      "note": "Lembah di diyar Dhabbah",
+      "src": [
+        "Mu'jam al-Buldan 1/395"
+      ],
+      "quote": [
+        "الشواجن: واد في ديار ضبّة"
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "t": "at-Tasrir",
+      "ar": "التسرير",
+      "kind": "lembah",
+      "note": "Di lekukan at-Tasrir ada bagian milik Bani Dhabbah dengan mata air dan permukiman luas",
+      "src": [
+        "Mu'jam al-Buldan 2/31"
+      ],
+      "quote": [
+        "وثني لبني ضبّة لهم فيه مياه ودار واسعة"
+      ],
+      "lat": 25.0817,
+      "lon": 44.2846,
+      "qid": "N1236696360",
+      "precision": "tepat"
+    },
+    {
+      "t": "al-Munib",
+      "ar": "المنيب",
+      "kind": "mata air",
+      "note": "Salah satu mata air Bani Dhabbah di Najd, di timur al-Hazir milik Ghani",
+      "src": [
+        "Mu'jam al-Buldan 5/217"
+      ],
+      "quote": [
+        "ماء من مياه بني ضبّة بنجد في شرقي الحزيز لغنيّ"
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "t": "Khiththah Bani Dhabbah di Bashrah",
+      "ar": "خطة بني ضبة",
+      "kind": "distrik",
+      "note": "Kawasan (khiththah) Bani Dhabbah di Bashrah, dekat Qashr 'Asl",
+      "src": [
+        "Mu'jam al-Buldan 4/124"
+      ],
+      "quote": [
+        "وقصر عسل: بالبصرة بقرب خطة بني ضبّة"
+      ],
+      "qid": "Q48195",
+      "lat": 30.515,
+      "lon": 47.81,
+      "precision": "perkiraan",
+      "near": "Bashrah"
+    }
+  ]
+}

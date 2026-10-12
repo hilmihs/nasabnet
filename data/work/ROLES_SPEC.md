@@ -24,6 +24,16 @@ Books (prefer the first ones for events; the last two for persons):
 - 2922 Nasab Quraisy (Mush'ab az-Zubairi)
 - 9767 al-Ishabah, 1110 Usdul Ghabah — companion biographies
 
+
+## Second-tier books (allowed when the books above do not have it — all are on turath.io)
+Same tools, same rules (read the page, verbatim quote, `check`). `python3 scripts/books.py list` shows each tag.
+919 Jamharat an-Nasab (Ibnul Kalbi) · 9773 Ansab al-Asyraf (al-Baladzuri) · 9211 al-Isytiqaq (Ibnu Duraid — name
+meanings) · 31382 Nihayat al-Arab (al-Qalqasyandi — tribes, dwellings) · 6696 al-Inbah 'ala Qaba'il ar-Ruwat ·
+12317 al-Ansab (as-Sam'ani) · 12212 al-Munammaq · 12288 al-Isti'ab (companions) · 23735 Mu'jam al-Buldan and 11802
+Mu'jam ma Ista'jam (places — use for wilayah/lokasi) · 12521 Shifat Jazirat al-'Arab (al-Hamdani — Yemen/Najd tribes'
+lands) · 12221 Futuh al-Buldan · 1514 ar-Raudh al-Unuf · 23789 al-'Iqd al-Farid · 21712 al-Kamil fi at-Tarikh ·
+4445 al-Bidayah wan-Nihayah · 1681 Shahih al-Bukhari, 1727 Shahih Muslim (hadith about tribes, e.g. virtues of al-Asy'ariyyin). Search a tier-2 book with `--book ID` (searching all books at once is slow).
+
 ## Procedure per bullet
 
 1. Find the passage: try at least 3 different queries (names, key Arabic terms, event name) across the

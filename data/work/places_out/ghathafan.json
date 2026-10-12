@@ -1,0 +1,23 @@
+{"id": "ghathafan", "places": [
+  {"t": "Hijaz", "ar": "الحجاز", "kind": "daerah", "note": "Saat Islam datang, Ghathafan (bersama 'Abs, Fazarah, Asad dll.) telah menempati Hijaz",
+   "src": ["Mu'jam ma Ista'jam 1/90"], "quote": ["وجاء الله ﷿ بالإسلام وقد نزل الحجاز من العرب أسد، وعبس، وغطفان، وفزارة"],
+   "qid": "Q169977", "lat": 23.5036, "lon": 40.8597, "precision": "tepat"},
+  {"t": "al-Abraq (ar-Rabadzah)", "ar": "الأبرق", "kind": "daerah", "note": "Tsa'labah bin Sa'd, Murrah dan 'Abs berkumpul di al-Abraq dekat ar-Rabadzah saat Riddah; itu permukiman Bani Tsa'labah, lalu dijadikan hima oleh Abu Bakr",
+   "src": ["Tarikh ath-Thabari 3/243", "Tarikh ath-Thabari 3/248"], "quote": ["واجتمعت ثعلبة بْن سعد ومن يليهم من مرة وعبس بالأبرق من الربذة", "جاءت بنو ثعلبة، وهي كانت منازلهم لينزلوها"],
+   "qid": "Q3303516", "lat": 24.6319, "lon": 41.2906, "precision": "perkiraan", "near": "ar-Rabadzah"},
+  {"t": "asy-Syarabbah", "ar": "الشربة", "kind": "daerah", "note": "Kawasan antara Wadi ar-Rumah dan al-Jarib, membentang sampai dekat ar-Rabadzah; termasuk negeri Ghathafan, bagian Najd yang paling dingin",
+   "src": ["Mu'jam al-Buldan 3/333"], "quote": ["كادت تكون فيما بين هضب القليب إلى الرّبذة وتنقطع عند أعالي الجريب، وهي من بلاد غطفان"],
+   "qid": "Q3303516", "lat": 24.6319, "lon": 41.2906, "precision": "perkiraan", "near": "ar-Rabadzah"},
+  {"t": "Dzu Amarr", "ar": "ذو أمر", "kind": "daerah", "note": "Tempat di Najd dari diyar Ghathafan, arah an-Nukhail; tujuan ghazwah Nabi ﷺ tahun 3 H",
+   "src": ["Mu'jam al-Buldan 1/252"], "quote": ["هو من ناحية النخيل، وهو بنجد من ديار غطفان"],
+   "lat": null, "lon": null},
+  {"t": "Harrat an-Nar", "ar": "حرة النار", "kind": "daerah", "note": "Menurut Nashr: harrah antara Wadi al-Qura dan Taima' dari diyar Ghathafan; kini dihuni 'Anazah",
+   "src": ["Mu'jam al-Buldan 2/248"], "quote": ["حرة النار بين وادي القرى وتيماء من ديار غطفان، وسكانها اليوم عنزة"],
+   "lat": null, "lon": null},
+  {"t": "Raml 'Alij", "ar": "رمل عالج", "kind": "daerah", "note": "Penghuni terbanyak 'Alij adalah Thayyi' dan Ghathafan; Fazarah, Murrah dan Tsa'labah (anak Dzubyan) di tepi baratnya",
+   "src": ["Mu'jam ma Ista'jam 3/914"], "quote": ["وأكثر أهل عالج طيىء وغطفان"],
+   "lat": null, "lon": null},
+  {"t": "Hazm Bani 'Uwal", "ar": "حزم بني عوال", "kind": "gunung", "note": "Gunung di pinggiran Hijaz, di jalan menuju Madinah, milik Ghathafan",
+   "src": ["Mu'jam al-Buldan 2/253"], "quote": ["جبل بأكناف الحجاز على طريق من أمّ المدينة لغطفان"],
+   "lat": null, "lon": null}
+]}

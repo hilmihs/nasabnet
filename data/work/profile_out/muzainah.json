@@ -1,0 +1,7 @@
+{
+  "id": "muzainah",
+  "wilayah": {"t": "Hijaz, di sekitar Madinah (Diyar Muzainah).", "src": ["Mu'jam al-Buldan 1/242", "Mu'jam al-Buldan 2/175"], "quote": ["شعبة واسعة في ديار مزينة قرب المدينة", "شعب الجوار: بالحجاز بقرب المدينة في ديار مزينة"], "status": "rewritten"},
+  "peran_sosial": {"t": "Dikenal lewat bani Muqarrin, tujuh bersaudara yang semuanya hijrah dan menjadi sahabat Nabi ﷺ—hal yang tidak ada pada kabilah Arab lain; an-Nu'man bin Muqarrin datang kepada Nabi ﷺ bersama 400 penunggang Muzainah dan memimpin pasukan melawan Persia di Nahawand.", "src": ["Usdul Ghabah 5/223", "Usdul Ghabah 5/323", "Usdul Ghabah 5/323"], "quote": ["وكانوا سبعة إخوة، كلهم هاجر وصحب النَّبِيّ ﷺ وليس ذَلِكَ لأحد من العرب", "قدمنا عَلَى رسول الله ﷺ فِي أربعمائة راكب من مزينة", "فأمره بالمسير والتقدم عَلَى الجيش فِي قتال الفرس"], "status": "rewritten"},
+  "dinamika": {"t": "an-Nu'man bin Muqarrin memimpin pasukan Muslim pada Perang Nahawand (21 H) dan gugur syahid; Hudzaifah mengambil panji dan kaum Muslim menang—hari yang dinamai \"Fath al-Futuh\" (kemenangan segala kemenangan).", "src": ["Usdul Ghabah 5/324", "Usdul Ghabah 5/324", "Tarikh ath-Thabari 4/135"], "quote": ["وَكَانَت وقعة نهاوند سنة إحدى وعشرين", "فقتل، وأخذ الراية حذيفة ففتح الله عليهم", "وأن النعمان أول من استشهد يوم فتح الفتوح"], "status": "rewritten"},
+  "dropped": []
+}

@@ -1,0 +1,36 @@
+{
+ "id": "quraisy",
+ "name": "Quraisy (umum)",
+ "ar": "قريش",
+ "group": "quraisy",
+ "umum": {
+  "nama_arti": "Asal-usul nama \"Quraisy\" tidak disepakati; sebagian riwayat mengaitkannya dengan makna \"berkumpul\" (at-taqarrusy), sebagian lain menyebutnya sebagai gelar yang melekat pada Fihr bin Malik.",
+  "wilayah": "Makkah, terutama di sekitar Ka'bah, sejak Qushay bin Kilab menyatukan kekuasaan kota ini.",
+  "peran_sosial": "Suku pengelola Ka'bah dan jalur dagang Makkah; menjadi suku Nabi Muhammad ﷺ dan basis awal dakwah Islam.",
+  "dinamika": "Karena kutipan Jamharah untuk entri ini tidak merinci klan spesifik anggota yang terdaftar, mereka dicatat sebagai Quraisy secara umum tanpa afiliasi bathn yang diketahui dalam data ini."
+ },
+ "already_cited": {
+  "leluhur": {
+   "t": "Fihr bin Malik bin an-Nadhr bin Kinanah bin Khuzaimah bin Mudrikah bin Ilyas bin Mudhar bin Nizar bin Ma'ad bin Adnan; Fihr disebut sebagai leluhur yang disepakati sebagai Quraisy sejati (\"wa hum Quraisy la Quraisya ghairuhum\").",
+   "src": [
+    "Jamharat Ansab al-'Arab, hlm. 12"
+   ]
+  },
+  "titik_temu": {
+   "t": "Seluruh bathn Quraisy bertemu pada Fihr bin Malik. Secara lebih dekat, Bani Hasyim, al-Muththalib, 'Abd Syams (Umayyah), dan Naufal bertemu pada 'Abd Manaf bin Qushay; Bani Taim dan Makhzum (lewat Yaqazhah) bertemu dengan Bani Kilab pada Murrah bin Ka'b.",
+   "src": [
+    "Jamharat Ansab al-'Arab, hlm. 12"
+   ]
+  },
+  "struktur": {
+   "t": "Dari Fihr lahir Ghalib, Muharib, dan al-Harits; dari Ghalib lahir Lu'ay, dari Lu'ay lahir Ka'b (leluhur Bani Hasyim, Umayyah, dan lainnya) dan 'Amir; dari Ka'b lahir Murrah (leluhur Bani Taim, Zuhrah, Makhzum lewat Kilab dan Yaqazhah), 'Adi, dan Hushaish.",
+   "src": [
+    "Jamharat Ansab al-'Arab, hlm. 12"
+   ]
+  }
+ },
+ "roles_umum": [
+  "militer[1]",
+  "sosial[1]"
+ ]
+}

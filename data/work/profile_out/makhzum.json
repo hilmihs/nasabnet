@@ -1,0 +1,73 @@
+{
+  "id": "makhzum",
+  "nama_arti": {
+    "t": "Nama diambil dari leluhur eponim, Makhzum bin Yaqazhah.",
+    "src": [
+      "Jamharat Ansab al-'Arab, hlm. 141"
+    ],
+    "quote": [
+      "وهؤلاء بنو يقظة بن مرّة فولد يقظة بن مرة: مخزوم"
+    ],
+    "status": "ok"
+  },
+  "titik_temu": {
+    "t": "Bertemu dengan Bani Taim dan Bani Zuhrah (lewat Kilab) pada Murrah bin Ka'b; dengan seluruh Quraisy pada Fihr bin Malik.",
+    "src": [
+      "Jamharat Ansab al-'Arab, hlm. 13",
+      "Jamharat Ansab al-'Arab, hlm. 14",
+      "Jamharat Ansab al-'Arab, hlm. 12"
+    ],
+    "quote": [
+      "فولد مرّة بن كعب بن لؤى: كلاب بن مرة، وفيه البيت والشرف؛ وتيم بن مرة: ويقظة بن مرّة",
+      "فولد كلاب بن مرّة: قصى بن كلاب، وفيه البيت والشرف؛ وزهرة بن كلاب",
+      "وهم قريش لا قريش غيرهم؛ ولا يكون قريشىّ إلاّ منهم"
+    ],
+    "status": "ok"
+  },
+  "wilayah": {
+    "t": "Makkah; termasuk Quraisy al-Bithah, kabilah yang dimasukkan Qushay ke lembah al-Abthah.",
+    "src": [
+      "al-Muhabbar, hlm. 167",
+      "al-Muhabbar, hlm. 167",
+      "Ibnu Sa'd 1/71"
+    ],
+    "quote": [
+      "قبائل قريش البطاح بنو عبد مناف",
+      "وبنو مخزوم بن يقظه بن مرة",
+      "وأدخل قصي بطون قريش كلها الأبطح فسموا قريش البطاح"
+    ],
+    "status": "rewritten"
+  },
+  "peran_sosial": {
+    "t": "Khalid bin al-Walid dari klan ini memegang al-qubbah dan a'innah al-khail (komando pasukan berkuda) Quraisy pada masa Jahiliyah; dari Makhzum pula Ummu Salamah, istri Nabi ﷺ, dan Abu Jahl ('Amr bin Hisyam bin al-Mughirah), yang dikenal bermusuhan dengan Nabi ﷺ.",
+    "src": [
+      "Usdul Ghabah 2/140",
+      "Usdul Ghabah 7/329",
+      "Jamharat Ansab al-'Arab, hlm. 145",
+      "Sirah Ibnu Hisyam 1/389"
+    ],
+    "quote": [
+      "وكان إليه القبة وأعنة الخيل في الجاهلية",
+      "أم سلمة بنت أبي أمية بن المغيرة بن عبد الله بن عمر بن مخزوم القرشية المخزومية زوج النبي",
+      "فولد هشام بن المغيرة: أبو جهل، اسمه عمرو",
+      "لِمَا يَعْلَمُونَ بَيْنَهُ وَبَيْنَ أَبِي جَهْلٍ مِنْ الْعَدَاوَةِ"
+    ],
+    "status": "rewritten"
+  },
+  "dinamika": {
+    "t": "Abu Jahl, tokoh Makhzum, bermusuhan dengan Nabi ﷺ; setelah masuk Islam, tokoh-tokoh Makhzum memimpin pasukan: 'Ikrimah bin Abi Jahl dikirim Abu Bakar melawan Musailimah, dan Khalid bin al-Walid diperintah Abu Bakar ke Irak lalu menjadi panglima depan di Damaskus (Syam).",
+    "src": [
+      "Sirah Ibnu Hisyam 1/389",
+      "Tarikh ath-Thabari 3/281",
+      "Tarikh ath-Thabari 3/343",
+      "Tarikh ath-Thabari 3/435"
+    ],
+    "quote": [
+      "لِمَا يَعْلَمُونَ بَيْنَهُ وَبَيْنَ أَبِي جَهْلٍ مِنْ الْعَدَاوَةِ",
+      "كَانَ أَبُو بَكْرٍ حِينَ بَعَثَ عِكْرِمَةَ بْنَ أَبِي جَهْلٍ إِلَى مُسَيْلِمَةَ",
+      "أن سر إلى العراق حتى تدخلها، وابدأ بفرج الهند",
+      "ثُمَّ سَارُوا إِلَى دِمَشْقَ وَخَالِدٌ عَلَى مُقَدِّمَةِ النَّاسِ"
+    ],
+    "status": "rewritten"
+  }
+}

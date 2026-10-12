@@ -2,7 +2,7 @@ import { toBullets, useBio, type Point } from '../lib/bio'
 import { useStore } from '../lib/data'
 import type { Tribe } from '../lib/types'
 import { useUI } from '../lib/ui'
-import { Accordion, ArBlock, Bullets, Li, Missing, PointItems, Rich, Section, SubHead, TribeRoles } from './Prose'
+import { Accordion, ArBlock, ArInline, Bullets, Li, Missing, PointItems, Rich, Section, SrcChips, SubHead, TribeRoles } from './Prose'
 
 /** A bare chain of names ("al-Harits bin Fihr bin Malik.") reads better with a lead. */
 const ancestorPoint = (x?: Point | null): Point | null | undefined =>
@@ -13,7 +13,7 @@ const ancestorPoint = (x?: Point | null): Point | null | undefined =>
 /** Tribe/clan profile in themed sections of short bullets. */
 export function TribeProfileCard({ tribe }: { tribe: Tribe }) {
   const { g, membersByTribe, weight, tribes } = useStore()
-  const { openProfile } = useUI()
+  const { openProfile, go } = useUI()
   const bio = useBio()
   const t = bio?.tribes[tribe.id]
   const members = membersByTribe.get(tribe.id) ?? []
@@ -55,6 +55,35 @@ export function TribeProfileCard({ tribe }: { tribe: Tribe }) {
 
       <Section title="Lokasi & Peran Strategis" id={`tp-peran-${tribe.id}`}>
         <TribeRoles t={t} wilayah={t?.wilayah} />
+        {!!t?.tempat?.length && (
+          <>
+            <div className="flex flex-wrap items-center justify-between gap-2">
+              <SubHead>Titik lokasi menurut kitab</SubHead>
+              {t.tempat.some((p) => p.lat != null) && (
+                <button
+                  type="button"
+                  onClick={() => go('kabilah', { t: tribe.id, tab: 'profil', m: 'wilayah' })}
+                  className="rounded-full border border-hijau-600 px-3 py-1 text-xs font-semibold text-hijau-800 hover:bg-hijau-50"
+                >
+                  Lihat di peta
+                </button>
+              )}
+            </div>
+            <Bullets>
+              {t.tempat.map((p, i) => (
+                <Li key={i}>
+                  <strong className="font-semibold text-hijau-900">{p.t}</strong> <ArInline>{p.ar}</ArInline>{' '}
+                  <span className="text-xs text-tinta-soft">
+                    ({p.kind}
+                    {p.lat == null ? ', belum ada koordinat' : p.precision === 'perkiraan' ? `, titik perkiraan dekat ${p.near}` : ''})
+                  </span>{' '}
+                  — {p.note}
+                  <SrcChips src={p.src} />
+                </Li>
+              ))}
+            </Bullets>
+          </>
+        )}
         {t?.peran_sosial?.t && (
           <>
             <SubHead>Kedudukan umum</SubHead>

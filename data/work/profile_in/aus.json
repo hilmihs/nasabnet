@@ -1,0 +1,29 @@
+{
+ "id": "aus",
+ "name": "Aus",
+ "ar": "الأوس",
+ "group": "anshar",
+ "umum": {
+  "nama_arti": "Nama diambil dari leluhur eponim, al-Aus bin Haritsah.",
+  "titik_temu": "Bersaudara dengan Khazraj, keduanya anak Haritsah bin Tsa'labah (dari ibu yang sama, Qailah); bersama disebut Anshar; cabang al-Azd (Qahthan).",
+  "wilayah": "Madinah, terutama bagian selatan dan Quba.",
+  "peran_sosial": "Salah satu dari dua suku besar Madinah yang menerima Islam dan menjadi Anshar, penolong Nabi ﷺ setelah hijrah; dikenal lewat Sa'd bin Mu'adz, pemimpin suku Aus.",
+  "hilf": "Sebelum Islam, Aus dan Khazraj terlibat permusuhan panjang yang berujung Perang Bu'ath; persaingan ini mereda setelah kedatangan Islam.",
+  "dinamika": "Setelah hijrah Nabi ﷺ, persaingan lama Aus-Khazraj yang puncaknya Perang Bu'ath mereda karena persaudaraan Islam, meski bekas rivalitas sempat muncul kembali dalam beberapa peristiwa internal Madinah."
+ },
+ "already_cited": {
+  "leluhur": {
+   "t": "al-Aus bin Haritsah bin Tsa'labah bin 'Amr Muzaiqiya'.",
+   "src": [
+    "Jamharat Ansab al-'Arab, hlm. 332"
+   ]
+  },
+  "struktur": {
+   "t": "Anak al-Aus: Malik; dari Malik lahir 'Auf (Ahlu Quba), 'Amr (an-Nabit), Murrah (al-Ja'adirah), Jusyam, dan Imru'ul Qais; dari 'Auf bin Malik lahir 'Amr bin 'Auf dan al-Harits bin 'Auf.",
+   "src": [
+    "Jamharat Ansab al-'Arab, hlm. 332"
+   ]
+  }
+ },
+ "roles_umum": []
+}

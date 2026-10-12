@@ -1,0 +1,38 @@
+{
+ "id": "muzainah",
+ "name": "Muzainah",
+ "ar": "مزينة",
+ "group": "arab",
+ "umum": {
+  "wilayah": "Sekitar Madinah, ke arah utara menuju Syam.",
+  "peran_sosial": "Dikenal lewat tujuh bersaudara bani Muqarrin yang semuanya sahabat Nabi ﷺ dan ikut hijrah; an-Nu'man bin Muqarrin memimpin Perang Nahawand.",
+  "dinamika": "an-Nu'man bin Muqarrin memimpin pasukan Muslim pada Perang Nahawand (21 H) dan gugur syahid dalam kemenangan besar atas Persia."
+ },
+ "already_cited": {
+  "nama_arti": {
+   "t": "Nama diambil dari nama ibu kabilah, Muzainah binti Kalb bin Wabrah; anak-anaknya dinisbahkan kepadanya.",
+   "src": [
+    "Jamharat Ansab al-'Arab, hlm. 201"
+   ]
+  },
+  "leluhur": {
+   "t": "'Amr bin Udd, ayah Utsman dan Aus, dua putra yang ibunya bernama Muzainah binti Kalb bin Wabrah.",
+   "src": [
+    "Jamharat Ansab al-'Arab, hlm. 201"
+   ]
+  },
+  "titik_temu": {
+   "t": "Melalui jalur ayah ('Amr bin Udd) bertemu dengan Bani Tamim pada Udd; melalui jalur ibu (Muzainah binti Kalb bin Wabrah) berkerabat dengan kabilah-kabilah Qudha'ah.",
+   "src": [
+    "Jamharat Ansab al-'Arab, hlm. 201"
+   ]
+  },
+  "struktur": {
+   "t": "Dua anak Muzainah: Utsman dan Aus; dari garis ini lahir an-Nu'man bin Muqarrin dan saudara-saudaranya—tujuh bersaudara yang semuanya sahabat Nabi ﷺ—serta penyair Zuhair bin Abi Sulma.",
+   "src": [
+    "Jamharat Ansab al-'Arab, hlm. 201"
+   ]
+  }
+ },
+ "roles_umum": []
+}

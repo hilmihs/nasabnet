@@ -1,0 +1,28 @@
+{
+ "id": "qudhaah",
+ "name": "Qudha'ah",
+ "ar": "قضاعة",
+ "group": "arab",
+ "umum": {
+  "nama_arti": "Nama diambil dari leluhur eponim, Qudha'ah; makna pastinya tidak disepakati secara luas. Perdebatan asal-usul nasabnya dijelaskan pada bagian titik temu.",
+  "titik_temu": "Rumpun Qudha'ah melahirkan kabilah-kabilah seperti Kalb, 'Udzrah, Judzam, Bali, dan Bahra'; sebagian ahli nasab menisbahkannya kepada Qahthan, sebagian lain kepada Ma'ad bin Adnan—perbedaan ini termasuk perselisihan nasab Arab yang terkenal.",
+  "wilayah": "Rumpun Qudha'ah tersebar luas di Syam, Jazirah Arab utara, dan Mesir, menjadi salah satu konfederasi kabilah terbesar pada masa Umayyah.",
+  "peran_sosial": "Sejumlah kabilah Qudha'ah seperti Bali, Judzam, dan 'Udzrah termasuk kabilah yang berbaiat kepada Nabi ﷺ dan menjadi bagian penting pasukan Muslim dalam penaklukan Syam.",
+  "dinamika": "Perdebatan garis nasab Qudha'ah (Qahthan versus Adnan) tetap menjadi topik klasik dalam kitab-kitab nasab Arab."
+ },
+ "already_cited": {
+  "leluhur": {
+   "t": "Qudha'ah, dengan satu-satunya keturunan yang berlanjut, al-Hafi.",
+   "src": [
+    "Jamharat Ansab al-'Arab, hlm. 440"
+   ]
+  },
+  "struktur": {
+   "t": "Dari al-Hafi lahir 'Imran, 'Amr, dan Aslam; dari 'Amr bin al-Hafi lahir Haidan, Bahra', dan Bali.",
+   "src": [
+    "Jamharat Ansab al-'Arab, hlm. 440"
+   ]
+  }
+ },
+ "roles_umum": []
+}

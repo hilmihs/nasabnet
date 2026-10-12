@@ -1,20 +1,105 @@
 {
   "id": "sahm",
-  "lokasi": {"t": "Makkah (Hijaz)", "status": "umum"},
+  "lokasi": {
+    "t": "Makkah: termasuk Quraisy al-Bitah (lembah Makkah) yang masuk bersama Qushay",
+    "src": [
+      "al-Muhabbar, hlm. 167",
+      "al-Muhabbar, hlm. 168"
+    ],
+    "quote": [
+      "وبنو سهم، وبنو جمح ابنا عمرو ابن هصيص بن كعب",
+      "سموا «أبطحيين» لأنهم دخلوا مع قصي البطاح"
+    ],
+    "status": "rewritten"
+  },
   "militer": [
-    {"t": "Amr bin al-'Ash memimpin sariyah Dzatus Salasil (Jumadil Akhir 8 H)", "src": ["Ibnu Sa'd 2/131"], "quote": ["سرية عمرو بن العاص إلى ذات السلاسل وهي وراء وادي القرى"], "status": "rewritten"},
-    {"t": "Atas perintah Umar, Amr bin al-'Ash membawa pasukannya ke Mesir dan menaklukkan Bab Alyun (20 H), lalu Iskandariyah", "src": ["Tarikh ath-Thabari 4/104", "Tarikh ath-Thabari 4/105"], "quote": ["كتب إلى عمرو بن العاص أن يسير الى مصر في جنده، فخرج حتى فتح باب اليون في سنة عشرين", "كان في جند عمرو بن العاص حين افتتح مصر والإسكندرية"], "status": "rewritten"}
+    {
+      "t": "Pada Perang Badar Bani Sahm berada di barisan Quraisy: lima orang mereka terbunuh, di antaranya Munabbih bin al-Hajjaj, dan empat lainnya tertawan",
+      "src": [
+        "Sirah Ibnu Hisyam 1/712",
+        "Sirah Ibnu Hisyam 1/713",
+        "Sirah Ibnu Hisyam 2/5",
+        "Sirah Ibnu Hisyam 2/6"
+      ],
+      "quote": [
+        "وَمِنْ بَنِي سَهْمِ بْنِ عَمْرِو بْنِ هُصَيْصِ بْنِ كَعْبِ بْنِ لُؤَيٍّ: مُنَبِّهُ بْنُ الْحَجَّاجِ",
+        "قَتَلَهُ أَبُو الْيَسَرِ، أَخُو بَنِي سَلِمَةَ، فِيمَا قَالَ ابْنُ هِشَامٍ: خَمْسَةُ نَفَرٍ",
+        "وَمِنْ بَنِي سَهْمِ بْنِ عَمْرِو بْنِ هُصَيْصٍ بْنِ كَعْبٍ: أَبُو وَدَاعَةَ",
+        "وَالْحَجَّاجُ [٢] ابْن قَيْسِ بْنِ عَدِيِّ بْنِ سَعْدِ بْنِ سَهْمٍ. أَرْبَعَةُ نَفَرٍ"
+      ],
+      "status": "new"
+    }
   ],
   "diplomasi": [
-    {"t": "Sebelum masuk Islam, Amr bin al-'Ash diutus Quraisy kepada an-Najasyi untuk meminta pemulangan Muhajirin Habasyah", "src": ["Sirah Ibnu Hisyam 1/334"], "quote": ["ثم بعثوا بذلك عبد الله بن أبي ربيعة، وعمرو بن العاص"], "status": "ok"},
-    {"t": "Amr bin al-'Ash menjadi hakam pihak Mu'awiyah dalam tahkim setelah Shiffin", "src": ["Ibnu Sa'd 3/32"], "quote": ["وحكموا الحكمين فحكم علي أبا موسى الأشعري، وحكم معاوية عمرو بن العاص"], "status": "ok"}
+    {
+      "t": "Ketika Quraisy terbelah antara Bani 'Abd Manaf (al-Muthayyabun) dan Bani 'Abd ad-Dar, Bani Sahm bergabung dengan Bani 'Abd ad-Dar bersama Makhzum, Jumah dan 'Adi (al-Ahlaf)",
+      "src": [
+        "Sirah Ibnu Hisyam 1/131",
+        "Sirah Ibnu Hisyam 1/131",
+        "al-Munammaq, hlm. 190"
+      ],
+      "quote": [
+        "وَبَنُو سَهْمِ بْنِ عَمْرِو بْنِ هُصَيْصِ بْنِ كَعْبٍ",
+        "وَبَنُو عَدِيِّ بْنِ كَعْبٍ، مَعَ بَنِي عَبْدِ الدَّارِ",
+        "وكان مع بني عبد الدار سهم وجمح ومخزوم وعدي"
+      ],
+      "status": "new"
+    }
   ],
   "ekonomi": [
-    {"t": "Pada masa jahiliah, al-Harits bin Qais as-Sahmi memegang hukumah dan harta yang dipersembahkan untuk berhala-berhala", "src": ["Usdul Ghabah 2/631"], "quote": ["وإليه كانت الحكومة والأموال التي يسمونها لآلهتهم"], "status": "new"},
-    {"t": "Amr bin al-'Ash memegang kharaj Mesir hingga dicopot dari urusan itu oleh Utsman", "src": ["Tarikh ath-Thabari 4/256"], "quote": ["نزع عثمان عمرو بن العاص عن خراج مصر"], "status": "new"}
+    {
+      "t": "Bani Sahm, salah satu dari sepuluh klan pemegang kehormatan Quraisy jahiliah, memegang hukumah (peradilan) dan al-amwal al-muhajjarah (harta yang dipersembahkan untuk berhala), dipegang al-Harits bin Qais as-Sahmi",
+      "src": [
+        "al-'Iqd al-Farid 3/268",
+        "al-'Iqd al-Farid 3/268",
+        "Usdul Ghabah 2/631"
+      ],
+      "quote": [
+        "ومن بني سهم: الحرث بن قيس، وكانت إليه الحكومة والأموال المحجرة التي سمّوها لآلهتهم",
+        "إلى هؤلاء العشرة من هذه البطون العشرة على حال ما كانت في أوّليتهم",
+        "وإليه كانت الحكومة والأموال التي يسمونها لآلهتهم"
+      ],
+      "status": "rewritten"
+    }
   ],
   "sosial": [
-    {"t": "Abdullah bin Amr bin al-'Ash menulis hadits dalam ash-Shahifah ash-Shadiqah", "src": ["Ibnu Sa'd 4/262"], "quote": ["فأذن لي فكتبته. فكان عبد الله يسمي صحيفته تلك الصادقة"], "status": "ok"}
+    {
+      "t": "Empat belas orang Bani Sahm (termasuk saudara seibu dan sekutu mereka) ikut hijrah ke Habasyah, di antaranya Khunais dan 'Abdullah bin Hudzafah serta putra-putra al-Harits bin Qais",
+      "src": [
+        "Sirah Ibnu Hisyam 1/328",
+        "Sirah Ibnu Hisyam 1/328"
+      ],
+      "quote": [
+        "مَنْ هَاجَرَ إلَى الْحَبَشَةِ مِنْ بَنِي سَهْمٍ",
+        "وَمَحْمِيَّةُ بْنُ الْجَزَاءِ [٣]، حَلِيفٌ لَهُمْ، مِنْ بَنِي زُبَيْدٍ، أَرْبَعَةَ عَشَرَ رَجُلًا"
+      ],
+      "status": "new"
+    }
   ],
-  "dropped": []
+  "dropped": [
+    {
+      "t": "Amr bin al-'Ash memimpin sariyah Dzatus Salasil (Jumadil Akhir 8 H)",
+      "reason": "moved to biography of n4844"
+    },
+    {
+      "t": "Atas perintah Umar, Amr bin al-'Ash membawa pasukannya ke Mesir dan menaklukkan Bab Alyun (20 H), lalu Iskandariyah",
+      "reason": "moved to biography of n4844"
+    },
+    {
+      "t": "Sebelum masuk Islam, Amr bin al-'Ash diutus Quraisy kepada an-Najasyi untuk meminta pemulangan Muhajirin Habasyah",
+      "reason": "moved to biography of n4844"
+    },
+    {
+      "t": "Amr bin al-'Ash menjadi hakam pihak Mu'awiyah dalam tahkim setelah Shiffin",
+      "reason": "already in biography of n4844"
+    },
+    {
+      "t": "Amr bin al-'Ash memegang kharaj Mesir hingga dicopot dari urusan itu oleh Utsman",
+      "reason": "moved to biography of n4844"
+    },
+    {
+      "t": "Abdullah bin Amr bin al-'Ash menulis hadits dalam ash-Shahifah ash-Shadiqah",
+      "reason": "already in biography of n3823"
+    }
+  ]
 }

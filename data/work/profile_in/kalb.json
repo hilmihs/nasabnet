@@ -1,0 +1,29 @@
+{
+ "id": "kalb",
+ "name": "Kalb",
+ "ar": "كلب",
+ "group": "arab",
+ "umum": {
+  "nama_arti": "Nama Kalb (berarti 'anjing' dalam bahasa Arab) diambil dari leluhur eponim mereka; penamaan dengan nama hewan cukup umum di kalangan kabilah Arab kuno.",
+  "titik_temu": "Kalb termasuk rumpun Qudha'ah; bertemu dengan kabilah-kabilah Qudha'ah lain (seperti Judzam dan Bali) pada leluhur bersama Qudha'ah.",
+  "wilayah": "Mendiami wilayah padang pasir Syam bagian utara dan sekitar Dumat al-Jandal, berbatasan dengan Jazirah Arab utara.",
+  "peran_sosial": "Dikenal lewat keislaman Zaid bin Haritsah—budak yang diangkat anak oleh Nabi ﷺ—dan keturunannya; belakangan menjadi kabilah penting pendukung Bani Umayyah di Syam.",
+  "hilf": "Pada masa Umayyah, Kalb menjadi sekutu dekat dinasti Bani Umayyah di Syam, berseberangan dengan Qais 'Ailan dalam persaingan Qais-Yaman.",
+  "dinamika": "Persaingan Kalb (Yaman) melawan Qais 'Ailan mewarnai konflik internal Bani Umayyah akhir, dikenal sebagai fitnah Qais-Yaman."
+ },
+ "already_cited": {
+  "leluhur": {
+   "t": "Kalb bin Wabrah bin Taghlib bin Hulwan bin Imran bin al-Hafi bin Qudha'ah.",
+   "src": [
+    "Jamharat Ansab al-'Arab, hlm. 455"
+   ]
+  },
+  "struktur": {
+   "t": "Anak-anak Kalb: Tsaur, Kuld, dan Abu Hubahib; dari Tsaur lahir Rufaidah, Urainah, dan Shahb. Dari jalur Rufaidah lahir cabang besar Bani Kinanah bin Bakr, yang di antaranya melahirkan Bani Jinab (dengan sub-cabang 'Adi, Zuhair, dan 'Alim).",
+   "src": [
+    "Jamharat Ansab al-'Arab, hlm. 455"
+   ]
+  }
+ },
+ "roles_umum": []
+}

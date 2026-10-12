@@ -1,0 +1,143 @@
+{
+  "id": "ghani",
+  "places": [
+    {
+      "t": "Imarrah",
+      "ar": "إمرة",
+      "kind": "mata air",
+      "note": "Salah satu mata air Ghani bin A'shur, persinggahan haji Bashrah; Hima Imarrah milik Ghani dan Asad, terdekat dari Hima Dhariyyah",
+      "src": [
+        "Mu'jam al-Buldan 1/253",
+        "Mu'jam al-Buldan 1/253"
+      ],
+      "quote": [
+        "ومن مياه غني بن أعصر إمّرة، من مناهل حاج البصرة",
+        "إمّرة الحمى لغني وأسد وهي أدنى حمى ضريّة"
+      ],
+      "qid": "N11362490669",
+      "lat": 25.3866,
+      "lon": 43.3527,
+      "precision": "tepat"
+    },
+    {
+      "t": "al-Jathjathah",
+      "ar": "الجثجاثة",
+      "kind": "mata air",
+      "note": "Salah satu mata air Ghani, di sisi Hima Dhariyyah arah selatan, di timur Hima Dhariyyah",
+      "src": [
+        "Mu'jam al-Buldan 2/110"
+      ],
+      "quote": [
+        "ومن مياه غني الجثجاثة، وهي في جانب حمى ضرية"
+      ],
+      "qid": "Q110647975",
+      "lat": 24.7141,
+      "lon": 42.9437,
+      "precision": "perkiraan",
+      "near": "Dhariyyah"
+    },
+    {
+      "t": "Mina (Hima Dhariyyah)",
+      "ar": "منى",
+      "kind": "daerah",
+      "note": "Mina di diyar Ghani, dekat Thikhfah, di Hima Dhariyyah",
+      "src": [
+        "Shifat Jazirat al-'Arab, hlm. 175"
+      ],
+      "quote": [
+        "ومنى منوّن من ديار غني قريب من طخفة وهو حمى ضرية"
+      ],
+      "qid": "Q110647975",
+      "lat": 24.7141,
+      "lon": 42.9437,
+      "precision": "perkiraan",
+      "near": "Dhariyyah"
+    },
+    {
+      "t": "Tsahmad",
+      "ar": "ثهمد",
+      "kind": "gunung",
+      "note": "Gunung merah menyendiri di kawasan Hima, dikelilingi banyak abariq di diyar Ghani",
+      "src": [
+        "Mu'jam al-Buldan 2/89"
+      ],
+      "quote": [
+        "ثهمد جبل أحمر فارد من أخيلة الحمى، حوله أبارق كثيرة في ديار غني"
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "t": "Abatir",
+      "ar": "أباتر",
+      "kind": "lembah",
+      "note": "Lembah-lembah dan bukit-bukit di Najd di diyar Ghani",
+      "src": [
+        "Mu'jam al-Buldan 1/59"
+      ],
+      "quote": [
+        "أودية وهضبات بنجد في ديار غنيّ"
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "t": "Wadi 'Aqil (bagian atas)",
+      "ar": "عاقل",
+      "kind": "lembah",
+      "note": "Lembah di Najd dari Hazir Adhakh; bagian atasnya milik Ghani, bawahnya milik Asad, Dhabbah, dan Aban bin Darim",
+      "src": [
+        "Mu'jam al-Buldan 4/68"
+      ],
+      "quote": [
+        "فأعلاه لغني وأسفله لبني أسد"
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "t": "Arainibah",
+      "ar": "أرينبة",
+      "kind": "mata air",
+      "note": "Mata air milik Ghani bin A'shur",
+      "src": [
+        "Mu'jam al-Buldan 1/167"
+      ],
+      "quote": [
+        "اسم ماء لغني بن أعصر بن سعد بن قيس"
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "t": "Dzu Bihar",
+      "ar": "ذو بحار",
+      "kind": "mata air",
+      "note": "Mata air milik Ghani di timur an-Nir (ada pendapat lain: di Yaman)",
+      "src": [
+        "Mu'jam al-Buldan 1/341"
+      ],
+      "quote": [
+        "ذو بحار ماء لغنيّ في شرقي النّير"
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "t": "al-Kufah (cabang Bahtsah)",
+      "ar": "الكوفة",
+      "kind": "kota",
+      "note": "Bani Bahtsah bin Ghanm dari Ghani berada di al-Jazirah dan al-Kufah",
+      "src": [
+        "Jamharat Ansab al-'Arab, hlm. 247"
+      ],
+      "quote": [
+        "بهثة بن غنم بن عمرو بن أعصر، وهم بالجزيرة والكوفة"
+      ],
+      "qid": "Q186234",
+      "lat": 32.03,
+      "lon": 44.4,
+      "precision": "tepat"
+    }
+  ]
+}

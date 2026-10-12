@@ -1,0 +1,4 @@
+{"id": "fihr", "places": [
+  {"t": "Zhawahir Makkah (Quraisy azh-Zhawahir)", "ar": "ظواهر مكة", "kind": "daerah", "note": "Muharib dan al-Harits, dua putra Fihr, termasuk Quraisy azh-Zhawahir (pinggiran Makkah)", "src": ["Mu'jam ma Ista'jam 1/89"], "quote": ["وقريش الظواهر من ولد فهر: تيم الأدرم بن غالب بن فهر، ومعيص بن عامر بن لؤىّ، ومحارب والحارث ابنا فهر"], "qid": "Q5806", "lat": 21.4225, "lon": 39.8261, "precision": "perkiraan", "near": "Makkah"},
+  {"t": "al-Abthah (Makkah)", "ar": "الأبطح", "kind": "lembah", "note": "Kecuali rombongan Abu 'Ubaidah bin al-Jarrah dan rombongan Sahl dan Suhail putra al-Baidha' (Bani al-Harits bin Fihr) yang masuk ke al-Abthah bersama Qushay", "src": ["Mu'jam ma Ista'jam 1/89"], "quote": ["ورهط سهل وسهيل ابنى البيضاء، وهم بنو هلال بن ضبّة بن الحارث بن فهر، فإنّهم دخلوا مع قصىّ الأبطح"], "qid": "W832381880", "lat": 21.4416, "lon": 39.837, "precision": "tepat"}
+]}

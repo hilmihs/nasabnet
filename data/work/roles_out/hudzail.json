@@ -1,26 +1,110 @@
 {
-  "id": "hudzail",
-  "lokasi": {"t": "Pegunungan Hijaz dekat Makkah dan 'Usfan; ar-Raji' adalah mata air milik Hudzail, dan Bani Lihyan berlindung di puncak-puncak gunung saat diserang",
-    "src": ["Ibnu Sa'd 2/55", "al-Muhabbar, hlm. 114"],
-    "quote": ["وهو ماء لهذيل بصدور الهدة", "فاعتصموا برؤوس الجبال. وهجم على طائفة منهم على ماء لهم"],
-    "status": "rewritten"},
-  "militer": [
-    {"t": "Bani Lihyan dari Hudzail mengepung para utusan dakwah di ar-Raji' (Shafar, 36 bulan setelah hijrah); Hudzail lalu menjual tawanan (Khubaib dan Ibnu ad-Datsinah) kepada Quraisy",
-     "src": ["Ibnu Sa'd 2/55", "Ibnu Sa'd 2/55", "al-Muhabbar, hlm. 479"],
-     "quote": ["إلى الرجيع في صفر على رأس ستة وثلاثين شهرا", "فغدروا بالقوم واستصرخوا عليهم هذيلا، فخرج إليهم بنو لحيان", "فلما صارا في أيديهم غدروا بهما وباعوهما من قريش"],
-     "status": "rewritten"}
+ "id": "hudzail",
+ "lokasi": {
+  "t": "Pegunungan Hijaz dekat Makkah dan 'Usfan; ar-Raji' adalah mata air milik Hudzail, dan Bani Lihyan berlindung di puncak-puncak gunung saat diserang",
+  "src": [
+   "Ibnu Sa'd 2/55",
+   "al-Muhabbar, hlm. 114"
   ],
-  "diplomasi": [],
-  "ekonomi": [],
-  "sosial": [
-    {"t": "Terkenal dengan para penyairnya; Abu Qilabah al-Harits bin Sha'sha'ah disebut penyair Hudzail pertama, juga Abu Kabir al-Hudzali",
-     "src": ["Jamharat Ansab al-'Arab, hlm. 197", "Jamharat Ansab al-'Arab, hlm. 197"],
-     "quote": ["وأول شعراء هذيل، وهو أبو قلابة الحارث بن صعصعة", "من ولده: أبو كبير الهذلى الشاعر"],
-     "status": "rewritten"},
-    {"t": "Abdullah bin Mas'ud, ahli bacaan Al-Qur'an, diutus 'Umar ke Kufah sebagai pengajar dan wazir",
-     "src": ["Ibnu Sa'd 2/342", "Ibnu Sa'd 6/7"],
-     "quote": ["من سره أن يقرأ القرآن غضا كما نزل فليقرأه قراءة بن أم عبد", "بعثت إليكم عمار ابن ياسر أميرا وعبد الله بن مسعود معلما ووزيرا"],
-     "status": "rewritten"}
+  "quote": [
+   "وهو ماء لهذيل بصدور الهدة",
+   "فاعتصموا برؤوس الجبال. وهجم على طائفة منهم على ماء لهم"
   ],
-  "dropped": []
+  "status": "rewritten"
+ },
+ "militer": [
+  {
+   "t": "Bani Lihyan dari Hudzail mengepung para utusan dakwah di ar-Raji' (Shafar, 36 bulan setelah hijrah); Hudzail lalu menjual tawanan (Khubaib dan Ibnu ad-Datsinah) kepada Quraisy",
+   "src": [
+    "Ibnu Sa'd 2/55",
+    "Ibnu Sa'd 2/55",
+    "al-Muhabbar, hlm. 479"
+   ],
+   "quote": [
+    "إلى الرجيع في صفر على رأس ستة وثلاثين شهرا",
+    "فغدروا بالقوم واستصرخوا عليهم هذيلا، فخرج إليهم بنو لحيان",
+    "فلما صارا في أيديهم غدروا بهما وباعوهما من قريش"
+   ],
+   "status": "rewritten"
+  },
+  {
+   "t": "Bani Lihyan dari Hudzail diserang Nabi ﷺ untuk menuntut balas atas peristiwa ar-Raji'; mereka berlindung di puncak-puncak gunung, sebagian diserbu di mata air al-Kadar dan hartanya menjadi ghanimah",
+   "src": [
+    "al-Muhabbar, hlm. 114",
+    "al-Muhabbar, hlm. 114"
+   ],
+   "quote": [
+    "وغزوة بني لحيان من هذيل. خرج صلى الله عليه إليها يوم الثلاثاء غرة جمادى الاولى",
+    "فاعتصموا برؤوس الجبال. وهجم على طائفة منهم على ماء لهم يقال له الكدر"
+   ],
+   "status": "new"
+  }
+ ],
+ "diplomasi": [
+  {
+   "t": "Pada masa jahiliah Bani Hudzail menuntut darah anggotanya yang dibunuh al-Barradh kepada Bani Sahm, sekutunya; setelah Bani Sahm menyatakan berlepas diri darinya, Hudzail tidak lagi menuntut",
+   "src": [
+    "al-Muhabbar, hlm. 195",
+    "al-Muhabbar, hlm. 195"
+   ],
+   "quote": [
+    "فجاء بنو هذيل إلى بني سهم يطلبون بدم صاحبهم",
+    "فسكت الهذليون ولم يروا وجه طلب"
+   ],
+   "status": "new"
+  },
+  {
+   "t": "Darah jahiliah pertama yang dihapus Nabi ﷺ dalam khutbah haji wada' adalah darah Ibnu Rabi'ah bin al-Harits, yang dibunuh Bani Hudzail",
+   "src": [
+    "Tarikh ath-Thabari 3/150"
+   ],
+   "quote": [
+    "وَكَانَ مُسْتَرْضَعًا فِي بَنِي لَيْثٍ، فَقَتَلَتْهُ بَنُو هُذَيْلٍ"
+   ],
+   "status": "new"
+  }
+ ],
+ "ekonomi": [],
+ "sosial": [
+  {
+   "t": "Terkenal dengan para penyairnya; Abu Qilabah al-Harits bin Sha'sha'ah disebut penyair Hudzail pertama, juga Abu Kabir al-Hudzali",
+   "src": [
+    "Jamharat Ansab al-'Arab, hlm. 197",
+    "Jamharat Ansab al-'Arab, hlm. 197"
+   ],
+   "quote": [
+    "وأول شعراء هذيل، وهو أبو قلابة الحارث بن صعصعة",
+    "من ولده: أبو كبير الهذلى الشاعر"
+   ],
+   "status": "rewritten"
+  },
+  {
+   "t": "Hudzail ikut menyembah berhala Suwa' bersama Kinanah dan Muzainah; juru kuncinya Bani Shahilah dari Hudzail",
+   "src": [
+    "al-Muhabbar, hlm. 316"
+   ],
+   "quote": [
+    "تعبده بنو كنانة، وهذيل، ومزينة، وعمرو بن قيس بن عيلان. وكان سدنته بنو صاهلة، من هذيل"
+   ],
+   "status": "new"
+  },
+  {
+   "t": "Dalam ibadah haji jahiliah, Hudzail termasuk kabilah al-Hillah (bukan golongan Hums)",
+   "src": [
+    "al-Muhabbar, hlm. 179",
+    "al-Muhabbar, hlm. 179"
+   ],
+   "quote": [
+    "قبائل الحلة من العرب",
+    "وبكر بن عبد مناة بن كنانة. وهذيل بن مدركة"
+   ],
+   "status": "new"
+  }
+ ],
+ "dropped": [
+  {
+   "t": "Abdullah bin Mas'ud, ahli bacaan Al-Qur'an, diutus 'Umar ke Kufah sebagai pengajar dan wazir",
+   "reason": "already in biography of n3913"
+  }
+ ]
 }
