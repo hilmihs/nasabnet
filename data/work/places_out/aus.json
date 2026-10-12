@@ -10,17 +10,17 @@
    "qid": "Q276569", "lat": 24.4392, "lon": 39.6172, "precision": "tepat"},
   {"t": "Harrah Bani Haritsah", "ar": "حرة بني حارثة", "kind": "daerah", "note": "Lahar batu di Madinah, tempat harta (kebun) Bani Haritsah; dilalui Nabi ﷺ menuju Uhud",
    "src": ["Mu'jam ma Ista'jam 1/118"], "quote": ["فنفذ به فى حرة بنى حارثة وبين أموالهم"],
-   "qid": "Q35484", "lat": 24.47, "lon": 39.61, "precision": "perkiraan", "near": "Madinah"},
+   "qid": "Q19728965", "lat": 24.4919, "lon": 39.6097, "precision": "perkiraan", "near": "Masjid Bani Haritsah"},
   {"t": "Mirba'", "ar": "مربع", "kind": "desa", "note": "Kebun di Madinah di wilayah Bani Haritsah, dahulu ada uthum di sana",
    "src": ["Mu'jam al-Buldan 5/99"], "quote": ["مال مربع: بالمدينة في بني حارثة وكان به أطم"],
-   "qid": "Q35484", "lat": 24.47, "lon": 39.61, "precision": "perkiraan", "near": "Madinah"},
+   "qid": "Q19728965", "lat": 24.4919, "lon": 39.6097, "precision": "perkiraan", "near": "Masjid Bani Haritsah"},
   {"t": "al-Jadr", "ar": "الجدر", "kind": "desa", "note": "Tempat di Madinah, permukiman Bani Zhafar",
    "src": ["Mu'jam ma Ista'jam 2/371"], "quote": ["موضع بالمدينة، وهى منازل بنى ظفر"],
-   "qid": "Q35484", "lat": 24.47, "lon": 39.61, "precision": "perkiraan", "near": "Madinah"},
+   "qid": "R19122087", "lat": 24.4611, "lon": 39.6297, "precision": "perkiraan", "near": "Bani Zhafar (distrik Madinah)"},
   {"t": "'Adzq", "ar": "عذق", "kind": "benteng", "note": "Uthum di Madinah milik Bani Umayyah bin Zaid; dahulu bernama as-Sair",
    "src": ["Mu'jam al-Buldan 4/91"], "quote": ["وهو أيضا أطم بالمدينة لبني أمية بن زيد"],
    "qid": "Q35484", "lat": 24.47, "lon": 39.61, "precision": "perkiraan", "near": "Madinah"},
   {"t": "Murayd", "ar": "مريد", "kind": "benteng", "note": "Uthum di Madinah milik Bani Khathmah",
    "src": ["Mu'jam al-Buldan 5/117"], "quote": ["وهو أطم بالمدينة لبني خطمة"],
-   "qid": "Q35484", "lat": 24.47, "lon": 39.61, "precision": "perkiraan", "near": "Madinah"}
+   "qid": "Q16125620", "lat": 24.4534, "lon": 39.6349, "precision": "perkiraan", "near": "Masjid Bani Khathmah"}
 ]}

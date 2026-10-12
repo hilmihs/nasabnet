@@ -9,10 +9,10 @@
     "Ibnu Sa'd 1/71",
     "al-Muhabbar, hlm. 167"
    ],
-   "lat": 21.4225,
-   "lon": 39.8261,
+   "lat": 21.437,
+   "lon": 39.8292,
    "precision": "perkiraan",
-   "near": "Makkah"
+   "near": "Jannat al-Mu'alla (al-Ma'la)"
   },
   {
    "t": "Dar an-Nadwah",
@@ -155,10 +155,9 @@
    "src": [
     "Mu'jam ma Ista'jam 3/992"
    ],
-   "lat": 21.9224,
-   "lon": 39.3536,
-   "precision": "perkiraan",
-   "near": "'Usfan"
+   "lat": 21.9741,
+   "lon": 39.3676,
+   "precision": "tepat"
   }
  ],
  "amir": [
@@ -844,10 +843,10 @@
    "src": [
     "Mu'jam ma Ista'jam 1/118"
    ],
-   "lat": 24.47,
-   "lon": 39.61,
+   "lat": 24.4919,
+   "lon": 39.6097,
    "precision": "perkiraan",
-   "near": "Madinah"
+   "near": "Masjid Bani Haritsah"
   },
   {
    "t": "Mirba'",
@@ -857,10 +856,10 @@
    "src": [
     "Mu'jam al-Buldan 5/99"
    ],
-   "lat": 24.47,
-   "lon": 39.61,
+   "lat": 24.4919,
+   "lon": 39.6097,
    "precision": "perkiraan",
-   "near": "Madinah"
+   "near": "Masjid Bani Haritsah"
   },
   {
    "t": "al-Jadr",
@@ -870,10 +869,10 @@
    "src": [
     "Mu'jam ma Ista'jam 2/371"
    ],
-   "lat": 24.47,
-   "lon": 39.61,
+   "lat": 24.4611,
+   "lon": 39.6297,
    "precision": "perkiraan",
-   "near": "Madinah"
+   "near": "Bani Zhafar (distrik Madinah)"
   },
   {
    "t": "'Adzq",
@@ -896,10 +895,10 @@
    "src": [
     "Mu'jam al-Buldan 5/117"
    ],
-   "lat": 24.47,
-   "lon": 39.61,
+   "lat": 24.4534,
+   "lon": 39.6349,
    "precision": "perkiraan",
-   "near": "Madinah"
+   "near": "Masjid Bani Khathmah"
   }
  ],
  "azd": [
@@ -1543,10 +1542,10 @@
    "src": [
     "Shifat Jazirat al-'Arab, hlm. 175"
    ],
-   "lat": 24.7141,
-   "lon": 42.9437,
+   "lat": 24.8956,
+   "lon": 43.1474,
    "precision": "perkiraan",
-   "near": "Dhariyyah"
+   "near": "Thikhfah"
   },
   {
    "t": "Tsahmad",
@@ -2727,10 +2726,10 @@
    "src": [
     "Mu'jam al-Buldan 3/265"
    ],
-   "lat": 24.47,
-   "lon": 39.61,
+   "lat": 24.4558,
+   "lon": 39.6271,
    "precision": "perkiraan",
-   "near": "al-Madinah"
+   "near": "al-'Awali (Madinah)"
   },
   {
    "t": "Budha'ah (sumur Bani Sa'idah)",
@@ -3427,10 +3426,10 @@
    "src": [
     "Mu'jam al-Buldan 4/125"
    ],
-   "lat": 24.47,
-   "lon": 39.61,
+   "lat": 24.4558,
+   "lon": 39.6271,
    "precision": "perkiraan",
-   "near": "Madinah"
+   "near": "al-'Awali (Madinah)"
   },
   {
    "t": "Bustan al-Ghumair",
@@ -3607,10 +3606,9 @@
     "Futuh al-Buldan, hlm. 37",
     "Mu'jam ma Ista'jam 2/521"
    ],
-   "lat": 25.6986,
-   "lon": 39.2925,
-   "precision": "perkiraan",
-   "near": "Khaibar"
+   "lat": 25.7294,
+   "lon": 39.2715,
+   "precision": "tepat"
   },
   {
    "t": "Radman (Yaman)",
@@ -3738,10 +3736,9 @@
    "src": [
     "Mu'jam al-Buldan 5/324"
    ],
-   "lat": 30.515,
-   "lon": 47.81,
-   "precision": "perkiraan",
-   "near": "Bashrah"
+   "lat": 30.5599,
+   "lon": 47.7839,
+   "precision": "tepat"
   }
  ],
  "naufal": [
@@ -4677,10 +4674,10 @@
    "src": [
     "Mu'jam al-Buldan 4/492"
    ],
-   "lat": 32.03,
-   "lon": 44.4,
+   "lat": 32.0277,
+   "lon": 44.4018,
    "precision": "perkiraan",
-   "near": "Kufah"
+   "near": "Dar al-Imarah (Kufah)"
   },
   {
    "t": "Nahr Azza (Bashrah)",
@@ -4730,10 +4727,10 @@
    "src": [
     "Sirah Ibnu Hisyam 1/148"
    ],
-   "lat": 21.4225,
-   "lon": 39.8261,
+   "lat": 21.437,
+   "lon": 39.8292,
    "precision": "perkiraan",
-   "near": "Makkah"
+   "near": "Jannat al-Ma'la (Makkah bagian atas)"
   },
   {
    "t": "Sumur al-Hafr",
@@ -4779,11 +4776,7 @@
    "note": "Kawasan di Ghuthah Damaskus berisi beberapa desa; dihuni para bangsawan Bani Umayyah",
    "src": [
     "Mu'jam al-Buldan 2/243"
-   ],
-   "lat": 33.5,
-   "lon": 36.4208,
-   "precision": "perkiraan",
-   "near": "Ghouta"
+   ]
   },
   {
    "t": "al-Jami' (Ghuthah)",
@@ -4792,11 +4785,7 @@
    "note": "Desa di Ghuthah yang dihuni sekelompok Bani Umayyah, antara lain al-Walid bin Tammam",
    "src": [
     "Mu'jam al-Buldan 2/96"
-   ],
-   "lat": 33.5,
-   "lon": 36.4208,
-   "precision": "perkiraan",
-   "near": "Ghouta"
+   ]
   },
   {
    "t": "Dair Sim'an",

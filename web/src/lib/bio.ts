@@ -66,6 +66,8 @@ export const ROLE_LABEL: Record<RoleKey, string> = {
 export interface BioData {
   persons: Record<string, PersonBio>
   tribes: Record<string, TribeProfile>
+  /** historical landmarks of Makkah/Madinah for the map's "Zaman Nabi" view (data/landmarks.json) */
+  landmarks?: Record<string, Place[]>
 }
 
 let cache: Promise<BioData> | null = null

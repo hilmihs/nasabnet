@@ -11,7 +11,7 @@ import check_roles  # noqa: E402
 import geo  # noqa: E402
 
 OUT = Path(__file__).resolve().parent.parent / "data" / "work" / "places_out"
-KINDS = {"kota", "desa", "lembah", "gunung", "mata air", "daerah", "distrik", "benteng", "pasar"}
+KINDS = {"kota", "desa", "lembah", "gunung", "mata air", "sumur", "masjid", "harrah", "daerah", "distrik", "benteng", "pasar", "rumah"}
 
 
 def check(tid):

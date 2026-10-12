@@ -1,0 +1,850 @@
+{
+ "madinah": [
+  {
+   "t": "Masjid Nabawi",
+   "ar": "مسجد رسول الله ﷺ",
+   "kind": "masjid",
+   "note": "Unta Nabi ﷺ menderum di mirbad (tempat jemur kurma) milik Sahl dan Suhail, dua yatim Bani Malik bin an-Najjar; lalu dijadikan masjid",
+   "src": [
+    "Sirah Ibnu Hisyam 1/495",
+    "Sirah Ibnu Hisyam 1/496"
+   ],
+   "lat": 24.4683,
+   "lon": 39.6108,
+   "precision": "tepat"
+  },
+  {
+   "t": "Quba'",
+   "ar": "قباء",
+   "kind": "desa",
+   "note": "Asalnya nama sumur; desa permukiman Bani 'Amr bin 'Auf dari Anshar",
+   "src": [
+    "Mu'jam al-Buldan 4/301"
+   ],
+   "lat": 24.4418,
+   "lon": 39.6176,
+   "precision": "tepat"
+  },
+  {
+   "t": "Masjid Quba' (Masjid at-Taqwa)",
+   "ar": "مسجد قباء",
+   "kind": "masjid",
+   "note": "Nabi ﷺ singgah di Quba' pada Bani 'Amr bin 'Auf Senin–Kamis saat hijrah dan mendirikan masjidnya; beliau sendiri meletakkan batu pertama",
+   "src": [
+    "Mu'jam al-Buldan 5/124"
+   ],
+   "lat": 24.4394,
+   "lon": 39.6175,
+   "precision": "tepat"
+  },
+  {
+   "t": "Masjid al-Jumu'ah (Wadi Ranuna')",
+   "ar": "رانوناء",
+   "kind": "masjid",
+   "note": "Jumat pertama Nabi ﷺ di Madinah, di masjid di perut Wadi Ranuna' di Bani Salim bin 'Auf",
+   "src": [
+    "Mu'jam al-Buldan 3/19"
+   ],
+   "lat": 24.4455,
+   "lon": 39.6152,
+   "precision": "tepat"
+  },
+  {
+   "t": "Masjid al-Qiblatain",
+   "ar": "مسجد القبلتين",
+   "kind": "masjid",
+   "note": "Di Bani Salimah; Nabi ﷺ diperintah menghadap Ka'bah saat shalat Zhuhur, maka masjid itu dinamai Masjid al-Qiblatain (Rajab, bulan ke-17 hijrah)",
+   "src": [
+    "Ibnu Sa'd 1/242"
+   ],
+   "lat": 24.4842,
+   "lon": 39.5789,
+   "precision": "tepat"
+  },
+  {
+   "t": "Masjid Bani Zuraiq",
+   "ar": "مسجد بني زريق",
+   "kind": "masjid",
+   "note": "Masjid pertama di Madinah tempat Al-Qur'an dibacakan",
+   "src": [
+    "Ibnu Sa'd 1/218"
+   ],
+   "lat": 24.4666,
+   "lon": 39.6081,
+   "precision": "tepat"
+  },
+  {
+   "t": "Baqi' al-Gharqad",
+   "ar": "بقيع الغرقد",
+   "kind": "daerah",
+   "note": "Pemakaman penduduk Madinah, di dalam kota",
+   "src": [
+    "Mu'jam al-Buldan 1/473"
+   ],
+   "lat": 24.4667,
+   "lon": 39.6162,
+   "precision": "tepat"
+  },
+  {
+   "t": "Saqifah Bani Sa'idah",
+   "ar": "سقيفة بني ساعدة",
+   "kind": "rumah",
+   "note": "Naungan tempat Bani Sa'idah duduk; di sana Abu Bakar ash-Shiddiq dibaiat",
+   "src": [
+    "Mu'jam al-Buldan 3/228"
+   ],
+   "lat": 24.4702,
+   "lon": 39.6068,
+   "precision": "tepat"
+  },
+  {
+   "t": "Jabal Uhud",
+   "ar": "أحد",
+   "kind": "gunung",
+   "note": "Gunung merah sekitar 1 mil di utara Madinah; tempat Perang Uhud (3 H), gugurnya Hamzah dan 70 Muslim",
+   "src": [
+    "Mu'jam al-Buldan 1/109"
+   ],
+   "lat": 24.5103,
+   "lon": 39.6139,
+   "precision": "tepat"
+  },
+  {
+   "t": "Syi'b Uhud (medan Perang Uhud)",
+   "ar": "الشعب من أحد",
+   "kind": "lembah",
+   "note": "Nabi ﷺ turun di syi'b Uhud di tepi wadi ke arah gunung, menjadikan Uhud di belakang pasukannya",
+   "src": [
+    "Sirah Ibnu Hisyam 2/65"
+   ],
+   "lat": 24.5103,
+   "lon": 39.6139,
+   "precision": "perkiraan",
+   "near": "Jabal Uhud"
+  },
+  {
+   "t": "'Ainain (Jabal ar-Rumat)",
+   "ar": "عينين",
+   "kind": "gunung",
+   "note": "Bukit di Qanah, salah satu bukit Uhud; Nabi ﷺ menempatkan 50 pemanah di atasnya",
+   "src": [
+    "Mu'jam al-Buldan 4/174",
+    "Ibnu Sa'd 2/39"
+   ],
+   "lat": 24.5028,
+   "lon": 39.6117,
+   "precision": "tepat"
+  },
+  {
+   "t": "Jabal 'Air",
+   "ar": "عير",
+   "kind": "gunung",
+   "note": "Dua gunung merah di kanan orang yang berjalan di perut al-'Aqiq menuju Makkah; batas tanah haram Madinah (riwayat 'Air hingga Uhud)",
+   "src": [
+    "Mu'jam al-Buldan 4/172"
+   ],
+   "lat": 24.3736,
+   "lon": 39.5816,
+   "precision": "tepat"
+  },
+  {
+   "t": "Jabal Sal'",
+   "ar": "سلع",
+   "kind": "gunung",
+   "note": "Gunung di pasar Madinah",
+   "src": [
+    "Mu'jam al-Buldan 3/236"
+   ],
+   "lat": 24.475,
+   "lon": 39.5994,
+   "precision": "tepat"
+  },
+  {
+   "t": "Khandaq (parit)",
+   "ar": "الخندق",
+   "kind": "daerah",
+   "note": "Atas saran Salman, Nabi ﷺ berkemah di kaki Sal' dengan Sal' di belakangnya lalu menggali parit di sekeliling Madinah",
+   "src": [
+    "Ibnu Sa'd 2/66"
+   ],
+   "lat": 24.475,
+   "lon": 39.5994,
+   "precision": "perkiraan",
+   "near": "Jabal Sal'"
+  },
+  {
+   "t": "Dzubab",
+   "ar": "ذباب",
+   "kind": "gunung",
+   "note": "Gunung di Madinah, disebut dalam kisah maghazi",
+   "src": [
+    "Mu'jam al-Buldan 3/3"
+   ]
+  },
+  {
+   "t": "Wadi al-'Aqiq",
+   "ar": "العقيق",
+   "kind": "lembah",
+   "note": "Wadi di sisi Madinah yang ada mata air dan kebun kurmanya",
+   "src": [
+    "Mu'jam al-Buldan 4/139"
+   ],
+   "lat": 24.4599,
+   "lon": 39.5767,
+   "precision": "tepat"
+  },
+  {
+   "t": "Wadi Buthan",
+   "ar": "بطحان",
+   "kind": "lembah",
+   "note": "Salah satu dari tiga wadi Madinah (al-'Aqiq, Buthan, Qanah); Bani an-Nadhir bermukim di Buthan",
+   "src": [
+    "Mu'jam al-Buldan 1/446"
+   ],
+   "lat": 24.372,
+   "lon": 39.6528,
+   "precision": "tepat"
+  },
+  {
+   "t": "Wadi Qanah",
+   "ar": "قناة",
+   "kind": "lembah",
+   "note": "Salah satu dari tiga wadi Madinah, ada ladang dan harta; Abu Bakar memberi az-Zubair tanah dari al-Jurf sampai Qanah",
+   "src": [
+    "Mu'jam al-Buldan 4/401"
+   ],
+   "lat": 24.5348,
+   "lon": 39.6809,
+   "precision": "tepat"
+  },
+  {
+   "t": "Mahzur",
+   "ar": "مهزور",
+   "kind": "lembah",
+   "note": "Wadi Bani Quraizhah, mengalir dari harrah; Nabi ﷺ memutuskan pembagian airnya",
+   "src": [
+    "Mu'jam al-Buldan 5/234"
+   ],
+   "lat": 24.4387,
+   "lon": 39.651,
+   "precision": "tepat"
+  },
+  {
+   "t": "Mudzainib",
+   "ar": "مذينب",
+   "kind": "lembah",
+   "note": "Wadi di Madinah yang mengalir hanya dengan air hujan; disebut bersama Mahzur dalam keputusan Nabi ﷺ soal air",
+   "src": [
+    "Mu'jam al-Buldan 5/91"
+   ],
+   "lat": 24.4372,
+   "lon": 39.6729,
+   "precision": "tepat"
+  },
+  {
+   "t": "Harrat Waqim",
+   "ar": "حرة واقم",
+   "kind": "harrah",
+   "note": "Salah satu dari dua harrah Madinah, yaitu yang timur",
+   "src": [
+    "Mu'jam al-Buldan 2/249"
+   ]
+  },
+  {
+   "t": "Harrat al-Wabarah",
+   "ar": "حرة الوبرة",
+   "kind": "harrah",
+   "note": "Harrah 3 mil dari Madinah, disebut dalam hadits Uhban (tanda kenabian)",
+   "src": [
+    "Mu'jam al-Buldan 2/250"
+   ],
+   "lat": 24.459,
+   "lon": 39.5823,
+   "precision": "tepat"
+  },
+  {
+   "t": "Bi'r Rumah",
+   "ar": "بئر رومة",
+   "kind": "sumur",
+   "note": "Sumur di 'Aqiq Madinah, milik orang Ghifar/Muzani; dibeli 'Utsman lalu disedekahkan untuk kaum Muslimin",
+   "src": [
+    "Mu'jam al-Buldan 1/299"
+   ],
+   "lat": 24.4929,
+   "lon": 39.5775,
+   "precision": "tepat"
+  },
+  {
+   "t": "Bi'r Budha'ah",
+   "ar": "بضاعة",
+   "kind": "sumur",
+   "note": "Di perkampungan Bani Sa'idah; Nabi ﷺ berfatwa di sana bahwa air itu suci selama tidak berubah",
+   "src": [
+    "Mu'jam al-Buldan 1/442"
+   ],
+   "lat": 24.4724,
+   "lon": 39.608,
+   "precision": "tepat"
+  },
+  {
+   "t": "Bi'r Aris",
+   "ar": "بئر أريس",
+   "kind": "sumur",
+   "note": "Sumur di Quba' berhadapan dengan masjidnya; di dalamnya cincin Nabi ﷺ jatuh dari tangan 'Utsman",
+   "src": [
+    "Mu'jam al-Buldan 1/298"
+   ],
+   "lat": 24.439,
+   "lon": 39.6167,
+   "precision": "tepat"
+  },
+  {
+   "t": "Bairuha' (Bi'r Ha')",
+   "ar": "بيرحاء",
+   "kind": "sumur",
+   "note": "Tanah (kebun) Abu Thalhah di Madinah dekat masjid, dikenal dengan Qashr Bani Judailah",
+   "src": [
+    "Mu'jam al-Buldan 1/299"
+   ],
+   "lat": 24.4703,
+   "lon": 39.6108,
+   "precision": "tepat"
+  },
+  {
+   "t": "Bi'r Ghars",
+   "ar": "بئر غرس",
+   "kind": "sumur",
+   "note": "Sumur di Quba' yang airnya disukai Nabi ﷺ; beliau berwasiat dimandikan dengan airnya",
+   "src": [
+    "Mu'jam al-Buldan 4/193"
+   ],
+   "lat": 24.4451,
+   "lon": 39.6273,
+   "precision": "tepat"
+  },
+  {
+   "t": "Tsaniyyat al-Wada'",
+   "ar": "ثنية الوداع",
+   "kind": "daerah",
+   "note": "Celah bukit yang menghadap Madinah, dilalui orang yang menuju Makkah; nama Jahiliah untuk tempat melepas musafir",
+   "src": [
+    "Mu'jam al-Buldan 2/86"
+   ]
+  },
+  {
+   "t": "al-Hafya'",
+   "ar": "الحفياء",
+   "kind": "daerah",
+   "note": "Tempat dekat Madinah, titik start pacuan kuda Nabi ﷺ hingga Tsaniyyat al-Wada' (6 mil)",
+   "src": [
+    "Mu'jam ma Ista'jam 2/458"
+   ],
+   "lat": 24.5315,
+   "lon": 39.5137,
+   "precision": "tepat"
+  },
+  {
+   "t": "al-Jurf",
+   "ar": "الجرف",
+   "kind": "daerah",
+   "note": "Tempat 3 mil dari Madinah ke arah Syam; harta 'Umar bin al-Khaththab dan penduduk Madinah",
+   "src": [
+    "Mu'jam al-Buldan 2/128"
+   ]
+  },
+  {
+   "t": "Majma' al-Asyal (Rumah–Zaghabah)",
+   "ar": "زغابة",
+   "kind": "daerah",
+   "note": "Quraisy dan Ahabisy (10.000) berkemah di pertemuan aliran banjir dekat Rumah, antara al-Jurf dan Zaghabah, saat Khandaq",
+   "src": [
+    "Mu'jam al-Buldan 3/141"
+   ]
+  },
+  {
+   "t": "as-Sunh",
+   "ar": "السنح",
+   "kind": "daerah",
+   "note": "Permukiman Bani al-Harits bin al-Khazraj, 1 mil dari rumah Nabi ﷺ; Abu Bakar tinggal di sana",
+   "src": [
+    "Mu'jam ma Ista'jam 3/760"
+   ],
+   "lat": 24.4558,
+   "lon": 39.6271,
+   "precision": "perkiraan",
+   "near": "al-'Awali (Madinah)"
+  },
+  {
+   "t": "Khazbi (Dar Bani Salimah)",
+   "ar": "خزبى",
+   "kind": "daerah",
+   "note": "Di depan Masjid al-Qiblatain sampai al-Madzad di kaki harrah; perkampungan Bani Salimah, dinamai Nabi ﷺ \"Shalihah\"",
+   "src": [
+    "Mu'jam ma Ista'jam 2/498"
+   ],
+   "lat": 24.4842,
+   "lon": 39.5789,
+   "precision": "perkiraan",
+   "near": "Masjid al-Qiblatain"
+  },
+  {
+   "t": "Pasar Bani Qainuqa'",
+   "ar": "سوق بني قينقاع",
+   "kind": "pasar",
+   "note": "Pasar di Madinah yang dinisbatkan kepada Bani Qainuqa', kabilah Yahudi Madinah",
+   "src": [
+    "Mu'jam al-Buldan 4/424"
+   ]
+  },
+  {
+   "t": "al-Buwairah",
+   "ar": "البويرة",
+   "kind": "daerah",
+   "note": "Permukiman Bani an-Nadhir; kebun kurmanya dibakar Nabi ﷺ enam bulan setelah Uhud",
+   "src": [
+    "Mu'jam al-Buldan 1/512"
+   ]
+  }
+ ],
+ "makkah": [
+  {
+   "t": "al-Masjid al-Haram (Ka'bah)",
+   "ar": "المسجد الحرام",
+   "kind": "masjid",
+   "note": "Masjid di sekeliling Ka'bah; pada masa Nabi ﷺ dan Abu Bakar belum berpagar, rumah-rumah menempel ke Ka'bah sampai 'Umar membeli dan merobohkannya",
+   "src": [
+    "Mu'jam al-Buldan 5/124"
+   ],
+   "lat": 21.4225,
+   "lon": 39.8261,
+   "precision": "tepat"
+  },
+  {
+   "t": "Sumur Zamzam",
+   "ar": "زمزم",
+   "kind": "sumur",
+   "note": "Sumur yang diberkahi lagi masyhur di Masjidil Haram",
+   "src": [
+    "Mu'jam al-Buldan 3/147"
+   ],
+   "lat": 21.4226,
+   "lon": 39.8265,
+   "precision": "tepat"
+  },
+  {
+   "t": "Jabal Abu Qubais",
+   "ar": "أبو قبيس",
+   "kind": "gunung",
+   "note": "Gunung yang menjulang di atas Makkah, di sisi timur; berhadapan dengan Qu'aiqi'an, Makkah di antara keduanya",
+   "src": [
+    "Mu'jam al-Buldan 1/80"
+   ],
+   "lat": 21.4222,
+   "lon": 39.8297,
+   "precision": "tepat"
+  },
+  {
+   "t": "Jabal Qu'aiqi'an",
+   "ar": "قعيقعان",
+   "kind": "gunung",
+   "note": "Gunung di Makkah, di sisi baratnya, berhadapan dengan Abu Qubais",
+   "src": [
+    "Mu'jam al-Buldan 4/379",
+    "Mu'jam al-Buldan 1/80"
+   ]
+  },
+  {
+   "t": "Jabal Hira' (Gua Hira')",
+   "ar": "حراء",
+   "kind": "gunung",
+   "note": "Gunung 3 mil dari Makkah; sebelum wahyu Nabi ﷺ beribadah di sebuah gua di gunung ini, di situ Jibril datang kepadanya",
+   "src": [
+    "Mu'jam al-Buldan 2/233"
+   ],
+   "lat": 21.4581,
+   "lon": 39.8614,
+   "precision": "tepat"
+  },
+  {
+   "t": "Jabal Tsaur (Gua Tsaur)",
+   "ar": "ثور",
+   "kind": "gunung",
+   "note": "Gunung di Makkah tempat gua persembunyian Nabi ﷺ (saat hijrah); di belakang Makkah, di jalan ke Yaman",
+   "src": [
+    "Mu'jam al-Buldan 2/86"
+   ],
+   "lat": 21.3833,
+   "lon": 39.85,
+   "precision": "tepat"
+  },
+  {
+   "t": "Jabal Tsabir",
+   "ar": "ثبير",
+   "kind": "gunung",
+   "note": "Salah satu gunung terbesar Makkah, antara Makkah dan 'Arafah; di sisinya Muzdalifah. Jahiliah: \"Asyriq Tsabir\" saat ifadhah",
+   "src": [
+    "Mu'jam al-Buldan 2/73"
+   ],
+   "lat": 21.4035,
+   "lon": 39.9296,
+   "precision": "tepat"
+  },
+  {
+   "t": "Jabal al-Khandamah",
+   "ar": "الخندمة",
+   "kind": "gunung",
+   "note": "Gunung di Makkah; saat Fathu Makkah Shafwan bin Umayyah, 'Ikrimah dan Suhail bin 'Amr menghimpun pasukan di sana",
+   "src": [
+    "Mu'jam al-Buldan 2/392"
+   ],
+   "lat": 21.4019,
+   "lon": 39.8397,
+   "precision": "tepat"
+  },
+  {
+   "t": "Bukit ash-Shafa",
+   "ar": "الصفا",
+   "kind": "gunung",
+   "note": "Tempat tinggi dari kaki Abu Qubais; antara ia dan Masjidil Haram selebar wadi yang menjadi jalan dan pasar",
+   "src": [
+    "Mu'jam al-Buldan 3/411"
+   ],
+   "lat": 21.4218,
+   "lon": 39.8274,
+   "precision": "tepat"
+  },
+  {
+   "t": "Bukit al-Marwah",
+   "ar": "المروة",
+   "kind": "gunung",
+   "note": "Bukit kecil di Makkah di seberang ash-Shafa, di sisi Makkah yang menghadap Qu'aiqi'an",
+   "src": [
+    "Mu'jam al-Buldan 5/116"
+   ],
+   "lat": 21.4252,
+   "lon": 39.8271,
+   "precision": "tepat"
+  },
+  {
+   "t": "Tsaniyyah Kada' (Makkah atas)",
+   "ar": "كداء",
+   "kind": "daerah",
+   "note": "Celah di Makkah atas dekat al-Muhashshab; Nabi ﷺ bermalam di Dzu Thuwa lalu masuk Makkah dari atas",
+   "src": [
+    "Mu'jam al-Buldan 4/439"
+   ],
+   "lat": 21.4416,
+   "lon": 39.837,
+   "precision": "perkiraan",
+   "near": "al-Abthah / al-Muhashshab (al-Ma'abidah)"
+  },
+  {
+   "t": "Tsaniyyah Kuda (Makkah bawah)",
+   "ar": "كدى",
+   "kind": "daerah",
+   "note": "Celah di Makkah bawah dekat Dzu Thuwa; Nabi ﷺ keluar dari Makkah bawah lalu kembali ke al-Muhashshab (beda dengan Kudai di jalan Yaman)",
+   "src": [
+    "Mu'jam al-Buldan 4/439"
+   ]
+  },
+  {
+   "t": "al-Hajun",
+   "ar": "الحجون",
+   "kind": "gunung",
+   "note": "Gunung di Makkah atas, di dekatnya pemakaman penduduk Makkah",
+   "src": [
+    "Mu'jam al-Buldan 2/225"
+   ],
+   "lat": 21.437,
+   "lon": 39.8292,
+   "precision": "perkiraan",
+   "near": "Pemakaman al-Ma'la"
+  },
+  {
+   "t": "Ajyad",
+   "ar": "أجياد",
+   "kind": "distrik",
+   "note": "Tempat di Makkah di sisi ash-Shafa; Qushay memberikannya kepada Bani Makhzum",
+   "src": [
+    "Mu'jam al-Buldan 1/105",
+    "Mu'jam ma Ista'jam 1/258"
+   ],
+   "lat": 21.4194,
+   "lon": 39.8306,
+   "precision": "tepat"
+  },
+  {
+   "t": "al-Abthah / al-Muhashshab (Bathha' Makkah)",
+   "ar": "المحصب",
+   "kind": "lembah",
+   "note": "Bathha' Makkah, Khaif Bani Kinanah, antara Makkah dan Mina (lebih dekat ke Mina), dari al-Hajun ke arah Mina",
+   "src": [
+    "Mu'jam al-Buldan 5/62",
+    "Mu'jam al-Buldan 1/74"
+   ],
+   "lat": 21.4416,
+   "lon": 39.837,
+   "precision": "perkiraan",
+   "near": "Jalan al-Abthah (al-Ma'abidah)"
+  },
+  {
+   "t": "Dzu Thuwa",
+   "ar": "ذو طوى",
+   "kind": "lembah",
+   "note": "Wadi di Makkah; saat Fathu Makkah Nabi ﷺ berhenti di atas untanya di Dzu Thuwa",
+   "src": [
+    "Mu'jam ma Ista'jam 3/896"
+   ]
+  },
+  {
+   "t": "al-Hazwarah (pasar Makkah)",
+   "ar": "الحزورة",
+   "kind": "pasar",
+   "note": "Pasar Makkah, kini masuk perluasan masjid; di sini Nabi ﷺ berkata: \"wahai Bathha' Makkah, betapa baiknya engkau\"",
+   "src": [
+    "Mu'jam al-Buldan 2/255"
+   ],
+   "lat": 21.4225,
+   "lon": 39.8261,
+   "precision": "perkiraan",
+   "near": "Masjidil Haram"
+  },
+  {
+   "t": "Dar al-Arqam",
+   "ar": "دار الأرقم",
+   "kind": "rumah",
+   "note": "Rumah al-Arqam di atas ash-Shafa; tempat Nabi ﷺ berdakwah secara sembunyi di awal Islam, banyak yang masuk Islam di sana",
+   "src": [
+    "Ibnu Sa'd 3/242",
+    "Sirah Ibnu Hisyam 1/253"
+   ],
+   "lat": 21.4218,
+   "lon": 39.8274,
+   "precision": "perkiraan",
+   "near": "ash-Shafa"
+  },
+  {
+   "t": "Dar an-Nadwah",
+   "ar": "دار الندوة",
+   "kind": "rumah",
+   "note": "Balai musyawarah Quraisy yang dibangun Qushay; kini bagian dari Masjidil Haram",
+   "src": [
+    "Mu'jam al-Buldan 2/423",
+    "Mu'jam al-Buldan 5/279"
+   ],
+   "lat": 21.4225,
+   "lon": 39.8261,
+   "precision": "perkiraan",
+   "near": "Masjidil Haram"
+  },
+  {
+   "t": "Syi'b Abi Thalib",
+   "ar": "شعب أبي طالب",
+   "kind": "lembah",
+   "note": "Lembah tempat Bani Hasyim (dan Bani al-Muththalib) diboikot sejak Muharram tahun ke-7 kenabian; Isra' bermula dari sini",
+   "src": [
+    "Ibnu Sa'd 1/209",
+    "Ibnu Sa'd 1/214"
+   ]
+  },
+  {
+   "t": "Sumur Bidzar",
+   "ar": "بذر",
+   "kind": "sumur",
+   "note": "Sumur galian Hasyim bin 'Abdi Manaf di ujung Jabal al-Khandamah, di mulut Syi'b Abi Thalib",
+   "src": [
+    "Mu'jam al-Buldan 1/361"
+   ]
+  },
+  {
+   "t": "Sumur Maimun",
+   "ar": "بئر ميمون",
+   "kind": "sumur",
+   "note": "Sumur di Makkah atas, digali Maimun al-Hadhrami (saudara al-'Ala') pada masa jahiliah",
+   "src": [
+    "Mu'jam al-Buldan 1/302"
+   ]
+  },
+  {
+   "t": "Adzakhir",
+   "ar": "أذاخر",
+   "kind": "daerah",
+   "note": "Saat Fathu Makkah Nabi ﷺ masuk dari Adzakhir lalu singgah di Makkah atas, kemahnya dipasang di sana",
+   "src": [
+    "Mu'jam al-Buldan 1/127"
+   ],
+   "lat": 21.4505,
+   "lon": 39.8357,
+   "precision": "tepat"
+  },
+  {
+   "t": "al-Masfalah",
+   "ar": "المسفلة",
+   "kind": "distrik",
+   "note": "Bagian Makkah bawah; saat Qushay membagi Makkah, Bani Jumah mendapat al-Masfalah",
+   "src": [
+    "Mu'jam ma Ista'jam 1/258"
+   ],
+   "lat": 21.405,
+   "lon": 39.8223,
+   "precision": "tepat"
+  },
+  {
+   "t": "Mina",
+   "ar": "منى",
+   "kind": "lembah",
+   "note": "Wadi di tanah haram tempat jamaah haji singgah dan melontar jumrah; dari turunan al-'Aqabah sampai Muhassir",
+   "src": [
+    "Mu'jam al-Buldan 5/198"
+   ],
+   "lat": 21.4133,
+   "lon": 39.8933,
+   "precision": "tepat"
+  },
+  {
+   "t": "al-'Aqabah (Mina)",
+   "ar": "العقبة",
+   "kind": "daerah",
+   "note": "Tanjakan di ujung Mina arah Makkah, tempat Jumrah 'Aqabah; di syi'b dekatnya 73 lelaki Anshar berbai'at kepada Nabi ﷺ",
+   "src": [
+    "Mu'jam al-Buldan 5/198",
+    "Sirah Ibnu Hisyam 1/441"
+   ],
+   "lat": 21.4247,
+   "lon": 39.8675,
+   "precision": "perkiraan",
+   "near": "Masjid al-Bai'ah (Mina)"
+  },
+  {
+   "t": "Wadi Muhassir",
+   "ar": "محسر",
+   "kind": "lembah",
+   "note": "Wadi antara Mina dan Muzdalifah; seluruh Muzdalifah tempat wuquf kecuali Wadi Muhassir",
+   "src": [
+    "Mu'jam al-Buldan 5/62",
+    "Mu'jam al-Buldan 1/449"
+   ],
+   "lat": 21.3942,
+   "lon": 39.9063,
+   "precision": "tepat"
+  },
+  {
+   "t": "al-Muzdalifah (Jam')",
+   "ar": "المزدلفة",
+   "kind": "daerah",
+   "note": "Tempat bermalam jamaah haji sepulang dari 'Arafat, antara Bathn Muhassir dan al-Ma'zimain, di sisi Jabal Tsabir",
+   "src": [
+    "Mu'jam al-Buldan 5/121"
+   ],
+   "lat": 21.3925,
+   "lon": 39.9378,
+   "precision": "tepat"
+  },
+  {
+   "t": "'Arafah / 'Arafat",
+   "ar": "عرفات",
+   "kind": "daerah",
+   "note": "Tempat wuquf haji, di tanah halal (luar haram)",
+   "src": [
+    "Mu'jam al-Buldan 4/104",
+    "Mu'jam al-Buldan 5/198"
+   ],
+   "lat": 21.3548,
+   "lon": 39.9839,
+   "precision": "tepat"
+  },
+  {
+   "t": "Namirah",
+   "ar": "نمرة",
+   "kind": "daerah",
+   "note": "Kawasan di 'Arafah tempat Nabi ﷺ singgah",
+   "src": [
+    "Mu'jam al-Buldan 5/304"
+   ],
+   "lat": 21.3528,
+   "lon": 39.9661,
+   "precision": "perkiraan",
+   "near": "Masjid Namirah"
+  },
+  {
+   "t": "Bathn 'Uranah",
+   "ar": "عرنة",
+   "kind": "lembah",
+   "note": "Wadi di hadapan 'Arafat, dasar wadi tempat masjid 'Arafah",
+   "src": [
+    "Mu'jam al-Buldan 4/111",
+    "Mu'jam ma Ista'jam 4/1191"
+   ],
+   "lat": 21.3419,
+   "lon": 39.9461,
+   "precision": "tepat"
+  },
+  {
+   "t": "at-Tan'im",
+   "ar": "التنعيم",
+   "kind": "daerah",
+   "note": "Tempat di tanah halal antara Makkah dan Sarif, 2 farsakh dari Makkah; tempat penduduk Makkah ihram umrah",
+   "src": [
+    "Mu'jam al-Buldan 2/49"
+   ],
+   "lat": 21.4825,
+   "lon": 39.805,
+   "precision": "tepat"
+  },
+  {
+   "t": "al-Ji'ranah",
+   "ar": "الجعرانة",
+   "kind": "mata air",
+   "note": "Mata air antara Thaif dan Makkah; Nabi ﷺ singgah membagi ghanimah Hawazin sepulang dari Hunain dan ihram umrah dari sini",
+   "src": [
+    "Mu'jam al-Buldan 2/142"
+   ],
+   "lat": 21.5604,
+   "lon": 39.9566,
+   "precision": "tepat"
+  },
+  {
+   "t": "Sarif",
+   "ar": "سرف",
+   "kind": "daerah",
+   "note": "Tempat 6 mil dari Makkah; Nabi ﷺ menikahi Maimunah binti al-Harits dan berkumpul dengannya di sana, dan ia wafat di sana",
+   "src": [
+    "Mu'jam al-Buldan 3/212"
+   ]
+  },
+  {
+   "t": "al-Hudaibiyah",
+   "ar": "الحديبية",
+   "kind": "desa",
+   "note": "Desa sedang, dinamai sumur di dekat Masjid asy-Syajarah tempat Bai'at (ar-Ridhwan); semarhalah dari Makkah",
+   "src": [
+    "Mu'jam al-Buldan 2/229"
+   ],
+   "lat": 21.3968,
+   "lon": 39.653,
+   "precision": "tepat"
+  },
+  {
+   "t": "Fakh (Wadi az-Zahir)",
+   "ar": "فخ",
+   "kind": "lembah",
+   "note": "Wadi di Makkah (= Wadi az-Zahir); dirindukan Bilal dalam syairnya di Madinah",
+   "src": [
+    "Mu'jam al-Buldan 4/237"
+   ],
+   "lat": 21.4472,
+   "lon": 39.7952,
+   "precision": "perkiraan",
+   "near": "az-Zahir (Makkah)"
+  },
+  {
+   "t": "Marr azh-Zhahran",
+   "ar": "مر الظهران",
+   "kind": "lembah",
+   "note": "Tempat semarhalah dari Makkah, disebut dalam hadits",
+   "src": [
+    "Mu'jam al-Buldan 5/104"
+   ]
+  }
+ ]
+}

@@ -158,3 +158,48 @@ body {
 .nm-tribe:hover {
   background: var(--color-krem-50);
 }
+.nm-tribes {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px 6px;
+}
+.nm-approx {
+  margin: 0 0 8px;
+  padding: 6px 8px;
+  border-radius: 8px;
+  background: var(--color-emas-100);
+  font-size: 12px;
+}
+.nm-area-label {
+  background: rgba(252, 250, 244, 0.92);
+  border: 1px dashed var(--color-hijau-700);
+  color: var(--color-hijau-900);
+  font-size: 11px;
+  font-weight: 600;
+  box-shadow: none;
+}
+/* "Zaman Nabi" view: bare terrain, warm tint */
+.nm-era {
+  filter: sepia(0.55) saturate(0.85) brightness(1.04) contrast(0.95);
+}
+.nm-mark {
+  display: block;
+  width: 12px;
+  height: 12px;
+  transform: rotate(45deg);
+  background: var(--color-emas-400);
+  border: 2px solid var(--color-hijau-900);
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.4);
+}
+.nm-mark-approx {
+  background: rgba(252, 250, 244, 0.9);
+  border-style: dashed;
+}
+.nm-mark-label {
+  background: rgba(252, 250, 244, 0.9);
+  border: 0;
+  color: var(--color-hijau-900);
+  font-size: 11px;
+  font-weight: 700;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.25);
+}

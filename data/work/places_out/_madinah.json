@@ -1,0 +1,578 @@
+{
+ "id": "_madinah",
+ "places": [
+  {
+   "t": "Masjid Nabawi",
+   "ar": "مسجد رسول الله ﷺ",
+   "kind": "masjid",
+   "note": "Unta Nabi ﷺ menderum di mirbad (tempat jemur kurma) milik Sahl dan Suhail, dua yatim Bani Malik bin an-Najjar; lalu dijadikan masjid",
+   "src": [
+    "Sirah Ibnu Hisyam 1/495",
+    "Sirah Ibnu Hisyam 1/496"
+   ],
+   "quote": [
+    "حتى إذا أتت دار بني مالك بن النجار، بركت على باب مسجده ﷺ، وهو يومئذ مربد",
+    "وهما يتيمان لي، وسأرضيهما منه، فاتخذه مسجدا"
+   ],
+   "qid": "Q486080",
+   "lat": 24.4683,
+   "lon": 39.6108,
+   "precision": "tepat"
+  },
+  {
+   "t": "Quba'",
+   "ar": "قباء",
+   "kind": "desa",
+   "note": "Asalnya nama sumur; desa permukiman Bani 'Amr bin 'Auf dari Anshar",
+   "src": [
+    "Mu'jam al-Buldan 4/301"
+   ],
+   "quote": [
+    "وأصله اسم بئر هناك عرفت القرية بها وهي مساكن بني عمرو بن عوف من الأنصار"
+   ],
+   "qid": "N4020672295",
+   "lat": 24.4418,
+   "lon": 39.6176,
+   "precision": "tepat"
+  },
+  {
+   "t": "Masjid Quba' (Masjid at-Taqwa)",
+   "ar": "مسجد قباء",
+   "kind": "masjid",
+   "note": "Nabi ﷺ singgah di Quba' pada Bani 'Amr bin 'Auf Senin–Kamis saat hijrah dan mendirikan masjidnya; beliau sendiri meletakkan batu pertama",
+   "src": [
+    "Mu'jam al-Buldan 5/124"
+   ],
+   "quote": [
+    "نزل بقباء على بني عمرو بن عوف فأقام فيهم يوم الاثنين ويوم الثلاثاء ويوم الأربعاء ويوم الخميس وأسس مسجده"
+   ],
+   "qid": "R18051738",
+   "lat": 24.4394,
+   "lon": 39.6175,
+   "precision": "tepat"
+  },
+  {
+   "t": "Masjid al-Jumu'ah (Wadi Ranuna')",
+   "ar": "رانوناء",
+   "kind": "masjid",
+   "note": "Jumat pertama Nabi ﷺ di Madinah, di masjid di perut Wadi Ranuna' di Bani Salim bin 'Auf",
+   "src": [
+    "Mu'jam al-Buldan 3/19"
+   ],
+   "quote": [
+    "فأدركت رسول الله، ﷺ، الجمعة في بني سالم بن عوف وصلاها في المسجد الذي في بطن الوادي وادي رانوناء"
+   ],
+   "qid": "Q14921963",
+   "lat": 24.4455,
+   "lon": 39.6152,
+   "precision": "tepat"
+  },
+  {
+   "t": "Masjid al-Qiblatain",
+   "ar": "مسجد القبلتين",
+   "kind": "masjid",
+   "note": "Di Bani Salimah; Nabi ﷺ diperintah menghadap Ka'bah saat shalat Zhuhur, maka masjid itu dinamai Masjid al-Qiblatain (Rajab, bulan ke-17 hijrah)",
+   "src": [
+    "Ibnu Sa'd 1/242"
+   ],
+   "quote": [
+    "ثم أمر أن يوجه إلى الكعبة فاستدار إلى الكعبة واستقبل الميزاب، فسمي المسجد مسجد القبلتين"
+   ],
+   "qid": "W66510098",
+   "lat": 24.4842,
+   "lon": 39.5789,
+   "precision": "tepat"
+  },
+  {
+   "t": "Masjid Bani Zuraiq",
+   "ar": "مسجد بني زريق",
+   "kind": "masjid",
+   "note": "Masjid pertama di Madinah tempat Al-Qur'an dibacakan",
+   "src": [
+    "Ibnu Sa'd 1/218"
+   ],
+   "quote": [
+    "فأول مسجد قرئ فيه القرآن بالمدينة مسجد بني زريق"
+   ],
+   "qid": "Q20425069",
+   "lat": 24.4666,
+   "lon": 39.6081,
+   "precision": "tepat"
+  },
+  {
+   "t": "Baqi' al-Gharqad",
+   "ar": "بقيع الغرقد",
+   "kind": "daerah",
+   "note": "Pemakaman penduduk Madinah, di dalam kota",
+   "src": [
+    "Mu'jam al-Buldan 1/473"
+   ],
+   "quote": [
+    "وهو مقبرة أهل المدينة، وهي داخل المدينة"
+   ],
+   "qid": "W65541621",
+   "lat": 24.4667,
+   "lon": 39.6162,
+   "precision": "tepat"
+  },
+  {
+   "t": "Saqifah Bani Sa'idah",
+   "ar": "سقيفة بني ساعدة",
+   "kind": "rumah",
+   "note": "Naungan tempat Bani Sa'idah duduk; di sana Abu Bakar ash-Shiddiq dibaiat",
+   "src": [
+    "Mu'jam al-Buldan 3/228"
+   ],
+   "quote": [
+    "سقيفة بني ساعدة: بالمدينة، وهي ظلة كانوا يجلسون تحتها، فيها بويع أبو بكر الصديق"
+   ],
+   "qid": "Q4164559",
+   "lat": 24.4702,
+   "lon": 39.6068,
+   "precision": "tepat"
+  },
+  {
+   "t": "Jabal Uhud",
+   "ar": "أحد",
+   "kind": "gunung",
+   "note": "Gunung merah sekitar 1 mil di utara Madinah; tempat Perang Uhud (3 H), gugurnya Hamzah dan 70 Muslim",
+   "src": [
+    "Mu'jam al-Buldan 1/109"
+   ],
+   "quote": [
+    "وهو جبل أحمر، ليس بذي شناخيب، وبينه وبين المدينة قرابة ميل في شماليها"
+   ],
+   "qid": "Q1436040",
+   "lat": 24.5103,
+   "lon": 39.6139,
+   "precision": "tepat"
+  },
+  {
+   "t": "Syi'b Uhud (medan Perang Uhud)",
+   "ar": "الشعب من أحد",
+   "kind": "lembah",
+   "note": "Nabi ﷺ turun di syi'b Uhud di tepi wadi ke arah gunung, menjadikan Uhud di belakang pasukannya",
+   "src": [
+    "Sirah Ibnu Hisyam 2/65"
+   ],
+   "quote": [
+    "حتى نزل الشعب من أحد، في عدوة الوادي إلى الجبل، فجعل ظهره وعسكره إلى أحد"
+   ],
+   "qid": "Q1436040",
+   "lat": 24.5103,
+   "lon": 39.6139,
+   "precision": "perkiraan",
+   "near": "Jabal Uhud"
+  },
+  {
+   "t": "'Ainain (Jabal ar-Rumat)",
+   "ar": "عينين",
+   "kind": "gunung",
+   "note": "Bukit di Qanah, salah satu bukit Uhud; Nabi ﷺ menempatkan 50 pemanah di atasnya",
+   "src": [
+    "Mu'jam al-Buldan 4/174",
+    "Ibnu Sa'd 2/39"
+   ],
+   "quote": [
+    "وقيل: عينين جبل من جبال أحد بينهما واد",
+    "وجعل عينين جبلا بقناة عن يساره وجعل عليه خمسين من الرماة"
+   ],
+   "qid": "Q12204742",
+   "lat": 24.5028,
+   "lon": 39.6117,
+   "precision": "tepat"
+  },
+  {
+   "t": "Jabal 'Air",
+   "ar": "عير",
+   "kind": "gunung",
+   "note": "Dua gunung merah di kanan orang yang berjalan di perut al-'Aqiq menuju Makkah; batas tanah haram Madinah (riwayat 'Air hingga Uhud)",
+   "src": [
+    "Mu'jam al-Buldan 4/172",
+    "Mu'jam al-Buldan 4/172"
+   ],
+   "quote": [
+    "عير جبلان أحمران من عن يمينك وأنت ببطن العقيق تريد مكة",
+    "حرم ما بين عير إلى أحد، وهما بالمدينة"
+   ],
+   "qid": "N1236691857",
+   "lat": 24.3736,
+   "lon": 39.5816,
+   "precision": "tepat"
+  },
+  {
+   "t": "Jabal Sal'",
+   "ar": "سلع",
+   "kind": "gunung",
+   "note": "Gunung di pasar Madinah",
+   "src": [
+    "Mu'jam al-Buldan 3/236"
+   ],
+   "quote": [
+    "وسلع: جبل بسوق المدينة، قال الأزهري: سلع موضع بقرب المدينة"
+   ],
+   "qid": "Q7447382",
+   "lat": 24.475,
+   "lon": 39.5994,
+   "precision": "tepat"
+  },
+  {
+   "t": "Khandaq (parit)",
+   "ar": "الخندق",
+   "kind": "daerah",
+   "note": "Atas saran Salman, Nabi ﷺ berkemah di kaki Sal' dengan Sal' di belakangnya lalu menggali parit di sekeliling Madinah",
+   "src": [
+    "Ibnu Sa'd 2/66"
+   ],
+   "quote": [
+    "وعسكر بهم رسول الله، ﷺ، إلى سفح سلع وجعل سلعا خلف ظهره"
+   ],
+   "qid": "Q7447382",
+   "lat": 24.475,
+   "lon": 39.5994,
+   "precision": "perkiraan",
+   "near": "Jabal Sal'"
+  },
+  {
+   "t": "Dzubab",
+   "ar": "ذباب",
+   "kind": "gunung",
+   "note": "Gunung di Madinah, disebut dalam kisah maghazi",
+   "src": [
+    "Mu'jam al-Buldan 3/3"
+   ],
+   "quote": [
+    "وقال: جبل بالمدينة له ذكر في المغازي والأخبار"
+   ],
+   "qid": null,
+   "lat": null,
+   "lon": null
+  },
+  {
+   "t": "Wadi al-'Aqiq",
+   "ar": "العقيق",
+   "kind": "lembah",
+   "note": "Wadi di sisi Madinah yang ada mata air dan kebun kurmanya",
+   "src": [
+    "Mu'jam al-Buldan 4/139"
+   ],
+   "quote": [
+    "ومنها عقيق بناحية المدينة وفيه عيون ونخل"
+   ],
+   "qid": "W1235902746",
+   "lat": 24.4599,
+   "lon": 39.5767,
+   "precision": "tepat"
+  },
+  {
+   "t": "Wadi Buthan",
+   "ar": "بطحان",
+   "kind": "lembah",
+   "note": "Salah satu dari tiga wadi Madinah (al-'Aqiq, Buthan, Qanah); Bani an-Nadhir bermukim di Buthan",
+   "src": [
+    "Mu'jam al-Buldan 1/446",
+    "Mu'jam al-Buldan 1/446"
+   ],
+   "quote": [
+    "وهو واد بالمدينة، وهو أحد أوديتها الثلاثة، وهي العقيق وبطحان وقناة",
+    "فنزل بنو النضير بطحان ونزلت بنو قريظ مهزورا"
+   ],
+   "qid": "R17941969",
+   "lat": 24.372,
+   "lon": 39.6528,
+   "precision": "tepat"
+  },
+  {
+   "t": "Wadi Qanah",
+   "ar": "قناة",
+   "kind": "lembah",
+   "note": "Salah satu dari tiga wadi Madinah, ada ladang dan harta; Abu Bakar memberi az-Zubair tanah dari al-Jurf sampai Qanah",
+   "src": [
+    "Mu'jam al-Buldan 4/401"
+   ],
+   "quote": [
+    "وقناة أيضا: واد بالمدينة وهي أحد أوديتها الثلاثة عليه حرث ومال"
+   ],
+   "qid": "W1070883760",
+   "lat": 24.5348,
+   "lon": 39.6809,
+   "precision": "tepat"
+  },
+  {
+   "t": "Mahzur",
+   "ar": "مهزور",
+   "kind": "lembah",
+   "note": "Wadi Bani Quraizhah, mengalir dari harrah; Nabi ﷺ memutuskan pembagian airnya",
+   "src": [
+    "Mu'jam al-Buldan 5/234",
+    "Mu'jam al-Buldan 5/234"
+   ],
+   "quote": [
+    "وقال أبو عبيد: مهزور وادي قريظة",
+    "ونزلت قريظة وهدل على مهزور"
+   ],
+   "qid": "R19122083",
+   "lat": 24.4387,
+   "lon": 39.651,
+   "precision": "tepat"
+  },
+  {
+   "t": "Mudzainib",
+   "ar": "مذينب",
+   "kind": "lembah",
+   "note": "Wadi di Madinah yang mengalir hanya dengan air hujan; disebut bersama Mahzur dalam keputusan Nabi ﷺ soal air",
+   "src": [
+    "Mu'jam al-Buldan 5/91"
+   ],
+   "quote": [
+    "ومذينب: واد بالمدينة، وقيل: مذينب يسيل بماء المطر خاصة"
+   ],
+   "qid": "R19122063",
+   "lat": 24.4372,
+   "lon": 39.6729,
+   "precision": "tepat"
+  },
+  {
+   "t": "Harrat Waqim",
+   "ar": "حرة واقم",
+   "kind": "harrah",
+   "note": "Salah satu dari dua harrah Madinah, yaitu yang timur",
+   "src": [
+    "Mu'jam al-Buldan 2/249"
+   ],
+   "quote": [
+    "حرة واقم: إحدى حرتي المدينة، وهي الشرقية"
+   ],
+   "qid": null,
+   "lat": null,
+   "lon": null
+  },
+  {
+   "t": "Harrat al-Wabarah",
+   "ar": "حرة الوبرة",
+   "kind": "harrah",
+   "note": "Harrah 3 mil dari Madinah, disebut dalam hadits Uhban (tanda kenabian)",
+   "src": [
+    "Mu'jam al-Buldan 2/250"
+   ],
+   "quote": [
+    "وهي على ثلاثة أميال من المدينة، ذكرها في حديث أهبان في أعلام النبوة"
+   ],
+   "qid": "R19122067",
+   "lat": 24.459,
+   "lon": 39.5823,
+   "precision": "tepat"
+  },
+  {
+   "t": "Bi'r Rumah",
+   "ar": "بئر رومة",
+   "kind": "sumur",
+   "note": "Sumur di 'Aqiq Madinah, milik orang Ghifar/Muzani; dibeli 'Utsman lalu disedekahkan untuk kaum Muslimin",
+   "src": [
+    "Mu'jam al-Buldan 1/299",
+    "Mu'jam al-Buldan 1/299"
+   ],
+   "quote": [
+    "وهي في عقيق المدينة",
+    "وهي التي اشتراها عثمان بن عفان فتصدق بها"
+   ],
+   "qid": "Q7182798",
+   "lat": 24.4929,
+   "lon": 39.5775,
+   "precision": "tepat"
+  },
+  {
+   "t": "Bi'r Budha'ah",
+   "ar": "بضاعة",
+   "kind": "sumur",
+   "note": "Di perkampungan Bani Sa'idah; Nabi ﷺ berfatwa di sana bahwa air itu suci selama tidak berubah",
+   "src": [
+    "Mu'jam al-Buldan 1/442"
+   ],
+   "quote": [
+    "وهي دار بني ساعدة بالمدينة وبئرها معروفة، فيها أفتى النبي، ﷺ، بأن الماء طهور ما لم يتغير"
+   ],
+   "qid": "Q12195478",
+   "lat": 24.4724,
+   "lon": 39.608,
+   "precision": "tepat"
+  },
+  {
+   "t": "Bi'r Aris",
+   "ar": "بئر أريس",
+   "kind": "sumur",
+   "note": "Sumur di Quba' berhadapan dengan masjidnya; di dalamnya cincin Nabi ﷺ jatuh dari tangan 'Utsman",
+   "src": [
+    "Mu'jam al-Buldan 1/298",
+    "Mu'jam al-Buldan 1/298"
+   ],
+   "quote": [
+    "بئر بالمدينة ثم بقبا مقابل مسجدها",
+    "وفيها سقط خاتم النبي، ﷺ، من يد عثمان"
+   ],
+   "qid": "Q12195462",
+   "lat": 24.439,
+   "lon": 39.6167,
+   "precision": "tepat"
+  },
+  {
+   "t": "Bairuha' (Bi'r Ha')",
+   "ar": "بيرحاء",
+   "kind": "sumur",
+   "note": "Tanah (kebun) Abu Thalhah di Madinah dekat masjid, dikenal dengan Qashr Bani Judailah",
+   "src": [
+    "Mu'jam al-Buldan 1/299"
+   ],
+   "quote": [
+    "وهو أرض كانت لأبي طلحة بالمدينة قرب المسجد ويعرف بقصر بني جديلة"
+   ],
+   "qid": "Q12195480",
+   "lat": 24.4703,
+   "lon": 39.6108,
+   "precision": "tepat"
+  },
+  {
+   "t": "Bi'r Ghars",
+   "ar": "بئر غرس",
+   "kind": "sumur",
+   "note": "Sumur di Quba' yang airnya disukai Nabi ﷺ; beliau berwasiat dimandikan dengan airnya",
+   "src": [
+    "Mu'jam al-Buldan 4/193"
+   ],
+   "quote": [
+    "وبئر غرس: بالمدينة جاء ذكرها في غير حديث وهي بقباء، وكان النبي، ﷺ، يستطيب ماءها"
+   ],
+   "qid": "Q12195487",
+   "lat": 24.4451,
+   "lon": 39.6273,
+   "precision": "tepat"
+  },
+  {
+   "t": "Tsaniyyat al-Wada'",
+   "ar": "ثنية الوداع",
+   "kind": "daerah",
+   "note": "Celah bukit yang menghadap Madinah, dilalui orang yang menuju Makkah; nama Jahiliah untuk tempat melepas musafir",
+   "src": [
+    "Mu'jam al-Buldan 2/86"
+   ],
+   "quote": [
+    "وهي ثنية مشرفة على المدينة يطؤها من يريد مكة"
+   ],
+   "qid": null,
+   "lat": null,
+   "lon": null
+  },
+  {
+   "t": "al-Hafya'",
+   "ar": "الحفياء",
+   "kind": "daerah",
+   "note": "Tempat dekat Madinah, titik start pacuan kuda Nabi ﷺ hingga Tsaniyyat al-Wada' (6 mil)",
+   "src": [
+    "Mu'jam ma Ista'jam 2/458"
+   ],
+   "quote": [
+    "أن رسول الله ﷺ سابق بين الخيل التى أضمرت من الحفياء، وكان أمدها ثنية الوداع"
+   ],
+   "qid": "R19122042",
+   "lat": 24.5315,
+   "lon": 39.5137,
+   "precision": "tepat"
+  },
+  {
+   "t": "al-Jurf",
+   "ar": "الجرف",
+   "kind": "daerah",
+   "note": "Tempat 3 mil dari Madinah ke arah Syam; harta 'Umar bin al-Khaththab dan penduduk Madinah",
+   "src": [
+    "Mu'jam al-Buldan 2/128"
+   ],
+   "quote": [
+    "والجرف: موضع على ثلاثة أميال من المدينة نحو الشام، به كانت أموال لعمر بن الخطاب ولأهل المدينة"
+   ],
+   "qid": null,
+   "lat": null,
+   "lon": null
+  },
+  {
+   "t": "Majma' al-Asyal (Rumah–Zaghabah)",
+   "ar": "زغابة",
+   "kind": "daerah",
+   "note": "Quraisy dan Ahabisy (10.000) berkemah di pertemuan aliran banjir dekat Rumah, antara al-Jurf dan Zaghabah, saat Khandaq",
+   "src": [
+    "Mu'jam al-Buldan 3/141"
+   ],
+   "quote": [
+    "أقبلت قريش حتى نزلت بمجتمع الأسيال من رومة بين الجرف وزغابة"
+   ],
+   "qid": null,
+   "lat": null,
+   "lon": null
+  },
+  {
+   "t": "as-Sunh",
+   "ar": "السنح",
+   "kind": "daerah",
+   "note": "Permukiman Bani al-Harits bin al-Khazraj, 1 mil dari rumah Nabi ﷺ; Abu Bakar tinggal di sana",
+   "src": [
+    "Mu'jam ma Ista'jam 3/760",
+    "Mu'jam ma Ista'jam 3/760"
+   ],
+   "quote": [
+    "منازل بنى الحارث ابن الخزرج بالمدينة، بينها وبين منزل رسول الله ﷺ ميل",
+    "وكان أبو بكر هناك نازلا"
+   ],
+   "qid": "N4020672336",
+   "lat": 24.4558,
+   "lon": 39.6271,
+   "precision": "perkiraan",
+   "near": "al-'Awali (Madinah)"
+  },
+  {
+   "t": "Khazbi (Dar Bani Salimah)",
+   "ar": "خزبى",
+   "kind": "daerah",
+   "note": "Di depan Masjid al-Qiblatain sampai al-Madzad di kaki harrah; perkampungan Bani Salimah, dinamai Nabi ﷺ \"Shalihah\"",
+   "src": [
+    "Mu'jam ma Ista'jam 2/498"
+   ],
+   "quote": [
+    "موضع تلقاء مسجد القبلتين، إلى المذاد فى سند الحرة، وهى دار بنى سلمة من الأنصار"
+   ],
+   "qid": "W66510098",
+   "lat": 24.4842,
+   "lon": 39.5789,
+   "precision": "perkiraan",
+   "near": "Masjid al-Qiblatain"
+  },
+  {
+   "t": "Pasar Bani Qainuqa'",
+   "ar": "سوق بني قينقاع",
+   "kind": "pasar",
+   "note": "Pasar di Madinah yang dinisbatkan kepada Bani Qainuqa', kabilah Yahudi Madinah",
+   "src": [
+    "Mu'jam al-Buldan 4/424"
+   ],
+   "quote": [
+    "وهو اسم لشعب من اليهود الذين كانوا بالمدينة أضيف إليهم سوق كان بها"
+   ],
+   "qid": null,
+   "lat": null,
+   "lon": null
+  },
+  {
+   "t": "al-Buwairah",
+   "ar": "البويرة",
+   "kind": "daerah",
+   "note": "Permukiman Bani an-Nadhir; kebun kurmanya dibakar Nabi ﷺ enam bulan setelah Uhud",
+   "src": [
+    "Mu'jam al-Buldan 1/512"
+   ],
+   "quote": [
+    "والبويرة: هو موضع منازل بني النضير اليهود الذين غزاهم رسول الله، ﷺ، بعد غزوة أحد بستة أشهر"
+   ],
+   "qid": null,
+   "lat": null,
+   "lon": null
+  }
+ ]
+}

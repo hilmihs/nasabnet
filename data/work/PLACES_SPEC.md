@@ -49,7 +49,7 @@ Context per tribe: `data/work/profile_in/<id>.json` and `web/public/data/bio.jso
    "qid": "Q182640", "lat": 21.2667, "lon": 40.4167, "precision": "tepat"}
 ]}
 ```
-`kind` ∈ kota, desa, lembah, gunung, mata air, daerah, distrik, benteng, pasar. Validate:
+`kind` ∈ kota, desa, lembah, gunung, mata air, sumur, masjid, harrah, daerah, distrik, benteng, pasar, rumah. Validate:
 `python3 scripts/check_places.py <id>` until ALL OK. Edit nothing else.
 Final reply (≤120 words): per tribe, places (with coords / approximate / none) and anything notable.
 
@@ -58,3 +58,17 @@ For every place with `lat: null` or `precision: "perkiraan"`: try `geo.py osm` (
 ماء/بئر prefix variants) and `geo.py search` again. If a clearly matching object is found, set `qid` (OSM or
 Wikidata id), `lat`, `lon` from the tool output, `precision: "tepat"`, remove `near`. Change nothing else in the
 place (text, note, src, quote stay). Re-run check_places.py.
+
+## Specify pass — pin down places now stacked on a city point
+Many places sit on a city's centre point as "perkiraan" (Makkah = the Ka'bah, Madinah = Masjid Nabawi, Bashrah,
+Kufah, Tha'if, ar-Rabadzah) because the first pass only knew "in Makkah". For each such place:
+1. Read the cited page again and search the books for the place's own entry (Mu'jam al-Buldan, Mu'jam ma Ista'jam,
+   Akhbar-type passages in Ibnu Sa'd / Sirah) for where it lies: quarter (al-'Aliyah, as-Safilah, Ajyad, al-Ma'la,
+   al-Hajun), neighbouring mountain/wadi, direction and distance from the mosque.
+2. Look it up with `geo.py osm` / `geo.py search`: historical mosques, wells, mountains, passes and districts often
+   carry the old name (مسجد بني حارثة, بئر طوى, شعب علي, ثنية كداء, جبل سلع, السنح…). Accept only a clear match that
+   agrees with the book's description.
+3. Found → `qid`, `lat`, `lon` from the tool, `precision: "tepat"`, remove `near`; if the book only gives the quarter
+   and OSM has that quarter/mountain → `perkiraan` with `near` = that quarter (closer than the city centre).
+   Not found → leave it as it is. Never move a point by your own estimate.
+Change only coordinate fields; text/note/src/quote stay.

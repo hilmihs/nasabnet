@@ -28,11 +28,11 @@
    "quote": [
     "حفر عبد شمس بن عبد مناف الطوي"
    ],
-   "qid": "Q5806",
-   "lat": 21.4225,
-   "lon": 39.8261,
+   "qid": "Q42004",
+   "lat": 21.437,
+   "lon": 39.8292,
    "precision": "perkiraan",
-   "near": "Makkah"
+   "near": "Jannat al-Ma'la (Makkah bagian atas)"
   },
   {
    "t": "Sumur al-Hafr",
@@ -94,11 +94,8 @@
    "quote": [
     "ناحية بدمشق بالغوطة فيها عدة قرى، بها قوم من أشراف بني أمية"
    ],
-   "qid": "Q1522001",
-   "lat": 33.5,
-   "lon": 36.4208,
-   "precision": "perkiraan",
-   "near": "Ghouta"
+   "lat": null,
+   "lon": null
   },
   {
    "t": "al-Jami' (Ghuthah)",
@@ -111,11 +108,8 @@
    "quote": [
     "الجامع: من قرى الغوطة، سكنها قوم من بني أمية"
    ],
-   "qid": "Q1522001",
-   "lat": 33.5,
-   "lon": 36.4208,
-   "precision": "perkiraan",
-   "near": "Ghouta"
+   "lat": null,
+   "lon": null
   },
   {
    "t": "Dair Sim'an",

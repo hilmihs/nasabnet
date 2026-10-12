@@ -4,7 +4,7 @@
    "qid": "Q35484", "lat": 24.47, "lon": 39.61, "precision": "tepat"},
   {"t": "as-Sunh", "ar": "السنح", "kind": "distrik", "note": "Permukiman Bani al-Harits bin al-Khazraj di 'Awali Madinah, satu mil dari rumah Nabi ﷺ; tempat tinggal Abu Bakr",
    "src": ["Mu'jam al-Buldan 3/265"], "quote": ["وهي منازل بني الحارث بن الخزرج بعوالي المدينة"],
-   "qid": "Q35484", "lat": 24.47, "lon": 39.61, "precision": "perkiraan", "near": "al-Madinah"},
+   "qid": "N4020672336", "lat": 24.4558, "lon": 39.6271, "precision": "perkiraan", "near": "al-'Awali (Madinah)"},
   {"t": "Budha'ah (sumur Bani Sa'idah)", "ar": "بضاعة", "kind": "mata air", "note": "Dar Bani Sa'idah di Madinah dengan sumurnya yang terkenal",
    "src": ["Mu'jam al-Buldan 1/442"], "quote": ["وهي دار بني ساعدة بالمدينة وبئرها معروفة"],
    "qid": "Q12195478", "lat": 24.4724, "lon": 39.608, "precision": "tepat"},
