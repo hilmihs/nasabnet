@@ -127,7 +127,9 @@ Semua butir naratif dikutip dari halaman kitab yang dibaca langsung (26 kitab Tu
 - **Mode "Zaman Nabi ﷺ"** — relief medan tanpa jalan/bangunan modern; tempat bersejarah Makkah & Madinah
   (`LANDMARKS_SPEC.md` → `data/landmarks.json`) dan unsur alam Madinah bergaya peta kuno — wadi, gunung, harrah,
   kebun (`SHAPES_SPEC.md`, bentuk dari OpenStreetMap lewat `scripts/shapes.py` → `compile_shapes.py` →
-  `data/shapes.json`), semuanya bersitasi halaman kitab.
+  `data/shapes.json`), denah Madinah (kawasan kabilah, uthum, pasar, Khandaq — dari Wafa' al-Wafa', Tarikh
+  al-Madinah Ibnu Syabbah dkk.), lapisan Jazirah (gurun berpola pasir, harrah, wilayah, laut, pasar Arab, jalur
+  kafilah) dan legenda berisi definisi istilah dari kitab; ikon bergambar per jenis tempat. Semuanya bersitasi.
 
 ```bash
 python3 scripts/compile_profile.py && python3 scripts/compile_roles.py && python3 scripts/compile_moved.py

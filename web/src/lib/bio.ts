@@ -76,7 +76,7 @@ export interface BioData {
 export interface Shape {
   t: string
   ar: string
-  kind: 'wadi' | 'gunung' | 'harrah' | 'kebun' | 'kawasan' | 'benteng' | 'pasar' | 'parit'
+  kind: 'wadi' | 'gunung' | 'harrah' | 'kebun' | 'kawasan' | 'benteng' | 'pasar' | 'parit' | 'pasir' | 'wilayah' | 'laut' | 'jalur'
   note: string
   src: string[]
   lines?: [number, number][][]

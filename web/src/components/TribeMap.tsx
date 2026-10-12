@@ -3,6 +3,8 @@ import 'leaflet/dist/leaflet.css'
 import { useEffect, useMemo, useRef, useState } from 'react'
 import { citationUrl, useBio, type Place, type Shape } from '../lib/bio'
 import { useStore } from '../lib/data'
+import { medallion, PATTERNS } from './mapIcons'
+import { SrcChips } from './Prose'
 import type { Tribe } from '../lib/types'
 
 const GROUP_LABEL: Record<Tribe['group'], string> = { quraisy: 'Quraisy', anshar: 'Anshar', arab: 'Arab lain', ajam: 'Non-Arab' }
@@ -21,6 +23,10 @@ const SPIDER_ZOOM = 13
 /** landmark names are written on the map from this zoom (only where they do not overlap) */
 const LABEL_ZOOM = 13
 const ERA_MAX_ZOOM = 16
+/** era view: pictogram medallions from this zoom (dots below, else the peninsula drowns in icons) */
+const MEDAL_ZOOM = 7
+/** era view: Makkah/Madinah landmarks and city features from this zoom */
+const LOCAL_ZOOM = 10
 
 const KIND_LABEL: Record<Shape['kind'], string> = {
   wadi: 'wadi',
@@ -31,6 +37,10 @@ const KIND_LABEL: Record<Shape['kind'], string> = {
   benteng: 'benteng (uthum)',
   pasar: 'pasar',
   parit: 'parit (Khandaq)',
+  pasir: 'padang pasir',
+  wilayah: 'wilayah',
+  laut: 'laut',
+  jalur: 'jalur kafilah',
 }
 const TOWER =
   '<svg viewBox="0 0 16 16" width="14" height="14" aria-hidden="true"><path d="M3 15V6h1V3h2v2h1V3h2v2h1V3h2v3h1v9z" fill="#6b4a2b" stroke="#fcfaf4" stroke-width=".8"/></svg>'
@@ -49,6 +59,13 @@ function fan(m: L.Map, c: L.LatLng, n: number, px: number, start = -Math.PI / 2)
   })
 }
 
+interface LegendEntry {
+  kind: string
+  t: string
+  ar?: string
+  note: string
+  src: string[]
+}
 interface Entry {
   tid: string
   p: Place
@@ -108,7 +125,15 @@ export default function TribeMap({ focus, onSelect }: { focus?: string; onSelect
     return out
   }, [bio])
   const landmarks = useMemo(() => Object.values(bio?.landmarks ?? {}).flat(), [bio])
-  const shapes = useMemo(() => Object.values(bio?.shapes ?? {}).flat(), [bio])
+  const shapes = useMemo(
+    () => Object.entries(bio?.shapes ?? {}).flatMap(([k, v]) => (k.startsWith('_') ? [] : (v as Shape[]).map((f) => ({ ...f, area: k })))),
+    [bio],
+  )
+  /** cited definitions of the map's terms (shapes_out/<area>.json "legend") */
+  const legend = useMemo(
+    () => Object.entries(bio?.shapes ?? {}).flatMap(([k, v]) => (k.startsWith('_legend') ? (v as unknown as LegendEntry[]) : [])),
+    [bio],
+  )
 
   const visible = useMemo(() => all.filter((e) => e.p.lat != null && groups.has(tribes.get(e.tid)?.group ?? 'arab')), [all, groups, tribes])
   const spots = useMemo(() => {
@@ -268,14 +293,20 @@ export default function TribeMap({ focus, onSelect }: { focus?: string; onSelect
         items.forEach((x, i) => {
           const c = x.tids.length === 1 ? tribeColorById(x.tids[0]) : '#0f3b2e'
           L.polyline([[s.lat, s.lon], pts[i]], { color: '#0f3b2e', weight: 1, opacity: 0.5, interactive: false }).addTo(lg)
-          L.marker(pts[i], { icon: dot(c, 14, s.approx, !hl || x.tids.includes(hl)), title: x.p.t, zIndexOffset: 1000 })
+          const xon = !hl || x.tids.includes(hl)
+          const icon = base === 'era' && zoom >= MEDAL_ZOOM ? L.divIcon({ className: '', iconSize: [20, 20], html: medallion(x.p.kind, c, { approx: s.approx, on: xon }) }) : dot(c, 14, s.approx, xon)
+          L.marker(pts[i], { icon, title: x.p.t, zIndexOffset: 1000 })
             .bindPopup(`<div class="nm-pop">${itemHtml(x)}</div>`, opts)
             .addTo(lg)
         })
         continue
       }
       const n = s.items.length
-      L.marker([s.lat, s.lon], { icon: dot(color, n > 1 ? 22 : 14, s.approx, on, n > 1 ? String(n) : ''), zIndexOffset: on ? 1000 : 0, title: s.items.map((x) => x.p.t).join(' / ') })
+      const icon =
+        base === 'era' && n === 1 && zoom >= MEDAL_ZOOM
+          ? L.divIcon({ className: '', iconSize: [20, 20], html: medallion(s.items[0].p.kind, color, { approx: s.approx, on }) })
+          : dot(color, n > 1 ? 22 : 14, s.approx, on, n > 1 ? String(n) : '')
+      L.marker([s.lat, s.lon], { icon, zIndexOffset: on ? 1000 : 0, title: s.items.map((x) => x.p.t).join(' / ') })
         .bindPopup(popup, opts)
         .addTo(lg)
     }
@@ -299,7 +330,19 @@ export default function TribeMap({ focus, onSelect }: { focus?: string; onSelect
     }
     const popup = (f: Shape) => `<div class="nm-pop"><div class="nm-entry">${placeHtml({ ...f, kind: KIND_LABEL[f.kind] } as Place)}</div></div>`
     for (const f of shapes) {
+      // city features (Makkah/Madinah) only close up; the peninsula layer at every zoom
+      if (f.area !== 'arabia' && zoom < LOCAL_ZOOM) continue
       if (f.lines?.length) {
+        if (f.kind === 'jalur') {
+          L.polyline(f.lines, { pane: 'nature', color: '#6b3f2a', weight: 2.5, opacity: 0.8, dashArray: '2 7', lineCap: 'round' }).bindPopup(popup(f)).addTo(lg)
+          const line = f.lines[0]
+          const mid = line[Math.floor(line.length / 2)]
+          if (fits(mid, f.t, 11))
+            L.marker(mid, { pane: 'nature', icon: L.divIcon({ className: '', iconSize: undefined, html: `<span class="nm-route-label">${medallion('jalur', '#6b3f2a')}${esc(f.t)}</span>` }) })
+              .bindPopup(popup(f))
+              .addTo(lg)
+          continue
+        }
         if (f.kind === 'parit') {
           L.polyline(f.lines, { pane: 'nature', color: '#8b3a2b', weight: 3, opacity: 0.85, dashArray: '8 6' }).bindPopup(popup(f)).addTo(lg)
           const mid = f.lines[0][Math.floor(f.lines[0].length / 2)]
@@ -314,7 +357,8 @@ export default function TribeMap({ focus, onSelect }: { focus?: string; onSelect
           const mid = longest[Math.floor(longest.length / 2)]
           if (zoom >= 12 && fits(mid, f.t, 12)) L.marker(mid, { pane: 'nature', interactive: false, icon: L.divIcon({ className: '', iconSize: undefined, html: `<span class="nm-wadi-label">${esc(f.t)}</span>` }) }).addTo(lg)
         } else {
-          const shape = L.polygon(f.lines, { pane: 'nature', color: '#7a5c3a', weight: 1.2, fillColor: 'url(#nm-hatch)', fillOpacity: 1, className: 'nm-hatched' })
+          const look = f.kind === 'pasir' ? { color: '#b8925a', fill: 'url(#nm-sand)' } : f.kind === 'harrah' ? { color: '#3b2f2a', fill: 'url(#nm-lava)' } : { color: '#7a5c3a', fill: 'url(#nm-hatch)' }
+          const shape = L.polygon(f.lines, { pane: 'nature', color: look.color, weight: f.kind === 'gunung' ? 1.2 : 0.8, fillColor: look.fill, fillOpacity: 1, className: 'nm-hatched' })
           shape
             .bindPopup(popup(f))
             .bindTooltip(esc(f.t), { direction: 'center', className: 'nm-mountain-label', permanent: zoom >= 12 && fits(shape.getBounds().getCenter(), f.t, 12) })
@@ -323,6 +367,21 @@ export default function TribeMap({ focus, onSelect }: { focus?: string; onSelect
         continue
       }
       if (f.lat == null || f.lon == null) continue
+      if (f.kind === 'wilayah' || f.kind === 'laut') {
+        // region and sea names frame the peninsula: only from afar
+        if (zoom <= 8 && fits([f.lat, f.lon], f.t, f.kind === 'wilayah' ? 20 : 15))
+          L.marker([f.lat, f.lon], { pane: 'nature', icon: L.divIcon({ className: '', iconSize: undefined, html: `<span class="${f.kind === 'wilayah' ? 'nm-region' : 'nm-sea'}">${esc(f.t)}</span>` }), title: f.t })
+            .bindPopup(popup(f))
+            .addTo(lg)
+        continue
+      }
+      if (f.kind === 'pasir') {
+        if (fits([f.lat, f.lon], f.t, 13))
+          L.marker([f.lat, f.lon], { pane: 'nature', icon: L.divIcon({ className: '', iconSize: undefined, html: `<span class="nm-route-label">${medallion('pasir', '#b8925a')}${esc(f.t)}</span>` }), title: f.t })
+            .bindPopup(popup(f))
+            .addTo(lg)
+        continue
+      }
       if (f.kind === 'kawasan') {
         // clan quarters: a spaced caption, only close up and where it fits (the books give no boundary)
         if (zoom >= 13 && fits([f.lat, f.lon], f.t, 11))
@@ -355,14 +414,9 @@ export default function TribeMap({ focus, onSelect }: { focus?: string; onSelect
             : `<span class="nm-mountain-label">${esc(f.t)}</span>`
       L.marker([f.lat, f.lon], { pane: 'nature', icon: L.divIcon({ className: '', iconSize: undefined, html }), title: f.t }).bindPopup(popup(f)).addTo(lg)
     }
-    // hatch pattern for mountains, added once to the map's SVG
+    // patterns (mountain hatching, sand, lava), added once to the map's SVG
     const svg = m.getPanes().nature.querySelector('svg')
-    if (svg && !svg.querySelector('#nm-hatch')) {
-      svg.insertAdjacentHTML(
-        'afterbegin',
-        '<defs><pattern id="nm-hatch" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(35)"><rect width="6" height="6" fill="#d8c3a0" fill-opacity="0.55"/><line x1="0" y1="0" x2="0" y2="6" stroke="#7a5c3a" stroke-width="1.2" stroke-opacity="0.55"/></pattern></defs>',
-      )
-    }
+    if (svg && !svg.querySelector('#nm-sand')) svg.insertAdjacentHTML('afterbegin', PATTERNS)
   }, [shapes, zoom, base])
 
   // historical landmarks (era view): fanned out where they share a point, names shown only where they do not collide
@@ -371,6 +425,7 @@ export default function TribeMap({ focus, onSelect }: { focus?: string; onSelect
     const m = map.current
     if (!lg || !m) return
     lg.clearLayers()
+    if (zoom < LOCAL_ZOOM) return
     const groups = new Map<string, Place[]>()
     for (const p of landmarks) {
       if (p.lat == null) continue
@@ -395,7 +450,7 @@ export default function TribeMap({ focus, onSelect }: { focus?: string; onSelect
       const box = L.bounds([pt.x + 6, pt.y - 10], [pt.x + 18 + p.t.length * 6.2, pt.y + 10])
       const free = zoom >= LABEL_ZOOM && !placed.some((b) => b.intersects(box))
       if (free) placed.push(box)
-      L.marker(at, { icon: L.divIcon({ className: '', iconSize: [14, 14], html: `<span class="nm-mark${approx ? ' nm-mark-approx' : ''}"></span>` }), title: p.t })
+      L.marker(at, { icon: L.divIcon({ className: '', iconSize: [20, 20], html: medallion(p.kind, '#8a6a12', { approx, gold: true }) }), title: p.t })
         .bindTooltip(esc(p.t), { permanent: free, direction: 'right', offset: [8, 0], className: 'nm-mark-label' })
         .bindPopup(`<div class="nm-pop"><div class="nm-entry">${placeHtml(p)}</div></div>`, { maxWidth: 320 })
         .addTo(lg)
@@ -476,7 +531,7 @@ export default function TribeMap({ focus, onSelect }: { focus?: string; onSelect
           </span>
           {base === 'era' && (
             <span className="inline-flex items-center gap-1.5">
-              <span className="nm-mark inline-block" /> tempat bersejarah masa Nabi ﷺ (bersitasi)
+              <span dangerouslySetInnerHTML={{ __html: medallion('masjid', '#8a6a12', { gold: true }) }} /> tempat bersejarah masa Nabi ﷺ (ikon = jenis tempat; buka "Legenda" untuk artinya)
             </span>
           )}
           {base === 'era' && (
@@ -486,6 +541,28 @@ export default function TribeMap({ focus, onSelect }: { focus?: string; onSelect
             </span>
           )}
         </div>
+        {base === 'era' && legend.length > 0 && (
+          <details className="border-t border-krem-200 px-4 py-2 text-xs">
+            <summary className="cursor-pointer font-semibold text-hijau-800">Legenda & arti istilah peta (bersitasi)</summary>
+            <ul className="mt-2 grid gap-x-6 gap-y-2 sm:grid-cols-2">
+              {legend.map((x) => (
+                <li key={`${x.kind}-${x.t}`} className="flex gap-2">
+                  <span className="mt-0.5 shrink-0" dangerouslySetInnerHTML={{ __html: medallion(x.kind, '#8a6a12', { gold: true }) }} />
+                  <span className="text-tinta">
+                    <strong className="font-semibold text-hijau-900">{x.t}</strong>
+                    {x.ar && (
+                      <span dir="rtl" lang="ar" className="ar ml-1 text-sm">
+                        {x.ar}
+                      </span>
+                    )}{' '}
+                    — {x.note}
+                    <SrcChips src={x.src} />
+                  </span>
+                </li>
+              ))}
+            </ul>
+          </details>
+        )}
         {base === 'era' && (
           <p className="border-t border-krem-200 bg-emas-100/40 px-4 py-2 text-xs text-tinta-soft">
             Rekonstruksi, bukan peta dari masa itu: dasar peta hanya relief medan (tanpa jalan, bangunan, dan nama modern); titik emas adalah gunung, wadi, sumur,

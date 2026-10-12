@@ -289,3 +289,44 @@ body {
   text-transform: uppercase;
   color: #6b3f2a;
 }
+.nm-medal {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 20px;
+  height: 20px;
+  border-radius: 999px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.35);
+}
+.nm-region {
+  display: inline-block;
+  transform: translate(-50%, -50%);
+  white-space: nowrap;
+  font: 600 20px/1 var(--font-display);
+  letter-spacing: 0.45em;
+  text-transform: uppercase;
+  color: #6b4f33;
+  opacity: 0.55;
+  text-shadow: 0 0 4px #f1e7d0;
+  cursor: pointer;
+}
+.nm-sea {
+  display: inline-block;
+  transform: translate(-50%, -50%);
+  white-space: nowrap;
+  font: italic 600 15px/1 var(--font-display);
+  letter-spacing: 0.3em;
+  color: #3f6a78;
+  opacity: 0.75;
+  cursor: pointer;
+}
+.nm-route-label {
+  display: inline-flex;
+  align-items: center;
+  gap: 3px;
+  transform: translate(-50%, -50%);
+  white-space: nowrap;
+  font: italic 600 11px/1 var(--font-display);
+  color: #6b3f2a;
+  text-shadow: 0 0 3px #f1e7d0, 0 0 3px #f1e7d0;
+}
