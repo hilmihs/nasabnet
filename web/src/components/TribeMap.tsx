@@ -66,16 +66,17 @@ export default function TribeMap({ focus, onSelect }: { focus?: string; onSelect
   // create the map once
   useEffect(() => {
     if (!box.current || map.current) return
-    const m = L.map(box.current, { center: [23.5, 43], zoom: 5, minZoom: 3, maxZoom: 18, scrollWheelZoom: false, worldCopyJump: true })
+    const m = L.map(box.current, { center: [23.5, 43], zoom: 5, minZoom: 3, maxZoom: 19, scrollWheelZoom: false, worldCopyJump: true })
     const esri = (name: string, opts: L.TileLayerOptions = {}) =>
       L.tileLayer(`https://server.arcgisonline.com/ArcGIS/rest/services/${name}/MapServer/tile/{z}/{y}/{x}`, {
         attribution: 'Tiles &copy; Esri · koordinat: Wikidata &amp; &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>',
-        maxZoom: 18,
+        maxZoom: 19,
+        maxNativeZoom: 18, // deepest level Esri serves everywhere; z19 upscales it instead of showing blank tiles
         ...opts,
       })
     // World_Physical_Map only exists up to zoom 8: past that, switch to satellite imagery (sharp down to street level)
     const relief = L.layerGroup([
-      esri('World_Physical_Map', { maxZoom: 8 }),
+      esri('World_Physical_Map', { maxZoom: 8, maxNativeZoom: 8 }),
       esri('World_Imagery', { minZoom: 9 }),
       esri('Reference/World_Boundaries_and_Places', { minZoom: 9, pane: 'overlayPane' }),
     ])
