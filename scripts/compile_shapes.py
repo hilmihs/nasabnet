@@ -1,0 +1,54 @@
+#!/usr/bin/env python3
+"""data/work/shapes_out/<city>.json -> data/shapes.json ({city: [{t, ar, kind, note, src, lines | lat/lon}]}) with
+OSM geometry fetched (cached) and simplified; scripts/build_bio.py puts it in bio.json for the "Zaman Nabi" map."""
+import json
+import sys
+from pathlib import Path
+
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+import check_shapes  # noqa: E402
+import shapes  # noqa: E402
+
+ROOT = Path(__file__).resolve().parent.parent
+
+
+def simplify(line, tol=0.00015):
+    """Douglas–Peucker on [lat, lon] (tol in degrees, ~15 m)."""
+    if len(line) < 3:
+        return line
+    a, b = line[0], line[-1]
+    dx, dy = b[0] - a[0], b[1] - a[1]
+    norm = (dx * dx + dy * dy) ** 0.5
+    if norm:
+        dist = [abs(dy * (p[0] - a[0]) - dx * (p[1] - a[1])) / norm for p in line[1:-1]]
+    else:  # closed ring (mountain outline): distance from the start point
+        dist = [((p[0] - a[0]) ** 2 + (p[1] - a[1]) ** 2) ** 0.5 for p in line[1:-1]]
+    i = max(range(len(dist)), key=dist.__getitem__)
+    if dist[i] <= tol:
+        return [a, b]
+    return simplify(line[: i + 2], tol)[:-1] + simplify(line[i + 1:], tol)
+
+
+def main():
+    cities = sorted(p.stem for p in check_shapes.OUT.glob("*.json"))
+    errs = [x for c in cities for x in check_shapes.check(c)]
+    if errs:
+        sys.exit("fix these first:\n" + "\n".join(errs))
+    out = {}
+    for c in cities:
+        rows = []
+        for f in json.loads((check_shapes.OUT / f"{c}.json").read_text())["features"]:
+            r = {k: f[k] for k in ("t", "ar", "kind", "note") if f.get(k)}
+            r["src"] = list(dict.fromkeys(f["src"]))
+            if f.get("osm"):
+                r["lines"] = [[[round(x, 5) for x in p] for p in simplify(l)] for oid in f["osm"] for l in shapes.geometry(oid)]
+            else:
+                r["lat"], r["lon"] = f["lat"], f["lon"]
+            rows.append(r)
+        out[c] = rows
+    (ROOT / "data" / "shapes.json").write_text(json.dumps(out, ensure_ascii=False, separators=(",", ":")) + "\n")
+    print({c: len(v) for c, v in out.items()}, round((ROOT / "data" / "shapes.json").stat().st_size / 1024), "KB")
+
+
+if __name__ == "__main__":
+    main()

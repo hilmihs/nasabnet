@@ -195,6 +195,7 @@ body {
   background: rgba(252, 250, 244, 0.9);
   border-style: dashed;
 }
+.leaflet-tooltip.nm-mark-label,
 .nm-mark-label {
   background: rgba(252, 250, 244, 0.9);
   border: 0;
@@ -214,4 +215,50 @@ body {
   color: var(--color-hijau-900);
   font: 600 11px/1.4 var(--font-sans);
   cursor: pointer;
+}
+/* "Zaman Nabi" natural features (old-map style) */
+.nm-wadi-label {
+  display: inline-block;
+  transform: translate(-50%, -50%);
+  white-space: nowrap;
+  font: italic 600 12px/1 var(--font-display);
+  color: #3f5f63;
+  text-shadow: 0 0 3px #fcfaf4, 0 0 3px #fcfaf4, 0 0 2px #fcfaf4;
+  letter-spacing: 0.04em;
+}
+.leaflet-tooltip.nm-mountain-label,
+.nm-mountain-label {
+  background: transparent;
+  border: 0;
+  box-shadow: none;
+  font: 700 12px/1 var(--font-display);
+  color: #5a3f22;
+  text-shadow: 0 0 3px #fcfaf4, 0 0 3px #fcfaf4;
+  white-space: nowrap;
+}
+.leaflet-tooltip.nm-mountain-label::before {
+  display: none;
+}
+.nm-harrah {
+  display: inline-block;
+  transform: translate(-50%, -50%);
+  white-space: nowrap;
+  font: italic 700 15px/1 var(--font-display);
+  letter-spacing: 0.35em;
+  text-transform: uppercase;
+  color: #3b2f2a;
+  opacity: 0.75;
+  text-shadow: 0 0 4px #fcfaf4, 0 0 4px #fcfaf4;
+}
+.nm-palm {
+  display: inline-block;
+  transform: translate(-50%, -80%);
+}
+.nm-dot {
+  display: block;
+  width: 8px;
+  height: 8px;
+  border-radius: 999px;
+  background: #7a5c3a;
+  border: 1.5px solid #fcfaf4;
 }

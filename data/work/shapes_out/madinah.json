@@ -1,0 +1,298 @@
+{
+ "id": "madinah",
+ "features": [
+  {
+   "t": "Wadi Buthan",
+   "ar": "بطحان",
+   "kind": "wadi",
+   "note": "Salah satu dari tiga wadi Madinah (al-'Aqiq, Buthan, Qanah); Bani an-Nadhir bermukim di Buthan dan Quraizhah di Mahzur, dua wadi yang turun dari harrah membawa air tawar",
+   "src": [
+    "Mu'jam al-Buldan 1/446",
+    "Mu'jam al-Buldan 1/446"
+   ],
+   "quote": [
+    "وهو واد بالمدينة، وهو أحد أوديتها الثلاثة، وهي العقيق وبطحان وقناة",
+    "فنزل بنو النضير بطحان ونزلت بنو قريظ مهزورا، وهما واديان يهبطان من حرة هناك تنصب منها مياه عذبة"
+   ],
+   "osm": [
+    "W1071034068",
+    "W1235437415",
+    "W1235437417",
+    "W1235437416",
+    "W1235437413",
+    "W1235437414",
+    "W1235437418",
+    "W1235437419",
+    "W1235437420",
+    "W1235437421",
+    "W1235437422",
+    "W587298211",
+    "W1071034067",
+    "W1308146760",
+    "W1236089589",
+    "W1236089588",
+    "W783591916",
+    "W783591917",
+    "W783591921",
+    "W783591922",
+    "W783591926",
+    "W783591925",
+    "W783591927",
+    "W783591928",
+    "W783591929",
+    "W783591930",
+    "W783591931",
+    "W783591932",
+    "W783591933",
+    "W1490191315",
+    "W1490191316",
+    "W783591934",
+    "W783591935",
+    "W783591936",
+    "W783591937",
+    "W783591938",
+    "W783591940",
+    "W783591941",
+    "W783591945",
+    "W783591944",
+    "W783591946",
+    "W783591947",
+    "W783591953",
+    "W783591952",
+    "W783591954",
+    "W783591955"
+   ]
+  },
+  {
+   "t": "Wadi al-'Aqiq",
+   "ar": "العقيق",
+   "kind": "wadi",
+   "note": "'Aqiq di sisi Madinah, ada mata air dan kebun kurma; 'Aqiq kecil dari Qashr al-Marajil ke hilir sampai al-'Arshah",
+   "src": [
+    "Mu'jam al-Buldan 4/139",
+    "Mu'jam al-Buldan 4/139"
+   ],
+   "quote": [
+    "ومنها عقيق بناحية المدينة وفيه عيون ونخل",
+    "والعقيق الأصغر ما سفل عن قصر المراجل إلى منتهى العرصة"
+   ],
+   "osm": [
+    "W116605983",
+    "W1235902747",
+    "W1236089639",
+    "W1458658715",
+    "W1458658714",
+    "W1236089640",
+    "W1235902746",
+    "W960090164"
+   ]
+  },
+  {
+   "t": "Wadi Qanah",
+   "ar": "قناة",
+   "kind": "wadi",
+   "note": "Salah satu dari tiga wadi Madinah, ada ladang dan harta; Abu Bakar memberi az-Zubair tanah antara al-Jurf dan Qanah",
+   "src": [
+    "Mu'jam al-Buldan 4/401",
+    "Mu'jam al-Buldan 4/401"
+   ],
+   "quote": [
+    "وقناة أيضا: واد بالمدينة وهي أحد أوديتها الثلاثة عليه حرث ومال",
+    "أقطع أبو بكر، ﵁، الزبير ما بين الجرف إلى قناة"
+   ],
+   "osm": [
+    "W1070883760",
+    "W1093005287",
+    "W1093005286",
+    "W1093005285",
+    "W1093005288"
+   ]
+  },
+  {
+   "t": "Wadi Mahzur",
+   "ar": "مهزور",
+   "kind": "wadi",
+   "note": "Wadi Bani Quraizhah; Mahzur dan Mudzainib mengalir hanya dengan air hujan. Label di kawasan bernama Wadi Mahzur (tanpa garis OSM)",
+   "src": [
+    "Mu'jam al-Buldan 5/234",
+    "Mu'jam al-Buldan 5/234"
+   ],
+   "quote": [
+    "وقال أبو عبيد: مهزور وادي قريظة",
+    "مهزور ومذينب: واديان يسيلان بماء المطر خاصة"
+   ],
+   "osm": [],
+   "qid": "R19122083",
+   "lat": 24.4387,
+   "lon": 39.651
+  },
+  {
+   "t": "Wadi Mudzainib",
+   "ar": "مذينب",
+   "kind": "wadi",
+   "note": "Wadi di Madinah yang mengalir dengan air hujan saja. Label di kawasan bernama Wadi Mudzainib (tanpa garis OSM)",
+   "src": [
+    "Mu'jam al-Buldan 5/91"
+   ],
+   "quote": [
+    "ومذينب: واد بالمدينة، وقيل: مذينب يسيل بماء المطر خاصة"
+   ],
+   "osm": [],
+   "qid": "R19122063",
+   "lat": 24.4372,
+   "lon": 39.6729
+  },
+  {
+   "t": "Wadi Ranuna'",
+   "ar": "رانوناء",
+   "kind": "wadi",
+   "note": "Nabi ﷺ shalat Jumat pertama di masjid di perut Wadi Ranuna' (Bani Salim bin 'Auf). Label di Masjid al-Jumu'ah",
+   "src": [
+    "Mu'jam al-Buldan 3/19"
+   ],
+   "quote": [
+    "وصلاها في المسجد الذي في بطن الوادي وادي رانوناء"
+   ],
+   "osm": [],
+   "qid": "Q14921963",
+   "lat": 24.4455,
+   "lon": 39.6152
+  },
+  {
+   "t": "Jabal Uhud",
+   "ar": "أحد",
+   "kind": "gunung",
+   "note": "Gunung merah tanpa puncak-puncak runcing, sekitar 1 mil di utara Madinah",
+   "src": [
+    "Mu'jam al-Buldan 1/109"
+   ],
+   "quote": [
+    "وهو جبل أحمر، ليس بذي شناخيب، وبينه وبين المدينة قرابة ميل في شماليها"
+   ],
+   "osm": [
+    "W587267723"
+   ]
+  },
+  {
+   "t": "Jabal Sal'",
+   "ar": "سلع",
+   "kind": "gunung",
+   "note": "Gunung di pasar Madinah",
+   "src": [
+    "Mu'jam al-Buldan 3/236"
+   ],
+   "quote": [
+    "وسلع: جبل بسوق المدينة"
+   ],
+   "osm": [
+    "W687685395"
+   ]
+  },
+  {
+   "t": "Jabal 'Air",
+   "ar": "عير",
+   "kind": "gunung",
+   "note": "Dua gunung merah di kanan orang yang berjalan di perut al-'Aqiq menuju Makkah",
+   "src": [
+    "Mu'jam al-Buldan 4/172"
+   ],
+   "quote": [
+    "عير جبلان أحمران من عن يمينك وأنت ببطن العقيق تريد مكة"
+   ],
+   "osm": [],
+   "qid": "N1236691857",
+   "lat": 24.3736,
+   "lon": 39.5816
+  },
+  {
+   "t": "'Ainain (Jabal ar-Rumat)",
+   "ar": "عينين",
+   "kind": "gunung",
+   "note": "Bukit di antara bukit-bukit Uhud, di Qanah; Nabi ﷺ menempatkan 50 pemanah di atasnya",
+   "src": [
+    "Mu'jam al-Buldan 4/174",
+    "Ibnu Sa'd 2/39"
+   ],
+   "quote": [
+    "وقيل: عينين جبل من جبال أحد بينهما واد",
+    "وجعل عينين جبلا بقناة عن يساره وجعل عليه خمسين من الرماة"
+   ],
+   "osm": [],
+   "qid": "Q12204742",
+   "lat": 24.5028,
+   "lon": 39.6117
+  },
+  {
+   "t": "al-Jamma' (Jamma' Umm Khalid)",
+   "ar": "الجماء",
+   "kind": "gunung",
+   "note": "Bukit kecil 3 mil dari Madinah di arah al-'Aqiq menuju al-Jurf; Jamma' kedua bernama Jamma' Umm Khalid. Label di kawasan Jamma' Umm Khalid",
+   "src": [
+    "Mu'jam al-Buldan 2/158",
+    "Mu'jam al-Buldan 2/159"
+   ],
+   "quote": [
+    "والجماء: جبيل من المدينة على ثلاثة أميال من ناحية العقيق إلى الجرف",
+    "ثم الجماء الثانية جماء أم خالد"
+   ],
+   "osm": [],
+   "qid": "R19122151",
+   "lat": 24.4325,
+   "lon": 39.5446
+  },
+  {
+   "t": "Harrat al-Wabarah",
+   "ar": "حرة الوبرة",
+   "kind": "harrah",
+   "note": "Harrah 3 mil dari Madinah, disebut dalam hadits Uhban tentang tanda kenabian. Label di kawasan Harrat al-Wabarah",
+   "src": [
+    "Mu'jam al-Buldan 2/250"
+   ],
+   "quote": [
+    "وهي على ثلاثة أميال من المدينة، ذكرها في حديث أهبان في أعلام النبوة"
+   ],
+   "osm": [],
+   "qid": "R19122067",
+   "lat": 24.459,
+   "lon": 39.5823
+  },
+  {
+   "t": "Bairuha' (kebun Abu Thalhah)",
+   "ar": "بيرحاء",
+   "kind": "kebun",
+   "note": "Kebun kurma Abu Thalhah di depan Masjid Nabawi; Nabi ﷺ masuk, berteduh dan minum airnya; disedekahkan Abu Thalhah",
+   "src": [
+    "Shahih al-Bukhari 2/119",
+    "Shahih al-Bukhari 4/8",
+    "Mu'jam al-Buldan 1/299"
+   ],
+   "quote": [
+    "كان أبو طلحة أكثر الأنصار بالمدينة مالا من نخل، وكان أحب أمواله إليه بيرحاء، وكانت مستقبلة المسجد",
+    "وكانت حديقة كان رسول الله ﷺ يدخلها ويستظل بها ويشرب من مائها",
+    "وهو أرض كانت لأبي طلحة بالمدينة قرب المسجد ويعرف بقصر بني جديلة"
+   ],
+   "osm": [],
+   "qid": "Q12195480",
+   "lat": 24.4703,
+   "lon": 39.6108
+  },
+  {
+   "t": "al-'Awali (al-'Aliyah)",
+   "ar": "العوالي",
+   "kind": "kebun",
+   "note": "Tanah pertanian 3–4 mil dari Madinah (terjauh 8 mil); di al-'Aliyah Bani an-Nadhir membuat kebun dan benteng",
+   "src": [
+    "Mu'jam al-Buldan 4/166",
+    "Mu'jam al-Buldan 1/446"
+   ],
+   "quote": [
+    "وهو ضيعة بينها وبين المدينة أربعة أميال",
+    "فاتخذ بها بنو النضير الحدائق والآطام"
+   ],
+   "osm": [],
+   "qid": "N4020672336",
+   "lat": 24.4558,
+   "lon": 39.6271
+  }
+ ]
+}

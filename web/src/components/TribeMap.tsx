@@ -1,7 +1,7 @@
 import L from 'leaflet'
 import 'leaflet/dist/leaflet.css'
 import { useEffect, useMemo, useRef, useState } from 'react'
-import { citationUrl, useBio, type Place } from '../lib/bio'
+import { citationUrl, useBio, type Place, type Shape } from '../lib/bio'
 import { useStore } from '../lib/data'
 import type { Tribe } from '../lib/types'
 
@@ -21,6 +21,10 @@ const SPIDER_ZOOM = 13
 /** landmark names are written on the map from this zoom (only where they do not overlap) */
 const LABEL_ZOOM = 13
 const ERA_MAX_ZOOM = 16
+
+const KIND_LABEL: Record<Shape['kind'], string> = { wadi: 'wadi', gunung: 'gunung', harrah: 'harrah (padang batu lava)', kebun: 'kebun kurma' }
+const PALM =
+  '<svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><path d="M12 22V11" stroke="#6b4a2b" stroke-width="2" stroke-linecap="round"/><path d="M12 11C9 6 5 6 3 8c3-.5 6 .5 9 3zm0 0c3-5 7-5 9-3-3-.5-6 .5-9 3zm0 0C11 6 8 3 5 3c3 1 5 4 7 8zm0 0c1-5 4-8 7-8-3 1-5 4-7 8z" fill="#4f6b3a"/></svg>'
 
 /** n points on a ring of `px` pixels around `c` at the map's current zoom */
 function fan(m: L.Map, c: L.LatLng, n: number, px: number, start = -Math.PI / 2): L.LatLng[] {
@@ -72,6 +76,9 @@ export default function TribeMap({ focus, onSelect }: { focus?: string; onSelect
   const map = useRef<L.Map | null>(null)
   const layer = useRef<L.LayerGroup | null>(null)
   const marks = useRef<L.LayerGroup | null>(null)
+  const nature = useRef<L.LayerGroup | null>(null)
+  /** label boxes already used on the map (layer pixels), so later labels avoid them */
+  const labelBoxes = useRef<L.Bounds[]>([])
   const bases = useRef<Record<Base, L.Layer> | null>(null)
   const [groups, setGroups] = useState<Set<Tribe['group']>>(new Set(['quraisy', 'anshar', 'arab', 'ajam']))
   const [hover, setHover] = useState<string | null>(null)
@@ -88,6 +95,7 @@ export default function TribeMap({ focus, onSelect }: { focus?: string; onSelect
     return out
   }, [bio])
   const landmarks = useMemo(() => Object.values(bio?.landmarks ?? {}).flat(), [bio])
+  const shapes = useMemo(() => Object.values(bio?.shapes ?? {}).flat(), [bio])
 
   const visible = useMemo(() => all.filter((e) => e.p.lat != null && groups.has(tribes.get(e.tid)?.group ?? 'arab')), [all, groups, tribes])
   const spots = useMemo(() => {
@@ -147,6 +155,9 @@ export default function TribeMap({ focus, onSelect }: { focus?: string; onSelect
     m.on('zoomend', () => setZoom(m.getZoom()))
     layer.current = L.layerGroup().addTo(m)
     marks.current = L.layerGroup()
+    // natural features sit under every marker
+    m.createPane('nature').style.zIndex = '350'
+    nature.current = L.layerGroup()
     map.current = m
     // tribe links inside popups
     const onClick = (ev: MouseEvent) => {
@@ -170,8 +181,11 @@ export default function TribeMap({ focus, onSelect }: { focus?: string; onSelect
       if (k === base) l.addTo(m)
       else m.removeLayer(l)
     }
-    if (base === 'era') marks.current?.addTo(m)
-    else if (marks.current) m.removeLayer(marks.current)
+    for (const l of [nature.current, marks.current]) {
+      if (!l) continue
+      if (base === 'era') l.addTo(m)
+      else m.removeLayer(l)
+    }
     // the terrain model behind the era view has no detail past zoom 16 — deeper would only blur it
     m.setMaxZoom(base === 'era' ? ERA_MAX_ZOOM : 19)
   }, [base])
@@ -195,6 +209,18 @@ export default function TribeMap({ focus, onSelect }: { focus?: string; onSelect
         iconSize: [size, size],
         html: `<span style="display:flex;align-items:center;justify-content:center;width:${size}px;height:${size}px;border-radius:999px;background:${approx ? 'rgba(255,255,255,.85)' : color};border:2px ${approx ? 'dashed' : 'solid'} ${approx ? color : '#fff'};box-shadow:0 1px 4px rgba(0,0,0,.35);color:${approx ? '#0f3b2e' : '#fcfaf4'};font:700 10px/1 'Plus Jakarta Sans',sans-serif;opacity:${on ? 1 : 0.25}">${label}</span>`,
       })
+    // area badges only where they fit, the biggest areas first
+    const badgeBoxes: L.Bounds[] = []
+    const badgeFits = new Set<string>()
+    if (area)
+      for (const s of [...spots].filter((x) => x.approx).sort((a, b) => b.items.length - a.items.length)) {
+        const pt = m.latLngToLayerPoint([s.lat + AREA_M / 111320, s.lon])
+        const w = 60 + (s.items[0].p.near ?? '').length * 6
+        const box = L.bounds([pt.x - w / 2, pt.y - 10], [pt.x + w / 2, pt.y + 10])
+        if (badgeBoxes.some((b) => b.intersects(box))) continue
+        badgeBoxes.push(box)
+        badgeFits.add(s.key)
+      }
     for (const s of spots) {
       const tids = [...new Set(s.items.flatMap((x) => x.tids))]
       const on = !hl || tids.includes(hl)
@@ -209,12 +235,13 @@ export default function TribeMap({ focus, onSelect }: { focus?: string; onSelect
         L.circle([s.lat, s.lon], { radius: AREA_M, color, weight: 1.5, dashArray: '6 6', fillColor: color, fillOpacity: on ? 0.06 : 0.02, opacity: on ? 0.9 : 0.3 })
           .bindPopup(popup, opts)
           .addTo(lg)
-        L.marker([s.lat + AREA_M / 111320, s.lon], {
-          icon: L.divIcon({ className: '', iconSize: undefined, html: `<span class="nm-area-badge" style="border-color:${color}">± ${s.items.length} tempat · sekitar ${near}</span>` }),
-          zIndexOffset: 500,
-        })
-          .bindPopup(popup, opts)
-          .addTo(lg)
+        if (badgeFits.has(s.key) && base !== 'era')
+          L.marker([s.lat + AREA_M / 111320, s.lon], {
+            icon: L.divIcon({ className: '', iconSize: undefined, html: `<span class="nm-area-badge" style="border-color:${color}">± ${s.items.length} tempat · sekitar ${near}</span>` }),
+            zIndexOffset: 500,
+          })
+            .bindPopup(popup, opts)
+            .addTo(lg)
         continue
       }
       if (s.items.length > 1 && zoom >= SPIDER_ZOOM) {
@@ -235,7 +262,69 @@ export default function TribeMap({ focus, onSelect }: { focus?: string; onSelect
         .bindPopup(popup, opts)
         .addTo(lg)
     }
-  }, [spots, focus, hover, tribes, tribeColorById, area, zoom])
+  }, [spots, focus, hover, tribes, tribeColorById, area, zoom, base])
+
+  // natural features (era view): drawn like an old map — wadis as sandy courses, mountains hatched, harrah as names
+  useEffect(() => {
+    const lg = nature.current
+    const m = map.current
+    if (!lg || !m) return
+    lg.clearLayers()
+    const placed: L.Bounds[] = []
+    labelBoxes.current = placed
+    const fits = (at: L.LatLngExpression, text: string, size: number) => {
+      const pt = m.latLngToLayerPoint(at)
+      const w = text.length * size * 0.62 + 10
+      const box = L.bounds([pt.x - w / 2, pt.y - size], [pt.x + w / 2, pt.y + size])
+      if (placed.some((b) => b.intersects(box))) return false
+      placed.push(box)
+      return true
+    }
+    const popup = (f: Shape) => `<div class="nm-pop"><div class="nm-entry">${placeHtml({ ...f, kind: KIND_LABEL[f.kind] } as Place)}</div></div>`
+    for (const f of shapes) {
+      if (f.lines?.length) {
+        if (f.kind === 'wadi') {
+          L.polyline(f.lines, { pane: 'nature', color: '#e2cf9e', weight: 9, opacity: 0.75, lineCap: 'round', lineJoin: 'round' }).bindPopup(popup(f)).addTo(lg)
+          L.polyline(f.lines, { pane: 'nature', color: '#6f8a8c', weight: 2, opacity: 0.9, dashArray: '1 5', lineCap: 'round' }).bindPopup(popup(f)).addTo(lg)
+          const longest = [...f.lines].sort((a, b) => b.length - a.length)[0]
+          const mid = longest[Math.floor(longest.length / 2)]
+          if (zoom >= 12 && fits(mid, f.t, 12)) L.marker(mid, { pane: 'nature', interactive: false, icon: L.divIcon({ className: '', iconSize: undefined, html: `<span class="nm-wadi-label">${esc(f.t)}</span>` }) }).addTo(lg)
+        } else {
+          const shape = L.polygon(f.lines, { pane: 'nature', color: '#7a5c3a', weight: 1.2, fillColor: 'url(#nm-hatch)', fillOpacity: 1, className: 'nm-hatched' })
+          shape
+            .bindPopup(popup(f))
+            .bindTooltip(esc(f.t), { direction: 'center', className: 'nm-mountain-label', permanent: zoom >= 12 && fits(shape.getBounds().getCenter(), f.t, 12) })
+            .addTo(lg)
+        }
+        continue
+      }
+      if (f.lat == null || f.lon == null) continue
+      // name-only features: harrah names always (they frame the city), gardens as a palm, the rest only where they fit
+      if (f.kind === 'harrah') fits([f.lat, f.lon], f.t, 15)
+      else if (f.kind !== 'kebun' && !(zoom >= 12 && fits([f.lat, f.lon], f.t, 12))) {
+        L.marker([f.lat, f.lon], { pane: 'nature', icon: L.divIcon({ className: '', iconSize: [8, 8], html: '<span class="nm-dot"></span>' }), title: f.t })
+          .bindTooltip(esc(f.t), { direction: 'right', className: 'nm-mark-label' })
+          .bindPopup(popup(f))
+          .addTo(lg)
+        continue
+      }
+      const html =
+        f.kind === 'harrah'
+          ? `<span class="nm-harrah">${esc(f.t)}</span>`
+          : f.kind === 'kebun'
+            ? `<span class="nm-palm" title="${esc(f.t)}">${PALM}</span>`
+            : `<span class="nm-mountain-label">${esc(f.t)}</span>`
+      L.marker([f.lat, f.lon], { pane: 'nature', icon: L.divIcon({ className: '', iconSize: undefined, html }), title: f.t }).bindPopup(popup(f)).addTo(lg)
+    }
+    // hatch pattern for mountains, added once to the map's SVG
+    const svg = m.getPanes().nature.querySelector('svg')
+    if (svg && !svg.querySelector('#nm-hatch')) {
+      svg.insertAdjacentHTML(
+        'afterbegin',
+        '<defs><pattern id="nm-hatch" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(35)"><rect width="6" height="6" fill="#d8c3a0" fill-opacity="0.55"/><line x1="0" y1="0" x2="0" y2="6" stroke="#7a5c3a" stroke-width="1.2" stroke-opacity="0.55"/></pattern></defs>',
+      )
+    }
+  }, [shapes, zoom, base])
 
   // historical landmarks (era view): fanned out where they share a point, names shown only where they do not collide
   useEffect(() => {
@@ -249,7 +338,7 @@ export default function TribeMap({ focus, onSelect }: { focus?: string; onSelect
       const k = `${p.lat.toFixed(4)},${p.lon!.toFixed(4)}`
       groups.set(k, [...(groups.get(k) ?? []), p])
     }
-    const placed: L.Bounds[] = []
+    const placed: L.Bounds[] = base === 'era' ? [...labelBoxes.current] : []
     const rows: { p: Place; at: L.LatLng }[] = []
     for (const ps of groups.values()) {
       const c = L.latLng(ps[0].lat!, ps[0].lon!)
@@ -272,7 +361,7 @@ export default function TribeMap({ focus, onSelect }: { focus?: string; onSelect
         .bindPopup(`<div class="nm-pop"><div class="nm-entry">${placeHtml(p)}</div></div>`, { maxWidth: 320 })
         .addTo(lg)
     }
-  }, [landmarks, zoom])
+  }, [landmarks, zoom, base, shapes])
 
   // first view: every drawn point
   const fitted = useRef(false)

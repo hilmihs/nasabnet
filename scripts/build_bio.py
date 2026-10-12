@@ -130,7 +130,9 @@ def main():
             tribes.setdefault(tid, {})["tempat"] = rows
     marks_f = ROOT / "data" / "landmarks.json"  # historical landmarks of Makkah/Madinah (map mode "Zaman Nabi")
     landmarks = json.loads(marks_f.read_text()) if marks_f.exists() else {}
-    (WEB / "bio.json").write_text(json.dumps({"persons": persons, "tribes": tribes, "landmarks": landmarks}, ensure_ascii=False, separators=(",", ":")))
+    shapes_f = ROOT / "data" / "shapes.json"  # wadis, mountains, harrah of the "Zaman Nabi" map (scripts/compile_shapes.py)
+    shapes = json.loads(shapes_f.read_text()) if shapes_f.exists() else {}
+    (WEB / "bio.json").write_text(json.dumps({"persons": persons, "tribes": tribes, "landmarks": landmarks, "shapes": shapes}, ensure_ascii=False, separators=(",", ":")))
     print(f"bio.json: {len(persons)} persons, {len(tribes)} tribes, {round((WEB / 'bio.json').stat().st_size / 1024)} KB")
 
 

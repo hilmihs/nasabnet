@@ -68,6 +68,20 @@ export interface BioData {
   tribes: Record<string, TribeProfile>
   /** historical landmarks of Makkah/Madinah for the map's "Zaman Nabi" view (data/landmarks.json) */
   landmarks?: Record<string, Place[]>
+  /** wadis, mountains, harrah and gardens drawn on the "Zaman Nabi" map (data/shapes.json) */
+  shapes?: Record<string, Shape[]>
+}
+
+/** A cited natural feature: OSM geometry as lines ([lat, lon] points) or, for a name-only label, a point. */
+export interface Shape {
+  t: string
+  ar: string
+  kind: 'wadi' | 'gunung' | 'harrah' | 'kebun'
+  note: string
+  src: string[]
+  lines?: [number, number][][]
+  lat?: number
+  lon?: number
 }
 
 let cache: Promise<BioData> | null = null

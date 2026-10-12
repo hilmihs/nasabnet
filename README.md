@@ -124,10 +124,14 @@ Semua butir naratif dikutip dari halaman kitab yang dibaca langsung (26 kitab Tu
   Shifat Jazirat al-'Arab, Jamharah, Futuh al-Buldan…), koordinat dari Wikidata/OpenStreetMap lewat
   `scripts/geo.py` (tidak pernah ditebak; "perkiraan" = kitab hanya menyebut "dekat X") → `check_places.py` →
   `compile_places.py` → `data/tribe_places.json`.
+- **Mode "Zaman Nabi ﷺ"** — relief medan tanpa jalan/bangunan modern; tempat bersejarah Makkah & Madinah
+  (`LANDMARKS_SPEC.md` → `data/landmarks.json`) dan unsur alam Madinah bergaya peta kuno — wadi, gunung, harrah,
+  kebun (`SHAPES_SPEC.md`, bentuk dari OpenStreetMap lewat `scripts/shapes.py` → `compile_shapes.py` →
+  `data/shapes.json`), semuanya bersitasi halaman kitab.
 
 ```bash
 python3 scripts/compile_profile.py && python3 scripts/compile_roles.py && python3 scripts/compile_moved.py
-python3 scripts/compile_places.py && python3 scripts/build_bio.py
+python3 scripts/compile_places.py && python3 scripts/compile_shapes.py && python3 scripts/build_bio.py
 ```
 
 ## Batasan
