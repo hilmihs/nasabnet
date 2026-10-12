@@ -66,17 +66,25 @@ export default function TribeMap({ focus, onSelect }: { focus?: string; onSelect
   // create the map once
   useEffect(() => {
     if (!box.current || map.current) return
-    const m = L.map(box.current, { center: [23.5, 43], zoom: 5, minZoom: 3, maxZoom: 13, scrollWheelZoom: false, worldCopyJump: true })
-    const esri = (name: string, maxNativeZoom: number) =>
+    const m = L.map(box.current, { center: [23.5, 43], zoom: 5, minZoom: 3, maxZoom: 18, scrollWheelZoom: false, worldCopyJump: true })
+    const esri = (name: string, opts: L.TileLayerOptions = {}) =>
       L.tileLayer(`https://server.arcgisonline.com/ArcGIS/rest/services/${name}/MapServer/tile/{z}/{y}/{x}`, {
         attribution: 'Tiles &copy; Esri · koordinat: Wikidata &amp; &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>',
-        maxNativeZoom,
-        maxZoom: 13,
+        maxZoom: 18,
+        ...opts,
       })
-    const relief = esri('World_Physical_Map', 8)
-    const topo = esri('World_Topo_Map', 13)
+    // World_Physical_Map only exists up to zoom 8: past that, switch to satellite imagery (sharp down to street level)
+    const relief = L.layerGroup([
+      esri('World_Physical_Map', { maxZoom: 8 }),
+      esri('World_Imagery', { minZoom: 9 }),
+      esri('Reference/World_Boundaries_and_Places', { minZoom: 9, pane: 'overlayPane' }),
+    ])
+    const satellite = L.layerGroup([esri('World_Imagery'), esri('Reference/World_Boundaries_and_Places', { pane: 'overlayPane' })])
+    const topo = esri('World_Topo_Map')
     relief.addTo(m)
-    L.control.layers({ 'Relief alam': relief, 'Topografi (nama tempat modern)': topo }, undefined, { position: 'topright' }).addTo(m)
+    L.control
+      .layers({ 'Relief alam (dekat: satelit)': relief, 'Citra satelit': satellite, 'Topografi (nama tempat modern)': topo }, undefined, { position: 'topright' })
+      .addTo(m)
     m.on('focus', () => m.scrollWheelZoom.enable())
     m.on('blur', () => m.scrollWheelZoom.disable())
     layer.current = L.layerGroup().addTo(m)
