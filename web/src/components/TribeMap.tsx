@@ -15,6 +15,22 @@ const CITIES: { id: string; name: string; center: [number, number] }[] = [
 ]
 /** from this zoom on, an approximate point is drawn as an area instead of a pin */
 const AREA_ZOOM = 12
+const AREA_M = 1500
+/** from this zoom on, places sharing one point are fanned out around it */
+const SPIDER_ZOOM = 13
+/** landmark names are written on the map from this zoom (only where they do not overlap) */
+const LABEL_ZOOM = 13
+const ERA_MAX_ZOOM = 16
+
+/** n points on a ring of `px` pixels around `c` at the map's current zoom */
+function fan(m: L.Map, c: L.LatLng, n: number, px: number, start = -Math.PI / 2): L.LatLng[] {
+  const o = m.latLngToLayerPoint(c)
+  const r = Math.max(px, (n * 18) / (2 * Math.PI))
+  return Array.from({ length: n }, (_, i) => {
+    const a = start + (2 * Math.PI * i) / n
+    return m.layerPointToLatLng(L.point(o.x + r * Math.cos(a), o.y + r * Math.sin(a)))
+  })
+}
 
 interface Entry {
   tid: string
@@ -122,7 +138,7 @@ export default function TribeMap({ focus, onSelect }: { focus?: string; onSelect
       // the Prophet's ﷺ time: bare terrain only (no modern roads, buildings or names), tinted
       era: L.layerGroup([
         esri('World_Physical_Map', { maxZoom: 8, maxNativeZoom: 8, className: 'nm-era' }),
-        esri('Elevation/World_Hillshade', { minZoom: 9, maxNativeZoom: 16, className: 'nm-era' }),
+        esri('Elevation/World_Hillshade', { minZoom: 9, maxNativeZoom: ERA_MAX_ZOOM, className: 'nm-era' }),
       ]),
     }
     bases.current.relief.addTo(m)
@@ -156,64 +172,103 @@ export default function TribeMap({ focus, onSelect }: { focus?: string; onSelect
     }
     if (base === 'era') marks.current?.addTo(m)
     else if (marks.current) m.removeLayer(marks.current)
+    // the terrain model behind the era view has no detail past zoom 16 — deeper would only blur it
+    m.setMaxZoom(base === 'era' ? ERA_MAX_ZOOM : 19)
   }, [base])
 
   // draw tribe places
   const area = zoom >= AREA_ZOOM
   useEffect(() => {
     const lg = layer.current
-    if (!lg) return
+    const m = map.current
+    if (!lg || !m) return
     lg.clearLayers()
     const hl = hover ?? focus
+    const tribeButtons = (tids: string[]) =>
+      `<div class="nm-tribes">${tids
+        .map((tid) => `<button type="button" data-tid="${tid}" class="nm-tribe" style="border-color:${tribeColorById(tid)}">${esc(tribes.get(tid)?.name ?? tid)} — buka profil</button>`)
+        .join('')}</div>`
+    const itemHtml = (x: Item) => `<div class="nm-entry">${placeHtml(x.p)}${tribeButtons(x.tids)}</div>`
+    const dot = (color: string, size: number, approx: boolean, on: boolean, label = '') =>
+      L.divIcon({
+        className: '',
+        iconSize: [size, size],
+        html: `<span style="display:flex;align-items:center;justify-content:center;width:${size}px;height:${size}px;border-radius:999px;background:${approx ? 'rgba(255,255,255,.85)' : color};border:2px ${approx ? 'dashed' : 'solid'} ${approx ? color : '#fff'};box-shadow:0 1px 4px rgba(0,0,0,.35);color:${approx ? '#0f3b2e' : '#fcfaf4'};font:700 10px/1 'Plus Jakarta Sans',sans-serif;opacity:${on ? 1 : 0.25}">${label}</span>`,
+      })
     for (const s of spots) {
       const tids = [...new Set(s.items.flatMap((x) => x.tids))]
       const on = !hl || tids.includes(hl)
       const color = tids.length === 1 ? tribeColorById(tids[0]) : '#0f3b2e'
-      const html = [...s.items]
-        .sort((a, b) => Number(b.tids.includes(hl ?? '')) - Number(a.tids.includes(hl ?? '')))
-        .map(
-          (x) => `<div class="nm-entry">${placeHtml(x.p)}<div class="nm-tribes">${x.tids
-            .map((tid) => `<button type="button" data-tid="${tid}" class="nm-tribe" style="border-color:${tribeColorById(tid)}">${esc(tribes.get(tid)?.name ?? tid)} — buka profil</button>`)
-            .join('')}</div></div>`,
-        )
-        .join('')
-      const popup = `<div class="nm-pop">${s.approx ? `<p class="nm-approx">${s.items.length} tempat yang letak persisnya tidak disebut kitab — hanya "di/dekat ${esc(s.items[0].p.near ?? '')}".</p>` : ''}${html}</div>`
+      const items = [...s.items].sort((a, b) => Number(b.tids.includes(hl ?? '')) - Number(a.tids.includes(hl ?? '')))
+      const near = esc(s.items[0].p.near ?? '')
+      const popup = `<div class="nm-pop">${s.approx ? `<p class="nm-approx">${s.items.length} tempat yang letak persisnya tidak disebut kitab — hanya "di/dekat ${near}".</p>` : ''}${items.map(itemHtml).join('')}</div>`
+      const opts = { maxWidth: 320, maxHeight: 360 }
       if (s.approx && area) {
-        // close up, an approximate point is an area, not a pin on whatever building sits at the town's centre
-        L.circle([s.lat, s.lon], { radius: 1500, color, weight: 1.5, dashArray: '6 6', fillColor: color, fillOpacity: on ? 0.07 : 0.02, opacity: on ? 0.9 : 0.3 })
-          .bindTooltip(`± ${s.items.length} tempat di sekitar ${esc(s.items[0].p.near ?? '')} (letak persis tidak disebut)`, { direction: 'center', className: 'nm-area-label' })
-          .bindPopup(popup, { maxWidth: 320, maxHeight: 360 })
+        // close up, an approximate point is an area, not a pin on whatever building sits at the town's centre;
+        // its label is a badge on the rim so it never covers what lies inside
+        L.circle([s.lat, s.lon], { radius: AREA_M, color, weight: 1.5, dashArray: '6 6', fillColor: color, fillOpacity: on ? 0.06 : 0.02, opacity: on ? 0.9 : 0.3 })
+          .bindPopup(popup, opts)
+          .addTo(lg)
+        L.marker([s.lat + AREA_M / 111320, s.lon], {
+          icon: L.divIcon({ className: '', iconSize: undefined, html: `<span class="nm-area-badge" style="border-color:${color}">± ${s.items.length} tempat · sekitar ${near}</span>` }),
+          zIndexOffset: 500,
+        })
+          .bindPopup(popup, opts)
           .addTo(lg)
         continue
       }
+      if (s.items.length > 1 && zoom >= SPIDER_ZOOM) {
+        // several places on one point: fan them out around it, each with its own card
+        const pts = fan(m, L.latLng(s.lat, s.lon), s.items.length, 26)
+        L.marker([s.lat, s.lon], { icon: dot('#0f3b2e', 8, false, on), interactive: false }).addTo(lg)
+        items.forEach((x, i) => {
+          const c = x.tids.length === 1 ? tribeColorById(x.tids[0]) : '#0f3b2e'
+          L.polyline([[s.lat, s.lon], pts[i]], { color: '#0f3b2e', weight: 1, opacity: 0.5, interactive: false }).addTo(lg)
+          L.marker(pts[i], { icon: dot(c, 14, s.approx, !hl || x.tids.includes(hl)), title: x.p.t, zIndexOffset: 1000 })
+            .bindPopup(`<div class="nm-pop">${itemHtml(x)}</div>`, opts)
+            .addTo(lg)
+        })
+        continue
+      }
       const n = s.items.length
-      const size = n > 1 ? 22 : 14
-      const icon = L.divIcon({
-        className: '',
-        iconSize: [size, size],
-        html: `<span style="display:flex;align-items:center;justify-content:center;width:${size}px;height:${size}px;border-radius:999px;background:${s.approx ? 'rgba(255,255,255,.85)' : color};border:2px ${s.approx ? 'dashed' : 'solid'} ${s.approx ? color : '#fff'};box-shadow:0 1px 4px rgba(0,0,0,.35);color:${s.approx ? '#0f3b2e' : '#fcfaf4'};font:700 10px/1 'Plus Jakarta Sans',sans-serif;opacity:${on ? 1 : 0.25}">${n > 1 ? n : ''}</span>`,
-      })
-      L.marker([s.lat, s.lon], { icon, zIndexOffset: on ? 1000 : 0, title: s.items.map((x) => x.p.t).join(' / ') })
-        .bindPopup(popup, { maxWidth: 320, maxHeight: 360 })
+      L.marker([s.lat, s.lon], { icon: dot(color, n > 1 ? 22 : 14, s.approx, on, n > 1 ? String(n) : ''), zIndexOffset: on ? 1000 : 0, title: s.items.map((x) => x.p.t).join(' / ') })
+        .bindPopup(popup, opts)
         .addTo(lg)
     }
-  }, [spots, focus, hover, tribes, tribeColorById, area])
+  }, [spots, focus, hover, tribes, tribeColorById, area, zoom])
 
-  // historical landmarks (era view)
+  // historical landmarks (era view): fanned out where they share a point, names shown only where they do not collide
   useEffect(() => {
     const lg = marks.current
-    if (!lg) return
+    const m = map.current
+    if (!lg || !m) return
     lg.clearLayers()
+    const groups = new Map<string, Place[]>()
     for (const p of landmarks) {
       if (p.lat == null) continue
-      const approx = p.precision === 'perkiraan'
-      const icon = L.divIcon({
-        className: '',
-        iconSize: [14, 14],
-        html: `<span class="nm-mark${approx ? ' nm-mark-approx' : ''}"></span>`,
+      const k = `${p.lat.toFixed(4)},${p.lon!.toFixed(4)}`
+      groups.set(k, [...(groups.get(k) ?? []), p])
+    }
+    const placed: L.Bounds[] = []
+    const rows: { p: Place; at: L.LatLng }[] = []
+    for (const ps of groups.values()) {
+      const c = L.latLng(ps[0].lat!, ps[0].lon!)
+      const pts = ps.length > 1 && zoom >= SPIDER_ZOOM ? fan(m, c, ps.length, 46, Math.PI / ps.length) : ps.map(() => c)
+      ps.forEach((p, i) => {
+        if (pts[i] !== c) L.polyline([c, pts[i]], { color: '#8a6a12', weight: 1, opacity: 0.6, interactive: false }).addTo(lg)
+        rows.push({ p, at: pts[i] })
       })
-      L.marker([p.lat, p.lon!], { icon, title: p.t })
-        .bindTooltip(esc(p.t), { permanent: zoom >= 13, direction: 'right', offset: [8, 0], className: 'nm-mark-label' })
+    }
+    // exact places get their label first
+    rows.sort((a, b) => Number(a.p.precision === 'perkiraan') - Number(b.p.precision === 'perkiraan'))
+    for (const { p, at } of rows) {
+      const approx = p.precision === 'perkiraan'
+      const pt = m.latLngToLayerPoint(at)
+      const box = L.bounds([pt.x + 6, pt.y - 10], [pt.x + 18 + p.t.length * 6.2, pt.y + 10])
+      const free = zoom >= LABEL_ZOOM && !placed.some((b) => b.intersects(box))
+      if (free) placed.push(box)
+      L.marker(at, { icon: L.divIcon({ className: '', iconSize: [14, 14], html: `<span class="nm-mark${approx ? ' nm-mark-approx' : ''}"></span>` }), title: p.t })
+        .bindTooltip(esc(p.t), { permanent: free, direction: 'right', offset: [8, 0], className: 'nm-mark-label' })
         .bindPopup(`<div class="nm-pop"><div class="nm-entry">${placeHtml(p)}</div></div>`, { maxWidth: 320 })
         .addTo(lg)
     }
