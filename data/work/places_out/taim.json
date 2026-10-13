@@ -18,6 +18,6 @@
    "src": ["Mu'jam ma Ista'jam 3/760"], "quote": ["وكان أبو بكر هناك نازلا"],
    "qid": "Q35484", "lat": 24.47, "lon": 39.61, "precision": "perkiraan", "near": "Madinah"},
   {"t": "Bustan Ibnu Ma'mar", "ar": "بستان ابن معمر", "kind": "lembah", "note": "Pertemuan dua wadi Nakhlah (al-Yamaniyah dan asy-Syamiyah); kebun milik 'Umar bin 'Ubaidillah bin Ma'mar at-Taimi",
-   "src": ["Mu'jam al-Buldan 1/414"], "quote": ["بستان ابن عامر انما هو لعمر بن عبيد الله بن معمر"],
-   "lat": null, "lon": null}
+   "src": ["Mu'jam al-Buldan 1/414", "Mu'jam al-Buldan 1/414"], "quote": ["بستان ابن عامر انما هو لعمر بن عبيد الله بن معمر", "بستان ابن معمر: مجتمع النخلتين النخلة اليمانية والنخلة الشامية، وهما واديان"],
+   "qid": "Q4704334", "lat": 21.6758, "lon": 40.1308, "precision": "perkiraan", "near": "Wadi Nakhlah asy-Syamiyah (pertemuan dua Nakhlah)"}
 ]}

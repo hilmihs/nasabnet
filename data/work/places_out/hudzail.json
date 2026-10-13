@@ -14,8 +14,19 @@
         "على الرجيع، ماء لهذيل بناحية الحجاز، على صدور الهدأة",
         "الرجيع ماء لهذيل قرب الهدأة بين مكة والطائف"
       ],
-      "lat": null,
-      "lon": null
+      "qid": null,
+      "derive": {
+        "method": "between",
+        "refs": [
+          "Q5806",
+          "Q182640"
+        ],
+        "frac": 0.5
+      },
+      "lat": 21.3446,
+      "lon": 40.1214,
+      "precision": "perkiraan",
+      "near": "antara Makkah dan ath-Tha'if (titik tengah), dekat al-Had'ah"
     },
     {
       "t": "al-Jauz (pegunungan as-Sarat dekat Thaif)",
@@ -75,8 +86,11 @@
       "quote": [
         "والحقاب: موضع بنعمان من منازل بني هذيل"
       ],
-      "lat": null,
-      "lon": null
+      "qid": "W905544124",
+      "lat": 21.2707,
+      "lon": 40.2127,
+      "precision": "perkiraan",
+      "near": "Wadi Nu'man"
     },
     {
       "t": "Wadi Rahath",

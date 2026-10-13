@@ -310,7 +310,11 @@
    "note": "Desa antara Makkah dan Tha'if milik Anshar",
    "src": [
     "Mu'jam al-Buldan 2/189"
-   ]
+   ],
+   "lat": 21.3446,
+   "lon": 40.1214,
+   "precision": "perkiraan",
+   "near": "antara Makkah dan ath-Tha'if (titik tengah)"
   },
   {
    "t": "Sumur Sumaihah",
@@ -318,8 +322,13 @@
    "kind": "mata air",
    "note": "Sumur di diyar Anshar; di sana Aus dan Khazraj saling mengajak berdamai soal darah Abjar bin Sumair",
    "src": [
-    "Mu'jam ma Ista'jam 3/757"
-   ]
+    "Mu'jam ma Ista'jam 3/757",
+    "Mu'jam al-Buldan 3/255"
+   ],
+   "lat": 24.47,
+   "lon": 39.61,
+   "precision": "perkiraan",
+   "near": "Madinah (sumur tua di Madinah)"
   },
   {
    "t": "Ru'am",
@@ -560,7 +569,11 @@
    "note": "Termasuk manazil Aslam, antara Qudaid dan 'Usfan",
    "src": [
     "Mu'jam al-Buldan 2/161"
-   ]
+   ],
+   "lat": 22.1314,
+   "lon": 39.3371,
+   "precision": "perkiraan",
+   "near": "antara Qudaid dan 'Usfan (titik tengah)"
   },
   {
    "t": "al-'Arj",
@@ -568,8 +581,13 @@
    "kind": "desa",
    "note": "Termasuk negeri Aslam; 17 mil dari as-Suqya",
    "src": [
-    "Mu'jam ma Ista'jam 3/931"
-   ]
+    "Mu'jam ma Ista'jam 3/931",
+    "Mu'jam ma Ista'jam 3/954"
+   ],
+   "lat": 23.7225,
+   "lon": 39.1365,
+   "precision": "perkiraan",
+   "near": "±36 mil (19 + 17) dari al-Abwa' ke arah ar-Rauha' di jalan Madinah"
   },
   {
    "t": "Marr azh-Zhahran",
@@ -589,8 +607,13 @@
    "kind": "gunung",
    "note": "Milik Aslam, Hudzail, dan Ghadhirah; menurut al-Waqidi 25 mil dari Makkah",
    "src": [
-    "Mu'jam al-Buldan 3/453"
-   ]
+    "Mu'jam al-Buldan 3/453",
+    "Mu'jam ma Ista'jam 3/856"
+   ],
+   "lat": 21.7435,
+   "lon": 39.5241,
+   "precision": "perkiraan",
+   "near": "±25 mil dari Makkah di jalan Madinah (arah 'Usfan)"
   }
  ],
  "asyari": [
@@ -626,8 +649,13 @@
    "kind": "desa",
    "note": "Desa di lembah Zabid milik al-Asya'irah",
    "src": [
-    "Shifat Jazirat al-'Arab, hlm. 53"
-   ]
+    "Shifat Jazirat al-'Arab, hlm. 53",
+    "Mu'jam al-Buldan 4/311"
+   ],
+   "lat": 14.5278,
+   "lon": 43.1648,
+   "precision": "perkiraan",
+   "near": "±1 hari perjalanan dari Zabid ke arah Makkah"
   },
   {
    "t": "Rima'",
@@ -1149,7 +1177,11 @@
    "note": "Wadi milik Bani Bajilah, panjangnya setengah hari perjalanan",
    "src": [
     "Mu'jam al-Buldan 4/99"
-   ]
+   ],
+   "lat": 21.2142,
+   "lon": 41.6331,
+   "precision": "perkiraan",
+   "near": "Turabah (ujung hilir wadi)"
   },
   {
    "t": "Kufah",
@@ -1267,7 +1299,11 @@
    "note": "Saat Sa'd di al-Qadisiyyah, Bakr bin Wa'il ditempatkan di al-Qulaib dan menggali sumur di sana",
    "src": [
     "Mu'jam al-Buldan 1/239"
-   ]
+   ],
+   "lat": 31.583,
+   "lon": 44.433,
+   "precision": "perkiraan",
+   "near": "al-Qadisiyyah (sumur digali di timur al-'Udzaib)"
   },
   {
    "t": "Quhistan (Khurasan)",
@@ -1652,7 +1688,11 @@
    "note": "Tempat di Najd dari diyar Ghathafan, arah an-Nukhail; tujuan ghazwah Nabi ﷺ tahun 3 H",
    "src": [
     "Mu'jam al-Buldan 1/252"
-   ]
+   ],
+   "lat": 25.0658,
+   "lon": 40.4417,
+   "precision": "perkiraan",
+   "near": "an-Nukhail (al-Hanakiyah)"
   },
   {
    "t": "Harrat an-Nar",
@@ -1661,7 +1701,11 @@
    "note": "Menurut Nashr: harrah antara Wadi al-Qura dan Taima' dari diyar Ghathafan; kini dihuni 'Anazah",
    "src": [
     "Mu'jam al-Buldan 2/248"
-   ]
+   ],
+   "lat": 27.0631,
+   "lon": 38.0238,
+   "precision": "perkiraan",
+   "near": "antara Wadi al-Qura dan Taima' (titik tengah)"
   },
   {
    "t": "Raml 'Alij",
@@ -1690,8 +1734,13 @@
    "note": "Ghaiqah milik Bani Ghifar bin Mulail, antara Makkah dan Madinah; keluarga Khufaf bin Ima' tinggal di Ghaiqah dari negeri Ghifar",
    "src": [
     "Mu'jam ma Ista'jam 3/737",
-    "Usdul Ghabah 2/178"
-   ]
+    "Usdul Ghabah 2/178",
+    "Mu'jam al-Buldan 4/222"
+   ],
+   "lat": 23.6508,
+   "lon": 38.5194,
+   "precision": "perkiraan",
+   "near": "pesisir al-Jar"
   },
   {
    "t": "Adznab ash-Shafra'",
@@ -2165,7 +2214,10 @@
    "note": "Kota al-Ma'afir, milik Al al-Karandi dari Bani Tsumamah, keturunan Himyar al-Ashghar",
    "src": [
     "Shifat Jazirat al-'Arab, hlm. 54"
-   ]
+   ],
+   "lat": 13.4773,
+   "lon": 44.0125,
+   "precision": "tepat"
   }
  ],
  "hudzail": [
@@ -2177,7 +2229,11 @@
    "src": [
     "Sirah Ibnu Hisyam 2/170",
     "Mu'jam al-Buldan 3/29"
-   ]
+   ],
+   "lat": 21.3446,
+   "lon": 40.1214,
+   "precision": "perkiraan",
+   "near": "antara Makkah dan ath-Tha'if (titik tengah), dekat al-Had'ah"
   },
   {
    "t": "al-Jauz (pegunungan as-Sarat dekat Thaif)",
@@ -2220,7 +2276,11 @@
    "note": "Tempat di Nu'man, termasuk manazil Bani Hudzail",
    "src": [
     "Mu'jam al-Buldan 2/278"
-   ]
+   ],
+   "lat": 21.2707,
+   "lon": 40.2127,
+   "precision": "perkiraan",
+   "near": "Wadi Nu'man"
   },
   {
    "t": "Wadi Rahath",
@@ -2363,8 +2423,14 @@
    "kind": "daerah",
    "note": "Sebagian Juhainah turun di Dzu al-Marwah dan sekitarnya hingga Faif; kemudian Asyja' dan Muzainah menjadi tetangga mereka",
    "src": [
-    "Mu'jam ma Ista'jam 1/38"
-   ]
+    "Mu'jam ma Ista'jam 1/38",
+    "Mu'jam ma Ista'jam 4/1218",
+    "Mu'jam al-Buldan 5/116"
+   ],
+   "lat": 25.6737,
+   "lon": 38.3886,
+   "precision": "perkiraan",
+   "near": "±8 barid dari Madinah ke arah Wadi al-Qura (antara Dzu Khusyub dan Wadi al-Qura)"
   },
   {
    "t": "al-'Ish (pesisir)",
@@ -2984,7 +3050,11 @@
    "note": "Lembah di negeri Kinanah, kemudian milik Bani Nufatsah dari mereka",
    "src": [
     "Mu'jam al-Buldan 1/117"
-   ]
+   ],
+   "lat": 21.4225,
+   "lon": 39.8261,
+   "precision": "perkiraan",
+   "near": "dekat Makkah (wadi Tihamah dekat Makkah)"
   },
   {
    "t": "Khaniq",
@@ -3773,8 +3843,13 @@
    "kind": "desa",
    "note": "Desa besar; menurut az-Zubair, ditinggali Hisyam bin al-Walid dari keturunan al-Khiyar bin 'Adi bin Naufal",
    "src": [
-    "Mu'jam ma Ista'jam 3/764"
-   ]
+    "Mu'jam ma Ista'jam 3/764",
+    "Mu'jam al-Buldan 3/276"
+   ],
+   "lat": 22.9462,
+   "lon": 39.718,
+   "precision": "perkiraan",
+   "near": "titik tengah Makkah–Madinah (perkiraan kasar; kitab tidak menyebut letak persisnya)"
   },
   {
    "t": "as-Salman",
@@ -4070,7 +4145,10 @@
    "note": "Desa besar di wilayah Madinah, delapan barid dari Madinah di jalan Makkah; milik Quraisy, Anshar dan Muzainah",
    "src": [
     "Mu'jam al-Buldan 4/252"
-   ]
+   ],
+   "lat": 23.3476,
+   "lon": 39.6637,
+   "precision": "tepat"
   },
   {
    "t": "al-Marabid",
@@ -4079,7 +4157,11 @@
    "note": "Mata air berkebun kurma milik Quraisy dan Bani Laits, di bagian bawah Jarajir (wadi Juhainah)",
    "src": [
     "Mu'jam ma Ista'jam 4/1310"
-   ]
+   ],
+   "lat": 25.1037,
+   "lon": 38.5,
+   "precision": "perkiraan",
+   "near": "Jarajir (wadi Juhainah), di hilirnya"
   },
   {
    "t": "al-Maraghah",
@@ -4250,8 +4332,13 @@
    "kind": "desa",
    "note": "Desa 'Amr bin al-'Ash di Palestina, Syam; sebagian keluarganya tinggal di sana",
    "src": [
-    "Mu'jam ma Ista'jam 3/717"
-   ]
+    "Mu'jam ma Ista'jam 3/717",
+    "Mu'jam al-Buldan 3/185"
+   ],
+   "lat": 31.2522,
+   "lon": 34.7867,
+   "precision": "perkiraan",
+   "near": "Bir as-Sab' (Beersheba); kitab hanya menyebut 'antara Baitul Maqdis dan al-Karak', dicocokkan longgar"
   },
   {
    "t": "Hishn al-Barqah (al-Maraghah)",
@@ -4344,7 +4431,11 @@
    "note": "Di arah al-Fur', delapan barid dari Madinah; Nabi ﷺ menyerang himpunan besar Bani Sulaim di sana",
    "src": [
     "Ibnu Sa'd 2/35"
-   ]
+   ],
+   "lat": 23.3476,
+   "lon": 39.6637,
+   "precision": "perkiraan",
+   "near": "Wadi al-Fur' (Buhran di arah al-Fur')"
   },
   {
    "t": "al-Jamum",
@@ -4450,7 +4541,11 @@
    "note": "Pertemuan dua wadi Nakhlah (al-Yamaniyah dan asy-Syamiyah); kebun milik 'Umar bin 'Ubaidillah bin Ma'mar at-Taimi",
    "src": [
     "Mu'jam al-Buldan 1/414"
-   ]
+   ],
+   "lat": 21.6758,
+   "lon": 40.1308,
+   "precision": "perkiraan",
+   "near": "Wadi Nakhlah asy-Syamiyah (pertemuan dua Nakhlah)"
   }
  ],
  "tamim": [
@@ -4482,7 +4577,10 @@
    "note": "Tanah di negeri Bani Tamim; di sana Khalid bin al-Walid memerangi kaum murtad dan Malik bin Nuwairah terbunuh",
    "src": [
     "Mu'jam ma Ista'jam 1/256"
-   ]
+   ],
+   "lat": 25.6452,
+   "lon": 43.3967,
+   "precision": "tepat"
   },
   {
    "t": "'Adan (pesisir Kazhimah)",
@@ -4776,7 +4874,11 @@
    "note": "Kawasan di Ghuthah Damaskus berisi beberapa desa; dihuni para bangsawan Bani Umayyah",
    "src": [
     "Mu'jam al-Buldan 2/243"
-   ]
+   ],
+   "lat": 33.5131,
+   "lon": 36.2919,
+   "precision": "perkiraan",
+   "near": "Damaskus (kawasan Ghuthah)"
   },
   {
    "t": "al-Jami' (Ghuthah)",

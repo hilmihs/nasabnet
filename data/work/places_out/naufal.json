@@ -1,69 +1,82 @@
 {
-  "id": "naufal",
-  "places": [
-    {
-      "t": "Makkah (al-Bithah)",
-      "ar": "مكة",
-      "kind": "kota",
-      "note": "Bani Abdi Manaf (termasuk Naufal) tergolong Quraisy al-Bithah, yang masuk ke lembah Makkah bersama Qushay",
-      "src": [
-        "al-Muhabbar, hlm. 167",
-        "al-Muhabbar, hlm. 168"
-      ],
-      "quote": [
-        "قبائل قريش البطاح بنو عبد مناف",
-        "سموا «أبطحيين» لأنهم دخلوا مع قصي البطاح"
-      ],
-      "qid": "Q5806",
-      "lat": 21.4225,
-      "lon": 39.8261,
-      "precision": "tepat"
-    },
-    {
-      "t": "al-Madinah",
-      "ar": "المدينة",
-      "kind": "kota",
-      "note": "Jubair bin Muth'im bin 'Adi bin Naufal masuk Islam sebelum Fathu Makkah, turun di Madinah dan wafat di sana pada masa Mu'awiyah",
-      "src": [
-        "Tarikh ath-Thabari 11/553"
-      ],
-      "quote": [
-        "ونزل المدينة، ومات بها في خلافه معاويه"
-      ],
-      "qid": "Q35484",
-      "lat": 24.47,
-      "lon": 39.61,
-      "precision": "tepat"
-    },
-    {
-      "t": "as-Suwariqiyyah",
-      "ar": "السوارقية",
-      "kind": "desa",
-      "note": "Desa besar; menurut az-Zubair, ditinggali Hisyam bin al-Walid dari keturunan al-Khiyar bin 'Adi bin Naufal",
-      "src": [
-        "Mu'jam ma Ista'jam 3/764"
-      ],
-      "quote": [
-        "قال الزّبير: كان ينزلها هشام بن الوليد بن عدىّ الأصغر بن الخيار بن عدىّ"
-      ],
-      "lat": null,
-      "lon": null
-    },
-    {
-      "t": "as-Salman",
-      "ar": "السلمان",
-      "kind": "mata air",
-      "note": "Mata air kuno jahiliah di jalur Irak–Tihamah; di sana makam Naufal bin Abdi Manaf",
-      "src": [
-        "Mu'jam al-Buldan 3/239"
-      ],
-      "quote": [
-        "والسلمان ماء قديم جاهليّ وبه قبر نوفل بن عبد مناف"
-      ],
-      "qid": "Q4532645",
-      "lat": 30.5044,
-      "lon": 44.5392,
-      "precision": "tepat"
-    }
-  ]
+ "id": "naufal",
+ "places": [
+  {
+   "t": "Makkah (al-Bithah)",
+   "ar": "مكة",
+   "kind": "kota",
+   "note": "Bani Abdi Manaf (termasuk Naufal) tergolong Quraisy al-Bithah, yang masuk ke lembah Makkah bersama Qushay",
+   "src": [
+    "al-Muhabbar, hlm. 167",
+    "al-Muhabbar, hlm. 168"
+   ],
+   "quote": [
+    "قبائل قريش البطاح بنو عبد مناف",
+    "سموا «أبطحيين» لأنهم دخلوا مع قصي البطاح"
+   ],
+   "qid": "Q5806",
+   "lat": 21.4225,
+   "lon": 39.8261,
+   "precision": "tepat"
+  },
+  {
+   "t": "al-Madinah",
+   "ar": "المدينة",
+   "kind": "kota",
+   "note": "Jubair bin Muth'im bin 'Adi bin Naufal masuk Islam sebelum Fathu Makkah, turun di Madinah dan wafat di sana pada masa Mu'awiyah",
+   "src": [
+    "Tarikh ath-Thabari 11/553"
+   ],
+   "quote": [
+    "ونزل المدينة، ومات بها في خلافه معاويه"
+   ],
+   "qid": "Q35484",
+   "lat": 24.47,
+   "lon": 39.61,
+   "precision": "tepat"
+  },
+  {
+   "t": "as-Suwariqiyyah",
+   "ar": "السوارقية",
+   "kind": "desa",
+   "note": "Desa besar; menurut az-Zubair, ditinggali Hisyam bin al-Walid dari keturunan al-Khiyar bin 'Adi bin Naufal",
+   "src": [
+    "Mu'jam ma Ista'jam 3/764",
+    "Mu'jam al-Buldan 3/276"
+   ],
+   "quote": [
+    "قال الزّبير: كان ينزلها هشام بن الوليد بن عدىّ الأصغر بن الخيار بن عدىّ",
+    "قرية أبي بكر بين مكّة والمدينة، وهي نجدية وكانت لبني سليم"
+   ],
+   "qid": null,
+   "derive": {
+    "method": "between",
+    "refs": [
+     "Q5806",
+     "Q35484"
+    ],
+    "frac": 0.5
+   },
+   "lat": 22.9462,
+   "lon": 39.718,
+   "precision": "perkiraan",
+   "near": "titik tengah Makkah–Madinah (perkiraan kasar; kitab tidak menyebut letak persisnya)"
+  },
+  {
+   "t": "as-Salman",
+   "ar": "السلمان",
+   "kind": "mata air",
+   "note": "Mata air kuno jahiliah di jalur Irak–Tihamah; di sana makam Naufal bin Abdi Manaf",
+   "src": [
+    "Mu'jam al-Buldan 3/239"
+   ],
+   "quote": [
+    "والسلمان ماء قديم جاهليّ وبه قبر نوفل بن عبد مناف"
+   ],
+   "qid": "Q4532645",
+   "lat": 30.5044,
+   "lon": 44.5392,
+   "precision": "tepat"
+  }
+ ]
 }

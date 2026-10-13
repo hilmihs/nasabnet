@@ -399,8 +399,9 @@ export default function TribeMap({ focus, onSelect }: { focus?: string; onSelect
         continue
       }
       // name-only features: harrah names always (they frame the city), gardens as a palm, the rest only where they fit
-      if (f.kind === 'harrah') fits([f.lat, f.lon], f.t, 15)
-      else if (f.kind !== 'kebun' && !(zoom >= 12 && fits([f.lat, f.lon], f.t, 12))) {
+      if (f.kind === 'harrah') {
+        if (!fits([f.lat, f.lon], f.t, 15)) continue
+      } else if (f.kind !== 'kebun' && !(zoom >= 12 && fits([f.lat, f.lon], f.t, 12))) {
         L.marker([f.lat, f.lon], { pane: 'nature', icon: L.divIcon({ className: '', iconSize: [8, 8], html: '<span class="nm-dot"></span>' }), title: f.t })
           .bindTooltip(esc(f.t), { direction: 'right', className: 'nm-mark-label' })
           .bindPopup(popup(f))

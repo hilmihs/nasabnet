@@ -1,7 +1,7 @@
 {"id": "ghifar", "places": [
   {"t": "Ghaiqah", "ar": "غيقة", "kind": "daerah", "note": "Ghaiqah milik Bani Ghifar bin Mulail, antara Makkah dan Madinah; keluarga Khufaf bin Ima' tinggal di Ghaiqah dari negeri Ghifar",
-   "src": ["Mu'jam ma Ista'jam 3/737", "Usdul Ghabah 2/178"], "quote": ["وغيقة: لبنى غفار بن مليل، بين مكّة والمدينة", "وكانوا ينزلون غيقة من بلاد غفار"],
-   "lat": null, "lon": null},
+   "src": ["Mu'jam ma Ista'jam 3/737", "Usdul Ghabah 2/178", "Mu'jam al-Buldan 4/222"], "quote": ["وغيقة: لبنى غفار بن مليل، بين مكّة والمدينة", "وكانوا ينزلون غيقة من بلاد غفار", "وقيل: غيقة خبت في ساحل بحر الجار فيه أودية"],
+   "qid": "Q12246907", "lat": 23.6508, "lon": 38.5194, "precision": "perkiraan", "near": "pesisir al-Jar"},
   {"t": "Adznab ash-Shafra'", "ar": "أذناب الصفراء", "kind": "mata air", "note": "al-Bughaibighah, Ghaiqah dan Adznab ash-Shafra' dahulu adalah mata air milik Bani Ghifar dari Bani Dhamrah",
    "src": ["Mu'jam ma Ista'jam 2/659"], "quote": ["كانت البغيبغة وغيقة وأذناب الصفراء مياها لبنى غفار، من بنى ضمرة"],
    "qid": "Q12250506", "lat": 24.0128, "lon": 38.9228, "precision": "perkiraan", "near": "Wadi ash-Shafra'"},

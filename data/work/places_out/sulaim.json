@@ -19,7 +19,7 @@
    "qid": "N11107358802", "lat": 24.4717, "lon": 40.0967, "precision": "tepat"},
   {"t": "Buhran", "ar": "بحران", "kind": "daerah", "note": "Di arah al-Fur', delapan barid dari Madinah; Nabi ﷺ menyerang himpunan besar Bani Sulaim di sana",
    "src": ["Ibnu Sa'd 2/35"], "quote": ["وبحران بناحية الفرع وبين الفرع والمدينة ثمانية برد، وذلك أنه بلغه أن بها جمعا من بني سليم كثيرا"],
-   "lat": null, "lon": null},
+   "qid": "W1089836311", "lat": 23.3476, "lon": 39.6637, "precision": "perkiraan", "near": "Wadi al-Fur' (Buhran di arah al-Fur')"},
   {"t": "al-Jamum", "ar": "الجموم", "kind": "daerah", "note": "Tanah Bani Sulaim di arah Bathn Nakhl; sasaran sariyyah Zaid bin Haritsah",
    "src": ["Sirah Ibnu Hisyam 2/612", "Ibnu Sa'd 2/86"], "quote": ["وَغَزْوَةُ زَيْدِ بْنِ حَارِثَةَ الْجَمُومَ مِنْ أَرْضِ بَنِي سُلَيْمٍ", "فسار حتى ورد الجموم ناحية بطن نخل عن يسارها"],
    "lat": null, "lon": null},

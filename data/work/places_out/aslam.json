@@ -46,8 +46,19 @@
       "quote": [
         "وهو من منازل أسلم بين قديد وعسفان"
       ],
-      "lat": null,
-      "lon": null
+      "qid": null,
+      "derive": {
+        "method": "between",
+        "refs": [
+          "N11870950598",
+          "N538716313"
+        ],
+        "frac": 0.5
+      },
+      "lat": 22.1314,
+      "lon": 39.3371,
+      "precision": "perkiraan",
+      "near": "antara Qudaid dan 'Usfan (titik tengah)"
     },
     {
       "t": "al-'Arj",
@@ -55,13 +66,25 @@
       "kind": "desa",
       "note": "Termasuk negeri Aslam; 17 mil dari as-Suqya",
       "src": [
-        "Mu'jam ma Ista'jam 3/931"
+        "Mu'jam ma Ista'jam 3/931",
+        "Mu'jam ma Ista'jam 3/954"
       ],
       "quote": [
-        "والعرج من بلاد أسلم"
+        "والعرج من بلاد أسلم",
+        "ومن العرج إلى السّقيا سبعة عشر ميلا؛ ومن السّقيا إلى الأبواء تسعة عشر ميلا"
       ],
-      "lat": null,
-      "lon": null
+      "qid": null,
+      "derive": {
+        "method": "offset",
+        "ref": "Q1051781",
+        "toward": "Q16122630",
+        "dist": 36.0,
+        "unit": "mil"
+      },
+      "lat": 23.7225,
+      "lon": 39.1365,
+      "precision": "perkiraan",
+      "near": "±36 mil (19 + 17) dari al-Abwa' ke arah ar-Rauha' di jalan Madinah"
     },
     {
       "t": "Marr azh-Zhahran",
@@ -87,13 +110,25 @@
       "kind": "gunung",
       "note": "Milik Aslam, Hudzail, dan Ghadhirah; menurut al-Waqidi 25 mil dari Makkah",
       "src": [
-        "Mu'jam al-Buldan 3/453"
+        "Mu'jam al-Buldan 3/453",
+        "Mu'jam ma Ista'jam 3/856"
       ],
       "quote": [
-        "بين ضجنان ومكّة خمسة وعشرون ميلا، وهي لأسلم وهذيل وغاضرة"
+        "بين ضجنان ومكّة خمسة وعشرون ميلا، وهي لأسلم وهذيل وغاضرة",
+        "جبل بناحية مكّة، على طريق المدينة"
       ],
-      "lat": null,
-      "lon": null
+      "qid": null,
+      "derive": {
+        "method": "offset",
+        "ref": "Q5806",
+        "toward": "N538716313",
+        "dist": 25.0,
+        "unit": "mil"
+      },
+      "lat": 21.7435,
+      "lon": 39.5241,
+      "precision": "perkiraan",
+      "near": "±25 mil dari Makkah di jalan Madinah (arah 'Usfan)"
     }
   ]
 }

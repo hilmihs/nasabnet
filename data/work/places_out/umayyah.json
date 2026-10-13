@@ -94,8 +94,11 @@
    "quote": [
     "ناحية بدمشق بالغوطة فيها عدة قرى، بها قوم من أشراف بني أمية"
    ],
-   "lat": null,
-   "lon": null
+   "qid": "Q3766",
+   "lat": 33.5131,
+   "lon": 36.2919,
+   "precision": "perkiraan",
+   "near": "Damaskus (kawasan Ghuthah)"
   },
   {
    "t": "al-Jami' (Ghuthah)",

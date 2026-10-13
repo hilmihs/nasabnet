@@ -1,7 +1,88 @@
-{"id": "sahm", "places": [
-  {"t": "ats-Tsaniyyah (Makkah)", "ar": "الثنية", "kind": "distrik", "note": "Saat Qushay membagi Makkah, Bani Sahm mendapat ats-Tsaniyyah; Bani 'Adi di bawahnya, antara Bani Jumah dan Bani Sahm", "src": ["Mu'jam ma Ista'jam 1/258"], "quote": ["ولبنى سهم الننيّة، ولبنى عدىّ أسفل الثنيّة، فيما بين بنى جمح وبنى سهم"], "qid": "Q5806", "lat": 21.4225, "lon": 39.8261, "precision": "perkiraan", "near": "Makkah"},
-  {"t": "Sumur al-Ghamr (Makkah)", "ar": "الغمر", "kind": "mata air", "note": "Sumur yang digali Bani Sahm untuk jamaah haji; sumur al-'Ash bin Wa'il", "src": ["Futuh al-Buldan, hlm. 58"], "quote": ["وحفر بنو سهم الغمر وهي بئر العاصي بْن وائل"], "qid": "Q5806", "lat": 21.4225, "lon": 39.8261, "precision": "perkiraan", "near": "Makkah"},
-  {"t": "al-Wahth (Tha'if)", "ar": "الوهط", "kind": "desa", "note": "Desa di Tha'if, tiga mil dari Wajj; kebun anggur milik 'Amr bin al-'Ash", "src": ["Mu'jam al-Buldan 5/386"], "quote": ["الوهط قرية بالطائف على ثلاثة أميال من وجّ كانت لعمرو بن العاص"], "qid": "N1236467950", "lat": 21.1915, "lon": 40.3506, "precision": "tepat"},
-  {"t": "as-Sab' (Palestina)", "ar": "السبع", "kind": "desa", "note": "Desa 'Amr bin al-'Ash di Palestina, Syam; sebagian keluarganya tinggal di sana", "src": ["Mu'jam ma Ista'jam 3/717"], "quote": ["وهى قرية عمرو بن العاصى من فلسطين بالشام، وبها بعض أهله"], "lat": null, "lon": null},
-  {"t": "Hishn al-Barqah (al-Maraghah)", "ar": "البرقة", "kind": "benteng", "note": "Al-Maraghah di negeri Khats'am kebanyakan dihuni Quraisy; satu dari dua bentengnya, al-Barqah, milik Bani Sahm", "src": ["Shifat Jazirat al-'Arab, hlm. 119"], "quote": ["وأكثر ساكن المراغة قريش بها حصنان أحدهما القرن مخزومي والثاني البرقة سهمّي"], "lat": null, "lon": null}
-]}
+{
+ "id": "sahm",
+ "places": [
+  {
+   "t": "ats-Tsaniyyah (Makkah)",
+   "ar": "الثنية",
+   "kind": "distrik",
+   "note": "Saat Qushay membagi Makkah, Bani Sahm mendapat ats-Tsaniyyah; Bani 'Adi di bawahnya, antara Bani Jumah dan Bani Sahm",
+   "src": [
+    "Mu'jam ma Ista'jam 1/258"
+   ],
+   "quote": [
+    "ولبنى سهم الننيّة، ولبنى عدىّ أسفل الثنيّة، فيما بين بنى جمح وبنى سهم"
+   ],
+   "qid": "Q5806",
+   "lat": 21.4225,
+   "lon": 39.8261,
+   "precision": "perkiraan",
+   "near": "Makkah"
+  },
+  {
+   "t": "Sumur al-Ghamr (Makkah)",
+   "ar": "الغمر",
+   "kind": "mata air",
+   "note": "Sumur yang digali Bani Sahm untuk jamaah haji; sumur al-'Ash bin Wa'il",
+   "src": [
+    "Futuh al-Buldan, hlm. 58"
+   ],
+   "quote": [
+    "وحفر بنو سهم الغمر وهي بئر العاصي بْن وائل"
+   ],
+   "qid": "Q5806",
+   "lat": 21.4225,
+   "lon": 39.8261,
+   "precision": "perkiraan",
+   "near": "Makkah"
+  },
+  {
+   "t": "al-Wahth (Tha'if)",
+   "ar": "الوهط",
+   "kind": "desa",
+   "note": "Desa di Tha'if, tiga mil dari Wajj; kebun anggur milik 'Amr bin al-'Ash",
+   "src": [
+    "Mu'jam al-Buldan 5/386"
+   ],
+   "quote": [
+    "الوهط قرية بالطائف على ثلاثة أميال من وجّ كانت لعمرو بن العاص"
+   ],
+   "qid": "N1236467950",
+   "lat": 21.1915,
+   "lon": 40.3506,
+   "precision": "tepat"
+  },
+  {
+   "t": "as-Sab' (Palestina)",
+   "ar": "السبع",
+   "kind": "desa",
+   "note": "Desa 'Amr bin al-'Ash di Palestina, Syam; sebagian keluarganya tinggal di sana",
+   "src": [
+    "Mu'jam ma Ista'jam 3/717",
+    "Mu'jam al-Buldan 3/185"
+   ],
+   "quote": [
+    "وهى قرية عمرو بن العاصى من فلسطين بالشام، وبها بعض أهله",
+    "والسبع: ناحية في فلسطين بين بيت المقدس والكرك فيه سبع آبار سمي الموضع بذلك وكان ملكا لعمرو بن العاص"
+   ],
+   "qid": "Q41843",
+   "lat": 31.2522,
+   "lon": 34.7867,
+   "precision": "perkiraan",
+   "near": "Bir as-Sab' (Beersheba); kitab hanya menyebut 'antara Baitul Maqdis dan al-Karak', dicocokkan longgar"
+  },
+  {
+   "t": "Hishn al-Barqah (al-Maraghah)",
+   "ar": "البرقة",
+   "kind": "benteng",
+   "note": "Al-Maraghah di negeri Khats'am kebanyakan dihuni Quraisy; satu dari dua bentengnya, al-Barqah, milik Bani Sahm",
+   "src": [
+    "Shifat Jazirat al-'Arab, hlm. 119"
+   ],
+   "quote": [
+    "وأكثر ساكن المراغة قريش بها حصنان أحدهما القرن مخزومي والثاني البرقة سهمّي"
+   ],
+   "lat": null,
+   "lon": null
+  }
+ ]
+}
