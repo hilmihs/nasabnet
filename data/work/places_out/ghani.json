@@ -79,7 +79,10 @@
         "أودية وهضبات بنجد في ديار غنيّ"
       ],
       "lat": null,
-      "lon": null
+      "lon": null,
+      "zone": "Najd",
+      "zone_qid": "Q208154",
+      "zone_km": 250
     },
     {
       "t": "Wadi 'Aqil (bagian atas)",
@@ -87,13 +90,18 @@
       "kind": "lembah",
       "note": "Lembah di Najd dari Hazir Adhakh; bagian atasnya milik Ghani, bawahnya milik Asad, Dhabbah, dan Aban bin Darim",
       "src": [
-        "Mu'jam al-Buldan 4/68"
+        "Mu'jam al-Buldan 4/68",
+        "Bilad al-'Arab (al-Ashfahani), hlm. 384"
       ],
       "quote": [
-        "فأعلاه لغني وأسفله لبني أسد"
+        "فأعلاه لغني وأسفله لبني أسد",
+        "وعاقل يدعى الآن العاقلي وفيه الآن قرية تابعة للرس، بهذا الاسم، في غرب القصيم"
       ],
-      "lat": null,
-      "lon": null
+      "qid": "Q1878991",
+      "lat": 25.8667,
+      "lon": 43.5,
+      "precision": "perkiraan",
+      "near": "ar-Rass (desa al-'Aqili di Wadi 'Aqil termasuk wilayahnya)"
     },
     {
       "t": "Arainibah",
@@ -115,13 +123,17 @@
       "kind": "mata air",
       "note": "Mata air milik Ghani di timur an-Nir (ada pendapat lain: di Yaman)",
       "src": [
-        "Mu'jam al-Buldan 1/341"
+        "Mu'jam al-Buldan 1/341",
+        "Bilad al-'Arab (al-Ashfahani), hlm. 160"
       ],
       "quote": [
-        "ذو بحار ماء لغنيّ في شرقي النّير"
+        "ذو بحار ماء لغنيّ في شرقي النّير",
+        "ذو بحار: يسمى الآن بحار، وهو واد ينحدر من النير"
       ],
-      "lat": null,
-      "lon": null
+      "qid": "N6776234945",
+      "lat": 24.1602,
+      "lon": 43.6241,
+      "precision": "tepat"
     },
     {
       "t": "al-Kufah (cabang Bahtsah)",

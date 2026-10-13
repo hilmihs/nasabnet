@@ -112,7 +112,10 @@
     "الجامع: من قرى الغوطة، سكنها قوم من بني أمية"
    ],
    "lat": null,
-   "lon": null
+   "lon": null,
+   "zone": "Ghuthah Damaskus",
+   "zone_qid": "Q1522001",
+   "zone_km": 20
   },
   {
    "t": "Dair Sim'an",

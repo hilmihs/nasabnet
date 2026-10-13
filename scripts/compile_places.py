@@ -9,9 +9,10 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import check_places  # noqa: E402
+import geo  # noqa: E402
 
 ROOT = Path(__file__).resolve().parent.parent
-KEEP = ("t", "ar", "kind", "note", "src", "lat", "lon", "precision", "near")
+KEEP = ("t", "ar", "kind", "note", "src", "lat", "lon", "precision", "near", "zone")
 
 
 def main():
@@ -25,6 +26,9 @@ def main():
         for p in json.loads((check_places.OUT / f"{tid}.json").read_text())["places"]:
             r = {k: p[k] for k in KEEP if p.get(k) is not None}
             r["src"] = list(dict.fromkeys(r["src"]))
+            if p.get("lat") is None and p.get("zone_qid"):
+                z = geo.lookup([p["zone_qid"]])[0]
+                r["zone_lat"], r["zone_lon"], r["zone_km"] = z["lat"], z["lon"], p.get("zone_km", 120)
             rows.append(r)
         if tid.startswith("_"):
             marks[tid[1:]] = rows

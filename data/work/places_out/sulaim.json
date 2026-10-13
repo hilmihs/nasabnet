@@ -1,7 +1,7 @@
 {"id": "sulaim", "places": [
   {"t": "Harrat Bani Sulaim", "ar": "حرة بني سليم", "kind": "daerah", "note": "Harrah (padang lava) milik Bani Sulaim, disebut juga Ummu Shabbar; di 'Aliyah Najd; ada tambang batu dahnaj",
-   "src": ["Mu'jam al-Buldan 2/246"], "quote": ["حرة النار لبني سليم وتسمى أم صبّار، وفيها معدن الدّهنج"],
-   "lat": null, "lon": null},
+   "src": ["Mu'jam al-Buldan 2/246", "Mu'jam al-Ma'alim al-Jughrafiyyah (al-Biladi), hlm. 26"], "quote": ["حرة النار لبني سليم وتسمى أم صبّار، وفيها معدن الدّهنج", "تشمل معظم حرة الحجاز من جنوبي المدينة إلى شمالي مكة، وهي الحرة التي كانت تسمى حرة بني سليم"],
+   "lat": null, "lon": null, "zone": "Harrat al-Hijaz (Harrat Rahat)", "zone_qid": "Q3848045", "zone_km": 150},
   {"t": "as-Suwariqiyyah (as-Suwairiqiyyah)", "ar": "السوارقية", "kind": "desa", "note": "Desa besar antara Makkah dan Madinah, khusus milik Bani Sulaim; ada mimbar, masjid jami' dan pasar, kebun kurma dan buah",
    "src": ["Mu'jam al-Buldan 3/276"], "quote": ["تأتيها التجار من الأقطار لبني سليم خاصة، ولكل من بني سليم فيها شيء"],
    "qid": "Q4803020", "lat": 23.35, "lon": 40.3167, "precision": "tepat"},
@@ -25,5 +25,5 @@
    "lat": null, "lon": null},
   {"t": "ad-Dathinah", "ar": "الدثينة", "kind": "daerah", "note": "Persinggahan milik Bani Sulaim di jalan Bashrah–Makkah, sesudah Faljah",
    "src": ["Mu'jam al-Buldan 2/440"], "quote": ["الدثينة منزل بعد فلجة من البصرة إلى مكة، وهي لبني سليم"],
-   "lat": null, "lon": null}
+   "qid": "TH:DATHINA_419E232N_S", "lat": 23.2254, "lon": 41.9247, "precision": "tepat"}
 ]}

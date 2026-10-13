@@ -136,7 +136,10 @@
         "ثم ينزل نخلا، فتصدّق الخضر خضر محارب، ثم ينزل المغيثة، فتصدّق سائر بنى محارب"
       ],
       "lat": null,
-      "lon": null
+      "lon": null,
+      "zone": "Bathn Nakhl",
+      "zone_qid": "TH:BATNNAKHL_400E248N_R",
+      "zone_km": 50
     }
   ]
 }

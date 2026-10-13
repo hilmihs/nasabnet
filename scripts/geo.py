@@ -13,6 +13,7 @@ Approximate points derived from a book's own description (data/work/PLACES_SPEC.
   python3 scripts/geo.py between Q182640 Q5806 [0.5]     # point at fraction f from the first to the second place
   python3 scripts/geo.py offset Q5806 NE 12 farsakh       # distance + direction from a place (mil/farsakh/barid/marhalah/km)
   python3 scripts/geo.py offset Q5806 Q182640 3 mil       # ... in the direction of another place
+  python3 scripts/geo.py thurayya "الصمان"               # al-Thurayya gazetteer of classical toponyms (ids TH:…)
 """
 import fcntl
 import math
@@ -96,12 +97,38 @@ def osm_search(q):
                          OSM + "/search"))
 
 
+THURAYYA = Path(__file__).resolve().parent.parent / "data" / "raw" / "thurayya.geojson"
+# download: curl -o data/raw/thurayya.geojson https://raw.githubusercontent.com/althurayya/althurayya.github.io/master/master/places.geojson
+
+
+def _thurayya():
+    rows = {}
+    for f in json.loads(THURAYYA.read_text())["features"]:
+        c = f["properties"].get("cornuData", {})
+        rows["TH:" + c["cornu_URI"]] = {"qid": "TH:" + c["cornu_URI"], "label": c.get("toponym_arabic", ""),
+                                       "desc": f"{c.get('toponym_translit', '')} — {c.get('region_spelled', '')} ({c.get('top_type_hom', '')}, {c.get('coord_certainty', '')})",
+                                       "other": c.get("toponym_arabic_other", ""), "country": "",
+                                       "lat": round(float(c["coord_lat"]), 4), "lon": round(float(c["coord_lon"]), 4)}
+    return rows
+
+
+def thurayya_search(q):
+    import re
+    sys.path.insert(0, str(Path(__file__).resolve().parent))
+    from books import norm
+    nq = norm(q).strip()
+    return [r for r in _thurayya().values() if any(norm(x).strip() == nq or nq in norm(x) for x in [r["label"], *r["other"].split(",")] if x)]
+
+
 def lookup(ids, lang="en"):
     """Wikidata Q-ids or OSM ids (N123/W123/R123) -> rows with lat/lon."""
+    th = [i for i in ids if i.startswith("TH:")]
+    ids = [i for i in ids if i not in th]
+    thr = [_thurayya()[i] for i in th if i in _thurayya()] if th else []
     osm = [i for i in ids if i[:1] in "NWR" and i[1:].isdigit()]
     rows = osm_rows(call({"osm_ids": ",".join(osm), "format": "jsonv2"}, OSM + "/lookup")) if osm else []
     wd = [i for i in ids if i not in osm]
-    return rows + (entities(wd, lang) if wd else [])
+    return thr + rows + (entities(wd, lang) if wd else [])
 
 
 UNITS_KM = {"km": 1.0, "mil": 1.9, "farsakh": 5.7, "barid": 22.8, "marhalah": 40.0}
@@ -150,6 +177,12 @@ def main():
                 print(f"{r['qid']}\t{r['lat']},{r['lon']}\t{r['label']} — {r['desc']} [{r['country']}]")
         if not any(r["lat"] is not None for r in rows):
             print("no candidates with coordinates")
+    elif cmd == "thurayya":
+        rows = thurayya_search(arg)
+        for r in rows:
+            print(f"{r['qid']}\t{r['lat']},{r['lon']}\t{r['label']} — {r['desc']}")
+        if not rows:
+            print("no candidates")
     elif cmd == "osm":
         rows = osm_search(arg)
         for r in rows:

@@ -9,8 +9,8 @@
    "src": ["Mu'jam ma Ista'jam 1/90"], "quote": ["ونزلت ثقيف وبجيلة حضرة الطائف"],
    "qid": "Q182640", "lat": 21.2667, "lon": 40.4167, "precision": "perkiraan", "near": "ath-Tha'if"},
   {"t": "Jabalah (Najd)", "ar": "جبلة", "kind": "gunung", "note": "Gunung/hadbah panjang dengan syi'b luas; di sana tinggal 'Uraynah, bathn dari Bajilah, sekutu Bani Kilab",
-   "src": ["Mu'jam al-Buldan 2/104", "Mu'jam al-Buldan 2/104"], "quote": ["والشعب متقارب وداخله متسع، وبه عرينة بطن من بجيلة", "وعرينة: حيّ من بجيلة حلفاء في بني كلاب"],
-   "lat": null, "lon": null},
+   "src": ["Mu'jam al-Buldan 2/104", "Mu'jam al-Buldan 2/104", "Mu'jam al-Ma'alim al-Jughrafiyyah (al-Biladi), hlm. 79"], "quote": ["والشعب متقارب وداخله متسع، وبه عرينة بطن من بجيلة", "وعرينة: حيّ من بجيلة حلفاء في بني كلاب", "تقع شمال عفيف، إذا أقبلت من الدوادمي تؤم بلدة عفيف ودخلت المنطقة الجبلية، رأيت جبلة عن يمينك"],
+   "qid": "Q97291157", "lat": 23.9034, "lon": 42.9479, "precision": "perkiraan", "near": "'Afif (Jabalah di sebelah utaranya)"},
   {"t": "Raudhah Ra'm", "ar": "روضة رعم", "kind": "daerah", "note": "Raudhah (padang rumput) di diyar Bajilah; Ra'm nama gunung di diyar Bajilah",
    "src": ["Mu'jam al-Buldan 3/90", "Mu'jam al-Buldan 3/52"], "quote": ["رَوْضَةُ رَعْم: في ديار بجيلة", "وهو اسم جبل في ديار بجيلة وفيه روضة ذكرت"],
    "lat": null, "lon": null},
@@ -22,5 +22,5 @@
    "qid": "Q186234", "lat": 32.03, "lon": 44.4, "precision": "tepat"},
   {"t": "Sawad Iraq", "ar": "السواد", "kind": "daerah", "note": "Jarir datang dari as-Sarat bersama Bajilah ke Iraq; 'Umar memberi Bajilah seperempat Sawad, mereka mengambilnya tiga tahun",
    "src": ["Futuh al-Buldan, hlm. 249", "Futuh al-Buldan, hlm. 263"], "quote": ["وقدم جرير بْن عَبْد اللَّهِ منَ السراة في بجيلة", "كان عُمَر أعطى بجيلة ربع السواد فأخذوه ثلاث سنين"],
-   "lat": null, "lon": null}
+   "lat": null, "lon": null, "zone": "Sawad Irak", "zone_qid": "Q12370195", "zone_km": 200}
 ]}

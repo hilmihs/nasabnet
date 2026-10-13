@@ -34,6 +34,13 @@ def check(tid):
         if p.get("lat") is None:
             if p.get("lon") is not None or p.get("qid") or p.get("derive"):
                 errs.append(f"{w}: lat null but lon/qid set")
+            if p.get("zone_qid"):
+                # region-only place: drawn as a wide translucent zone, never a pin
+                if not (p.get("zone") or "").strip():
+                    errs.append(f"{w}: zone_qid needs zone (region name shown to readers)")
+                g = (geo.lookup([p["zone_qid"]]) or [{"lat": None}])[0]
+                if g.get("lat") is None:
+                    errs.append(f"{w}: zone_qid {p['zone_qid']} has no coordinates")
             continue
         if p.get("precision") not in ("tepat", "perkiraan"):
             errs.append(f"{w}: precision must be tepat or perkiraan")

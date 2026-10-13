@@ -1,7 +1,7 @@
 {"id": "abdulqais", "places": [
   {"t": "al-Bahrain", "ar": "البحرين", "kind": "daerah", "note": "Amr bin al-Ju'aid (Bani Syann) yang menggiring Abdul Qais dari Tihamah ke al-Bahrain",
    "src": ["Jamharat Ansab al-'Arab, hlm. 299"], "quote": ["وهو الذي ساق عبد القيس من تهامة إلى البحرين"],
-   "lat": null, "lon": null},
+   "lat": null, "lon": null, "zone": "al-Bahrain (Arabia timur)", "zone_qid": "Q311341", "zone_km": 180},
   {"t": "Juwatsa", "ar": "جواثاء", "kind": "benteng", "note": "Benteng Abdul Qais di al-Bahrain, ditaklukkan al-'Ala' bin al-Hadhrami masa Abu Bakar (12 H); konon masjid pertama setelah Masjid Madinah dibangun di sini",
    "src": ["Mu'jam al-Buldan 2/174", "Mu'jam ma Ista'jam 4/1282"], "quote": ["حصن لعبد القيس بالبحرين فتحه العلاء بن الحضرمي في أيام أبي بكر الصديق", "ويقال: إن أول مسجد بنى بعد مسجد المدينة بجؤاثى"],
    "qid": "Q4022355", "lat": 25.4697, "lon": 49.6786, "precision": "perkiraan", "near": "Masjid Jawatha"},
@@ -13,11 +13,11 @@
    "qid": "Q4166621", "lat": 26.283, "lon": 50.6335, "precision": "tepat"},
   {"t": "al-Musyaqqar", "ar": "المشقر", "kind": "benteng", "note": "Benteng besar Abdul Qais di al-Bahrain, bersebelahan dengan benteng ash-Shafa sebelum kota Hajar; di sana masjid jami'",
    "src": ["Mu'jam al-Buldan 5/134"], "quote": ["المشقر حصن بالبحرين عظيم لعبد القيس يلي حصنا لهم آخر يقال له الصفا قبل مدينة هجر"],
-   "lat": null, "lon": null},
+   "lat": null, "lon": null, "zone": "Hajar (oasis al-Ahsa')", "zone_qid": "Q311341", "zone_km": 40},
   {"t": "al-Mirdaa' (Hajar)", "ar": "المرداء", "kind": "daerah", "note": "Tempat di Hajar, salah satu dari dua kota al-Bahrain; manazil Abdul Qais",
    "src": ["Mu'jam ma Ista'jam 4/1211"], "quote": ["موضع بهجر، وهى رملة هجر من البحرين، وهى إحدى مدينتى البحرين"],
-   "lat": null, "lon": null},
+   "lat": null, "lon": null, "zone": "Hajar (oasis al-Ahsa')", "zone_qid": "Q311341", "zone_km": 40},
   {"t": "al-Khath", "ar": "الخط", "kind": "desa", "note": "Desa di pesisir al-Bahrain milik Abdul Qais; terkenal dengan tombak-tombaknya",
    "src": ["Mu'jam ma Ista'jam 2/503"], "quote": ["وقيل الخط: قرية على ساحل البحرين ، وهى لعبد القيس، فيها الرماح الجياد"],
-   "lat": null, "lon": null}
+   "lat": null, "lon": null, "zone": "al-Bahrain (Arabia timur)", "zone_qid": "Q311341", "zone_km": 180}
 ]}

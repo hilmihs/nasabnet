@@ -12,6 +12,6 @@
    "src": ["Futuh al-Buldan, hlm. 37", "Mu'jam ma Ista'jam 2/521"], "quote": ["وَأَطْعَمَ بَنِي الْمُطَّلِبِ بْنَ عَبْدِ مَنَافٍ أَوْسَاقًا مَعْلُومَةً", "تعرف بالوطيح، فيه طعم أزواج رسول الله ﷺ وبنى المطّلب"],
    "qid": "W1536420358", "lat": 25.7294, "lon": 39.2715, "precision": "tepat"},
   {"t": "Radman (Yaman)", "ar": "ردمان", "kind": "daerah", "note": "Tempat di Yaman; kubur al-Muththalib bin 'Abdi Manaf, leluhur klan, ada di Radman",
-   "src": ["Mu'jam al-Buldan 3/40"], "quote": ["فالذي بردمان المطّلب بن عبد مناف"],
-   "lat": null, "lon": null}
+   "src": ["Mu'jam al-Buldan 3/40", "Mu'jam al-Ma'alim al-Jughrafiyyah (al-Biladi), hlm. 140"], "quote": ["فالذي بردمان المطّلب بن عبد مناف", "ذكر الهمداني «ردمان» وحدده بأنه في نجد مذحج، ونجد مذحج شرق صنعاء إلى الجنوب قرب حريب"],
+   "qid": "Q4117692", "lat": 14.4833, "lon": 45.2742, "precision": "tepat"}
 ]}

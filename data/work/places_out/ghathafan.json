@@ -15,9 +15,9 @@
    "src": ["Mu'jam al-Buldan 2/248"], "quote": ["حرة النار بين وادي القرى وتيماء من ديار غطفان، وسكانها اليوم عنزة"],
    "qid": null, "derive": {"method": "between", "refs": ["Q22690572", "Q27365"], "frac": 0.5}, "lat": 27.0631, "lon": 38.0238, "precision": "perkiraan", "near": "antara Wadi al-Qura dan Taima' (titik tengah)"},
   {"t": "Raml 'Alij", "ar": "رمل عالج", "kind": "daerah", "note": "Penghuni terbanyak 'Alij adalah Thayyi' dan Ghathafan; Fazarah, Murrah dan Tsa'labah (anak Dzubyan) di tepi baratnya",
-   "src": ["Mu'jam ma Ista'jam 3/914"], "quote": ["وأكثر أهل عالج طيىء وغطفان"],
-   "lat": null, "lon": null},
+   "src": ["Mu'jam ma Ista'jam 3/914", "Mu'jam al-Ma'alim al-Jughrafiyyah (al-Biladi), hlm. 197", "Mu'jam al-Ma'alim al-Jughrafiyyah (al-Biladi), hlm. 197"], "quote": ["وأكثر أهل عالج طيىء وغطفان", "عالج رمل عظيم في بلاد العرب يمر في شمال نجد قرب مدينة حائل إلى شمال تيماء", "ويسمى اليوم «النفود» جمع نفد"],
+   "lat": null, "lon": null, "zone": "Gurun an-Nafud (Raml 'Alij)", "zone_qid": "Q749205", "zone_km": 200},
   {"t": "Hazm Bani 'Uwal", "ar": "حزم بني عوال", "kind": "gunung", "note": "Gunung di pinggiran Hijaz, di jalan menuju Madinah, milik Ghathafan",
    "src": ["Mu'jam al-Buldan 2/253"], "quote": ["جبل بأكناف الحجاز على طريق من أمّ المدينة لغطفان"],
-   "lat": null, "lon": null}
+   "lat": null, "lon": null, "zone": "Hijaz", "zone_qid": "TH:HIJAZ_390E235N_R", "zone_km": 250}
 ]}

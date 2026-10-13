@@ -52,7 +52,11 @@
    "note": "Amr bin al-Ju'aid (Bani Syann) yang menggiring Abdul Qais dari Tihamah ke al-Bahrain",
    "src": [
     "Jamharat Ansab al-'Arab, hlm. 299"
-   ]
+   ],
+   "zone": "al-Bahrain (Arabia timur)",
+   "zone_lat": 25.4294,
+   "zone_lon": 49.6219,
+   "zone_km": 180
   },
   {
    "t": "Juwatsa",
@@ -99,7 +103,11 @@
    "note": "Benteng besar Abdul Qais di al-Bahrain, bersebelahan dengan benteng ash-Shafa sebelum kota Hajar; di sana masjid jami'",
    "src": [
     "Mu'jam al-Buldan 5/134"
-   ]
+   ],
+   "zone": "Hajar (oasis al-Ahsa')",
+   "zone_lat": 25.4294,
+   "zone_lon": 49.6219,
+   "zone_km": 40
   },
   {
    "t": "al-Mirdaa' (Hajar)",
@@ -108,7 +116,11 @@
    "note": "Tempat di Hajar, salah satu dari dua kota al-Bahrain; manazil Abdul Qais",
    "src": [
     "Mu'jam ma Ista'jam 4/1211"
-   ]
+   ],
+   "zone": "Hajar (oasis al-Ahsa')",
+   "zone_lat": 25.4294,
+   "zone_lon": 49.6219,
+   "zone_km": 40
   },
   {
    "t": "al-Khath",
@@ -117,7 +129,11 @@
    "note": "Desa di pesisir al-Bahrain milik Abdul Qais; terkenal dengan tombak-tombaknya",
    "src": [
     "Mu'jam ma Ista'jam 2/503"
-   ]
+   ],
+   "zone": "al-Bahrain (Arabia timur)",
+   "zone_lat": 25.4294,
+   "zone_lon": 49.6219,
+   "zone_km": 180
   }
  ],
  "adi": [
@@ -500,8 +516,13 @@
    "kind": "gunung",
    "note": "Salah satu dari dua gunung Abanan yang diapit Wadi ar-Rummah; milik Bani Asad, lalu Bani Walibah, lalu al-Harits bin Tsa'labah",
    "src": [
-    "Mu'jam al-Buldan 1/62"
-   ]
+    "Mu'jam al-Buldan 1/62",
+    "al-Amakin (al-Hazimi), hlm. 37"
+   ],
+   "lat": 26.4892,
+   "lon": 42.7977,
+   "precision": "perkiraan",
+   "near": "antara Faid dan an-Nabhaniyah (titik tengah); catatan: Hamad al-Jasir menaruhnya lebih ke selatan"
   },
   {
    "t": "al-Habs dan al-Qanan",
@@ -764,8 +785,12 @@
    "note": "Wadi (atau gunung) milik Asyja' dan Juhainah; membelah Hijaz hingga ke laut",
    "src": [
     "Mu'jam al-Buldan 1/215",
-    "Mu'jam ma Ista'jam 1/166"
-   ]
+    "Mu'jam ma Ista'jam 1/166",
+    "Mu'jam al-Ma'alim al-Jughrafiyyah (al-Biladi), hlm. 29"
+   ],
+   "lat": 24.6361,
+   "lon": 39.3178,
+   "precision": "tepat"
   },
   {
    "t": "Dzayalah",
@@ -809,7 +834,11 @@
    "note": "Tempat di Hijaz dalam diyar Asyja'; pernah terjadi pertempuran antara mereka dan Bani Sulaim",
    "src": [
     "Mu'jam al-Buldan 2/124"
-   ]
+   ],
+   "zone": "Hijaz",
+   "zone_lat": 23.5114,
+   "zone_lon": 39.0214,
+   "zone_km": 250
   },
   {
    "t": "Shahn al-Hail (Iliya')",
@@ -1036,8 +1065,12 @@
    "kind": "gunung",
    "note": "Gunung terkenal di Najd; menurut Abu Ziyad gunung milik Bahilah",
    "src": [
-    "Mu'jam al-Buldan 5/433"
-   ]
+    "Mu'jam al-Buldan 5/433",
+    "Bilad al-'Arab (al-Ashfahani), hlm. 236"
+   ],
+   "lat": 23.2748,
+   "lon": 44.6099,
+   "precision": "tepat"
   },
   {
    "t": "Jabal Syammam",
@@ -1045,8 +1078,13 @@
    "kind": "gunung",
    "note": "Gunung milik Bahilah, berpuncak dua yang disebut Ibna Syammam",
    "src": [
-    "Mu'jam al-Buldan 3/361"
-   ]
+    "Mu'jam al-Buldan 3/361",
+    "Bilad al-'Arab (al-Ashfahani), hlm. 236"
+   ],
+   "lat": 23.9089,
+   "lon": 44.6347,
+   "precision": "perkiraan",
+   "near": "dekat hijrah 'Arwa (Ibna Syammam terlihat di utaranya)"
   },
   {
    "t": "Muraifiq (Sawad Bahilah, al-Yamamah)",
@@ -1054,8 +1092,13 @@
    "kind": "desa",
    "note": "Desa di Sawad Bahilah di tanah al-Yamamah",
    "src": [
-    "Mu'jam al-Buldan 5/118"
-   ]
+    "Mu'jam al-Buldan 5/118",
+    "Bilad al-'Arab (al-Ashfahani), hlm. 368"
+   ],
+   "zone": "Sawad Bahilah (al-'Ird, al-Quway'iyah)",
+   "zone_lat": 24.0464,
+   "zone_lon": 45.2656,
+   "zone_km": 100
   },
   {
    "t": "al-'Aqqar",
@@ -1064,7 +1107,11 @@
    "note": "Tempat di diyar Bahilah di sekitar al-Yamamah",
    "src": [
     "Mu'jam al-Buldan 4/133"
-   ]
+   ],
+   "zone": "al-Yamamah",
+   "zone_lat": 24.1483,
+   "zone_lon": 47.305,
+   "zone_km": 120
   },
   {
    "t": "al-Hufair (dekat Bashrah)",
@@ -1107,8 +1154,13 @@
    "kind": "daerah",
    "note": "Salah satu tambang perak di negeri Bahilah",
    "src": [
-    "Mu'jam al-Buldan 4/168"
-   ]
+    "Mu'jam al-Buldan 4/168",
+    "Bilad al-'Arab (al-Ashfahani), hlm. 368"
+   ],
+   "zone": "Sawad Bahilah (al-'Ird, al-Quway'iyah)",
+   "zone_lat": 24.0464,
+   "zone_lon": 45.2656,
+   "zone_km": 100
   }
  ],
  "bajilah": [
@@ -1157,8 +1209,13 @@
    "kind": "gunung",
    "note": "Gunung/hadbah panjang dengan syi'b luas; di sana tinggal 'Uraynah, bathn dari Bajilah, sekutu Bani Kilab",
    "src": [
-    "Mu'jam al-Buldan 2/104"
-   ]
+    "Mu'jam al-Buldan 2/104",
+    "Mu'jam al-Ma'alim al-Jughrafiyyah (al-Biladi), hlm. 79"
+   ],
+   "lat": 23.9034,
+   "lon": 42.9479,
+   "precision": "perkiraan",
+   "near": "'Afif (Jabalah di sebelah utaranya)"
   },
   {
    "t": "Raudhah Ra'm",
@@ -1203,7 +1260,11 @@
    "src": [
     "Futuh al-Buldan, hlm. 249",
     "Futuh al-Buldan, hlm. 263"
-   ]
+   ],
+   "zone": "Sawad Irak",
+   "zone_lat": 31.0368,
+   "zone_lon": 46.3646,
+   "zone_km": 200
   }
  ],
  "bakr": [
@@ -1312,7 +1373,11 @@
    "note": "Negeri Bakr bin Wa'il hingga masa al-Baladzuri",
    "src": [
     "Futuh al-Buldan, hlm. 390"
-   ]
+   ],
+   "zone": "Quhistan (Khurasan)",
+   "zone_lat": 33.7705,
+   "zone_lon": 59.4459,
+   "zone_km": 150
   }
  ],
  "daus": [
@@ -1422,7 +1487,11 @@
    "note": "Tempat di ad-Dahna'; disebut mata air milik Bani Dhabbah",
    "src": [
     "Mu'jam al-Buldan 2/34"
-   ]
+   ],
+   "zone": "ad-Dahna'",
+   "zone_lat": 24.1,
+   "zone_lon": 45.4333,
+   "zone_km": 150
   },
   {
    "t": "Muhjan",
@@ -1431,7 +1500,11 @@
    "note": "Tempat milik Bani Dhabbah di ad-Dahna'",
    "src": [
     "Mu'jam al-Buldan 5/60"
-   ]
+   ],
+   "zone": "ad-Dahna'",
+   "zone_lat": 24.1,
+   "zone_lon": 45.4333,
+   "zone_km": 150
   },
   {
    "t": "Qasa",
@@ -1440,7 +1513,11 @@
    "note": "Penanda (bukit kecil) di ad-Dahna' milik Bani Dhabbah",
    "src": [
     "Mu'jam ma Ista'jam 3/1073"
-   ]
+   ],
+   "zone": "ad-Dahna'",
+   "zone_lat": 24.1,
+   "zone_lon": 45.4333,
+   "zone_km": 150
   },
   {
    "t": "al-Bakarat",
@@ -1461,7 +1538,11 @@
    "note": "Mata air milik Bani Dhabbah di al-Yamamah",
    "src": [
     "Mu'jam al-Buldan 3/231"
-   ]
+   ],
+   "zone": "al-Yamamah",
+   "zone_lat": 24.1483,
+   "zone_lon": 47.305,
+   "zone_km": 120
   },
   {
    "t": "Lughath",
@@ -1470,8 +1551,12 @@
    "note": "Lembah milik Bani Dhabbah (menurut Abu Muhammad al-Aswad); di sana dua mata air al-Amlahan",
    "src": [
     "Mu'jam al-Buldan 5/19",
-    "Mu'jam al-Buldan 1/255"
-   ]
+    "Mu'jam al-Buldan 1/255",
+    "Bilad al-'Arab (al-Ashfahani), hlm. 263"
+   ],
+   "lat": 26.0267,
+   "lon": 44.9608,
+   "precision": "tepat"
   },
   {
    "t": "asy-Syawajin",
@@ -1501,7 +1586,11 @@
    "note": "Salah satu mata air Bani Dhabbah di Najd, di timur al-Hazir milik Ghani",
    "src": [
     "Mu'jam al-Buldan 5/217"
-   ]
+   ],
+   "zone": "Najd",
+   "zone_lat": 24.2913,
+   "zone_lon": 43.5881,
+   "zone_km": 250
   },
   {
    "t": "Khiththah Bani Dhabbah di Bashrah",
@@ -1599,7 +1688,11 @@
    "note": "Lembah-lembah dan bukit-bukit di Najd di diyar Ghani",
    "src": [
     "Mu'jam al-Buldan 1/59"
-   ]
+   ],
+   "zone": "Najd",
+   "zone_lat": 24.2913,
+   "zone_lon": 43.5881,
+   "zone_km": 250
   },
   {
    "t": "Wadi 'Aqil (bagian atas)",
@@ -1607,8 +1700,13 @@
    "kind": "lembah",
    "note": "Lembah di Najd dari Hazir Adhakh; bagian atasnya milik Ghani, bawahnya milik Asad, Dhabbah, dan Aban bin Darim",
    "src": [
-    "Mu'jam al-Buldan 4/68"
-   ]
+    "Mu'jam al-Buldan 4/68",
+    "Bilad al-'Arab (al-Ashfahani), hlm. 384"
+   ],
+   "lat": 25.8667,
+   "lon": 43.5,
+   "precision": "perkiraan",
+   "near": "ar-Rass (desa al-'Aqili di Wadi 'Aqil termasuk wilayahnya)"
   },
   {
    "t": "Arainibah",
@@ -1625,8 +1723,12 @@
    "kind": "mata air",
    "note": "Mata air milik Ghani di timur an-Nir (ada pendapat lain: di Yaman)",
    "src": [
-    "Mu'jam al-Buldan 1/341"
-   ]
+    "Mu'jam al-Buldan 1/341",
+    "Bilad al-'Arab (al-Ashfahani), hlm. 160"
+   ],
+   "lat": 24.1602,
+   "lon": 43.6241,
+   "precision": "tepat"
   },
   {
    "t": "al-Kufah (cabang Bahtsah)",
@@ -1713,8 +1815,13 @@
    "kind": "daerah",
    "note": "Penghuni terbanyak 'Alij adalah Thayyi' dan Ghathafan; Fazarah, Murrah dan Tsa'labah (anak Dzubyan) di tepi baratnya",
    "src": [
-    "Mu'jam ma Ista'jam 3/914"
-   ]
+    "Mu'jam ma Ista'jam 3/914",
+    "Mu'jam al-Ma'alim al-Jughrafiyyah (al-Biladi), hlm. 197"
+   ],
+   "zone": "Gurun an-Nafud (Raml 'Alij)",
+   "zone_lat": 28.3,
+   "zone_lon": 41,
+   "zone_km": 200
   },
   {
    "t": "Hazm Bani 'Uwal",
@@ -1723,7 +1830,11 @@
    "note": "Gunung di pinggiran Hijaz, di jalan menuju Madinah, milik Ghathafan",
    "src": [
     "Mu'jam al-Buldan 2/253"
-   ]
+   ],
+   "zone": "Hijaz",
+   "zone_lat": 23.5114,
+   "zone_lon": 39.0214,
+   "zone_km": 250
   }
  ],
  "ghifar": [
@@ -1802,7 +1913,11 @@
    "note": "Salah satu permukiman Ghifar dan Aslam di Hijaz",
    "src": [
     "Mu'jam al-Buldan 3/328"
-   ]
+   ],
+   "zone": "Hijaz",
+   "zone_lat": 23.5114,
+   "zone_lon": 39.0214,
+   "zone_km": 250
   },
   {
    "t": "Bi'r Rumah (Madinah)",
@@ -1849,7 +1964,11 @@
    "note": "Disebut sebagai kota penguasa Habasyah",
    "src": [
     "Mu'jam al-Buldan 1/29"
-   ]
+   ],
+   "zone": "Habasyah",
+   "zone_lat": 14.1284,
+   "zone_lon": 38.7173,
+   "zone_km": 250
   },
   {
    "t": "Raba'at",
@@ -1858,7 +1977,11 @@
    "note": "Kota terbesar Habasyah; Habasyah menyerang pada masa Umar dan dikirim 'Alqamah bin Mujazziz (tahun 20 H)",
    "src": [
     "Mu'jam ma Ista'jam 2/632"
-   ]
+   ],
+   "zone": "Habasyah",
+   "zone_lat": 14.1284,
+   "zone_lon": 38.7173,
+   "zone_km": 250
   },
   {
    "t": "Zaila'",
@@ -1905,7 +2028,11 @@
    "note": "Negeri Hamdan di dataran tinggi (Najd dan as-Sarah) antara al-Gha'ith dan Tihamah, di utara Shan'a hingga Sha'dah; timurnya milik Bakil, baratnya milik Hasyid",
    "src": [
     "Shifat Jazirat al-'Arab, hlm. 109"
-   ]
+   ],
+   "zone": "negeri Hamdan (utara Shan'a)",
+   "zone_lat": 15.5715,
+   "zone_lon": 44.1281,
+   "zone_km": 80
   },
   {
    "t": "Khaiwan",
@@ -2313,7 +2440,11 @@
    "note": "Lembah di negeri Hudzail di Tihamah; bagian hilirnya milik Kinanah",
    "src": [
     "Mu'jam al-Buldan 3/453"
-   ]
+   ],
+   "zone": "Tihamah",
+   "zone_lat": 22,
+   "zone_lon": 40,
+   "zone_km": 150
   },
   {
    "t": "Gharan (Bani Lihyan)",
@@ -2368,8 +2499,13 @@
    "kind": "gunung",
    "note": "Dua gunung milik Juhainah antara Harrah Bani Sulaim dan Madinah",
    "src": [
-    "Mu'jam ma Ista'jam 1/91"
-   ]
+    "Mu'jam ma Ista'jam 1/91",
+    "al-Amakin (al-Hazimi), hlm. 34"
+   ],
+   "lat": 23.3476,
+   "lon": 39.6637,
+   "precision": "perkiraan",
+   "near": "al-Fur' (desa-desa al-Fur' mengelilingi Arah)"
   },
   {
    "t": "Buwath",
@@ -2414,8 +2550,12 @@
    "kind": "lembah",
    "note": "Wadi yang membelah Hijaz hingga ke laut; disebut wadi milik Asyja' dan Juhainah",
    "src": [
-    "Mu'jam al-Buldan 1/215"
-   ]
+    "Mu'jam al-Buldan 1/215",
+    "Mu'jam al-Ma'alim al-Jughrafiyyah (al-Biladi), hlm. 29"
+   ],
+   "lat": 24.6361,
+   "lon": 39.3178,
+   "precision": "tepat"
   },
   {
    "t": "Dzu al-Marwah",
@@ -2548,7 +2688,11 @@
    "src": [
     "Mu'jam ma Ista'jam 3/754",
     "Shifat Jazirat al-'Arab, hlm. 132"
-   ]
+   ],
+   "zone": "as-Samawah (Badiyah Syam)",
+   "zone_lat": 33.4,
+   "zone_lon": 38.75,
+   "zone_km": 200
   },
   {
    "t": "Tadmur (Palmyra)",
@@ -2637,8 +2781,13 @@
    "kind": "daerah",
    "note": "Gurun pasir 'Alij, di diyar Kalb",
    "src": [
-    "Mu'jam ma Ista'jam 3/913"
-   ]
+    "Mu'jam ma Ista'jam 3/913",
+    "Mu'jam al-Ma'alim al-Jughrafiyyah (al-Biladi), hlm. 197"
+   ],
+   "zone": "Gurun an-Nafud (Raml 'Alij)",
+   "zone_lat": 28.3,
+   "zone_lon": 41,
+   "zone_km": 200
   },
   {
    "t": "Quraqir",
@@ -2759,7 +2908,11 @@
    "note": "Mata air Bani al-Hulais dari Khats'am, tetangga Bani Salul di Hijaz",
    "src": [
     "Mu'jam al-Buldan 2/457"
-   ]
+   ],
+   "zone": "Hijaz",
+   "zone_lat": 23.5114,
+   "zone_lon": 39.0214,
+   "zone_km": 250
   },
   {
    "t": "al-Maraghah",
@@ -2768,7 +2921,11 @@
    "note": "Termasuk negeri Khats'am bersama Bisyah, Turj dan Tabalah",
    "src": [
     "Shifat Jazirat al-'Arab, hlm. 119"
-   ]
+   ],
+   "zone": "negeri Khats'am (sekitar Bisyah, Turj, Tabalah)",
+   "zone_lat": 20.044,
+   "zone_lon": 42.6968,
+   "zone_km": 80
   }
  ],
  "khazraj": [
@@ -3010,7 +3167,11 @@
    "note": "Mata air milik Bani Kinanah di Hijaz",
    "src": [
     "Mu'jam al-Buldan 2/40"
-   ]
+   ],
+   "zone": "Hijaz",
+   "zone_lat": 23.5114,
+   "zone_lon": 39.0214,
+   "zone_km": 250
   },
   {
    "t": "Baidh",
@@ -3018,8 +3179,12 @@
    "kind": "daerah",
    "note": "Salah satu manazil Bani Kinanah di Hijaz",
    "src": [
-    "Mu'jam al-Buldan 1/531"
-   ]
+    "Mu'jam al-Buldan 1/531",
+    "Mu'jam al-Ma'alim al-Jughrafiyyah (al-Biladi), hlm. 63"
+   ],
+   "lat": 17.5676,
+   "lon": 42.3054,
+   "precision": "tepat"
   },
   {
    "t": "Tadhra'",
@@ -3041,7 +3206,11 @@
    "note": "Gunung di Tihamah milik Bani Kinanah (menurut al-Waqidi: gunung di al-'Aqiq)",
    "src": [
     "Mu'jam al-Buldan 2/32"
-   ]
+   ],
+   "zone": "Tihamah",
+   "zone_lat": 22,
+   "zone_lon": 40,
+   "zone_km": 150
   },
   {
    "t": "Ihlil",
@@ -3072,7 +3241,11 @@
    "note": "Gunung di Hijaz di diyar Kinanah",
    "src": [
     "Mu'jam al-Buldan 3/234"
-   ]
+   ],
+   "zone": "Hijaz",
+   "zone_lat": 23.5114,
+   "zone_lon": 39.0214,
+   "zone_km": 250
   },
   {
    "t": "Hali",
@@ -3118,8 +3291,13 @@
    "kind": "benteng",
    "note": "Benteng Kindah di Hadhramaut; tempat al-Asy'ats dan kaumnya berlindung dan dikepung pada perang Riddah",
    "src": [
-    "Mu'jam al-Buldan 2/271"
-   ]
+    "Mu'jam al-Buldan 2/271",
+    "Mu'jam al-Ma'alim al-Jughrafiyyah (al-Biladi), hlm. 315"
+   ],
+   "lat": 15.7522,
+   "lon": 46.8366,
+   "precision": "perkiraan",
+   "near": "±60 km barat daya al-'Abr (Hadhramaut), sisa reruntuhan"
   },
   {
    "t": "al-Bahrain dan al-Musyaqqar",
@@ -3128,7 +3306,11 @@
    "note": "Negeri Kindah pada masa jahiliah sebelum mereka terusir ke Hadhramaut",
    "src": [
     "Shifat Jazirat al-'Arab, hlm. 88"
-   ]
+   ],
+   "zone": "al-Bahrain (Arabia timur)",
+   "zone_lat": 25.4294,
+   "zone_lon": 49.6219,
+   "zone_km": 180
   },
   {
    "t": "Ghamr Dzi Kindah (Bustan al-Ghumair)",
@@ -3136,8 +3318,13 @@
    "kind": "daerah",
    "note": "Pada masa jahiliah disebut Ghamr Dzi Kindah; kemudian orang Bani Makhzum mengambil tanah di sana sehingga disebut Bustan al-Ghumair",
    "src": [
-    "Mu'jam al-Buldan 1/414"
-   ]
+    "Mu'jam al-Buldan 1/414",
+    "Bilad al-'Arab (al-Ashfahani), hlm. 377"
+   ],
+   "lat": 21.6596,
+   "lon": 40.3331,
+   "precision": "perkiraan",
+   "near": "titik tengah Ghamrah–Makkah (al-Ghumair: marhalah pertama dari dua)"
   },
   {
    "t": "Darat Juljul",
@@ -3163,8 +3350,13 @@
    "kind": "benteng",
    "note": "Tanah di al-Yamamah berisi desa dan kebun kurma; di sana ada empat benteng: satu milik Kindah",
    "src": [
-    "Mu'jam al-Buldan 4/326"
-   ]
+    "Mu'jam al-Buldan 4/326",
+    "Bilad al-'Arab (al-Ashfahani), hlm. 240"
+   ],
+   "lat": 24.6173,
+   "lon": 46.2256,
+   "precision": "perkiraan",
+   "near": "Dhurma, di dataran al-Bathin (Qarqara)"
   },
   {
    "t": "Jabbanat Kindah (Kufah)",
@@ -3287,7 +3479,11 @@
    "note": "Negeri di Syam yang didiami sekelompok orang Lakhm",
    "src": [
     "Mu'jam al-Buldan 2/229"
-   ]
+   ],
+   "zone": "Syam",
+   "zone_lat": 34,
+   "zone_lon": 36,
+   "zone_km": 250
   },
   {
    "t": "Jabal Yasykur (Mesir)",
@@ -3309,7 +3505,10 @@
    "note": "Tempat turun Bani Rasyidah dari Lakhm",
    "src": [
     "Shifat Jazirat al-'Arab, hlm. 129"
-   ]
+   ],
+   "lat": 31.0238,
+   "lon": 33.1257,
+   "precision": "tepat"
   }
  ],
  "madzhij": [
@@ -3433,7 +3632,11 @@
    "note": "Sarw Madzhij baru belakangan didiami Madzhij; asalnya negeri Dzu Ru'ain",
    "src": [
     "Shifat Jazirat al-'Arab, hlm. 90"
-   ]
+   ],
+   "zone": "Sarw Madzhij",
+   "zone_lat": 13.9804,
+   "zone_lon": 45.5886,
+   "zone_km": 60
   }
  ],
  "makhzum": [
@@ -3507,8 +3710,13 @@
    "kind": "daerah",
    "note": "Pada masa jahiliah disebut Ghamr Dzi Kindah; sebagian Bani Makhzum mengambil tanah di sana",
    "src": [
-    "Mu'jam al-Buldan 1/414"
-   ]
+    "Mu'jam al-Buldan 1/414",
+    "Bilad al-'Arab (al-Ashfahani), hlm. 377"
+   ],
+   "lat": 21.6596,
+   "lon": 40.3331,
+   "precision": "perkiraan",
+   "near": "titik tengah Ghamrah–Makkah (al-Ghumair: marhalah pertama dari dua)"
   },
   {
    "t": "Benteng al-Qarn (al-Maraghah)",
@@ -3517,7 +3725,11 @@
    "note": "Salah satu dari dua benteng di al-Maraghah, milik Makhzum",
    "src": [
     "Shifat Jazirat al-'Arab, hlm. 119"
-   ]
+   ],
+   "zone": "negeri Khats'am (sekitar Bisyah, Turj, Tabalah)",
+   "zone_lat": 20.044,
+   "zone_lon": 42.6968,
+   "zone_km": 80
   },
   {
    "t": "Wadi al-'Amud (Mikhlaf 'Atstsar, Yaman)",
@@ -3624,7 +3836,11 @@
    "note": "Di jalur petugas zakat dari Madinah: Khudhr Muharib membayar zakat di Nakhl, Bani Muharib lainnya di al-Mughitsah",
    "src": [
     "Mu'jam ma Ista'jam 3/1016"
-   ]
+   ],
+   "zone": "Bathn Nakhl",
+   "zone_lat": 24.8597,
+   "zone_lon": 40.0058,
+   "zone_km": 50
   }
  ],
  "muthalib": [
@@ -3686,8 +3902,12 @@
    "kind": "daerah",
    "note": "Tempat di Yaman; kubur al-Muththalib bin 'Abdi Manaf, leluhur klan, ada di Radman",
    "src": [
-    "Mu'jam al-Buldan 3/40"
-   ]
+    "Mu'jam al-Buldan 3/40",
+    "Mu'jam al-Ma'alim al-Jughrafiyyah (al-Biladi), hlm. 140"
+   ],
+   "lat": 14.4833,
+   "lon": 45.2742,
+   "precision": "tepat"
   }
  ],
  "muzainah": [
@@ -3996,7 +4216,11 @@
    "note": "Bani Tazid bin Hulwan dari Qudha'ah turun di 'Abqar, negeri al-Jazirah; asal karpet 'abqariyyah",
    "src": [
     "Mu'jam ma Ista'jam 1/22"
-   ]
+   ],
+   "zone": "al-Jazirah (Mesopotamia hulu)",
+   "zone_lat": 36.4667,
+   "zone_lon": 42.1,
+   "zone_km": 200
   },
   {
    "t": "Palestina (Salih)",
@@ -4041,7 +4265,11 @@
    "note": "Kalb, Jarm dan al-'Ilaf dari Qudha'ah, setelah diserang Bani Kinanah, pindah ke as-Samawah; itulah permukiman mereka",
    "src": [
     "Mu'jam ma Ista'jam 1/24"
-   ]
+   ],
+   "zone": "as-Samawah (Badiyah Syam)",
+   "zone_lat": 33.4,
+   "zone_lon": 38.75,
+   "zone_km": 200
   },
   {
    "t": "Raml 'Alij (sisi Syam)",
@@ -4049,8 +4277,13 @@
    "kind": "daerah",
    "note": "Qudha'ah memiliki bagian Raml 'Alij yang menghadap Syam dan arah utara",
    "src": [
-    "Mu'jam ma Ista'jam 3/914"
-   ]
+    "Mu'jam ma Ista'jam 3/914",
+    "Mu'jam al-Ma'alim al-Jughrafiyyah (al-Biladi), hlm. 197"
+   ],
+   "zone": "Gurun an-Nafud (Raml 'Alij)",
+   "zone_lat": 28.3,
+   "zone_lon": 41,
+   "zone_km": 200
   },
   {
    "t": "asy-Syihr (Mahrah)",
@@ -4170,7 +4403,11 @@
    "note": "Kebanyakan penduduknya Quraisy; di sana ada dua benteng: al-Qarn milik Makhzum dan al-Barqah milik Sahm",
    "src": [
     "Shifat Jazirat al-'Arab, hlm. 119"
-   ]
+   ],
+   "zone": "negeri Khats'am (sekitar Bisyah, Turj, Tabalah)",
+   "zone_lat": 20.044,
+   "zone_lon": 42.6968,
+   "zone_km": 80
   },
   {
    "t": "Ma'din al-Buram",
@@ -4178,8 +4415,13 @@
    "kind": "daerah",
    "note": "Didiami Quraisy dan Tsaqif",
    "src": [
-    "Shifat Jazirat al-'Arab, hlm. 121"
-   ]
+    "Shifat Jazirat al-'Arab, hlm. 121",
+    "al-Amakin (al-Hazimi), hlm. 535"
+   ],
+   "lat": 21.2142,
+   "lon": 41.6331,
+   "precision": "perkiraan",
+   "near": "Turabah (Ma'din al-Buram di antara gunung-gunung sekitar Wadi Turabah) (kedekatannya longgar)"
   }
  ],
  "rum": [
@@ -4238,7 +4480,10 @@
    "note": "Menjelang Mu'tah, Heraklius turun di Ma'ab, negeri al-Balqa', dengan 100.000 tentara Romawi",
    "src": [
     "Sirah Ibnu Hisyam 2/375"
-   ]
+   ],
+   "lat": 31.2579,
+   "lon": 35.7327,
+   "precision": "tepat"
   },
   {
    "t": "'Ammuriyah (Amorium)",
@@ -4347,7 +4592,11 @@
    "note": "Al-Maraghah di negeri Khats'am kebanyakan dihuni Quraisy; satu dari dua bentengnya, al-Barqah, milik Bani Sahm",
    "src": [
     "Shifat Jazirat al-'Arab, hlm. 119"
-   ]
+   ],
+   "zone": "negeri Khats'am (sekitar Bisyah, Turj, Tabalah)",
+   "zone_lat": 20.044,
+   "zone_lon": 42.6968,
+   "zone_km": 80
   }
  ],
  "sulaim": [
@@ -4357,8 +4606,13 @@
    "kind": "daerah",
    "note": "Harrah (padang lava) milik Bani Sulaim, disebut juga Ummu Shabbar; di 'Aliyah Najd; ada tambang batu dahnaj",
    "src": [
-    "Mu'jam al-Buldan 2/246"
-   ]
+    "Mu'jam al-Buldan 2/246",
+    "Mu'jam al-Ma'alim al-Jughrafiyyah (al-Biladi), hlm. 26"
+   ],
+   "zone": "Harrat al-Hijaz (Harrat Rahat)",
+   "zone_lat": 23.0833,
+   "zone_lon": 39.7833,
+   "zone_km": 150
   },
   {
    "t": "as-Suwariqiyyah (as-Suwairiqiyyah)",
@@ -4454,7 +4708,10 @@
    "note": "Persinggahan milik Bani Sulaim di jalan Bashrah–Makkah, sesudah Faljah",
    "src": [
     "Mu'jam al-Buldan 2/440"
-   ]
+   ],
+   "lat": 23.2254,
+   "lon": 41.9247,
+   "precision": "tepat"
   }
  ],
  "taim": [
@@ -4568,7 +4825,11 @@
    "note": "Dahulu milik Bani Hanzhalah (Tamim); berbatasan dengan ad-Dahna'",
    "src": [
     "Mu'jam al-Buldan 3/423"
-   ]
+   ],
+   "zone": "ash-Shamman",
+   "zone_lat": 26.7839,
+   "zone_lon": 47.214,
+   "zone_km": 150
   },
   {
    "t": "al-Buthah",
@@ -4602,7 +4863,11 @@
    "note": "Gunung di al-Yamamah, di negeri Bani Tamim; Yaum Bulbul termasuk hari-hari perang Arab",
    "src": [
     "Mu'jam al-Buldan 1/478"
-   ]
+   ],
+   "zone": "al-Yamamah",
+   "zone_lat": 24.1483,
+   "zone_lon": 47.305,
+   "zone_km": 120
   },
   {
    "t": "ad-Dau",
@@ -4610,8 +4875,13 @@
    "kind": "daerah",
    "note": "Negeri milik Bani Tamim, antara Bashrah dan al-Yamamah",
    "src": [
-    "Mu'jam ma Ista'jam 2/566"
-   ]
+    "Mu'jam ma Ista'jam 2/566",
+    "Bilad al-'Arab (al-Ashfahani), hlm. 248"
+   ],
+   "zone": "ad-Dau (kini ad-Dibdibah)",
+   "zone_lat": 27.8875,
+   "zone_lon": 46.4703,
+   "zone_km": 100
   },
   {
    "t": "Kawasan Bani Tamim di Bashrah",
@@ -4682,8 +4952,13 @@
    "kind": "daerah",
    "note": "Dari Taima' menuju Kufah orang melewati diyar Buhtur dari Thayyi' hingga diyar Bani Asad, lima hari sebelum Kufah",
    "src": [
-    "Shifat Jazirat al-'Arab, hlm. 131"
-   ]
+    "Shifat Jazirat al-'Arab, hlm. 131",
+    "Mu'jam al-Ma'alim al-Jughrafiyyah (al-Biladi), hlm. 197"
+   ],
+   "zone": "Gurun an-Nafud (Raml Buhturi)",
+   "zone_lat": 28.3,
+   "zone_lon": 41,
+   "zone_km": 200
   },
   {
    "t": "Wadi ash-Shudarah (Baihan)",
@@ -4743,8 +5018,13 @@
    "kind": "daerah",
    "note": "Didiami Quraisy dan Tsaqif",
    "src": [
-    "Shifat Jazirat al-'Arab, hlm. 121"
-   ]
+    "Shifat Jazirat al-'Arab, hlm. 121",
+    "al-Amakin (al-Hazimi), hlm. 535"
+   ],
+   "lat": 21.2142,
+   "lon": 41.6331,
+   "precision": "perkiraan",
+   "near": "Turabah (Ma'din al-Buram di antara gunung-gunung sekitar Wadi Turabah) (kedekatannya longgar)"
   },
   {
    "t": "Wadi Tudha'",
@@ -4753,7 +5033,11 @@
    "note": "Wadi di Hijaz milik Tsaqif dan Hawazin",
    "src": [
     "Mu'jam al-Buldan 2/32"
-   ]
+   ],
+   "zone": "Hijaz",
+   "zone_lat": 23.5114,
+   "zone_lon": 39.0214,
+   "zone_km": 250
   },
   {
    "t": "Qarqara (al-Yamamah)",
@@ -4761,8 +5045,13 @@
    "kind": "benteng",
    "note": "Tanah di al-Yamamah dengan empat benteng; dua di antaranya milik Tsaqif",
    "src": [
-    "Mu'jam al-Buldan 4/326"
-   ]
+    "Mu'jam al-Buldan 4/326",
+    "Bilad al-'Arab (al-Ashfahani), hlm. 240"
+   ],
+   "lat": 24.6173,
+   "lon": 46.2256,
+   "precision": "perkiraan",
+   "near": "Dhurma, di dataran al-Bathin (Qarqara)"
   },
   {
    "t": "Khiththah Tsaqif di Kufah",
@@ -4887,7 +5176,11 @@
    "note": "Desa di Ghuthah yang dihuni sekelompok Bani Umayyah, antara lain al-Walid bin Tammam",
    "src": [
     "Mu'jam al-Buldan 2/96"
-   ]
+   ],
+   "zone": "Ghuthah Damaskus",
+   "zone_lat": 33.5,
+   "zone_lon": 36.4208,
+   "zone_km": 20
   },
   {
    "t": "Dair Sim'an",

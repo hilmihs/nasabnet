@@ -13,7 +13,10 @@
         "وتعشار: موضع بالدهناء، وقال: هو ماء لبني ضبة"
       ],
       "lat": null,
-      "lon": null
+      "lon": null,
+      "zone": "ad-Dahna'",
+      "zone_qid": "Q1973934",
+      "zone_km": 150
     },
     {
       "t": "Muhjan",
@@ -27,7 +30,10 @@
         "وهو موضع لبني ضبّة بالدّهناء"
       ],
       "lat": null,
-      "lon": null
+      "lon": null,
+      "zone": "ad-Dahna'",
+      "zone_qid": "Q1973934",
+      "zone_km": 150
     },
     {
       "t": "Qasa",
@@ -41,7 +47,10 @@
         "قسا: مقصور: علم بالدّهناء، جبيل صغير لبنى ضبّة"
       ],
       "lat": null,
-      "lon": null
+      "lon": null,
+      "zone": "ad-Dahna'",
+      "zone_qid": "Q1973934",
+      "zone_km": 150
     },
     {
       "t": "al-Bakarat",
@@ -71,7 +80,10 @@
         "اسم ماء لبني ضبّة باليمامة"
       ],
       "lat": null,
-      "lon": null
+      "lon": null,
+      "zone": "al-Yamamah",
+      "zone_qid": "Q2551267",
+      "zone_km": 120
     },
     {
       "t": "Lughath",
@@ -80,14 +92,18 @@
       "note": "Lembah milik Bani Dhabbah (menurut Abu Muhammad al-Aswad); di sana dua mata air al-Amlahan",
       "src": [
         "Mu'jam al-Buldan 5/19",
-        "Mu'jam al-Buldan 1/255"
+        "Mu'jam al-Buldan 1/255",
+        "Bilad al-'Arab (al-Ashfahani), hlm. 263"
       ],
       "quote": [
         "وقال أبو محمد الأسود: لغاط واد لبني ضبّة",
-        "الأملحان ماءان لبني ضبّة بلغاط"
+        "الأملحان ماءان لبني ضبّة بلغاط",
+        "أصبح فيه الآن بلدة كبيرة معروفة، في طرف جبل طويق - عارض اليمامة - الشمالي، تدعى الغاط"
       ],
-      "lat": null,
-      "lon": null
+      "qid": "Q97293341",
+      "lat": 26.0267,
+      "lon": 44.9608,
+      "precision": "tepat"
     },
     {
       "t": "asy-Syawajin",
@@ -131,7 +147,10 @@
         "ماء من مياه بني ضبّة بنجد في شرقي الحزيز لغنيّ"
       ],
       "lat": null,
-      "lon": null
+      "lon": null,
+      "zone": "Najd",
+      "zone_qid": "Q208154",
+      "zone_km": 250
     },
     {
       "t": "Khiththah Bani Dhabbah di Bashrah",

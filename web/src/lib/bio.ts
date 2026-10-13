@@ -52,6 +52,11 @@ export interface Place {
   lon?: number
   precision?: 'tepat' | 'perkiraan'
   near?: string
+  /** region-only place: the book names just the region; drawn as a wide zone, never a pin */
+  zone?: string
+  zone_lat?: number
+  zone_lon?: number
+  zone_km?: number
 }
 
 export type RoleKey = 'militer' | 'diplomasi' | 'ekonomi' | 'sosial'
@@ -143,6 +148,10 @@ const BOOK_TAGS: [string, number][] = [
   ["Wafa' al-Wafa' ", 23695],
   ['al-Maghanim al-Muthabah ', 1172],
   ['ad-Durrah ats-Tsaminah', 557],
+  ["Mu'jam al-Ma'alim al-Jughrafiyyah", 9777],
+  ["Mu'jam Qaba'il al-'Arab", 12402],
+  ['al-Amakin (al-Hazimi)', 122],
+  ["Bilad al-'Arab", 30144],
 ]
 
 export function citationUrl(tag: string): string | undefined {

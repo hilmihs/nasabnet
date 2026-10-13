@@ -53,6 +53,11 @@ TAGS = {
     "23695": ("Wafa' al-Wafa' {v}/{p}", True),
     "1172": ("al-Maghanim al-Muthabah {v}/{p}", True),
     "557": ("ad-Durrah ats-Tsaminah, hlm. {p}", False),
+    # modern / gazetteer identifications of classical places
+    "9777": ("Mu'jam al-Ma'alim al-Jughrafiyyah (al-Biladi), hlm. {p}", False),
+    "12402": ("Mu'jam Qaba'il al-'Arab (Kahhalah) {v}/{p}", True),
+    "122": ("al-Amakin (al-Hazimi), hlm. {p}", False),
+    "30144": ("Bilad al-'Arab (al-Ashfahani), hlm. {p}", False),
 }
 
 TAG = re.compile(r"<[^>]+>")

@@ -136,7 +136,10 @@
         "واد في بلاد هذيل بتهامة أسفله لكنانة"
       ],
       "lat": null,
-      "lon": null
+      "lon": null,
+      "zone": "Tihamah",
+      "zone_qid": "Q1127195",
+      "zone_km": 150
     },
     {
       "t": "Gharan (Bani Lihyan)",

@@ -7,13 +7,17 @@
       "kind": "gunung",
       "note": "Gunung terkenal di Najd; menurut Abu Ziyad gunung milik Bahilah",
       "src": [
-        "Mu'jam al-Buldan 5/433"
+        "Mu'jam al-Buldan 5/433",
+        "Bilad al-'Arab (al-Ashfahani), hlm. 236"
       ],
       "quote": [
-        "هو جبل مشهور الذكر بنجد في طريقها، قال أبو زياد: يذبل جبل لباهلة"
+        "هو جبل مشهور الذكر بنجد في طريقها، قال أبو زياد: يذبل جبل لباهلة",
+        "ويقع شمال صبحا (يذبل) بميل نحو الشرق، مجاورا له"
       ],
-      "lat": null,
-      "lon": null
+      "qid": "N11871883474",
+      "lat": 23.2748,
+      "lon": 44.6099,
+      "precision": "tepat"
     },
     {
       "t": "Jabal Syammam",
@@ -21,13 +25,18 @@
       "kind": "gunung",
       "note": "Gunung milik Bahilah, berpuncak dua yang disebut Ibna Syammam",
       "src": [
-        "Mu'jam al-Buldan 3/361"
+        "Mu'jam al-Buldan 3/361",
+        "Bilad al-'Arab (al-Ashfahani), hlm. 236"
       ],
       "quote": [
-        "وهو اسم جبل لباهلة"
+        "وهو اسم جبل لباهلة",
+        "جبل له رأسان، ويعرف الآن باسم: إذني شمال، ويشاهد من هجرة عروى شمالا، رأي العين"
       ],
-      "lat": null,
-      "lon": null
+      "qid": "N5526353627",
+      "lat": 23.9089,
+      "lon": 44.6347,
+      "precision": "perkiraan",
+      "near": "dekat hijrah 'Arwa (Ibna Syammam terlihat di utaranya)"
     },
     {
       "t": "Muraifiq (Sawad Bahilah, al-Yamamah)",
@@ -35,13 +44,18 @@
       "kind": "desa",
       "note": "Desa di Sawad Bahilah di tanah al-Yamamah",
       "src": [
-        "Mu'jam al-Buldan 5/118"
+        "Mu'jam al-Buldan 5/118",
+        "Bilad al-'Arab (al-Ashfahani), hlm. 368"
       ],
       "quote": [
-        "اسم قرية في سواد باهلة من أرض اليمامة"
+        "اسم قرية في سواد باهلة من أرض اليمامة",
+        "قرية لا تزال معروفة في العرض، عرض القويعة، وهو المعروف قديما بسود باهلة"
       ],
       "lat": null,
-      "lon": null
+      "lon": null,
+      "zone": "Sawad Bahilah (al-'Ird, al-Quway'iyah)",
+      "zone_qid": "Q3545549",
+      "zone_km": 100
     },
     {
       "t": "al-'Aqqar",
@@ -55,7 +69,10 @@
         "العقار موضع في ديار باهلة بأكناف اليمامة"
       ],
       "lat": null,
-      "lon": null
+      "lon": null,
+      "zone": "al-Yamamah",
+      "zone_qid": "Q2551267",
+      "zone_km": 120
     },
     {
       "t": "al-Hufair (dekat Bashrah)",
@@ -111,13 +128,20 @@
       "kind": "daerah",
       "note": "Salah satu tambang perak di negeri Bahilah",
       "src": [
-        "Mu'jam al-Buldan 4/168"
+        "Mu'jam al-Buldan 4/168",
+        "Bilad al-'Arab (al-Ashfahani), hlm. 368",
+        "Bilad al-'Arab (al-Ashfahani), hlm. 368"
       ],
       "quote": [
-        "في بلاد باهلة من معادن الفضة يقال لها عوسجة"
+        "في بلاد باهلة من معادن الفضة يقال لها عوسجة",
+        "مياه لباهلة من السود",
+        "قرية لا تزال معروفة في العرض، عرض القويعة، وهو المعروف قديما بسود باهلة"
       ],
       "lat": null,
-      "lon": null
+      "lon": null,
+      "zone": "Sawad Bahilah (al-'Ird, al-Quway'iyah)",
+      "zone_qid": "Q3545549",
+      "zone_km": 100
     }
   ]
 }

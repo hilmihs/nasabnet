@@ -19,6 +19,7 @@ const P: Record<string, string> = {
   laut: '<path d="M1.5 7c2-2 3.5 2 6.5 0s4.5 2 6.5 0M1.5 11c2-2 3.5 2 6.5 0s4.5 2 6.5 0" fill="none" stroke-width="1.5"/>',
   wilayah: '<path d="M4 14V2.5M4 3h8l-2 2.5 2 2.5H4" fill="none" stroke-width="1.5"/>',
   parit: '<path d="M1.5 9h3M6.5 9h3M11.5 9h3" fill="none" stroke-width="2.2"/><path d="M2 12h12" fill="none" stroke-width=".8"/>',
+  tanya: '<path d="M5.5 6a2.5 2.5 0 1 1 3.6 2.2C8.4 8.6 8 9 8 10v.5" fill="none" stroke-width="1.7"/><circle cx="8" cy="13" r="1"/>',
   jalur: '<path d="M3 12c0-2 1-2.5 2-3l1-3c.5-1 1.5-1 2 0l.5 1.5c1 .3 2 0 3 .5.8.5 1 2 .5 3.5H11v1.5H9.5V12H6v1.5H4.5z"/>',
 }
 

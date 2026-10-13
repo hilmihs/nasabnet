@@ -107,6 +107,7 @@ export default function TribeMap({ focus, onSelect }: { focus?: string; onSelect
   const layer = useRef<L.LayerGroup | null>(null)
   const marks = useRef<L.LayerGroup | null>(null)
   const nature = useRef<L.LayerGroup | null>(null)
+  const unplaced = useRef<L.LayerGroup | null>(null)
   /** label boxes already used on the map (layer pixels), so later labels avoid them */
   const labelBoxes = useRef<L.Bounds[]>([])
   const bases = useRef<Record<Base, L.Layer> | null>(null)
@@ -193,6 +194,7 @@ export default function TribeMap({ focus, onSelect }: { focus?: string; onSelect
     m.on('focus', () => m.scrollWheelZoom.enable())
     m.on('blur', () => m.scrollWheelZoom.disable())
     m.on('zoomend', () => setZoom(m.getZoom()))
+    unplaced.current = L.layerGroup().addTo(m)
     layer.current = L.layerGroup().addTo(m)
     marks.current = L.layerGroup()
     // natural features sit under every marker
@@ -311,6 +313,61 @@ export default function TribeMap({ focus, onSelect }: { focus?: string; onSelect
         .addTo(lg)
     }
   }, [spots, focus, hover, tribes, tribeColorById, area, zoom, base])
+
+  // places without a point: region zones ("somewhere in Najd") and one "?" card per tribe with the rest
+  useEffect(() => {
+    const lg = unplaced.current
+    const m = map.current
+    if (!lg || !m) return
+    lg.clearLayers()
+    const shown = (tid: string) => groups.has(tribes.get(tid)?.group ?? 'arab')
+    const button = (tid: string) =>
+      `<button type="button" data-tid="${tid}" class="nm-tribe" style="border-color:${tribeColorById(tid)}">${esc(tribes.get(tid)?.name ?? tid)} — buka profil</button>`
+    const card = (p: Place, tids: string[]) =>
+      `<div class="nm-entry"><div class="nm-head"><strong>${esc(p.t)}</strong> <span class="nm-ar" dir="rtl">${esc(p.ar)}</span></div><div class="nm-meta">${esc(p.kind)}</div><div>${esc(p.note)}</div><div class="nm-src">ⓘ ${srcHtml(p.src)}</div><div class="nm-tribes">${tids.map(button).join('')}</div></div>`
+    // zones
+    const zones = new Map<string, { lat: number; lon: number; km: number; name: string; rows: Entry[] }>()
+    for (const e of all) {
+      if (e.p.lat != null || e.p.zone_lat == null || !shown(e.tid)) continue
+      const k = `${e.p.zone_lat},${e.p.zone_lon}`
+      const z = zones.get(k) ?? { lat: e.p.zone_lat, lon: e.p.zone_lon!, km: e.p.zone_km ?? 120, name: e.p.zone ?? '', rows: [] }
+      z.rows.push(e)
+      zones.set(k, z)
+    }
+    const zoneBoxes: L.Bounds[] = []
+    for (const z of [...zones.values()].sort((a, b) => b.rows.length - a.rows.length)) {
+      const pt = m.latLngToLayerPoint([z.lat, z.lon])
+      const w = (34 + z.name.length) * 6.4 + 16
+      const box = L.bounds([pt.x - w / 2, pt.y - 11], [pt.x + w / 2, pt.y + 11])
+      const badge = !zoneBoxes.some((b) => b.intersects(box))
+      if (badge) zoneBoxes.push(box)
+      const pop = `<div class="nm-pop"><p class="nm-approx">${z.rows.length} tempat yang menurut kitab ada "di suatu tempat di ${esc(z.name)}" — letak persisnya tidak disebut.</p>${z.rows.map((e) => card(e.p, [e.tid])).join('')}</div>`
+      L.circle([z.lat, z.lon], { radius: z.km * 1000, color: '#7a5c3a', weight: 1, dashArray: '2 8', fillColor: '#c9a86a', fillOpacity: 0.06, opacity: 0.5 })
+        .bindPopup(pop, { maxWidth: 320, maxHeight: 360 })
+        .addTo(lg)
+      if (badge)
+        L.marker([z.lat, z.lon], { icon: L.divIcon({ className: '', iconSize: undefined, html: `<span class="nm-zone-badge">± ${z.rows.length} tempat · di suatu tempat di ${esc(z.name)}</span>` }), zIndexOffset: 200 })
+          .bindPopup(pop, { maxWidth: 320, maxHeight: 360 })
+          .addTo(lg)
+    }
+    // per-tribe "?" cards at the middle of the tribe's known points
+    const byTribe = new Map<string, Place[]>()
+    for (const e of all) if (e.p.lat == null && e.p.zone_lat == null && shown(e.tid)) byTribe.set(e.tid, [...(byTribe.get(e.tid) ?? []), e.p])
+    for (const [tid, ps] of byTribe) {
+      const pts = all.filter((e) => e.tid === tid && e.p.lat != null)
+      if (!pts.length) continue
+      const lat = pts.reduce((a, e) => a + e.p.lat!, 0) / pts.length
+      const lon = pts.reduce((a, e) => a + e.p.lon!, 0) / pts.length
+      const pop = `<div class="nm-pop"><p class="nm-approx">${ps.length} tempat milik ${esc(tribes.get(tid)?.name ?? tid)} yang letaknya belum diketahui. Kartu ini sengaja ditaruh di tengah sebaran tempat kabilah ini yang sudah bertitik — bukan lokasi tempat-tempat ini.</p>${ps.map((p) => card(p, [tid])).join('')}</div>`
+      L.marker([lat, lon], {
+        icon: L.divIcon({ className: '', iconSize: [20, 20], html: medallion('tanya', tribeColorById(tid), { approx: true, on: !focus || focus === tid }) }),
+        title: `${ps.length} tempat lain (letak belum diketahui)`,
+        zIndexOffset: 300,
+      })
+        .bindPopup(pop, { maxWidth: 320, maxHeight: 360 })
+        .addTo(lg)
+    }
+  }, [all, groups, tribes, tribeColorById, focus, zoom])
 
   // natural features (era view): drawn like an old map — wadis as sandy courses, mountains hatched, harrah as names
   useEffect(() => {
@@ -531,6 +588,12 @@ export default function TribeMap({ focus, onSelect }: { focus?: string; onSelect
           <span className="inline-flex items-center gap-1.5">
             <span className="flex h-4 w-4 items-center justify-center rounded-full bg-hijau-800 text-[9px] font-bold text-krem-50">2</span> beberapa tempat di satu titik
           </span>
+          <span className="inline-flex items-center gap-1.5">
+            <span className="nm-zone-badge text-[10px]" style={{ transform: "none" }}>di suatu tempat di …</span> kitab hanya menyebut wilayahnya
+          </span>
+          <span className="inline-flex items-center gap-1.5">
+            <span dangerouslySetInnerHTML={{ __html: medallion('tanya', '#7a5c3a', { approx: true }) }} /> tempat kabilah yang letaknya belum diketahui
+          </span>
           {base === 'era' && (
             <span className="inline-flex items-center gap-1.5">
               <span dangerouslySetInnerHTML={{ __html: medallion('masjid', '#8a6a12', { gold: true }) }} /> tempat bersejarah masa Nabi ﷺ (ikon = jenis tempat; buka "Legenda" untuk artinya)
@@ -575,7 +638,8 @@ export default function TribeMap({ focus, onSelect }: { focus?: string; onSelect
       <aside className="card flex max-h-[calc(68vh+5rem)] flex-col p-4">
         <p className="text-xs font-semibold tracking-[0.18em] text-emas-600 uppercase">Tempat menurut kitab</p>
         <p className="mt-1 text-xs text-tinta-soft">
-          {visible.length} titik dari {all.length} tempat bersitasi. Klik titik untuk kutipan kitabnya; tempat tanpa koordinat pasti tetap tercantum di profil kabilah.
+          {all.length} tempat bersitasi: {all.filter((e) => e.p.lat != null).length} bertitik, {all.filter((e) => e.p.lat == null && e.p.zone_lat != null).length} hanya diketahui wilayahnya (zona),{' '}
+          {all.filter((e) => e.p.lat == null && e.p.zone_lat == null).length} belum diketahui letaknya (kartu "?"). Klik untuk kutipan kitabnya.
         </p>
         <div className="mt-3 flex flex-wrap gap-1.5">
           {(Object.keys(GROUP_LABEL) as Tribe['group'][]).map((k) => (

@@ -6,7 +6,7 @@ diketik manual.
 
 **🌐 Live: [nasabnet.vercel.app](https://nasabnet.vercel.app)** — 5.769 tokoh (1.804 sahabat), 6.753 relasi
 (1.218 pernikahan, 4.747 orang tua–anak, 94 mu'akhah), 54 kabilah/klan; biografi naratif untuk 1.791 sahabat
-dan profil bersitasi untuk 54 kabilah, termasuk 414 tempat kabilah (293 di peta). 99,9% relasi sudah dicocokkan
+dan profil bersitasi untuk 54 kabilah, termasuk 414 tempat kabilah (337 bertitik, 47 zona wilayah, 30 di kartu "letak belum diketahui"). 99,9% relasi sudah dicocokkan
 ulang dengan teks sumbernya.
 
 ## Fitur
@@ -143,7 +143,9 @@ python3 scripts/compile_places.py && python3 scripts/compile_shapes.py && python
 - Kategori Muhajirin/Anshar diturunkan dari kabilah dan keterangan hijrah/Badar di sumber.
 - Data rawi non-sahabat (tabi'in) hanya dipakai untuk mengenali anak-cucu sahabat.
 - Titik peta menunjukkan tempat yang disebut kitab, bukan batas wilayah; banyak kabilah berpindah-pindah, dan
-  121 tempat belum punya koordinat yang pasti sehingga hanya tercantum di profil kabilah.
+  tempat yang kitabnya hanya menyebut wilayah tampil sebagai zona samar, dan yang tanpa keterangan letak
+  dikumpulkan dalam kartu "?" per kabilah. Titik "perkiraan" dihitung dari keterangan kitab (antara X–Y, N mil dari X)
+  dengan bantuan al-Biladi (Mu'jam al-Ma'alim al-Jughrafiyyah) dan gazetir al-Thurayya.
 
 ## Struktur
 

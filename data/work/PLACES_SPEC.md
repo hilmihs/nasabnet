@@ -86,3 +86,18 @@ Copy the printed `derive` object plus `lat`/`lon`, set `precision: "perkiraan"` 
 explanation shown to readers, e.g. "antara Faid dan ats-Tsa'labiyyah (titik tengah)", "±3 mil timur laut Makkah".
 X and Y must be places that already have coordinates (geo.py ids); the quote must contain the description used.
 Still never place by your own estimate and never use the centre of a large region.
+
+## Unplaced pass — the places still without coordinates
+New sources (search them first):
+- `books.py search "NAME" --book 9777` — Mu'jam al-Ma'alim al-Jughrafiyyah fi as-Sirah (al-Biladi): identifies classical
+  places with today's names/locations ("وتعرف اليوم …", "على … كيلا من …"). Take the modern name it gives and look
+  it up with geo.py search/osm; cite this page (plus the classical page already cited).
+- 122 al-Amakin (al-Hazimi) — distinguishes same-named places; 30144 Bilad al-'Arab (al-Ashfahani) — Najd places by
+  tribe; 12402 Mu'jam Qaba'il al-'Arab (Kahhalah) — tribal dwellings.
+- `geo.py thurayya "NAME"` — al-Thurayya gazetteer (classical toponyms with coordinates, ids TH:…). Accept only a clear
+  match (same region, same kind); entries whose type is "regions" are region centroids → use them as a ZONE, never a point.
+Order: exact (tepat) → nearby locality (perkiraan) → derived (between/offset) → ZONE → nothing.
+ZONE = the book only says the place is somewhere in a named region ("ماء لبني X بنجد", "من بلاد هذيل", "بالعالية"):
+keep `lat`/`lon` null and set `"zone": "Najd"` (Indonesian region name shown to readers), `"zone_qid"` (Wikidata or TH:
+id of that region from geo.py) and optionally `"zone_km"` (radius, default 120; smaller for small regions). The quote
+must contain the region statement. The map draws a wide translucent zone ("di suatu tempat di Najd"), never a pin.

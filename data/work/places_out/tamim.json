@@ -29,7 +29,10 @@
         "وكانت الصمان في قديم الدهر لبني حنظلة والحزن لبني يربوع والدهناء لجماعتهم والصمان متاخم للدهناء"
       ],
       "lat": null,
-      "lon": null
+      "lon": null,
+      "zone": "ash-Shamman",
+      "zone_qid": "TH:SAMMAN_472E267N_R",
+      "zone_km": 150
     },
     {
       "t": "al-Buthah",
@@ -76,7 +79,10 @@
         "بلبول جبل باليمامة في بلاد بني تميم"
       ],
       "lat": null,
-      "lon": null
+      "lon": null,
+      "zone": "al-Yamamah",
+      "zone_qid": "Q2551267",
+      "zone_km": 120
     },
     {
       "t": "ad-Dau",
@@ -84,13 +90,18 @@
       "kind": "daerah",
       "note": "Negeri milik Bani Tamim, antara Bashrah dan al-Yamamah",
       "src": [
-        "Mu'jam ma Ista'jam 2/566"
+        "Mu'jam ma Ista'jam 2/566",
+        "Bilad al-'Arab (al-Ashfahani), hlm. 248"
       ],
       "quote": [
-        "بلد لبنى تميم، وهو ما بين البصرة واليمامة"
+        "بلد لبنى تميم، وهو ما بين البصرة واليمامة",
+        "الدو يعرف الآن باسم الدبدبة"
       ],
       "lat": null,
-      "lon": null
+      "lon": null,
+      "zone": "ad-Dau (kini ad-Dibdibah)",
+      "zone_qid": "Q31868876",
+      "zone_km": 100
     },
     {
       "t": "Kawasan Bani Tamim di Bashrah",

@@ -76,13 +76,18 @@
    "kind": "benteng",
    "note": "Al-Maraghah di negeri Khats'am kebanyakan dihuni Quraisy; satu dari dua bentengnya, al-Barqah, milik Bani Sahm",
    "src": [
+    "Shifat Jazirat al-'Arab, hlm. 119",
     "Shifat Jazirat al-'Arab, hlm. 119"
    ],
    "quote": [
-    "وأكثر ساكن المراغة قريش بها حصنان أحدهما القرن مخزومي والثاني البرقة سهمّي"
+    "وأكثر ساكن المراغة قريش بها حصنان أحدهما القرن مخزومي والثاني البرقة سهمّي",
+    "بلد خثعم: أعراض نجد بيشة وترج وتبالة والمراغة"
    ],
    "lat": null,
-   "lon": null
+   "lon": null,
+   "zone": "negeri Khats'am (sekitar Bisyah, Turj, Tabalah)",
+   "zone_qid": "TH:BISHA_426E200N_R",
+   "zone_km": 80
   }
  ]
 }

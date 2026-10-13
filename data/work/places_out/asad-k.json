@@ -1,11 +1,161 @@
-{"id": "asad-k", "places": [
-  {"t": "Buzakhah", "ar": "بزاخة", "kind": "mata air", "note": "Mata air Bani Asad di Najd; tempat pertempuran besar melawan Thulaihah bin Khuwailid pada masa Abu Bakar", "src": ["Mu'jam al-Buldan 1/408"], "quote": ["فلقيه ببزاخة ماء لبني أسد فقتل عكاشة"], "qid": "N7512017951", "lat": 27.1897, "lon": 41.3833, "precision": "tepat"},
-  {"t": "ar-Rass", "ar": "الرس", "kind": "mata air", "note": "Mata air Bani Munqidz bin A'ya' dari Bani Asad", "src": ["Mu'jam al-Buldan 3/44"], "quote": ["الرسّ ماء لبني منقذ بن أعياء من بني أسد"], "qid": "Q1878991", "lat": 25.8667, "lon": 43.5, "precision": "tepat"},
-  {"t": "Zubalah", "ar": "زبالة", "kind": "desa", "note": "Persinggahan di jalan Kufah–Makkah; ada benteng dan masjid jami' milik Bani Ghadhirah dari Bani Asad", "src": ["Mu'jam al-Buldan 3/129"], "quote": ["زبالة بعد القاع من الكوفة وقبل الشقوق، فيها حصن وجامع لبني غاضرة من بني أسد"], "qid": "N5889443415", "lat": 29.3914, "lon": 43.5583, "precision": "tepat"},
-  {"t": "Jufaf ath-Thair (ats-Tsa'labiyyah)", "ar": "جفاف الطير", "kind": "daerah", "note": "Kawasan di negeri Bani Asad; ats-Tsa'labiyyah dekat Kufah termasuk di dalamnya", "src": ["Mu'jam al-Buldan 2/146"], "quote": ["جُفاف الطّير: بالضم، والتخفيف: صقع في بلاد بني أسد، منه الثّعلبية التي قرب الكوفة"], "qid": "N6918583348", "lat": 28.2704, "lon": 43.2387, "precision": "perkiraan", "near": "ats-Tsa'labiyyah"},
-  {"t": "Wadi ar-Rummah (bagian hilir)", "ar": "الرمة", "kind": "lembah", "note": "Bagian hilir Wadi ar-Rummah milik Bani Asad dan 'Abs", "src": ["Mu'jam al-Buldan 3/72"], "quote": ["وأسفله لبني أسد وعبس ثمّ ينقطع في رمل العيون"], "qid": "Q4120550", "lat": 25.8061, "lon": 42.8731, "precision": "perkiraan", "near": "Wadi ar-Rummah"},
-  {"t": "Aban al-Aswad", "ar": "أبان الأسود", "kind": "gunung", "note": "Salah satu dari dua gunung Abanan yang diapit Wadi ar-Rummah; milik Bani Asad, lalu Bani Walibah, lalu al-Harits bin Tsa'labah", "src": ["Mu'jam al-Buldan 1/62"], "quote": ["وأبان الأسود لبني أسد، ثم لبني والبة، ثم للحارث بن ثعلبة بن دودان بن أسد"], "qid": null, "lat": null, "lon": null},
-  {"t": "al-Habs dan al-Qanan", "ar": "القنان", "kind": "gunung", "note": "Termasuk negeri Bani Asad menurut al-Ashma'i", "src": ["Mu'jam al-Buldan 2/213"], "quote": ["وقال الأصمعي: في بلاد بني أسد الحبس والقنان وإبان الأبيض وإبان الأسود"], "qid": null, "lat": null, "lon": null},
-  {"t": "Abraq al-'Azzaf", "ar": "أبرق العزاف", "kind": "mata air", "note": "Mata air terkenal milik Bani Asad bin Khuzaimah", "src": ["Mu'jam al-Buldan 1/68"], "quote": ["هو ماء لبني أسد بن خزيمة بن مدركة، مشهور"], "qid": null, "lat": null, "lon": null},
-  {"t": "al-Kunasah (Kufah)", "ar": "الكناسة", "kind": "distrik", "note": "Permukiman Bani Asad di Kufah; Samurah bin Jundab membeli rumah-rumah di sana", "src": ["Ibnu Sa'd 7/50"], "quote": ["ثم أتى الكوفة فأشترى بها دورا في بني أسد بالكناسة فبناها فنزلها ومات بها"], "qid": "Q186234", "lat": 32.03, "lon": 44.4, "precision": "perkiraan", "near": "Kufah"}
-]}
+{
+ "id": "asad-k",
+ "places": [
+  {
+   "t": "Buzakhah",
+   "ar": "بزاخة",
+   "kind": "mata air",
+   "note": "Mata air Bani Asad di Najd; tempat pertempuran besar melawan Thulaihah bin Khuwailid pada masa Abu Bakar",
+   "src": [
+    "Mu'jam al-Buldan 1/408"
+   ],
+   "quote": [
+    "فلقيه ببزاخة ماء لبني أسد فقتل عكاشة"
+   ],
+   "qid": "N7512017951",
+   "lat": 27.1897,
+   "lon": 41.3833,
+   "precision": "tepat"
+  },
+  {
+   "t": "ar-Rass",
+   "ar": "الرس",
+   "kind": "mata air",
+   "note": "Mata air Bani Munqidz bin A'ya' dari Bani Asad",
+   "src": [
+    "Mu'jam al-Buldan 3/44"
+   ],
+   "quote": [
+    "الرسّ ماء لبني منقذ بن أعياء من بني أسد"
+   ],
+   "qid": "Q1878991",
+   "lat": 25.8667,
+   "lon": 43.5,
+   "precision": "tepat"
+  },
+  {
+   "t": "Zubalah",
+   "ar": "زبالة",
+   "kind": "desa",
+   "note": "Persinggahan di jalan Kufah–Makkah; ada benteng dan masjid jami' milik Bani Ghadhirah dari Bani Asad",
+   "src": [
+    "Mu'jam al-Buldan 3/129"
+   ],
+   "quote": [
+    "زبالة بعد القاع من الكوفة وقبل الشقوق، فيها حصن وجامع لبني غاضرة من بني أسد"
+   ],
+   "qid": "N5889443415",
+   "lat": 29.3914,
+   "lon": 43.5583,
+   "precision": "tepat"
+  },
+  {
+   "t": "Jufaf ath-Thair (ats-Tsa'labiyyah)",
+   "ar": "جفاف الطير",
+   "kind": "daerah",
+   "note": "Kawasan di negeri Bani Asad; ats-Tsa'labiyyah dekat Kufah termasuk di dalamnya",
+   "src": [
+    "Mu'jam al-Buldan 2/146"
+   ],
+   "quote": [
+    "جُفاف الطّير: بالضم، والتخفيف: صقع في بلاد بني أسد، منه الثّعلبية التي قرب الكوفة"
+   ],
+   "qid": "N6918583348",
+   "lat": 28.2704,
+   "lon": 43.2387,
+   "precision": "perkiraan",
+   "near": "ats-Tsa'labiyyah"
+  },
+  {
+   "t": "Wadi ar-Rummah (bagian hilir)",
+   "ar": "الرمة",
+   "kind": "lembah",
+   "note": "Bagian hilir Wadi ar-Rummah milik Bani Asad dan 'Abs",
+   "src": [
+    "Mu'jam al-Buldan 3/72"
+   ],
+   "quote": [
+    "وأسفله لبني أسد وعبس ثمّ ينقطع في رمل العيون"
+   ],
+   "qid": "Q4120550",
+   "lat": 25.8061,
+   "lon": 42.8731,
+   "precision": "perkiraan",
+   "near": "Wadi ar-Rummah"
+  },
+  {
+   "t": "Aban al-Aswad",
+   "ar": "أبان الأسود",
+   "kind": "gunung",
+   "note": "Salah satu dari dua gunung Abanan yang diapit Wadi ar-Rummah; milik Bani Asad, lalu Bani Walibah, lalu al-Harits bin Tsa'labah",
+   "src": [
+    "Mu'jam al-Buldan 1/62",
+    "al-Amakin (al-Hazimi), hlm. 37"
+   ],
+   "quote": [
+    "وأبان الأسود لبني أسد، ثم لبني والبة، ثم للحارث بن ثعلبة بن دودان بن أسد",
+    "جبل بين فيد والنبهانية، أبيض وجبل أسود وهما أبانان"
+   ],
+   "qid": null,
+   "derive": {
+    "method": "between",
+    "refs": [
+     "Q12231514",
+     "Q110243632"
+    ],
+    "frac": 0.5
+   },
+   "lat": 26.4892,
+   "lon": 42.7977,
+   "precision": "perkiraan",
+   "near": "antara Faid dan an-Nabhaniyah (titik tengah); catatan: Hamad al-Jasir menaruhnya lebih ke selatan"
+  },
+  {
+   "t": "al-Habs dan al-Qanan",
+   "ar": "القنان",
+   "kind": "gunung",
+   "note": "Termasuk negeri Bani Asad menurut al-Ashma'i",
+   "src": [
+    "Mu'jam al-Buldan 2/213"
+   ],
+   "quote": [
+    "وقال الأصمعي: في بلاد بني أسد الحبس والقنان وإبان الأبيض وإبان الأسود"
+   ],
+   "qid": null,
+   "lat": null,
+   "lon": null
+  },
+  {
+   "t": "Abraq al-'Azzaf",
+   "ar": "أبرق العزاف",
+   "kind": "mata air",
+   "note": "Mata air terkenal milik Bani Asad bin Khuzaimah",
+   "src": [
+    "Mu'jam al-Buldan 1/68"
+   ],
+   "quote": [
+    "هو ماء لبني أسد بن خزيمة بن مدركة، مشهور"
+   ],
+   "qid": null,
+   "lat": null,
+   "lon": null
+  },
+  {
+   "t": "al-Kunasah (Kufah)",
+   "ar": "الكناسة",
+   "kind": "distrik",
+   "note": "Permukiman Bani Asad di Kufah; Samurah bin Jundab membeli rumah-rumah di sana",
+   "src": [
+    "Ibnu Sa'd 7/50"
+   ],
+   "quote": [
+    "ثم أتى الكوفة فأشترى بها دورا في بني أسد بالكناسة فبناها فنزلها ومات بها"
+   ],
+   "qid": "Q186234",
+   "lat": 32.03,
+   "lon": 44.4,
+   "precision": "perkiraan",
+   "near": "Kufah"
+  }
+ ]
+}

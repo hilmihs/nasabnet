@@ -16,7 +16,7 @@
    "qid": "Q12246907", "lat": 23.6508, "lon": 38.5194, "precision": "perkiraan", "near": "al-Jar"},
   {"t": "Syadakh", "ar": "شدخ", "kind": "daerah", "note": "Salah satu permukiman Ghifar dan Aslam di Hijaz",
    "src": ["Mu'jam al-Buldan 3/328"], "quote": ["من منازل غفار وأسلم بالحجاز عن نصر"],
-   "lat": null, "lon": null},
+   "lat": null, "lon": null, "zone": "Hijaz", "zone_qid": "TH:HIJAZ_390E235N_R", "zone_km": 250},
   {"t": "Bi'r Rumah (Madinah)", "ar": "بئر رومة", "kind": "mata air", "note": "Sumur milik seorang dari Bani Ghifar di Madinah yang menjual airnya; lalu dibeli 'Utsman untuk kaum Muslimin",
    "src": ["Mu'jam al-Buldan 1/299"], "quote": ["وكان لرجل من بني غفار بئر يقال لها رومة"],
    "qid": "Q7182798", "lat": 24.4929, "lon": 39.5775, "precision": "tepat"},

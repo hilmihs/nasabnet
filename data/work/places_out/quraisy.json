@@ -1,11 +1,159 @@
-{"id": "quraisy", "places": [
-  {"t": "Makkah", "ar": "مكة", "kind": "kota", "note": "Setelah Qushay menguasai Makkah dan mengusir Khuza'ah, ia membaginya di antara Quraisy", "src": ["Mu'jam ma Ista'jam 1/257"], "quote": ["لمّا غلبت قصىّ على مكّة، ونفى عنها خزاعة، قسمها على قريش"], "qid": "Q5806", "lat": 21.4225, "lon": 39.8261, "precision": "tepat"},
-  {"t": "Bathha' Makkah (Quraisy al-Bithah)", "ar": "بطحاء مكة", "kind": "distrik", "note": "Lembah Makkah yang dilalui banjir; Quraisy al-Bithah adalah kabilah-kabilah keturunan Ka'b bin Lu'ay", "src": ["Mu'jam ma Ista'jam 1/257"], "quote": ["وقريش البطاح : قبائل كعب بن لؤىّ"], "qid": "Q5806", "lat": 21.4225, "lon": 39.8261, "precision": "perkiraan", "near": "Makkah"},
-  {"t": "Zhawahir Makkah (Quraisy azh-Zhawahir)", "ar": "ظواهر مكة", "kind": "daerah", "note": "Pinggiran Makkah milik Quraisy lainnya: Bani Muharib, Bani al-Harits bin Fihr, Bani al-Adram dan sebagian besar Bani 'Amir bin Lu'ay", "src": ["Mu'jam ma Ista'jam 1/257"], "quote": ["وظواهر مكّة لسائر قريش؛ منهم بنو محارب، وبنو الحارث بن فهر"], "qid": "Q5806", "lat": 21.4225, "lon": 39.8261, "precision": "perkiraan", "near": "Makkah"},
-  {"t": "Wadi al-'Aqiq (Madinah)", "ar": "العقيق", "kind": "lembah", "note": "Di al-'Aqiq terdapat istana-istana dan kediaman para bangsawan Quraisy dan lainnya", "src": ["Mu'jam ma Ista'jam 4/1331"], "quote": ["ثم القصور يمنة ويسرة، ومنازل الأشراف من قريش وغيرهم"], "qid": "W1235902746", "lat": 24.4599, "lon": 39.5767, "precision": "tepat"},
-  {"t": "Burmah", "ar": "برمة", "kind": "mata air", "note": "Mata air dan kebun kurma milik Quraisy, antara Khaibar dan Wadi al-Qura", "src": ["Mu'jam al-Buldan 1/478"], "quote": ["وبرمة بين خيبر ووادي القرى، وهي عيون ونخل لقريش"], "qid": "Q27125", "lat": 25.6986, "lon": 39.2925, "precision": "perkiraan", "near": "Khaibar"},
-  {"t": "al-Fur'", "ar": "الفرع", "kind": "desa", "note": "Desa besar di wilayah Madinah, delapan barid dari Madinah di jalan Makkah; milik Quraisy, Anshar dan Muzainah", "src": ["Mu'jam al-Buldan 4/252"], "quote": ["وهي قرية غنّاء كبيرة، وهي لقريش الأنصار ومزينة"], "qid": null, "qid": "W1089836311", "lat": 23.3476, "lon": 39.6637, "precision": "tepat"},
-  {"t": "al-Marabid", "ar": "المرابد", "kind": "mata air", "note": "Mata air berkebun kurma milik Quraisy dan Bani Laits, di bagian bawah Jarajir (wadi Juhainah)", "src": ["Mu'jam ma Ista'jam 4/1310"], "quote": ["والمرابد: عيون فيها نخل لقريش وبنى ليث، بأسفل جراجر"], "qid": null, "qid": "N7678020719", "lat": 25.1037, "lon": 38.5, "precision": "perkiraan", "near": "Jarajir (wadi Juhainah), di hilirnya"},
-  {"t": "al-Maraghah", "ar": "المراغة", "kind": "daerah", "note": "Kebanyakan penduduknya Quraisy; di sana ada dua benteng: al-Qarn milik Makhzum dan al-Barqah milik Sahm", "src": ["Shifat Jazirat al-'Arab, hlm. 119"], "quote": ["وأكثر ساكن المراغة قريش بها حصنان أحدهما القرن مخزومي والثاني البرقة سهمّي"], "qid": null, "lat": null, "lon": null},
-  {"t": "Ma'din al-Buram", "ar": "معدن البرام", "kind": "daerah", "note": "Didiami Quraisy dan Tsaqif", "src": ["Shifat Jazirat al-'Arab, hlm. 121"], "quote": ["ويسكن معدن البرام قريش وثقيف"], "qid": null, "lat": null, "lon": null}
-]}
+{
+ "id": "quraisy",
+ "places": [
+  {
+   "t": "Makkah",
+   "ar": "مكة",
+   "kind": "kota",
+   "note": "Setelah Qushay menguasai Makkah dan mengusir Khuza'ah, ia membaginya di antara Quraisy",
+   "src": [
+    "Mu'jam ma Ista'jam 1/257"
+   ],
+   "quote": [
+    "لمّا غلبت قصىّ على مكّة، ونفى عنها خزاعة، قسمها على قريش"
+   ],
+   "qid": "Q5806",
+   "lat": 21.4225,
+   "lon": 39.8261,
+   "precision": "tepat"
+  },
+  {
+   "t": "Bathha' Makkah (Quraisy al-Bithah)",
+   "ar": "بطحاء مكة",
+   "kind": "distrik",
+   "note": "Lembah Makkah yang dilalui banjir; Quraisy al-Bithah adalah kabilah-kabilah keturunan Ka'b bin Lu'ay",
+   "src": [
+    "Mu'jam ma Ista'jam 1/257"
+   ],
+   "quote": [
+    "وقريش البطاح : قبائل كعب بن لؤىّ"
+   ],
+   "qid": "Q5806",
+   "lat": 21.4225,
+   "lon": 39.8261,
+   "precision": "perkiraan",
+   "near": "Makkah"
+  },
+  {
+   "t": "Zhawahir Makkah (Quraisy azh-Zhawahir)",
+   "ar": "ظواهر مكة",
+   "kind": "daerah",
+   "note": "Pinggiran Makkah milik Quraisy lainnya: Bani Muharib, Bani al-Harits bin Fihr, Bani al-Adram dan sebagian besar Bani 'Amir bin Lu'ay",
+   "src": [
+    "Mu'jam ma Ista'jam 1/257"
+   ],
+   "quote": [
+    "وظواهر مكّة لسائر قريش؛ منهم بنو محارب، وبنو الحارث بن فهر"
+   ],
+   "qid": "Q5806",
+   "lat": 21.4225,
+   "lon": 39.8261,
+   "precision": "perkiraan",
+   "near": "Makkah"
+  },
+  {
+   "t": "Wadi al-'Aqiq (Madinah)",
+   "ar": "العقيق",
+   "kind": "lembah",
+   "note": "Di al-'Aqiq terdapat istana-istana dan kediaman para bangsawan Quraisy dan lainnya",
+   "src": [
+    "Mu'jam ma Ista'jam 4/1331"
+   ],
+   "quote": [
+    "ثم القصور يمنة ويسرة، ومنازل الأشراف من قريش وغيرهم"
+   ],
+   "qid": "W1235902746",
+   "lat": 24.4599,
+   "lon": 39.5767,
+   "precision": "tepat"
+  },
+  {
+   "t": "Burmah",
+   "ar": "برمة",
+   "kind": "mata air",
+   "note": "Mata air dan kebun kurma milik Quraisy, antara Khaibar dan Wadi al-Qura",
+   "src": [
+    "Mu'jam al-Buldan 1/478"
+   ],
+   "quote": [
+    "وبرمة بين خيبر ووادي القرى، وهي عيون ونخل لقريش"
+   ],
+   "qid": "Q27125",
+   "lat": 25.6986,
+   "lon": 39.2925,
+   "precision": "perkiraan",
+   "near": "Khaibar"
+  },
+  {
+   "t": "al-Fur'",
+   "ar": "الفرع",
+   "kind": "desa",
+   "note": "Desa besar di wilayah Madinah, delapan barid dari Madinah di jalan Makkah; milik Quraisy, Anshar dan Muzainah",
+   "src": [
+    "Mu'jam al-Buldan 4/252"
+   ],
+   "quote": [
+    "وهي قرية غنّاء كبيرة، وهي لقريش الأنصار ومزينة"
+   ],
+   "qid": "W1089836311",
+   "lat": 23.3476,
+   "lon": 39.6637,
+   "precision": "tepat"
+  },
+  {
+   "t": "al-Marabid",
+   "ar": "المرابد",
+   "kind": "mata air",
+   "note": "Mata air berkebun kurma milik Quraisy dan Bani Laits, di bagian bawah Jarajir (wadi Juhainah)",
+   "src": [
+    "Mu'jam ma Ista'jam 4/1310"
+   ],
+   "quote": [
+    "والمرابد: عيون فيها نخل لقريش وبنى ليث، بأسفل جراجر"
+   ],
+   "qid": "N7678020719",
+   "lat": 25.1037,
+   "lon": 38.5,
+   "precision": "perkiraan",
+   "near": "Jarajir (wadi Juhainah), di hilirnya"
+  },
+  {
+   "t": "al-Maraghah",
+   "ar": "المراغة",
+   "kind": "daerah",
+   "note": "Kebanyakan penduduknya Quraisy; di sana ada dua benteng: al-Qarn milik Makhzum dan al-Barqah milik Sahm",
+   "src": [
+    "Shifat Jazirat al-'Arab, hlm. 119",
+    "Shifat Jazirat al-'Arab, hlm. 119"
+   ],
+   "quote": [
+    "وأكثر ساكن المراغة قريش بها حصنان أحدهما القرن مخزومي والثاني البرقة سهمّي",
+    "بلد خثعم: أعراض نجد بيشة وترج وتبالة والمراغة"
+   ],
+   "lat": null,
+   "lon": null,
+   "zone": "negeri Khats'am (sekitar Bisyah, Turj, Tabalah)",
+   "zone_qid": "TH:BISHA_426E200N_R",
+   "zone_km": 80
+  },
+  {
+   "t": "Ma'din al-Buram",
+   "ar": "معدن البرام",
+   "kind": "daerah",
+   "note": "Didiami Quraisy dan Tsaqif",
+   "src": [
+    "Shifat Jazirat al-'Arab, hlm. 121",
+    "al-Amakin (al-Hazimi), hlm. 535"
+   ],
+   "quote": [
+    "ويسكن معدن البرام قريش وثقيف",
+    "وادي تربة لبني هلال، وحواليه بين الجبال السراة، ويسوم، وقرقد، ومعدن البرام"
+   ],
+   "qid": "Q7856500",
+   "lat": 21.2142,
+   "lon": 41.6331,
+   "precision": "perkiraan",
+   "near": "Turabah (Ma'din al-Buram di antara gunung-gunung sekitar Wadi Turabah) (kedekatannya longgar)"
+  }
+ ]
+}

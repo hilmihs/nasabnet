@@ -28,5 +28,5 @@
    "qid": "Q955523", "lat": 14.55, "lon": 44.4017, "precision": "perkiraan", "near": "Dzamar"},
   {"t": "Sarw Madzhij", "ar": "سرو مذحج", "kind": "daerah", "note": "Sarw Madzhij baru belakangan didiami Madzhij; asalnya negeri Dzu Ru'ain",
    "src": ["Shifat Jazirat al-'Arab, hlm. 90"], "quote": ["وكذلك سرو مذحج لم توطنه مذحج إلا بآخرة وهو من أوطان ذي رعين"],
-   "lat": null, "lon": null}
+   "lat": null, "lon": null, "zone": "Sarw Madzhij", "zone_qid": "TH:SARW_455E139N_R", "zone_km": 60}
 ]}
