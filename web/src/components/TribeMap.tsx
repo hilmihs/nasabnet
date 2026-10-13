@@ -367,17 +367,18 @@ export default function TribeMap({ focus, onSelect }: { focus?: string; onSelect
         continue
       }
       if (f.lat == null || f.lon == null) continue
+      const approxMark = f.precision === 'perkiraan' ? '≈ ' : ''
       if (f.kind === 'wilayah' || f.kind === 'laut') {
         // region and sea names frame the peninsula: only from afar
         if (zoom <= 8 && fits([f.lat, f.lon], f.t, f.kind === 'wilayah' ? 20 : 15))
-          L.marker([f.lat, f.lon], { pane: 'nature', icon: L.divIcon({ className: '', iconSize: undefined, html: `<span class="${f.kind === 'wilayah' ? 'nm-region' : 'nm-sea'}">${esc(f.t)}</span>` }), title: f.t })
+          L.marker([f.lat, f.lon], { pane: 'nature', icon: L.divIcon({ className: '', iconSize: undefined, html: `<span class="${f.kind === 'wilayah' ? 'nm-region' : 'nm-sea'}">${approxMark}${esc(f.t)}</span>` }), title: f.t })
             .bindPopup(popup(f))
             .addTo(lg)
         continue
       }
       if (f.kind === 'pasir') {
         if (fits([f.lat, f.lon], f.t, 13))
-          L.marker([f.lat, f.lon], { pane: 'nature', icon: L.divIcon({ className: '', iconSize: undefined, html: `<span class="nm-route-label">${medallion('pasir', '#b8925a')}${esc(f.t)}</span>` }), title: f.t })
+          L.marker([f.lat, f.lon], { pane: 'nature', icon: L.divIcon({ className: '', iconSize: undefined, html: `<span class="nm-route-label">${medallion('pasir', '#b8925a', { approx: !!approxMark })}${approxMark}${esc(f.t)}</span>` }), title: f.t })
             .bindPopup(popup(f))
             .addTo(lg)
         continue
@@ -385,13 +386,13 @@ export default function TribeMap({ focus, onSelect }: { focus?: string; onSelect
       if (f.kind === 'kawasan') {
         // clan quarters: a spaced caption, only close up and where it fits (the books give no boundary)
         if (zoom >= 13 && fits([f.lat, f.lon], f.t, 11))
-          L.marker([f.lat, f.lon], { pane: 'nature', icon: L.divIcon({ className: '', iconSize: undefined, html: `<span class="nm-kawasan">${esc(f.t)}</span>` }), title: f.t })
+          L.marker([f.lat, f.lon], { pane: 'nature', icon: L.divIcon({ className: '', iconSize: undefined, html: `<span class="nm-kawasan">${approxMark}${esc(f.t)}</span>` }), title: f.t })
             .bindPopup(popup(f))
             .addTo(lg)
         continue
       }
       if (f.kind === 'benteng' || f.kind === 'pasar') {
-        L.marker([f.lat, f.lon], { pane: 'nature', icon: L.divIcon({ className: '', iconSize: [16, 16], html: f.kind === 'benteng' ? TOWER : STALL }), title: f.t })
+        L.marker([f.lat, f.lon], { pane: 'nature', icon: L.divIcon({ className: '', iconSize: [16, 16], html: `<span class="${f.precision === 'perkiraan' ? 'nm-approx-ring' : ''}">${f.kind === 'benteng' ? TOWER : STALL}</span>` }), title: f.t })
           .bindTooltip(esc(f.t), { direction: 'right', offset: [6, 0], className: 'nm-mark-label', permanent: zoom >= 15 && fits([f.lat, f.lon], f.t, 11) })
           .bindPopup(popup(f))
           .addTo(lg)
@@ -408,10 +409,10 @@ export default function TribeMap({ focus, onSelect }: { focus?: string; onSelect
       }
       const html =
         f.kind === 'harrah'
-          ? `<span class="nm-harrah">${esc(f.t)}</span>`
+          ? `<span class="nm-harrah">${approxMark}${esc(f.t)}</span>`
           : f.kind === 'kebun'
             ? `<span class="nm-palm" title="${esc(f.t)}">${PALM}</span>`
-            : `<span class="nm-mountain-label">${esc(f.t)}</span>`
+            : `<span class="nm-mountain-label">${approxMark}${esc(f.t)}</span>`
       L.marker([f.lat, f.lon], { pane: 'nature', icon: L.divIcon({ className: '', iconSize: undefined, html }), title: f.t }).bindPopup(popup(f)).addTo(lg)
     }
     // patterns (mountain hatching, sand, lava), added once to the map's SVG

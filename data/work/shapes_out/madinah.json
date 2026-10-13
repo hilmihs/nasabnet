@@ -649,6 +649,171 @@
     "W1536783060"
    ],
    "osm": []
+  },
+  {
+   "t": "Jabal Dzubab",
+   "ar": "ذباب",
+   "kind": "gunung",
+   "note": "Gunung di Madinah yang disebut dalam kisah maghazi; masjidnya, Masjid Dzubab, kini dikenal sebagai Masjid ar-Rayah",
+   "src": [
+    "Mu'jam al-Buldan 3/3",
+    "Wafa' al-Wafa' 3/49"
+   ],
+   "quote": [
+    "جبل بالمدينة له ذكر في المغازي والأخبار",
+    "مسجد ذباب، ويعرف اليوم بمسجد الراية"
+   ],
+   "osm": [],
+   "qid": "Q12204739",
+   "lat": 24.4802,
+   "lon": 39.6032
+  },
+  {
+   "t": "Tsaniyyat al-Wada'",
+   "ar": "ثنية الوداع",
+   "kind": "gunung",
+   "note": "Celah bukit yang menghadap Madinah, dilalui orang yang menuju Makkah; masjid 'di atas Tsaniyyat al-Wada'' di kiri orang yang masuk Madinah dari jalan Syam ialah Masjid ar-Rayah, disebut begitu karena dekat dengannya. Label perkiraan di Masjid ar-Rayah",
+   "src": [
+    "Mu'jam al-Buldan 2/86",
+    "Wafa' al-Wafa' 3/49",
+    "Wafa' al-Wafa' 3/49"
+   ],
+   "quote": [
+    "وهي ثنية مشرفة على المدينة يطؤها من يريد مكة",
+    "مسجدّا أعلى ثنية الوداع عن يسار الداخل إلى المدينة من طريق الشام",
+    "وأطلق على محل ثنية الوداع لقربه منها"
+   ],
+   "osm": [],
+   "qid": "Q18093374",
+   "lat": 24.4802,
+   "lon": 39.6032,
+   "precision": "perkiraan",
+   "near": "dekat Masjid ar-Rayah (Jabal Dzubab)"
+  },
+  {
+   "t": "Bani Zhafar",
+   "ar": "بنو ظفر",
+   "kind": "kawasan",
+   "note": "Masjid Bani Zhafar (Aus), kini Masjid al-Baghlah, di tepi harrah timur di sebelah timur al-Baqi'. Label perkiraan di distrik Bani Zhafar",
+   "src": [
+    "Wafa' al-Wafa' 3/36"
+   ],
+   "quote": [
+    "مسجد بني ظفر من الأوس، ويعرف اليوم بمسجد البغلة، وهو بطرف الحرة الشرقية في شرقي البقيع"
+   ],
+   "osm": [],
+   "qid": "R19122087",
+   "lat": 24.4611,
+   "lon": 39.6297,
+   "precision": "perkiraan",
+   "near": "distrik Bani Zhafar (timur al-Baqi')"
+  },
+  {
+   "t": "Bani Khathmah",
+   "ar": "بنو خطمة",
+   "kind": "kawasan",
+   "note": "Masjid Bani Khathmah (Aus), tempat Nabi ﷺ salat; as-Samhudi: permukiman mereka dekat al-Majisyuniyyah (titik = identifikasi modern masjidnya)",
+   "src": [
+    "Wafa' al-Wafa' 3/69",
+    "Wafa' al-Wafa' 3/69"
+   ],
+   "quote": [
+    "ومنها: مسجد بني خطمة من الأوس، ومسجد العجوز",
+    "أن النبي ﷺ صلّى في مسجد بني خطمة"
+   ],
+   "osm": [],
+   "qid": "Q16125620",
+   "lat": 24.4534,
+   "lon": 39.6349
+  },
+  {
+   "t": "Uthum asy-Syaikhan",
+   "ar": "الشيخان",
+   "kind": "benteng",
+   "note": "Asy-Syaikhan dua benteng (uthum); Nabi ﷺ salat dan bermalam di masjid dekatnya sebelum Uhud; al-Mathari: tempatnya di antara Madinah dan Jabal Uhud di jalan timur. Titik tengah perkiraan",
+   "src": [
+    "Wafa' al-Wafa' 3/64",
+    "Wafa' al-Wafa' 3/64"
+   ],
+   "quote": [
+    "صلّى في المسجد الذي عند البدائع عند الشيخين، وبات فيه حتى أصبح، والشيخان: أطمان",
+    "قول المطري: إنه موضع بين المدينة وجبل أحد على الطريق الشرقية مع الحرّة إلى جبل أحد"
+   ],
+   "osm": [],
+   "derive": {
+    "method": "between",
+    "refs": [
+     "Q35484",
+     "Q1436040"
+    ],
+    "frac": 0.5
+   },
+   "lat": 24.4901,
+   "lon": 39.612,
+   "precision": "perkiraan",
+   "near": "antara Madinah dan Jabal Uhud (titik tengah)"
+  },
+  {
+   "t": "Uthum Waqim",
+   "ar": "واقم",
+   "kind": "benteng",
+   "note": "Benteng Waqim milik Hudhair al-Kata'ib di Bani 'Abdil Asyhal; Masjid Bani 'Abdil Asyhal juga disebut Masjid Waqim. Label perkiraan di masjid itu",
+   "src": [
+    "Wafa' al-Wafa' 1/152",
+    "Ibnu Sa'd 3/604",
+    "Wafa' al-Wafa' 3/61"
+   ],
+   "quote": [
+    "وابتنى بنو عبد الأشهل أطما يقال له «واقم»",
+    "وواقم أطم حضير الكتائب، وكان في بني عبد الأشهل",
+    "ومنها: مسجد بني عبد الأشهل من الأوس، ويقال له: مسجد واقم"
+   ],
+   "osm": [],
+   "qid": "Q20425073",
+   "lat": 24.4709,
+   "lon": 39.623,
+   "precision": "perkiraan",
+   "near": "Masjid Bani 'Abdil Asyhal (Masjid Waqim)"
+  },
+  {
+   "t": "Uthum Fari' (benteng Hassan bin Tsabit)",
+   "ar": "فارع",
+   "kind": "benteng",
+   "note": "Benteng di tempat rumah Ja'far bin Yahya di Bab ar-Rahmah; saat Khandaq istri-istri Nabi ﷺ dan Shafiyyah ditempatkan di sana bersama Hassan bin Tsabit. Label perkiraan di Masjid Nabawi",
+   "src": [
+    "Wafa' al-Wafa' 4/125",
+    "Wafa' al-Wafa' 1/233"
+   ],
+   "quote": [
+    "أطم كان في موضع دار جعفر بن يحيى بباب الرحمة، وجاء جلوس النبي ﷺ في ظله",
+    "جعل نساءه وعمته صفية في أطم يقال له «فارع» وجعل معهم حسان بن ثابت"
+   ],
+   "osm": [],
+   "qid": "Q486080",
+   "lat": 24.4683,
+   "lon": 39.6108,
+   "precision": "perkiraan",
+   "near": "Bab ar-Rahmah, Masjid Nabawi"
+  },
+  {
+   "t": "Benteng Ka'b bin al-Asyraf",
+   "ar": "حصن كعب بن الأشرف",
+   "kind": "benteng",
+   "note": "Ka'b bin al-Asyraf berada di bentengnya di Bani an-Nadhir pada malam ia dibunuh; al-Waqidi: permukiman Bani an-Nadhir di arah al-Ghars. Label perkiraan di Bi'r Ghars",
+   "src": [
+    "Wafa' al-Wafa' 4/99",
+    "Wafa' al-Wafa' 1/131"
+   ],
+   "quote": [
+    "لما هتف أبو نائلة بكعب بن الأشرف وهو في حصنه ببني النضير ليلة قتله",
+    "كانت منازل بني النضير بناحية الغرس"
+   ],
+   "osm": [],
+   "qid": "Q12195487",
+   "lat": 24.4451,
+   "lon": 39.6273,
+   "precision": "perkiraan",
+   "near": "permukiman Bani an-Nadhir (arah Bi'r Ghars)"
   }
  ]
 }

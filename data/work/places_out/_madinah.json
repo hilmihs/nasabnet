@@ -244,9 +244,10 @@
    "quote": [
     "وقال: جبل بالمدينة له ذكر في المغازي والأخبار"
    ],
-   "qid": null,
-   "lat": null,
-   "lon": null
+   "qid": "Q12204739",
+   "lat": 24.4802,
+   "lon": 39.6032,
+   "precision": "tepat"
   },
   {
    "t": "Wadi al-'Aqiq",
@@ -338,14 +339,22 @@
    "kind": "harrah",
    "note": "Salah satu dari dua harrah Madinah, yaitu yang timur",
    "src": [
-    "Mu'jam al-Buldan 2/249"
+    "Mu'jam al-Buldan 2/249",
+    "Mu'jam al-Buldan 5/354",
+    "Wafa' al-Wafa' 1/152",
+    "Wafa' al-Wafa' 3/61"
    ],
    "quote": [
-    "حرة واقم: إحدى حرتي المدينة، وهي الشرقية"
+    "حرة واقم: إحدى حرتي المدينة، وهي الشرقية",
+    "وحرّة واقم: إلى جانبه نسبت إليه",
+    "وابتنى بنو عبد الأشهل أطما يقال له «واقم»",
+    "ومنها: مسجد بني عبد الأشهل من الأوس، ويقال له: مسجد واقم"
    ],
-   "qid": null,
-   "lat": null,
-   "lon": null
+   "qid": "Q20425073",
+   "lat": 24.4709,
+   "lon": 39.623,
+   "precision": "perkiraan",
+   "near": "Masjid Bani 'Abdil Asyhal (Masjid Waqim)"
   },
   {
    "t": "Harrat al-Wabarah",
@@ -453,14 +462,20 @@
    "kind": "daerah",
    "note": "Celah bukit yang menghadap Madinah, dilalui orang yang menuju Makkah; nama Jahiliah untuk tempat melepas musafir",
    "src": [
-    "Mu'jam al-Buldan 2/86"
+    "Mu'jam al-Buldan 2/86",
+    "Wafa' al-Wafa' 3/49",
+    "Wafa' al-Wafa' 3/49"
    ],
    "quote": [
-    "وهي ثنية مشرفة على المدينة يطؤها من يريد مكة"
+    "وهي ثنية مشرفة على المدينة يطؤها من يريد مكة",
+    "مسجدّا أعلى ثنية الوداع عن يسار الداخل إلى المدينة من طريق الشام",
+    "وأطلق على محل ثنية الوداع لقربه منها"
    ],
-   "qid": null,
-   "lat": null,
-   "lon": null
+   "qid": "Q18093374",
+   "lat": 24.4802,
+   "lon": 39.6032,
+   "precision": "perkiraan",
+   "near": "dekat Masjid ar-Rayah (Jabal Dzubab)"
   },
   {
    "t": "al-Hafya'",
@@ -490,8 +505,17 @@
     "والجرف: موضع على ثلاثة أميال من المدينة نحو الشام، به كانت أموال لعمر بن الخطاب ولأهل المدينة"
    ],
    "qid": null,
-   "lat": null,
-   "lon": null
+   "derive": {
+    "method": "offset",
+    "ref": "Q35484",
+    "toward": "Q13415123",
+    "dist": 3.0,
+    "unit": "mil"
+   },
+   "lat": 24.5189,
+   "lon": 39.5931,
+   "precision": "perkiraan",
+   "near": "±3 mil dari Madinah ke arah Syam"
   },
   {
    "t": "Majma' al-Asyal (Rumah–Zaghabah)",
@@ -504,9 +528,11 @@
    "quote": [
     "أقبلت قريش حتى نزلت بمجتمع الأسيال من رومة بين الجرف وزغابة"
    ],
-   "qid": null,
-   "lat": null,
-   "lon": null
+   "qid": "Q7182798",
+   "lat": 24.4929,
+   "lon": 39.5775,
+   "precision": "perkiraan",
+   "near": "dekat Bi'r Rumah"
   },
   {
    "t": "as-Sunh",
@@ -565,14 +591,18 @@
    "kind": "daerah",
    "note": "Permukiman Bani an-Nadhir; kebun kurmanya dibakar Nabi ﷺ enam bulan setelah Uhud",
    "src": [
-    "Mu'jam al-Buldan 1/512"
+    "Mu'jam al-Buldan 1/512",
+    "Wafa' al-Wafa' 1/131"
    ],
    "quote": [
-    "والبويرة: هو موضع منازل بني النضير اليهود الذين غزاهم رسول الله، ﷺ، بعد غزوة أحد بستة أشهر"
+    "والبويرة: هو موضع منازل بني النضير اليهود الذين غزاهم رسول الله، ﷺ، بعد غزوة أحد بستة أشهر",
+    "كانت منازل بني النضير بناحية الغرس"
    ],
-   "qid": null,
-   "lat": null,
-   "lon": null
+   "qid": "Q12195487",
+   "lat": 24.4451,
+   "lon": 39.6273,
+   "precision": "perkiraan",
+   "near": "permukiman Bani an-Nadhir (arah Bi'r Ghars)"
   }
  ]
 }

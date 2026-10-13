@@ -193,6 +193,70 @@
    "qid": "Q42004",
    "lat": 21.437,
    "lon": 39.8292
+  },
+  {
+   "t": "Jabal Qu'aiqi'an",
+   "ar": "قعيقعان",
+   "kind": "gunung",
+   "note": "Gunung di Makkah, di sisi baratnya, berhadapan dengan Abu Qubais (Makkah di antara keduanya); al-Marwah berada di sisi Makkah yang menghadap Qu'aiqi'an. Label perkiraan di al-Marwah",
+   "src": [
+    "Mu'jam al-Buldan 4/379",
+    "Mu'jam al-Buldan 1/80",
+    "Mu'jam al-Buldan 5/116"
+   ],
+   "quote": [
+    "وهو اسم جبل بمكة",
+    "وجهه إلى قعيقعان ومكة بينهما، أبو قبيس من شرقيّها، وقعيقعان من غربيّها",
+    "وهي في جانب مكة الذي يلي قعيقعان"
+   ],
+   "osm": [],
+   "qid": "N4589923996",
+   "lat": 21.4252,
+   "lon": 39.8271,
+   "precision": "perkiraan",
+   "near": "di sisi al-Marwah (sisi Makkah yang menghadap Qu'aiqi'an)"
+  },
+  {
+   "t": "Dzu Thuwa",
+   "ar": "ذو طوى",
+   "kind": "wadi",
+   "note": "Wadi di Makkah bawah; saat Fathu Makkah Nabi ﷺ berhenti di atas untanya di Dzu Thuwa. Label perkiraan di al-Masfalah (Makkah bawah)",
+   "src": [
+    "Mu'jam ma Ista'jam 3/896",
+    "Mu'jam ma Ista'jam 3/896",
+    "Sirah Ibnu Hisyam 1/476"
+   ],
+   "quote": [
+    "ذو طوى بفتح أوّله، مقصور منوّن، على وزن فعل: واد بمكّة",
+    "أنّ النّبيّ ﷺ لمّا انتهى إلى ذى طوى عام الفتح، وقف على راحلته",
+    "ذو طوى (مقصورا): موضع بأسفل مكة"
+   ],
+   "osm": [],
+   "qid": "R19262650",
+   "lat": 21.405,
+   "lon": 39.8223,
+   "precision": "perkiraan",
+   "near": "Makkah bawah (al-Masfalah)"
+  },
+  {
+   "t": "Tsaniyyah Kada'",
+   "ar": "كداء",
+   "kind": "gunung",
+   "note": "Celah di Makkah atas dekat al-Muhashshab; Nabi ﷺ bermalam di Dzu Thuwa lalu masuk Makkah dari atas. Label perkiraan di al-Abthah / al-Muhashshab",
+   "src": [
+    "Mu'jam al-Buldan 4/439",
+    "Mu'jam al-Buldan 4/439"
+   ],
+   "quote": [
+    "كداء، الممدودة، بأعلى مكة عند المحصّب",
+    "بات بذي طوى ثم نهض إلى أعلى مكة فدخل منها"
+   ],
+   "osm": [],
+   "qid": "W832381880",
+   "lat": 21.4416,
+   "lon": 39.837,
+   "precision": "perkiraan",
+   "near": "al-Abthah / al-Muhashshab (Makkah atas)"
   }
  ]
 }

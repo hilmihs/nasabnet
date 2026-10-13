@@ -32,7 +32,7 @@ def check(tid):
             errs.append(f"{w}: kind must be one of {sorted(KINDS)}")
         check_roles.check_item({**p, "t": p.get("note") or "", "status": "ok"}, w, errs)
         if p.get("lat") is None:
-            if p.get("lon") is not None or p.get("qid"):
+            if p.get("lon") is not None or p.get("qid") or p.get("derive"):
                 errs.append(f"{w}: lat null but lon/qid set")
             continue
         if p.get("precision") not in ("tepat", "perkiraan"):
@@ -41,6 +41,18 @@ def check(tid):
             errs.append(f"{w}: perkiraan needs near")
         if not (0 <= p["lat"] <= 45 and 20 <= p["lon"] <= 65):
             errs.append(f"{w}: coordinates outside the region")
+        if p.get("derive"):
+            # approximate point computed from the book's own description (geo.py between/offset)
+            if p.get("precision") != "perkiraan":
+                errs.append(f"{w}: a derived point must be precision perkiraan")
+            try:
+                lat, lon = geo.derive(p["derive"])
+            except SystemExit as e:
+                errs.append(f"{w}: derive: {e}")
+                continue
+            if abs(lat - p["lat"]) > 0.01 or abs(lon - p["lon"]) > 0.01:
+                errs.append(f"{w}: lat/lon differ from the derive result ({lat},{lon})")
+            continue
         if not p.get("qid"):
             errs.append(f"{w}: coordinates need the qid they came from")
             continue

@@ -72,3 +72,17 @@ Kufah, Tha'if, ar-Rabadzah) because the first pass only knew "in Makkah". For ea
    and OSM has that quarter/mountain → `perkiraan` with `near` = that quarter (closer than the city centre).
    Not found → leave it as it is. Never move a point by your own estimate.
 Change only coordinate fields; text/note/src/quote stay.
+
+## Derived points (approximate, allowed when no exact or nearby-locality point exists)
+The app owner accepts approximate points as long as they follow the book. When the page describes the location
+relative to known places, compute the point with the tool — never by eye:
+- "between X and Y" (بين … و …) → `python3 scripts/geo.py between QX QY` (midpoint; `frac` if the page says e.g.
+  "a third of the way").
+- "N mil / farsakh / barid / marhalah from X (toward Y / to the east …)" → `python3 scripts/geo.py offset QX QY N mil`
+  or `offset QX E N farsakh` (direction words: N NE E SE S SW W NW). Units: mil ≈ 1.9 km, farsakh = 3 mil, barid =
+  4 farsakh, marhalah ≈ 40 km (a day's march).
+- "in / at the edge of X" for a small known place → that place's own coordinates as `perkiraan`, near = X.
+Copy the printed `derive` object plus `lat`/`lon`, set `precision: "perkiraan"` and `near` = a short Indonesian
+explanation shown to readers, e.g. "antara Faid dan ats-Tsa'labiyyah (titik tengah)", "±3 mil timur laut Makkah".
+X and Y must be places that already have coordinates (geo.py ids); the quote must contain the description used.
+Still never place by your own estimate and never use the centre of a large region.

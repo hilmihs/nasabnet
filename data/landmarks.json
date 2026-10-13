@@ -179,7 +179,10 @@
    "note": "Gunung di Madinah, disebut dalam kisah maghazi",
    "src": [
     "Mu'jam al-Buldan 3/3"
-   ]
+   ],
+   "lat": 24.4802,
+   "lon": 39.6032,
+   "precision": "tepat"
   },
   {
    "t": "Wadi al-'Aqiq",
@@ -247,8 +250,15 @@
    "kind": "harrah",
    "note": "Salah satu dari dua harrah Madinah, yaitu yang timur",
    "src": [
-    "Mu'jam al-Buldan 2/249"
-   ]
+    "Mu'jam al-Buldan 2/249",
+    "Mu'jam al-Buldan 5/354",
+    "Wafa' al-Wafa' 1/152",
+    "Wafa' al-Wafa' 3/61"
+   ],
+   "lat": 24.4709,
+   "lon": 39.623,
+   "precision": "perkiraan",
+   "near": "Masjid Bani 'Abdil Asyhal (Masjid Waqim)"
   },
   {
    "t": "Harrat al-Wabarah",
@@ -328,8 +338,13 @@
    "kind": "daerah",
    "note": "Celah bukit yang menghadap Madinah, dilalui orang yang menuju Makkah; nama Jahiliah untuk tempat melepas musafir",
    "src": [
-    "Mu'jam al-Buldan 2/86"
-   ]
+    "Mu'jam al-Buldan 2/86",
+    "Wafa' al-Wafa' 3/49"
+   ],
+   "lat": 24.4802,
+   "lon": 39.6032,
+   "precision": "perkiraan",
+   "near": "dekat Masjid ar-Rayah (Jabal Dzubab)"
   },
   {
    "t": "al-Hafya'",
@@ -350,7 +365,11 @@
    "note": "Tempat 3 mil dari Madinah ke arah Syam; harta 'Umar bin al-Khaththab dan penduduk Madinah",
    "src": [
     "Mu'jam al-Buldan 2/128"
-   ]
+   ],
+   "lat": 24.5189,
+   "lon": 39.5931,
+   "precision": "perkiraan",
+   "near": "±3 mil dari Madinah ke arah Syam"
   },
   {
    "t": "Majma' al-Asyal (Rumah–Zaghabah)",
@@ -359,7 +378,11 @@
    "note": "Quraisy dan Ahabisy (10.000) berkemah di pertemuan aliran banjir dekat Rumah, antara al-Jurf dan Zaghabah, saat Khandaq",
    "src": [
     "Mu'jam al-Buldan 3/141"
-   ]
+   ],
+   "lat": 24.4929,
+   "lon": 39.5775,
+   "precision": "perkiraan",
+   "near": "dekat Bi'r Rumah"
   },
   {
    "t": "as-Sunh",
@@ -402,8 +425,13 @@
    "kind": "daerah",
    "note": "Permukiman Bani an-Nadhir; kebun kurmanya dibakar Nabi ﷺ enam bulan setelah Uhud",
    "src": [
-    "Mu'jam al-Buldan 1/512"
-   ]
+    "Mu'jam al-Buldan 1/512",
+    "Wafa' al-Wafa' 1/131"
+   ],
+   "lat": 24.4451,
+   "lon": 39.6273,
+   "precision": "perkiraan",
+   "near": "permukiman Bani an-Nadhir (arah Bi'r Ghars)"
   }
  ],
  "makkah": [
@@ -450,8 +478,13 @@
    "note": "Gunung di Makkah, di sisi baratnya, berhadapan dengan Abu Qubais",
    "src": [
     "Mu'jam al-Buldan 4/379",
-    "Mu'jam al-Buldan 1/80"
-   ]
+    "Mu'jam al-Buldan 1/80",
+    "Mu'jam al-Buldan 5/116"
+   ],
+   "lat": 21.4252,
+   "lon": 39.8271,
+   "precision": "perkiraan",
+   "near": "di sisi al-Marwah (sisi Makkah yang menghadap Qu'aiqi'an)"
   },
   {
    "t": "Jabal Hira' (Gua Hira')",
@@ -545,7 +578,11 @@
    "note": "Celah di Makkah bawah dekat Dzu Thuwa; Nabi ﷺ keluar dari Makkah bawah lalu kembali ke al-Muhashshab (beda dengan Kudai di jalan Yaman)",
    "src": [
     "Mu'jam al-Buldan 4/439"
-   ]
+   ],
+   "lat": 21.405,
+   "lon": 39.8223,
+   "precision": "perkiraan",
+   "near": "Makkah bawah (al-Masfalah)"
   },
   {
    "t": "al-Hajun",
@@ -593,8 +630,13 @@
    "kind": "lembah",
    "note": "Wadi di Makkah; saat Fathu Makkah Nabi ﷺ berhenti di atas untanya di Dzu Thuwa",
    "src": [
-    "Mu'jam ma Ista'jam 3/896"
-   ]
+    "Mu'jam ma Ista'jam 3/896",
+    "Sirah Ibnu Hisyam 1/476"
+   ],
+   "lat": 21.405,
+   "lon": 39.8223,
+   "precision": "perkiraan",
+   "near": "Makkah bawah (al-Masfalah)"
   },
   {
    "t": "al-Hazwarah (pasar Makkah)",
@@ -644,8 +686,13 @@
    "note": "Lembah tempat Bani Hasyim (dan Bani al-Muththalib) diboikot sejak Muharram tahun ke-7 kenabian; Isra' bermula dari sini",
    "src": [
     "Ibnu Sa'd 1/209",
-    "Ibnu Sa'd 1/214"
-   ]
+    "Ibnu Sa'd 1/214",
+    "Mu'jam al-Buldan 1/361"
+   ],
+   "lat": 21.4019,
+   "lon": 39.8397,
+   "precision": "perkiraan",
+   "near": "ujung Jabal al-Khandamah"
   },
   {
    "t": "Sumur Bidzar",
@@ -654,7 +701,11 @@
    "note": "Sumur galian Hasyim bin 'Abdi Manaf di ujung Jabal al-Khandamah, di mulut Syi'b Abi Thalib",
    "src": [
     "Mu'jam al-Buldan 1/361"
-   ]
+   ],
+   "lat": 21.4019,
+   "lon": 39.8397,
+   "precision": "perkiraan",
+   "near": "ujung Jabal al-Khandamah"
   },
   {
    "t": "Sumur Maimun",
@@ -662,8 +713,13 @@
    "kind": "sumur",
    "note": "Sumur di Makkah atas, digali Maimun al-Hadhrami (saudara al-'Ala') pada masa jahiliah",
    "src": [
-    "Mu'jam al-Buldan 1/302"
-   ]
+    "Mu'jam al-Buldan 1/302",
+    "Tarikh al-Madinah Ibnu Syabbah 1/80"
+   ],
+   "lat": 21.4581,
+   "lon": 39.8614,
+   "precision": "perkiraan",
+   "near": "berhadapan dengan Jabal Hira' (Makkah atas)"
   },
   {
    "t": "Adzakhir",
@@ -809,8 +865,13 @@
    "kind": "daerah",
    "note": "Tempat 6 mil dari Makkah; Nabi ﷺ menikahi Maimunah binti al-Harits dan berkumpul dengannya di sana, dan ia wafat di sana",
    "src": [
-    "Mu'jam al-Buldan 3/212"
-   ]
+    "Mu'jam al-Buldan 3/212",
+    "Mu'jam al-Buldan 2/49"
+   ],
+   "lat": 21.5198,
+   "lon": 39.7919,
+   "precision": "perkiraan",
+   "near": "±6 mil dari Makkah ke arah at-Tan'im (at-Tan'im di antara Makkah dan Sarif)"
   },
   {
    "t": "al-Hudaibiyah",
@@ -843,8 +904,14 @@
    "kind": "lembah",
    "note": "Tempat semarhalah dari Makkah, disebut dalam hadits",
    "src": [
-    "Mu'jam al-Buldan 5/104"
-   ]
+    "Mu'jam al-Buldan 5/104",
+    "Mu'jam ma Ista'jam 3/957",
+    "Mu'jam al-Buldan 2/49"
+   ],
+   "lat": 21.6334,
+   "lon": 39.752,
+   "precision": "perkiraan",
+   "near": "±13 mil dari Makkah (6 mil ke Sarif + 7 mil), searah at-Tan'im"
   }
  ]
 }

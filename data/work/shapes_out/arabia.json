@@ -169,7 +169,12 @@
    "note": "Dari 'Adan ke Makkah sebulan; dua jalan: menyusuri pantai (lebih jauh), dan jalan Shan'a–Sha'dah–Najran–ath-Tha'if sampai Makkah. Garis: jalan kedua",
    "src": ["Mu'jam al-Buldan 5/187"],
    "quote": ["والآخر يأخذ على طريق صنعاء وصعدة ونجران والطائف حتى ينتهي إلى مكة"],
-   "path_qids": ["Q131694", "Q2471", "Q991395", "Q27174", "Q182640", "Q5806"]}
+   "path_qids": ["Q131694", "Q2471", "Q991395", "Q27174", "Q182640", "Q5806"]},
+  {"t": "Jalur kafilah Makkah–Syam", "ar": "طريق قريش إلى الشام", "kind": "jalur",
+   "note": "Jalan kafilah dagang Quraisy: kafilah berangkat dari Makkah ke Syam melewati Dzul 'Usyairah (Bani Mudlij, di sekitar Yanbu'); al-'Ish di pesisir dekat Dzul Marwah ada di 'jalan Quraisy ke Syam'; kafilah Abu Sufyan pulang dari Syam singgah di Badr lalu menyusur pantai; Hasyim berdagang ke Syam sampai Ghazzah. Garis perkiraan Makkah–Badr–Yanbu'–al-'Ish–Ghazzah",
+   "src": ["Ibnu Sa'd 2/10", "Ibnu Sa'd 2/10", "Ibnu Sa'd 2/13", "Sirah Ibnu Hisyam 2/324", "Ibnu Sa'd 1/79"],
+   "quote": ["يعترض لعير قريش حين أبدأت إلى الشام، وكان قد جاءه الخبر بفصولها من مكة", "فبلغ ذا العشيرة، وهي لبني مدلج بناحية ينبع", "فضرب وجوه العير فساحل بها وترك بدرا يسارا", "حتى نزل العيص، من ناحية ذي المروة، على ساحل البحر، بطريق قريش التي كانوا يأخذون عليها إلى الشام", "وخرج هاشم في أصحابه إلى الشأم حتى بلغ غزة"],
+   "path_qids": ["Q5806", "Q97291232", "Q23960225", "Q110111747", "Q47492"]}
 ],
 "legend": [
   {"kind": "wadi", "t": "Wadi", "ar": "الوادي", "note": "Setiap celah di antara gunung, bukit dan tanah tinggi yang menjadi jalan atau saluran banjir",

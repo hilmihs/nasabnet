@@ -330,3 +330,10 @@ body {
   color: #6b3f2a;
   text-shadow: 0 0 3px #f1e7d0, 0 0 3px #f1e7d0;
 }
+.nm-approx-ring {
+  display: inline-flex;
+  padding: 1px;
+  border: 1.5px dashed #6b4a2b;
+  border-radius: 999px;
+  background: rgba(252, 250, 244, 0.85);
+}

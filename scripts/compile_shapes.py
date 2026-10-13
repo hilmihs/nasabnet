@@ -49,6 +49,8 @@ def main():
                 r["lines"] = [[[round(x, 4 if c == "arabia" else 5) for x in p] for p in simplify(l, tol)] for oid in f["osm"] for l in shapes.geometry(oid)]
             else:
                 r["lat"], r["lon"] = f["lat"], f["lon"]
+                if f.get("derive") or f.get("precision") == "perkiraan":
+                    r["precision"], r["near"] = "perkiraan", f.get("near", "")
             rows.append(r)
         out[c] = rows
         legend = json.loads((check_shapes.OUT / f"{c}.json").read_text()).get("legend")

@@ -82,6 +82,9 @@ export interface Shape {
   lines?: [number, number][][]
   lat?: number
   lon?: number
+  /** "perkiraan" = placed from the book's description (e.g. between two places), see `near` */
+  precision?: 'perkiraan'
+  near?: string
 }
 
 let cache: Promise<BioData> | null = null

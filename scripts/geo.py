@@ -8,8 +8,14 @@ data/work/geo_cache/, so repeated lookups cost nothing.
   python3 scripts/geo.py osm "وادي نخلة"            # OpenStreetMap (Nominatim) candidates: osm id (N…/W…/R…), type
   python3 scripts/geo.py get N123456                # one OSM object's coords
 OSM has many Hijaz wadis/mountains/wells that Wikidata lacks; its ids go into "qid" the same way.
+
+Approximate points derived from a book's own description (data/work/PLACES_SPEC.md, "Derived points"):
+  python3 scripts/geo.py between Q182640 Q5806 [0.5]     # point at fraction f from the first to the second place
+  python3 scripts/geo.py offset Q5806 NE 12 farsakh       # distance + direction from a place (mil/farsakh/barid/marhalah/km)
+  python3 scripts/geo.py offset Q5806 Q182640 3 mil       # ... in the direction of another place
 """
 import fcntl
+import math
 import hashlib
 import json
 import sys
@@ -98,6 +104,40 @@ def lookup(ids, lang="en"):
     return rows + (entities(wd, lang) if wd else [])
 
 
+UNITS_KM = {"km": 1.0, "mil": 1.9, "farsakh": 5.7, "barid": 22.8, "marhalah": 40.0}
+COMPASS = {"N": 0, "NE": 45, "E": 90, "SE": 135, "S": 180, "SW": 225, "W": 270, "NW": 315}
+
+
+def _pt(qid):
+    r = (lookup([qid]) or [{}])[0]
+    if r.get("lat") is None:
+        raise SystemExit(f"{qid}: no coordinates")
+    return r["lat"], r["lon"]
+
+
+def _bearing(a, b):
+    y = math.sin(math.radians(b[1] - a[1])) * math.cos(math.radians(b[0]))
+    x = math.cos(math.radians(a[0])) * math.sin(math.radians(b[0])) - math.sin(math.radians(a[0])) * math.cos(math.radians(b[0])) * math.cos(math.radians(b[1] - a[1]))
+    return (math.degrees(math.atan2(y, x)) + 360) % 360
+
+
+def derive(spec):
+    """{"method": "between", "refs": [q1, q2], "frac": 0.5} or
+    {"method": "offset", "ref": q, "toward": q2 | "dir": "NE", "dist": 3, "unit": "mil"} -> (lat, lon)"""
+    if spec.get("method") == "between":
+        a, b = (_pt(q) for q in spec["refs"])
+        f = float(spec.get("frac", 0.5))
+        return round(a[0] + (b[0] - a[0]) * f, 4), round(a[1] + (b[1] - a[1]) * f, 4)
+    if spec.get("method") == "offset":
+        a = _pt(spec["ref"])
+        brg = _bearing(a, _pt(spec["toward"])) if spec.get("toward") else COMPASS[spec["dir"]]
+        d = float(spec["dist"]) * UNITS_KM[spec.get("unit", "km")]
+        lat = a[0] + d / 111.32 * math.cos(math.radians(brg))
+        lon = a[1] + d / (111.32 * math.cos(math.radians(a[0]))) * math.sin(math.radians(brg))
+        return round(lat, 4), round(lon, 4)
+    raise SystemExit(f"bad derive spec {spec}")
+
+
 def main():
     cmd, arg = sys.argv[1], sys.argv[2]
     lang = sys.argv[sys.argv.index("--lang") + 1] if "--lang" in sys.argv else "ar"
@@ -116,6 +156,15 @@ def main():
             print(f"{r['qid']}\t{r['lat']},{r['lon']}\t{r['label']} — {r['desc']}")
         if not rows:
             print("no candidates")
+    elif cmd == "between":
+        spec = {"method": "between", "refs": [sys.argv[2], sys.argv[3]], "frac": float(sys.argv[4]) if len(sys.argv) > 4 else 0.5}
+        lat, lon = derive(spec)
+        print(json.dumps({"derive": spec, "lat": lat, "lon": lon}, ensure_ascii=False))
+    elif cmd == "offset":
+        ref, how, dist, unit = sys.argv[2], sys.argv[3], sys.argv[4], (sys.argv[5] if len(sys.argv) > 5 else "km")
+        spec = {"method": "offset", "ref": ref, ("dir" if how.upper() in COMPASS else "toward"): how.upper() if how.upper() in COMPASS else how, "dist": float(dist), "unit": unit}
+        lat, lon = derive(spec)
+        print(json.dumps({"derive": spec, "lat": lat, "lon": lon}, ensure_ascii=False))
     elif cmd == "get":
         for r in lookup([arg], lang):
             print(json.dumps(r, ensure_ascii=False))

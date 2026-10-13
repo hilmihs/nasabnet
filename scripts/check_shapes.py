@@ -45,6 +45,16 @@ def check(city):
                     errs.append(f"{where}: {oid} has no geometry")
                 elif not any(s - 0.3 <= p[0] <= n + 0.3 and w - 0.3 <= p[1] <= e + 0.3 for p in pts):
                     errs.append(f"{where}: {oid} lies outside the {city} area")
+        elif f.get("derive"):
+            try:
+                lat, lon = geo.derive(f["derive"])
+            except SystemExit as e:
+                errs.append(f"{where}: derive: {e}")
+                continue
+            if f.get("lat") is None or abs(lat - f["lat"]) > 0.01 or abs(lon - f["lon"]) > 0.01:
+                errs.append(f"{where}: lat/lon differ from the derive result ({lat},{lon})")
+            if not f.get("near"):
+                errs.append(f"{where}: a derived point needs near (how it was placed, in Indonesian)")
         else:
             if f.get("lat") is None or not f.get("qid"):
                 errs.append(f"{where}: no osm shape -> needs qid/lat/lon from geo.py")
